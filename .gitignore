@@ -1,0 +1,40 @@
+# Proprietary game files & dumps (never commit)
+*.iso
+*.ISO
+*.cso
+*.CSO
+*.bin
+*.BIN
+*.cpk
+*.CPK
+*.dat
+*.DAT
+*.pmf
+*.PMF
+*.prx
+*.PRX
+*.sfo
+*.SFO
+*.tm2
+*.TM2
+*.gim
+*.GIM
+*.bbn
+*.BBN
+*.w_abc
+
+# Working, extracted, and build artifacts
+work/
+build/
+original/
+gt_input/
+gt_output_mtl/
+tmp/
+*.xdelta
+
+# Python / OS
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db

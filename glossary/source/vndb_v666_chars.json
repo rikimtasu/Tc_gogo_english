@@ -1,0 +1,7106 @@
+{
+ "more": false,
+ "results": [
+  {
+   "age": null,
+   "aliases": [
+    "Altria Pendragon",
+    "アルトリア・ペンドラゴン",
+    "Artoria Pendragon"
+   ],
+   "birthday": null,
+   "blood_type": "o",
+   "description": "Saber is [url=/c15]Shirou's[/url] Servant. Loyal, independent, and reserved, Saber acts coldly but is actually suppressing her emotions to focus on her goals.\n\nHer class is considered the \"Most Outstanding\" with excellent ratings in all categories. Since her Master cannot adequately provide her with Mana, she minimizes her activity to preserve her energy. Saber is frustrated by Shirou's \"protective\" tendencies, believing his erratic and reckless behavior will jeopardize her chances of winning the Holy Grail War.\n\nHer real name is [spoiler]Artoria Pendragon/Altria Pendragon, the legendary King Arthur.[/spoiler]\n\n[From [url=http://en.wikipedia.org/wiki/List_of_Fate/stay_night_characters]Wikipedia[/url]]",
+   "id": "c33",
+   "name": "Saber",
+   "original": "セイバー",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1061",
+     "name": "Ribbon Hair Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1067",
+     "name": "Sex in Water",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i112",
+     "name": "Green",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1248",
+     "name": "Maid's Headdress",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1252",
+     "name": "Brave",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i13",
+     "name": "Ahoge",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1307",
+     "name": "Competitive",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1327",
+     "name": "Quickie Fix",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i135",
+     "name": "Rain Coat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i137",
+     "name": "Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1457",
+     "name": "Pleated Skirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1462",
+     "name": "Puffy Sleeves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1463",
+     "name": "String Ribbon Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1508",
+     "name": "Cufflink",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1573",
+     "name": "Ankle Boots",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1636",
+     "name": "Cunnilingus",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1645",
+     "name": "Vaginal Fingering",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1681",
+     "name": "Off-The-Shoulder Shirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i170",
+     "name": "Gauntlet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i172",
+     "name": "Skirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1728",
+     "name": "Greave",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i175",
+     "name": "Jeans",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1826",
+     "name": "Bathroom Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i184",
+     "name": "Pantyhose",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i189",
+     "name": "Plate Armor",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i209",
+     "name": "Longsword",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i2177",
+     "name": "Polyamory",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Hair",
+     "id": "i22",
+     "name": "Long",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i220",
+     "name": "Kuudere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2204",
+     "name": "Tassets",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2282",
+     "name": "Breastplate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i235",
+     "name": "Stoic",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i2379",
+     "name": "Invisibility",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i2382",
+     "name": "Braided Bun",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i239",
+     "name": "Pretending",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Personality",
+     "id": "i249",
+     "name": "Reserved",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i253",
+     "name": "Low Self-esteem",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Items",
+     "id": "i2565",
+     "name": "Named Weapon",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i26",
+     "name": "Shoulder-length",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i2967",
+     "name": "Group Sex of One Male and Several Females",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i3052",
+     "name": "Sabaton",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3142",
+     "name": "Superstrength",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3153",
+     "name": "Small Breasts",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i343",
+     "name": "Superhero",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i382",
+     "name": "Bodyguard",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i384",
+     "name": "Knight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i3937",
+     "name": "Unavoidable Death",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i395",
+     "name": "Based on a Fictional Character",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i401",
+     "name": "Torture",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i403",
+     "name": "Lesbian Sex",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Role",
+     "id": "i410",
+     "name": "Spirit",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i421",
+     "name": "Wounding",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Personality",
+     "id": "i425",
+     "name": "Strict",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i429",
+     "name": "Foreigner",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i431",
+     "name": "Honorable",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i433",
+     "name": "Maid's Dress",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i456",
+     "name": "Sandals",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i5",
+     "name": "Blond",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i508",
+     "name": "King",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i520",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i528",
+     "name": "Sitting Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i532",
+     "name": "Precog",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i541",
+     "name": "Tank Top",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i552",
+     "name": "Bikini",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i589",
+     "name": "Stuffed Toy",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i719",
+     "name": "Food Lover",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Items",
+     "id": "i72",
+     "name": "Shinai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i74",
+     "name": "Proactive",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i756",
+     "name": "British",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i767",
+     "name": "Swimming",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i81",
+     "name": "Soccer",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Personality",
+     "id": "i818",
+     "name": "Loyal",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i819",
+     "name": "Curse",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i82",
+     "name": "Swordsmanship",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i836",
+     "name": "Miko's Dress",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i895",
+     "name": "Corset",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i918",
+     "name": "Tsurime",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i93",
+     "name": "Missionary",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i950",
+     "name": "Blouse",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v11",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v50",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v14554",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    2,
+    3
+   ],
+   "blood_type": "o",
+   "description": "Rin is a model student and idol of [url=/c15]Shirou's[/url] school. She barely talks to other students in her school and exhibits a desire to be left alone, as exemplified by her tendency to stay on the school's rooftop, away from the rest of the students.\n\nShe is also secretly a magus and a Master in the Holy Grail War. Rin is reared as the successor to her family's magecraft, instructed by her father, Toosaka Tokiomi, to prioritize sorcery over her own interests. After her father is killed, Rin continues to perfect her sorcery, with some guidance from [url=/c42]Kotomine Kirei[/url].\n\nShe strives to earn the admiration of her peers to avoid drawing attention to her private life, even though she is secretly stingy, tomboyish, and a slacker. She is sharp, resourceful, and avidly competitive.\n\n[From [url=http://en.wikipedia.org/wiki/List_of_Fate/stay_night_characters]Wikipedia[/url]]\n\n[spoiler]She also appears in Fate/Extra CCC as a hidden, optional boss. This is not to be confused with the [url=http://vndb.org/c3529]Toosaka Rin[/url] in the same game.[/spoiler]",
+   "id": "c34",
+   "name": "Toosaka Rin",
+   "original": "遠坂 凛",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i101",
+     "name": "Cunnilingus",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i1019",
+     "name": "Wand",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i102",
+     "name": "Sixty-nine",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1053",
+     "name": "Mischievous",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1061",
+     "name": "Ribbon Hair Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1095",
+     "name": "Parted in Middle",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i110",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1231",
+     "name": "Fingerless Gloves",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Body",
+     "id": "i1243",
+     "name": "Magic Tattoo",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1248",
+     "name": "Maid's Headdress",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1307",
+     "name": "Competitive",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i132",
+     "name": "Apron",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1343",
+     "name": "Sexual Fantasy",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Role",
+     "id": "i1381",
+     "name": "School \"Go Home Club\" Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i142",
+     "name": "Pajamas",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i145",
+     "name": "Earrings",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1457",
+     "name": "Pleated Skirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i146",
+     "name": "Glasses",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1462",
+     "name": "Puffy Sleeves",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Role",
+     "id": "i1497",
+     "name": "Living Alone",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i155",
+     "name": "Jacket",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1564",
+     "name": "Haori",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1573",
+     "name": "Ankle Boots",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i163",
+     "name": "Vest",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i172",
+     "name": "Skirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1749",
+     "name": "Loafers",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i19",
+     "name": "Twin Tails",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i2177",
+     "name": "Polyamory",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Personality",
+     "id": "i218",
+     "name": "Modern Tsundere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i22",
+     "name": "Long",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i239",
+     "name": "Pretending",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i249",
+     "name": "Reserved",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i25",
+     "name": "Curtained",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i2502",
+     "name": "Temporary Protagonist",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i256",
+     "name": "Planning",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i294",
+     "name": "Full Sister",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i2967",
+     "name": "Group Sex of One Male and Several Females",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3119",
+     "name": "Eleventh Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i313",
+     "name": "Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3154",
+     "name": "Medium Breasts",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i318",
+     "name": "Ward",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i3309",
+     "name": "Sleeveless Turtleneck Dress",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i3473",
+     "name": "Nekomimi Headband",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i3622",
+     "name": "Magic/ESP Combat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i4",
+     "name": "Black",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i403",
+     "name": "Lesbian Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i406",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i421",
+     "name": "Wounding",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i433",
+     "name": "Maid's Dress",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Personality",
+     "id": "i440",
+     "name": "Arrogant",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i444",
+     "name": "Senpai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i515",
+     "name": "Kind",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i552",
+     "name": "Bikini",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i560",
+     "name": "Tail",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i592",
+     "name": "Masturbation",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i619",
+     "name": "Unarmed Fighting",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i624",
+     "name": "Rape Attempt",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i64",
+     "name": "Sweater",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i692",
+     "name": "Genius",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i73",
+     "name": "Sword",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Personality",
+     "id": "i74",
+     "name": "Proactive",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i767",
+     "name": "Swimming",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i784",
+     "name": "Handjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i789",
+     "name": "Detached Sleeves",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Role",
+     "id": "i79",
+     "name": "Magician",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i821",
+     "name": "Serious",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i836",
+     "name": "Miko's Dress",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Role",
+     "id": "i85",
+     "name": "Orphan",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i86",
+     "name": "Cooking",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i864",
+     "name": "Confident",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i865",
+     "name": "Old-fashioned",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i876",
+     "name": "Mature",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i918",
+     "name": "Tsurime",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i93",
+     "name": "Missionary",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i94",
+     "name": "Doggy Style",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i945",
+     "name": "Deepthroat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i95",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i950",
+     "name": "Blouse",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i959",
+     "name": "Older Sister",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i975",
+     "name": "Honor Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i985",
+     "name": "Towel",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i989",
+     "name": "Turtleneck Sweater",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i998",
+     "name": "Ribbon Tie",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v11",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v50",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v12369",
+     "role": "appears",
+     "spoiler": 1
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    10,
+    16
+   ],
+   "blood_type": "ab",
+   "description": "Like [url=/c804]Shou[/url], Yui has recently transferred into the school, and is not yet familiar with the many unusual aspects of the school. Yui really loves sweet things (especially doughnuts!) and samurai. She gets on well with everyone and is always very upbeat. She has a huge appetite (like Shou) but she gets embarrassed about it because she’s a girl.\n\n[From [url=http://en.wikipedia.org/wiki/Flyable_Heart]Wikipedia[/url] and [url=http://liemyx.wordpress.com/2011/05/24/flyable-heart-review/]Liemyx's review[/url]]",
+   "id": "c805",
+   "name": "Inaba Yui",
+   "original": "稲羽 結衣",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i6",
+     "name": "Brown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i13",
+     "name": "Ahoge",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i26",
+     "name": "Shoulder-length",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i68",
+     "name": "Dress Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i86",
+     "name": "Cooking",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i97",
+     "name": "Standing Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i102",
+     "name": "Sixty-nine",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i115",
+     "name": "Red",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i153",
+     "name": "Kemonomimi Headband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i184",
+     "name": "Pantyhose",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i246",
+     "name": "Carefree",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i248",
+     "name": "Outgoing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i251",
+     "name": "Friendly",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i296",
+     "name": "Twin Sister",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i346",
+     "name": "Singing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i496",
+     "name": "Seventh Posture",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i520",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i560",
+     "name": "Tail",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i633",
+     "name": "Transfer Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i661",
+     "name": "Hairpin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i668",
+     "name": "Incest",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i696",
+     "name": "Time Travel",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i711",
+     "name": "Dimensional Travel",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Personality",
+     "id": "i719",
+     "name": "Food Lover",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i726",
+     "name": "Hair Flower",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i764",
+     "name": "Bow Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i765",
+     "name": "Cuffs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i777",
+     "name": "Popular",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i799",
+     "name": "Shopping",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i863",
+     "name": "Sweets Lover",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i970",
+     "name": "Armband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i998",
+     "name": "Ribbon Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1091",
+     "name": "Parted to Side",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1101",
+     "name": "Strapless Leotard",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1104",
+     "name": "Outdoor Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1108",
+     "name": "Tie Pin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1177",
+     "name": "Bunny Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1195",
+     "name": "Food Play",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1254",
+     "name": "Selfcest",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1305",
+     "name": "Orange",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1327",
+     "name": "Quickie Fix",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1457",
+     "name": "Pleated Skirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1645",
+     "name": "Vaginal Fingering",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3119",
+     "name": "Eleventh Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v1179",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5575",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v8175",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    2,
+    29
+   ],
+   "blood_type": "o",
+   "description": "Suzuno is a mysterious girl who claims she is a spirit not visible to human eyes. She’s quite childish overall but can be mature at times. Like [url=/c807]Sakurako[/url], she is soft-spoken. She also has a weak body and is clumsy. \n\n[From [url=http://en.wikipedia.org/wiki/Flyable_Heart]Wikipedia[/url], [url=http://calamitousintents.wordpress.com/2010/12/11/flyable-heart-review/]Calamitous Intent's review[/url], and [url=http://liemyx.wordpress.com/2011/05/24/flyable-heart-review/]Liemyx's review[/url]]",
+   "id": "c814",
+   "name": "Yukishiro Suzuno",
+   "original": "雪代 すずの",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i5",
+     "name": "Blond",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i11",
+     "name": "White",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i21",
+     "name": "Hime Cut",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i26",
+     "name": "Shoulder-length",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i68",
+     "name": "Dress Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i91",
+     "name": "Amnesia",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i108",
+     "name": "Amber",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i137",
+     "name": "Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i502",
+     "name": "High School Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i525",
+     "name": "Clumsy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i663",
+     "name": "Strange",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i696",
+     "name": "Time Travel",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i711",
+     "name": "Dimensional Travel",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i718",
+     "name": "Ghost",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i860",
+     "name": "Cape",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i891",
+     "name": "Immature",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i968",
+     "name": "Blunt Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i971",
+     "name": "Bracelet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i998",
+     "name": "Ribbon Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1034",
+     "name": "Mysterious",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1091",
+     "name": "Parted to Side",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1103",
+     "name": "Hair Beads",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1108",
+     "name": "Tie Pin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i1167",
+     "name": "Weakness",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1300",
+     "name": "Flustered",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i2017",
+     "name": "Bridal Carry",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i2030",
+     "name": "Fortune Teller",
+     "spoiler": 1
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v1179",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5575",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v8175",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    9,
+    29
+   ],
+   "blood_type": "b",
+   "description": "Feena is the princess of the Kingdom of Sphere on the moon. In order to become more knowledgeable about Earth and be able to follow in her mother's footsteps, she comes to Earth in a homestay with the family of the deputy librarian, [url=/c1357]Hozumi Sayaka[/url]. Since she was very young, she has always wanted to know more about the Earth and some day she hopes to surpass her mother in trying to bridge the gap between the Earth and the Kingdom of Sphere. She is well educated in terms of literature and science and has great sword skills.\n\n[Edited from [url=http://en.wikipedia.org/wiki/Yoake_Mae_yori_Ruriiro_na]Wikipedia[/url] & [url=http://www.getchu.com/soft.phtml?id=152981&gc=gc]Getchu[/url]]",
+   "id": "c1356",
+   "name": "Feena Fam Earthlight",
+   "original": "フィーナ・ファム・アーシュライト",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i7",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i22",
+     "name": "Long",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i76",
+     "name": "Hard Worker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i82",
+     "name": "Swordsmanship",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i86",
+     "name": "Cooking",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i93",
+     "name": "Missionary",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i94",
+     "name": "Doggy Style",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i95",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i97",
+     "name": "Standing Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i112",
+     "name": "Green",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i118",
+     "name": "Kid",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Body",
+     "id": "i119",
+     "name": "Young-adult",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i137",
+     "name": "Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i142",
+     "name": "Pajamas",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i152",
+     "name": "Headband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i167",
+     "name": "Arm Warmers",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i168",
+     "name": "Evening Gloves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i178",
+     "name": "Sport Bloomers",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i251",
+     "name": "Friendly",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i283",
+     "name": "Wife",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i285",
+     "name": "Betrothed",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i290",
+     "name": "Daughter",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i309",
+     "name": "Roommate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i311",
+     "name": "Girlfriend",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Role",
+     "id": "i314",
+     "name": "Childhood Friend",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Role",
+     "id": "i338",
+     "name": "Queen Regnant",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i341",
+     "name": "Princess",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i372",
+     "name": "Waitstaff",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i405",
+     "name": "Cleaning",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i429",
+     "name": "Foreigner",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i442",
+     "name": "Schoolmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i444",
+     "name": "Senpai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i470",
+     "name": "Refined",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i479",
+     "name": "Extraterrestrial",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i502",
+     "name": "High School Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i550",
+     "name": "Wedding Dress",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i552",
+     "name": "Bikini",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i579",
+     "name": "Kendo",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i586",
+     "name": "Crown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i628",
+     "name": "Naive",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i633",
+     "name": "Transfer Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i700",
+     "name": "Religion",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i716",
+     "name": "Smart",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i767",
+     "name": "Swimming",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i928",
+     "name": "Half-orphan",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i933",
+     "name": "Sports Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i962",
+     "name": "Cravat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i978",
+     "name": "Straw Hat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1079",
+     "name": "Boobs on Glass",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1095",
+     "name": "Parted in Middle",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1302",
+     "name": "Insightful",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1327",
+     "name": "Quickie Fix",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i1362",
+     "name": "Wedding",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i1396",
+     "name": "Duel",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1568",
+     "name": "Choker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1609",
+     "name": "Sun Hat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1619",
+     "name": "Waitstaff Uniform",
+     "spoiler": 1
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1636",
+     "name": "Cunnilingus",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1700",
+     "name": "Butterfly",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1826",
+     "name": "Bathroom Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1851",
+     "name": "Sex at School",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v232",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v1398",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "appears",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "Shin",
+    "魔王様",
+    "Maou-sama",
+    "Kaichou-san",
+    "Kaichou-han (by Akane)"
+   ],
+   "birthday": [
+    11,
+    17
+   ],
+   "blood_type": "a",
+   "description": "Favorite food: Milk, beefsteak (has never eaten them though)\nDisliked food: Crab\nHobbies: Home gardening, DIY stuff, playing with NES\nSkills: Saving money\n\nThe student council president of Ryuusaki Academy and also king of demons (Maou). He became student council president through sheer dumb luck, out of a sole desire for free food (which didn't end up coming true for him).\n\nIn battle, Shin use dark element and at his first form, titled Vicious Lancer, he has average status except for potential which is maxed out. In his second form, titled the \"Ancient Overlord\", all of his stats increase as well as his hair color changes to white.",
+   "id": "c3392",
+   "name": "Sakura Synn",
+   "original": "咲良 シン",
+   "sex": [
+    "m",
+    "m"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i6",
+     "name": "Brown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i11",
+     "name": "White",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i29",
+     "name": "Short",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i76",
+     "name": "Hard Worker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i86",
+     "name": "Cooking",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i101",
+     "name": "Cunnilingus",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i102",
+     "name": "Sixty-nine",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i115",
+     "name": "Red",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i226",
+     "name": "Boku",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i314",
+     "name": "Childhood Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i328",
+     "name": "Student Council President",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i444",
+     "name": "Senpai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i472",
+     "name": "Poor",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i494",
+     "name": "Henshin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i499",
+     "name": "Maou",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i515",
+     "name": "Kind",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1627",
+     "name": "Boobjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1637",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1638",
+     "name": "Twin Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1689",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1692",
+     "name": "Doggy Style",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i2562",
+     "name": "Opposite Gender Voiced",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3119",
+     "name": "Eleventh Grader",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "main",
+     "spoiler": 0
+    },
+    {
+     "id": "v1478",
+     "role": "main",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "main",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "ソバ",
+    "Soba",
+    "Kaikei-san",
+    "Sword Master"
+   ],
+   "birthday": [
+    7,
+    7
+   ],
+   "blood_type": "o",
+   "description": "Precise height: 160.5 cm\nFavorite food: Any kind of sweets, soba noodles\nDisliked food: Dairy foods (except for sweets)\nHobbies: Eating sweets\nSkills: Soba, abascus, assesment of sweets\n\n2nd-year student of Ryuusei Academy and [url=/c3392]Shin's[/url] lively childhood friend. Nanaka actually has a crush on Shin, and has been following him around since little, as far as enrolling into the same school and joining the student council for such reason. She has an affection towards sweet confectioneries, and is the president of the sweets club at school as well as the accountant of the student council. She holds a grudge against the president of the wagashi Club Akane Misasagi. While the sweets club receives no budget from the school and not even recognized as a proper club, Misasagi's wagashi club have \"wagashi for thought\" and was recognized as a club (though only in name). \n\nIn battle, Nanaka uses fire-based attacks, and is the powerhouse of the original group. In her first form, her power is on par with Shin's upgraded form, but her own upgraded form increases her power to go even further beyond that. Her speed and charges are average, with her support being below average in her first form, and average in her second. She's not the best in unisons, but in exchange, she can deal substantial damage even if she attacks solo.",
+   "id": "c3395",
+   "name": "Yuugiri Nanaka",
+   "original": "夕霧 ナナカ",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i8",
+     "name": "Pink",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i18",
+     "name": "Ponytail",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i22",
+     "name": "Long",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i73",
+     "name": "Sword",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i86",
+     "name": "Cooking",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i94",
+     "name": "Doggy Style",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i95",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i102",
+     "name": "Sixty-nine",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i115",
+     "name": "Red",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i181",
+     "name": "Sports Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i224",
+     "name": "Deredere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i246",
+     "name": "Carefree",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i314",
+     "name": "Childhood Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i316",
+     "name": "Rival",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i342",
+     "name": "Mahou Shoujo",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i406",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i494",
+     "name": "Henshin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i495",
+     "name": "Boobjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i498",
+     "name": "Demon",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i520",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i523",
+     "name": "Backpack",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i539",
+     "name": "Military Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i661",
+     "name": "Hairpin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i727",
+     "name": "Pink",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i860",
+     "name": "Cape",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i863",
+     "name": "Sweets Lover",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1057",
+     "name": "Atashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1061",
+     "name": "Ribbon Hair Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1072",
+     "name": "Spats",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1091",
+     "name": "Parted to Side",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1573",
+     "name": "Ankle Boots",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i2394",
+     "name": "School Cooking Club Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i2776",
+     "name": "Student Council Treasurer",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i2826",
+     "name": "Unofficial School Club President",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3119",
+     "name": "Eleventh Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v1478",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    12,
+    25
+   ],
+   "blood_type": "b",
+   "description": "Favorite food: Hamburger, curry, children's lunches (and the bonuses that come with them)\nDisliked food: Carrots, peppers (is training to be able to eat them!)\nHobbies: Saving money, volunteer work\nSkills: Good handwriting\n\n1st-year student and the student council's secretary. Despite her attempts to hide that she's actually an angel, it is generally known to the other characters, unknown to her. Contradicting to her looks and her voice, Lolotte is a real foul-mouth thorough without any malicious intention. She is always carrying “Tontoro”, a piggy bank filled with 500 yen, and always breaking it. She also carries a guidebook around, the guidebook seems to have everything in context (although the instructions are often wrong). Rosenkreuz family is one of the Ryuusei City’s multimillionaires. She commutes by car, and her butler Riesling never leaves her side outside the school grounds. \n\nIn battle she uses water element and her power is not strong, however her speed is unpredictable as well and decent charge speed, making her support in some battles. Her title is Elemental Muse.",
+   "id": "c3405",
+   "name": "Lolotte Rozenkrutz",
+   "original": "ロロット・ローゼンクロイツ",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i5",
+     "name": "Blond",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i94",
+     "name": "Doggy Style",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i95",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i110",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i152",
+     "name": "Headband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i229",
+     "name": "Airhead",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i342",
+     "name": "Mahou Shoujo",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i441",
+     "name": "Altruistic",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i445",
+     "name": "Kouhai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i494",
+     "name": "Henshin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i515",
+     "name": "Kind",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i525",
+     "name": "Clumsy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i633",
+     "name": "Transfer Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i789",
+     "name": "Detached Sleeves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i854",
+     "name": "Angel",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1010",
+     "name": "Clothing with Ribbons",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1060",
+     "name": "Ribbon Hair Accessory",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1095",
+     "name": "Parted in Middle",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1262",
+     "name": "Lolita Hairband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i1337",
+     "name": "Flying",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1509",
+     "name": "Blunt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1673",
+     "name": "Over The Knee Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i1727",
+     "name": "Ojousama",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1745",
+     "name": "Mary Jane",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i2789",
+     "name": "Student Council Secretary",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3118",
+     "name": "Tenth Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v1478",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "ヒス",
+    "Hiss"
+   ],
+   "birthday": [
+    2,
+    3
+   ],
+   "blood_type": "a",
+   "description": "Favorite food: Tea (she also likes curry rice and hamburgers)\nHated food: Carrots, green peppers (she can eat them if she tries)\nHobbies: Collecting cute stuff, writing poems\nSkills: Singing, writing poems\n\n2nd-year student and  the student council vice-president. Misa thinks of [url=/c3392]Shin[/url] as a rival, and always challenges him despite always ending up in second, falling behind him. She's especially annoyed about losing the election which Shin won by sheer luck.\n\nIn battle, Misa uses the lighting element, which is why she has the fastest attack speed in the game. This is compensated by her slow charge speed. However, her power is on par with Lolotte's. While her support is average, despite of it Misa's fast speed and multi-hit extra attacks make her a good relentless combo attacker, but not one to rely on for high damage attacks. Her title is Storm Sagittarius.",
+   "id": "c3803",
+   "name": "Misa Brigitta Cristelis",
+   "original": "聖沙・ブリジッタ・クリステレス",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i5",
+     "name": "Blond",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i19",
+     "name": "Twin Tails",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i94",
+     "name": "Doggy Style",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i102",
+     "name": "Sixty-nine",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i112",
+     "name": "Green",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i199",
+     "name": "Bow",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i311",
+     "name": "Girlfriend",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i316",
+     "name": "Rival",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i324",
+     "name": "Student Club President",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i327",
+     "name": "Student Council Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i342",
+     "name": "Mahou Shoujo",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i365",
+     "name": "Classic Tsundere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i442",
+     "name": "Schoolmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i490",
+     "name": "Collar",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i494",
+     "name": "Henshin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i517",
+     "name": "Beret",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i521",
+     "name": "Court Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i895",
+     "name": "Corset",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i970",
+     "name": "Armband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1057",
+     "name": "Atashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1061",
+     "name": "Ribbon Hair Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1307",
+     "name": "Competitive",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1573",
+     "name": "Ankle Boots",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1636",
+     "name": "Cunnilingus",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1994",
+     "name": "Slit Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2604",
+     "name": "Feather Accessory",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3119",
+     "name": "Eleventh Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v1478",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "Senpai-san",
+    "Paladienne"
+   ],
+   "birthday": [
+    4,
+    1
+   ],
+   "blood_type": "o",
+   "description": "Favorite food: Wagashi (especially kashiwa mochi)\nDisliked food: Spicy food\nHobbies: Picture diaries, surfing through internet forums\nSkills: Memory games, abstract paintings\n\n3rd-year student of Ryuusei Academy. She is member of wagashi club and also a former student council member. Ria serves as an adviser to the student council due to her past experience as the student council president. Ria is a clumsy and soft-spoken senpai who care for the other. She also admires Maou. She has an older sister named [url=/c3809]Herena[/url].\n\nIn battle, Ria uses Light-Based attacks and has one of the slowest attack speeds in the game. To make up for this shortcoming, she also has one of the fastest charge speeds. Her support is also average, and her extra attacks have good defensive properties that suit her well.",
+   "id": "c3804",
+   "name": "Kujou Ria",
+   "original": "九浄 リア",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i7",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i19",
+     "name": "Twin Tails",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i95",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i108",
+     "name": "Amber",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i168",
+     "name": "Evening Gloves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i184",
+     "name": "Pantyhose",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i294",
+     "name": "Full Sister",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i323",
+     "name": "Student Club Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i327",
+     "name": "Student Council Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i342",
+     "name": "Mahou Shoujo",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i444",
+     "name": "Senpai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i471",
+     "name": "Wealthy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i494",
+     "name": "Henshin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i495",
+     "name": "Boobjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i515",
+     "name": "Kind",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i521",
+     "name": "Court Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i525",
+     "name": "Clumsy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i586",
+     "name": "Crown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i860",
+     "name": "Cape",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i958",
+     "name": "Younger Sister",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i986",
+     "name": "Tube Top",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1061",
+     "name": "Ribbon Hair Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1745",
+     "name": "Mary Jane",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3120",
+     "name": "Twelfth Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3155",
+     "name": "Big Breasts",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v1478",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    9,
+    12
+   ],
+   "blood_type": null,
+   "description": "Favorite food: Ramen (also cup noodles)\nDisliked food: Spaghetti (because it's so hard to eat)\nHobbies: Camera\nSkills: Taking pictures, being patient\n\n2nd-year student who transferred into [url=/c3392]Shin's[/url] class. Azel is a very quiet girl and has a cold attitude towards others. She does not participate in any school activities, and like Shin, comes from a poor family. Has an interest in photography. Like [url=/c3405]Lolotte[/url] and [url=/c5295]Amyrina[/url], she is also an angel. She is also a boss character in the 1st game and later playable in the PSP version.\n\nAzel has impressive stats, scoring above-average in all fields except support, which is her strongest stat. The only ones who can compete with her are Shin's maou form (which loses out to her in terms of support), Macaron (who pretty much ties in all fields), and Bylous (who beats her in terms of power, but Bylous still has crap support). Azel uses light attacks similar to [url=/c3804]Ria's[/url], but which are far more powerful in terms of defense, making her the ultimate defensive support character. Her title is \"Reveal Author\".",
+   "id": "c3806",
+   "name": "Azel",
+   "original": "アゼル",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i10",
+     "name": "Red",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i29",
+     "name": "Short",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i94",
+     "name": "Doggy Style",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i110",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i146",
+     "name": "Glasses",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i147",
+     "name": "Hat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i153",
+     "name": "Kemonomimi Headband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i220",
+     "name": "Kuudere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i235",
+     "name": "Stoic",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i342",
+     "name": "Mahou Shoujo",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i444",
+     "name": "Senpai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i468",
+     "name": "Cold-hearted",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i472",
+     "name": "Poor",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i517",
+     "name": "Beret",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i551",
+     "name": "Swimsuit",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i560",
+     "name": "Tail",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i633",
+     "name": "Transfer Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i661",
+     "name": "Hairpin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i761",
+     "name": "Camera",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i833",
+     "name": "Photography",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i854",
+     "name": "Angel",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1129",
+     "name": "Unusual Hair Ornaments",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1379",
+     "name": "Taciturn",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1673",
+     "name": "Over The Knee Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i2595",
+     "name": "Religious Extremist",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3119",
+     "name": "Eleventh Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3153",
+     "name": "Small Breasts",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v1478",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    6,
+    6
+   ],
+   "blood_type": null,
+   "description": "Favorite food: Rice balls, sandwiches\nDisliked food: Anchovy\nHobbies: Reading, online shopping, creative cuisine\nSkills: Cooking, brewing tea\n\nA librarian working at Ryuusei Academy and [url=/c3809]Helena's[/url] friend. She was forced by Helena to look like a maid. Melilot takes everything seriously, making her stubborn and a character with many mysteries. Helena often fools around with her due to her stubborn personality. She is a side character and an assist in Twinkle Crusaders, but was later promoted as heroine and playable character in Twinkle Crusaders Go Go!\n\nDespite her looks, she is one of the strongest opponents in the game, seconded on Bylous and Zortia. Her element usage is dark and one of the tricky skills is her Shadow Reactor/(EX Unison) which is a broken attack that gathers her other non-unison party members, and places them in a unison after her turn. Used correctly, this could be devastating for the opponent. To add to its brokenness, this is Melilot's assist attack, of all things. Meaning, yes, if she throws this in after Arcane Meteor Stream, Shin's EX attack, you can expect another easy unison right after. Her title is Living Lexicon -7th General-.",
+   "id": "c3808",
+   "name": "Melilot",
+   "original": "メリロット",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i9",
+     "name": "Violet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i29",
+     "name": "Short",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i86",
+     "name": "Cooking",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i105",
+     "name": "Group Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i115",
+     "name": "Red",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i119",
+     "name": "Young-adult",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i220",
+     "name": "Kuudere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i313",
+     "name": "Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i355",
+     "name": "Maid",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i360",
+     "name": "Librarian",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i433",
+     "name": "Maid's Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i495",
+     "name": "Boobjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i498",
+     "name": "Demon",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i521",
+     "name": "Court Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i551",
+     "name": "Swimsuit",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i575",
+     "name": "Stubborn",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i590",
+     "name": "Book",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i592",
+     "name": "Masturbation",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i594",
+     "name": "Twin Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i720",
+     "name": "Hikikomori",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i723",
+     "name": "Big Breast Sizes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i821",
+     "name": "Serious",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i998",
+     "name": "Ribbon Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1248",
+     "name": "Maid's Headdress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i1269",
+     "name": "Reading",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1322",
+     "name": "Bookworm",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i1414",
+     "name": "Jitome",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1462",
+     "name": "Puffy Sleeves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    4,
+    3
+   ],
+   "blood_type": "o",
+   "description": "Favorite food: Abalone, alcohol\nDisliked food: Onions\nHobbies: Watching movies\nSkills: Coming up with pranks\n\n[url=/c3804]Ria's[/url] older sister, one of [url=/c3808]Melilot's[/url] best friends, and Ryuusei Academy's principal. She is a carefree person who has a habit of massaging Ria's breasts and teasing other people. Despite this, she understands what the group is going through, and is always supporting [url=/c3392]Shin[/url] from behind by looking after him. And Ria by massaging her breasts.\n\nShe is Ria's Assist in battle. She is capable of inflicting mid-damage attack and decreasing Stun Star by 2.",
+   "id": "c3809",
+   "name": "Kujou Helena",
+   "original": "九浄 ヘレナ",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1053",
+     "name": "Mischievous",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i108",
+     "name": "Amber",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i119",
+     "name": "Young-adult",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1302",
+     "name": "Insightful",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i137",
+     "name": "Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1573",
+     "name": "Ankle Boots",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i160",
+     "name": "Shirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i246",
+     "name": "Carefree",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i25",
+     "name": "Curtained",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i262",
+     "name": "Drinking",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i294",
+     "name": "Full Sister",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3127",
+     "name": "Legwear Footjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i313",
+     "name": "Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i406",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i571",
+     "name": "Principal",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i606",
+     "name": "Footjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i7",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i723",
+     "name": "Big Breast Sizes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i813",
+     "name": "High Heels",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i860",
+     "name": "Cape",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i959",
+     "name": "Older Sister",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "ぶぶづけ",
+    "Bubuzuke (by Nanaka)"
+   ],
+   "birthday": [
+    1,
+    15
+   ],
+   "blood_type": "a",
+   "description": "Ria's classmate [spoiler]and she is a daughter of Misasagi Financial Group President. Sometimes, Akane gets a little jealous when seeing Ria having fun while working in student council[/spoiler]. She is the president of the wagashi club and also often argues with Nanaka. Akane can make Nanaka lose very easy with her speaking.",
+   "id": "c3865",
+   "name": "Misasagi Akane",
+   "original": "御陵 彩錦",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i6",
+     "name": "Brown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i13",
+     "name": "Ahoge",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i184",
+     "name": "Pantyhose",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i316",
+     "name": "Rival",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i324",
+     "name": "Student Club President",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i406",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i444",
+     "name": "Senpai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i470",
+     "name": "Refined",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i600",
+     "name": "Hand Fan",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i805",
+     "name": "Kansai-ben",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i927",
+     "name": "Teal",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1278",
+     "name": "Uchi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1436",
+     "name": "Multiple Braids",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i2401",
+     "name": "Tiny Braid",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3120",
+     "name": "Twelfth Grader",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "さっちん",
+    "Sacchin"
+   ],
+   "birthday": [
+    8,
+    5
+   ],
+   "blood_type": "b",
+   "description": "Close friend of Nanaka. Nickname “Sacchin”. A very positive personality, just talking with her will make one feel lazy, but surprisingly there is a dark side to her. One of the few member of Sweets Association, however she often pisses Nanaka off since she just likes anything sweet in general, including Japanese treats. Has a poor academic grade, but has a insight on life. She has a sharp sense on relationships, when Synn chose other people she will comfort Nanaka.",
+   "id": "c3866",
+   "name": "Takahashi Sachiho",
+   "original": "高橋 サチホ",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i19",
+     "name": "Twin Tails",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i26",
+     "name": "Shoulder-length",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i29",
+     "name": "Short",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i78",
+     "name": "Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i108",
+     "name": "Amber",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i246",
+     "name": "Carefree",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i323",
+     "name": "Student Club Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i502",
+     "name": "High School Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i863",
+     "name": "Sweets Lover",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i964",
+     "name": "Fang",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i974",
+     "name": "Bad Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1002",
+     "name": "Cross Design",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1061",
+     "name": "Ribbon Hair Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1272",
+     "name": "Ankle Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1302",
+     "name": "Insightful",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1305",
+     "name": "Orange",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "Naginata no Musume"
+   ],
+   "birthday": [
+    10,
+    1
+   ],
+   "blood_type": "b",
+   "description": "Misa's cousin, she is the shrine maiden of the Asukai Shrine. Like the twinkle crusaders, she too hunts demons due to her role, but she is somewhat reckless while hunting and cause to destroy a part of street while Synn and Misa were passing by.\n\nShe is Misa Assist in battle. Her attack is very low but have an effect that raise party attack power.",
+   "id": "c3867",
+   "name": "Asukai Shio",
+   "original": "飛鳥井 紫央",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i9",
+     "name": "Violet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i18",
+     "name": "Ponytail",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i20",
+     "name": "Bob Cut",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i29",
+     "name": "Short",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i78",
+     "name": "Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i107",
+     "name": "Hotblooded",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i114",
+     "name": "Violet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i181",
+     "name": "Sports Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i183",
+     "name": "Knee-high Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i325",
+     "name": "School Sports Club Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i332",
+     "name": "Miko",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i431",
+     "name": "Honorable",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i502",
+     "name": "High School Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i617",
+     "name": "Word Repetition",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i658",
+     "name": "Naginata",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i836",
+     "name": "Miko's Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i964",
+     "name": "Fang",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1060",
+     "name": "Ribbon Hair Accessory",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i2125",
+     "name": "Soregashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2821",
+     "name": "Capelet",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "チビスケ",
+    "Chibisuke"
+   ],
+   "birthday": [
+    3,
+    20
+   ],
+   "blood_type": null,
+   "description": "A demon who works hard every day in order to become the next Maou. She is always wearing her pink, handmade bear cloak because she is very vulnerable to cold.",
+   "id": "c5291",
+   "name": "Macaroon",
+   "original": "マカロン",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i9",
+     "name": "Violet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i26",
+     "name": "Shoulder-length",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i76",
+     "name": "Hard Worker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i115",
+     "name": "Red",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i134",
+     "name": "Coat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i160",
+     "name": "Shirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i166",
+     "name": "Cloak",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i246",
+     "name": "Carefree",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i498",
+     "name": "Demon",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i586",
+     "name": "Crown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i602",
+     "name": "Greatsword",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i722",
+     "name": "Small Breast Sizes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i994",
+     "name": "Part-time Worker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i998",
+     "name": "Ribbon Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1457",
+     "name": "Pleated Skirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2201",
+     "name": "Kemonomimi Hood",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    11,
+    29
+   ],
+   "blood_type": null,
+   "description": "Favorite food: Spicy chinese food\nHobbies: Exploring, choir activities\nSkills: Singing, studying\n\n1st-year student of Ryuusaki Academy who transferred into class 1-C. Like [url=/c3405]Lolotte[/url] and [url=/c3806]Azel[/url], she is also an angel, and also happens to be one of Lolotte's best friends. Amyrina is part of the school's choir, and in order to have a voice like an angel's, she practices hard every day.",
+   "id": "c5295",
+   "name": "Amyrina",
+   "original": "エミリナ",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i11",
+     "name": "White",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i24",
+     "name": "Wavy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i31",
+     "name": "Kemonomimi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i76",
+     "name": "Hard Worker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i95",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i110",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i141",
+     "name": "Kimono",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i183",
+     "name": "Knee-high Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i229",
+     "name": "Airhead",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i346",
+     "name": "Singing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i445",
+     "name": "Kouhai",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i494",
+     "name": "Henshin",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i617",
+     "name": "Word Repetition",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i633",
+     "name": "Transfer Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i854",
+     "name": "Angel",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i962",
+     "name": "Cravat",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i1444",
+     "name": "School Band Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2020",
+     "name": "Lace-up Shoes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3118",
+     "name": "Tenth Grader",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    },
+    {
+     "id": "v1478",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": null,
+   "blood_type": null,
+   "description": "One of the Temple Knights sent from the Divine City Long Birth with the mission of protecting the several Artifacts that will be in exposition in Ert'Aria. Chelsea herself also has the additional mission of looking for the cause of a predicted disaster. Friend of Leicester's and Carina's parents.\nHas a very strong duty sense and superb skill, but also terrible sense of direction, with almost 100% of probabilities of getting lost if alone. Also tends to use sword metaphors when talking.",
+   "id": "c9018",
+   "name": "Chelsea Arcot",
+   "original": "チェルシー・アーコット",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i9",
+     "name": "Violet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i73",
+     "name": "Sword",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i82",
+     "name": "Swordsmanship",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i93",
+     "name": "Missionary",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i95",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i97",
+     "name": "Standing Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i102",
+     "name": "Sixty-nine",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i108",
+     "name": "Amber",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i119",
+     "name": "Young-adult",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i382",
+     "name": "Bodyguard",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i384",
+     "name": "Knight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i525",
+     "name": "Clumsy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i714",
+     "name": "Non-human",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Personality",
+     "id": "i725",
+     "name": "Protective",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i731",
+     "name": "Younger Appearance",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i784",
+     "name": "Handjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i822",
+     "name": "Honest",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i858",
+     "name": "Immortal",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1005",
+     "name": "Pendant Earrings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i3257",
+     "name": "No Sense of Direction",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v1337",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v4652",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "appears",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "Palmtop Tiger"
+   ],
+   "birthday": null,
+   "blood_type": "a",
+   "description": "The main heroine of Toradora! and the classmate of Ryuuji. She has a well-regulated and beautiful appearance though lacking capability of stomaching company of others. Due to her name, tendency to often snap at others in brutal ways and her short stature, she is given the nickname \"Palmtop Tiger\".  Essentially, Taiga gets upset easily and is also brutally honest with others, typically when she is lashing out at someone. Due to her cute looks (described as a doll by Ryuuji), she often gets confessions of love by boys, but she turns down every one of them. Despite coming from a well-to-do family, her life with them is very difficult because of various problems. She had lived with her father and step-mother and constantly fought with her parents, but she moved out and since then has taken to living on her own. Since she came from a privileged household, she does not know how to do any domestic chores.",
+   "id": "c16817",
+   "name": "Aisaka Taiga",
+   "original": "逢坂 大河",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Clothes",
+     "id": "i1010",
+     "name": "Clothing with Ribbons",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1146",
+     "name": "Emotional",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i118",
+     "name": "Kid",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1197",
+     "name": "School Swimsuit",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1330",
+     "name": "Whimsical",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i137",
+     "name": "Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1461",
+     "name": "Pinafore Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1462",
+     "name": "Puffy Sleeves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1463",
+     "name": "String Ribbon Tie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1509",
+     "name": "Blunt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i156",
+     "name": "Scarf",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i160",
+     "name": "Shirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1617",
+     "name": "Childishly Violent",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i169",
+     "name": "Gloves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i183",
+     "name": "Knee-high Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i1916",
+     "name": "Piggyback Ride",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i22",
+     "name": "Long",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i24",
+     "name": "Wavy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i3119",
+     "name": "Eleventh Grader",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i313",
+     "name": "Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3152",
+     "name": "Flat Chest",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3348",
+     "name": "Short",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i365",
+     "name": "Classic Tsundere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i443",
+     "name": "Classmate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i453",
+     "name": "Chinese Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i469",
+     "name": "Short-tempered",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i471",
+     "name": "Wealthy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i478",
+     "name": "Mobile Phone",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i484",
+     "name": "Pregnancy",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i520",
+     "name": "Teasing",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i53",
+     "name": "Brown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i534",
+     "name": "Rude",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i547",
+     "name": "Jumpsuit",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i554",
+     "name": "One Piece Swimsuit",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i6",
+     "name": "Brown",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i652",
+     "name": "Bokken",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i660",
+     "name": "Helmet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i731",
+     "name": "Younger Appearance",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i736",
+     "name": "Antisocial",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i767",
+     "name": "Swimming",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i799",
+     "name": "Shopping",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i87",
+     "name": "Fighting",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i903",
+     "name": "Kigurumi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i998",
+     "name": "Ribbon Tie",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v4137",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": null,
+   "blood_type": null,
+   "description": null,
+   "id": "c18700",
+   "name": "Ana Coppola",
+   "original": "アナ·コッポラ",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1095",
+     "name": "Parted in Middle",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i110",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i118",
+     "name": "Kid",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i137",
+     "name": "Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i22",
+     "name": "Long",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3152",
+     "name": "Flat Chest",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i5",
+     "name": "Blond",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i756",
+     "name": "British",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i760",
+     "name": "Pet Owner",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v5692",
+     "role": "primary",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "Sari-chan",
+    "魔界のアイドル",
+    "Makai no Idol"
+   ],
+   "birthday": [
+    2,
+    29
+   ],
+   "blood_type": null,
+   "description": null,
+   "id": "c26550",
+   "name": "Sally-chan",
+   "original": "サリーちゃん",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i11",
+     "name": "White",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i19",
+     "name": "Twin Tails",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i115",
+     "name": "Red",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i118",
+     "name": "Kid",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i498",
+     "name": "Demon",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i719",
+     "name": "Food Lover",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i722",
+     "name": "Small Breast Sizes",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i789",
+     "name": "Detached Sleeves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i857",
+     "name": "Pointed Ears",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i863",
+     "name": "Sweets Lover",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i891",
+     "name": "Immature",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1057",
+     "name": "Atashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1101",
+     "name": "Strapless Leotard",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1573",
+     "name": "Ankle Boots",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i2034",
+     "name": "Bat Wings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i2384",
+     "name": "Demon Tail",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    2,
+    10
+   ],
+   "blood_type": "a",
+   "description": "She is a genius in mathematics and programming, and is the administrator of the PITA system, which is being piloted at the school she attends.\n\nShe is the one who is responsible for explaining the system to the students. She calls herself “Shishigasaki's explanation rabbit.\" She tends to be perceived as a “cool beauty” because of her reserved emotional expression.\n\nShe is a hardworking and passionate person on the inside. She is basically serious, but also mischievous. Her favorite food is chikama. It is a must-have item, especially when working on the computer.\n\n[From [url=https://www.pulltop.com/gp07/02_chara02-01.html]official site[/url]]",
+   "id": "c32646",
+   "name": "Tokura Temari",
+   "original": "十倉 手鞠",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i5",
+     "name": "Blond",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i62",
+     "name": "School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i76",
+     "name": "Hard Worker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i78",
+     "name": "Student",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i100",
+     "name": "Blowjob",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i104",
+     "name": "Virgin Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i107",
+     "name": "Hotblooded",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i108",
+     "name": "Amber",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i137",
+     "name": "Dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i142",
+     "name": "Pajamas",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i153",
+     "name": "Kemonomimi Headband",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i157",
+     "name": "Necktie",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i168",
+     "name": "Evening Gloves",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i174",
+     "name": "Miniskirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i176",
+     "name": "Shorts",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i183",
+     "name": "Knee-high Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i220",
+     "name": "Kuudere",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i283",
+     "name": "Wife",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i309",
+     "name": "Roommate",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i311",
+     "name": "Girlfriend",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Role",
+     "id": "i313",
+     "name": "Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i314",
+     "name": "Childhood Friend",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i327",
+     "name": "Student Council Member",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i482",
+     "name": "Illness",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i522",
+     "name": "Bag",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i528",
+     "name": "Sitting Sex",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i542",
+     "name": "Coder",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i550",
+     "name": "Wedding Dress",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i660",
+     "name": "Helmet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i692",
+     "name": "Genius",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i719",
+     "name": "Food Lover",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i726",
+     "name": "Hair Flower",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Personality",
+     "id": "i821",
+     "name": "Serious",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i859",
+     "name": "Ringlet",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i918",
+     "name": "Tsurime",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i933",
+     "name": "Sports Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1013",
+     "name": "Veil",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1021",
+     "name": "Spiky Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1053",
+     "name": "Mischievous",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1060",
+     "name": "Ribbon Hair Accessory",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1272",
+     "name": "Ankle Socks",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of (Sexual)",
+     "id": "i1327",
+     "name": "Quickie Fix",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1347",
+     "name": "New Type School Swimsuit",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in",
+     "id": "i1362",
+     "name": "Wedding",
+     "spoiler": 2
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1379",
+     "name": "Taciturn",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i1614",
+     "name": "Laptop",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i1689",
+     "name": "Cowgirl",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1723",
+     "name": "Sailor School Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1745",
+     "name": "Mary Jane",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1749",
+     "name": "Loafers",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Subject of",
+     "id": "i2017",
+     "name": "Bridal Carry",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Engages in (Sexual)",
+     "id": "i3143",
+     "name": "Sex with Protagonist Only",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i3153",
+     "name": "Small Breasts",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    },
+    {
+     "id": "v892",
+     "role": "primary",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "appears",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "民子"
+   ],
+   "birthday": [
+    5,
+    5
+   ],
+   "blood_type": "o",
+   "description": null,
+   "id": "c78783",
+   "name": "Riesling Tooyama",
+   "original": "リースリング 遠山",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i1090",
+     "name": "No Bangs",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1095",
+     "name": "Parted in Middle",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i112",
+     "name": "Green",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i119",
+     "name": "Young-adult",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1408",
+     "name": "Watashi",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i160",
+     "name": "Shirt",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1682",
+     "name": "Sidehair",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i2132",
+     "name": "Coat Cape",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i354",
+     "name": "Butler",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i382",
+     "name": "Bodyguard",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i470",
+     "name": "Refined",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i50",
+     "name": "Green",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i66",
+     "name": "Trousers",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i818",
+     "name": "Loyal",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i895",
+     "name": "Corset",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": [
+    10,
+    24
+   ],
+   "blood_type": "a",
+   "description": null,
+   "id": "c78784",
+   "name": "Anenokouji Fuyuka",
+   "original": "姉小路 冬華",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Hair",
+     "id": "i5",
+     "name": "Blond",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i19",
+     "name": "Twin Tails",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i23",
+     "name": "Waist Length+",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i25",
+     "name": "Curtained",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i30",
+     "name": "Straight",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i54",
+     "name": "Teen",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i55",
+     "name": "Slim",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i59",
+     "name": "Pale",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i110",
+     "name": "Blue",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i138",
+     "name": "Mini-dress",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i186",
+     "name": "Thigh-high Stockings",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i895",
+     "name": "Corset",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Eyes",
+     "id": "i917",
+     "name": "Tareme",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1010",
+     "name": "Clothing with Ribbons",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Hair",
+     "id": "i1095",
+     "name": "Parted in Middle",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i1388",
+     "name": "Baker",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1462",
+     "name": "Puffy Sleeves",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1573",
+     "name": "Ankle Boots",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1619",
+     "name": "Waitstaff Uniform",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Clothes",
+     "id": "i1736",
+     "name": "Arm Cuffs",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [
+    "Packy",
+    "大賢者",
+    "Dai Kenja",
+    "Great Sage"
+   ],
+   "birthday": null,
+   "blood_type": null,
+   "description": null,
+   "id": "c85010",
+   "name": "Paqy",
+   "original": "パッキー",
+   "sex": [
+    "m",
+    "m"
+   ],
+   "traits": [
+    {
+     "group_name": "Personality",
+     "id": "i232",
+     "name": "Pervert",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Items",
+     "id": "i589",
+     "name": "Stuffed Toy",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i797",
+     "name": "Bear",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Role",
+     "id": "i816",
+     "name": "Familiar",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Body",
+     "id": "i1017",
+     "name": "Tiny",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1053",
+     "name": "Mischievous",
+     "spoiler": 0
+    },
+    {
+     "group_name": "Personality",
+     "id": "i1722",
+     "name": "Ore-sama",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "side",
+     "spoiler": 0
+    },
+    {
+     "id": "v5937",
+     "role": "side",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": null,
+   "blood_type": null,
+   "description": "A female math teacher who is introduced in the middle of the story.",
+   "id": "c85011",
+   "name": "Sengen'in Kiyora",
+   "original": "千軒院 清羅",
+   "sex": [
+    "f",
+    "f"
+   ],
+   "traits": [
+    {
+     "group_name": "Role",
+     "id": "i358",
+     "name": "Teacher",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    }
+   ]
+  },
+  {
+   "age": null,
+   "aliases": [],
+   "birthday": null,
+   "blood_type": null,
+   "description": "A male chicken kept in the garden of Grand Palace Sakura.",
+   "id": "c85012",
+   "name": "Sasami",
+   "original": "ササミ",
+   "sex": [
+    "m",
+    "m"
+   ],
+   "traits": [
+    {
+     "group_name": "Role",
+     "id": "i785",
+     "name": "Bird",
+     "spoiler": 0
+    }
+   ],
+   "vns": [
+    {
+     "id": "v666",
+     "role": "appears",
+     "spoiler": 0
+    }
+   ]
+  }
+ ]
+}
