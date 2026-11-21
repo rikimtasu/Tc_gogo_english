@@ -134,6 +134,7 @@ class CpkArchive:
             self.hdr = self.hdr_table.rows[0]
             self.toc_offset: int = self.hdr["TocOffset"]
             self.content_offset: int = self.hdr["ContentOffset"]
+            self.file_base: int = min(self.toc_offset, self.content_offset)
             self.align: int = self.hdr["Align"] or 2048
 
             f.seek(self.toc_offset)
@@ -163,7 +164,7 @@ class CpkArchive:
 
     def read_entry(self, row: dict[str, Any]) -> bytes:
         with open(self.path, "rb") as f:
-            f.seek(self.toc_offset + row["FileOffset"])
+            f.seek(self.file_base + row["FileOffset"])
             return f.read(row["FileSize"])
 
     def extract_all(self, out_dir: str) -> int:
@@ -173,13 +174,15 @@ class CpkArchive:
                 rel = os.path.join(row["DirName"], row["FileName"]) if row["DirName"] else row["FileName"]
                 dst = os.path.join(out_dir, rel)
                 os.makedirs(os.path.dirname(dst), exist_ok=True)
-                f.seek(self.toc_offset + row["FileOffset"])
+                f.seek(self.file_base + row["FileOffset"])
                 with open(dst, "wb") as out:
                     out.write(f.read(row["FileSize"]))
         return len(self.toc_table.rows)
 
     def rebuild(self, out_path: str, replacements: dict[str, bytes]) -> None:
         """Rebuild CPK keeping exact TOC/GTOC/ETOC schemas and updating offsets/sizes."""
+        if self.toc_offset > self.content_offset:
+            raise NotImplementedError("Rebuilding TOC-after-content CPKs (e.g. BATTLE.CPK) is not yet supported")
         hdr_buf = bytearray(self.raw_hdr)
         hdr_utf = bytearray(hdr_buf[0x10:])
         toc_buf = bytearray(self.raw_toc_body)

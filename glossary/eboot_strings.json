@@ -1,0 +1,736 @@
+{
+  "source_sha256": "96f2556cad518943ab0203f2ffe7d471b92e29fae4f8a7fab62a577355ca3de8",
+  "count": 73,
+  "strings": [
+    {
+      "id": "eboot_001_save_metadata",
+      "category": "save_metadata",
+      "file_offset": "0x15c4a0",
+      "vaddr": "0x0896044c",
+      "byte_len": 32,
+      "slot_capacity": 127,
+      "jp": "ティンクル☆くるせいだーす GoGo!",
+      "en": ""
+    },
+    {
+      "id": "eboot_002_save_metadata",
+      "category": "save_metadata",
+      "file_offset": "0x15c520",
+      "vaddr": "0x089604cc",
+      "byte_len": 12,
+      "slot_capacity": 127,
+      "jp": "セーブデータ",
+      "en": ""
+    },
+    {
+      "id": "eboot_003_save_metadata",
+      "category": "save_metadata",
+      "file_offset": "0x15c5a0",
+      "vaddr": "0x0896054c",
+      "byte_len": 53,
+      "slot_capacity": 1023,
+      "jp": "ティンクル☆くるせいだーす GoGo!の\nセーブデータです。",
+      "en": ""
+    },
+    {
+      "id": "eboot_004_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d3e8",
+      "vaddr": "0x08961394",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "年",
+      "en": ""
+    },
+    {
+      "id": "eboot_005_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d3ec",
+      "vaddr": "0x08961398",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "月",
+      "en": ""
+    },
+    {
+      "id": "eboot_006_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d3f0",
+      "vaddr": "0x0896139c",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "日",
+      "en": ""
+    },
+    {
+      "id": "eboot_007_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d3f4",
+      "vaddr": "0x089613a0",
+      "byte_len": 4,
+      "slot_capacity": 5,
+      "jp": "日目",
+      "en": ""
+    },
+    {
+      "id": "eboot_008_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d402",
+      "vaddr": "0x089613ae",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "時",
+      "en": ""
+    },
+    {
+      "id": "eboot_009_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d406",
+      "vaddr": "0x089613b2",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "分",
+      "en": ""
+    },
+    {
+      "id": "eboot_010_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d40a",
+      "vaddr": "0x089613b6",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "秒",
+      "en": ""
+    },
+    {
+      "id": "eboot_011_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d40e",
+      "vaddr": "0x089613ba",
+      "byte_len": 4,
+      "slot_capacity": 5,
+      "jp": "午前",
+      "en": ""
+    },
+    {
+      "id": "eboot_012_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d414",
+      "vaddr": "0x089613c0",
+      "byte_len": 4,
+      "slot_capacity": 5,
+      "jp": "午後",
+      "en": ""
+    },
+    {
+      "id": "eboot_013_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d426",
+      "vaddr": "0x089613d2",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "火",
+      "en": ""
+    },
+    {
+      "id": "eboot_014_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d42a",
+      "vaddr": "0x089613d6",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "水",
+      "en": ""
+    },
+    {
+      "id": "eboot_015_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d42e",
+      "vaddr": "0x089613da",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "木",
+      "en": ""
+    },
+    {
+      "id": "eboot_016_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d432",
+      "vaddr": "0x089613de",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "金",
+      "en": ""
+    },
+    {
+      "id": "eboot_017_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d436",
+      "vaddr": "0x089613e2",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "土",
+      "en": ""
+    },
+    {
+      "id": "eboot_018_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d43a",
+      "vaddr": "0x089613e6",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "曜",
+      "en": ""
+    },
+    {
+      "id": "eboot_019_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d43e",
+      "vaddr": "0x089613ea",
+      "byte_len": 4,
+      "slot_capacity": 5,
+      "jp": "早朝",
+      "en": ""
+    },
+    {
+      "id": "eboot_020_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d444",
+      "vaddr": "0x089613f0",
+      "byte_len": 2,
+      "slot_capacity": 3,
+      "jp": "昼",
+      "en": ""
+    },
+    {
+      "id": "eboot_021_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d448",
+      "vaddr": "0x089613f4",
+      "byte_len": 4,
+      "slot_capacity": 5,
+      "jp": "夕方",
+      "en": ""
+    },
+    {
+      "id": "eboot_022_date_time",
+      "category": "date_time",
+      "file_offset": "0x15d44e",
+      "vaddr": "0x089613fa",
+      "byte_len": 4,
+      "slot_capacity": 5,
+      "jp": "深夜",
+      "en": ""
+    },
+    {
+      "id": "eboot_023_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171178",
+      "vaddr": "0x08975124",
+      "byte_len": 71,
+      "slot_capacity": 71,
+      "jp": "メモリースティックが挿入されていません。\nこのままゲームを開始しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_024_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1711c0",
+      "vaddr": "0x0897516c",
+      "byte_len": 59,
+      "slot_capacity": 59,
+      "jp": "メモリースティックが挿入されていません。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_025_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1711fc",
+      "vaddr": "0x089751a8",
+      "byte_len": 61,
+      "slot_capacity": 63,
+      "jp": "メモリースティックが挿入されていません。\n処理を中断しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_026_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x17123c",
+      "vaddr": "0x089751e8",
+      "byte_len": 65,
+      "slot_capacity": 67,
+      "jp": "メモリースティックが抜かれました。\nこのままゲームを開始しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_027_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171280",
+      "vaddr": "0x0897522c",
+      "byte_len": 51,
+      "slot_capacity": 51,
+      "jp": "メモリースティックが抜かれました。\n処理を中断します",
+      "en": ""
+    },
+    {
+      "id": "eboot_028_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1712b4",
+      "vaddr": "0x08975260",
+      "byte_len": 55,
+      "slot_capacity": 55,
+      "jp": "メモリースティックが抜かれました。\n処理を中断しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_029_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1712ec",
+      "vaddr": "0x08975298",
+      "byte_len": 164,
+      "slot_capacity": 167,
+      "jp": "記録メディアの空き容量が不足しています。\n\t\t\t\t\tシステムデータとセーブデータを一つ以上保存するために%dKB以上の空き容量が必要です。\n\t\t\t\t\tこのままゲームを開始しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_030_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171394",
+      "vaddr": "0x08975340",
+      "byte_len": 156,
+      "slot_capacity": 159,
+      "jp": "記録メディアの空き容量が不足しています。\n\t\t\t\t\tシステムデータとセーブデータを一つ以上保存するために%dKB以上の空き容量が必要です。\n\t\t\t\t\tセーブを中止しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_031_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171434",
+      "vaddr": "0x089753e0",
+      "byte_len": 140,
+      "slot_capacity": 143,
+      "jp": "記録メディアの空き容量が不足しています。\n\t\t\t\t\tこのゲームのデータを保存するには、あと%s以上の空き容量が必要です。\n\t\t\t\t\tセーブを中止しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_032_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1714c4",
+      "vaddr": "0x08975470",
+      "byte_len": 93,
+      "slot_capacity": 95,
+      "jp": "メモリースティックが書込み保護されてアクセスできませんでした。\nこのままゲームを開始しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_033_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171524",
+      "vaddr": "0x089754d0",
+      "byte_len": 83,
+      "slot_capacity": 83,
+      "jp": "メモリースティックが書込み保護されてアクセスできませんでした。\n処理を中断しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_034_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171578",
+      "vaddr": "0x08975524",
+      "byte_len": 61,
+      "slot_capacity": 63,
+      "jp": "アクセスエラーが発生しました。\nこのままゲームを開始しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_035_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1715b8",
+      "vaddr": "0x08975564",
+      "byte_len": 49,
+      "slot_capacity": 51,
+      "jp": "アクセスエラーが発生しました。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_036_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1715ec",
+      "vaddr": "0x08975598",
+      "byte_len": 51,
+      "slot_capacity": 51,
+      "jp": "アクセスエラーが発生しました。\n処理を中断しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_037_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171620",
+      "vaddr": "0x089755cc",
+      "byte_len": 59,
+      "slot_capacity": 59,
+      "jp": "データが破損しています。\nシステムデータを新規作成しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_038_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x17165c",
+      "vaddr": "0x08975608",
+      "byte_len": 43,
+      "slot_capacity": 43,
+      "jp": "データが破損しています。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_039_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171688",
+      "vaddr": "0x08975634",
+      "byte_len": 47,
+      "slot_capacity": 47,
+      "jp": "システムデータがありません。\n新規作成しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_040_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1716b8",
+      "vaddr": "0x08975664",
+      "byte_len": 44,
+      "slot_capacity": 47,
+      "jp": "システムデータがないため、ロードを行えません",
+      "en": ""
+    },
+    {
+      "id": "eboot_041_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1716e8",
+      "vaddr": "0x08975694",
+      "byte_len": 47,
+      "slot_capacity": 47,
+      "jp": "システムデータがありません。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_042_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171718",
+      "vaddr": "0x089756c4",
+      "byte_len": 49,
+      "slot_capacity": 51,
+      "jp": "システムデータがありません。\n処理を中断しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_043_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x17174c",
+      "vaddr": "0x089756f8",
+      "byte_len": 45,
+      "slot_capacity": 47,
+      "jp": "セーブデータがありません。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_044_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x17177c",
+      "vaddr": "0x08975728",
+      "byte_len": 69,
+      "slot_capacity": 71,
+      "jp": "パラメータが不正でユーティリティが動作できません。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_045_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1717c4",
+      "vaddr": "0x08975770",
+      "byte_len": 48,
+      "slot_capacity": 51,
+      "jp": "スリープモードに移行したため、処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_046_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1717f8",
+      "vaddr": "0x089757a4",
+      "byte_len": 31,
+      "slot_capacity": 31,
+      "jp": "内部エラー。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_047_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171818",
+      "vaddr": "0x089757c4",
+      "byte_len": 39,
+      "slot_capacity": 39,
+      "jp": "連続呼び出しエラー。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_048_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171840",
+      "vaddr": "0x089757ec",
+      "byte_len": 53,
+      "slot_capacity": 55,
+      "jp": "ファイルがこれ以上追加できません。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_049_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171878",
+      "vaddr": "0x08975824",
+      "byte_len": 35,
+      "slot_capacity": 35,
+      "jp": "起動タイプエラー\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_050_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x17189c",
+      "vaddr": "0x08975848",
+      "byte_len": 33,
+      "slot_capacity": 35,
+      "jp": "パラメータ不正\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_051_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1718c0",
+      "vaddr": "0x0897586c",
+      "byte_len": 58,
+      "slot_capacity": 59,
+      "jp": "エラーが発生しました。\n処理を中断します。\nエラーコード　%x",
+      "en": ""
+    },
+    {
+      "id": "eboot_052_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1718fc",
+      "vaddr": "0x089758a8",
+      "byte_len": 51,
+      "slot_capacity": 51,
+      "jp": "起動に失敗しました。\nこのままゲームを開始しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_053_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171930",
+      "vaddr": "0x089758dc",
+      "byte_len": 41,
+      "slot_capacity": 43,
+      "jp": "セーブに失敗しました。\n操作を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_054_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x17195c",
+      "vaddr": "0x08975908",
+      "byte_len": 41,
+      "slot_capacity": 43,
+      "jp": "ロードに失敗しました。\n操作を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_055_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171988",
+      "vaddr": "0x08975934",
+      "byte_len": 39,
+      "slot_capacity": 39,
+      "jp": "削除に失敗しました。\n操作を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_056_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1719b0",
+      "vaddr": "0x0897595c",
+      "byte_len": 73,
+      "slot_capacity": 75,
+      "jp": "不正な操作によりロード／セーブ処理が中断されました。\n操作を終了しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_057_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x1719fc",
+      "vaddr": "0x089759a8",
+      "byte_len": 32,
+      "slot_capacity": 35,
+      "jp": "システムデータを読み込みました。",
+      "en": ""
+    },
+    {
+      "id": "eboot_058_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171a20",
+      "vaddr": "0x089759cc",
+      "byte_len": 30,
+      "slot_capacity": 31,
+      "jp": "システムデータを作成しました。",
+      "en": ""
+    },
+    {
+      "id": "eboot_059_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171a40",
+      "vaddr": "0x089759ec",
+      "byte_len": 22,
+      "slot_capacity": 23,
+      "jp": "セーブを完了しました。",
+      "en": ""
+    },
+    {
+      "id": "eboot_060_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171a58",
+      "vaddr": "0x08975a04",
+      "byte_len": 24,
+      "slot_capacity": 27,
+      "jp": "データをロードしました。",
+      "en": ""
+    },
+    {
+      "id": "eboot_061_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171a74",
+      "vaddr": "0x08975a20",
+      "byte_len": 22,
+      "slot_capacity": 23,
+      "jp": "データを削除しました。",
+      "en": ""
+    },
+    {
+      "id": "eboot_062_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171a8c",
+      "vaddr": "0x08975a38",
+      "byte_len": 83,
+      "slot_capacity": 83,
+      "jp": "スリープモードに移行したため、処理が中断されました。\nこのままゲームを開始しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_063_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171ae0",
+      "vaddr": "0x08975a8c",
+      "byte_len": 46,
+      "slot_capacity": 47,
+      "jp": "セーブデータを削除して空き容量を確保しますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_064_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171b10",
+      "vaddr": "0x08975abc",
+      "byte_len": 195,
+      "slot_capacity": 195,
+      "jp": "本ゲームはオートセーブ機能に対応しています。\n\t\t\tオートセーブ中にはメモリースティック\nアクセスランプが点滅しますので、\nその間はメモリースティックを抜いたり、\n本体の電源を切ったりしないでください。",
+      "en": ""
+    },
+    {
+      "id": "eboot_065_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171bd4",
+      "vaddr": "0x08975b80",
+      "byte_len": 97,
+      "slot_capacity": 99,
+      "jp": "現在のシステムデータと違うシステムデータを検知しました。\nシステムデータの再読み込みを行いますか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_066_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171c38",
+      "vaddr": "0x08975be4",
+      "byte_len": 80,
+      "slot_capacity": 83,
+      "jp": "このままセーブすると、以前のセーブデータが使用できなくなりますがよろしいですか？",
+      "en": ""
+    },
+    {
+      "id": "eboot_067_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171c8c",
+      "vaddr": "0x08975c38",
+      "byte_len": 18,
+      "slot_capacity": 19,
+      "jp": "処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_068_save_dialog",
+      "category": "save_dialog",
+      "file_offset": "0x171ca0",
+      "vaddr": "0x08975c4c",
+      "byte_len": 84,
+      "slot_capacity": 87,
+      "jp": "メッセージダイアログ表示中に\nメモリースティックが操作されました。\n処理を中断します。",
+      "en": ""
+    },
+    {
+      "id": "eboot_069_install_metadata",
+      "category": "install_metadata",
+      "file_offset": "0x171d3c",
+      "vaddr": "0x08975ce8",
+      "byte_len": 32,
+      "slot_capacity": 35,
+      "jp": "ティンクル☆くるせいだーす GoGo!",
+      "en": ""
+    },
+    {
+      "id": "eboot_070_install_metadata",
+      "category": "install_metadata",
+      "file_offset": "0x171d60",
+      "vaddr": "0x08975d0c",
+      "byte_len": 18,
+      "slot_capacity": 19,
+      "jp": "インストールデータ",
+      "en": ""
+    },
+    {
+      "id": "eboot_071_install_metadata",
+      "category": "install_metadata",
+      "file_offset": "0x171d74",
+      "vaddr": "0x08975d20",
+      "byte_len": 59,
+      "slot_capacity": 59,
+      "jp": "ティンクル☆くるせいだーす GoGo!の\nインストールデータです。",
+      "en": ""
+    },
+    {
+      "id": "eboot_072_install_dialog",
+      "category": "install_dialog",
+      "file_offset": "0x172124",
+      "vaddr": "0x089760d0",
+      "byte_len": 172,
+      "slot_capacity": 175,
+      "jp": "メモリースティックが挿入されていません。\nインストールデータがロードできなかったため\nUMDのみからロードを行います。\n\nデータインストールの機能を＜＜ＯＦＦ＞＞に\n設定しました。",
+      "en": ""
+    },
+    {
+      "id": "eboot_073_install_dialog",
+      "category": "install_dialog",
+      "file_offset": "0x1721dc",
+      "vaddr": "0x08976188",
+      "byte_len": 131,
+      "slot_capacity": 135,
+      "jp": "インストールデータがロードできなかったため\nUMDのみからロードを行います。\n\nデータインストールの機能を＜＜ＯＦＦ＞＞に\n設定しました。",
+      "en": ""
+    }
+  ]
+}

@@ -1,69 +1,243 @@
-咲良シン	Synn Sakura	protagonist, male, student council president / Demon Lord
-咲良	Sakura	Synn's surname
-シン君	Synn-kun	how Ria addresses Synn (keep honorifics)
-シン様	Synn-sama	how Paqy addresses Synn (keep honorifics)
-シン	Synn	protagonist, male
-魔王様	Maou-sama	spoken title/address for Synn (keep honorific)
-魔王	Demon Lord	general title/noun when not used with -sama
-会長はん	Kaichou-han	Akane's Kyoto-dialect address for Synn
-夕霧ナナカ	Nanaka Yuugiri	heroine, female, childhood friend, treasurer
-ナナカ	Nanaka	heroine, female
-夕霧	Yuugiri	Nanaka's surname
-ソバ	Soba	nickname for Nanaka (only when it refers to her)
 聖沙・ブリジッタ・クリステレス	Misa Brigitta Cristelis	heroine, female, vice-president
-聖沙	Misa	heroine, female
-クリステレス	Cristelis	Misa's surname
-ミサミサ	Misa-Misa	nickname for Misa
-ヒス	Hiss	Paqy's nickname for Misa (from "hysterical")
+聖沙・Ｂ・クリステレス	Misa B. Cristelis	heroine, female, abbreviated full name
 ロロット・ローゼンクロイツ	Lolotte Rosenkreuz	heroine, female, angel, secretary
-ロロット	Lolotte	heroine, female
+メリロット＆ソルティア	Melilot & Soltia	combined speaker label
+ロロット＆エミリナ	Lolotte & Amyrina	combined speaker label
+ロロット＆ナナカ	Lolotte & Nanaka	combined speaker label
+ナナカ＆ロロット	Nanaka & Lolotte	combined speaker label
+ソルティア＆アゼル	Soltia & Azel	combined speaker label
+ナナカ＆さっちん	Nanaka & Sacchin	combined speaker label
+ロロット＆パスタ	Lolotte & Pasta	combined speaker label
+マカロン＆サリー	Macaron & Sally	combined speaker label
+リースリング遠山	Riesling Tooyama	male, Lolotte's butler
+リースリングさん	Riesling-san	polite address for Riesling (keep -san)
+マカロンちゃん	Macaron-chan	affectionate address for Macaron (keep -chan)
+ロロットちゃん	Lolotte-chan	affectionate address for Lolotte (keep -chan)
+エミリナちゃん	Amyrina-chan	affectionate address for Amyrina (keep -chan)
+バイラスにゃま	Bylous-nyama	Pasta's cat-speech honorific for Bylous (keep -nyama)
+メリロットさん	Melilot-san	polite address for Melilot (keep -san)
+ロロットベアー	Lolotte Bear	speaker label for Arden when Lolotte mistakes him for a bear
+紫央＆マカロン	Shio & Macaron	combined speaker label
+シン＆マカロン	Synn & Macaron	combined speaker label
+聖沙＆パッキー	Misa & Paqy	combined speaker label
+シン＆パッキー	Synn & Paqy	combined speaker label
+アゼル＆サリー	Azel & Sally	combined speaker label
+ロロット＆聖沙	Lolotte & Misa	combined speaker label
+シン＆ロロット	Synn & Lolotte	combined speaker label
+聖沙＆ナナカ	Misa & Nanaka	combined speaker label
+ナナカ＆聖沙	Nanaka & Misa	combined speaker label
+チョコリエール	Chocolier	minor demon speaker label
 ローゼンクロイツ	Rosenkreuz	Lolotte's family name
-ロロちゃん	Lolo-chan	nickname for Lolotte (keep -chan)
+千軒院先生？	Sengen'in-sensei?	pre-reveal speaker label for Soltia
+千軒院先生	Sengen'in-sensei	how students address Kiyora (keep -sensei)
+先代の副会長	Former Vice-President	speaker label in 0005 flashback
+ロロットの声	Lolotte's Voice	off-screen speaker label
+メルファスさん	Melphas-san	polite address for Melphas (keep -san)
+エミリナさん	Amyrina-san	polite address for Amyrina (keep -san)
+エミリナ様	Amyrina-sama	respectful address for Amyrina (keep -sama)
+マカロンさん	Macaron-san	polite address for Macaron (keep -san)
+マカロン様	Macaron-sama	respectful address for Macaron (keep -sama)
+ロロットさん	Lolotte-san	polite address for Lolotte (keep -san)
+さっちん先輩	Sacchin-senpai	how juniors address Sachiho (keep -senpai)
+さっちんさん	Sacchin-san	polite address for Sachiho (keep -san)
+さっちんはん	Sacchin-han	Akane's Kyoto-dialect address for Sachiho (keep -han)
+さっちん殿	Sacchin-dono	Shio's archaic address for Sachiho (keep -dono)
+パッキーさん	Paqy-san	polite address for Paqy (keep -san)
+パッキー様	Paqy-sama	respectful address for Paqy (keep -sama)
+パッキーはん	Paqy-han	Akane's Kyoto-dialect address for Paqy (keep -han)
+パッキー殿	Paqy-dono	Shio's archaic address for Paqy (keep -dono)
+サリーちゃん	Sally-chan	affectionate address for Sally (keep -chan)
+ナナカちゃん	Nanaka-chan	affectionate address for Nanaka (keep -chan)
+シン＆アゼル	Synn & Azel	combined speaker label
+シン＆ナナカ	Synn & Nanaka	combined speaker label
+ナナカ＆シン	Nanaka & Synn	combined speaker label
+シン＆聖沙	Synn & Misa	combined speaker label
+聖沙＆シン	Misa & Synn	combined speaker label
+リア＆ナナカ	Ria & Nanaka	combined speaker label
+ヘレナ＆リア	Helena & Ria	combined speaker label
+姉小路冬華	Fuyuka Anenokouji	female, minor character, Chocolat l'Or representative
+千軒院清羅	Kiyora Sengen'in	female, math teacher
+飛鳥井紫央	Shio Asukai	female, Misa's cousin, shrine maiden
+高橋サチホ	Sachiho Takahashi	female, Nanaka's friend, Sweets Club
+クリステレス	Cristelis	Misa's surname
+リースリング	Riesling	male, Lolotte's butler
+先代の会長	Former President	speaker label in 0005 flashback
+迷子の男の子	Lost Boy	pre-reveal speaker label for Itsuki Satou
+メリロット	Melilot	heroine, female, librarian
+オデローク	Eauderourke	Demon General, male (EBOOT: EAUDEROURKE)
+メルファス	Melphas	Demon General, male
+ソルティア	Soltia	Demon General, female (EBOOT: ZOLTIA)
+アーディン	Arden	Demon General, male (EBOOT: ARDEN)
+メイヴィス	Mavis	female, crossover character in 0560
+ナタリーさん	Natalie-san	polite address for Natalie (keep -san)
+パスタちゃん	Pasta-chan	affectionate address for Pasta (keep -chan)
+アーディンさん	Arden-san	polite address for Arden (keep -san)
+ナナカオヤビン	Boss Nanaka	Sally's nickname for Nanaka (or Nanaka Oyabin)
+ナナカさん	Nanaka-san	polite address for Nanaka (keep -san)
+ナナカはん	Nanaka-han	Akane's Kyoto-dialect address for Nanaka (keep -han)
+ナナカ殿	Nanaka-dono	Shio's archaic address for Nanaka (keep -dono)
+アゼルさん	Azel-san	polite address for Azel (keep -san)
+アゼルちゃん	Azel-chan	affectionate address for Azel (keep -chan)
+アゼル様	Azel-sama	respectful address for Azel (keep -sama)
+アゼルはん	Azel-han	Akane's Kyoto-dialect address for Azel (keep -han)
+アゼル殿	Azel-dono	Shio's archaic address for Azel (keep -dono)
+ヘレナさん	Helena-san	polite address for Helena (keep -san)
+ヘレナ殿	Helena-dono	Shio's archaic address for Helena (keep -dono)
+聖沙ちゃん	Misa-chan	affectionate address for Misa (keep -chan)
+サリーさん	Sally-san	polite address for Sally (keep -san)
+サリー殿	Sally-dono	Shio's archaic address for Sally (keep -dono)
+パスタさん	Pasta-san	polite address for Pasta (keep -san)
+キューちゃん	Kyuu-chan	carrier bat (keep -chan)
+ぬいぐるみ	Plushie	pre-introduction speaker label for Paqy in 0009
+ウェイトレス	Waitress	generic speaker label
+アナウンス	PA	announcement / phone recording speaker label
+女性の声	Woman's Voice	off-screen speaker label
+聖沙の声	Misa's Voice	off-screen speaker label
+シン＆リア	Synn & Ria	combined speaker label
+リア＆御陵	Ria & Misasagi	combined speaker label
+夕霧ナナカ	Nanaka Yuugiri	heroine, female, childhood friend, treasurer
+御陵彩錦	Akane Misasagi	female, Wagashi Club president, Kyoto dialect
+九浄ヘレナ	Helena Kujou	female, Ria's older sister, academy chairwoman
+佐東イツキ	Itsuki Satou	young boy in KiraFes episode (0152)
+佐東マサミ	Masami Satou	Itsuki's mother (0152)
+ブリジッタ	Brigitta	Misa's middle name
+ロロット	Lolotte	heroine, female, angel, secretary
+マカロン	Macaron	heroine, female, demon
+エミリナ	Amyrina	female, angel, choir member, Lolotte's friend
+パッキー	Paqy	male, talking panda plush, Great Sage
+バイラス	Bylous	Chief of the Seven Demon Generals, male
+リリアン	Lillian	female, crossover character in 0560
+ナタリー	Natalie	female, bazaar shopkeeper
+リンガー	Ringer	male demon who likes human death metal
+ゼットン	Zetton	minor demon underling (Macaron route)
+ヤスベエ	Yasubee	minor demon underling (Macaron route)
+ナガハマ	Nagahama	minor demon underling (Macaron route)
+ティーヌン	Tinun	Sally's demon underling (Delicious Food Squad)
+ジャンガラ	Jangara	Sally's demon underling (Delicious Food Squad)
+モチモチ	Mochimochi	Sally's demon underling (Delicious Food Squad)
+タイショウ	Taishou	minor demon underling
+イップウ	Ippuu	minor demon underling
+ヨシムラ	Yoshimura	minor demon underling
+オリオン	Orion	minor demon underling
+カルカン	Kal Kan	cat demon under Pasta
+キャラット	Carat	cat demon under Pasta
+ウォルサム	Waltham	cat demon under Pasta
+天王寺さん	Tennouji-san	Yodel Club president (keep -san)
+シナオバ	Shina-oba	Shinagawa Greengrocer auntie (keep -oba)
+お兄ちゃん	Onii-chan	how Macaron calls Synn (keep Onii-chan)
+お嬢さま	Milady	how Riesling addresses Lolotte (or Ojou-sama)
+ササミ	Sasami	rooster (male chicken)
+咲良シン	Synn Sakura	protagonist, male, student council president / Demon Lord
 九浄リア	Ria Kujou	heroine, female, former president, 3rd year
+咲良クン	Sakura-kun	how Misa addresses Synn (keep -kun)
+咲良くん	Sakura-kun	how Melilot/others address Synn (keep -kun)
+シンちゃん	Synn-chan	how Helena/Macaron address Synn (keep -chan)
+シン君	Synn-kun	how Ria/friends address Synn (keep -kun)
+シンくん	Synn-kun	variant of Synn-kun (keep -kun)
+シン様	Synn-sama	how Paqy addresses Synn (keep -sama)
+シン殿	Synn-dono	how Shio addresses Synn (keep -dono)
+魔王様	Maou-sama	spoken title/address for Synn (keep honorific)
+会長さん	Kaichou-san	Lolotte's polite address for Synn (or President-san)
+会長はん	Kaichou-han	Akane's Kyoto-dialect address for Synn (keep -han)
+副会長さん	Vice-President-san	Lolotte's polite address for Misa (keep -san)
+副会長はん	Vice-President-han	Akane's Kyoto-dialect address for Misa (keep -han)
+会計さん	Treasurer-san	Lolotte's polite address for Nanaka (keep -san)
+会計はん	Treasurer-han	Akane's Kyoto-dialect address for Nanaka (keep -han)
+理事長さん	Chairwoman-san	how students address Helena (keep -san)
+理事長はん	Chairwoman-han	Akane's Kyoto-dialect address for Helena (keep -han)
 リア先輩	Ria-senpai	how younger students address Ria (keep -senpai)
+リアちゃん	Ria-chan	affectionate address for Ria (keep -chan)
+リーア	Rii-a	Akane's Kyoto nickname for Ria
+ロロちゃん	Lolo-chan	nickname for Lolotte (keep -chan)
+ナナちゃん	Nana-chan	Sacchin's nickname for Nanaka (keep -chan)
+マコちゃん	Mako-chan	Nanaka's nickname for Macaron (keep -chan)
+マコちー	Mako-chii	Sally's nickname for Macaron (keep -chii)
+チビスケ	Chibisuke	Paqy's nickname for Macaron
+パーちゃん	Paa-chan	Ria/Helena's nickname for Paqy (keep -chan)
+パの字	Pa-no-ji	Nanaka's nickname for Paqy
+じいや殿	Jiiya-dono	Shio's archaic address for Riesling (keep -dono)
+じいや	Jiiya	Lolotte's affectionate name for Riesling
+民子ちゃん	Tamiko-chan	Helena's teasing nickname for Riesling (keep -chan)
+民子	Tamiko	Helena's teasing nickname for Riesling
+御陵先輩	Misasagi-senpai	how younger students address Akane (keep -senpai)
+彩錦ちゃん	Akane-chan	affectionate address for Akane (keep -chan)
+彩錦殿	Akane-dono	Shio's archaic address for Akane (keep -dono)
+ぶぶづけ	Bubuzuke	Nanaka's nickname for Akane
+紫央ちゃん	Shio-chan	affectionate address for Shio (keep -chan)
+紫央様	Shio-sama	respectful address for Shio (keep -sama)
+飛鳥井はん	Asukai-han	Akane's Kyoto-dialect address for Shio (keep -han)
+エミちゃん	Amy-chan	Nanaka's nickname for Amyrina (keep -chan)
+さっちん	Sacchin	Sachiho's nickname and speaker label
+高橋さん	Takahashi-san	how Misa addresses Sachiho (keep -san)
+サチホ	Sachiho	Sachiho Takahashi's given name
+冬華さん	Fuyuka-san	polite address for Fuyuka (keep -san)
+谷村さん	Tanimura-san	patisserie owner (keep -san)
+タメさん	Tame-san	toy shop Ponpoko owner (keep -san)
+タメカゲ	Tamekage	Tame-san's full name
+キムさん	Kim-san	nikuman vendor (keep -san)
+哀川さん	Aikawa-san	minor speaker in 0063 (keep -san)
+向井原	Mukaibara	Eddie's surname (used by Misa)
+イツキ君	Itsuki-kun	boy in 0152 (keep -kun)
+女子生徒	Female Student	generic speaker label
+？？？？？	?????	unknown speaker label (keep 5 marks)
+？？？？	????	unknown speaker label (keep 4 marks)
+？？？	???	unknown speaker label (keep 3 marks)
+？？	??	unknown speaker label (keep 2 marks)
+リアの声	Ria's Voice	off-screen speaker label
+女の声	Female Voice	generic off-screen speaker label
+男の声	Male Voice	generic off-screen speaker label
+謎の男	Mysterious Man	generic speaker label
+女の子	Girl	generic speaker label
+男の子	Boy	generic speaker label
+女生徒	Female Student	generic speaker label
+猫魔族	Cat Demon	Pasta's unnamed cat-demon minion speaker label
+女魔族	Female Demon	generic/pre-reveal speaker label
+みんな	Everyone	group speaker label
+千軒院	Sengen'in	Kiyora's surname / speaker label
+姉小路	Anenokouji	Fuyuka's surname
+飛鳥井	Asukai	Shio's surname
+ナナカ	Nanaka	heroine, female
+アゼル	Azel	heroine, female
+ヘレナ	Helena	female, academy chairwoman
+サリー	Sally	female, Idol of the Demon World
+パスタ	Pasta	Demon General, female, cat-demon leader
+オヤビン	Oyabin	Sally's name for Eauderourke (or Boss)
+エディ	Eddie	male, Synn's classmate, baseball club
+ユミル	Yumil	female, Nanaka & Sacchin's friend
+イツキ	Itsuki	young boy in 0152
+ジロウ	Jirou	minor demon underling
+シーバ	Sheba	cat demon under Pasta
+コピー	Copy	robotic decoy of Synn in 0122 (only as speaker label; otherwise photocopy)
+ミサミサ	Misa-Misa	nickname for Misa
+大賢者	Great Sage	Paqy's title
+理事長	Chairwoman	Helena's title as academy head
+副会長	Vice-President	Misa's student council title
+シン？	Synn?	Paqy mimicking Synn in 0224
+ニベ	Nive	Melilot's Demon General name / clan
+カレン	Karen	missing character mentioned in 0560
+シン	Synn	protagonist, male
+咲良	Sakura	Synn's surname
+聖沙	Misa	heroine, female
 リア	Ria	heroine, female
 九浄	Kujou	surname of Ria and Helena
-アゼル	Azel	heroine, female, angel, transfer student
-メリロットさん	Melilot-san	polite address for Melilot (keep -san)
-メリロット	Melilot	heroine, female, librarian
-マカロン	Macaron	heroine, female, demon
-お兄ちゃん	Onii-chan	how Macaron calls Synn (keep -chan / Onii-chan)
-チビスケ	Chibisuke	nickname for Macaron
-アルザード	Alzard	Macaron's greatsword
-九浄ヘレナ	Helena Kujou	female, Ria's older sister, head of the academy
-ヘレナ	Helena	female
-御陵彩錦	Akane Misasagi	female, wagashi club president, Kyoto dialect
-御陵	Misasagi	Akane's surname, used as her speaker label
-彩錦	Akane	female
-ぶぶづけ	Bubuzuke	Nanaka's nickname for Akane
-高橋サチホ	Sachiho Takahashi	female, Nanaka's friend
-さっちん	Sacchin	Sachiho's nickname and speaker label
-飛鳥井紫央	Shio Asukai	female, Misa's cousin, shrine maiden
-紫央ちゃん	Shio-chan	affectionate address for Shio (keep -chan)
-紫央	Shio	female
-飛鳥井	Asukai	Shio's surname
-エミリナ	Amyrina	female, angel, choir member, Lolotte's friend
-サリーちゃん	Sally-chan	affectionate address for Sally (keep -chan)
-サリー	Sally	female, Idol of the Demon World
-パッキー	Paqy	male, talking plush, Great Sage
-大賢者	Great Sage	Paqy's title
-リースリング	Riesling	male, Lolotte's butler
+夕霧	Yuugiri	Nanaka's surname
+御陵	Misasagi	Akane's surname and speaker label
+彩錦	Akane	Akane Misasagi's given name
+紫央	Shio	Shio Asukai's given name
 遠山	Tooyama	Riesling's surname
-姉小路冬華	Fuyuka Anenokouji	female, minor character
-冬華	Fuyuka	female
-千軒院清羅	Kiyora Sengen'in	female, math teacher
-千軒院先生	Sengen'in-sensei	how students address Kiyora (keep -sensei)
-千軒院	Sengen'in	Kiyora's surname, used as her speaker label
-ササミ	Sasami	rooster (male chicken)
-バイラス	Bylous	Demon General (provisional spelling)
-ソルティア	Soltia	Demon General (provisional spelling)
-オデローク	Odelork	Demon General (provisional spelling)
-メルファス	Melphas	Demon General (provisional spelling)
-アーディン	Ardin	Demon General, male (provisional spelling)
-メイヴィス	Mavis	provisional spelling
-キューちゃん	Kyuu-chan	carrier bat (keep -chan)
-流星学園	Ryuusei Academy	school
-流星町	Ryuusei Town	town
-七大魔将	Seven Demon Generals	term
-リ・クリエ	Re-Crea	cyclical catastrophe term
-霊術	Spirit Arts	battle term
+冬華	Fuyuka	Fuyuka Anenokouji's given name
+清羅	Kiyora	Kiyora Sengen'in's given name
+高橋	Takahashi	Sachiho's surname
+魔王	Demon Lord	general title/noun when not used with -sama
+会長	President	Synn's student council title
+会計	Treasurer	Nanaka's student council title (when referring to role)
+書記	Secretary	Lolotte's student council title
+ソバ	Soba	Paqy's nickname for Nanaka (only when referring to her; otherwise soba)
+ヒス	Hiss	Paqy's nickname for Misa (from hysterical)
+ロロ	Lolo	short nickname for Lolotte
+男性	Man	generic speaker label (Melphas in disguise in 0142)
+女性	Woman	generic speaker label
+少女	Young Girl	generic/pre-reveal speaker label
+女子	Girl	generic speaker label
+魔族	Demon	demon species / generic speaker label
+声	Voice	generic speaker label (only as speaker label)

@@ -318,6 +318,8 @@ def pack_from_dir(
     trans_dir: Path | None = None,
     encoding: str = "cp932",
     strict_ctrl: bool = True,
+    allow_label_edits: bool = False,
+    allow_scene_title_edits: bool = False,
 ) -> tuple[bytes, bytes, dict[str, Any]]:
     """Rebuild textdata.bin and scenario.bin from translated JSON files and metadata."""
     meta_dir = work_dir / "metadata"
@@ -371,6 +373,22 @@ def pack_from_dir(
             msg_val = row["message"]
             if slot["kind"] == "scene_title" and slot.get("suffix"):
                 msg_val = msg_val + slot["suffix"]
+
+            if slot["kind"] == "label" and msg_val != slot["orig_msg"] and not allow_label_edits:
+                raise ValueError(
+                    f"{fname}[{row_idx}]: refusing to modify battle stage label "
+                    f"{slot['orig_msg']!r} -> {msg_val!r} "
+                    "(matched against BATTLE.CPK/Battle/stage.bbn; pass allow_label_edits=True to override)"
+                )
+            if slot["kind"] == "scene_title":
+                orig_full = slot["orig_msg"] + slot.get("suffix", "")
+                if msg_val != orig_full and not allow_scene_title_edits:
+                    raise ValueError(
+                        f"{fname}[{row_idx}]: refusing to modify scene_title "
+                        f"{slot['orig_msg']!r} -> {row['message']!r} "
+                        "(used as GRAPHIC.CPK/Grp_Title/%s.txt preload key at 0x0883c818; "
+                        "sync GRAPHIC.CPK or pass allow_scene_title_edits=True to override)"
+                    )
 
             if strict_ctrl and "ctrl" in slot:
                 got_ctrl = _extract_ctrl(msg_val)
@@ -467,6 +485,8 @@ def main() -> None:
     p_pk.add_argument("--out-cpk", help="Optional rebuilt GAMEINIT.CPK path")
     p_pk.add_argument("--cpk", help="Original GAMEINIT.CPK (required with --out-cpk)")
     p_pk.add_argument("--out-dir", help="Optional dir to write textdata.bin and scenario.bin")
+    p_pk.add_argument("--allow-label-edits", action="store_true", help="Allow modifying battle stage label slots")
+    p_pk.add_argument("--allow-scene-title-edits", action="store_true", help="Allow modifying OP_SCENE scene_title slots")
 
     p_vr = sub.add_parser("verify-roundtrip")
     p_vr.add_argument("--work", required=True, help="Extracted workspace directory")
@@ -492,7 +512,10 @@ def main() -> None:
     elif args.cmd == "pack":
         work = Path(args.work)
         td_packed, sc_packed, stats = pack_from_dir(
-            work, Path(args.trans) if args.trans else None
+            work,
+            Path(args.trans) if args.trans else None,
+            allow_label_edits=args.allow_label_edits,
+            allow_scene_title_edits=args.allow_scene_title_edits,
         )
         if args.out_dir:
             od = Path(args.out_dir)
