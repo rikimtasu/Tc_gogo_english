@@ -1,8 +1,9 @@
-"""Build Inrond PSP Latin bitmap fonts while preserving the original Japanese glyphs."""
+"""Build Barlow Semi Condensed PSP Latin bitmap fonts while preserving the original Japanese glyphs."""
 
 from __future__ import annotations
 
 import argparse
+from functools import lru_cache
 import struct
 import sys
 from pathlib import Path
@@ -14,8 +15,8 @@ from cpk.cpk import CpkArchive  # noqa: E402
 from cpk import crilayla  # noqa: E402
 
 
-DEFAULT_TTF = Path("Inrond-1.0/fonts/variable/Inrond[ROND,opsz,wght].ttf")
-DEFAULT_FONT_AXES = {"opsz": 14.0, "wght": 500.0, "ROND": 50.0}
+DEFAULT_TTF = Path("BarlowSemiCondensed/BarlowSemiCondensed-Medium.ttf")
+DEFAULT_FONT_AXES: dict[str, float] = {}
 AA_SUPERSAMPLE = 4
 
 # Font sizes tuned for each sulakyapi cell height (12px, 19px, 26px)
@@ -26,6 +27,7 @@ FONT_SPECS = {
         "threshold": 105,
         "space_w": 3,
         "y_offset": 1,
+        "baseline_row": 8,
         "sheets": ["font8_0.tm2"],
         "target_sheet": 0,
         "resize_sheet": (256, 256),  # original 256x128 -> 256x256
@@ -36,6 +38,10 @@ FONT_SPECS = {
         "threshold": 115,
         "space_w": 4,
         "y_offset": 1,
+        # Align the cap-'H' baseline at row 11 so the third message line stays
+        # clear of the window's bottom border and tall glyphs ('i', 'f') do not
+        # hit the top clamp and sag below the baseline.
+        "baseline_row": 11,
         "sheets": ["font12_0.tm2", "font12_1.tm2", "font12_2.tm2", "font12_3.tm2"],
         "target_sheet": 3,  # font12_3.tm2 has y=400..512 completely unused!
         "resize_sheet": None,
@@ -46,6 +52,7 @@ FONT_SPECS = {
         "threshold": 115,
         "space_w": 6,
         "y_offset": 2,
+        "baseline_row": 19,
         "sheets": ["font18_0.tm2"],
         "target_sheet": 0,
         "resize_sheet": (512, 256),  # original 256x256 -> 512x256
@@ -177,11 +184,27 @@ def antialias_clut(original: bytes, used_indices: set[int]) -> bytes:
     return bytes(palette)
 
 
-def antialiased_ink(font: ImageFont.FreeTypeFont, ch: str, cell_h: int, y_off: int,
-                    width_scale: float, axes: dict[str, float] | None) -> tuple[Image.Image, int]:
-    """Rasterize and condense from a 4x outline before reducing to native PSP pixels."""
+def add_4x_serif_capital_i(ink: Image.Image, scale: int) -> Image.Image:
+    """Add rounded serifs to 4x antialiased 'I' before downsampling."""
+    sw, sh = ink.size
+    serif_w = max(sw + 2 * scale, round(sw * 2.6))
+    if (serif_w - sw) % 2:
+        serif_w += 1
+    serif_h = max(scale, round(sw * 0.78))
+    rad = max(1, serif_h // 2)
+    hi = Image.new("L", (serif_w, sh), 0)
+    hi.paste(ink, ((serif_w - sw) // 2, 0))
+    draw = ImageDraw.Draw(hi)
+    draw.rounded_rectangle((0, 0, serif_w - 1, serif_h - 1), radius=rad, fill=255)
+    draw.rounded_rectangle((0, sh - serif_h, serif_w - 1, sh - 1), radius=rad, fill=255)
+    return Image.blend(hi, hi.transpose(Image.Transpose.FLIP_LEFT_RIGHT), 0.5)
+
+
+def _rasterize_4x_ink(ttf_path: Path, size: int, ch: str, cell_h: int,
+                      width_scale: float, axes: dict[str, float] | None) -> tuple[Image.Image, int]:
+    """Rasterize and condense a glyph at 4x before returning (cropped_ink, raw_top_1x)."""
     scale = AA_SUPERSAMPLE
-    large = load_font(Path(font.path), font.size * scale, axes)
+    large = load_font(ttf_path, size * scale, axes)
     left, top, right, bottom = large.getbbox(ch)
     pad = 4 * scale
     ox, oy = pad - min(0, left), pad - min(0, top)
@@ -189,19 +212,46 @@ def antialiased_ink(font: ImageFont.FreeTypeFont, ch: str, cell_h: int, y_off: i
     ImageDraw.Draw(mask).text((ox, oy), ch, font=large, fill=255)
     bounds = mask.getbbox()
     if bounds is None:
-        return Image.new('L', (1, 1), 0), 1
+        return Image.new('L', (1, 1), 0), 0
     ink = mask.crop(bounds)
+    if ch == "I":
+        ink = add_4x_serif_capital_i(ink, scale)
     target_w = max(1, round(ink.width * width_scale / scale))
     target_h = max(1, min(cell_h - 2, round(ink.height / scale)))
     ink = ink.resize((target_w, target_h), Image.Resampling.LANCZOS)
     peak = ink.getextrema()[1]
     if peak:
-        # Keep thin punctuation and stems bright without throwing away edge coverage.
-        ink = ink.point([0 if value < 24 else min(255, round(value * 255 / peak)) for value in range(256)])
+        # Cut low LANCZOS dust (<36) and apply gamma=0.72 so thin stems stay bright
+        # while edge shades smoothly span palette indices 0..12.
+        ink = ink.point([0 if value < 36 else min(255, round(255 * ((value / peak) ** 0.72))) for value in range(256)])
     visible = ink.getbbox()
     if visible is not None:
         ink = ink.crop(visible)
-    desired_top = y_off + round((bounds[1] - oy) / scale) + (visible[1] if visible else 0)
+    raw_top = round((bounds[1] - oy) / scale) + (visible[1] if visible else 0)
+    return ink, raw_top
+
+
+@lru_cache(maxsize=64)
+def _baseline_shift(ttf_path: str, size: int, cell_h: int,
+                    axes_items: tuple[tuple[str, float], ...], baseline_row: int) -> int:
+    """Compute uniform vertical shift placing cap-'H' ink bottom on baseline_row."""
+    axes = dict(axes_items) if axes_items else None
+    h_ink, h_raw_top = _rasterize_4x_ink(Path(ttf_path), size, "H", cell_h, 1.0, axes)
+    return baseline_row - (h_raw_top + h_ink.height - 1)
+
+
+def antialiased_ink(font: ImageFont.FreeTypeFont, ch: str, cell_h: int, y_off: int,
+                    width_scale: float, axes: dict[str, float] | None,
+                    ink_lift: int = 0, baseline_row: int | None = None) -> tuple[Image.Image, int]:
+    """Rasterize and condense from a 4x outline before reducing to native PSP pixels."""
+    ink, raw_top = _rasterize_4x_ink(Path(font.path), font.size, ch, cell_h, width_scale, axes)
+    if ink.getextrema()[1] == 0:
+        return ink, 1
+    if baseline_row is not None:
+        axes_items = tuple(sorted((axes or {}).items()))
+        desired_top = raw_top + _baseline_shift(str(font.path), font.size, cell_h, axes_items, baseline_row)
+    else:
+        desired_top = y_off + raw_top - ink_lift
     return ink, max(1, min(desired_top, cell_h - ink.height - 1))
 
 
@@ -222,15 +272,35 @@ def condense_ink(ink: Image.Image, width_scale: float) -> Image.Image:
     return result
 
 
+def serif_capital_i(ink: Image.Image) -> Image.Image:
+    """Give ASCII 'I' visible serifs so it cannot read as a pipe at 14px."""
+    width = max(4, ink.width + 2)
+    result = Image.new("L", (width, ink.height), 0)
+    src, dst = ink.load(), result.load()
+    offset = (width - ink.width) // 2
+    for y in range(ink.height):
+        for x in range(ink.width):
+            if src[x, y]:
+                dst[x + offset, y] = src[x, y]
+    # Top and bottom serifs plus the stem, so the glyph reads as a capital I.
+    for x in range(width):
+        dst[x, 0] = 255
+        dst[x, ink.height - 1] = 255
+    for y in range(ink.height):
+        dst[width // 2, y] = 255
+    return result
+
+
 def render_outlined_glyph(font: ImageFont.FreeTypeFont, ch: str, cell_h: int, threshold: int, y_off: int, *,
                           width_scale: float = 1.0, tight_spacing: bool = False,
-                          antialias: bool = False, font_axes: dict[str, float] | None = None) -> tuple[Image.Image, int, int, int]:
+                          antialias: bool = False, font_axes: dict[str, float] | None = None,
+                          ink_lift: int = 0, baseline_row: int | None = None) -> tuple[Image.Image, int, int, int]:
     """Render 4bpp ink (0..12=AA grays, 13=outline, 14=clear, 15=white) and A/B/C metrics."""
     if not 0 < width_scale <= 1:
         raise ValueError("Glyph width scale must be greater than zero and at most one")
     adv = max(1, round(font.getlength(ch) * width_scale))
     if antialias:
-        ink, ink_y = antialiased_ink(font, ch, cell_h, y_off, width_scale, font_axes)
+        ink, ink_y = antialiased_ink(font, ch, cell_h, y_off, width_scale, font_axes, ink_lift, baseline_row)
     else:
         pad = 4
         left, top, right, bottom = font.getbbox(ch)
@@ -252,9 +322,12 @@ def render_outlined_glyph(font: ImageFont.FreeTypeFont, ch: str, cell_h: int, th
             ink = ink.resize((ink.width, cell_h - 2), Image.Resampling.NEAREST)
         if width_scale != 1:
             ink = condense_ink(ink, width_scale)
-        desired_top = y_off + bounds[1] - origin_y
+        desired_top = y_off + bounds[1] - origin_y - ink_lift
         ink_y = max(1, min(desired_top, cell_h - ink.height - 1))
     gw = ink.width + 2
+    if ch == 'I' and not antialias:
+        ink = serif_capital_i(ink)
+        gw = ink.width + 2
     cell = Image.new("L", (gw, cell_h), 0)
     cell.paste(ink, (1, ink_y))
     outline = cell.filter(ImageFilter.MaxFilter(3))
@@ -279,8 +352,9 @@ def render_outlined_glyph(font: ImageFont.FreeTypeFont, ch: str, cell_h: int, th
 
 
 def font_specs(font_names: list[str] | None = None, dialogue_size: int | None = None,
-                tight_dialogue: bool = False, dialogue_width_scale: float | None = None) -> dict:
-    """Resolve per-build Inrond settings without mutating the reference presets."""
+                tight_dialogue: bool = False, dialogue_width_scale: float | None = None,
+                space_width: int | None = None) -> dict:
+    """Resolve per-build font settings without mutating the reference presets."""
     names = list(FONT_SPECS) if font_names is None else font_names
     if not names or any(name not in FONT_SPECS for name in names):
         raise ValueError("Select at least one known font set")
@@ -296,17 +370,20 @@ def font_specs(font_names: list[str] | None = None, dialogue_size: int | None = 
         spec["space_w"] = max(1, round(original["space_w"] * dialogue_size / original["ttf_size"]))
         spec["y_offset"] = max(0, original["y_offset"] + (original["ttf_size"] - dialogue_size) // 2)
     if tight_dialogue and "sulakyapi12" in specs:
-        specs["sulakyapi12"].update(width_scale=0.90, tight_spacing=True, space_w=2)
+        specs["sulakyapi12"].update(width_scale=1.0, tight_spacing=True, space_w=3)
     if dialogue_width_scale is not None and "sulakyapi12" in specs:
         specs["sulakyapi12"]["width_scale"] = dialogue_width_scale
+    if space_width is not None and "sulakyapi12" in specs:
+        specs["sulakyapi12"]["space_w"] = space_width
     return specs
 
 
 def build_fonts(cpk_path: Path, ttf_path: Path, out_dir: Path, *,
                 font_names: list[str] | None = None, dialogue_size: int | None = None,
                 tight_dialogue: bool = False, dialogue_width_scale: float | None = None,
-                font_axes: dict[str, float] | None = None, antialias: bool = True) -> None:
-    specs = font_specs(font_names, dialogue_size, tight_dialogue, dialogue_width_scale)
+                font_axes: dict[str, float] | None = None, antialias: bool = True,
+                space_width: int | None = None) -> None:
+    specs = font_specs(font_names, dialogue_size, tight_dialogue, dialogue_width_scale, space_width)
     axes = resolve_font_axes(ttf_path, font_axes)
     if (out_dir / "font").exists():
         raise FileExistsError(f"Refusing to overwrite existing font assets: {out_dir / 'font'}")
@@ -368,7 +445,8 @@ def build_fonts(cpk_path: Path, ttf_path: Path, out_dir: Path, *,
                 gimg, a_bear, b_wid, c_bear = render_outlined_glyph(
                     ttf, ch, cell_h, spec["threshold"], spec["y_offset"],
                     width_scale=spec.get("width_scale", 1.0), tight_spacing=spec.get("tight_spacing", False),
-                    antialias=antialias, font_axes=axes
+                    antialias=antialias, font_axes=axes, ink_lift=spec.get("ink_lift", 0),
+                    baseline_row=spec.get("baseline_row"),
                 )
 
             gw, gh = gimg.size
@@ -385,6 +463,10 @@ def build_fonts(cpk_path: Path, ttf_path: Path, out_dir: Path, *,
                     pixels[row_off + cur_x + xx] = gpx[xx, yy]
 
             new_rec = [cur_x, cur_y, cur_x + gw, cur_y + gh, a_bear, b_wid, c_bear, 0, t_idx]
+            # Update the record the code already references so the glyph count
+            # stays exactly equal to the original. Growing the table by even a
+            # few dozen records crashed the game: the engine keeps a fixed-size
+            # glyph structure, so ASCII must reuse its existing slots.
             existing_gi = lut[code]
             if existing_gi:
                 glyphs[existing_gi] = new_rec
@@ -410,14 +492,15 @@ def build_fonts(cpk_path: Path, ttf_path: Path, out_dir: Path, *,
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="Build Inrond PSP font assets")
+    ap = argparse.ArgumentParser(description="Build Barlow Semi Condensed PSP font assets")
     ap.add_argument("--cpk", required=True, help="Original GAMEINIT.CPK")
     ap.add_argument("--ttf", default=str(DEFAULT_TTF))
     ap.add_argument("--out", required=True, help="Output directory")
     ap.add_argument("--only", action="append", choices=FONT_SPECS, help="Build only the selected font set(s)")
     ap.add_argument("--dialogue-size", type=int, help="Latin dialogue raster size, 10..16px (default: 14px); line height stays 19px")
-    ap.add_argument("--tight-dialogue", action="store_true", help="Tight Latin dialogue spacing, 90%% width and 2px spaces")
-    ap.add_argument("--dialogue-width-scale", type=float, help="Override Latin dialogue horizontal scale (0 < scale <= 1)")
+    ap.add_argument("--tight-dialogue", action="store_true", help="Tight Latin dialogue spacing, 100%% width and 3px spaces")
+    ap.add_argument("--dialogue-width-scale", type=float, help="Override Latin dialogue width (0 < scale <= 1)")
+    ap.add_argument("--space-width", type=int, help="Override Latin dialogue space width in pixels")
     ap.add_argument("--font-weight", type=float, help="Variable font weight (default: 500)")
     ap.add_argument("--font-roundness", type=float, help="Inrond roundness (default: 50)")
     ap.add_argument("--font-optical-size", type=float, help="Variable optical size (default: 14)")
@@ -427,7 +510,7 @@ def main() -> None:
     build_fonts(Path(args.cpk), Path(args.ttf), Path(args.out), font_names=args.only,
                 dialogue_size=args.dialogue_size, tight_dialogue=args.tight_dialogue,
                 dialogue_width_scale=args.dialogue_width_scale, font_axes=axes or None,
-                antialias=not args.no_antialias)
+                antialias=not args.no_antialias, space_width=args.space_width)
 
 
 if __name__ == "__main__":

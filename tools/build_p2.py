@@ -18,6 +18,7 @@ from font.build_font import (build_fonts, font_specs, DEFAULT_TTF, resolve_font_
 from font.verify_font import verify_fonts
 from iso.patch_iso import patch_iso, find_iso_file_record, SECTOR_SIZE
 from pjadv.scenario import pack_from_dir, extract_from_bytes
+from pjadv.check_widths import Metrics, wrap_lines, DEFAULT_BUDGET_PX, DEFAULT_LINES
 
 
 ISO_SHA256 = '2025c8df4e642a65ae27da422eefb81c34f71028c425e848e5124d34a1669f7e'
@@ -64,6 +65,19 @@ def build(work: Path, iso: Path, cpk: Path, eboot: Path, trans: Path,
         build_fonts(cpk, ttf, fonts, dialogue_size=dialogue_size, tight_dialogue=tight_dialogue,
                     dialogue_width_scale=dialogue_width_scale, font_axes=axes, antialias=antialias)
     font_results = verify_fonts(cpk, fonts)
+    # Dialogue rows must fit the three-line message window; the EBOOT patch wraps
+    # on this pixel budget, and anything longer is clipped in game.
+    metrics_path = fonts / 'font' / 'sulakyapi12' / 'abc.w_abc'
+    if metrics_path.is_file():
+        metrics = Metrics(metrics_path)
+        overflow = []
+        for name in sorted(translated_files):
+            for index, row in enumerate(json.loads((trans / name).read_text(encoding='utf-8'))):
+                lines = wrap_lines(row.get('message', ''), metrics, DEFAULT_BUDGET_PX)
+                if len(lines) > DEFAULT_LINES:
+                    overflow.append(f'{name}[{index}] needs {len(lines)} lines')
+        if overflow:
+            raise ValueError('Rows overflow the message window: ' + '; '.join(overflow[:10]))
     packed_td, packed_sc, stats = pack_from_dir(work, trans)
     if stats['warnings']:
         raise ValueError(f"Control-code validation failed: {stats['warnings']}")
@@ -147,7 +161,7 @@ if __name__ == '__main__':
     ap.add_argument('--fonts', type=Path, help='Reuse a validated build containing font/; otherwise generate new assets')
     ap.add_argument('--ttf', type=Path, default=DEFAULT_TTF)
     ap.add_argument('--dialogue-size', type=int, help='Latin dialogue raster size, 10..16px (default: 14px)')
-    ap.add_argument('--tight-dialogue', action='store_true', help='Tight Latin dialogue spacing, 90%% width and 2px spaces')
+    ap.add_argument('--tight-dialogue', action='store_true', help='Tight Latin dialogue spacing, 100%% width and 3px spaces')
     ap.add_argument('--dialogue-width-scale', type=float, help='Override Latin dialogue width (0 < scale <= 1)')
     ap.add_argument('--font-weight', type=float, help='Variable weight (default: 500)')
     ap.add_argument('--font-roundness', type=float, help='Inrond roundness (default: 50)')

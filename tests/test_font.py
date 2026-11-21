@@ -10,7 +10,7 @@ from tools.font.build_font import (FONT_SPECS, render_outlined_glyph, font_specs
 TTF = DEFAULT_TTF
 
 
-@unittest.skipUnless(TTF.is_file(), 'Inrond font unavailable')
+@unittest.skipUnless(TTF.is_file(), 'Barlow Semi Condensed font unavailable')
 class FontTests(unittest.TestCase):
     def test_every_printable_glyph_has_unclipped_ink(self):
         for name, spec in FONT_SPECS.items():
@@ -65,8 +65,8 @@ class FontTests(unittest.TestCase):
     def test_tight_preset_changes_only_dialogue(self):
         normal = font_specs(dialogue_size=13)
         tight = font_specs(dialogue_size=13, tight_dialogue=True)
-        self.assertEqual(tight['sulakyapi12']['width_scale'], 0.90)
-        self.assertEqual(tight['sulakyapi12']['space_w'], 2)
+        self.assertEqual(tight['sulakyapi12']['width_scale'], 1.0)
+        self.assertEqual(tight['sulakyapi12']['space_w'], 3)
         self.assertEqual(tight['sulakyapi12']['cell_h'], 19)
         self.assertEqual(tight['sulakyapi12']['y_offset'], normal['sulakyapi12']['y_offset'])
         for name in ('sulakyapi8', 'sulakyapi18'):
@@ -108,16 +108,18 @@ class FontTests(unittest.TestCase):
         self.assertLess(tight_total, normal_total)
 
     def test_inrond_axes_use_actual_font_order_and_validate_values(self):
-        self.assertEqual(resolve_font_axes(TTF), {'opsz': 14.0, 'wght': 500.0, 'ROND': 50.0})
-        self.assertEqual(list(resolve_font_axes(TTF)), ['opsz', 'wght', 'ROND'])
-        for axes in ({'wght': 1000}, {'ROND': -1}, {'opsz': 1}, {'wdth': 90}):
-            with self.assertRaises(ValueError):
-                resolve_font_axes(TTF, axes)
+        self.assertEqual(resolve_font_axes(TTF), {})
+        inrond = Path('Inrond-1.0/fonts/variable/Inrond[ROND,opsz,wght].ttf')
+        if inrond.is_file():
+            self.assertEqual(list(resolve_font_axes(inrond)), ['opsz', 'wght', 'ROND'])
+            for axes in ({'wght': 1000}, {'ROND': -1}, {'opsz': 1}, {'wdth': 90}):
+                with self.assertRaises(ValueError):
+                    resolve_font_axes(inrond, axes)
 
     def test_nested_font_package_license(self):
         files = font_license_files(TTF)
-        self.assertEqual(files[0], Path('Inrond-1.0/OFL.txt').resolve())
-        self.assertIn('The Inrond Project Authors', files[0].read_text(encoding='utf-8'))
+        self.assertEqual(files[0], Path('BarlowSemiCondensed/OFL.txt').resolve())
+        self.assertIn('SIL OPEN FONT LICENSE', files[0].read_text(encoding='utf-8'))
 
     def test_antialias_palette_preserves_every_original_used_color(self):
         original = bytes([0, 0, 0, 255] * 13 + [0, 0, 0, 255, 255, 255, 255, 0, 255, 255, 255, 255])
@@ -137,7 +139,7 @@ class FontTests(unittest.TestCase):
                 with self.subTest(font=name, glyph=chr(code)):
                     img, a, b, c = render_outlined_glyph(font, chr(code), spec['cell_h'], spec['threshold'], spec['y_offset'],
                         width_scale=spec.get('width_scale', 1.0), tight_spacing=spec.get('tight_spacing', False),
-                        antialias=True, font_axes=DEFAULT_FONT_AXES)
+                        antialias=True, font_axes=DEFAULT_FONT_AXES or None, baseline_row=spec.get('baseline_row'))
                     indices = {img.getpixel((x, y)) for y in range(img.height) for x in range(img.width)}
                     self.assertIn(15, indices)
                     self.assertIn(13, indices)
@@ -158,7 +160,7 @@ class FontTests(unittest.TestCase):
         for ch, expected in (('O', 1), ('o', 1), ('0', 1), ('8', 2), ('B', 2), ('R', 1)):
             with self.subTest(glyph=ch):
                 img, _, _, _ = render_outlined_glyph(font, ch, 19, 115, 1,
-                    width_scale=0.9, tight_spacing=True, antialias=True)
+                    width_scale=1.0, tight_spacing=True, antialias=True, baseline_row=11)
                 ink = {(x, y) for y in range(img.height) for x in range(img.width)
                        if img.getpixel((x, y)) not in (13, 14)}
                 free = {(x, y) for y in range(img.height) for x in range(img.width)} - ink
@@ -178,3 +180,49 @@ class FontTests(unittest.TestCase):
                     holes -= component(next(iter(holes)), holes)
                     count += 1
                 self.assertEqual(count, expected)
+
+    def test_antialiased_capital_i_has_symmetric_serifs(self):
+        for name, spec in font_specs(tight_dialogue=True).items():
+            with self.subTest(font=name):
+                font = load_font(TTF, spec['ttf_size'])
+                img_i, _, _, _ = render_outlined_glyph(
+                    font, 'I', spec['cell_h'], spec['threshold'], spec['y_offset'],
+                    width_scale=spec.get('width_scale', 1.0), tight_spacing=spec.get('tight_spacing', False),
+                    antialias=True, font_axes=DEFAULT_FONT_AXES or None,
+                    ink_lift=spec.get('ink_lift', 0), baseline_row=spec.get('baseline_row'),
+                )
+                img_l, _, _, _ = render_outlined_glyph(
+                    font, 'l', spec['cell_h'], spec['threshold'], spec['y_offset'],
+                    width_scale=spec.get('width_scale', 1.0), tight_spacing=spec.get('tight_spacing', False),
+                    antialias=True, font_axes=DEFAULT_FONT_AXES or None,
+                    ink_lift=spec.get('ink_lift', 0), baseline_row=spec.get('baseline_row'),
+                )
+                self.assertGreater(img_i.width, img_l.width)
+                indices = {img_i.getpixel((x, y)) for y in range(img_i.height) for x in range(img_i.width)}
+                self.assertIn(15, indices)
+                self.assertIn(13, indices)
+                for y in range(img_i.height):
+                    for x in range(img_i.width):
+                        self.assertEqual(img_i.getpixel((x, y)), img_i.getpixel((img_i.width - 1 - x, y)))
+
+    def test_dialogue_baseline_is_uniform_and_uses_upper_aa_shades(self):
+        spec = font_specs(tight_dialogue=True)['sulakyapi12']
+        font = load_font(TTF, spec['ttf_size'])
+        for ch in ('H', 'a', 'e', 'f', 'i', 'h', 'l', 't'):
+            with self.subTest(glyph=ch):
+                img, _, _, _ = render_outlined_glyph(
+                    font, ch, spec['cell_h'], spec['threshold'], spec['y_offset'],
+                    width_scale=spec['width_scale'], tight_spacing=spec['tight_spacing'],
+                    antialias=True, baseline_row=spec['baseline_row'],
+                )
+                ink_ys = [y for y in range(img.height) for x in range(img.width) if img.getpixel((x, y)) not in (13, 14)]
+                self.assertEqual(max(ink_ys), spec['baseline_row'])
+        used_shades = set()
+        for code in range(33, 127):
+            img, _, _, _ = render_outlined_glyph(
+                font, chr(code), spec['cell_h'], spec['threshold'], spec['y_offset'],
+                width_scale=spec['width_scale'], tight_spacing=spec['tight_spacing'],
+                antialias=True, baseline_row=spec['baseline_row'],
+            )
+            used_shades.update(img.getpixel((x, y)) for y in range(img.height) for x in range(img.width))
+        self.assertTrue(used_shades & set(range(7, 13)))

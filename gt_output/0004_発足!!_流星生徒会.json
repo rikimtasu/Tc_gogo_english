@@ -1,0 +1,292 @@
+[
+ {
+  "message": "発足!! 流星生徒会"
+ },
+ {
+  "name": "Synn",
+  "message": "\"Mmh... mmh...?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Huh? What is this...? This smell... could it be―\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Breakfast!?\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Good mo-orning, Mr. President\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Wow! Look at this spread!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Two-egg bacon and eggs. Two slices of crustless bread slathered with margarine. Mashed potatoes made from organically grown potatoes.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Why is that all in past tense?!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Plus a hundred-item fresh salad with non-oil dressing. Orange juice, 100% fresh-squeezed straight from the orchard. And for dessert, of course―\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"A musk melon!!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Dig in\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Thanks for the food!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Munch munch... delicious! Seconds! ―Thanks for the meal!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Off you go, Mr. President\\s04\""
+ },
+ {
+  "name": "??",
+  "message": "\"Eek!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ow!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Ouchie~~. Sorry about thaaat\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Are you all right, miss?\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Oh... that was ULTRA cool\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"...\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Why are you looking away!? I want you to stare more!!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Then first, kindly close those lovely bare legs of yours. I hardly know where to look.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Oh... I suppose I wouldn't mind if it were you... Eep, I said it\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Th-this really is a problem\\s01\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Honestly, you shy President\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ahh, I'm hungry...\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Excuse me. Mr. President, if you would like, please have this.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"A bento? Could it be, for me?\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Merely sharing what is left over\\s04\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"First tier: a full osechi course, packed with herring roe. Second tier: the three-part harmony of tempura rice, eel rice, and pork cutlet rice.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Delicious!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Then the climax: the third tier, the pinnacle of Japanese cuisine―nigiri sushi piled with salmon roe and sea urchin. And to crown it all, dessert. Which is―\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"A musk melon!?\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Say ahh\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ahh. Munch munch... delicious!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Hee hee. Was it to your liking?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Early-morning breakfast is the best!! Thank you for the meal!!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Thank you for eating so much. Mr. President\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Now, it's already noon...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"...sniff\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"What's the matter, miss?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"I have no money. So I can't buy a single thing.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Heh. In that case, I'll―\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Lend you some!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"How incredibly generous of you...\\S07\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Now then, what shall we buy?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Anpan, jam bread, curry bread, melon bread, yakisoba bread, omusoba bread, uguisu bread, two-color bread, and a baguette. All of it.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"And to finish it off, a musk melon!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And how will you pay?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"In cash, of course.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"As expected of the President\\S07\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"What!? Meteors are falling from the sky!?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"This is bad. At this rate, everyone will be in danger...\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"All right, leave this to me.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Su-per-finisher! President Beeeam!!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Phew... today's student council activities ended without a hitch. Now, time to have fun~~\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Splurging a little on some cider...\""
+ },
+ {
+  "name": "Everyone",
+  "message": "\"Cheers!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"All-you-can-sing, all-you-can-drink. Let's have ourselves a blast!! Let's live our youth to the fullest!!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Waiter, the usual.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Nothing beats a beef steak for dinner. The knife glides right through, and the juices come bursting out.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Did you all know? 'Bifuteki' is short for 'beef steak'.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Wow~ the President is so learned~\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"As expected of the President!!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Naturally, for the President.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"The President is simply the best.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Heh heh. Keep that up and the beef will get cold.\""
+ },
+ {
+  "name": "Everyone",
+  "message": "\"Thanks for the food!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Digging in! Say ahh\""
+ },
+ {
+  "message": "Huh... huh?"
+ },
+ {
+  "message": "Wh-what is this!?"
+ },
+ {
+  "message": "Since when is bifuteki this watery―"
+ },
+ {
+  "message": "glggglggh."
+ },
+ {
+  "message": "can't... breathe..."
+ }
+]

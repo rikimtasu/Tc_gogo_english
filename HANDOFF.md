@@ -4,13 +4,13 @@
 **Platform**: Sony PlayStation Portable (PSP)  
 **Product Code**: `ULJS-00316` (v1.01)  
 **Git Repository**: [https://github.com/rikimtasu/Tc_gogo_english.git](https://github.com/rikimtasu/Tc_gogo_english.git) (Branch: `main`)  
-**Last Updated**: 2026-11-21  
+**Last Updated**: 2026-11-22  
 
 ---
 
 ## 1. Executive Summary & Source Baseline
 
-The intended deliverable is a complete English xdelta3 patch for the PSP visual novel *Twinkle Crusaders GoGo!* (v1.01). Currently, a 34-row prologue draft and a P2 rendering trial are built; runtime validation is pending. Scope is restricted to Disc 1 (*GoGo!* main game); the *STARLIT BRAVE!!* bonus UMD is deferred.
+The intended deliverable is a complete English xdelta3 patch for the PSP visual novel *Twinkle Crusaders GoGo!* (v1.01). Currently, Batch 1 (6 scenes, 914 changed rows / 908 checked dialogue rows), a **Barlow Semi Condensed Medium** font pipeline, a `1.5x` EBOOT slot-expansion fix, and save-load/backlog EBOOT fixes (including the `0x0887F924` speaker capture clamp) have been built into `build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso`, with `63/63` unit tests passing. Scope is restricted to Disc 1 (*GoGo!* main game); the *STARLIT BRAVE!!* bonus UMD is deferred.
 
 ### Cryptographic Baseline Hashes
 All patches and re-imports must strictly target and match the following clean baseline dumps (see `reports/source.md`):
@@ -37,8 +37,8 @@ All patches and re-imports must strictly target and match the following clean ba
    - `Re-Crea` for `リ・クリエ`
 4. **Translation Workflow**: Machine translation (MTL) draft for initial throughput, followed by human editorial review, consistency passes, and in-game proofreading.
 5. **Word Wrapping Strategy**: Proportional word wrapping injected directly into the EBOOT MIPS text renderer. No pre-wrapping at extraction time.
-6. **Font Choice**: `Inrond-1.0` (SIL Open Font License 1.1) replaces NewGoStyle for all Latin glyphs in `sulakyapi{8,12,18}`. Original Japanese glyphs are preserved. NewGoStyle files and earlier builds remain only for historical comparison.
-   The active dialogue preset is 14px, weight 500, roundness 50, optical size 14. `--tight-dialogue` uses 90% horizontal scale, one-pixel minimum gaps between ink bounds, and 2px spaces. Supersampled grayscale edges use previously unused palette entries without changing Japanese glyph colors. The new `H` has 10px of visible ink versus 11px for original Japanese `本`. Runtime readability testing is pending.
+6. **Font Choice**: `BarlowSemiCondensed/BarlowSemiCondensed-Medium.ttf` (SIL Open Font License 1.1; license `BarlowSemiCondensed/OFL.txt`) replaces `Inrond-1.0` and NewGoStyle for all Latin glyphs in `sulakyapi{8,12,18}`. Original Japanese glyphs are preserved. `Inrond-1.0/` and NewGoStyle files/earlier builds remain only for historical comparison and variable-axis tests.
+   The active dialogue preset is 14px raster size, `100%` horizontal scale (naturally semi-condensed), tight spacing (`c = -1`, 1px minimum gap between ink bounds), and `3px` word spaces. Capital `I` uses 4x supersampled rounded serifs; supersampled grayscale edges apply a `< 36` dust cutoff and `gamma = 0.72` boost across all 13 previously unused palette entries (`0..12`, with `247+ -> 15`) without changing Japanese glyph colors. Uniform font-wide `baseline_row` alignment (`8 / 11 / 19` for `sulakyapi8 / 12 / 18`) replaces the earlier `ink_lift = 4` clamp. Visible `H` is 10px versus 11px for original Japanese `本`; `"Hourly Rate"` advance is 64px. Runtime visual verification of the Barlow build in PPSSPP is pending.
 
 ---
 
@@ -74,8 +74,9 @@ ISO9660 (.iso)
 - **Sheet 3 Usable Area**: Rows `Y=401..512` are completely empty in the original Japanese atlas. ASCII characters `0x20..0x7E` are injected into this unused region, preserving 100% of existing Japanese Kanji.
 - **Palette Indices**:
   - `14`: Transparent
-  - `13`: 1px Black Outline
+  - `13`: 1px Black Outline (dynamically overwritten per draw by the EBOOT glyph renderer at `0x08881a44..0x08881a68` with sprite outline RGBA `+0x34..+0x37`)
   - `15`: Solid White Fill (Ink)
+  - `0..12`: Unused in original sheets; populated with opaque grayscale edge shades (`18..237`) for antialiased Latin edges (left untouched by the EBOOT draw path)
 - **Metrics File (`abc.w_abc`)**:
    - Header: 22 bytes (`version=5`, four floats, maximum lookup code).
    - Lookup Table: `(max_code + 1) * 2` bytes (Shift-JIS code to glyph index).
@@ -97,6 +98,9 @@ ISO9660 (.iso)
    - Handles `\n` linebreaks through escape dispatch; callable newline helper: `0x0887C400`.
   - Handles `\sNN` emote and formatting codes.
    - `0x08949940` contains live code, not an empty cave. The PoC appends a second executable `PT_LOAD` at `0x08A76000`, after the original memory end `0x08A75B00`.
+- **State Serializer / Deserializer**: `0x0887F2F8` (save) and `0x0887F5D8` (load) store fixed `0x1458`-byte records per text context, hardcoded for at most **`0xF8` (248)** byte slots (`0x64` header + `0xF8` text bytes + `0xF8 * 0x14` sprite records). The original `SLOT_FACTOR = 4` (`208 * 3 = 624` slots) overflowed this buffer by ~7.5 KB, corrupting `fade_obj->0x18` (`0x00000000`) and causing `Invalid Memory Access` at `0x6c` in `0x0887EB58` (`fade_flush`). Also, `0x0887F880` in `0x0887F5D8` mistakenly called `emit_wide` (`0x0887B97C`) instead of `emit_ascii` (`0x0887BFD4`) when restoring 1-byte ASCII.
+- **Typewriter Fade List**: `0x0887E500` (`fade_add_main`, originally unchecked against capacity `0xc($a0)`), flushed by `0x0887EB58` (`fade_flush`) and freed by `0x0887E11C`.
+- **Backlog Subsystem**: Capture at `0x0887F924` (hardcoded `0xF8` body cap at `0x0886D0C0`, `0x40` speaker cap at `0x0886D078`), allocator at `0x0887FB3C` (`~3x` body sprite capacity), and renderer at `0x0887FE40` (callers `0x0886DA6C`, `0x0886DA90`, `0x0886E44C`, `0x0886E470`), which originally advanced ASCII by fixed `half_cell` (`7px`) and wrapped mid-word. Flag `bl + 0x08 == 0xFFFF` (checked at `0x08880768`) puts body text on a new line below the speaker.
 
 ---
 
@@ -106,8 +110,8 @@ ISO9660 (.iso)
 |---|---|---|---|
 | **P0** | Environment Setup & Hashes | **Complete** | [`reports/source.md`](file:///d:/Documents/Twinkle_Crusaders_GoGo/reports/source.md) |
 | **P1** | Extraction & Rebuild Toolchain | **Complete** | `tools/cpk/`, `tools/pjadv/`, `gt_input/` (931 scenes) |
-| **P2** | EBOOT Word Wrap & Font Replacement | **Boot/wrapping confirmed; tight Inrond trial ready** | `tools/build_p2.py`, `tools/eboot/patch_eboot.py`, verified fonts, and prologue test ISO; remaining runtime checks in [P2 report](reports/p2-proof-of-concept.md) |
-| **P3** | Text Translation & Editing | **Full pass pending P2** | 34-row opening draft in `gt_output/0003_scene.json`; editorial review pending |
+| **P2** | EBOOT Word Wrap & Font Replacement | **Barlow + 1.5x slotfix + save-load/backlog EBOOT fixes built (`63/63` tests pass); PPSSPP re-check pending** | `tools/build_p2.py`, `tools/eboot/patch_eboot.py`, `BarlowSemiCondensed/`, `build/p3_batch1_backlogfix2/`; remaining checks in [P2 report](reports/p2-proof-of-concept.md) |
+| **P3** | Text Translation & Editing | **Batch 1 translated & packed (0 overflows)** | 6 scenes in `gt_output/` (prologue `0003`, tutorial `0002`, opening arc `0001`/`0004`/`0005`/`0006`; 914 changed rows / 908 dialogue rows); editorial review pending |
 | **P4** | Graphic & UI Localization | **Deferred** | Textures in `GRAPHIC.CPK` and `BATTLE.CPK` |
 | **P5** | Master Build & xdelta3 Release | **Deferred** | Verified patch against clean v1.01 ISO |
 
@@ -149,11 +153,12 @@ All tools are located in the [`tools/`](file:///d:/Documents/Twinkle_Crusaders_G
    python tools/pjadv/scenario.py pack --work . --trans gt_output --cpk work/iso_extract/GAMEINIT.CPK --out-cpk <new_output.cpk>
   ```
 
-### 4. `tools/font/build_font.py` (Inrond Font Atlas & Metrics Generator)
+### 4. `tools/font/build_font.py` (Barlow Semi Condensed Font Atlas & Metrics Generator)
 - **Generate modified atlas & metrics**:
   ```powershell
    python tools/font/build_font.py --cpk work/iso_extract/GAMEINIT.CPK --tight-dialogue --out work/font_next_trial
   ```
+  Supports `--dialogue-size`, `--tight-dialogue`, `--dialogue-width-scale`, `--space-width`, variable axes (`--font-weight`, `--font-roundness`, `--font-optical-size`), and `--no-antialias`.
 
 ### 5. `tools/iso/patch_iso.py` (ISO9660 Disc Patcher)
 - **Patch file into ISO**:
@@ -170,7 +175,13 @@ python tools/eboot/patch_eboot.py --src work/eboot/EBOOT_decrypted.bin --out wor
 ```
 Output must be a new file. GPU rendering and PSP loader compatibility remain unverified.
 
-### 8. `tools/build_p2.py` (Validated Test ISO Builder)
+### 8. `tools/pjadv/check_widths.py` (Dialogue Box Budget Check)
+```powershell
+python tools/pjadv/check_widths.py --trans gt_output
+```
+Measures translated rows with the built `sulakyapi12` metrics (`a + b + c` signed bearings for ASCII, `14px` for 2-byte Shift-JIS) and simulates the EBOOT's greedy word wrap against the 364px-per-line, three-line message window. Any row needing a fourth line is clipped in game, so this must report zero overflows before a build. `tools/build_p2.py` runs the same check and fails on overflow.
+
+### 9. `tools/build_p2.py` (Validated Test ISO Builder)
 ```powershell
 python tools/build_p2.py --tight-dialogue --out build/p2_next_trial
 python -m unittest discover -s tests -v
@@ -181,17 +192,18 @@ Choose a new output directory. The builder checks source identity, generates fon
 
 ## 6. Current Checkpoint and Next Steps
 
-- **Test ISO:** `build/p2_inrond_tight_20261121/Twinkle_Crusaders_GoGo_P2.iso`. Earlier NewGoStyle trials are preserved under `build/`.
-- **Script baseline validation:** The original prologue build re-extracted 931 scenes and 97,274 ordered entries matching the expected rows. All 456 CPK members and both ISO replacements passed readback checks. Only the intended 34 rows changed, with one split pool duplicate and zero control-code warnings. Later font-only trials preserve these script payloads.
-- **Fonts:** Latest assets in `build/p2_inrond_tight_20261121/fonts/font/`. All three Latin sets now use Inrond. Dialogue uses 14px raster size, 90% horizontal scale, tight spacing, and grayscale edge shades; line height remains 19px. Prologue advances total 10,816px, about 27% less than the regular-width NewGoStyle 13px trial. Six font members changed; EBOOT, scripts, Japanese glyphs, and their used palette colors were preserved. The output includes Inrond's OFL notice.
-- **Runtime:** The user confirmed boot/wrapping in earlier trials but rejected the NewGoStyle appearance. The Inrond trial has not been tested in PPSSPP. 45 tests pass, including variable-axis validation, open letter counters, and protection of original palette colors. All 456 CPK members and ISO CPK/EBOOT readbacks were checked. See [P2 report](reports/p2-proof-of-concept.md) for the launch command and remaining checklist.
+- **Latest Built ISO on Disk:** `build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` (`1,819,779,072` bytes) — **Barlow Semi Condensed Medium** (`14px`, `ws=1.00`, `space_w=3`, smooth gamma AA shades `2..12` + `15`, uniform `baseline_row=11`, 4x rounded serif `I`), **`1.5x` EBOOT slotfix + save-load/backlog fixes** (`6e3995e38115c3cc`, `1,912`-byte payload, `78 * 3 = 234 <= 248 = 0xF8`, plus `0xF8` serializer clamp), `abc.w_abc` record counts unchanged (`302 / 2956 / 177`), `456/456` CPK members verified, `914` changed rows across 6 scenes, `0` width overflows, `BarlowSemiCondensed/OFL.txt` included, and `63/63` unit tests passing.
+  - **Old-save load crash fix** (`_free_r` heap corruption at `0x08812970` when loading saves created under earlier `SLOT_FACTOR = 4` builds): added `fade_add_checked` capacity guard at `0x0887E500`, `guard_load_ctx` at `0x0887F774` (skips corrupted `> 0xF8` old-save text records), and fixed `0x0887F880` (`jal 0x0887b97c` -> `jal 0x0887bfd4`) so ASCII restores through `emit_ascii`.
+  - **Backlog proportional spacing, word wrap & speaker capture clamp** (`0x0887FE40`, `0x0887F924`): refactored `advance` into shared `advance_by_font`, added `backlog_speaker_adv` (`0x0888052C`), `backlog_body_wrap` (`0x088809FC`), and `backlog_body_adv` (`0x08880B08`), preserved `0x20` in `ctx->text_buf` on `check_space` wraps so backlog does not join words across wrapped lines, and added `clamp_backlog_copy` (`0x0887FA74`/`0x0887FA88`/`0x0887FA94`) clamping `ctx->0x18` to caller `max_bytes` (`$a3`: `0x40` speaker / `0xF8` body) so `1.5x`-expanded speaker contexts cannot overflow the `0x58`-byte speaker backlog record into the adjacent `body_rec` header (which leaked `0x096Fxxxx` bytes as `X`/`x`/`o` inside speaker brackets).
+  - Visual artifacts: `build/p3_batch1_barlow/barlow_preview.png` and 7-font comparison sheet `work/font_candidates/font_comparison_sheet.png` (made with `work/font_candidates/make_sheet.py`).
+- **Superseded Builds (under `build/`):** `p3_batch1_backlogfix` (Barlow + backlog wrapping before the `0x0887F924` speaker capture clamp; body rendering confirmed clean in PPSSPP, speaker brackets showed leaked adjacent heap bytes), `p3_batch1_barlow` (Barlow + `1.5x` slotfix before save-load/backlog EBOOT fixes), `p3_batch1_slotfix` (Inrond Step 3 + `1.5x` slotfix), `p3_batch1_step3`, `p3_batch1_v4`, `p3_batch1_inrond` (all three used `SLOT_FACTOR = 4` which triggered the `0x6c` serializer heap overflow; note any saves written under `SLOT_FACTOR = 4` builds contain corrupted `> 0xF8` records on disk), `p3_batch1_v3` / `p3_batch1_legible` (appended glyph records / EBOOT y-lift), and earlier NewGoStyle/Inrond P2 trials.
+- **Glyph Records & Leading:** ASCII edits reuse each code's existing `abc.w_abc` record (`302 / 2956 / 177`). Experimental per-line EBOOT y-lift remains **reverted**; vertical fit is enforced by `baseline_row = 11` and the `364px x 3-line` budget.
 
 Next:
-1. Boot the test ISO in PPSSPP, start a new game, and play the opening `PROLOGUE1001_01`. Verify all 34 lines, spacing, word wrapping, page endings, and `\S10`.
-2. Check backlog, choices, centered text, ruby, and direct-emission callers. Word wrapping currently hooks only the main typewriter parser.
-3. Implement pixel-based Japanese punctuation handling. Existing kinsoku checks (rules that prevent closing punctuation from starting a line) still use the expanded byte-slot limit. Lookahead across arbitrary inline controls also needs work.
-4. Measure memory during skipping/fast-forward; line-slot storage was expanded fourfold, while the global sprite pool remains unchanged.
-5. Check the expanded small/large atlases and Data Install enabled/disabled behavior. Do not delete user saves or installed data.
+1. Boot `build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` in PPSSPP: confirm speaker brackets render cleanly (`[Misa]`, `[Nanaka]`, `[Ria]` with no trailing `o`/`X`/`x`), along with backlog proportional wrapping, loading an old save without crashing, saving/reloading a fresh save, and playing `PROLOGUE1001_01` + 発足!! 流星生徒会 scenes (`\S10`, page endings).
+2. Check choices, centered text, ruby, and remaining direct-emission callers (`0x0887D210..0x0887D614`, `0x0884399C`, `0x08880BC4`, `0x08880CD0`).
+3. Implement pixel-based Japanese punctuation handling (kinsoku checks still use the expanded byte-slot limit) and lookahead across arbitrary inline controls.
+4. Check expanded `sulakyapi8`/`sulakyapi18` atlases and Data Install enabled/disabled behavior in disposable PPSSPP profiles without deleting user saves or installed data.
 
 P2 remains in progress until runtime checks pass. This ISO is a proof of concept, not a release build.
 
@@ -201,4 +213,4 @@ P2 remains in progress until runtime checks pass. This ISO is a proof of concept
 
 - **DO NOT commit proprietary binaries**: Keep `.iso`, `.bin`, `.cpk`, `.dat`, `.tm2` out of git. (Enforced by `.gitignore`).
 - **Never modify clean source files directly**: Keep `Twinkle Crusaders GoGo! (Japan) (v1.01).iso` and `work/eboot/EBOOT_decrypted.bin` pristine and read-only.
-- **Licensing**: Include `Inrond-1.0/OFL.txt` with current bitmap derivatives. Preserve NewGoStyle's notices with any historical assets distributed separately.
+- **Licensing**: Include `BarlowSemiCondensed/OFL.txt` with current bitmap derivatives. Preserve `Inrond-1.0/OFL.txt` and NewGoStyle notices with any historical assets distributed separately.

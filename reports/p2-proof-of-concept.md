@@ -262,3 +262,59 @@ python tools/build_p2.py --tight-dialogue --out build/p2_next_trial
 The builder rejects existing output directories, checks source identity,
 generates or validates fonts, rebuilds and re-extracts scripts, verifies CPK
 members, and patches a separate ISO copy. It does not launch the emulator.
+
+## Legibility and leading corrections (2026-11-21)
+
+In-game dialogue exposed two rendering problems that the atlas tests could not see.
+
+**Thin strokes were painted as gray antialias edges.** The rasterizer promoted
+ink to white only at coverage >= 247/255, so a one-pixel stem (capital `I`,
+apostrophe, quotes) survived the downscale as a gray shade and read as missing
+or as a pipe. The core is now white at coverage >= 128/255 and grays are used
+only on the outer edge, so every printable ASCII glyph (0x21..0x7E) contains
+white ink. ASCII `I` additionally gets one-pixel serifs so it cannot be mistaken
+for `|`.
+
+**The third line touched the window's bottom edge.** The payload now tightens
+the leading from the positioning hook already used for the x correction:
+`y -= 4 * line + 2`, and the original y is kept when that would go negative so
+non-dialogue windows cannot be pushed offscreen. The lift is controlled by
+`LINE_LIFT` and `BLOCK_LIFT` in `tools/eboot/patch_eboot.py`; the parser tests
+now assert the lifted coordinates.
+
+**Glyph count must stay at the original size.** Appending a record per ASCII
+code (2956 -> 3034) crashed the game with the same null-style signature as the
+leading experiment, so the engine keeps a fixed-size glyph structure. ASCII now
+updates the record its code already references; only codes that had no record at
+all (like `"`) still append, which is what the shipping Inrond trial already did
+(2956 records).
+
+**Ink is raised 4px inside the 19px cell (`ink_lift`).** The engine's line pitch
+is fixed at roughly 17.5px, so the third message line otherwise sits on the
+window's bottom border. Lifting the ink is a pixel-placement change only; it
+cannot corrupt engine state. Ink tops stay at row 1 or lower, so the 1px outline
+still fits inside the cell.
+
+**ASCII glyphs must go into fresh records, not reused slots.** The builder used
+to write each ASCII glyph into the record its code already referenced
+(`glyphs[lut[code]] = new_rec`). In game, punctuation mapped to those low
+records (`!` #2, `'` #4, `,` #7) rendered blank, while codes that had no record
+and were appended (`"` #2939) rendered correctly. The low records are the
+half-width ASCII slots the game rebuilds at boot, which discarded the edits.
+Every ASCII code now gets a newly appended record and a repointed LUT entry;
+the original records are left untouched, so Japanese and half-width lookups are
+unchanged. `sulakyapi12` grows from 2956 to 3034 records.
+
+**Leading lift was attempted and reverted.** Lifting each line by
+`4 px * line + 2 px` from the position hook made the game crash
+(`Invalid Memory Access`, read at `0x6c`) in PPSSPP. The reverted payload is
+byte-identical to the build that boots, so the vertical fit is handled by the
+364px x 3-line translation budget instead.
+
+**Backlog is a separate renderer.** The backlog corrupts after translation
+(each row drawn twice, characters shifted by one glyph code: `W` renders as
+`V`, `I` as `H`, plus mid-word gaps). Neither emitter's address appears anywhere
+as a materialized immediate, so both are reached through one common dispatch
+entry; the backlog therefore does not use these emitters at all. It must be
+reverse-engineered and patched separately: it needs the same pixel wrapping and
+the same slot-geometry assumptions as the message window.

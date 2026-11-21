@@ -1,0 +1,2100 @@
+[
+ {
+  "name": "Nanaka",
+  "message": "\"That's not a compliment!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"...?\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"It's not like that! There's just no shop like that in Ryuusei Town!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Try harder so you don't lose to the senpai, okay!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Well, I am the student council President.\""
+ },
+ {
+  "message": "The number of stamps is off~"
+ },
+ {
+  "message": "チュートリアル１"
+ },
+ {
+  "message": "チュートリアル２"
+ },
+ {
+  "message": "チュートリアル３"
+ },
+ {
+  "name": "Synn",
+  "message": "\"Huh? This is a pretty big change of mood from before.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"―Alright! This Tutorial Corner is here so you can enjoy tons and tons of Kuru☆Kuru battles!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"You say battle all of a sudden, but what exactly am I supposed to do...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Nothing ventured, nothing gained. Everything starts with a challenge, you know\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Y-yes, ma'am!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"So then, first... let's take a look at the battle screen.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"This is called HP. Think of it as the stamina of your allies and enemies.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"When you deal or take attacks, your HP goes down.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"So if I bring the enemy's HP to zero, that means I win?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Yes! Exactly right!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"On the other hand, if an ally's HP hits zero, it's game over, so be careful.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And this over here is the STUN gauge. It also goes down when you attack.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"What happens when these stars run out?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"They get knocked out and can't move for a while.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ooh! That's a chance, isn't it!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm. But only 'the character attacked when their STUN gauge was at zero' gets knocked out, so watch out for that.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I see. So even if an ally's STUN gauge hits zero, my senpai and I won't both be knocked out at the same time.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Right. But knocking enemies out isn't only about attacking.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"It isn't!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"I'll get to that bit by bit later―\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Next, could you take a look at this?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"What's this...?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"This is the EX gauge... but that's a treat for later♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Don't keep me in suspense, just tell me.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Tee hee. Being made to wait isn't so bad either, is it?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Next up is this. The 'Timeline', where you can see the whole battle situation at a glance. Take a look.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Huh? There are marks for me and Ria-senpai here. Oh, and one for the demon, too.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"These marks are called 'Symbols'. They show where each character stands.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"When battle begins, these Symbols start moving leftward.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Hm... this part labeled ACT looks like a dead end, though.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"When a Symbol reaches that ACT mark, that's when the character finally gets to act!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Once their action ends, they head back to the right. And then they start moving toward ACT again.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I see... so this whole screen itself works as a time axis.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Excellent answer!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"And the speed of moving left is the same for both sides, enemy and ally.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That's why, by watching this screen, you can tell 'who gets to attack first'.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Now then, since we've finally reached ACT, let's actually try doing something!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Let's see... there's 'Attack' and 'Chant'. And there's one gray button, but I suppose that's off limits?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Righty-o. Let's learn the basic actions first\\s04\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Attack... is, literally, attacking with something called Spirit Arts.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm. See the element mark here?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Yes. It says Darkness.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"You attack with the Spirit Art that matches this element. So Synn-kun's element is Darkness.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Hmm hmm. So it's the so-called 'Fight' command.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Whoa! I tried to select 'Attack' and I split into two of me!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That's not a clone―it's the guide showing where you return once your action ends.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I see... basically, 'once your action ends, you come back to this position'.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm. And when you select 'Attack', next you choose a target.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"There's only one enemy right now, though...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Enemies won't always come one at a time, you know.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Huh? I was choosing a target and another one appeared!? Did it call for backup!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"It's not reinforcements\\s02 this is a guide showing how far you'll be pushed back when you attack.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Pushed back...? So taking an attack moves you away from ACT?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That's right. Which means your chances to attack naturally shrink too.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Now I tried to select Chant and... wha! I split in two again!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Ho~w~ma~ny~times~\\s02 That's not a clone either, it's a guide.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"What is this one guiding?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"With Chant, you raise your Spirit Power and power yourself up.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"See the Attack LV here?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Yes.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That's a measure of the Spirit Power we hold. The bigger the LV, the bigger the damage.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ooh~~. So Chant lets me raise this Attack LV.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm, clever boy♪ But Chant takes a little bit of time.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"So this guide shows how much time it will take... right?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm. And while chanting, you're defenseless―if you get attacked, it's a disaster.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Your chant gets canceled, and you're pushed back much farther than usual.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Powering up always comes with risk, I suppose.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Well, just think of the guide as a way to time it right.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Got it. I'm starting to understand, sort of.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Then, shall we actually try it?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"...Yes! Nothing ventured, nothing gained, after all!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That's the spirit♪ First, try selecting 'Attack'.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Alright, done!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Splendid!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Look closely at the guide. The enemy reaches ACT before your chant finishes, right?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"But I was thinking there might be times I don't get attacked...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Those times aren't guaranteed, so let's learn the fundamentals first, then branch out.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"O-okay\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Then next, when it's my turn, try selecting 'Chant'.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Hm... my push-back seemed smaller than when I did it...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm. Chant times differ from character to character.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ooh~~\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"For example, my chant is fast, but in exchange I take longer to return after my action ends.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I see. Then all Ria-senpai has to do is chant nonstop!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That's one strategy. But honestly, I think it's more fun to try all sorts of things depending on the situation♪\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Boo hoo... you won't listen to your senpai's request, sniff sniff\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"S-sorry! I did it on a whim...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Just kidding♪ In this case, choosing 'Attack' instead would have been perfectly fine.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"But chanting would deal more damage, though...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Then do that from the start!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Y-yikes~~\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm. Now that's more like it!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Is that everything for now?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Want to hear this tutorial one more time?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Really?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Wow, what a clear explanation. As expected of Ria-senpai.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Ta-dah! I am the senpai, after all♪\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Then let's move on to live combat. It's a serious match this time, so do your best♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Whoa! A Unison Attack or something just popped up!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"It's what you'd call a combination attack.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"A co-combination!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm. A Unison Attack is one tactic that can deal huge damage, but...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Details are a treat for next time♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Come o~n\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"For now, select 'Attack' and pick the Unison Leader.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"After that, choose your target, just like a normal Spirit Art attack.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Can I chant with this too, by any chance?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"You can, but don't come crying to me about whatever happens♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ugh, that blatant smile is scary.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Rumble!? Wh-wh-what is this, whoa!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"There, there, calm down. You and the enemy reached ACT at the same time, so it turned into a 'Rumble Attack'.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"What does that mean!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"It's a straight clash of power against power... Whoever rules the Rumble rules Kuru☆Kuru!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Details after CM2♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"That makes no sense at all.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Anyway, try choosing the Rumble Attack leader. If you're winning on element or Attack LV, you should win the Rumble.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Just now, didn't something zip forward?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Couldn't resist mashing the button at the GO timing, could you?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Yes. I got carried away by the rhythm, and, well...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That, precisely, was a Rocket Start activating♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Rocket Start!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"If you press the button in time with the GO timing, you close in on ACT right at the start of battle.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Th-that's how it works, huh~\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Then it's easier to seize the initiative, see? You can attack before the enemy, so go after it hard and often to tip the battle in your favor.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I see... this is handy!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Now then, straight to our first letter, from Milk Banzai-kun of Ryuusei Town♪\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"'I still have lots of questions from the last tutorial. When exactly are you going to answer them?'\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"The answer is: right now!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Ria-chan is the BEST! HYAHHOO!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"What is with this vibe...?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"First, the participants in this battle are me and―\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Me and\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Me, and\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Me as well.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And where's MY turn?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Just wait a little longer\\s04\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Okey-dokey♪\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Including me, each of us receives the protection of a different guardian angel. That's what 'element' means.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Vulkanel, Angel of Blazing Fire―so that's Fire, right?\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Thrysel, Angel of Azure Water, is of the Water element.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Eclairel, Angel of Swift Lightning, is Lightning.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And I am Lumiel, Angel of Flash Light. So my element is Light. Oh, and Synn-kun is Avanshell, Angel of Pitch-Black Darkness―the Darkness element.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"These elements have affinities. Fire, Water, and Lightning form a three-way triangle.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Fire beats Lightning,\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Water beats Fire,\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"and Lightning beats Water.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Everyone's real pushy about their own bit, huh.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"But what about Light and Darkness?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Kukuku... you know the answer, you cutie, Ria-chan!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Light is strong against Fire, Water, AND Lightning! Darkness too!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"That's not faaair~\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Yeah yeah! Total favoritism!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Senpai aside, I will not forgive Sakura-kun!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Now, now\\s02 In exchange, the Fire, Water, and Lightning elements have stronger element effects.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Element effects?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Their damage, and how far you get pushed back when hit, are both bigger.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"I see~~. Then it can't be helped.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"You can always check the element affinities here, so use it for reference♪\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Yes, onee-sama\\s04\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Now, at last, the main event! Time to explain the 'Unison Attack', the most basic of the basics of battle!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"This Unison Attack is a mega-powerful combination attack where the cooperation of us Crusaders is everything.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"C-combination~~\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Hey! Don't get fluttery in the wrong places!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Look at the screen. Nanaka-chan and Lolotte-chan are lined up vertically, right?\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Yes. If they reach ACT like this... they attack at the same time.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And that's when the Unison Attack fires, see.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Does a Unison Attack bring anything good?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Good thing number one about the Unison Attack!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"On top of your normal Spirit Arts, the Unison Attack strike gets added in!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Which means where you could normally attack twice, you get one extra, for three attacks total.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Exactly♪\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And good thing number two about the Unison Attack!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"The Unison Attack is huge damage!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And the more characters join the Unison Attack, the bigger the damage gets.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Two, three, four... it just keeps growing, then.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Including Synn, up to five? Sounds like it could get pretty crazy.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Though President-san is on break this time~\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Good thing number three about the Unison Attack!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"There's still more!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Actually, you can even Chant during a Unison Attack.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And when you do, the chant time syncs to the character with the shortest chant.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"So if slow-chanting Misa and fast-chanting Ria-senpai chant together in a Unison Attack―\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Senpai-san's chant speed is the one that applies.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"With onee-sama and...\\s04\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"There are all sorts of other perks too, but learn the fine details by actually playing.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Bottom line: fire Unison Attacks whenever you possibly can! That's the idea, right?\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"But aiming for a Unison Attack requires everyone to return at the same time, so it is rather left to chance.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"That's where 'Unison' comes in.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"When you perform this Unison, you wait right there until the ally closest to ACT arrives.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"I see... by doing that, you can deliberately trigger a Unison Attack.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"But once a Unison Attack fires, you can no longer choose Unison.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Also, for Unison Attacks triggered via Unison, you can't chant either, so watch it.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And when you perform Unison, make sure no enemy is near ACT.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Unison leaves you defenseless, just like chanting. If the enemy attacks first, your Unison fails.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"So the bigger the benefit, the bigger the risk, huh.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"In any case, once everyone gathers at this ACT, all is solved!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Actually, that's not the only way to fire a Unison Attack.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"There's more~!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"See this glowing green area?\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Yes... oh my? The one in front seems to be overlapping into this area too...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"This is called the 'Unison Area'!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"When a Unison Attack fires, the guys standing in this area can join in on the Unison Attack too.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Ooh! Then even more of us can pile into one Unison Attack!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"One warning, though. A Unison Attack using the 'Unison Area' requires at least two people at ACT, period.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"One at ACT, one in the Unison Area... does not make a Unison Attack. I see.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"This is getting rather complicated...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Don't overthink it. Basically, if the Symbols are even one space apart, think of it as a chance for a big-group Unison Attack.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Now then, let's actually use 'Unison' to fire a Unison Attack!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Whoa whoa. Right now we're practicing Unison Attacks, yeah?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"But that might be a good choice. The enemy looked about to fire a Unison Attack too, so shifting that around could be a tactic in itself.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Ria-chan, so kind! And so wise!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Ta-dah!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Huh? A Unison Attack just fired off a chant, too.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Good catch. Actually, you can deliberately trigger a Unison Attack even through chanting.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"But unlike Unison, it won't wait forever, so this one's all about timing too.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"But your Attack LV goes up, so it works in your favor. I say aim for it aggressively.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm, perfect! Now the four-person Unison Attack using the Unison Area will fire!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Kukuku... the enemy's in tears.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"So that's the general idea, but...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Want to hear this tutorial one more time?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Really?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And that concludes... Ria and\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Paqy's\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Tutorial Corner~~~\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"See you next time, folks.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"There IS a next time!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Here it comes! Rumble!?\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Hyii! Violence is wrong!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Everyone, calm down. A Rumble Attack happens when you and the enemy reach ACT at the exact same time.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"A so-called direct showdown. Very well! I accept your challenge!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"But what if we lose?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Depending on element and Attack LV, you just might lose...\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"No way!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"First, the winner is decided by Attack LV. If the Attack LV is equal, then by element.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"To avoid losing, put the chanting and Unison you've learned to good use.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"I see~~. In a Unison Attack, Attack LV rises by the number of participants, after all.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"And chanting raises your Attack LV, too.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Well, whatever happens, happens!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Waaah! Please don't push meee!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Calm down, Lolotte-chan. This is actually a chance. Your Rocket Start worked perfectly.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Rocket Start?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"If you press the button in time with the GO on the countdown, you close in on ACT right at the start of battle.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Ooh~~\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Then it's easier to seize the initiative. You can attack before the enemy, so go after it hard and often to tip the battle your way.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Kind Paqy-san is fine and all, but cute Paqy-san is...\\s04\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Is this idiot serious...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Now, this time it's the moment you've all been waiting for. Let me explain the 'Rumble Attack'♪\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Rumble is, as the name says, a straight-up brawl. Come on, follow me!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Straight-up brawl\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Straight-up brawl\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Straight-up brawl\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Ria-chan, you too\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Straight-up brawl♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"This Rumble happens when allies and enemies reach ACT at the same time.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Hey, YOU! Don't just run the show on your own!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"A Rumble Attack is a clash of Spirit Arts and magic―the side with greater force or stronger element wins.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Force means this Attack LV number. A higher number rules the Rumble, see.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"What if the LV numbers are the same?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"If the force is equal, you settle it by element!!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Fire beats Lightning,\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Water beats Fire,\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Lightning beats Water.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Light and Darkness beat Fire, Water, and Lightning...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And Light against Darkness, or the same element against itself, ends in a \\{cancel-out|Draw} of sorts.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"When it cancels out, the RUSH breaks off and both sides start over.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"So, does winning a Rumble Attack bring anything good?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Win a Rumble, and you can drop the STUN gauge to zero in one go.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"One star or nine stars, whatever it is, they get knocked out.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Then it's smarter to go for it when the stars are all filled up.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"What's more, EVERYONE who joined the Rumble gets knocked out!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Eh? You can have multiple people join a Rumble!?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Yep! Even a Rumble between two Unison Attacks is possible.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Which means, if the enemy fires a Unison Attack, hitting them with a Rumble to match would be a huge chance!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Of course. But if we lose that one, things get ugly, so be careful.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"So it's a high-risk, high-return tactic...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Then, mission start. Your goal: survive the Rumble!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"If you pick that one, you can only shift one enemy, so Synn-kun gets beaten two-on-one, you know?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"If you pick that one, Synn-kun gets beaten two-on-one right after this, you know?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Flawless Rumble victory!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Magnificent!! With a five-person Unison Attack, there's nothing to fear!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"The chant power-up went perfectly. Considering what comes next, that may have been the right choice.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mm, success!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"I suppose that's about it?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Want to review this tutorial one more time?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Really?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"The Rumble Attack is the only way to avoid taking the enemy's attack entirely.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"So deliberately waiting in Rumble for a high-attack enemy is one tactic too.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"And that concludes the Ria and Paqy Tutorial Corner~~~\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"But it keeps going just a liiittle longer!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ria-senpai isn't here, though?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Shaddap! I, the Great Me, will fill in for Ria-chan perfectly.\""
+ },
+ {
+  "name": "Shio",
+  "message": "\"Beware, monster that borrows the panda's authority! I shall punish you!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Now, now, calm down. Paqy-san is one of our allies.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"But, I mean. Even if she's an ally, Shio-chan has no Rosary, so she can't transform, right?\""
+ },
+ {
+  "name": "Shio",
+  "message": "\"Would you have me bare as well!!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"No, that's not it... this demon can only fight with Spirit Arts.\""
+ },
+ {
+  "name": "Shio",
+  "message": "\"Mumumu... then it cannot be helped. I shall accept everyone's support here!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"This is what you call an 'Assist'.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"When a character who can assist is present in the battle's story backdrop, they support the Crusaders.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Shio-chan is close by right now, so she becomes an 'assist character'?\""
+ },
+ {
+  "name": "Shio",
+  "message": "\"Just so. And this one wields not only the martial arts, but also the 'Shinto arts' passed down since antiquity.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Shinto arts...? Like some kind of ritual?\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Shio's family runs a shrine, so perhaps it's a divine blessing.\""
+ },
+ {
+  "name": "Shio",
+  "message": "\"Precisely!! This one shall rejoice in battle as ane-ue's assist!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Well, honestly, this guy's own attacks are useless.\""
+ },
+ {
+  "name": "Shio",
+  "message": "\"What did you say!?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"But in exchange, the attack power and critical rate of the whole Crusader team go UP.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ooh!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Not bad. Leave the rest to us!\""
+ },
+ {
+  "name": "Shio",
+  "message": "\"Nay! This one shall punish the monster with unyielding spirit, even if this body perishes!!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Hey! Ah, stop it already, Shio!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Are there others who can assist, besides Shio-chan?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Let's see. Rumor has it, Ria-chan's big sis, and the angel's bodyguard, for starters.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Helena-san and Riesling-san. They sound pretty dependable.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Also, some weirdo I don't really get joins as an assist sometimes.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I feel like I've met this person somewhere... who was it again...\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Who knows? There are others besides these guys too, but that's a trade secret.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Oh, and as a whim of mine, I, the Great Me, shall assist Synn-sama.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"One last thing. This time only, I'll teach you about the Rocket Start.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Speed skating?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"At the start of battle, there's a countdown: three, two, one, GO!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Yes. The one that makes you want to mash the button.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"That's where you hold back the mashing. Press the button right when GO appears.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"And you close in on ACT right at the start of battle?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Don't steal MY lines!!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"By the way, you can't use it in the demo, but if you set EASY mode, the Rocket Start fires automatically.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"So look forward to the full version, 'kay?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Also, in EASY mode the Rocket Start fires automatically, so rest easy.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And that's the whole rundown...\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Wanna hear this tutorial one more time?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"For real?\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"And that was the Tutorial Corner, now with new features.\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Let us bring this to a close around here.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Bye-bye, bye-bye, bye-bye.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Watch us next time too!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Hey! Don't interrupt my sweet moment with Ria-chan!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Now, now\\s02\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"It's fine, honestly. Today, I'm the main dish.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"You see... this Sally-chan, unlike the demons we've fought so far, uses a finisher move.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Could you take a look at this EX gauge we've been ignoring all this time?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Every time you deal or take attacks, the gauge has been filling up, right?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Once this EX gauge goes over 100%, you can use a finisher―the Extra Attack, zo!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Well, anyone mid-boss class or above ought to have at least one Extra Attack.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Don't call me mid-booooss!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"It's a finisher, so the effect is enormous. A strategy that stops Sally-chan from moving is your best bet.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"For now, just targeting this one is A-OK.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Isn't this a death flag!? Waaah, that's so meeean!\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"But my friends will do something about it! If you keep targeting only me, you'll pay for it~!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"By the way, what kind of effect does it have?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Demon World Mail-Order, order uuuup!!\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"I order all sorts of things from the Demon World and fight with them! Like a squeaky hammer, or snacks, or bombs!!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Hey, you can actually use bombs?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Nope. That's why I always end up blowing myself up.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Useless, aren't you.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"What did you saaaay!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Ahaha...\\s02 Did that clear things up?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Wait, wait. I have one more BIG secret, you know.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"The element attached to my Symbol, and...\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"the element shown when you select me as a target are sometimes different.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"That's proof I'm not an ordinary demon!! I may look like this, but I can use all kinds of magic!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"This mark attached to the Symbol shows your 'Attack Element'.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Strong demons like Sally-chan can have multiple Attack Elements.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"It can change every time an action ends, so check it diligently.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And the element shown when you select a target is called the 'Guardian Element'.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Unlike the Attack Element, the Guardian Element doesn't change. Think of it as your body's constitution.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"When you want to hit an enemy's weak point for big damage, use this one as your reference.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Want to review this tutorial one more time?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Really?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And so―\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"BERLIN!!\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"That was Sally-chan's Tutorial Corner~~~♪\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"The enemies keep getting stronger... we have to do something about this too...\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Hey! You guys getting cocky just because Ria-chan's not here!?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"It's fine, honestly. Today, I'M the star.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"And I'll have you know, this Sally-chan, unlike the demons so far, can use a finisher move, daa!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"EX gauge? What's this?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"You already forgot\\s02 It fills up every time you deal or take attacks, remember?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Once this EX gauge goes over 100%, you can use a finisher―the Extra Attack, zo!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Usable or not, it makes no difference anyway.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"GYAAAA!! Don't mock meee!\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"A finisher move... sounds pretty strong.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Which means it's best to keep 'Sally-chan from ever reaching ACT', right?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"By the way, what kind of effect does it have?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Demon World Mail-Order, order uuuup!!\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"I order all sorts of things from the Demon World and fight with them! Like a squeaky hammer, or snacks, or bombs!!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Hey, you can actually use bombs?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Nope. That's why I always end up blowing myself up.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"How very Sally-chan of you.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"What did you saaaay!?\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Oh, right, right. Besides the Extra Attack, I have one more BIG secret.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"The element attached to my Symbol, and...\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"the element shown when you select me as a target are sometimes different.\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"That's proof I'm not an ordinary demon!! I may look like this, but I can use all kinds of magic!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"This mark attached to the Symbol is the 'Attack Element'. Strong demons can have multiple Attack Elements.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"It changes every time an action ends, so don't forget to check it.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And the element shown when you select a target is called the 'Guardian Element'.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Unlike the Attack Element, the Guardian Element doesn't change. Think of it as your body's constitution.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"When you want to hit an enemy's weak point for big damage, use this one as your reference.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Well, that's about it... want to watch this tutorial one more time?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"For real?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And so―\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"BERLIN!!\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"That was Sally-chan's Tutorial Corner~~~♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"A finisher move... I wonder if we can use one too...\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Now, the moment you've been waiting for. Time to show the fruits of your training!!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"What was it again?\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"We were practicing drawing out the guardian angels' power, weren't we!?\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Ohh!!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"By borrowing our guardian angels' power, we can now use Extra Attacks just like Sally-chan.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Mm-hm.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"So, how do we use it?\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Noo-fair\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"I said it before: the Extra Attack can be fired once the EX gauge goes over 100%.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Once our attack cut-in starts and the Spirit Art effect appears―\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Waaah!! Some kind of round ring appeared!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"That ring is a timer. Press the button before the timer runs out, and...\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"The Extra Attack fires, doesn't it!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"But what should we do if we can't press it in time?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Fear not. In EASY mode, once you're over 100%, it fires automatically without any input.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Unfortunately, you can't use it in the demo. But in the full version, you'll be able to use it properly!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Fear not. In EASY mode, once you're over 100%, it fires automatically without any input.\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Then we're all set♪\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"In the other modes, it looks like you can stock it up to 300%, though.\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Right! So by using a Unison Attack, you can even chain three Extra Attacks in a row.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"I see!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"By the way, each of these Extra Attacks has its own personality.\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"Mine is 'Raging Nova'. Prepare for massive damage!!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Mine is 'Seraphic Whisper'. It deals no damage, but restores HP and STUN gauges~\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"Mine is 'Noblesse Laser'. With swift, continuous strikes, I shall stop the enemy in their tracks!!\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"Mine is 'Cardinal Brightia'. A special Extra Attack that drains the enemy's EX gauge and pushes them back even farther.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Mine is 'Fatality Force'. Now what kind of effect could this... wait\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"I'll lend you a hand.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Don't tell me I awaken as the Great Sage!?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Nah. I just hit a ball with a bat.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"...\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Don't lose heart, Synn-sama. Synn-sama's Extra Attack alone is something special.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Special?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Just between us, it's a finisher befitting the Demon Lord. Everyone who's ever joined us will rush in to cheer you on.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I-is that so~\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Well, in a charisma-less state like now, I'd be the only companion showing up.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I see... then I'd better give it my all.\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Yep, that's the spirit!!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Oh, by the way, only in the demo, that naginata girl and the butler will join in. As a special treat.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Ooh, lucky!!\""
+ },
+ {
+  "message": "And apparently, even if someone who joined us appears as an enemy, they get forcibly summoned to attack themselves or something. Pretty surreal, that..."
+ },
+ {
+  "name": "Sally",
+  "message": "\"Helloooo! How long are you going to keep me waiting!? Boss fell asleeep!\""
+ },
+ {
+  "name": "Nanaka",
+  "message": "\"'Boss' means this demon has an Extra Attack too, doesn't she...\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Of course! It's a terrifying Extra Attack that summons the members of the Delicious Food Squad, da-zoo!\""
+ },
+ {
+  "name": "Misa",
+  "message": "\"This one, above all, we must prevent...\""
+ },
+ {
+  "name": "Sally",
+  "message": "\"Nfufu, if you keep chasing only Boss, I'll be running free, you knooow!\""
+ },
+ {
+  "name": "Lolotte",
+  "message": "\"Hyii! What am I supposed to do!?\""
+ },
+ {
+  "name": "Ria",
+  "message": "\"It's all right! Everyone, believe in yourselves!\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"And that's the whole rundown...\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"This is bad. That bastard... put up a barrier.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"A barrier!?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Normally, when you take a hit and go flying, you get knocked out of the arena, right?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"But with a barrier, you don't fly out. Instead, you take the damage.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"I see... but that risk goes both ways, right?\""
+ },
+ {
+  "name": "Paqy",
+  "message": "\"Yep. But the enemy is strong too... stay sharp.\""
+ },
+ {
+  "name": "Synn",
+  "message": "\"Got it!\""
+ },
+ {
+  "message": "If you're reading this, something's wrong"
+ },
+ {
+  "name": "Helena",
+  "message": "\"Oho, skipping the first lecture. Impressive. I like it. You may come to my office and squeeze my little sister's chest.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Good morning, members of the student council!! I am Helena Kujou, Chairwoman of Ryuusei Academy.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Do not open your mouths unless spoken to. When you speak, you will always say 'Please tell me, Chairwoman-san'.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Rubbish! Put more spirit into it!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"You are babies who cannot even crawl yet. My job is to train you into chimpanzees. Understood!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Rubbish! Louder!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Good! Then straight to live combat. Are you ready!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"These minigra are available all over. Your task is simply to collect them, relentlessly.\""
+ },
+ {
+  "name": "Melilot",
+  "message": "\"Is there something good about collecting these?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"There is no reason required for collecting! Expect your reward only after the mission is complete! Understood!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Very well. Then, good luck and God speed!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Rubbish! I wasn't finished talking! Load your save and start over!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Good morning, members of the student council!! A rival... what a beautiful word. A contest with a rival makes both sides stronger.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Fight more! And win through! No mercy! No coddling!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Beat your opponent down until their will breaks, and friendship will bloom in time. A bond that nothing else can buy!\""
+ },
+ {
+  "name": "Melilot",
+  "message": "\"Is there something good about winning constantly?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"When you achieve complete victory, I shall grant you a prize. Do not be modest. Understood!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Very well. Then, good luck and God speed!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Coward!! Was there not enough love from Papa and Mama?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Good morning, members of the student council!! I see you have obtained a trophy. Well done.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"This trophy is an honorable medal bestowed in praise of your achievements! Receive it with due reverence.\""
+ },
+ {
+  "name": "Melilot",
+  "message": "\"Is there something good about collecting these?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Rubbish! Receiving one is the greatest honor! Have you already forgotten!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"However, should you collect every single trophy, I, magnanimous as I am, promise you a small token of happiness.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Then, good luck and God speed!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"What's the rush! Did you think the war would end before you reached the battlefield!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Good morning, members of the student council!! What you are looking at now is your graveyard. Listen as though laying your bones here!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"The MAP holds all sorts of facilities, and all sorts of \\{nemesis|heroine} wait within them. Engage with due care.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"First, chase the \\{quarry|target} relentlessly. For beginners such as you, that is the only way to survive.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"But for trained soldiers like you, it is another matter. After all, the information needed to conquer is properly marked.\""
+ },
+ {
+  "name": "Melilot",
+  "message": "\"What do these marks, the hearts and trophies, mean?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Rubbish! A heart is a life. A trophy is a medal. A medal is bought with a life. Do I make myself clear!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Choosing your graveyard is your freedom. Battlefields you have already passed are recorded too. Do not step on the same landmine twice. Understood!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Then, good luck and God speed!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"What are you doing! Do you wish to become like this pig!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Good morning, members of the student council!! What of it? All things that have form will break someday. Don't be such a coward over that! Harden your hearts!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"But this piggy bank called Tontoro. Break it as you might, it revives. A persistent creature.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Therefore you shall destroy Tontoro so utterly that it can never return to its original form.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Break it, pummel it, centrifugal crushing fist―any means will do. Leave it beyond repair.\""
+ },
+ {
+  "name": "Melilot",
+  "message": "\"Is there something good about breaking it?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"No! But if you do not, the same fate will befall you! Understood!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Then, good luck and God speed!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Goood, I shall dote on you thoroughly! I'll leave you unable to laugh or cry!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"So you have met the powerful enemy Sally-chan in your first battle. Yes, a good battle.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"HOWEVER! This is only the beginning of hell. Do not let your guard down. Engage with due care!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Setting that aside, do you remember Sally-chan's Extra Attack?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Whether you chicks took damage from the Extra Attack, I could not care less at this point.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"What matters is the 'Demon World Mail-Order' that Sally-chan made use o~f.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"To make a market prosper, there is nothing like heavy consumption. And so the world's economy thrives.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"What, it is Sally-chan's own purse that aches.\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"You may take your own painful blows, but let her use the Demon World Mail-Order freely and often!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"Naturally, this is not limited to battle. She may use the Demon World Mail-Order in everyday life as well. Those events demand your attention.\""
+ },
+ {
+  "name": "Melilot",
+  "message": "\"Is there something good about using mail order?\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"That is not a question for Melilot, who loves mail order! Good things must be seized with your own hands!\""
+ },
+ {
+  "name": "Helena",
+  "message": "\"And so, work hard so that you may receive wonderful service. I pray for your success!\""
+ }
+]
