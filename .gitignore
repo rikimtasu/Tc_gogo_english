@@ -27,6 +27,7 @@
 work/
 build/
 original/
+metadata/
 gt_input/
 gt_output_mtl/
 tmp/
