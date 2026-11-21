@@ -38,34 +38,31 @@ class IsoTests(unittest.TestCase):
         iso[25 * SECTOR_SIZE:26 * SECTOR_SIZE] = b'J' * SECTOR_SIZE
         self.src.write_bytes(iso)
 
-    def test_replacement_and_growth(self):
+    def test_iso_patch_and_safety_guards(self):
         for size in (4, 4097):
-            with self.subTest(size=size):
-                out = self.out.with_name(f'out_{size}.iso')
-                before = self.src.read_bytes()
-                self.file.write_bytes(b'E' * size)
-                patch_iso(self.src, out, {'FILE.BIN': self.file})
-                with out.open('rb') as f:
-                    off, lba, actual_size = find_iso_file_record(f, 'FILE.BIN')
-                    self.assertEqual(actual_size, size)
-                    self.assertEqual(lba, 25 if size == 4 else 32)
-                    f.seek(lba * SECTOR_SIZE)
-                    self.assertEqual(f.read(size), b'E' * size)
-                    f.seek(off + 6)
-                    self.assertEqual(struct.unpack('>I', f.read(4))[0], lba)
-                self.assertEqual(before, self.src.read_bytes())
+            out = self.out.with_name(f'out_{size}.iso')
+            before = self.src.read_bytes()
+            self.file.write_bytes(b'E' * size)
+            patch_iso(self.src, out, {'FILE.BIN': self.file})
+            with out.open('rb') as f:
+                off, lba, actual_size = find_iso_file_record(f, 'FILE.BIN')
+                self.assertEqual(actual_size, size)
+                self.assertEqual(lba, 25 if size == 4 else 32)
+                f.seek(lba * SECTOR_SIZE)
+                self.assertEqual(f.read(size), b'E' * size)
+                f.seek(off + 6)
+                self.assertEqual(struct.unpack('>I', f.read(4))[0], lba)
+            self.assertEqual(before, self.src.read_bytes())
 
-    def test_source_cannot_be_output(self):
         with self.assertRaises(ValueError):
             patch_iso(self.src, self.src, {'FILE.BIN': self.file})
 
-    def test_existing_output_cannot_be_overwritten(self):
         self.out.write_bytes(b'user work')
         with self.assertRaises(FileExistsError):
             patch_iso(self.src, self.out, {'FILE.BIN': self.file})
         self.assertEqual(self.out.read_bytes(), b'user work')
 
-    def test_invalid_replacement_creates_no_output(self):
+        missing_out = self.out.with_name('missing.iso')
         with self.assertRaises(FileNotFoundError):
-            patch_iso(self.src, self.out, {'MISSING.BIN': self.file})
-        self.assertFalse(self.out.exists())
+            patch_iso(self.src, missing_out, {'MISSING.BIN': self.file})
+        self.assertFalse(missing_out.exists())

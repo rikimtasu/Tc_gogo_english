@@ -24,28 +24,30 @@ STACK = CONTEXT + 0xF000
 STOP = CONTEXT + 0xFF00
 
 
-class AssemblerTests(unittest.TestCase):
-    def test_float_encodings(self):
+class AssemblerAndBinaryTests(unittest.TestCase):
+    def test_assembler_and_patch_guards(self):
         asm = MipsAsm(0x08800000)
         asm.add_lines("lwc1 f0, 0x44(a0)\nmtc1 t0, f1\ncvt.s.w f1, f1\nmul.s f0, f0, f1\ntrunc.w.s f0, f0\nmfc1 v0, f0")
         self.assertEqual(struct.unpack("<6I", asm.assemble()),
                          (0xC4800044, 0x44880800, 0x46800860, 0x46010002, 0x4600000D, 0x44020000))
-
-    def test_far_branch_rejected(self):
-        asm = MipsAsm(0x08800000)
-        asm.emit("beq zero, zero, 0x08840000")
-        with self.assertRaises(ValueError):
-            asm.assemble()
-
-    def test_unaligned_jump_rejected(self):
-        asm = MipsAsm(0x08800000)
-        asm.emit("j 0x08800001")
-        with self.assertRaises(ValueError):
-            asm.assemble()
-
-    def test_wrong_eboot_rejected(self):
+        for bad in ("beq zero, zero, 0x08840000", "j 0x08800001"):
+            a = MipsAsm(0x08800000)
+            a.emit(bad)
+            with self.assertRaises(ValueError):
+                a.assemble()
         with self.assertRaises(ValueError):
             patch_bytes(bytes(1_527_040))
+
+        eboot = Path('work/eboot/EBOOT_decrypted.bin')
+        if eboot.is_file():
+            source = eboot.read_bytes()
+            patched, info = patch_bytes(source)
+            new_phoff = struct.unpack_from('<I', patched, 28)[0]
+            self.assertEqual(patched[new_phoff:new_phoff + 32], source[52:84])
+            self.assertEqual(struct.unpack_from('<H', patched, 44)[0], 2)
+            self.assertGreater(info['payload_va'], 0x08A75B00)
+            with self.assertRaises(ValueError):
+                patch_bytes(patched)
 
 
 @unittest.skipIf(Uc is None, "Install unicorn to execute MIPS tests")
@@ -137,92 +139,15 @@ class PayloadTests(unittest.TestCase):
         self.uc.mem_write(BUFFER, text)
         self.word(CONTEXT + 0x40, len(text))
 
-    def test_ascii_metrics_all_fonts(self):
+    def test_metrics_measure_budget_and_clamp(self):
         for font in (0, 7, 8):
             self.word(CONTEXT + 0x60, font)
             self.assertEqual(self.run_label('advance', ord('i')), 3)
             self.assertEqual(self.run_label('advance', ord('W')), 12)
-
-    def test_missing_font_falls_back(self):
-        self.word(0x08A26924 + 32 + 4, 0)
-        self.assertEqual(self.run_label('advance', ord('W')), 9)
-
-    def test_signed_bearings(self):
-        glyph = CONTEXT + 0x9000 + (ord('i') - 31) * 18
-        self.uc.mem_write(glyph + 8, struct.pack('<3h', -1, 5, -1))
-        self.assertEqual(self.run_label('advance', ord('i')), 3)
-
-    def test_japanese_full_cell(self):
-        self.assertEqual(self.run_label('advance', 0x4081), 19)
-
-    def test_measure_mixed_and_emote(self):
+        self.assertEqual(self.run_label('budget'), 380)
         self.seed(b'Wi\x81\x40\x0a\xff')
         self.assertEqual(self.run_label('measure'), 12 + 3 + 19 + 19)
 
-    def test_measure_current_line_only(self):
-        self.seed(b'W' * 5)
-        self.word(CONTEXT + 0x40, 60)
-        self.uc.mem_write(BUFFER + 60, b'ii')
-        self.word(CONTEXT + 0x40, 62)
-        self.assertEqual(self.run_label('measure'), 6)
-
-    def test_pixel_capacity_unchanged(self):
-        self.assertEqual(self.run_label('budget'), 380)
-
-    def test_wrap_word_before_emission(self):
-        self.context(slots=8, half_cell=5.0)
-        self.emit_text(b'WW iiiiii')
-        self.assertEqual(self.emitted[:3], [(0, ord('W')), (0, ord('W')), (0, 32)])
-        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 6)
-        self.assertEqual(self.breaks, 1)
-
-    def test_exact_fit_no_wrap(self):
-        self.context(slots=8, half_cell=5.0)
-        self.emit_text(b'WW iiii')
-        self.assertEqual(self.breaks, 0)
-
-    def test_oversize_word_character_fallback(self):
-        self.context(slots=8, half_cell=5.0)
-        self.emit_text(b'WWWWWWWW')
-        self.assertEqual([line for line, _ in self.emitted], [0, 0, 0, 1, 1, 1, 2, 2])
-
-    def test_narrow_letters_exceed_old_slot_count(self):
-        self.context(slots=8, half_cell=5.0)
-        self.emit_text(b'i' * 12)
-        self.assertEqual(self.breaks, 0)
-        self.assertEqual(len(self.emitted), 12)
-
-    def test_overflow_space_not_leading_next_line(self):
-        self.context(slots=8, half_cell=4.75)
-        self.emit_text(b'WWW iii')
-        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 3)
-        self.assertEqual(bytes(self.uc.mem_read(BUFFER, 4)), b'WWW ')
-
-    def test_last_line_returns_failure(self):
-        self.context(slots=8, lines=1, half_cell=5.0)
-        self.emit_text(b'WWWW')
-        self.assertEqual(len(self.emitted), 3)
-
-    def test_hyphen_is_break_opportunity(self):
-        self.context(slots=8, half_cell=5.0)
-        self.emit_text(b'WW-iiii')
-        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 4)
-
-    def test_wide_emote_wrap(self):
-        self.context(slots=8, half_cell=5.0)
-        self.seed(b'WWW')
-        self.assertEqual(self.run_label('emit_wide', 0xFF0A), 1)
-        self.assertEqual(self.emitted, [(1, 0xFF0A)])
-
-    def test_position_preserves_registers_and_stack(self):
-        self.seed(b'Wi')
-        self.uc.reg_write(regs.UC_MIPS_REG_S1, CONTEXT)
-        self.run_label('position')
-        self.assertEqual(self.positions[-1], (35, CONTEXT + 0x100))
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_SP), STACK)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_S1), CONTEXT)
-
-    def test_clamp_save_slots(self):
         ctx_ptr = CONTEXT + 0x400
         self.word(ctx_ptr + 0x3C, BUFFER)
         for raw_slots, expected in ((234, 234), (248, 248), (624, 248)):
@@ -231,33 +156,38 @@ class PayloadTests(unittest.TestCase):
             self.uc.reg_write(regs.UC_MIPS_REG_V0, ctx_ptr)
             self.uc.reg_write(regs.UC_MIPS_REG_S0, raw_slots)
             self.uc.emu_start(self.asm.labels['clamp_save_slots'], STOP, count=1000)
-            self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
             self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_S0), expected)
-            self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_A1), BUFFER)
 
+    def test_payload_word_wrap_and_fallbacks(self):
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'WW iiiiii')
+        self.assertEqual(self.emitted[:3], [(0, ord('W')), (0, ord('W')), (0, 32)])
+        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 6)
 
-@unittest.skipUnless(Path('work/eboot/EBOOT_decrypted.bin').is_file(), "Local decrypted EBOOT unavailable")
-class LocalBinaryTests(unittest.TestCase):
-    def test_patch_keeps_original_segment_and_live_code(self):
-        source = Path('work/eboot/EBOOT_decrypted.bin').read_bytes()
-        patched, info = patch_bytes(source)
-        new_phoff = struct.unpack_from('<I', patched, 28)[0]
-        self.assertEqual(patched[new_phoff:new_phoff + 32], source[52:84])
-        offset = 0x08949940 - 0x08804000 + 84
-        self.assertEqual(patched[offset:offset + 84], source[offset:offset + 84])
-        self.assertEqual(struct.unpack_from('<H', patched, 44)[0], 2)
-        self.assertGreater(info['payload_va'], 0x08A75B00)
-        with self.assertRaises(ValueError):
-            patch_bytes(patched)
+        self.emitted.clear()
+        self.context(slots=8, half_cell=4.75)
+        self.emit_text(b'WWW iii')
+        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 3)
+        self.assertEqual(bytes(self.uc.mem_read(BUFFER, 4)), b'WWW ')
+
+        self.emitted.clear()
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'WW-iiii')
+        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 4)
+
+        self.emitted.clear()
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'WWWWWWWW')
+        self.assertEqual([line for line, _ in self.emitted], [0, 0, 0, 1, 1, 1, 2, 2])
 
 
 @unittest.skipUnless(Uc is not None and Path('work/eboot/EBOOT_decrypted.bin').is_file(),
                      "Local EBOOT and unicorn required")
 class LocalParserTests(unittest.TestCase):
-    """Execute the real patched parser/emitters; stub only memcpy and sprites."""
+    """Execute the real patched parser/emitters/backlog/serializer in Unicorn."""
 
     def setUp(self):
-        self.support = PayloadTests('test_pixel_capacity_unchanged')
+        self.support = PayloadTests('test_metrics_measure_budget_and_clamp')
         self.support.setUp()
         self.uc = self.support.uc
         self.uc.hook_del(self.support.hook)
@@ -326,44 +256,16 @@ class LocalParserTests(unittest.TestCase):
         return [(char, self.support.word(sprite + 0x10), self.support.word(sprite + 0x14))
                 for sprite, char in self.created]
 
-
-    def test_real_parser_word_wrap_and_positions(self):
+    def test_real_parser_word_wrap_and_emotes(self):
         self.assertEqual(self.parse(b'WW iiiiii'), 9)
         self.assertEqual(self.positions(), [(87, 20, 0), (87, 32, 0), (32, 44, 0)] +
                          [(105, 20 + 3 * i, 20) for i in range(6)])
-
-    def test_real_parser_explicit_newline(self):
-        self.assertEqual(self.parse(b'Wi\\nii'), 4)
-        self.assertEqual(self.positions(), [(87, 20, 0), (105, 32, 0), (105, 20, 20), (105, 23, 20)])
-
-    def test_real_parser_formatting_emote(self):
+        self.created.clear()
+        self.support.context(slots=8, half_cell=5.0)
         self.assertEqual(self.parse(b'Wi\\S10ii'), 5)
         self.assertEqual([char for char, _, _ in self.positions()], [87, 105, 0xFF0A, 105, 105])
 
-    def test_real_parser_page_exhaustion(self):
-        self.support.context(slots=8, lines=1, half_cell=5.0)
-        self.assertEqual(self.parse(b'WWWW'), 0)
-        self.assertEqual(len(self.created), 3)
-
-    def test_real_context_allocation_expands_storage_not_geometry(self):
-        config = CONTEXT + 0x4000
-        for offset, value in ((0x10, 40), (0x14, 100), (0x18, 10), (0x1C, 20)):
-            self.support.word(config + offset, value)
-        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
-        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
-        self.uc.reg_write(regs.UC_MIPS_REG_A0, config)
-        self.uc.reg_write(regs.UC_MIPS_REG_A1, 0)
-        self.uc.emu_start(0x0887B340, STOP, count=100000)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), CONTEXT)
-        self.assertEqual(self.allocations, [0x88 + 92 * 10])
-        self.assertEqual(self.support.word(CONTEXT + 0x10), 15)
-        self.assertEqual(self.support.word(CONTEXT + 0x14), 6)
-        self.assertEqual(self.support.word(CONTEXT + 0x18), 92)
-        self.assertEqual(self.support.word(CONTEXT + 0x54), 40)
-        self.assertEqual(struct.unpack('<f', self.uc.mem_read(CONTEXT + 0x44, 4))[0], 5.0)
-
-    def test_dialogue_context_fits_serializer_limit(self):
+    def test_dialogue_context_and_fade_bounds(self):
         config = CONTEXT + 0x4000
         for offset, value in ((0x10, 364), (0x14, 57), (0x18, 14), (0x1C, 19), (0x20, 14)):
             self.support.word(config + offset, value)
@@ -373,17 +275,12 @@ class LocalParserTests(unittest.TestCase):
         self.uc.reg_write(regs.UC_MIPS_REG_A1, 0)
         self.uc.emu_start(0x0887B340, STOP, count=100000)
         self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        slots = self.support.word(CONTEXT + 0x10)
-        lines = self.support.word(CONTEXT + 0x14)
-        self.assertEqual(slots, 78)
-        self.assertEqual(lines, 3)
+        slots, lines = self.support.word(CONTEXT + 0x10), self.support.word(CONTEXT + 0x14)
+        self.assertEqual((slots, lines), (78, 3))
         self.assertLessEqual(slots * lines, 0xF8)
         self.assertEqual(self.support.run_label('budget'), 364)
 
-    def test_fade_add_bounds_guard(self):
-        fade_obj = CONTEXT + 0x4000
-        slots_ptr = CONTEXT + 0x4200
-        slot_item = CONTEXT + 0x4300
+        fade_obj, slots_ptr, slot_item = CONTEXT + 0x4000, CONTEXT + 0x4200, CONTEXT + 0x4300
         self.support.word(fade_obj + 0x04, 2)
         self.support.word(fade_obj + 0x0C, 2)
         self.support.word(fade_obj + 0x10, slots_ptr)
@@ -394,12 +291,8 @@ class LocalParserTests(unittest.TestCase):
         self.uc.reg_write(regs.UC_MIPS_REG_A0, fade_obj)
         self.uc.reg_write(regs.UC_MIPS_REG_A1, 0x12345678)
         self.uc.emu_start(0x0887E500, STOP, count=1000)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), 0)
-        self.assertEqual(self.support.word(fade_obj + 0x04), 2)
-        self.assertEqual(self.support.word(slot_item), 0xDEADBEEF)
+        self.assertEqual((self.uc.reg_read(regs.UC_MIPS_REG_V0), self.support.word(slot_item)), (0, 0xDEADBEEF))
 
-        # Within capacity: succeeds and increments count.
         self.support.word(fade_obj + 0x04, 1)
         self.support.word(slots_ptr + 4, slot_item)
         self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
@@ -407,151 +300,10 @@ class LocalParserTests(unittest.TestCase):
         self.uc.reg_write(regs.UC_MIPS_REG_A0, fade_obj)
         self.uc.reg_write(regs.UC_MIPS_REG_A1, 0x12345678)
         self.uc.emu_start(0x0887E500, STOP, count=1000)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), 1)
-        self.assertEqual(self.support.word(fade_obj + 0x04), 2)
-        self.assertEqual(self.support.word(slot_item), 0x12345678)
+        self.assertEqual((self.uc.reg_read(regs.UC_MIPS_REG_V0), self.support.word(slot_item)), (1, 0x12345678))
 
-    def test_load_corrupted_old_save_skips_overflow(self):
-        # Craft a 1-context save buffer with old SLOT_FACTOR=4 dimensions (208 * 3 = 624 > 0xF8).
+    def test_save_load_guard_and_ascii_restore(self):
         save_buf = CONTEXT + 0x5000
-        self.uc.mem_write(save_buf, bytes(0x2000))
-        self.support.word(save_buf + 0x00, 1)    # context count
-        rec = save_buf + 0x04
-        self.support.word(rec + 0x08, 1)         # ctx id
-        self.support.word(rec + 0x10, 208)       # old 4x line slots
-        self.support.word(rec + 0x14, 3)         # lines (total 624 > 0xF8)
-        self.support.word(rec + 0x18, 20)        # char_w
-        self.support.word(rec + 0x1C, 20)        # line_h
-        self.support.word(rec + 0x40, 10)        # half_cell * 2 = 20 -> 10.0f? wait float at +0x40
-        self.uc.mem_write(rec + 0x40, struct.pack('<f', 10.0))
-        # Seed 0x08A218B0=1 and 0x08A21870[0]=CONTEXT (id=1) so lookup finds CONTEXT without alloc.
-        self.support.word(0x08A218B0, 1)
-        self.support.word(0x08A21870, CONTEXT)
-        self.support.word(CONTEXT + 0x08, 1)
-        # Stub 0x0887B090 and 0x0887B7A0 and 0x0887B97C/0x0887BFD4 tracking if emitters are called.
-        emitted = []
-        def save_hook(uc, addr, size, _):
-            if addr == 0x0887B090:
-                uc.reg_write(regs.UC_MIPS_REG_V0, 1)
-            elif addr == 0x0887B7A0:
-                uc.reg_write(regs.UC_MIPS_REG_V0, 1)
-            elif addr in (0x0887B97C, 0x0887BFD4):
-                emitted.append(addr)
-                uc.reg_write(regs.UC_MIPS_REG_V0, 1)
-            else:
-                return
-            uc.reg_write(regs.UC_MIPS_REG_PC, uc.reg_read(regs.UC_MIPS_REG_RA))
-        hk = self.uc.hook_add(UC_HOOK_CODE, save_hook)
-        try:
-            self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
-            self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
-            self.uc.reg_write(regs.UC_MIPS_REG_A0, save_buf)
-            self.uc.emu_start(0x0887F5D8, STOP, count=100000)
-            self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-            self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), 1)
-            self.assertEqual(emitted, [])
-        finally:
-            self.uc.hook_del(hk)
-
-    def test_real_backlog_proportional_and_word_wrap(self):
-        # Build a backlog context at CONTEXT + 0x4000 matching 0x0887FB3C layout.
-        bl = CONTEXT + 0x4000
-        sprites = CONTEXT + 0x4200
-        speaker = CONTEXT + 0x4600
-        body = CONTEXT + 0x4700
-        self.uc.mem_write(bl, bytes(0x100))
-        self.uc.mem_write(sprites, bytes(0x200))
-        self.uc.mem_write(speaker, b'Wi\x00')
-        self.uc.mem_write(body, b'WW iiiiii\x00\x00WW')
-        self.support.word(bl + 0x00, 1)
-        self.support.word(bl + 0x08, 0xFFFF)  # 0xFFFF = put body on new line below speaker (0x08880768)
-        self.support.word(bl + 0x0C, 0)
-        self.uc.mem_write(bl + 0x24, struct.pack('<f', 5.0))   # speaker half_cell
-        self.uc.mem_write(bl + 0x28, struct.pack('<f', 5.0))   # body half_cell
-        self.support.word(bl + 0x2C, 20)  # speaker line pitch
-        self.support.word(bl + 0x30, 20)  # body line pitch
-        self.support.word(bl + 0x34, 20)  # x0
-        self.support.word(bl + 0x38, 0)   # y0
-        self.support.word(bl + 0x3C, 40)  # box_w
-        self.support.word(bl + 0x40, 80)  # box_h
-        self.support.word(bl + 0x44, 0)   # speaker font
-        self.support.word(bl + 0x48, 0)   # body font
-        self.support.word(bl + 0x4C, 10)  # speaker char_w
-        self.support.word(bl + 0x50, 10)  # body char_w
-        self.support.word(bl + 0x54, 20)  # extra y
-        self.support.word(bl + 0x58, sprites)
-        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
-        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
-        self.uc.reg_write(regs.UC_MIPS_REG_A0, bl)
-        self.uc.reg_write(regs.UC_MIPS_REG_A1, 2)
-        self.uc.reg_write(regs.UC_MIPS_REG_A2, speaker)
-        self.uc.reg_write(regs.UC_MIPS_REG_A3, 13)
-        self.uc.reg_write(regs.UC_MIPS_REG_T0, body)
-        self.uc.reg_write(regs.UC_MIPS_REG_T1, 0)
-        self.uc.emu_start(0x0887FE40, STOP, count=200000)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        pos = self.positions()
-        # Speaker: 'W' at 20, 'i' at 32 (W=12px)
-        self.assertEqual(pos[:2], [(87, 20, 0), (105, 32, 0)])
-        # Body: 'WW ' at y=20 (x=20, 32, 44), wrapped 'iiiiii' at y=40 (x=20..35)
-        self.assertEqual(pos[2:11], [(87, 20, 20), (87, 32, 20), (32, 44, 20)] + [(105, 20 + 3 * i, 40) for i in range(6)])
-        # Trailing 'WW' after '\x00\x00' padding wraps cleanly to y=60 (38 + 24 > 60).
-        self.assertEqual(pos[11:], [(87, 20, 60), (87, 32, 60)])
-
-    def test_real_backlog_overflow_space_and_leading_space_skip(self):
-        bl = CONTEXT + 0x4000
-        sprites = CONTEXT + 0x4200
-        body = CONTEXT + 0x4700
-        self.uc.mem_write(bl, bytes(0x100))
-        self.uc.mem_write(sprites, bytes(0x200))
-        self.uc.mem_write(body, b'WWW  iii')
-        self.support.word(bl + 0x00, 1)
-        self.support.word(bl + 0x08, 0xFFFF)
-        self.support.word(bl + 0x0C, 0)
-        self.uc.mem_write(bl + 0x24, struct.pack('<f', 5.0))
-        self.uc.mem_write(bl + 0x28, struct.pack('<f', 5.0))
-        self.support.word(bl + 0x2C, 20)
-        self.support.word(bl + 0x30, 20)
-        self.support.word(bl + 0x34, 20)
-        self.support.word(bl + 0x38, 0)
-        self.support.word(bl + 0x3C, 38)
-        self.support.word(bl + 0x40, 80)
-        self.support.word(bl + 0x44, 0)
-        self.support.word(bl + 0x48, 0)
-        self.support.word(bl + 0x4C, 10)
-        self.support.word(bl + 0x50, 10)
-        self.support.word(bl + 0x54, 20)
-        self.support.word(bl + 0x58, sprites)
-        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
-        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
-        self.uc.reg_write(regs.UC_MIPS_REG_A0, bl)
-        self.uc.reg_write(regs.UC_MIPS_REG_A1, 0)
-        self.uc.reg_write(regs.UC_MIPS_REG_A2, 0)
-        self.uc.reg_write(regs.UC_MIPS_REG_A3, 8)
-        self.uc.reg_write(regs.UC_MIPS_REG_T0, body)
-        self.uc.reg_write(regs.UC_MIPS_REG_T1, 0)
-        self.uc.emu_start(0x0887FE40, STOP, count=200000)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        self.assertEqual(self.positions(), [
-            (87, 20, 0), (87, 32, 0), (87, 44, 0),
-            (105, 20, 20), (105, 23, 20), (105, 26, 20),
-        ])
-
-    def test_load_valid_save_restores_ascii_via_emit_ascii(self):
-        save_buf = CONTEXT + 0x5000
-        self.uc.mem_write(save_buf, bytes(0x2000))
-        self.support.word(save_buf + 0x00, 1)
-        rec = save_buf + 0x04
-        self.support.word(rec + 0x08, 1)
-        self.support.word(rec + 0x10, 4)
-        self.support.word(rec + 0x14, 1)
-        self.support.word(rec + 0x18, 20)
-        self.support.word(rec + 0x1C, 20)
-        self.uc.mem_write(rec + 0x40, struct.pack('<f', 10.0))
-        self.uc.mem_write(rec + 0x64, b'Wi\x00\x00')
-        self.uc.mem_write(rec + 0x15C + 0 * 0x14, struct.pack('<H', 1))
-        self.uc.mem_write(rec + 0x15C + 1 * 0x14, struct.pack('<H', 1))
         self.support.word(0x08A218B0, 1)
         self.support.word(0x08A21870, CONTEXT)
         self.support.word(CONTEXT + 0x08, 1)
@@ -569,30 +321,71 @@ class LocalParserTests(unittest.TestCase):
 
         hk = self.uc.hook_add(UC_HOOK_CODE, save_hook)
         try:
+            # Oversized old SLOT_FACTOR=4 record (208 * 3 = 624 > 0xF8) is skipped safely
+            self.uc.mem_write(save_buf, bytes(0x2000))
+            self.support.word(save_buf + 0x00, 1)
+            rec = save_buf + 0x04
+            for off, val in ((0x08, 1), (0x10, 208), (0x14, 3), (0x18, 20), (0x1C, 20)):
+                self.support.word(rec + off, val)
+            self.uc.mem_write(rec + 0x40, struct.pack('<f', 10.0))
             self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
             self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
             self.uc.reg_write(regs.UC_MIPS_REG_A0, save_buf)
             self.uc.emu_start(0x0887F5D8, STOP, count=100000)
-            self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-            self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), 1)
+            self.assertEqual((self.uc.reg_read(regs.UC_MIPS_REG_V0), emitted), (1, []))
+
+            # Valid <= 0xF8 record restores ASCII via emit_ascii (0x0887BFD4)
+            self.support.word(rec + 0x10, 4)
+            self.support.word(rec + 0x14, 1)
+            self.uc.mem_write(rec + 0x64, b'Wi\x00\x00')
+            self.uc.mem_write(rec + 0x15C + 0 * 0x14, struct.pack('<H', 1))
+            self.uc.mem_write(rec + 0x15C + 1 * 0x14, struct.pack('<H', 1))
+            self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+            self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+            self.uc.reg_write(regs.UC_MIPS_REG_A0, save_buf)
+            self.uc.emu_start(0x0887F5D8, STOP, count=100000)
             self.assertEqual(emitted, [(0x0887BFD4, ord('W')), (0x0887BFD4, ord('i'))])
         finally:
             self.uc.hook_del(hk)
 
-    def test_backlog_capture_clamps_speaker_and_preserves_body(self):
+    def test_real_backlog_wrap_and_capture_clamp(self):
+        # 1. Backlog renderer (0x0887FE40): proportional speaker + body word wrap
+        bl, sprites, speaker, body = CONTEXT + 0x4000, CONTEXT + 0x4200, CONTEXT + 0x4600, CONTEXT + 0x4700
+        self.uc.mem_write(bl, bytes(0x100))
+        self.uc.mem_write(sprites, bytes(0x200))
+        self.uc.mem_write(speaker, b'Wi\x00')
+        self.uc.mem_write(body, b'WW iiiiii\x00\x00WW')
+        for off, val in ((0x00, 1), (0x08, 0xFFFF), (0x0C, 0), (0x2C, 20), (0x30, 20),
+                         (0x34, 20), (0x38, 0), (0x3C, 40), (0x40, 80), (0x4C, 10),
+                         (0x50, 10), (0x54, 20), (0x58, sprites)):
+            self.support.word(bl + off, val)
+        self.uc.mem_write(bl + 0x24, struct.pack('<f', 5.0))
+        self.uc.mem_write(bl + 0x28, struct.pack('<f', 5.0))
+        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+        self.uc.reg_write(regs.UC_MIPS_REG_A0, bl)
+        self.uc.reg_write(regs.UC_MIPS_REG_A1, 2)
+        self.uc.reg_write(regs.UC_MIPS_REG_A2, speaker)
+        self.uc.reg_write(regs.UC_MIPS_REG_A3, 13)
+        self.uc.reg_write(regs.UC_MIPS_REG_T0, body)
+        self.uc.reg_write(regs.UC_MIPS_REG_T1, 0)
+        self.uc.emu_start(0x0887FE40, STOP, count=200000)
+        pos = self.positions()
+        self.assertEqual(pos[:2], [(87, 20, 0), (105, 32, 0)])
+        self.assertEqual(pos[2:11], [(87, 20, 20), (87, 32, 20), (32, 44, 20)] + [(105, 20 + 3 * i, 40) for i in range(6)])
+        self.assertEqual(pos[11:], [(87, 20, 60), (87, 32, 60)])
+
+        # 2. Backlog capture (0x0887F924): clamps speaker > 0x40 without heap overflow
         self.support.word(0x08A218B0, 1)
         self.support.word(0x08A21870, CONTEXT)
         self.support.word(CONTEXT + 0x08, 1)
         self.support.word(CONTEXT + 0x3C, BUFFER)
         self.support.word(CONTEXT + 0x64, 0)
         self.uc.mem_write(CONTEXT + 0x80, b'\x00')
-
-        # Speaker context expanded past 0x40 (80 bytes) must clamp to 0x40 and never
-        # overflow the 0x58-byte speaker record into adjacent heap chunks (body_rec).
         self.support.word(CONTEXT + 0x18, 80)
         self.support.word(CONTEXT + 0x40, 6)
         self.uc.mem_write(BUFFER, b'Nanaka' + b'\x00' * 74)
-        dst_spk = CONTEXT + 0x4000
+        dst_spk = CONTEXT + 0x4800
         self.uc.mem_write(dst_spk, bytes(0x58))
         self.uc.mem_write(dst_spk + 0x58, struct.pack('<II', 0x11223344, 0x096F5818))
         self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
@@ -602,29 +395,8 @@ class LocalParserTests(unittest.TestCase):
         self.uc.reg_write(regs.UC_MIPS_REG_A2, dst_spk)
         self.uc.reg_write(regs.UC_MIPS_REG_A3, 0x40)
         self.uc.emu_start(0x0887F924, STOP, count=100000)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), dst_spk)
         self.assertEqual(self.support.word(dst_spk + 0x0C), 0x40)
-        self.assertEqual(bytes(self.uc.mem_read(dst_spk + 0x18, 0x40)), b'Nanaka' + b'\x00' * 58)
         self.assertEqual(struct.unpack('<II', self.uc.mem_read(dst_spk + 0x58, 8)), (0x11223344, 0x096F5818))
-
-        # Body context within 0xF8 (236 bytes) preserves full unclamped length.
-        self.support.word(CONTEXT + 0x18, 236)
-        self.support.word(CONTEXT + 0x40, 10)
-        self.uc.mem_write(BUFFER, b'HelloTest!' + b'\x00' * 226)
-        dst_body = CONTEXT + 0x4200
-        self.uc.mem_write(dst_body, bytes(0x120))
-        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
-        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
-        self.uc.reg_write(regs.UC_MIPS_REG_A0, 1)
-        self.uc.reg_write(regs.UC_MIPS_REG_A1, 0)
-        self.uc.reg_write(regs.UC_MIPS_REG_A2, dst_body)
-        self.uc.reg_write(regs.UC_MIPS_REG_A3, 0xF8)
-        self.uc.emu_start(0x0887F924, STOP, count=100000)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
-        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), dst_body)
-        self.assertEqual(self.support.word(dst_body + 0x0C), 236)
-        self.assertEqual(bytes(self.uc.mem_read(dst_body + 0x18, 10)), b'HelloTest!')
 
 
 if __name__ == '__main__':

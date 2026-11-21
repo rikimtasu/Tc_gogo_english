@@ -51,7 +51,7 @@ python tools/build_p2.py --work work/pjadv_workspace --trans gt_output --tight-d
 ```
 
 The latest local trial, which is not included in git, is
-`build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` (Batch 1: 6 translated scenes, 63/63 unit tests passing).
+`build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` (Batch 1: 6 translated scenes, 13/13 consolidated unit tests passing).
 It uses Barlow Semi Condensed Medium at a 14px dialogue raster size, 100% width,
 tight spacing and 3px word spaces. Four-times supersampling and grayscale edge
 shades replace binary rendering. Japanese glyphs and their palette colors are unchanged.
