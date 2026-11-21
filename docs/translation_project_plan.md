@@ -15,7 +15,7 @@
 | Control codes | `\n` (line break) and `\sNN` / `\SNN` (icon/emote codes like `\s04`; 13 variants, ~1,800 uses). Speaker names are separate pool strings referenced by bytecode. |
 | Decrypted EBOOT | Supplied locally (not committed to git): 1,527,040 bytes, static MIPS32 LE `ET_EXEC` ELF (`entry 0x089474e4`, `.text 0x08804000–0x08949994`, `.data 0x0894ac3c–0x08978630`). Contains internal asset names confirming `LOLOTTE`, `PAQY`, and `MACAROON`. |
 | Font system | Three CRILAYLA-compressed bitmap font sets (`font/sulakyapi{8,12,18}/`): TIM2 (`.tm2`) 4bpp/16-color texture atlases + `abc.w_abc` width tables (`cnt` = 60,065 / 38,902 / 38,855 entries; line heights 19 / 12 / 26 px) + `JIS2UCS.BIN` (131,072-byte Shift-JIS → UCS-2 lookup). |
-| Target font | **[NewGoStyle-Ver1.000](../NewGoStyle-Ver1.000)** (Regular, Medium, Bold, Heavy, Black `.ttf`), SIL Open Font License 1.1. Combines GenEi M Go v2.0 Japanese glyphs with **Console Square Beta** alphanumerics and adjusted metrics for high readability. |
+| Target font | **[Inrond-1.0](../Inrond-1.0)**, SIL Open Font License 1.1. Active Latin preset: weight 500, roundness 50, optical size 14; tight 14px dialogue glyphs with supersampled grayscale edges. Original Japanese glyphs and their used palette entries are preserved. NewGoStyle trials were rejected and retained only as history. |
 | Other text sources | `BATTLE.CPK` (battle UI, `EXName`, `.bbn` battle voice/data), `GRAPHIC.CPK` and `SystemZip/*.zip` (menus, chapter cards, text-bearing images), `EBOOT` `.data`/`.rodata` (system menus), and `OP1/OP2.PMF`. |
 | Install data risk | `PSP_GAME/INSDIR/DATA1–3.DAT` (~100 MB, PGD-encrypted). Must be tested early in P2 to confirm whether installed Memory Stick data overrides patched CPK files. |
 
@@ -32,7 +32,7 @@
    - Full cast & GalTransl dictionary are in [characters.md](../glossary/characters.md) and [gpt_dict_characters.txt](../glossary/gpt_dict_characters.txt).
 3. **Translation pipeline:** GalTransl MTL first draft (using `gpt_dict_characters.txt` + style guide) followed by **full human editing and QA**.
 4. **Scope:** This disc (`Twinkle Crusaders GoGo!` Japan v1.01) only for now.
-5. **Word wrapping & font:** Implement proportional word-wrapping **directly in the EBOOT text renderer** (Option b), paired with bitmap font atlases (`sulakyapi{8,12,18}`) regenerated from **NewGoStyle-Ver1.000**.
+5. **Word wrapping & font:** Proportional wrapping **directly in the EBOOT text renderer**, paired with **Inrond-1.0** Latin glyphs in the `sulakyapi{8,12,18}` bitmap atlases. Keep tight spacing while preserving letter shapes, Japanese glyphs, and the original line geometry.
 
 ## 3. Workstreams and phases
 
@@ -48,12 +48,12 @@
 4. **Rebuilder:** encode translated strings, deduplicate/expand pool entries when identical JP strings need different English translations, patch all bytecode pointers, and re-chunk.
 5. **Gate:** round-tripping the untouched JP script must produce byte-identical `textdata.bin` and `scenario.bin`.
 
-### P2: EBOOT word wrap & NewGoStyle font PoC (2–3 weeks, critical technical milestone)
+### P2: EBOOT word wrap & Inrond font PoC (2–3 weeks, critical technical milestone)
 1. **Reverse-engineer the text renderer** in the decrypted EBOOT (via `rizin` / Ghidra): trace `JIS2UCS.BIN`, `abc.w_abc`, `font*.tm2` loading, glyph advance calculation, and line-break logic (`\n` and box-width overflow).
-2. **Generate NewGoStyle PSP font assets:** rasterize **NewGoStyle-Medium** / **Regular** (and **Bold** if needed) into `sulakyapi8`, `sulakyapi12`, and `sulakyapi18` TIM2 atlases + `abc.w_abc` proportional width tables (plus `JIS2UCS.BIN` / ASCII mapping updates if needed), then CRILAYLA-compress them.
-3. **Implement EBOOT word wrapping:** inject a MIPS32 code cave (or replace the character-break routine) to read proportional widths from `abc.w_abc`, scan ahead to the next space/hyphen/`\n`, break cleanly on word boundaries, and respect `\n` and `\sNN` emote codes.
+2. **Generate Inrond PSP font assets:** rasterize the variable font into `sulakyapi8`, `sulakyapi12`, and `sulakyapi18` TIM2 atlases and update ASCII `abc.w_abc` records. Use tight signed A/B/C advances, text optical sizing, and grayscale shades in unused palette entries; preserve original Japanese glyphs and palette colors. CRILAYLA-compress the results.
+3. **Implement EBOOT word wrapping:** use the appended executable segment to read proportional widths from `abc.w_abc`, scan ahead to space/hyphen/`\n`, break on word boundaries, and respect `\n` and `\sNN` emote codes. Finish the remaining layout/punctuation cases without modifying the clean EBOOT.
 4. **Verify INSDIR install data:** test patched ISO in PPSSPP with Data Install enabled and disabled to confirm whether `INSDIR/DATA1–3.DAT` overrides `GAMEINIT.CPK`, and disable/patch install logic if needed.
-5. **Gate:** boot `PROLOGUE1001` in PPSSPP with long English test lines, `\sNN` codes, choices, and backlog—confirm crisp NewGoStyle rendering, accurate proportional spacing, and zero mid-word breaks.
+5. **Gate:** boot `PROLOGUE1001` in PPSSPP with long English test lines, `\sNN` codes, choices, and backlog; verify Inrond readability, grayscale palette rendering, proportional spacing, and word wrapping.
 
 ### P3: Translation — GalTransl MTL + full human editing (the long phase)
 - **Step 1 — Style guide & terms:** finish `style/style_guide.md` and `glossary/terms.md`.
@@ -67,16 +67,16 @@
 - **Optional:** subtitle `OP1.PMF` / `OP2.PMF` and translate trophy/extras UI.
 
 ### P5: Build, QA & release
-- **One-command build:** `gt_output/` + edited graphics + patched `EBOOT.BIN` + NewGoStyle font → CPK rebuild → ISO rebuild → `xdelta3` patch.
+- **One-command build:** `gt_output/` + edited graphics + patched `EBOOT.BIN` + Inrond font → CPK rebuild → ISO rebuild → `xdelta3` patch.
 - **Playtesting:** full-route QA on PPSSPP and real PSP hardware (CFW).
-- **Release package & licensing:** distribute the `.xdelta` patch + README + credits. Because NewGoStyle bitmap derivatives are bundled under **SIL OFL 1.1**, include `OFL.txt` and `THIRD_PARTY_NOTICES.txt` in the release archive (and do not use reserved font names `源暎`, `GenEi`, or `Source` as primary font names). **Never distribute the ISO.**
+- **Release package & licensing:** distribute the `.xdelta` patch + README + credits. Include **Inrond's SIL OFL 1.1 notice**, containing the Inrond and Inter copyright statements, with the bitmap derivatives. NewGoStyle notices are needed only if historical NewGoStyle derivatives are also distributed. **Never distribute the ISO.**
 
 ## 4. Key risks & mitigations
 
 | Risk | Impact | Mitigation |
 |---|---|---|
 | EBOOT MIPS hook complexity (tight code space, multiple text renderers) | High | Analyze all `abc.w_abc` callers in decrypted EBOOT during P2; place hook in unused/BSS-extended region or spare segment space and test all 3 font sizes (`8/12/18`). |
-| Modified text pool + NewGoStyle TIM2 atlases exceed `GAMEINIT.CPK` / UMD LBA layout | Medium | Rebuild CPK/ISO with proper TOC & LBA updates; verify on real PSP hardware as well as PPSSPP. |
+| Modified text pool + Inrond TIM2 atlases exceed `GAMEINIT.CPK` / UMD LBA layout | Medium | Rebuild CPK/ISO with proper TOC & LBA updates; verify on real PSP hardware as well as PPSSPP. |
 | INSDIR `DATA1–3.DAT` PGD install overrides patched files | Medium | Test early in P2; patch EBOOT to ignore or disable Data Install if it reads `DATA1–3.DAT` over UMD CPKs. |
 | MTL artifacts slipping into final script (~1.91M JP chars) | High (quality) | Route-by-route human editing milestones, strict GalTransl dictionaries, and automated QA scripts before each route sign-off. |
-| `sulakyapi12` 4bpp TIM2 palette/swizzle or `w_abc` format quirks | Medium | Reverse-engineer exact `w_abc` entry layout from decrypted EBOOT before building the NewGoStyle atlas generator. |
+| `sulakyapi12` 4bpp TIM2 palette/swizzle or `w_abc` format quirks | Medium | Preserve palette entries used by Japanese glyphs, validate atlas/metrics round trips, and verify Inrond edge shades in PPSSPP. |

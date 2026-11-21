@@ -1,0 +1,353 @@
+"""Synthetic MIPS execution tests; optional local EBOOT tests use no tracked dumps."""
+
+from __future__ import annotations
+
+import struct
+import unittest
+from pathlib import Path
+
+from tools.eboot.mips_asm import MipsAsm
+from tools.eboot.patch_eboot import PAYLOAD_VA, build_payload, patch_bytes
+
+try:
+    from unicorn import Uc, UC_ARCH_MIPS, UC_MODE_MIPS32, UC_MODE_LITTLE_ENDIAN, UC_HOOK_CODE
+    from unicorn import mips_const as regs
+except ImportError:
+    Uc = None
+
+
+CONTEXT = 0x09000000
+BUFFER = CONTEXT + 0x1000
+SOURCE = CONTEXT + 0x2000
+SPRITES = CONTEXT + 0x3000
+STACK = CONTEXT + 0xF000
+STOP = CONTEXT + 0xFF00
+
+
+class AssemblerTests(unittest.TestCase):
+    def test_float_encodings(self):
+        asm = MipsAsm(0x08800000)
+        asm.add_lines("lwc1 f0, 0x44(a0)\nmtc1 t0, f1\ncvt.s.w f1, f1\nmul.s f0, f0, f1\ntrunc.w.s f0, f0\nmfc1 v0, f0")
+        self.assertEqual(struct.unpack("<6I", asm.assemble()),
+                         (0xC4800044, 0x44880800, 0x46800860, 0x46010002, 0x4600000D, 0x44020000))
+
+    def test_far_branch_rejected(self):
+        asm = MipsAsm(0x08800000)
+        asm.emit("beq zero, zero, 0x08840000")
+        with self.assertRaises(ValueError):
+            asm.assemble()
+
+    def test_unaligned_jump_rejected(self):
+        asm = MipsAsm(0x08800000)
+        asm.emit("j 0x08800001")
+        with self.assertRaises(ValueError):
+            asm.assemble()
+
+    def test_wrong_eboot_rejected(self):
+        with self.assertRaises(ValueError):
+            patch_bytes(bytes(1_527_040))
+
+
+@unittest.skipIf(Uc is None, "Install unicorn to execute MIPS tests")
+class PayloadTests(unittest.TestCase):
+    def setUp(self):
+        self.uc = Uc(UC_ARCH_MIPS, UC_MODE_MIPS32 | UC_MODE_LITTLE_ENDIAN)
+        self.uc.mem_map(0x08800000, 0x300000)
+        self.uc.mem_map(CONTEXT, 0x10000)
+        self.asm = build_payload()
+        self.uc.mem_write(PAYLOAD_VA, self.asm.assemble())
+        self.widths = {code: 7 for code in range(32, 127)}
+        self.widths.update({32: 4, ord('i'): 3, ord('W'): 12, ord('-'): 5})
+        self.install_fonts()
+        self.context()
+        self.emitted = []
+        self.positions = []
+        self.breaks = 0
+        self.hook = self.uc.hook_add(UC_HOOK_CODE, self.stub)
+
+    def word(self, addr, val=None):
+        if val is not None:
+            self.uc.mem_write(addr, struct.pack("<I", val & 0xFFFFFFFF))
+        return struct.unpack("<I", self.uc.mem_read(addr, 4))[0]
+
+    def install_fonts(self):
+        for i in range(3):
+            lut, glyphs = CONTEXT + 0x5000 + i * 0x1000, CONTEXT + 0x8000 + i * 0x1000
+            base = 0x08A26924 + i * 32
+            self.uc.mem_write(base, struct.pack("<H", 127))
+            self.word(base + 4, lut)
+            self.word(base + 12, glyphs)
+            for code, width in self.widths.items():
+                self.uc.mem_write(lut + code * 2, struct.pack("<H", code - 31))
+                self.uc.mem_write(glyphs + (code - 31) * 18, struct.pack("<4H3h2H", 1, 1, width + 1, 20, 0, width, 0, 0, 0))
+
+    def context(self, slots=40, lines=5, half_cell=9.5, font=0):
+        self.word(CONTEXT + 0x10, slots * 4)
+        self.word(CONTEXT + 0x14, lines)
+        self.word(CONTEXT + 0x3C, BUFFER)
+        self.word(CONTEXT + 0x40, 0)
+        self.uc.mem_write(CONTEXT + 0x44, struct.pack("<f", half_cell))
+        self.word(CONTEXT + 0x4C, 20)
+        self.word(CONTEXT + 0x60, font)
+        self.word(CONTEXT + 0x70, SPRITES)
+
+    def run_label(self, label, char=0, source=SOURCE):
+        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+        self.uc.reg_write(regs.UC_MIPS_REG_A0, CONTEXT)
+        self.uc.reg_write(regs.UC_MIPS_REG_A1, char)
+        self.uc.reg_write(regs.UC_MIPS_REG_A2, CONTEXT + 0x100)
+        self.uc.reg_write(regs.UC_MIPS_REG_S2, source)
+        self.uc.emu_start(self.asm.labels[label], STOP, count=100000)
+        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP, "MIPS instruction budget exhausted")
+        return self.uc.reg_read(regs.UC_MIPS_REG_V0)
+
+    def stub(self, uc, address, size, _):
+        if address not in (0x0887BFD4, 0x0887B97C, 0x0887C400, 0x08881828):
+            return
+        if address == 0x08881828:
+            self.positions.append((uc.reg_read(regs.UC_MIPS_REG_A1), uc.reg_read(regs.UC_MIPS_REG_A2)))
+        elif address == 0x0887C400:
+            self.breaks += 1
+            slots, cursor = self.word(CONTEXT + 0x10), self.word(CONTEXT + 0x40)
+            self.word(CONTEXT + 0x40, min((cursor // slots + 1) * slots,
+                                       slots * self.word(CONTEXT + 0x14)))
+            uc.reg_write(regs.UC_MIPS_REG_V0, 1)
+        else:
+            cursor, slots = self.word(CONTEXT + 0x40), self.word(CONTEXT + 0x10)
+            char = uc.reg_read(regs.UC_MIPS_REG_A1) & 0xFFFF
+            wide = address == 0x0887B97C
+            length = 2 if wide else 1
+            if cursor + length > slots * self.word(CONTEXT + 0x14):
+                uc.reg_write(regs.UC_MIPS_REG_V0, 0)
+            else:
+                self.emitted.append((cursor // slots, char))
+                self.uc.mem_write(BUFFER + cursor, struct.pack("<H", char) if wide else bytes([char]))
+                self.word(CONTEXT + 0x40, cursor + length)
+                uc.reg_write(regs.UC_MIPS_REG_V0, 1)
+        uc.reg_write(regs.UC_MIPS_REG_PC, uc.reg_read(regs.UC_MIPS_REG_RA))
+
+    def emit_text(self, text):
+        self.uc.mem_write(SOURCE, text + b'\0\0')
+        for i, char in enumerate(text):
+            if not self.run_label('emit_ascii', char, SOURCE + i):
+                break
+
+    def seed(self, text):
+        self.uc.mem_write(BUFFER, text)
+        self.word(CONTEXT + 0x40, len(text))
+
+    def test_ascii_metrics_all_fonts(self):
+        for font in (0, 7, 8):
+            self.word(CONTEXT + 0x60, font)
+            self.assertEqual(self.run_label('advance', ord('i')), 3)
+            self.assertEqual(self.run_label('advance', ord('W')), 12)
+
+    def test_missing_font_falls_back(self):
+        self.word(0x08A26924 + 32 + 4, 0)
+        self.assertEqual(self.run_label('advance', ord('W')), 9)
+
+    def test_signed_bearings(self):
+        glyph = CONTEXT + 0x9000 + (ord('i') - 31) * 18
+        self.uc.mem_write(glyph + 8, struct.pack('<3h', -1, 5, -1))
+        self.assertEqual(self.run_label('advance', ord('i')), 3)
+
+    def test_japanese_full_cell(self):
+        self.assertEqual(self.run_label('advance', 0x4081), 19)
+
+    def test_measure_mixed_and_emote(self):
+        self.seed(b'Wi\x81\x40\x0a\xff')
+        self.assertEqual(self.run_label('measure'), 12 + 3 + 19 + 19)
+
+    def test_measure_current_line_only(self):
+        self.seed(b'W' * 5)
+        self.word(CONTEXT + 0x40, 160)
+        self.uc.mem_write(BUFFER + 160, b'ii')
+        self.word(CONTEXT + 0x40, 162)
+        self.assertEqual(self.run_label('measure'), 6)
+
+    def test_pixel_capacity_unchanged(self):
+        self.assertEqual(self.run_label('budget'), 380)
+
+    def test_wrap_word_before_emission(self):
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'WW iiiiii')
+        self.assertEqual(self.emitted[:3], [(0, ord('W')), (0, ord('W')), (0, 32)])
+        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 6)
+        self.assertEqual(self.breaks, 1)
+
+    def test_exact_fit_no_wrap(self):
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'WW iiii')
+        self.assertEqual(self.breaks, 0)
+
+    def test_oversize_word_character_fallback(self):
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'WWWWWWWW')
+        self.assertEqual([line for line, _ in self.emitted], [0, 0, 0, 1, 1, 1, 2, 2])
+
+    def test_narrow_letters_exceed_old_slot_count(self):
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'i' * 13)
+        self.assertEqual(self.breaks, 0)
+        self.assertEqual(len(self.emitted), 13)
+
+    def test_overflow_space_not_leading_next_line(self):
+        self.context(slots=8, half_cell=4.75)
+        self.emit_text(b'WWW iii')
+        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 3)
+
+    def test_last_line_returns_failure(self):
+        self.context(slots=8, lines=1, half_cell=5.0)
+        self.emit_text(b'WWWW')
+        self.assertEqual(len(self.emitted), 3)
+
+    def test_hyphen_is_break_opportunity(self):
+        self.context(slots=8, half_cell=5.0)
+        self.emit_text(b'WW-iiii')
+        self.assertEqual(self.emitted[3:], [(1, ord('i'))] * 4)
+
+    def test_wide_emote_wrap(self):
+        self.context(slots=8, half_cell=5.0)
+        self.seed(b'WWW')
+        self.assertEqual(self.run_label('emit_wide', 0xFF0A), 1)
+        self.assertEqual(self.emitted, [(1, 0xFF0A)])
+
+    def test_position_preserves_registers_and_stack(self):
+        self.seed(b'Wi')
+        self.uc.reg_write(regs.UC_MIPS_REG_S1, CONTEXT)
+        self.run_label('position')
+        self.assertEqual(self.positions[-1], (35, CONTEXT + 0x100))
+        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_SP), STACK)
+        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_S1), CONTEXT)
+
+
+@unittest.skipUnless(Path('work/eboot/EBOOT_decrypted.bin').is_file(), "Local decrypted EBOOT unavailable")
+class LocalBinaryTests(unittest.TestCase):
+    def test_patch_keeps_original_segment_and_live_code(self):
+        source = Path('work/eboot/EBOOT_decrypted.bin').read_bytes()
+        patched, info = patch_bytes(source)
+        new_phoff = struct.unpack_from('<I', patched, 28)[0]
+        self.assertEqual(patched[new_phoff:new_phoff + 32], source[52:84])
+        offset = 0x08949940 - 0x08804000 + 84
+        self.assertEqual(patched[offset:offset + 84], source[offset:offset + 84])
+        self.assertEqual(struct.unpack_from('<H', patched, 44)[0], 2)
+        self.assertGreater(info['payload_va'], 0x08A75B00)
+        with self.assertRaises(ValueError):
+            patch_bytes(patched)
+
+
+@unittest.skipUnless(Uc is not None and Path('work/eboot/EBOOT_decrypted.bin').is_file(),
+                     "Local EBOOT and unicorn required")
+class LocalParserTests(unittest.TestCase):
+    """Execute the real patched parser/emitters; stub only memcpy and sprites."""
+
+    def setUp(self):
+        self.support = PayloadTests('test_pixel_capacity_unchanged')
+        self.support.setUp()
+        self.uc = self.support.uc
+        self.uc.hook_del(self.support.hook)
+        patched, _ = patch_bytes(Path('work/eboot/EBOOT_decrypted.bin').read_bytes())
+        phoff = struct.unpack_from('<I', patched, 28)[0]
+        for i in range(2):
+            _, off, va, _, filesz, _, _, _ = struct.unpack_from('<8I', patched, phoff + 32 * i)
+            self.uc.mem_write(va, patched[off:off + filesz])
+        self.support.install_fonts()
+        self.support.context(slots=8, half_cell=5.0)
+        self.support.word(CONTEXT + 0x48, 20)
+        self.support.word(0x08A218B4, 1)
+        self.support.word(0x08A05F94, 1)
+        self.support.word(0x08A26910, 1)
+        self.uc.mem_map(0x09100000, 0x10000)
+        self.next_sprite = 0x09100000
+        self.created = []
+        self.allocations = []
+        self.uc.hook_add(UC_HOOK_CODE, self.stub)
+
+    def stub(self, uc, address, size, _):
+        if address == 0x088142CC:
+            dest = uc.reg_read(regs.UC_MIPS_REG_A0)
+            src = uc.reg_read(regs.UC_MIPS_REG_A1)
+            length = uc.reg_read(regs.UC_MIPS_REG_A2)
+            uc.mem_write(dest, bytes(uc.mem_read(src, length)))
+            uc.reg_write(regs.UC_MIPS_REG_V0, dest)
+        elif address == 0x08881360:
+            sprite = self.next_sprite
+            self.next_sprite += 40
+            char = uc.reg_read(regs.UC_MIPS_REG_A0) & 0xFFFF
+            low = char & 0xFF
+            if char >> 8 != 0xFF and not (0x81 <= low < 0xA0 or 0xE0 <= low):
+                char = low
+            self.created.append((sprite, char))
+            uc.mem_write(sprite + 0x20, struct.pack('<2h', 10, 20))
+            uc.reg_write(regs.UC_MIPS_REG_V0, sprite)
+        elif address == 0x08881424:
+            pass
+        elif address == 0x088D5690:
+            self.allocations.append(uc.reg_read(regs.UC_MIPS_REG_A1))
+            uc.reg_write(regs.UC_MIPS_REG_V0, CONTEXT)
+        elif address == 0x088146AC:
+            dest = uc.reg_read(regs.UC_MIPS_REG_A0)
+            value = uc.reg_read(regs.UC_MIPS_REG_A1) & 0xFF
+            length = uc.reg_read(regs.UC_MIPS_REG_A2)
+            uc.mem_write(dest, bytes([value]) * length)
+            uc.reg_write(regs.UC_MIPS_REG_V0, dest)
+        elif address == 0x088047C8:
+            uc.reg_write(regs.UC_MIPS_REG_V0, 0)
+        else:
+            return
+        uc.reg_write(regs.UC_MIPS_REG_PC, uc.reg_read(regs.UC_MIPS_REG_RA))
+
+    def parse(self, text):
+        self.uc.mem_write(SOURCE, text + b'\0\0')
+        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+        self.uc.reg_write(regs.UC_MIPS_REG_A0, CONTEXT)
+        self.uc.reg_write(regs.UC_MIPS_REG_A1, SOURCE)
+        self.uc.emu_start(0x0887D678, STOP, count=500000)
+        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
+        return self.uc.reg_read(regs.UC_MIPS_REG_V0)
+
+    def positions(self):
+        return [(char, self.support.word(sprite + 0x10), self.support.word(sprite + 0x14))
+                for sprite, char in self.created]
+
+    def test_real_parser_word_wrap_and_positions(self):
+        self.assertEqual(self.parse(b'WW iiiiii'), 9)
+        self.assertEqual(self.positions(), [(87, 20, 0), (87, 32, 0), (32, 44, 0)] +
+                         [(105, 20 + 3 * i, 20) for i in range(6)])
+
+    def test_real_parser_explicit_newline(self):
+        self.assertEqual(self.parse(b'Wi\\nii'), 4)
+        self.assertEqual(self.positions(), [(87, 20, 0), (105, 32, 0), (105, 20, 20), (105, 23, 20)])
+
+    def test_real_parser_formatting_emote(self):
+        self.assertEqual(self.parse(b'Wi\\S10ii'), 5)
+        self.assertEqual([char for char, _, _ in self.positions()], [87, 105, 0xFF0A, 105, 105])
+
+    def test_real_parser_page_exhaustion(self):
+        self.support.context(slots=8, lines=1, half_cell=5.0)
+        self.assertEqual(self.parse(b'WWWW'), 0)
+        self.assertEqual(len(self.created), 3)
+
+    def test_real_context_allocation_expands_storage_not_geometry(self):
+        config = CONTEXT + 0x4000
+        for offset, value in ((0x10, 40), (0x14, 100), (0x18, 10), (0x1C, 20)):
+            self.support.word(config + offset, value)
+        self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+        self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+        self.uc.reg_write(regs.UC_MIPS_REG_A0, config)
+        self.uc.reg_write(regs.UC_MIPS_REG_A1, 0)
+        self.uc.emu_start(0x0887B340, STOP, count=100000)
+        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
+        self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_V0), CONTEXT)
+        self.assertEqual(self.allocations, [0x88 + 240 * 10])
+        self.assertEqual(self.support.word(CONTEXT + 0x10), 40)
+        self.assertEqual(self.support.word(CONTEXT + 0x14), 6)
+        self.assertEqual(self.support.word(CONTEXT + 0x18), 240)
+        self.assertEqual(self.support.word(CONTEXT + 0x54), 40)
+        self.assertEqual(struct.unpack('<f', self.uc.mem_read(CONTEXT + 0x44, 4))[0], 5.0)
+
+
+if __name__ == '__main__':
+    unittest.main()

@@ -112,6 +112,17 @@ class MipsAsm:
             raise ValueError(f"li constant {val:#x} doesn't fit 16-bit")
         if m == "lui":
             return _enc_i(15, 0, _r(ops[0]), _imm(ops[1]))
+        if m in ("lwc1", "swc1"):
+            off, base = _mem(ops[1])
+            return _enc_i(49 if m == "lwc1" else 57, base, int(ops[0].lstrip("$f")), off)
+        if m in ("mtc1", "mfc1"):
+            return (17 << 26) | ((4 if m == "mtc1" else 0) << 21) | (_r(ops[0]) << 16) | (int(ops[1].lstrip("$f")) << 11)
+        if m in ("cvt.s.w", "trunc.w.s"):
+            fmt, fn = (20, 32) if m == "cvt.s.w" else (16, 13)
+            return (17 << 26) | (fmt << 21) | (int(ops[1].lstrip("$f")) << 11) | (int(ops[0].lstrip("$f")) << 6) | fn
+        if m == "mul.s":
+            fd, fs, ft = (int(op.lstrip("$f")) for op in ops)
+            return (17 << 26) | (16 << 21) | (ft << 16) | (fs << 11) | (fd << 6) | 2
         if m == "addiu":
             return _enc_i(9, _r(ops[1]), _r(ops[0]), _imm(ops[2]))
         if m == "andi":
@@ -149,10 +160,14 @@ class MipsAsm:
         if m in ("beq", "bne", "beql", "bnel"):
             op = {"beq": 4, "bne": 5, "beql": 20, "bnel": 21}[m]
             tgt = self._resolve(ops[2])
+            if (tgt - va - 4) % 4 or not -32768 <= (tgt - va - 4) // 4 <= 32767:
+                raise ValueError(f"Branch target out of range or unaligned: {tgt:#x}")
             rel = (tgt - (va + 4)) >> 2
             return _enc_i(op, _r(ops[0]), _r(ops[1]), rel)
-        if m in ("beqz", "bnez", "blez", "bgtz", "bltz", "bgez", "beqlz", "bgezl", "bltzl"):
+        if m in ("beqz", "bnez", "blez", "bgtz", "bltz", "bgez", "bgezl", "bltzl"):
             tgt = self._resolve(ops[1])
+            if (tgt - va - 4) % 4 or not -32768 <= (tgt - va - 4) // 4 <= 32767:
+                raise ValueError(f"Branch target out of range or unaligned: {tgt:#x}")
             rel = (tgt - (va + 4)) >> 2
             if m == "beqz":
                 return _enc_i(4, _r(ops[0]), 0, rel)
@@ -172,11 +187,16 @@ class MipsAsm:
                 return _enc_i(1, _r(ops[0]), 3, rel)
         if m == "b":
             tgt = self._resolve(ops[0])
+            if (tgt - va - 4) % 4 or not -32768 <= (tgt - va - 4) // 4 <= 32767:
+                raise ValueError(f"Branch target out of range or unaligned: {tgt:#x}")
             rel = (tgt - (va + 4)) >> 2
             return _enc_i(4, 0, 0, rel)
         if m in ("j", "jal"):
             op = 2 if m == "j" else 3
-            return _enc_j(op, self._resolve(ops[0]))
+            tgt = self._resolve(ops[0])
+            if tgt % 4 or (tgt & 0xF0000000) != ((va + 4) & 0xF0000000):
+                raise ValueError(f"Jump target out of region or unaligned: {tgt:#x}")
+            return _enc_j(op, tgt)
         if m == "jr":
             return _enc_r(_r(ops[0]), 0, 0, 0, 0x08)
         if m == "jalr":

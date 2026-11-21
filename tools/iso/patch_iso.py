@@ -59,9 +59,23 @@ def find_iso_file_record(iso_bytes_or_file, target_path: str) -> tuple[int, int,
 
 def patch_iso(src_iso: Path, out_iso: Path, replacements: dict[str, Path]) -> None:
     """Copy src_iso to out_iso and replace specified ISO paths."""
+    if src_iso.resolve() == out_iso.resolve():
+        raise ValueError("Source ISO is read-only; output must be a separate file")
+    if out_iso.exists():
+        raise FileExistsError(f"Refusing to overwrite existing output: {out_iso}")
+    if not replacements:
+        raise ValueError("At least one replacement is required")
+    # Validate every path before creating a potentially large output copy.
+    with src_iso.open("rb") as source:
+        for iso_path, local_file in replacements.items():
+            find_iso_file_record(source, iso_path)
+            if not local_file.is_file():
+                raise FileNotFoundError(local_file)
     out_iso.parent.mkdir(parents=True, exist_ok=True)
-    if src_iso.resolve() != out_iso.resolve():
-        shutil.copyfile(src_iso, out_iso)
+    # Reserve the path without overwriting another build.
+    with out_iso.open("xb"):
+        pass
+    shutil.copyfile(src_iso, out_iso)
 
     with open(out_iso, "r+b") as f:
         f.seek(16 * SECTOR_SIZE)
@@ -95,8 +109,6 @@ def patch_iso(src_iso: Path, out_iso: Path, replacements: dict[str, Path]) -> No
             # Patch directory record: LBA (LE+BE at +2,+6) and Size (LE+BE at +10,+14)
             f.seek(rec_off)
             rec = bytearray(f.read(34))
-            struct.pack_into("<II", rec, 2, new_lba, new_lba)
-            # Wait: +2 is LE u32, +6 is BE u32, +10 is LE u32, +14 is BE u32!
             struct.pack_into("<I", rec, 2, new_lba)
             struct.pack_into(">I", rec, 6, new_lba)
             struct.pack_into("<I", rec, 10, len(data))
