@@ -88,7 +88,7 @@
   },
   {
     "name": "Azel",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Azel",
@@ -138,7 +138,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Hey, Demon King...」"
+    "message": "「Hey, Demon Lord...」"
   },
   {
     "name": "Synn",
@@ -153,20 +153,20 @@
     "message": "「Ah...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Heh... hahaha...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Just as I thought, your power is the real deal...」"
   },
   {
-    "name": "Virus",
-    "message": "「Now, fight me! Demon King!」"
+    "name": "Bylous",
+    "message": "「Now, fight me! Demon Lord!」"
   },
   {
     "name": "Synn",
-    "message": "「Virus, you...」"
+    "message": "「Bylous, you...」"
   },
   {
     "message": "Do I really have no choice but to fight?"
@@ -179,19 +179,19 @@
     "message": "「Hooold it right there!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...You again」"
   },
   {
-    "name": "Virus",
-    "message": "「Begone. I have no business with anyone other than the Demon King」"
+    "name": "Bylous",
+    "message": "「Begone. I have no business with anyone other than the Demon Lord」"
   },
   {
     "name": "Macaron",
     "message": "「Then neither of us has a problem, right!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「What...?」"
   },
   {
@@ -203,15 +203,15 @@
     "message": "「On that point alone, I won't back down no matter what you say」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「What is the meaning of this... No, wait--this magical power...」"
   },
   {
     "name": "Melilot",
-    "message": "「Haven't you noticed, Virus?」"
+    "message": "「Haven't you noticed, Bylous?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Witch...」"
   },
   {
@@ -223,15 +223,15 @@
     "message": "「Having witnessed the battle just now, you must realize that as well」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Yeah...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I'll admit that much, certainly」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, that alone is no reason to claim the title of Demon Lord」"
   },
   {
@@ -244,11 +244,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Hey, what the hell are you talking about…… Don't tell me you……」"
+    "message": "「Hey, what the hell are you talking about... Don't tell me you...」"
   },
   {
     "name": "Melilot",
-    "message": "「It caught my interest, so I took the liberty of looking into various things……」"
+    "message": "「It caught my interest, so I took the liberty of looking into various things...」"
   },
   {
     "name": "Melilot",
@@ -267,15 +267,15 @@
     "message": "「Isn't that the very thing you seek as a Demon Lord?」"
   },
   {
-    "name": "Virus",
-    "message": "「Hmph……"
+    "name": "Bylous",
+    "message": "「Hmph..."
   },
   {
-    "name": "Virus",
-    "message": "「Indeed, so it was……"
+    "name": "Bylous",
+    "message": "「Indeed, so it was..."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「As you two are now, you are more than worthy opponents!」"
   },
   {
@@ -284,7 +284,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Hmm~…… I don't really get all that complicated stuff, and……"
+    "message": "「Hmm~... I don't really get all that complicated stuff, and..."
   },
   {
     "name": "Macaron",
@@ -299,7 +299,7 @@
     "message": "「That will be my reason to fight!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Good, so you've finally found your resolve!」"
   },
   {
@@ -311,7 +311,7 @@
     "message": "「I'll finish this right now!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Now come at me! You two Demon Lords!!」"
   },
   {

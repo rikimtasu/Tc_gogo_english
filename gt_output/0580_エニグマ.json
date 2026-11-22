@@ -40,7 +40,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Wh-what, that legendary red bean rice! The kind written with 'red' and 'rice' that only comes out on celebratory occasions, and at my house doesn't even come out on celebratory occasions! Incidentally, Jupiter's is the Great Red Spot!」"
+    "message": "「Wh-What, that legendary red bean rice! Written with 'red' and 'rice' for festive days--though at my house it doesn't even appear then! By the way, Jupiter's is the Great Red Spot!」"
   },
   {
     "name": "Nanaka",
@@ -68,7 +68,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Um, well, you know. Sengenin-sensei actually came by my house yesterday」"
+    "message": "「Um, well, you know. Sengen'in-sensei actually came by my house yesterday」"
   },
   {
     "name": "Synn",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Dad didn't seem to like him very much. Sensei Sengenin, I mean」"
+    "message": "「Dad didn't seem to like him very much. Sensei Sengen'in, I mean」"
   },
   {
     "name": "Synn",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -215,7 +215,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Helena",
-    "message": "「It was Ms. Sengenin」"
+    "message": "「It was Ms. Sengen'in」"
   },
   {
     "name": "Synn",
@@ -239,7 +239,7 @@
   },
   {
     "name": "Helena",
-    "message": "「I'm saying that one of the presences you encountered was Ms. Seira Sengenin」"
+    "message": "「I'm saying that one of the presences you encountered was Ms. Kiyora Sengen'in」"
   },
   {
     "name": "Everyone",
@@ -247,7 +247,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Ms. Sengenin's real name is Soltia. She was one of the Seven Demon Generals」"
+    "message": "「Ms. Sengen'in's real name is Soltia. She was one of the Seven Demon Generals」"
   },
   {
     "name": "Misa",
@@ -263,7 +263,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Everyone",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Helena",
@@ -297,7 +297,7 @@
   },
   {
     "name": "Misa",
-    "message": "「We should interrogate Sengenin-sensei! And make him confess their scheme!」"
+    "message": "「We should interrogate Sengen'in-sensei! And make him confess their scheme!」"
   },
   {
     "name": "Lolotte",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Everyone",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Nanaka",
@@ -345,7 +345,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Because this was sitting on Sengenin-sensei's desk this morning.」"
+    "message": "「Because this was sitting on Sengen'in-sensei's desk this morning.」"
   },
   {
     "name": "Everyone",
@@ -425,7 +425,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Helena",
@@ -453,7 +453,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Assuming one of the presences was Sengenin-sensei, what was the other one?」"
+    "message": "「Assuming one of the presences was Sengen'in-sensei, what was the other one?」"
   },
   {
     "name": "Misa",
@@ -465,7 +465,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「It felt even stronger than Sengenin-sensei......」"
+    "message": "「It felt even stronger than Sengen'in-sensei......」"
   },
   {
     "name": "Lolotte",
@@ -481,7 +481,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "I was probably the only one who noticed, but Nanaka was trembling."
@@ -499,14 +499,14 @@
   },
   {
     "name": "Synn",
-    "message": "「Then... is it Virus?」"
+    "message": "「Then... is it Bylous?」"
   },
   {
     "name": "Helena",
     "message": "「Probably」"
   },
   {
-    "message": "Soltia. Virus."
+    "message": "Soltia. Bylous."
   },
   {
     "message": "We can't beat either of them."
@@ -520,14 +520,14 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "If I were to tell Nanaka, who's this terrified, that I'm the Demon Lord..."
   },
   {
     "name": "Misa",
-    "message": "「Why would even Virus appear?」"
+    "message": "「Why would even Bylous appear?」"
   },
   {
     "name": "Helena",

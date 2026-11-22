@@ -139,7 +139,7 @@
     "message": "「I have some wonderful news for everyone. Starting today, you'll be gaining a new friend in this class!」"
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
     "name": "Helena",
@@ -162,7 +162,7 @@
     "message": "「I don't know... but I feel like something terrible will happen if we don't...」"
   },
   {
-    "message": "True enough, this is Ms. Helena we're talking about, who doesn't usually step into the spotlight. Since she's going out of her way to pull off something this outrageous, it wouldn't even be weird to see fresh fish sold in vending machines."
+    "message": "True enough, this is Helena-san, who rarely steps into the spotlight. Since she's pulling off something this outrageous, it wouldn't even be weird to see fresh fish in vending machines."
   },
   {
     "name": "Helena",
@@ -178,7 +178,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "The girl called Azel simply stood there blankly, not looking at anything in particular."
@@ -189,7 +189,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "She lowers her eyes and gives a slight bow, without uttering a single word."
@@ -261,11 +261,11 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Sure enough, she just sat down in the empty seat next to me."
@@ -276,7 +276,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "I get magnificently ignored."
@@ -303,7 +303,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -404,14 +404,14 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
     "message": "「Ouch」"
   },
   {
-    "message": "『Nice try!』"
+    "message": "'Nice try!'"
   },
   {
     "message": "She's laughing. Damn you, Nanaka~~."

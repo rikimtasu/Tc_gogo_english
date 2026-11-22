@@ -156,7 +156,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Transferring data from a digital camera and saving it to a PC is easy, yet he refuses to learn how to do it."
@@ -240,7 +240,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -266,7 +266,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -282,7 +282,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -309,7 +309,7 @@
   },
   {
     "name": "Azel",
-    "message": "「If I photograph something pointless, I might miss a scene I truly ought to capture. Yet, every scene holds a captivating moment, and everything begins to look like something that must be photographed.」"
+    "message": "「If I shoot something pointless, I might miss a scene I truly ought to capture. Yet every scene holds a captivating moment, until everything looks worth photographing.」"
   },
   {
     "name": "Azel",
@@ -328,7 +328,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "name": "Azel",
@@ -336,7 +336,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -458,23 +458,23 @@
     "message": "「Ooooooh! My charm has finally gotten through to her!」"
   },
   {
-    "name": "Ardin",
-    "message": "「It's Ardin. Pasta-chaaan♪」"
+    "name": "Arden",
+    "message": "「It's Arden. Pasta-chaaan♪」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「What is it, what is it? If it's a favor from you, I'll do anything, y'know?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「...W-Whaaat!? You're being bullied!?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「You're being bullied by those Student Council guys!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Got it! I'll beat them up for you!」"
   }
 ]

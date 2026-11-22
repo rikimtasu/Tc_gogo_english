@@ -27,7 +27,7 @@
     "message": "As the Student Council president, I can't skip class or neglect Student Council activities just for one person..."
   },
   {
-    "message": "Helena-san told me to look out for her, so I do think I need to keep an eye on her, but... I can't skip during class, and after school I have Student Council activities so I don't have the time for it..."
+    "message": "Helena-san told me to look out for her, so I know I should keep an eye on her, but... I can't skip class, and after school I have Student Council work, so there's just no time..."
   },
   {
     "message": "As the Student Council president, I can't skip class or neglect Student Council activities just for one person..."
@@ -93,7 +93,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Paqy",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "It's just a hunch, but I feel like that'll be too late..."
@@ -124,7 +124,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Now that he mentions it, maybe she is... Even though she's so friendly, I've never seen her messing around with Azel."
@@ -335,7 +335,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "It certainly stopped being a mannequin, though."
@@ -476,7 +476,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Sure are positive, Lord Demon King」"
+    "message": "「Sure are positive, Lord Demon Lord」"
   },
   {
     "name": "Paqy",
@@ -516,7 +516,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "An empty church. Azel was sitting in the front row."
@@ -535,7 +535,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -543,7 +543,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -551,7 +551,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -567,7 +567,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -575,7 +575,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -583,7 +583,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -595,7 +595,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -614,7 +614,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Footsteps receding in silence."
@@ -642,7 +642,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Maybe so. Even still."
@@ -657,7 +657,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -665,7 +665,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -688,7 +688,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
@@ -699,7 +699,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -707,7 +707,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "When I warned him, he seemed to press his lips shut even tighter."
@@ -718,7 +718,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
@@ -778,7 +778,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
@@ -790,7 +790,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
@@ -802,7 +802,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -900,7 +900,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「No, I'm sure it's not what you're thinking, Demon Lord……」"
+    "message": "「No, I'm sure it's not what you're thinking, Demon Lord...」"
   },
   {
     "name": "Synn",
@@ -916,10 +916,10 @@
   },
   {
     "name": "Synn",
-    "message": "「Heave-ho……」"
+    "message": "「Heave-ho...」"
   },
   {
-    "message": "Now then, for the next book……."
+    "message": "Now then, for the next book...."
   },
   {
     "name": "Azel",
@@ -934,7 +934,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel glanced at my face, then immediately looked away."
@@ -956,7 +956,7 @@
   },
   {
     "name": "Synn",
-    "message": "「You think so…… I don't read all that much myself, but I think it's nice having plenty of them」"
+    "message": "「You think so... I don't read all that much myself, but I think it's nice having plenty of them」"
   },
   {
     "name": "Azel",
@@ -992,7 +992,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Ugh……」"
+    "message": "「Ugh...」"
   },
   {
     "message": "Melilot's lecture must have really gotten to him."
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "While I was returning several books to the shelves, Azel remained silent, however."
@@ -1079,7 +1079,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...Because my \\{brethren|はらから} would never commit such a blasphemous act as fabricating the words of God」"
+    "message": "「...Because my brethren would never commit such a blasphemous act as fabricating the words of God」"
   },
   {
     "name": "Synn",
@@ -1179,7 +1179,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -1191,11 +1191,11 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "message": "Azel was staring intently at the book cart."
@@ -1230,7 +1230,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel peeks over from behind me."
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "I didn't press the matter any further."
@@ -1305,7 +1305,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -1584,7 +1584,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "I take back calling her cool. It was a coincidence. A pure coincidence."
@@ -1603,7 +1603,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Sigh..."

@@ -6,7 +6,7 @@
     "message": "Lively crowds and sacred melodies can be heard echoing from all across the academy."
   },
   {
-    "message": "For now, each event is being overseen by its respective coordinator, while we officers are on standby in the Student Council room in case an emergency arises that they can't handle on their own."
+    "message": "For now, each event is overseen by its coordinator, while we officers stand by in the Student Council room in case an emergency arises that they can't handle alone."
   },
   {
     "name": "Synn",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -86,7 +86,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -162,7 +162,7 @@
   },
   {
     "name": "Helena",
-    "message": "「A Virus has appeared」"
+    "message": "「A Bylous has appeared」"
   },
   {
     "name": "Misa",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Helena",
@@ -237,7 +237,7 @@
     "message": "「Yes, ma'am!!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Haa, haa... Foolishness. I haven't been consumed by Re-Crea.」"
   },
   {
@@ -249,7 +249,7 @@
     "message": "「However, what a display of madness... Do you also desire the rebirth of the world?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「My resolve... was set long ago. Even poisoned by Re-Crea... I will never lose sight of my cherished ambition...!」"
   },
   {
@@ -261,7 +261,7 @@
     "message": "「You haven't brought Re-Crea under control at all! At this rate, it's too dangerous!!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmph... The Demon Lord is still inexperienced. To fight him... haa, haa... it makes for a good handicap.」"
   },
   {
@@ -269,19 +269,19 @@
     "message": "「For what purpose...? What ambition could you possibly wish to achieve by going so far as to defeat the Demon Lord...?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...I refuse to shoulder pointless burdens. Unlike you... or Soltia.」"
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
     "message": "「It isn't a matter of sanity or insanity. From the very beginning, you were driven toward obsession, weren't you?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Haa, haa... I won't deny it... Ghh!」"
   },
   {
@@ -293,16 +293,16 @@
     "message": "「Meliloooot!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...The Demon Lord is an existence drawn to Re-Crea. Hehehe... Just as the legends say.」"
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
-    "message": "「Virus... You did all of this just for that...?」"
+    "message": "「Bylous... You did all of this just for that...?」"
   },
   {
     "name": "Synn",
@@ -314,15 +314,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「Everyone in Crusaders! Please defeat that man... defeat Virus!!」"
+    "message": "「Everyone in Crusaders! Please defeat that man... defeat Bylous!!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Impressive. You catch on quick.」"
   },
   {
     "name": "Synn",
-    "message": "「Y-You're Virus...!?」"
+    "message": "「Y-You're Bylous...!?」"
   },
   {
     "name": "Lolotte",
@@ -337,7 +337,7 @@
     "message": "「T-This is bad... I can feel an ominous pressure coming from this Demon...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Urgh... Uwaaah... Calm down!! My own will... Urgh, guwaaaaah!」"
   },
   {
@@ -361,12 +361,12 @@
     "message": "「It's generating the same force field as the very first Re-Crea... the largest Re-Crea in history!」"
   },
   {
-    "name": "Virus",
-    "message": "「Me, taken over by Re―Crea... Rebirth of the world... Tch, I don't care about―!」"
+    "name": "Bylous",
+    "message": "「Me, taken over by Re-Crea... Rebirth of the world... Tch, I don't care about--!」"
   },
   {
     "name": "Melilot",
-    "message": "「Virus is on the verge of losing his consciousness to Re-Crea. Fortunately, his mind is clashing against it, weakening its influence.」"
+    "message": "「Bylous is on the verge of losing his consciousness to Re-Crea. Fortunately, his mind is clashing against it, weakening its influence.」"
   },
   {
     "name": "Melilot",
@@ -393,20 +393,20 @@
     "message": "「Though the power's so ridiculously massive he can't hold it all in, so it's overflowing.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Rebirth of the world... If it lets me fight the Demon Lord...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Fine by me!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Now, come at me, Demon Lord!!」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -445,20 +445,20 @@
     "message": "「We won't let Re-Crea have its way!!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「......A supremely cool-headed resolve, utterly devoid of anger or fear」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「A quietly burning Demon Lord...... Hehehe, hahahahaha!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「This moment! I have been waiting for this very instant!」"
   },
   {
     "name": "Synn",
-    "message": "「With everyone's power......! We'll blast Re-Crea right out of Virus!」"
+    "message": "「With everyone's power......! We'll blast Re-Crea right out of Bylous!」"
   },
   {
     "message": "Skip the battle?"

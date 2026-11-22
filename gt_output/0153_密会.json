@@ -17,7 +17,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Soltia",
@@ -29,22 +29,22 @@
   },
   {
     "name": "Soltia",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
     "message": "「Being equally lowly, perhaps it's easy for you to blend in」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Why don't you leave it at that」"
   },
   {
     "name": "Soltia & Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Even though we've temporarily joined forces, we're hardly on friendly terms. Before we start rubbing each other the wrong way, the smart move would be to get this over with quickly」"
   },
   {
@@ -53,10 +53,10 @@
   },
   {
     "name": "Soltia",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Seeing you in those forms means placing the magic circles in the urban district is finished, then」"
   },
   {
@@ -68,7 +68,7 @@
     "message": "「I've confirmed it」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「And the rest?」"
   },
   {
@@ -76,7 +76,7 @@
     "message": "「Pasta and I will infiltrate the academy and handle the work there」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「What's the likelihood of interference?」"
   },
   {
@@ -87,7 +87,7 @@
     "message": "「...There is no movement from Heaven」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「They don't have the nerve to start a conflict anyway」"
   },
   {
@@ -104,34 +104,34 @@
   },
   {
     "name": "Soltia",
-    "message": "「Ardin will probably show up before long, won't he?」"
+    "message": "「Arden will probably show up before long, won't he?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「We can handle him either way. If he challenges us, it'll be a bit of fun, and if we can use him, we will」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Out of the three, Melphas is the only one we need to be wary of. Though I did invite him」"
   },
   {
     "name": "Soltia",
-    "message": "「Him, challenging us?　That's impossible」"
+    "message": "「Him, challenging us? That's impossible」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「He is a whimsical one, after all」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
     "message": "「I met him at the academy」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Oh?」"
   },
   {
@@ -143,15 +143,15 @@
     "message": "「Tch...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「To you, perhaps」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, to the ones carrying out the work, he is a threat」"
   },
   {
@@ -159,7 +159,7 @@
     "message": "「My, how awfully kind of you」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Even with a margin factored in, our time is limited」"
   },
   {
@@ -171,24 +171,24 @@
     "message": "「Unconfirmed. Neither in the Human World nor the Demon World」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「They won't make a move anyway. All they ever do is observe and record」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Still, if the opportunity arises, I would like to cross blades with the Witch at least once」"
   },
   {
     "name": "Soltia",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
-    "message": "「What of the Student Council?　You made contact, didn't you?」"
+    "name": "Bylous",
+    "message": "「What of the Student Council? You made contact, didn't you?」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -199,7 +199,7 @@
     "message": "「I did warn Pasta to be careful. That should be enough」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmm... For now, that will do」"
   },
   {
@@ -211,14 +211,14 @@
     "message": "「Merely a legend」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「No. The Demon Lord is real」"
   },
   {
-    "name": "Virus",
-    "message": "「When Re-Crea reaches criticality, the Demon King will inevitably appear.」"
+    "name": "Bylous",
+    "message": "「When Re-Crea reaches criticality, the Demon Lord will inevitably appear.」"
   },
   {
-    "message": "Virus smiled, looking somewhat pleased."
+    "message": "Bylous smiled, looking somewhat pleased."
   }
 ]

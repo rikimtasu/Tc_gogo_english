@@ -184,7 +184,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Where is Yugiri-san?」"
+    "message": "「Where is Yuugiri-san?」"
   },
   {
     "name": "Synn",
@@ -250,7 +250,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Come to think of it. She hasn't been brushing me off lately even when I say I'll walk her home."
@@ -277,11 +277,11 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
-    "message": "「And for Japanese, we'll only study just enough to avoid failing. As long as you can handle the multiple-choice questions and kanji dictation, you should be able to reach that level. Probably」"
+    "message": "「For Japanese, we'll only study just enough to avoid failing. As long as you can handle multiple-choice and kanji dictation, you should reach that level. Probably」"
   },
   {
     "name": "Azel",
@@ -297,7 +297,7 @@
   },
   {
     "name": "Synn",
-    "message": "「For science, memorize every chemical formula in the test scope by rote. For English, memorize the vocabulary in the test scope the same way. Skip all applied problems in every subject except math.」"
+    "message": "「For science, memorize every formula in the test scope by rote. For English, memorize the vocabulary the same way. Skip all applied problems in every subject except math.」"
   },
   {
     "message": "Fortunately, Azel has a good memory."
@@ -312,7 +312,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Before I knew it, Azel was staring intently at my face."
@@ -331,7 +331,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -351,7 +351,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -408,7 +408,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry……」"
+    "message": "「Sorry...」"
   },
   {
     "message": "I see. I didn't think I yawned, so I must have done it unconsciously."
@@ -439,7 +439,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I am certain of it. A student's primary duty is to study, so let's head back right now――」"
+    "message": "「I am certain of it. A student's primary duty is to study, so let's head back right now--」"
   },
   {
     "name": "Misa",
@@ -462,7 +462,7 @@
     "message": "「What are you all doing?」"
   },
   {
-    "message": "Illuminated by the lights lining the path was Ms. Sengenin."
+    "message": "Illuminated by the lights lining the path was Ms. Sengen'in."
   },
   {
     "name": "Synn",
@@ -478,7 +478,7 @@
   },
   {
     "name": "Sengen'in",
-    "message": "「……Enough is enough--stop playing around. I'm busy preparing for exams too, so don't give me any extra trouble.」"
+    "message": "「...Enough is enough--stop playing around. I'm busy preparing for exams too, so don't give me any extra trouble.」"
   },
   {
     "name": "Misa",
@@ -490,7 +490,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「H-How did you kn――mghhh!」"
+    "message": "「H-How did you kn-mghhh!」"
   },
   {
     "name": "Synn",
@@ -518,14 +518,14 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Of course!　I'll easily avoid failing」"
+    "message": "「Of course! I'll easily avoid failing」"
   },
   {
     "name": "Sengen'in",
     "message": "「I look forward to seeing your grades」"
   },
   {
-    "message": "With that, Ms. Sengenin walked away, her steady footsteps echoing."
+    "message": "With that, Ms. Sengen'in walked away, her steady footsteps echoing."
   },
   {
     "name": "Lolotte",
@@ -540,7 +540,7 @@
     "message": "「Well, to someone who doesn't know about the Crusaders, maybe that's just how it looks」"
   },
   {
-    "message": "Even so, what was Ms. Sengenin herself doing out here?"
+    "message": "Even so, what was Ms. Sengen'in herself doing out here?"
   },
   {
     "message": "Could she be on night duty making rounds...?"
@@ -555,7 +555,7 @@
   },
   {
     "name": "Soltia",
-    "message": "「Oh, really?　Haven't you grown quite attached to them?」"
+    "message": "「Oh, really? Haven't you grown quite attached to them?」"
   },
   {
     "name": "Azel",
@@ -590,7 +590,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -626,38 +626,38 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Soltia",
     "message": "「Because you know as well as I do that this world isn't being destroyed--it's merely being recreated」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Is it here?!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Is this Ryuusei Academy?!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Or is it over here?!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「If it's come to this, I'll have to ask my beloved Pasta-chan where it is!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Blocked?! What the heck!」"
   },
   {
     "name": "Melphas",
-    "message": "「What are you doing, Ardin?」"
+    "message": "「What are you doing, Arden?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Huh? Oh, it's just you, pretty boy. Why'd you come over to me?」"
   },
   {
@@ -665,7 +665,7 @@
     "message": "「Self-conscious as ever, I see. I simply happened to notice an acquaintance making a scene」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Who cares about that! Where the hell is Ryuusei Academy?!」"
   },
   {
@@ -673,7 +673,7 @@
     "message": "「It's over that way. Just follow this street--」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Thanks a bunch!」"
   },
   {

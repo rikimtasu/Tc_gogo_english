@@ -196,7 +196,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Hmm. I see……」"
+    "message": "「Hmm. I see...」"
   },
   {
     "name": "Misa",
@@ -224,11 +224,11 @@
   },
   {
     "name": "Macaron",
-    "message": "「……I see」"
+    "message": "「...I see」"
   },
   {
     "name": "Macaron",
-    "message": "「A special day, huh……」"
+    "message": "「A special day, huh...」"
   },
   {
     "name": "Lolotte",
@@ -280,7 +280,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I wonder if it'll be an extra-large portion again today……」"
+    "message": "「I wonder if it'll be an extra-large portion again today...」"
   },
   {
     "name": "Nanaka",
@@ -312,11 +312,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Well, maybe that's why you two actually get along so well……」"
+    "message": "「Well, maybe that's why you two actually get along so well...」"
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Synn",
@@ -332,7 +332,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I see……」"
+    "message": "「I see...」"
   },
   {
     "name": "Nanaka",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Synn",
@@ -380,7 +380,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Well, I mean, it IS good, sure, but……」"
+    "message": "「Well, I mean, it IS good, sure, but...」"
   },
   {
     "name": "Synn",
@@ -436,7 +436,7 @@
   },
   {
     "name": "Melphas",
-    "message": "「Would it be safe to assume you've already tracked down Virus's whereabouts?」"
+    "message": "「Would it be safe to assume you've already tracked down Bylous's whereabouts?」"
   },
   {
     "name": "Macaron",
@@ -520,11 +520,11 @@
   },
   {
     "name": "Pasta",
-    "message": "「That's right, nya. Lord Virus says he'll meet with you, Macaron, nya」"
+    "message": "「That's right, nya. Bylous-nyama says he'll meet with you, Macaron, nya」"
   },
   {
     "name": "Macaron",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Pasta",
@@ -548,11 +548,11 @@
   },
   {
     "name": "Pasta",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Paqy",
@@ -596,7 +596,7 @@
   },
   {
     "name": "Synn",
-    "message": "「What if she got caught up in some incident……」"
+    "message": "「What if she got caught up in some incident...」"
   },
   {
     "name": "Paqy",
@@ -620,7 +620,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Is he terminal or what……」"
+    "message": "「Is he terminal or what...」"
   },
   {
     "name": "Synn",
@@ -652,7 +652,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Um, do you need something……?」"
+    "message": "「Um, do you need something...?」"
   },
   {
     "name": "Melphas",
@@ -660,7 +660,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Are you in some kind of trouble? If there's anything I can do, I'd be glad to help, though……」"
+    "message": "「Are you in some kind of trouble? If there's anything I can do, I'd be glad to help, though...」"
   },
   {
     "name": "Melphas",
@@ -704,7 +704,7 @@
   },
   {
     "name": "Melphas",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Paqy",
@@ -775,7 +775,7 @@
     "message": "「Vi, rus...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Ho... After fighting this much, you can still stand」"
   },
   {
@@ -783,7 +783,7 @@
     "message": "「O-Of course I can! Because I swore I'd definitely win!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Then how about this」"
   },
   {
@@ -799,19 +799,19 @@
     "message": "「A-Alzard... is...」"
   },
   {
-    "name": "Virus",
-    "message": "「…………」"
+    "name": "Bylous",
+    "message": "「......」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Is that all」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「One who calls herself a Demon Lord in the face of Re-Crea...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「For all the expectations you raised, that was terribly anticlimactic」"
   },
   {
@@ -819,7 +819,7 @@
     "message": "「Not yet, not yeet...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmph... How unsightly」"
   },
   {
@@ -831,23 +831,23 @@
     "message": "「I won't... do that...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「All bluster」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Yet you lack the strength to even be called a Demon Lord」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Pasta. I thought you of all people would bring someone with a bit more backbone」"
   },
   {
     "name": "Pasta",
-    "message": "「Lord Virus, nya...」"
+    "message": "「Bylous-nyama, nya...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I'm disappointed in you too」"
   },
   {
@@ -855,11 +855,11 @@
     "message": "「I-I'm sorry, nya...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Enough. Any more of this is a waste of time」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I'll search for a real Demon Lord worth fighting」"
   },
   {
@@ -867,7 +867,7 @@
     "message": "「What... are you planning to run away...?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...You mean to stand up yet again」"
   },
   {
@@ -875,11 +875,11 @@
     "message": "「Something like this... is just a little... warm-up...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「What a pity. That spirit alone is truly a pity...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However!」"
   },
   {
@@ -895,7 +895,7 @@
     "message": "「Zetton!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Ho, quite devoted to its master. Well-trained indeed.」"
   },
   {
@@ -903,7 +903,7 @@
     "message": "「Guh...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「And yet...」"
   },
   {
@@ -911,7 +911,7 @@
     "message": "「Eee!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「How tiresome!」"
   },
   {
@@ -919,7 +919,7 @@
     "message": "「Nagahama...!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Now there is nothing left to act as your shield」"
   },
   {
@@ -935,15 +935,15 @@
     "message": "「Everyone is my comrade...! Not shields or anything...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Just as you wish, I shall ensure you never stand again」"
   },
   {
     "name": "Pasta",
-    "message": "「V-Virus-nyama, please, that's enough...」"
+    "message": "「V-Bylous-nyama, please, that's enough...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Pasta, I have no business with you. Do not interfere in this battle!」"
   },
   {
@@ -951,7 +951,7 @@
     "message": "「N-No way, nyah...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmph...」"
   },
   {
@@ -959,7 +959,7 @@
     "message": "「Guh, ah, ugh...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Does it hurt」"
   },
   {
@@ -967,11 +967,11 @@
     "message": "「Ugh, guhhh...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I will at least acknowledge your spirit for daring to challenge me」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, while your swordsmanship is commendable, it is also a fact that your training was just slightly lacking」"
   },
   {
@@ -979,11 +979,11 @@
     "message": "「Ah, ugh...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Consider this my final mercy」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Before your breath gives out, I'll rip that slender throat open」"
   },
   {
@@ -1024,14 +1024,14 @@
   },
   {
     "name": "Macaron",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Synn",
     "message": "「Stoooop iiiit!!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hm...?!」"
   },
   {
@@ -1039,7 +1039,7 @@
     "message": "「Let go of Macaron!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Tch, getting in my way...!」"
   },
   {
@@ -1084,11 +1084,11 @@
     "message": "I engrave it in my heart: I will never let go."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「To butt into a one-on-one duel... I'll take it that you're prepared for the consequences」"
   },
   {
@@ -1100,23 +1100,23 @@
     "message": "「No matter what, I won't forgive anyone who hurts Macaron!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Heh... 'Won't forgive,' you say. Interesting...」"
   },
   {
-    "name": "Virus",
-    "message": "「My name is Virus. Let me hear yours」"
+    "name": "Bylous",
+    "message": "「My name is Bylous. Let me hear yours」"
   },
   {
     "name": "Synn",
     "message": "「...Synn Sakura」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Synn Sakura...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Show me just how resolved you really are」"
   },
   {
@@ -1175,7 +1175,7 @@
     "message": "「Big brother...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Synn Sakura! Do you really have time to look away!」"
   },
   {
@@ -1196,7 +1196,7 @@
     "message": "Just shielding Macaron took everything I had."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Come on, what's wrong」"
   },
   {
@@ -1216,7 +1216,7 @@
     "message": "As long as I stay conscious, I'll block every last blow!"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Don't go finishing up on me after just this much!」"
   },
   {
@@ -1224,7 +1224,7 @@
     "message": "「Not a chance...!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Doesn't even scratch」"
   },
   {
@@ -1234,7 +1234,7 @@
     "message": "Being stuck purely on the defensive slowly grinds me down."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「What happened to all that bravado from earlier!」"
   },
   {
@@ -1314,7 +1314,7 @@
     "message": "「Nya!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「What...?!」"
   },
   {
@@ -1347,7 +1347,7 @@
     "message": "「No way... Big brother has this much magic power...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「This power, could it be...」"
   },
   {
@@ -1385,42 +1385,42 @@
   },
   {
     "name": "Macaron",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Pasta",
     "message": "「Incredible magic power, nya... It's on a whole different level than before, nya...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...Demon Lord」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...Heh heh heh heh」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Haa-ha-ha-ha-ha!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Demon Lord! Oh, Demon Lord! At last, I have met you face-to-face!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「How long I have waited for this moment...」"
   },
   {
     "name": "Synn",
-    "message": "「Virus...」"
+    "message": "「Bylous...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Good, so good--I have finally encountered the legendary Demon Lord...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, not yet. It is still not enough...」"
   },
   {
@@ -1428,15 +1428,15 @@
     "message": "「Huh...?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I hear that only when Re-Crea's energy reaches its absolute peak does the Demon Lord unleash his ultimate power」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「What I truly desire to clash against is nothing less than that very power」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「For that is my one and only supreme ambition」"
   },
   {
@@ -1444,11 +1444,11 @@
     "message": "「Ultimate, power...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Re-Crea... We shall settle things there」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Demon Lord Synn Sakura. I will put this battle on hold until that time!」"
   },
   {
@@ -1457,11 +1457,11 @@
   },
   {
     "name": "Pasta",
-    "message": "「Lord Virus, nya! Wait for me, nyaa!」"
+    "message": "「Bylous-nyama, nya! Wait for me, nyaa!」"
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Synn",
@@ -1510,7 +1510,7 @@
     "message": "「Yeah...」"
   },
   {
-    "message": "Power enough to go toe-to-toe with that guy, Virus."
+    "message": "Power enough to go toe-to-toe with that guy, Bylous."
   },
   {
     "message": "Should I really be the one holding something like that."
@@ -1723,19 +1723,19 @@
   },
   {
     "name": "Macaron",
-    "message": "「Still, you know……」"
+    "message": "「Still, you know...」"
   },
   {
     "name": "Macaron",
-    "message": "「You never once opened up to me about anything, Big Brother……」"
+    "message": "「You never once opened up to me about anything, Big Brother...」"
   },
   {
     "name": "Macaron",
-    "message": "「That just means…… you didn't trust me, doesn't it?」"
+    "message": "「That just means... you didn't trust me, doesn't it?」"
   },
   {
     "name": "Synn",
-    "message": "「That's not what I meant……!」"
+    "message": "「That's not what I meant...!」"
   },
   {
     "name": "Macaron",
@@ -1743,11 +1743,11 @@
   },
   {
     "name": "Macaron",
-    "message": "「That's all I ever meant to you……」"
+    "message": "「That's all I ever meant to you...」"
   },
   {
     "name": "Macaron",
-    "message": "「Turns out that's the only kind of relationship we ever had……」"
+    "message": "「Turns out that's the only kind of relationship we ever had...」"
   },
   {
     "name": "Macaron",
@@ -1767,11 +1767,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Macaron……!」"
+    "message": "「Macaron...!」"
   },
   {
     "name": "Synn",
-    "message": "「Ugh, ah……」"
+    "message": "「Ugh, ah...」"
   },
   {
     "name": "Paqy",
@@ -1783,7 +1783,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Y-Yeah…… just a little lightheaded……」"
+    "message": "「Y-Yeah... just a little lightheaded...」"
   },
   {
     "name": "Paqy",
@@ -1795,7 +1795,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I can't…… I have to go after Macaron……」"
+    "message": "「I can't... I have to go after Macaron...」"
   },
   {
     "name": "Paqy",
@@ -1807,11 +1807,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Demon Lord……」"
+    "message": "「Demon Lord...」"
   },
   {
     "name": "Synn",
-    "message": "「I have to apologize to Macaron……」"
+    "message": "「I have to apologize to Macaron...」"
   },
   {
     "name": "Synn",
@@ -1839,7 +1839,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Paqy",
@@ -1906,7 +1906,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Like, Mako-chi was super mad, you know」"
+    "message": "「Like, Mako-chii was super mad, you know」"
   },
   {
     "name": "Synn",
@@ -1954,7 +1954,7 @@
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "name": "Synn",

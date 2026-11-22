@@ -60,7 +60,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……!!」"
+    "message": "「...!!」"
   },
   {
     "name": "Ria",
@@ -134,11 +134,11 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Ria",
-    "message": "「Ms. Sengenin...!」"
+    "message": "「Ms. Sengen'in...!」"
   },
   {
     "name": "Synn",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Never mind that! That's Ms. Sengenin, the student teacher, right?」"
+    "message": "「Never mind that! That's Ms. Sengen'in, the student teacher, right?」"
   },
   {
     "name": "Synn",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……!」"
+    "message": "「...!」"
   },
   {
     "name": "Sengen'in",
@@ -232,7 +232,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Professor Sengenin. What in the world is the meaning of this?」"
+    "message": "「Professor Sengen'in. What in the world is the meaning of this?」"
   },
   {
     "name": "Sengen'in",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Ria",
-    "message": "「……!」"
+    "message": "「...!」"
   },
   {
     "name": "Sengen'in",
@@ -312,14 +312,14 @@
     "message": "Overwhelming...! My opening move was crushed before I could even look for a way to fight back."
   },
   {
-    "message": "Ria―senpai is―"
+    "message": "Ria-senpai is--"
   },
   {
     "name": "Ria",
     "message": "「Nghhh!」"
   },
   {
-    "message": "Even when attacking from behind, Sengenin had already laid traps all around to seal off her movements."
+    "message": "Even when attacking from behind, Sengen'in had already laid traps all around to seal off her movements."
   },
   {
     "message": "The trajectory of Ria's staff traces out a magic circle of flame, yet even as the lights collide, it isn't enough to cancel out her opponent's magic."
@@ -329,7 +329,7 @@
   },
   {
     "name": "Sengen'in",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Saying nothing, she fixes her gaze squarely on us."
@@ -364,7 +364,7 @@
   },
   {
     "name": "Synn",
-    "message": "「If you do that, Ria―senpai, you'll―」"
+    "message": "「If you do that, Ria-senpai, you'll--」"
   },
   {
     "name": "Ria",
@@ -434,7 +434,7 @@
     "message": "Still, Senior Ria might find out that I'm the Demon Lord."
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
     "message": "What does that even matter!"
@@ -449,11 +449,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I'll protect Senior Ria. With the power of the Demon Lord――!」"
+    "message": "「I'll protect Senior Ria. With the power of the Demon Lord--!」"
   },
   {
     "name": "Ria",
-    "message": "「……!」"
+    "message": "「...!」"
   },
   {
     "name": "Sengen'in",
@@ -473,7 +473,7 @@
     "message": "Someone stood in the Demon Lord's path."
   },
   {
-    "message": "Unarmed, he halted my momentum with nothing more than his own tough――stronger-than-steel fist."
+    "message": "Unarmed, he halted my momentum with nothing more than his own tough-stronger-than-steel fist."
   },
   {
     "message": "The friction and shockwave from the collision are immense, carving a circular crater into the ground with us at the center."
@@ -517,12 +517,12 @@
     "message": "「Who are you!!」"
   },
   {
-    "name": "Virus",
-    "message": "「My name is Virus」"
+    "name": "Bylous",
+    "message": "「My name is Bylous」"
   },
   {
     "name": "Synn",
-    "message": "「……!」"
+    "message": "「...!」"
   },
   {
     "message": "One of the Seven Demon Generals Pasta spoke of, and a Demon hailed as the strongest."
@@ -537,7 +537,7 @@
     "message": "The end of everything was drawing near."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Let's go, Soltia」"
   },
   {
@@ -545,7 +545,7 @@
     "message": "「What are you saying!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Our objective is complete. We have no further business here」"
   },
   {
@@ -553,10 +553,10 @@
     "message": "「The Demon Lord just appeared, and you're being so carefree...!」"
   },
   {
-    "message": "Ms. Sengenin--Soltia shakes off Virus and raises her staff against me."
+    "message": "Ms. Sengen'in--Soltia shakes off Bylous and raises her staff against me."
   },
   {
-    "message": "Virus didn't even glance over, remaining completely motionless."
+    "message": "Bylous didn't even glance over, remaining completely motionless."
   },
   {
     "message": "And yet--"
@@ -569,11 +569,11 @@
     "message": "The earth trembled, and Soltia's legs wavered."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Do not lay a hand on the Demon Lord.」"
   },
   {
-    "message": "Virus had interfered with Soltia."
+    "message": "Bylous had interfered with Soltia."
   },
   {
     "message": "Why are they turning on each other...? Why tell her not to lay a hand on me...?"
@@ -598,10 +598,10 @@
   },
   {
     "name": "Soltia",
-    "message": "「Virus. Why did you stop me?」"
+    "message": "「Bylous. Why did you stop me?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmph...」"
   },
   {
@@ -609,7 +609,7 @@
     "message": "「Answer me!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Let's go.」"
   },
   {

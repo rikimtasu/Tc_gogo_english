@@ -275,20 +275,61 @@ def build_payload(base_va: int = PAYLOAD_VA) -> MipsAsm:
         sltiu t0, a1, 0x21
         bnez t0, scan_done
         nop
+        li t0, 0x81
+        beq a1, t0, scan_sjis_punct
+        nop
         sltiu t0, a1, 0x7f
         beqz t0, scan_done
         nop
         li t0, 0x5c
-        beq a1, t0, scan_done
+        beq a1, t0, scan_escape
         nop
+        b scan_measure
         sw a1, 16(sp)
+    scan_sjis_punct:
+        lbu t0, 1(s2)
+        beqz t0, scan_done
+        nop
+        addiu s2, s2, 1
+        li a1, 0x8100
+        b scan_measure
+        sw zero, 16(sp)
+    scan_escape:
+        lbu t0, 1(s2)
+        ori t0, t0, 0x20
+        li t1, 0x73
+        bne t0, t1, scan_done
+        nop
+        lbu t0, 2(s2)
+        beqz t0, scan_done
+        nop
+        lbu t0, 3(s2)
+        beqz t0, scan_done
+        nop
+        addiu s2, s2, 3
+        li a1, 0xff00
+        sw zero, 16(sp)
+    scan_measure:
         jal advance
         move a0, s0
         addu s1, s1, v0
         lw t0, 16(sp)
         li t1, 0x2d
-        beq t0, t1, scan_done
+        bne t0, t1, scan_next
         nop
+        lbu t0, 1(s2)
+        beqz t0, scan_done
+        nop
+        li t1, 0x2d
+        beq t0, t1, scan_next
+        nop
+        li t1, 0x81
+        beq t0, t1, scan_next
+        nop
+        li t1, 0x5c
+        bne t0, t1, scan_done
+        nop
+    scan_next:
         lw t0, 20(sp)
         addiu t0, t0, -1
         sw t0, 20(sp)
@@ -528,9 +569,31 @@ def build_payload(base_va: int = PAYLOAD_VA) -> MipsAsm:
         sltiu t4, a1, 0x21
         bnez t4, bw_scan_done
         nop
+        addiu t4, t2, 1
+        slt t4, t4, t3
+        beqz t4, bw_scan_ascii_only
+        nop
+        lbu t4, 1(s0)
+        li a0, 0xff
+        beq t4, a0, bw_scan_pair
+        nop
+        li a0, 0x81
+        beq a1, a0, bw_scan_pair
+        nop
+    bw_scan_ascii_only:
         sltiu t4, a1, 0x7f
         beqz t4, bw_scan_done
         nop
+        b bw_scan_measure
+        nop
+    bw_scan_pair:
+        beqz t4, bw_scan_done
+        nop
+        addiu s0, s0, 1
+        addiu t2, t2, 1
+        sw t2, 4(sp)
+        li a1, 0x8100
+    bw_scan_measure:
         lw a0, 8(sp)
         lwc1 f0, 0x28(s5)
         jal advance_by_font
@@ -540,8 +603,16 @@ def build_payload(base_va: int = PAYLOAD_VA) -> MipsAsm:
         sw t0, 0(sp)
         lbu t0, 0(s0)
         li t4, 0x2d
-        beq t0, t4, bw_scan_done
+        bne t0, t4, bw_scan_next
         nop
+        lbu t0, 1(s0)
+        li t4, 0x2d
+        beq t0, t4, bw_scan_next
+        nop
+        li t4, 0x81
+        bne t0, t4, bw_scan_done
+        nop
+    bw_scan_next:
         lw t2, 4(sp)
         addiu t2, t2, 1
         sw t2, 4(sp)
@@ -610,6 +681,20 @@ def build_payload(base_va: int = PAYLOAD_VA) -> MipsAsm:
     cbc_ok:
         jr ra
         sw v0, 0xc(s2)
+
+    # Unpooled date/time literals for compiler-shared .rodata entries
+    # ('日' Sun vs Day, '月' Mon vs Month, '朝' Morning inside '早朝', '深夜' Late Night vs '夜' Night).
+    str_sun:
+        .word 0x006e7553
+    str_mon:
+        .word 0x006e6f4d
+    str_morning:
+        .word 0x6e726f4d
+        .word 0x00676e69
+    str_late_night:
+        .word 0x6574614c
+        .word 0x67694e20
+        .word 0x00007468
     """)
     return asm
 
@@ -716,6 +801,21 @@ def patch_bytes(source: bytes, strings_path: Path | None = None) -> tuple[bytes,
         # sceUtilityMsgDialog wrapper (0x089454ec), which otherwise injects '™'
         # into the middle of translated English words (e.g. "blin™k", "dur™ing").
         replace(0x0894552C, "move s6, t1", "move s6, zero")
+        # Unpool compiler-deduplicated date/time literals in 0x0882c5f0..0x0882d0ac:
+        # Sunday ('日' +0x08), Monday ('月' +0x04), Morning ('朝' +0x58 inside '早朝'),
+        # and Night ('夜' +0x68 inside '深夜') vs Late Night ('深夜' +0x66).
+        hi_va = PAYLOAD_VA >> 16
+        for load_va, add_va, old_off, label in (
+            (0x0882C5F0, 0x0882C600, 0x08, "str_sun"),
+            (0x0882C6F4, 0x0882C704, 0x08, "str_sun"),
+            (0x0882C60C, 0x0882C61C, 0x04, "str_mon"),
+            (0x0882C710, 0x0882C720, 0x04, "str_mon"),
+            (0x0882D02C, 0x0882D03C, 0x58, "str_morning"),
+            (0x0882D09C, 0x0882D0AC, 0x66, "str_late_night"),
+        ):
+            replace(load_va, "lui v0, 0x0896\nlw v0, 0x1400(v0)", f"lui v0, {hi_va:#x}\nnop")
+            replace(add_va, f"addiu a1, v0, {old_off:#x}", f"addiu a1, v0, {asm.labels[label] & 0xFFFF:#x}")
+        replace(0x0882D090, "addiu a1, v0, 0x68", "addiu a1, v0, 0x66")
     return bytes(result), {"payload_va": PAYLOAD_VA, "payload_bytes": len(payload),
                            "slot_factor": SLOT_FACTOR, "patched_strings": patched_strings, **asm.labels}
 

@@ -99,7 +99,7 @@
   },
   {
     "name": "Ria",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -178,7 +178,7 @@
   },
   {
     "name": "Girl",
-    "message": "「～～♪　～～♪」"
+    "message": "「~~♪ ~~♪」"
   },
   {
     "name": "Synn",
@@ -314,7 +314,7 @@
     "message": "Like I said, that's no good!"
   },
   {
-    "message": "　That's not where the fun of being Student Council President lies!"
+    "message": "That's not where the fun of being Student Council President lies!"
   },
   {
     "message": "Ah, thinking about weird stuff like this must mean I'm tired."
@@ -334,7 +334,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Angel wings. Fighting demons. Flying girls."
@@ -432,7 +432,7 @@
   },
   {
     "name": "Plushie",
-    "message": "「See? Just like I said. As expected of the Demon King!」"
+    "message": "「See? Just like I said. As expected of the Demon Lord!」"
   },
   {
     "name": "Synn",
@@ -440,7 +440,7 @@
   },
   {
     "name": "Plushie",
-    "message": "「As expected of the Demon King! Looks like you've already seen right through me and realized I'm a venerable familiar.」"
+    "message": "「As expected of the Demon Lord! Looks like you've already seen right through me and realized I'm a venerable familiar.」"
   },
   {
     "name": "Synn",
@@ -448,7 +448,7 @@
   },
   {
     "name": "Plushie",
-    "message": "「I am the supreme familiar who has served the Demon King for generations--」"
+    "message": "「I am the supreme familiar who has served the Demon Lord for generations--」"
   },
   {
     "name": "Paqy",
@@ -456,7 +456,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I get it!　"
+    "message": "「I get it!"
   },
   {
     "name": "Synn",
@@ -476,15 +476,15 @@
   },
   {
     "name": "Paqy",
-    "message": "「Whoa, whoa. Calm down, Demon King.」"
+    "message": "「Whoa, whoa. Calm down, Demon Lord.」"
   },
   {
     "name": "Synn",
-    "message": "「I became the Student Council President starting today, and on top of that, I'm a Demon King...? Me, the King of Demons?」"
+    "message": "「I became the Student Council President starting today, and on top of that, I'm a Demon Lord...? Me, the King of Demons?」"
   },
   {
     "name": "Synn",
-    "message": "「Bwahaha! I am the Demon King!」"
+    "message": "「Bwahaha! I am the Demon Lord!」"
   },
   {
     "name": "Misa",
@@ -508,14 +508,14 @@
   },
   {
     "name": "Paqy",
-    "message": "「Heheh... To plunge into such evil delusions just at the mention of being a Demon King--as expected of the Demon King! You've truly inherited the Demon King's blood.」"
+    "message": "「Heheh... To plunge into such evil delusions just at the mention of being a Demon Lord--as expected of the Demon Lord! You've truly inherited the Demon Lord's blood.」"
   },
   {
     "name": "Synn",
-    "message": "「What?! Are you saying my dad is the Demon King?!」"
+    "message": "「What?! Are you saying my dad is the Demon Lord?!」"
   },
   {
-    "name": "PA / Announcement",
+    "name": "Announcement",
     "message": "「The number you have dialed is currently unavailable due to the subscriber's circumstances.」"
   },
   {
@@ -547,10 +547,10 @@
     "message": "「Squeak, squeak!」"
   },
   {
-    "message": "Kyuu-chan, the carrier bat, flies in through the window. Shin takes off its leg band and reads the letter."
+    "message": "Kyuu-chan, the carrier bat, flies in through the window. Synn takes off its leg band and reads the letter."
   },
   {
-    "message": "『Starting today, you are the Demon Lord. I sent you a familiar, so I'll leave the rest to you. From Dad.』"
+    "message": "'Starting today, you are the Demon Lord. I sent you a familiar, so I'll leave the rest to you. From Dad.'"
   },
   {
     "name": "Synn",

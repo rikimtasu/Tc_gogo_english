@@ -32,7 +32,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Melilot was standing quietly by the bench in front of the library. I'm in luck. Outside the building, we can talk normally."
@@ -104,7 +104,7 @@
     "message": "Just as I promised Melilot that day, I've taken great care of my library card."
   },
   {
-    "message": "It has yellowed by now and its corners are frayed, yet on the checkout column on the back, the titles of the books I've borrowed over the roughly year and a half since entering Ryuusei Academy remain clearly recorded."
+    "message": "It's yellowed now with frayed corners, yet the checkout column on the back still clearly lists every book I've borrowed in the year and a half since entering Ryuusei Academy."
   },
   {
     "name": "Synn",
@@ -112,7 +112,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「What books one has read is also proof of how one has lived――is what I said.」"
+    "message": "「What books one has read is also proof of how one has lived-is what I said.」"
   },
   {
     "message": "That's right. Up until now, I haven't spoken with Melilot-san all that much."
@@ -139,11 +139,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「It is Cristeles-san.」"
+    "message": "「It is Cristelis-san.」"
   },
   {
     "name": "Synn",
-    "message": "「So it was Misa. I wonder what kind of books she reads? Let's see here――」"
+    "message": "「So it was Misa. I wonder what kind of books she reads? Let's see here--」"
   },
   {
     "name": "Misa",
@@ -178,7 +178,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I have indeed handed it over to you, Cristeles-san.」"
+    "message": "「I have indeed handed it over to you, Cristelis-san.」"
   },
   {
     "name": "Misa",
@@ -210,7 +210,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「You didn't know either when you made your second one, did you, Christeles?」"
+    "message": "「You didn't know either when you made your second one, did you, Cristelis?」"
   },
   {
     "name": "Misa",

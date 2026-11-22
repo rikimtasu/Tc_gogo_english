@@ -157,7 +157,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「You beat Sengenin-sensei to a pulp right in front of Azel-san? That would be what they call school violence.」"
+    "message": "「You beat Sengen'in-sensei to a pulp right in front of Azel-san? That would be what they call school violence.」"
   },
   {
     "name": "Ria",
@@ -348,7 +348,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Wasn't she just panicking at the park? She even saw you defeat Sengen-in-sensei live, after all. Maybe she got scared once she went back to the apartment and calmed down a bit, or something」"
+    "message": "「Wasn't she just panicking at the park? She saw you defeat Sengen'in-sensei live, after all. Maybe she got scared once she got back to the apartment and calmed down」"
   },
   {
     "name": "Synn",
@@ -409,7 +409,7 @@
     "message": "She doesn't have a home to return to in this world."
   },
   {
-    "message": "Did she go back to Heaven……"
+    "message": "Did she go back to Heaven..."
   },
   {
     "name": "Lolotte",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -441,7 +441,7 @@
   },
   {
     "name": "Ria",
-    "message": "「I'll have Ayanishiki-chan help out. My big sister, too.」"
+    "message": "「I'll have Akane-chan help out. My big sister, too.」"
   },
   {
     "name": "Lolotte",
@@ -457,7 +457,7 @@
   },
   {
     "name": "Everyone",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Lolotte",
@@ -473,7 +473,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -484,14 +484,14 @@
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "As closing time arrives, Melilot locks the door."
   },
   {
     "name": "Azel",
-    "message": "「Um……」"
+    "message": "「Um...」"
   },
   {
     "name": "Melilot",
@@ -518,7 +518,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "name": "Melilot",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
@@ -593,7 +593,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",

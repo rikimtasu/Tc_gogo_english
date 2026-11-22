@@ -3,7 +3,7 @@
     "message": "境"
   },
   {
-    "message": "Patrols are ramped up with the Holy Night Festival right around the corner. I've come to the Culture Hall. Precisely because it's a place I rarely visit, I have to check thoroughly to make sure no Demons are lurking around!"
+    "message": "Patrols are ramped up with the Holy Night Festival approaching, so I've come to the Culture Hall. Since I rarely visit here, I should check thoroughly for any lurking demons!"
   },
   {
     "name": "Misasagi",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -75,7 +75,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Misasagi―senpai, um―」"
+    "message": "「Misasagi-senpai, um--」"
   },
   {
     "name": "Misasagi",
@@ -143,7 +143,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「There are some members in the Wagashi Club who feel uneasy about demons, too... though it's really just like how people viewed foreigners back when the country first opened its borders.」"
+    "message": "「Some Wagashi Club members feel uneasy around demons too... though it's really no different from how folks viewed foreigners back when the country first opened up.」"
   },
   {
     "name": "Synn",
@@ -181,7 +181,7 @@
     "message": "「T-That's a great idea--super great!」"
   },
   {
-    "message": "In Misasagi-senpai's heart, the culture hall, Sally-chan... the demons, and the Holy Night Festival all stand cleanly on equal footing. I feel ashamed of myself for doubting that, even for a split second."
+    "message": "In Misasagi-senpai's heart, the Culture Hall, Sally-chan, the demons, and the Holy Night Festival all stand on equal footing. I feel ashamed for doubting that even for a second."
   },
   {
     "name": "Misasagi",

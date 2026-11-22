@@ -23,7 +23,7 @@
     "message": "「Aaahn, just kidding, just kidding. I'm sorryyy\\s06」"
   },
   {
-    "name": "Boss / Oyabin",
+    "name": "Oyabin",
     "message": "「Me, tasty food, want to eat」"
   },
   {
@@ -386,7 +386,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Ria",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Oka~y♪　Then I'll take the first bath~♪」"
+    "message": "「Oka~y♪ Then I'll take the first bath~♪」"
   },
   {
     "name": "Nanaka",
@@ -418,7 +418,7 @@
   },
   {
     "name": "Synn",
-    "message": "「S-Something like this……?」"
+    "message": "「S-Something like this...?」"
   },
   {
     "name": "Misa",
@@ -430,11 +430,11 @@
   },
   {
     "name": "Ria",
-    "message": "「Well…… at least, if we had that…… right\\s02」"
+    "message": "「Well... at least, if we had that... right\\s02」"
   },
   {
     "name": "Paqy",
-    "message": "「A partition, a partition!　Hey, let's get one ready fast!」"
+    "message": "「A partition, a partition! Hey, let's get one ready fast!」"
   },
   {
     "name": "Nanaka",
@@ -449,11 +449,11 @@
   },
   {
     "name": "Synn",
-    "message": "「W-Well then. Maybe I should go bring the futons over soon……」"
+    "message": "「W-Well then. Maybe I should go bring the futons over soon...」"
   },
   {
     "name": "Lolotte",
-    "message": "「Getting ready for bed already!?　What a waste~」"
+    "message": "「Getting ready for bed already!? What a waste~」"
   },
   {
     "name": "Nanaka",
@@ -465,7 +465,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Ehh!?　Then me too!」"
+    "message": "「Ehh!? Then me too!」"
   },
   {
     "name": "Lolotte",
@@ -809,14 +809,14 @@
     "message": "「Yeah, nighty-night~」"
   },
   {
-    "message": "Yeah, there's no way I can actually sleep right in the middle of them……."
+    "message": "Yeah, there's no way I can actually sleep right in the middle of them...."
   },
   {
     "message": "Thinking that, I tried to lift myself up, when--"
   },
   {
     "name": "Nanaka",
-    "message": "「Nooo…… don't gooo……」"
+    "message": "「Nooo... don't gooo...」"
   },
   {
     "name": "Synn",
@@ -824,11 +824,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Packyyy……」"
+    "message": "「Paqyyy...」"
   },
   {
     "name": "Synn",
-    "message": "「Misa, n-n-n-not there……!」"
+    "message": "「Misa, n-n-n-not there...!」"
   },
   {
     "name": "Lolotte",
@@ -840,21 +840,21 @@
   },
   {
     "name": "Ria",
-    "message": "「Demon Lord……\\s04」"
+    "message": "「Demon Lord...\\s04」"
   },
   {
     "name": "Synn",
-    "message": "「Huh……」"
+    "message": "「Huh...」"
   },
   {
     "message": "While I was flinching like that, they ended up pinning my arms behind me."
   },
   {
     "name": "Synn",
-    "message": "「It's super heavy and I can't move, though it's kinda soft and warm……\\s03」"
+    "message": "「It's super heavy and I can't move, though it's kinda soft and warm...\\s03」"
   },
   {
-    "message": "――Wait, no, bad Student Council President! One guy surrounded by a bunch of girls is totally no good!"
+    "message": "--Wait, no, bad Student Council President! One guy surrounded by a bunch of girls is totally no good!"
   },
   {
     "name": "Paqy",
@@ -869,21 +869,21 @@
   },
   {
     "name": "Synn",
-    "message": "「Haa, haa……」"
+    "message": "「Haa, haa...」"
   },
   {
-    "message": "At this rate, I'm gonna get too worked up to sleep……."
+    "message": "At this rate, I'm gonna get too worked up to sleep...."
   },
   {
     "name": "Misa",
-    "message": "「Nnh…… mmmh」"
+    "message": "「Nnh... mmmh」"
   },
   {
     "message": "A soft lump of flesh presses right up against my thigh."
   },
   {
     "name": "Nanaka",
-    "message": "「Stop iiit, I said that tickles……」"
+    "message": "「Stop iiit, I said that tickles...」"
   },
   {
     "message": "A-A soft sensation against my palm."
@@ -935,6 +935,6 @@
     "message": "「Haguh!!」"
   },
   {
-    "message": "W-Why a washtub……?"
+    "message": "W-Why a washtub...?"
   }
 ]

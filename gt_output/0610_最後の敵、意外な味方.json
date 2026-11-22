@@ -124,7 +124,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「If I'm right, that's the magic used when the angels and demons fought in the Human World--afterward, because it was way too powerful, every record of it was destroyed across both Heaven and the Demon World.」"
+    "message": "「If I'm right, that spell was used when angels and demons fought in the Human World--and afterward, since it was way too powerful, all records of it were wiped in both realms.」"
   },
   {
     "name": "Synn",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Her fingers, her hand, her arm lost all strength, falling limply to the ground."
@@ -250,7 +250,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel didn't answer. She wouldn't answer me."
@@ -615,20 +615,20 @@
   },
   {
     "name": "Synn",
-    "message": "「Virus!?」"
+    "message": "「Bylous!?」"
   },
   {
-    "message": "Why would Virus save me!?"
+    "message": "Why would Bylous save me!?"
   },
   {
-    "message": "Wasn't Virus the mastermind behind everything!?"
+    "message": "Wasn't Bylous the mastermind behind everything!?"
   },
   {
     "name": "Azel",
     "message": "「Do not interfere.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It shouldn't be time yet.」"
   },
   {
@@ -636,10 +636,10 @@
     "message": "「I made no pact with you.」"
   },
   {
-    "message": "A pact? Virus and Azel know each other?"
+    "message": "A pact? Bylous and Azel know each other?"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「In the end, can angels and demons never coexist unless under the Demon Lord?」"
   },
   {
@@ -658,7 +658,7 @@
     "message": "「That's why I'm telling you, it's Re-Crea! Admit it, Lord Synn!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Not quite, strictly speaking. This angel is an Executor.」"
   },
   {
@@ -670,11 +670,11 @@
     "message": "「My will is the will of my Lord.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Executor or fanatic, I couldn't care less which.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「The Demon Lord is my prey. Trigger Re-Crea all you want. Just don't get in my way.」"
   },
   {
@@ -682,7 +682,7 @@
     "message": "「Absurd.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Yeah, it's absurd. Still, that's the only thing I want.」"
   },
   {
@@ -690,7 +690,7 @@
     "message": "「Only death awaits those who hinder the fulfillment of my Lord's will.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Words alone won't kill me.」"
   },
   {
@@ -698,7 +698,7 @@
     "message": "「Perish.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「If you can kill me, that is」"
   },
   {
@@ -708,7 +708,7 @@
     "message": "Yet, I was still alive."
   },
   {
-    "message": "At the center of the night shimmering with residual power, Virus, who should have taken a direct hit, stood proudly."
+    "message": "At the center of the night shimmering with residual power, Bylous, who should have taken a direct hit, stood proudly."
   },
   {
     "name": "Azel",
@@ -716,7 +716,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Amazing……」"
+    "message": "「Amazing...」"
   },
   {
     "name": "Paqy",
@@ -724,7 +724,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Huh……? How!?」"
+    "message": "「Huh...? How!?」"
   },
   {
     "name": "Paqy",
@@ -732,10 +732,10 @@
   },
   {
     "name": "Azel",
-    "message": "「……A fluke. Nothing more than a fluke」"
+    "message": "「...A fluke. Nothing more than a fluke」"
   },
   {
-    "message": "Virus merely laughed."
+    "message": "Bylous merely laughed."
   },
   {
     "message": "Once again, the world lit up as bright as midday."
@@ -745,11 +745,11 @@
     "message": "「Why can you block my infinite power!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Overwhelming power. Magnificent. It makes my blood boil」"
   },
   {
-    "message": "Virus's back was trembling. Was he shivering with excitement?"
+    "message": "Bylous's back was trembling. Was he shivering with excitement?"
   },
   {
     "name": "Paqy",
@@ -764,12 +764,12 @@
     "message": "「You did it unconsciously just a second ago too, Master Synn. But that guy's doing it on purpose. He's the strongest warrior in the Three Realms」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Come. You can kill me, can't you?」"
   },
   {
     "name": "Azel",
-    "message": "「……Disappear」"
+    "message": "「...Disappear」"
   },
   {
     "message": "Countless deaths rose into view against the backdrop of a meteor shower."
@@ -791,10 +791,10 @@
     "message": "「Why do you not vanish!? Why are you still standing!?」"
   },
   {
-    "message": "Even after taking a barrage of raging strikes, Virus still hadn't fallen, standing proudly before Melilot and me."
+    "message": "Even after taking a barrage of raging strikes, Bylous still hadn't fallen, standing proudly before Melilot and me."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It seems you are not infallible, O Proxy」"
   },
   {
@@ -815,19 +815,19 @@
     "message": "The ground beneath his feet is gouged out along the path of his retreat."
   },
   {
-    "message": "Even Virus, the strongest warrior in the Three Realms, can barely manage to deflect the blows."
+    "message": "Even Bylous, the strongest warrior in the Three Realms, can barely manage to deflect the blows."
   },
   {
     "message": "Looking closely, blood is seeping even from those fists that once seemed invincible."
   },
   {
-    "message": "If Virus falls, we're done for too."
+    "message": "If Bylous falls, we're done for too."
   },
   {
     "message": "Isn't there anything I can do? Anything!?"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Let your guard down and took damage to your vessel, did you? You'd do well to keep your little game of playing god in moderation.」"
   },
   {
@@ -855,20 +855,20 @@
   },
   {
     "name": "Synn",
-    "message": "「...Virus. Is there anything... I can do...」"
+    "message": "「...Bylous. Is there anything... I can do...」"
   },
   {
     "message": "An answer comes back without him even glancing my way."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「He's going to fire that off in rapid succession again. The first shot. The instant the magic cloaking my fists deflects his light, the sheer force scattering outward will distort the space.」"
   },
   {
     "message": "The words coming back sound almost as if he had anticipated what I was going to ask."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「For that single instant, he won't be able to sense us. We'll switch places.」"
   },
   {
@@ -879,7 +879,7 @@
     "message": "Azel isn't on guard against me."
   },
   {
-    "message": "And he thinks Virus has his hands too full defending to launch an attack."
+    "message": "And he thinks Bylous has his hands too full defending to launch an attack."
   },
   {
     "message": "Which means there's probably an opening in Azel's defense."
@@ -888,7 +888,7 @@
     "message": "If I attack Azel from where I am right now, maybe, just maybe."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Deflect the second shot. I'll attack him.」"
   },
   {
@@ -896,7 +896,7 @@
     "message": "「Don't talk crazy! How's Lord Synn supposed to block that guy's attack in his condition?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「His attacks are predictable. They're focused strictly along a straight line connecting him, me, and the Nibe woman. You just need to deflect it the same way you did earlier.」"
   },
   {
@@ -908,7 +908,7 @@
     "message": "「Are you serious!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「That's what makes you the Demon Lord. Anything less wouldn't cut it.」"
   },
   {

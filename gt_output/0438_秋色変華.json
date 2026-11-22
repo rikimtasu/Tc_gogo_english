@@ -15,7 +15,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Of course I'd want to take a big gulp of fresh air. I never expected Senken'in-sensei to be that strict.」"
+    "message": "「Of course I'd want to take a big gulp of fresh air. I never expected Sengen'in-sensei to be that strict.」"
   },
   {
     "name": "Paqy",
@@ -30,7 +30,7 @@
   },
   {
     "name": "Synn",
-    "message": "「No wonder--Senken'in-sensei is in charge of Misa's class, after all.」"
+    "message": "「No wonder--Sengen'in-sensei is in charge of Misa's class, after all.」"
   },
   {
     "name": "Paqy",
@@ -120,7 +120,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I―I'm not the only one. Paqy was―」"
+    "message": "「I-I'm not the only one. Paqy was--」"
   },
   {
     "name": "Paqy",
@@ -197,6 +197,6 @@
     "message": "I'm relieved that Misa isn't feeling down."
   },
   {
-    "message": "More than that, what I should be worrying about is my own safety……"
+    "message": "More than that, what I should be worrying about is my own safety..."
   }
 ]

@@ -23,11 +23,11 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Helena",
-    "message": "「Good day, everyone. Today, I'd like to introduce our student teacher, Ms. Sengenin」"
+    "message": "「Good day, everyone. Today, I'd like to introduce our student teacher, Ms. Sengen'in」"
   },
   {
     "message": "Guided by Helena-san's voice, the figure of what appeared to be a woman stepped onto the stage."
@@ -42,10 +42,10 @@
   },
   {
     "name": "Sengen'in",
-    "message": "「I'm Sengenin. It's a pleasure to meet you」"
+    "message": "「I'm Sengen'in. It's a pleasure to meet you」"
   },
   {
-    "message": "Having said that curtly, Ms. Sengenin walked off the stage."
+    "message": "Having said that curtly, Ms. Sengen'in walked off the stage."
   },
   {
     "name": "Helena",
@@ -103,7 +103,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Ah, he went off somewhere again."

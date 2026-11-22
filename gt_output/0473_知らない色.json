@@ -9,21 +9,21 @@
     "message": "Thinking that, I started heading out toward the Shiokumi Shopping District, only to stop in my tracks halfway."
   },
   {
-    "message": "It hasn't even been half a day since those two started working hard at it. No matter how you look at it, I'm worrying way too much--let's try another time. I need to have a little more faith in them."
+    "message": "It hasn't even been half a day since those two started working at it. Clearly I'm worrying way too much--let's try again later. I need to have more faith in them."
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Oh?"
   },
   {
-    "message": "Just as I was about to turn back home, I ran into Azel, who was walking with the same strange pace as me. I gave a light nod, but his gaze was off in another direction, and he hadn't noticed me yet."
+    "message": "Just as I was about to head home, I ran into Azel walking at the same odd pace. I gave a light nod, but her gaze was off in the distance and she hadn't noticed me yet."
   },
   {
     "name": "Azel",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "message": "Azel would walk, stop, and after a short while, start walking again."
@@ -41,7 +41,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -75,7 +75,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -174,7 +174,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel picks up the pressed leaf and flutters it between his fingertips."
@@ -231,7 +231,7 @@
     "message": "As she says this, Misa picks up fallen leaves from the ground and hands them to Azel and me."
   },
   {
-    "message": "Retaining the deep green of late summer while shifting from green to yellow with the arrival of autumn, the leaves have an exquisite blend of hues. A variety of colors appear on just a single fallen leaf."
+    "message": "Retaining late summer's deep green while shifting toward autumn yellow, the leaves hold an exquisite blend of hues--so many colors appearing on a single fallen leaf."
   },
   {
     "name": "Synn",
@@ -243,7 +243,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Just as Misa did, Azel picks up a fallen leaf himself to examine it."
@@ -274,7 +274,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -306,7 +306,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",

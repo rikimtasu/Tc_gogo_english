@@ -74,7 +74,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Sally-chan's outfit and hair ornament are a pale pink. If you look at it generously, I suppose you could call it red."
@@ -101,7 +101,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Sally-chan's hair is pale light blue. Taking a broad view, you could even call it blue."
@@ -127,7 +127,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "There's no trace of yellow left anywhere anymore, though that hardly matters."
@@ -150,7 +150,7 @@
   },
   {
     "name": "Synn",
-    "message": "「No, um, Sally-chan's here too, so wouldn't that make three……?」"
+    "message": "「No, um, Sally-chan's here too, so wouldn't that make three...?」"
   },
   {
     "name": "Sally",
@@ -198,7 +198,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Munch, munch, chomp, chomp…… Aah, that was deliciousss!」"
+    "message": "「Munch, munch, chomp, chomp... Aah, that was deliciousss!」"
   },
   {
     "name": "Sally",
@@ -218,7 +218,7 @@
   },
   {
     "name": "Synn",
-    "message": "「S-Sacchin……」"
+    "message": "「S-Sacchin...」"
   },
   {
     "name": "Sacchin",
@@ -234,7 +234,7 @@
   },
   {
     "name": "Synn",
-    "message": "「A shoulder ride……\\s03」"
+    "message": "「A shoulder ride...\\s03」"
   },
   {
     "name": "Sacchin",
@@ -242,22 +242,22 @@
   },
   {
     "name": "Synn",
-    "message": "「A-All right, fine!\\s01 I don't know if we'll even reach the ceiling, though……」"
+    "message": "「A-All right, fine!\\s01 I don't know if we'll even reach the ceiling, though...」"
   },
   {
     "message": "I turn my back to Sacchin and crouch down. Sacchin's soft legs rest on my shoulders."
   },
   {
     "name": "Sacchin",
-    "message": "「Hyau!? Kuuuun…… Synn-kun's breath on my thighs--it tickles--」"
+    "message": "「Hyau!? Kuuuun... Synn-kun's breath on my thighs--it tickles--」"
   },
   {
     "name": "Synn",
-    "message": "「E-Even if you say that……」"
+    "message": "「E-Even if you say that...」"
   },
   {
     "name": "Nanaka",
-    "message": "「Now then, today's sweets are――」"
+    "message": "「Now then, today's sweets are--」"
   },
   {
     "name": "Nanaka",
@@ -280,10 +280,10 @@
   },
   {
     "name": "Nanaka",
-    "message": "「……Court is now in session for the Sweets Club Inquisition. Both defendants shall swear to the God of Sweets to speak nothing but the truth」"
+    "message": "「...Court is now in session for the Sweets Club Inquisition. Both defendants shall swear to the God of Sweets to speak nothing but the truth」"
   },
   {
-    "message": "In the hallway of the old school building, I had to explain the whole series of events to Nanaka…… Because it was way too absurd, it was really hard to tell."
+    "message": "In the hallway of the old school building, I had to explain the whole series of events to Nanaka... Because it was way too absurd, it was really hard to tell."
   },
   {
     "message": "However, Sacchin looked super happy just getting to be together with Nanaka."
@@ -293,6 +293,6 @@
     "message": "「Guilty!」"
   },
   {
-    "message": "……It was painful for me."
+    "message": "...It was painful for me."
   }
 ]

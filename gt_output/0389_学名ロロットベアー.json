@@ -61,7 +61,7 @@
     "message": "As they approached the direction of the magical presence."
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Guooooh~. Gaaguuu~. Buooooh~」"
   },
   {
@@ -77,7 +77,7 @@
     "message": "「What should we do? I wonder if Spirit Arts even work on bears?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Gaaaaah. Guuuu. Goooooh」"
   },
   {
@@ -122,7 +122,7 @@
     "message": "A large man was sleeping alone."
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Gogaaaa. Fuguouuu. Gogoooo」"
   },
   {
@@ -153,7 +153,7 @@
     "message": "「Please wake up. You'll catch a cold sleeping in a place like this」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Mgh... mgh...」"
   },
   {
@@ -161,7 +161,7 @@
     "message": "「Everyone, I was the one who discovered that bear, you know」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Nnh... nnh?」"
   },
   {
@@ -176,11 +176,11 @@
     "message": "「We've known that for a while now」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Mmph... *yaaawn*. Slept like a log」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Wait, it's pitch black out!?」"
   },
   {
@@ -188,11 +188,11 @@
     "message": "「Um, why were you sleeping in a place like this?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「It's already night!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Damn it. They got me again! Putting a brilliant mind like me to sleep just to slip past! What utterly cowardly, despicable, base, vicious, cunning bastards!」"
   },
   {
@@ -208,11 +208,11 @@
     "message": "「How despicable! What are the names of those people?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Right?! You guys think they're despicable too, don't ya? Of course you do--anybody would think those guys are despicable!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「They're a bunch of perverts who gang up on helpless little girls to make 'em prey to their twisted lusts!」"
   },
   {
@@ -220,7 +220,7 @@
     "message": "「To think a group like that is lurking in the academy... I'm shocked.」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Fuhahahaha! Don't worry, bro. Leave it to the strongest, most invincible me! I'll beat that wicked, heinous Student Council to an absolute pulp!」"
   },
   {
@@ -228,7 +228,7 @@
     "message": "「The Student Council?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Damn you, Student Council! The next time we meet will be the end of yoooooooou!」"
   },
   {
@@ -254,10 +254,10 @@
   },
   {
     "name": "Synn",
-    "message": "「Wait... is this guy Virus?」"
+    "message": "「Wait... is this guy Bylous?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「I'll get a good night's sleep tonight! Tomorrow at noon will be the end of 'em!」"
   },
   {
@@ -267,11 +267,11 @@
     "message": "Still... he doesn't seem very bright. This guy."
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「If they don't show up, I'll smash every single building on these grounds to rubble! That way they won't be able to stay hidden!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「I'm on a roll! So clever! Gahahahahahahaha!」"
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It will be fine. If you fill in the answers you know and then guess the remaining multiple-choice questions, you will have plenty of time left. You can recharge your energy during that time」"
+    "message": "「It'll be fine. Fill in the answers you know, then guess the remaining multiple-choice questions, and you'll have plenty of time left to recharge your energy」"
   },
   {
     "name": "Nanaka",
@@ -326,7 +326,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「He might be an idiot, sure, but we can't underestimate that strength of his. It'll be a huge mess if he starts smashing up the academy buildings, and I seriously doubt he'll care about his surroundings while fighting」"
+    "message": "「He may be an idiot, sure, but we can't underestimate his strength. It'll be a huge mess if he smashes up school buildings, and I doubt he'll hold back while fighting」"
   },
   {
     "name": "Synn",
@@ -420,7 +420,7 @@
   },
   {
     "name": "Cat Demon",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -498,7 +498,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -545,6 +545,6 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   }
 ]

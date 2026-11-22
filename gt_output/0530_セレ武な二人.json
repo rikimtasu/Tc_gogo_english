@@ -102,7 +102,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Indeed, a .22 caliber isn't very reassuring. At best, it's just for intimidation to scare someone off in a pinch, though……」"
+    "message": "「Indeed, a .22 caliber isn't very reassuring. At best, it's just for intimidation to scare someone off in a pinch, though...」"
   },
   {
     "name": "Sacchin",
@@ -110,7 +110,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「*Sigh*, what a predicament. It's a thoughtful gift and all, so I'd like to keep it on hand, but with a child's toy like this――」"
+    "message": "「*Sigh*, what a predicament. It's a thoughtful gift and all, so I'd like to keep it on hand, but with a child's toy like this--」"
   },
   {
     "name": "Synn",
@@ -126,7 +126,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I-I'm only getting more confused here, though……?」"
+    "message": "「I-I'm only getting more confused here, though...?」"
   },
   {
     "message": "True enough, a guy really shouldn't be eavesdropping on a conversation between two girls. I decide to fall back a few paces as we walk together."
@@ -140,6 +140,6 @@
     "message": "「A flying kunai, yes. Of course, I have mastered that technique.」"
   },
   {
-    "message": "……Let's put a bit more distance between us."
+    "message": "...Let's put a bit more distance between us."
   }
 ]

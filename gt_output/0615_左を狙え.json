@@ -68,17 +68,17 @@
   },
   {
     "name": "Synn",
-    "message": "「Virus?!」"
+    "message": "「Bylous?!」"
   },
   {
     "name": "Nanaka",
-    "message": "「Huh, Virus...? Synn, huh, ah, hey!」"
+    "message": "「Huh, Bylous...? Synn, huh, ah, hey!」"
   },
   {
     "message": "I instinctively ran over."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...Are you there」"
   },
   {
@@ -86,18 +86,18 @@
     "message": "「...What happened?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Had a little... run-in... with an angel... I can't let you... be killed... right now, after all...」"
   },
   {
-    "message": "Virus looked like he was about to vanish at any moment."
+    "message": "Bylous looked like he was about to vanish at any moment."
   },
   {
     "name": "Nanaka",
     "message": "「H-Hey, what is this? A ghost?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I somehow... managed to drive it off... though...」"
   },
   {
@@ -105,7 +105,7 @@
     "message": "「Azel, all by yourself!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Aim for... his left... Nibe and I... wounded the same spot... three... times... There has to be an opening...」"
   },
   {
@@ -113,10 +113,10 @@
     "message": "「G-Got it. His left. So, you really shouldn't talk anymore--」"
   },
   {
-    "message": "Virus smiled."
+    "message": "Bylous smiled."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...Watch out... for Soltia...」"
   },
   {
@@ -124,10 +124,10 @@
     "message": "「S-Synn! This ghost just looked right at me!?」"
   },
   {
-    "message": "The right half of Virus's flickering body wavered violently, and vanished."
+    "message": "The right half of Bylous's flickering body wavered violently, and vanished."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Is this... as far as I go...」"
   },
   {
@@ -138,10 +138,10 @@
   },
   {
     "name": "Synn",
-    "message": "「Virus!」"
+    "message": "「Bylous!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「If... the world... doesn't end... someday... with you...!」"
   },
   {
@@ -164,7 +164,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Nanaka",

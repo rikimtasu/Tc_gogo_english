@@ -3,11 +3,11 @@
     "message": "発足!! 流星生徒会"
   },
   {
-    "name": "PA / Announcement",
+    "name": "Announcement",
     "message": "「We will now begin the Student Council inaugural speeches.」"
   },
   {
-    "name": "PA / Announcement",
+    "name": "Announcement",
     "message": "「Student Council officers, please enter.」"
   },
   {
@@ -20,7 +20,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Student Council Vice President, Misa Brigitta Cristeles.」"
+    "message": "「Student Council Vice President, Misa Brigitta Cristelis.」"
   },
   {
     "name": "Synn",
@@ -64,7 +64,7 @@
   },
   {
     "name": "Synn",
-    "message": "「―Oh, right! Ready, set―」"
+    "message": "「--Oh, right! Ready, set--」"
   },
   {
     "name": "Everyone",

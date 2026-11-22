@@ -50,7 +50,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "name": "Melilot",
@@ -142,14 +142,14 @@
   },
   {
     "name": "Azel",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "message": "Gently laying down Azel, who has begun breathing softly in sleep."
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "message": "Even if our feelings are still passing each other by for now..."
@@ -161,23 +161,23 @@
     "message": "Because we fought hard and won that chance."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「God, huh...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It seems they won't show themselves just yet...」"
   },
   {
     "name": "Synn",
-    "message": "「Virus... Thank you for your help this time」"
+    "message": "「Bylous... Thank you for your help this time」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「No thanks are necessary」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I merely fought for my own sake」"
   },
   {
@@ -185,23 +185,23 @@
     "message": "「...On top of all this, do you wish to fight even further?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Let's see...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Trading blows here with the Demon Lord who crossed the line of death alongside me wouldn't be bad」"
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, I am satisfied for now」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I was able to unleash my power to my heart's content against Re-Crea, after all.」"
   },
   {
@@ -209,7 +209,7 @@
     "message": "「Phew...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I'll save settling the score with the Demon Lord for another time.」"
   },
   {
@@ -217,11 +217,11 @@
     "message": "「Huh...?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「The Demon Lord's power, amplified by the appearance of God...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I'm looking forward to it.」"
   },
   {
@@ -233,7 +233,7 @@
     "message": "「You seem completely fixated on facing God.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Though I have no idea when that will be.」"
   },
   {
@@ -245,15 +245,15 @@
     "message": "「However, I doubt God will ever cease putting us through trials.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmph...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「God will definitely show themselves. Allow me to believe in that.」"
   },
   {
-    "message": "Giving me one final glance, Virus quietly walks away."
+    "message": "Giving me one final glance, Bylous quietly walks away."
   },
   {
     "message": "Leaving behind the premonition of a great battle bound to come again someday..."
@@ -333,7 +333,7 @@
     "message": "Before long, the Holy Night Festival began."
   },
   {
-    "message": "After defeating Soltia, Virus leaving, and putting Azel to rest in the infirmary..."
+    "message": "After defeating Soltia, Bylous leaving, and putting Azel to rest in the infirmary..."
   },
   {
     "message": "Dazzling decorations shining before anyone noticed, and a solemn atmosphere."
@@ -558,7 +558,7 @@
   },
   {
     "name": "Synn",
-    "message": "「…………」"
+    "message": "「......」"
   },
   {
     "message": "And so, quietly, slowly."

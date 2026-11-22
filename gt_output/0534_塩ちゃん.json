@@ -75,7 +75,7 @@
     "message": "「Nngh, it is by no means worthy of such praise... Synn-dono, please have a seat and wait just a moment.」"
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
     "name": "Shio",
@@ -86,7 +86,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Shio―ch―」"
+    "message": "「Shio-ch--」"
   },
   {
     "name": "Shio",
@@ -126,7 +126,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "name": "Shio",
@@ -190,7 +190,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Huh? Shio―chan, you came bac―」"
+    "message": "「Huh? Shio-chan, you came bac--」"
   },
   {
     "name": "Nanaka",

@@ -266,6 +266,13 @@ class LocalParserTests(unittest.TestCase):
         self.assertEqual(self.parse(b'Wi\\S10ii'), 5)
         self.assertEqual([char for char, _, _ in self.positions()], [87, 105, 0xFF0A, 105, 105])
 
+        # Trailing SJIS punctuation ('」' = 0x81 0x76, 10px at half_cell=5.0) wraps with its word
+        self.created.clear()
+        self.support.context(slots=8, half_cell=5.0)  # budget = 40px
+        # 'WW ' = 12+12+4 = 28px; 'iii」' = 3+3+3+10 = 19px -> 28+19 = 47 > 40 -> 'iii」' wraps to y=20
+        self.assertEqual(self.parse(b'WW iii\x81\x76'), 7)
+        self.assertEqual([y for _, _, y in self.positions()], [0, 0, 0, 20, 20, 20, 20])
+
     def test_dialogue_context_and_fade_bounds(self):
         config = CONTEXT + 0x4000
         for offset, value in ((0x10, 364), (0x14, 57), (0x18, 14), (0x1C, 19), (0x20, 14)):
@@ -468,6 +475,19 @@ class LocalParserTests(unittest.TestCase):
             self.assertLessEqual(len(encoded), cap)
             expected = encoded + b'\x00' * (cap + 1 - len(encoded))
             self.assertEqual(patched[offset:offset + cap + 1], expected)
+        for label, literal in (
+            ('str_sun', b'Sun\x00'),
+            ('str_mon', b'Mon\x00'),
+            ('str_morning', b'Morning\x00'),
+            ('str_late_night', b'Late Night\x00'),
+        ):
+            self.assertIn(label, info)
+            va = info[label]
+            # Locate in second PT_LOAD segment
+            phoff = struct.unpack_from('<I', patched, 28)[0]
+            _, seg_off, seg_va, _, _, _, _, _ = struct.unpack_from('<8I', patched, phoff + 32)
+            file_off = seg_off + (va - seg_va)
+            self.assertEqual(patched[file_off:file_off + len(literal)], literal)
 
 
 if __name__ == '__main__':

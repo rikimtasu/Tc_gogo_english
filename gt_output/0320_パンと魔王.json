@@ -68,11 +68,11 @@
   },
   {
     "name": "Misa",
-    "message": "「After defeating the Demon King in another world ruled by night, the big-sister hero and her little-sister mage greet the morning and set off on a new journey... *sigh*」"
+    "message": "「After defeating the Demon Lord in another world ruled by night, the big-sister hero and her little-sister mage greet the morning and set off on a new journey... *sigh*」"
   },
   {
     "name": "Synn",
-    "message": "「Gulp! D-Demon King...」"
+    "message": "「Gulp! D-Demon Lord...」"
   },
   {
     "name": "Lolotte",
@@ -88,7 +88,7 @@
   },
   {
     "name": "Misa",
-    "message": "「And if we defeat the Demon King at the very end, there couldn't be a more wonderful happy ending than that.」"
+    "message": "「And if we defeat the Demon Lord at the very end, there couldn't be a more wonderful happy ending than that.」"
   },
   {
     "name": "Synn",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Synn",
-    "message": "「It's fine for now, but who knows what'll happen down the road……」"
+    "message": "「It's fine for now, but who knows what'll happen down the road...」"
   },
   {
     "name": "Paqy",
@@ -237,6 +237,6 @@
     "message": "Thanks to Paqy, I managed to laugh a little."
   },
   {
-    "message": "……Alright! Time to switch gears and head back to everyone!"
+    "message": "...Alright! Time to switch gears and head back to everyone!"
   }
 ]

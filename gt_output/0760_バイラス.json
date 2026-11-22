@@ -3,7 +3,7 @@
     "message": "バイラス"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It's rare for you to reach out to me」"
   },
   {
@@ -17,7 +17,7 @@
     "message": "Apparently, she'd had his email address forced on her at some point."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I see」"
   },
   {
@@ -25,17 +25,17 @@
     "message": "「Thank you for tonight... I wasn't sure you'd come」"
   },
   {
-    "name": "Virus",
-    "message": "「I could hardly refuse an invitation from the Demon King」"
+    "name": "Bylous",
+    "message": "「I could hardly refuse an invitation from the Demon Lord」"
   },
   {
-    "message": "Virus gave a faint smile."
+    "message": "Bylous gave a faint smile."
   },
   {
     "message": "He seemed remarkably rational."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It appears I wasn't mistaken」"
   },
   {
@@ -43,15 +43,15 @@
     "message": "「Huh?」"
   },
   {
-    "name": "Virus",
-    "message": "「They say the first and greatest Demon King always sought to understand his opponent's wishes before battle, avoiding every fight that could be avoided」"
+    "name": "Bylous",
+    "message": "「They say the first and greatest Demon Lord always sought to understand his opponent's wishes before battle, avoiding every fight that could be avoided」"
   },
   {
     "name": "Synn",
     "message": "「How do you know that...?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Surprised?」"
   },
   {
@@ -59,7 +59,7 @@
     "message": "「Yes... honestly」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Are you surprised that I know Re-Crea means destruction, too?」"
   },
   {
@@ -67,7 +67,7 @@
     "message": "「!」"
   },
   {
-    "message": "For a moment, I lost my voice and stared at Virus."
+    "message": "For a moment, I lost my voice and stared at Bylous."
   },
   {
     "name": "Melphas",
@@ -78,7 +78,7 @@
     "message": "「...Then why? Are you also trying to, just like Azel in the past, use God to--」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I couldn't care less about God」"
   },
   {
@@ -86,7 +86,7 @@
     "message": "「What...?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I simply needed the worst possible Re-Crea」"
   },
   {
@@ -94,7 +94,7 @@
     "message": "「Re-Crea means annihilation!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「That's of no consequence」"
   },
   {
@@ -102,10 +102,10 @@
     "message": "「'Of no consequence'...?」"
   },
   {
-    "message": "Virus looked straight at me."
+    "message": "Bylous looked straight at me."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Have you ever wondered why the Demon Lord appears?」"
   },
   {
@@ -113,8 +113,8 @@
     "message": "「What...?」"
   },
   {
-    "name": "Virus",
-    "message": "「Throughout history, the Demon Lord has appeared alongside Re-Crea and saved the world time and again. The Demon Lord and Re-Crea are always a pair. And the scale of Re-Crea is directly proportional to the Demon Lord's strength.」"
+    "name": "Bylous",
+    "message": "「Throughout history, the Demon Lord has appeared with Re-Crea to save the world. They're always a pair, and Re-Crea's scale is directly proportional to the Demon Lord's power.」"
   },
   {
     "name": "Synn",
@@ -127,15 +127,15 @@
     "message": "However, they hardly sounded like something the battle-crazed demon standing before me would say."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Because I investigated. Every single record I could get my hands on regarding the Demon Lord.」"
   },
   {
-    "message": "A glint of madness lurked in Virus's eyes as he looked at me."
+    "message": "A glint of madness lurked in Bylous's eyes as he looked at me."
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melphas",
@@ -143,14 +143,14 @@
   },
   {
     "name": "Melphas",
-    "message": "「Just as I pursue women, Virus, you pursue worthy foes.」"
+    "message": "「Just as I pursue women, Bylous, you pursue worthy foes.」"
   },
   {
     "name": "Synn",
     "message": "「Worthy foes?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「The Demon Lord is a counter-reaction to Re-Crea. I believe the Demon Lord is a manifestation of the world's own will, striving to oppose Re-Crea and protect itself.」"
   },
   {
@@ -158,7 +158,7 @@
     "message": "「So... the strength of Re-Crea and the Demon Lord are proportional...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「For the strongest Demon Lord, the most catastrophic Re-Crea is required.」"
   },
   {
@@ -169,7 +169,7 @@
     "message": "「No way! You did all of this just to fight the strongest Demon Lord?! Just to create your ultimate opponent?!」"
   },
   {
-    "message": "Virus laughed. With pure delight."
+    "message": "Bylous laughed. With pure delight."
   },
   {
     "name": "Melphas",
@@ -180,12 +180,12 @@
     "message": "「That's what you want?! You orchestrated everything for something like that?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「O Demon Lord. When the power of Re-Crea reaches its peak, will you do battle with me?」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "It was just a little before Azel was set to appear."
@@ -213,7 +213,7 @@
     "message": "「Can I choose the location?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「As long as we get to fight, I have no objections.」"
   },
   {
@@ -227,11 +227,11 @@
     "message": "「...In front of the church at Ryuusei Academy」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「No problem.」"
   },
   {
-    "message": "Virus smiled innocently."
+    "message": "Bylous smiled innocently."
   },
   {
     "message": "It looked just like the expression on Sengen'in-sensei's face in Azel's photo."

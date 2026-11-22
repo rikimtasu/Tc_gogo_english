@@ -37,7 +37,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I'm totally fine. If it's for you, Azel―I mean, well, um, I―」"
+    "message": "「I'm totally fine. If it's for you, Azel-I mean, well, um, I--」"
   },
   {
     "name": "Sengen'in-sensei?",
@@ -135,7 +135,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Sengen'in-sensei?",
@@ -146,11 +146,11 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -201,32 +201,32 @@
     "message": "「Who's there!?」"
   },
   {
-    "name": "Virus",
-    "message": "「Virus.」"
+    "name": "Bylous",
+    "message": "「Bylous.」"
   },
   {
     "message": "The young man radiated arrogance and confidence, as if that name alone should tell us everything we needed to know."
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "message": "His build was slimmer than Ardin's, he lacked Eauderourke's grotesque air, and he was shorter than Melphas."
+    "message": "His build was slimmer than Arden's, he lacked Eauderourke's grotesque air, and he was shorter than Melphas."
   },
   {
-    "message": "Yet I was certain beyond a doubt that this young man was indeed Virus."
+    "message": "Yet I was certain beyond a doubt that this young man was indeed Bylous."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I had intended to conceal both my magic power and my presence, yet it seems I cannot manage it quite as well as Nibe.」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It is a pleasure to meet you for the first time, Synn Sakura--and you as well, O legendary Demon Lord.」"
   },
   {
@@ -244,7 +244,7 @@
     "message": "I try playing dumb for now. Even though it seems pointless."
   },
   {
-    "message": "Virus suddenly moved!"
+    "message": "Bylous suddenly moved!"
   },
   {
     "name": "Synn",
@@ -264,11 +264,11 @@
     "message": "「Ugh!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You blocked it, huh. Now this is how it should be!」"
   },
   {
-    "message": "Virus was laughing as if he were enjoying himself."
+    "message": "Bylous was laughing as if he were enjoying himself."
   },
   {
     "message": "However, I'm in no position to feel the same."
@@ -280,11 +280,11 @@
     "message": "I understood from just that brief exchange."
   },
   {
-    "message": "Virus's power surpasses mine, even though I'm the Demon Lord."
+    "message": "Bylous's power surpasses mine, even though I'm the Demon Lord."
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Like this, I won't be able to protect Azel from this guy."
@@ -293,7 +293,7 @@
     "message": "Even so, I--"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It's truly entertaining, but let's leave it at this for tonight.」"
   },
   {
@@ -301,7 +301,7 @@
     "message": "「What?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「O Demon Lord. You'd best head back and rest early tonight. Having just awakened, your state is unstable, and the backlash will hit you.」"
   },
   {
@@ -321,35 +321,35 @@
     "message": "The sheer agony robs me of my willpower, and even my transformation begins to undo itself."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You overworked parts of yourself you've never used before, so this is only natural.」"
   },
   {
-    "message": "I looked like I might collapse at any moment, yet I mustered my willpower and glared at Virus."
+    "message": "I looked like I might collapse at any moment, yet I mustered my willpower and glared at Bylous."
   },
   {
-    "message": "Virus looked genuinely delighted, to an infuriating degree."
+    "message": "Bylous looked genuinely delighted, to an infuriating degree."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I'm looking forward to the day of Re-Crea.」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
     "message": "「Synn!」"
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
     "name": "Synn",
@@ -360,7 +360,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "When I turn my eyes toward the presence right beside me, Azel is sitting by my bedside, quietly shedding tears in the cold light of night."
@@ -394,7 +394,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel shook her head."
@@ -408,7 +408,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel gave a small nod."
@@ -419,7 +419,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -435,7 +435,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -462,7 +462,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -481,7 +481,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「That Virus guy from the rumors.」"
+    "message": "「That Bylous guy from the rumors.」"
   },
   {
     "name": "Synn",
@@ -493,13 +493,13 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "message": "What is Virus planning, I wonder?"
+    "message": "What is Bylous planning, I wonder?"
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
     "message": "My head isn't working. I feel so heavy. I'm exhausted."

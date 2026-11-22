@@ -92,7 +92,7 @@
   },
   {
     "name": "Synn",
-    "message": "「――!?」"
+    "message": "「--!?」"
   },
   {
     "name": "Nanaka",
@@ -100,29 +100,29 @@
   },
   {
     "name": "Synn",
-    "message": "「N-No……」"
+    "message": "「N-No...」"
   },
   {
-    "message": "What is this ominous presence…… I can feel a strong will, almost as if someone is calling out to me."
+    "message": "What is this ominous presence... I can feel a strong will, almost as if someone is calling out to me."
   },
   {
     "message": "A distinct signal, unlike what I've occasionally sensed up until now."
   },
   {
     "name": "Synn",
-    "message": "「Who is it……」"
+    "message": "「Who is it...」"
   },
   {
     "name": "Misa",
-    "message": "「S-Sakura-kun……?」"
+    "message": "「S-Sakura-kun...?」"
   },
   {
     "name": "Ria",
-    "message": "「S-Sorry. Did I make you mad……?」"
+    "message": "「S-Sorry. Did I make you mad...?」"
   },
   {
     "name": "Synn",
-    "message": "「No…… it's not that……」"
+    "message": "「No... it's not that...」"
   },
   {
     "message": "And what's more, it's coming from the direction Lolotte and the others headed."
@@ -141,7 +141,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Where's Lolotte…… where's Azel……」"
+    "message": "「Where's Lolotte... where's Azel...」"
   },
   {
     "name": "Lolotte",
@@ -149,7 +149,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Something as massive as this…… How do you propose we do that?」"
+    "message": "「Something as massive as this... How do you propose we do that?」"
   },
   {
     "name": "Lolotte",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hah, hah, thank goodness…… Looks like you're both safe」"
+    "message": "「Hah, hah, thank goodness... Looks like you're both safe」"
   },
   {
     "name": "Lolotte",
@@ -177,11 +177,11 @@
   },
   {
     "name": "Synn",
-    "message": "「N-Nothing…… I just had a bad feeling coming from this direction」"
+    "message": "「N-Nothing... I just had a bad feeling coming from this direction」"
   },
   {
     "name": "Azel",
-    "message": "「A bad feeling, you say……?」"
+    "message": "「A bad feeling, you say...?」"
   },
   {
     "name": "Lolotte",
@@ -189,19 +189,19 @@
   },
   {
     "name": "Synn",
-    "message": "「That's strange…… Even though it felt much clearer than usual」"
+    "message": "「That's strange... Even though it felt much clearer than usual」"
   },
   {
     "name": "Azel",
     "message": "「What did you say...?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You have fallen.」"
   },
   {
     "name": "Azel",
-    "message": "「――!?」"
+    "message": "「--!?」"
   },
   {
     "name": "Synn",
@@ -209,11 +209,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Virus...!!」"
+    "message": "「Bylous...!!」"
   },
   {
     "name": "Lolotte",
-    "message": "「Azel-san, Virus is...」"
+    "message": "「Azel-san, Bylous is...」"
   },
   {
     "name": "Azel",
@@ -223,7 +223,7 @@
     "message": "Greasy sweat oozed from his forehead. Azel bit down hard on his lip, his expression betraying deep remorse."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「To think you would lose sight of your true purpose and indulge in playing friends.」"
   },
   {
@@ -231,21 +231,21 @@
     "message": "「Sh-Shut up!!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Are you not the very definition of a fallen angel?」"
   },
   {
     "name": "Lolotte",
-    "message": "「……!?」"
+    "message": "「...!?」"
   },
   {
     "message": "He knows that Azel is an angel...?"
   },
   {
-    "message": "Speaking of Virus, Pasta had mentioned that name once before."
+    "message": "Speaking of Bylous, Pasta had mentioned that name once before."
   },
   {
-    "message": "Virus... Judging by his appearance, not only is he clearly not a staff member, he carries an ominous air about him."
+    "message": "Bylous... Judging by his appearance, not only is he clearly not a staff member, he carries an ominous air about him."
   },
   {
     "message": "Yet judging from Azel's reaction, his demeanor doesn't seem like that of an ally at all."
@@ -255,12 +255,12 @@
     "message": "「Who on earth are you...」"
   },
   {
-    "name": "Virus",
-    "message": "「……」"
+    "name": "Bylous",
+    "message": "「...」"
   },
   {
     "name": "Lolotte",
-    "message": "「Hold on, Virus-san!! How could you say such a terrible thing to Azel-san!!」"
+    "message": "「Hold on, Bylous-san!! How could you say such a terrible thing to Azel-san!!」"
   },
   {
     "name": "Azel",
@@ -271,18 +271,18 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Take that back!! Azel-san is no fallen angel――」"
+    "message": "「Take that back!! Azel-san is no fallen angel--」"
   },
   {
-    "name": "Virus",
-    "message": "「Demon King.」"
+    "name": "Bylous",
+    "message": "「Demon Lord.」"
   },
   {
     "name": "Synn",
-    "message": "「……!!」"
+    "message": "「...!!」"
   },
   {
-    "message": "He even knows that I'm the Demon King!?"
+    "message": "He even knows that I'm the Demon Lord!?"
   },
   {
     "name": "Lolotte",
@@ -297,7 +297,7 @@
     "message": "「Lolotte, calm down」"
   },
   {
-    "message": "Virus paid no mind whatsoever to Lolotte's state."
+    "message": "Bylous paid no mind whatsoever to Lolotte's state."
   },
   {
     "message": "However, just as Azel said, there's an atmosphere suggesting that getting involved with him won't end well."
@@ -306,19 +306,19 @@
     "message": "He isn't even radiating bloodlust, so why am I breaking out in a cold sweat?"
   },
   {
-    "name": "Virus",
-    "message": "「When will you awaken as the Demon King?」"
+    "name": "Bylous",
+    "message": "「When will you awaken as the Demon Lord?」"
   },
   {
     "name": "Synn",
-    "message": "「How do you know that I'm the Demon King?」"
+    "message": "「How do you know that I'm the Demon Lord?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Would sacrificing your comrade do the trick?」"
   },
   {
-    "message": "For the first time, Virus's gaze shifts toward Lolotte."
+    "message": "For the first time, Bylous's gaze shifts toward Lolotte."
   },
   {
     "message": "He doesn't seem to have the slightest intention of listening to my question."
@@ -337,7 +337,7 @@
     "message": "Eyes of solitude--the cold, composed gaze possessed only by one who has crossed the line between life and death countless times."
   },
   {
-    "message": "I step in front of Lolotte, blocking Virus's line of sight."
+    "message": "I step in front of Lolotte, blocking Bylous's line of sight."
   },
   {
     "name": "Lolotte",
@@ -363,15 +363,15 @@
     "message": "「Exchanging any more words with him is pointless」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmph. Premature though it may be, to think your power is only at this level」"
   },
   {
-    "message": "Irritation shows in Virus's tone."
+    "message": "Irritation shows in Bylous's tone."
   },
   {
-    "name": "Virus",
-    "message": "「What a buzzkill. You've disappointed me, Demon King」"
+    "name": "Bylous",
+    "message": "「What a buzzkill. You've disappointed me, Demon Lord」"
   },
   {
     "name": "Synn",
@@ -385,7 +385,7 @@
     "message": "Faced with Azel's anguished cry, I'm forced to realize for the very first time that I was merely putting on a brave front."
   },
   {
-    "message": "Formidable energy overflows from Virus, overwhelming me with sheer pressure."
+    "message": "Formidable energy overflows from Bylous, overwhelming me with sheer pressure."
   },
   {
     "message": "It is magical power on a completely different scale from the Seven Demon Generals I've fought in the past."
@@ -394,13 +394,13 @@
     "message": "Being the King of the Demons is, after all, nothing more than a matter of innate aptitude."
   },
   {
-    "message": "In contrast, this Virus has the eyes of someone who has overcome countless grueling trials."
+    "message": "In contrast, this Bylous has the eyes of someone who has overcome countless grueling trials."
   },
   {
     "message": "There is no way hastily acquired power could ever match a great blade forged and honed to perfection."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Whether now or later, looking at you like this, it's clear you don't amount to much」"
   },
   {
@@ -435,14 +435,14 @@
     "message": "「Azel, you're......」"
   },
   {
-    "message": "With an expression as though suppressing all emotion, Azel turns back toward Virus."
+    "message": "With an expression as though suppressing all emotion, Azel turns back toward Bylous."
   },
   {
     "name": "Azel",
     "message": "「Both your hopes and mine have been dashed. There is no longer any reason or need to linger in the Human World. Leave at once.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I refuse.」"
   },
   {
@@ -450,11 +450,11 @@
     "message": "「If you want a replacement for the Demon Lord, you have no business here.」"
   },
   {
-    "name": "Virus",
-    "message": "「……」"
+    "name": "Bylous",
+    "message": "「...」"
   },
   {
-    "message": "Virus casts a silent glance at Azel and vanishes from the spot in an instant."
+    "message": "Bylous casts a silent glance at Azel and vanishes from the spot in an instant."
   },
   {
     "name": "Synn",
@@ -497,11 +497,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I intended to take advantage of Re-Crea. Together with Virus.」"
+    "message": "「I intended to take advantage of Re-Crea. Together with Bylous.」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -513,7 +513,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Why would Virus...?」"
+    "message": "「Why would Bylous...?」"
   },
   {
     "name": "Azel",
@@ -525,18 +525,18 @@
   },
   {
     "name": "Azel",
-    "message": "「Virus must have heard that rumor. What his true goal is, I do not know...」"
+    "message": "「Bylous must have heard that rumor. What his true goal is, I do not know...」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "message": "If so, did Virus leave because he was disappointed in my power?"
+    "message": "If so, did Bylous leave because he was disappointed in my power?"
   },
   {
     "name": "Azel",
-    "message": "「I used Virus. Even so, there was something that had to be done」"
+    "message": "「I used Bylous. Even so, there was something that had to be done」"
   },
   {
     "name": "Azel",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Helena",

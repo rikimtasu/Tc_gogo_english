@@ -49,7 +49,7 @@
   },
   {
     "name": "Shina-oba",
-    "message": "「Anyway, Azel―chan. Forget about that―」"
+    "message": "「Anyway, Azel-chan. Forget about that--」"
   },
   {
     "name": "Synn",
@@ -107,7 +107,7 @@
   },
   {
     "name": "Shina-oba",
-    "message": "「Hehe. Looks like you're interested, Azel―chan. Actually, these two―」"
+    "message": "「Hehe. Looks like you're interested, Azel-chan. Actually, these two--」"
   },
   {
     "name": "Synn",
@@ -142,7 +142,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel readies a digital camera and snaps a photo of Eauderourke hard at work."
@@ -199,7 +199,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Sally",
@@ -215,7 +215,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -308,7 +308,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -328,7 +328,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -340,7 +340,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -359,7 +359,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -371,7 +371,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "A weight resting on my shoulder."
@@ -429,7 +429,7 @@
   },
   {
     "name": "Melphas",
-    "message": "「My, what a rare sight. Lately, nothing but unusual things have been happening--members of the Seven Demon Generals working part-time at beef bowl shops or as waitresses. Myself included.」"
+    "message": "「My, what a rare sight. Lately, nothing but unusual things have been happening--Seven Demon Generals working part-time at beef bowl shops or as waitresses. Myself included.」"
   },
   {
     "message": "When I raised my head, there stood the demon who had previously introduced himself as Melphas."
@@ -439,7 +439,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melphas",
@@ -463,7 +463,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "How am I supposed to handle this?"
@@ -475,7 +475,7 @@
     "message": "I don't even know if Melphas is his real name."
   },
   {
-    "message": "Judging from what Ardin said the other day, he might actually be Virus himself."
+    "message": "Judging from what Arden said the other day, he might actually be Bylous himself."
   },
   {
     "message": "Should I call everyone over?"
@@ -505,7 +505,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -529,7 +529,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Aren't you Virus?」"
+    "message": "「Aren't you Bylous?」"
   },
   {
     "name": "Melphas",
@@ -537,7 +537,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Could it be... Virus isn't popular with women or something?」"
+    "message": "「Could it be... Bylous isn't popular with women or something?」"
   },
   {
     "name": "Melphas",
@@ -580,7 +580,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melphas",
@@ -623,7 +623,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "It kind of feels like he got the wrong idea."
@@ -641,7 +641,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel looked at my face with a dazed gaze, and"
@@ -671,7 +671,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -690,18 +690,18 @@
     "message": "「F-Forget it!」"
   },
   {
-    "name": "Virus",
-    "message": "「Until we meet again. Ardin」"
+    "name": "Bylous",
+    "message": "「Until we meet again. Arden」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「D-Dammittttt! Someday I'll get youuuuuuuuu」"
   },
   {
-    "message": "Gradually, Ardin's presence grows smaller--"
+    "message": "Gradually, Arden's presence grows smaller--"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Pa-s-ta-cha... n...」"
   },
   {
@@ -722,11 +722,11 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Soltia",
-    "message": "「Still, are you sure about this? I don't think Virus stands a chance against the Crusaders, you know?」"
+    "message": "「Still, are you sure about this? I don't think Bylous stands a chance against the Crusaders, you know?」"
   },
   {
     "name": "Azel",
@@ -734,11 +734,11 @@
   },
   {
     "name": "Soltia",
-    "message": "「It might be better for you that way, too. If Virus loses to the Crusaders, you'll be the one who has to fight them」"
+    "message": "「It might be better for you that way, too. If Bylous loses to the Crusaders, you'll be the one who has to fight them」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Soltia",
@@ -750,7 +750,7 @@
   },
   {
     "name": "Soltia",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",

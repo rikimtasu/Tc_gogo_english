@@ -7,7 +7,7 @@
     "message": "「Yes, I'm counting on you. Well then!」"
   },
   {
-    "message": "I leave my notebook containing predictions for the upcoming exam with the dorm mother and step out of the dormitory manager's office. I wanted to hand it directly to Azel, but apparently she isn't in."
+    "message": "I leave my notebook of exam predictions with the dorm mother and step out of the manager's office. I wanted to hand it straight to Azel, but apparently she's out."
   },
   {
     "message": "...It's not like she asked me to do it, so it can't be helped."
@@ -64,7 +64,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -170,7 +170,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Muttering happily to herself, Misa walks away toward the back of the student dormitory."

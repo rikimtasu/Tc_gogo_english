@@ -72,7 +72,7 @@
   },
   {
     "name": "Helena",
-    "message": "「I wonder if Virus will show up too?」"
+    "message": "「I wonder if Bylous will show up too?」"
   },
   {
     "name": "Melilot",
@@ -122,14 +122,14 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Even so, I can't afford to back down."
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Azel is right behind me. He seems unable to move, likely frozen from sheer shock."
@@ -157,31 +157,31 @@
     "message": "「Soltia!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I've been waiting for you, witch.」"
   },
   {
     "name": "Melilot",
-    "message": "「Virus...」"
+    "message": "「Bylous...」"
   },
   {
-    "name": "Virus",
-    "message": "「You won't reach the Demon King unless you defeat me.」"
+    "name": "Bylous",
+    "message": "「You won't reach the Demon Lord unless you defeat me.」"
   },
   {
     "name": "Melilot",
     "message": "「Sakura-kun...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「So it is as I thought.」"
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Care to dance with me, witch?」"
   },
   {
@@ -189,7 +189,7 @@
     "message": "「I have no time to dance with you.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「How cold. Still, I don't mind taking things by force.」"
   },
   {
@@ -197,7 +197,7 @@
     "message": "「I have no time to indulge in your nonsense.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Interesting!」"
   },
   {
@@ -205,7 +205,7 @@
     "message": "「Kh...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Acceleration magic, huh?」"
   },
   {
@@ -213,7 +213,7 @@
     "message": "「You can still keep up even with this!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Once your intentions are clear, predicting you is easy」"
   },
   {
@@ -225,7 +225,7 @@
     "message": "「I should be moving faster than your eyes can track... What a monster」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Being praised by a witch makes me proud」"
   },
   {
@@ -233,7 +233,7 @@
     "message": "「Persistent men are disliked, you know」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Because I want to dance with you at all costs」"
   },
   {
@@ -244,7 +244,7 @@
     "message": "Melilot's body was blown away!"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Repeating the same steps gets boring」"
   },
   {
@@ -259,7 +259,7 @@
     "message": "「Huff, huff, huff...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Now, what will you do next?」"
   },
   {
@@ -270,25 +270,25 @@
     "message": "「Bind!」"
   },
   {
-    "message": "Red light turned into ropes and bound Virus tightly"
+    "message": "Red light turned into ropes and bound Bylous tightly"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I see. Those movements that seemed pointless earlier were to weave this」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, a barrier of this level」"
   },
   {
     "message": "With a completely natural gesture, Melilot slipped her hand into her skirt pocket and pulled out a penlight."
   },
   {
-    "name": "Virus",
-    "message": "「……?」"
+    "name": "Bylous",
+    "message": "「...?」"
   },
   {
-    "message": "Caught off guard, Virus's gaze was drawn to the tip of the penlight as it began to glow."
+    "message": "Caught off guard, Bylous's gaze was drawn to the tip of the penlight as it began to glow."
   },
   {
     "name": "Melilot",
@@ -298,46 +298,46 @@
     "message": "The hand holding the penlight danced."
   },
   {
-    "message": "The glowing tip etched a sharp afterimage into Virus's vision."
+    "message": "The glowing tip etched a sharp afterimage into Bylous's vision."
   },
   {
     "name": "Melilot",
     "message": "「Burn」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Aghhhhhhhhh」"
   },
   {
-    "message": "Virus burst into flames."
+    "message": "Bylous burst into flames."
   },
   {
     "name": "Melilot",
     "message": "「I hate persistent men」"
   },
   {
-    "message": "The flames of Virus, now like a human torch, illuminated Melilot as she walked away."
+    "message": "The flames of Bylous, now like a human torch, illuminated Melilot as she walked away."
   },
   {
     "message": "The flames erupting from his entire body were destroying the physical vessel he needed to remain in the Human World."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hahaha! Yes, yes! Now this is more like it!」"
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Melilot stopped in her tracks."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Koooooooooh!」"
   },
   {
-    "message": "The flames gushing from Virus's body rapidly subsided."
+    "message": "The flames gushing from Bylous's body rapidly subsided."
   },
   {
     "message": "The color drained from Melilot's face."
@@ -347,15 +347,15 @@
     "message": "「Impossible?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Using the afterimages of penlights to draw a magic circle inside your opponent's mind, activating it, and detonating the magic power stored inside their body, huh...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「After all, a magic circle will activate as long as it forms a complete image, even for an instant」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「And the larger the target's mana pool, the more effective it is」"
   },
   {
@@ -363,13 +363,13 @@
     "message": "「Are you saying you suppressed it through sheer brute force?!」"
   },
   {
-    "message": "Virus's arm flashed."
+    "message": "Bylous's arm flashed."
   },
   {
     "message": "The barrier restraining him shattered effortlessly."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「If it had formed a complete image, I wouldn't have been able to hold it back」"
   },
   {
@@ -377,7 +377,7 @@
     "message": "「To figure out the principle behind it and shift your position in that brief instant...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I didn't figure anything out. Shifting out of alignment was pure reflex」"
   },
   {
@@ -385,7 +385,7 @@
     "message": "「...You berserker」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Now then, I wonder if the Demon Lord has been killed yet?」"
   },
   {
@@ -393,14 +393,14 @@
     "message": "「As if I would let that happen!」"
   },
   {
-    "message": "Without answering Melilot's cry, Virus muttered."
+    "message": "Without answering Melilot's cry, Bylous muttered."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「If he has, what a boring curtain call」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I have no need for a Demon Lord who would lose to the likes of Soltia」"
   },
   {
@@ -539,10 +539,10 @@
     "message": "「Gah!」"
   },
   {
-    "message": "Melilot was blown away by the raging force, and Virus laughed amidst the frenzied world."
+    "message": "Melilot was blown away by the raging force, and Bylous laughed amidst the frenzied world."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hahahaha! I see! So that's how it is! Indeed, the world is both cruel and comical.」"
   },
   {

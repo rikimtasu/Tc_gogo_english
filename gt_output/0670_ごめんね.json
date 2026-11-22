@@ -16,7 +16,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Nanaka",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……!」"
+    "message": "「...!」"
   },
   {
     "name": "Nanaka",
@@ -187,7 +187,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Earlier, Shio had sung the praises of the teamwork between Sakura-kun, Nanaka-san, and me."
@@ -202,7 +202,7 @@
     "message": "Compared to them, I'm a liar..."
   },
   {
-    "message": "I don't like Sakura―kun at all. I'll help bring the two of you together―I just keep telling that lie."
+    "message": "I don't like Sakura-kun at all. I'll help bring the two of you together-I just keep telling that lie."
   },
   {
     "message": "...Even so, what am I supposed to do about it now?"
@@ -214,7 +214,7 @@
     "message": "Ugh, how did things end up like this!?"
   },
   {
-    "message": "It's because Nanaka―san asked me, 'Do you like Synn?'―"
+    "message": "It's because Nanaka-san asked me, 'Do you like Synn?'--"
   },
   {
     "message": "If only she had asked, 'Do you hate Synn?' back then--"
@@ -224,7 +224,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "I shake my head, dismissing the selfish what-if. Isn't there a better way to handle this?"
@@ -254,13 +254,13 @@
     "message": "I'm the one who changed..."
   },
   {
-    "message": "Before I knew it, Onee―sama had become someone I admired―someone close to me whom I truly respected."
+    "message": "Before I knew it, Onee-sama had become someone I admired-someone close to me whom I truly respected."
   },
   {
     "message": "At the same time, Sakura-kun slipped into my heart without asking and carved out a space of his own."
   },
   {
-    "message": "A space shaped just like Sakura―kun―"
+    "message": "A space shaped just like Sakura-kun--"
   },
   {
     "message": "Surely the exact same thing that exists inside Nanaka-san's heart."
@@ -276,20 +276,20 @@
   },
   {
     "name": "Misa",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "message": "A sudden question crosses my mind."
   },
   {
-    "message": "『Changing' and 'not changing.』"
+    "message": "'Changing' and 'not changing.'"
   },
   {
     "message": "What is Nanaka-san and Sakura-kun's relationship like?"
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "No, no, I need to settle my own feelings first!"
@@ -393,7 +393,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……?」"
+    "message": "「...?」"
   },
   {
     "name": "Misa",
@@ -456,7 +456,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Instead, I had oden made out in the Kujo family garden. Everyone, go ahead and eat.」"
+    "message": "「Instead, I had oden made out in the Kujou family garden. Everyone, go ahead and eat.」"
   },
   {
     "name": "Lolotte",
@@ -586,7 +586,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Ufufufu, don't worry, Misa―chan. Everything up to here was just the preamble. The main topic starts now―」"
+    "message": "「Ufufufu, don't worry, Misa-chan. Everything up to here was just the preamble. The main topic starts now--」"
   },
   {
     "name": "Melilot",
@@ -694,7 +694,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Lolotte",
@@ -718,7 +718,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
@@ -798,7 +798,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Nanaka",
@@ -838,11 +838,11 @@
   },
   {
     "name": "Shio",
-    "message": "「……!!」"
+    "message": "「...!!」"
   },
   {
     "name": "Nanaka",
-    "message": "「……!?」"
+    "message": "「...!?」"
   },
   {
     "name": "Helena",
@@ -858,7 +858,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -910,7 +910,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Lord Demon King, a laser pointer's aimed at you」"
+    "message": "「Lord Demon Lord, a laser pointer's aimed at you」"
   },
   {
     "name": "Helena",
@@ -926,7 +926,7 @@
   },
   {
     "name": "Misa",
-    "message": "「P-Paqy just called him Lord Demon King...」"
+    "message": "「P-Paqy just called him Lord Demon Lord...」"
   },
   {
     "name": "Synn",
@@ -1103,7 +1103,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -1178,7 +1178,7 @@
   },
   {
     "name": "Misa",
-    "message": "「――Don't touch me!!」"
+    "message": "「--Don't touch me!!」"
   },
   {
     "message": "My hands were slapped away."
@@ -1197,11 +1197,11 @@
   },
   {
     "name": "Misa",
-    "message": "「To think Sakura-kun was the Demon King...! You hid it until this very moment!? Ever since we first met!?」"
+    "message": "「To think Sakura-kun was the Demon Lord...! You hid it until this very moment!? Ever since we first met!?」"
   },
   {
     "name": "Synn",
-    "message": "「N-No! I only found out that I was the Demon King pretty recently!」"
+    "message": "「N-No! I only found out that I was the Demon Lord pretty recently!」"
   },
   {
     "name": "Misa",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Why would you keep something so important... In the end, you didn't trust me――」"
+    "message": "「Why would you keep something so important... In the end, you didn't trust me--」"
   },
   {
     "name": "Misa",
@@ -1245,7 +1245,7 @@
   },
   {
     "name": "Synn",
-    "message": "「But if you found out I was the Demon King... I was terrified to even imagine what would happen to the relationship we'd worked so hard to build」"
+    "message": "「But if you found out I was the Demon Lord... I was terrified to even imagine what would happen to the relationship we'd worked so hard to build」"
   },
   {
     "name": "Misa",
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Because you hated demons so much without even knowing what the Demon King was really like...」"
+    "message": "「Because you hated demons so much without even knowing what the Demon Lord was really like...」"
   },
   {
     "name": "Synn",
@@ -1324,7 +1324,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -1344,15 +1344,15 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -1372,7 +1372,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -1406,7 +1406,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -1434,7 +1434,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Paqy",
@@ -1454,7 +1454,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",

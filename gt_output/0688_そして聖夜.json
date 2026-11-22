@@ -7,31 +7,31 @@
     "message": "「Hah, hah, hah! Re... Re-Crea's power disappeared?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Th-This is...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I see... I was... by Re-Crea...」"
   },
   {
     "name": "Synn",
-    "message": "「V-Virus...?」"
+    "message": "「V-Bylous...?」"
   },
   {
-    "name": "Virus",
-    "message": "「...Impressive, Demon King. It's your win」"
+    "name": "Bylous",
+    "message": "「...Impressive, Demon Lord. It's your win」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
     "message": "「It wasn't just me. It's everyone's victory」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Hmph... Not finishing me off is also your group's will... is that it?」"
   },
   {
@@ -39,11 +39,11 @@
     "message": "「That's right」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I see... You're a soft bunch. Still, I thank you for saving me」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「If I can be pushed around by that level of power, I suppose I'm still far too inexperienced」"
   },
   {
@@ -51,7 +51,7 @@
     "message": "「Now that Re-Crea is gone, you're back to normal. You look good, like a weight's been lifted off you」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...Even if it has, it's still not over」"
   },
   {
@@ -63,7 +63,7 @@
     "message": "「No, it has safely come to an end. However, Re-Crea is something that returns again. Even after it passes, it will reappear」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You people accomplished your goal and brought it to a close. However, my wish still hasn't been granted. It isn't over」"
   },
   {
@@ -71,15 +71,15 @@
     "message": "「Your...?」"
   },
   {
-    "name": "Virus",
-    "message": "「A match with the Demon King」"
+    "name": "Bylous",
+    "message": "「A match with the Demon Lord」"
   },
   {
     "name": "Synn",
     "message": "「Don't tell me that means... fighting me again--」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Yeah, a rematch. One-on-one this time... Definitely, in the near future」"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Bring it on, Virus! I'll take you on as many times as it takes. It's a match with Sakura-kun!」"
+    "message": "「Bring it on, Bylous! I'll take you on as many times as it takes. It's a match with Sakura-kun!」"
   },
   {
     "name": "Synn",
@@ -108,7 +108,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -119,7 +119,7 @@
     "message": "「Yes! That's the spirit!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「The aftermath of Re-Crea still lingers... Train yourself before our next encounter.」"
   },
   {
@@ -127,7 +127,7 @@
     "message": "「Yeah, got it.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Farewell, then.」"
   },
   {
@@ -139,7 +139,7 @@
     "message": "「Azel?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Have you come to mock me, Vessel of the Great Dream?」"
   },
   {
@@ -147,7 +147,7 @@
     "message": "「Take this.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「...What is that?」"
   },
   {
@@ -155,15 +155,15 @@
     "message": "「This is something from the Human World called tonjiru. You should eat some before you go.」"
   },
   {
-    "name": "Virus",
-    "message": "「……」"
+    "name": "Bylous",
+    "message": "「...」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Haha, very well! Let's eat!」"
   },
   {
@@ -225,10 +225,10 @@
   },
   {
     "name": "Riesling",
-    "message": "「Please leave the bass part to this humble Riesling Tohyama」"
+    "message": "「Please leave the bass part to this humble Riesling Tooyama」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「I'm dedicating my love song to Pasta-chan!!」"
   },
   {
@@ -245,14 +245,14 @@
   },
   {
     "name": "Helena",
-    "message": "「What do you say, Virus? Care to join them?」"
+    "message": "「What do you say, Bylous? Care to join them?」"
   },
   {
     "name": "Melilot",
     "message": "「There is no way this man would ever do such a thing」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Same goes for you」"
   },
   {

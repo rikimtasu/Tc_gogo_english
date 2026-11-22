@@ -87,12 +87,12 @@
     "message": "「Anyway... okay? Stop crying--」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Sniff, sob... Shut up, old hag!!」"
   },
   {
     "name": "Ria",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -116,10 +116,10 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Well, well, Ardin-san. Did you come back to get beaten up again without learning your lesson?」"
+    "message": "「Well, well, Arden-san. Did you come back to get beaten up again without learning your lesson?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「*Hic*, *sniff*... ngh. I lost... There's no making excuses for it now」"
   },
   {
@@ -131,7 +131,7 @@
     "message": "「First of all, why did you attack us in the first place?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Since when do you need a reason to fight?」"
   },
   {
@@ -139,7 +139,7 @@
     "message": "「Well, you're one of the Seven Demon Generals, so don't you have some strong convictions?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「W-Well... I wouldn't say I don't...」"
   },
   {
@@ -147,7 +147,7 @@
     "message": "「Yeah, I knew it. As expected of one of the Seven Demon Generals, you're totally different from other demons.」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「S-Stop it, you\\s03」"
   },
   {
@@ -155,18 +155,18 @@
     "message": "「Just the other day, I met another one of the Seven Demon Generals, and they gave off the same kind of vibe.」"
   },
   {
-    "name": "Ardin",
-    "message": "「N-No way, was it Soltia or Virus...? If it was, heh. Well, that's not bad at all.」"
+    "name": "Arden",
+    "message": "「N-No way, was it Soltia or Bylous...? If it was, heh. Well, that's not bad at all.」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "I don't know who they are, but it's probably best not to mention it was Eauderourke."
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「You're--uhh...」"
   },
   {
@@ -174,7 +174,7 @@
     "message": "「Ah, I'm Synn Sakura, the Student Council President.」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「O-Oh, right. In deference to your spirit as president, I'll tell you all about my magnificent convictions.」"
   },
   {
@@ -182,7 +182,7 @@
     "message": "「Ooh~」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Word has it that you guys in the Student Council have been bullying a certain girl.」"
   },
   {
@@ -194,7 +194,7 @@
     "message": "「Who on earth could it be? Someone who would do such a wicked thing!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Apparently they're working her to the bone at some shop called Prier.」"
   },
   {
@@ -202,7 +202,7 @@
     "message": "「At Prier...?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「And on top of that, seems like you lot became Crusaders and have been getting in the way all over the place.」"
   },
   {
@@ -210,15 +210,15 @@
     "message": "「You make it sound as though we're the villains here.」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Which is why I've stepped up like this to protect that girl!!」"
   },
   {
     "name": "Lolotte",
-    "message": "「And what exactly are you to this girl, Mr. Ardin?」"
+    "message": "「And what exactly are you to this girl, Mr. Arden?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「W-Well, that's... S-Stop it\\s03 That's embarrassing, y'know?」"
   },
   {
@@ -226,7 +226,7 @@
     "message": "「Th-That's... plainly what they call unrequited love!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Idiot!! It's mutual, I tell ya!!」"
   },
   {
@@ -234,7 +234,7 @@
     "message": "「Whoa~~ How wonderful~~\\s04」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「I could die for that girl!!」"
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "name": "Synn",
-    "message": "「U―Um, hey, Lolotte―」"
+    "message": "「U-Um, hey, Lolotte--」"
   },
   {
     "name": "Lolotte",
@@ -257,7 +257,7 @@
     "message": "「I-I see... So that's the kind of thing Lolotte is into.」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Right? So, Student Council! Let me beat you nice and clean!」"
   },
   {
@@ -265,7 +265,7 @@
     "message": "「Unfortunately, we cannot do that.」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Please!! I'm begging you!! Groveling!!」"
   },
   {
@@ -273,7 +273,7 @@
     "message": "「Ew, so lame. You're one of the Seven Demon Generals, don't you have any pride?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Huh!? What was that!?」"
   },
   {
@@ -281,7 +281,7 @@
     "message": "「Well, well, if it isn't Ms. Extra.」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「O-Oh... What's this\\s03 Sh-She's kinda cute, ain't she...」"
   },
   {
@@ -297,7 +297,7 @@
     "message": "「That's right!! Losing your head over another girl--and a mere child like Bonus-san, no less--cheating is a crime!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Kuhah!! My bad, my bad. What's gotten into me, getting dazzled by a woman other than Pasta-chan」"
   },
   {
@@ -318,7 +318,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Both of you, stop!! Just now, Ardin said Pasta...」"
+    "message": "「Both of you, stop!! Just now, Arden said Pasta...」"
   },
   {
     "name": "Sally",
@@ -329,7 +329,7 @@
     "message": "「Pasta... san?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「You bet! When you talk about Pasta-chan, she's the idol of the Demon Generals. One of the Seven Demon Generals, just like me!」"
   },
   {
@@ -362,7 +362,7 @@
   },
   {
     "name": "Synn",
-    "message": "「So that means we got in Pasta's way, and Ardin got mad about it and attacked us」"
+    "message": "「So that means we got in Pasta's way, and Arden got mad about it and attacked us」"
   },
   {
     "name": "Pasta",
@@ -373,7 +373,7 @@
     "message": "「Pasta!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Uooooh, Pasta-chan! Could those bags be a homemade meal just for me?!」"
   },
   {
@@ -382,18 +382,18 @@
   },
   {
     "name": "Pasta",
-    "message": "「Wait, this is no time to be working seriously, nyan! Ardin!! What is the meaning of this, nya!!」"
+    "message": "「Wait, this is no time to be working seriously, nyan! Arden!! What is the meaning of this, nya!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「I came to beat up the Student Council for your sake, Pasta-chan!」"
   },
   {
     "name": "Lolotte",
-    "message": "「Though you're the one who got beaten up, Ardin-san」"
+    "message": "「Though you're the one who got beaten up, Arden-san」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Please! Keep that a secret!」"
   },
   {
@@ -401,7 +401,7 @@
     "message": "「You don't need to keep the fact that you're a demon a secret?」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Yeah, that part's okay!」"
   },
   {
@@ -409,39 +409,39 @@
     "message": "「That's the top-secret part, nya!!」"
   },
   {
-    "name": "Ardin",
-    "message": "「Huh……」"
+    "name": "Arden",
+    "message": "「Huh...」"
   },
   {
     "name": "Pasta",
-    "message": "「Idiot Ardin! Pasta went to all the trouble of sneaking in undercover…… All the patience up till now has gone down the drain, nyan!」"
+    "message": "「Idiot Arden! Pasta went to all the trouble of sneaking in undercover... All the patience up till now has gone down the drain, nyan!」"
   },
   {
-    "name": "Ardin",
-    "message": "「I see, Pasta-chan……. It's all the Student Council's fault, isn't it」"
+    "name": "Arden",
+    "message": "「I see, Pasta-chan.... It's all the Student Council's fault, isn't it」"
   },
   {
     "name": "Pasta",
     "message": "「It's your fault for being way too stupid, nya!!」"
   },
   {
-    "name": "Ardin",
-    "message": "「D-Don't say something so cruel～～\\s06」"
+    "name": "Arden",
+    "message": "「D-Don't say something so cruel~~\\s06」"
   },
   {
     "name": "Pasta",
-    "message": "「The operation is a failure now, nyan!! All the hard work up till now is ruined, nyan! Mooo～～～ At this rate, Virus-nyama is going to hate me, nyan!」"
+    "message": "「The operation is a failure now, nyan!! All the hard work up till now is ruined, nyan! Mooo~~~ At this rate, Bylous-nyama is going to hate me, nyan!」"
   },
   {
-    "name": "Ardin",
-    "message": "「B-Virus, you say?! I'm way cooler than a guy like him!?」"
+    "name": "Arden",
+    "message": "「B-Bylous, you say?! I'm way cooler than a guy like him!?」"
   },
   {
     "name": "Pasta",
-    "message": "「Idiot Ardin!! Idiot Ardin!! Virus-nyama is obviously the best, nyan!!」"
+    "message": "「Idiot Arden!! Idiot Arden!! Bylous-nyama is obviously the best, nyan!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Uooooh, stop calling me an idiot!」"
   },
   {
@@ -450,23 +450,23 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Hmm, hmm…… This is what they call a pair of lovey-dovey idiots\\s04」"
+    "message": "「Hmm, hmm... This is what they call a pair of lovey-dovey idiots\\s04」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「S-Stop it, you\\s03」"
   },
   {
     "name": "Pasta",
-    "message": "「We are definitely not a couple, nya!! Pasta's maiden heart is already battered to pieces, nya……」"
+    "message": "「We are definitely not a couple, nya!! Pasta's maiden heart is already battered to pieces, nya...」"
   },
   {
     "name": "Pasta",
     "message": "「I'm quitting Prier already, nya!!」"
   },
   {
-    "name": "Ardin",
-    "message": "「N-No way…… Reconsider! I want to see more of Pasta-chan in her waitress outfit!」"
+    "name": "Arden",
+    "message": "「N-No way... Reconsider! I want to see more of Pasta-chan in her waitress outfit!」"
   },
   {
     "name": "Pasta",
@@ -478,10 +478,10 @@
   },
   {
     "name": "Pasta",
-    "message": "「All-out attack on Ardin, nya!!」"
+    "message": "「All-out attack on Arden, nya!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「W-Whoa! S-Stop it--!」"
   },
   {
@@ -490,7 +490,7 @@
   },
   {
     "name": "Synn",
-    "message": "「What kind of 'and so' is that……」"
+    "message": "「What kind of 'and so' is that...」"
   },
   {
     "name": "Lolotte",
@@ -502,7 +502,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Commanding that many Demons…… She really was a Demon General……」"
+    "message": "「Commanding that many Demons... She really was a Demon General...」"
   },
   {
     "name": "Lolotte",
@@ -514,15 +514,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「That is, surely…… love!」"
+    "message": "「That is, surely... love!」"
   },
   {
     "name": "Synn",
-    "message": "「L-Love……?」"
+    "message": "「L-Love...?」"
   },
   {
     "name": "Lolotte",
-    "message": "「For Lord Virus-nyama, like whether she loves him or hates him」"
+    "message": "「For Bylous-nyama-nyama, like whether she loves him or hates him」"
   },
   {
     "name": "Synn",
@@ -530,14 +530,14 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It's what you call a love romance……\\s04」"
+    "message": "「It's what you call a love romance...\\s04」"
   },
   {
     "message": "W-What's going on. Lolotte has been super interested in love affairs for a while now."
   },
   {
-    "name": "Ardin",
-    "message": "「Ugh…… That was awful……」"
+    "name": "Arden",
+    "message": "「Ugh... That was awful...」"
   },
   {
     "name": "Lolotte",
@@ -548,23 +548,23 @@
     "message": "「Pfft, how uncool~」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Shut up! Shut up! Shut up!」"
   },
   {
-    "name": "Ardin",
-    "message": "「Damn it. To think she'd be head over heels for a guy like that……」"
+    "name": "Arden",
+    "message": "「Damn it. To think she'd be head over heels for a guy like that...」"
   },
   {
-    "name": "Ardin",
-    "message": "「Still, with that guy, looks are about the only thing he's got me beat on…… Tch! How am I supposed to get Pasta-chan to turn her head my way!?」"
+    "name": "Arden",
+    "message": "「Still, with that guy, looks are about the only thing he's got me beat on... Tch! How am I supposed to get Pasta-chan to turn her head my way!?」"
   },
   {
     "name": "Synn",
     "message": "「Well, cheer up already」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Oh! Right! I've got you!!」"
   },
   {
@@ -572,16 +572,16 @@
     "message": "「Huh?」"
   },
   {
-    "name": "Ardin",
-    "message": "「Heh heh heh. If these guys pitch in, I might even be able to beat that Virus to a pulp」"
+    "name": "Arden",
+    "message": "「Heh heh heh. If these guys pitch in, I might even be able to beat that Bylous to a pulp」"
   },
   {
     "name": "Synn",
     "message": "「U-Um...」"
   },
   {
-    "name": "Ardin",
-    "message": "「Thanks for cheering me up! In return for that kindness, I, the lone wolf Ardin, will lend you guys a hand!」"
+    "name": "Arden",
+    "message": "「Thanks for cheering me up! In return for that kindness, I, the lone wolf Arden, will lend you guys a hand!」"
   },
   {
     "name": "Synn",
@@ -592,7 +592,7 @@
     "message": "「Truly, this is the power of love!!」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「I-In exchange, though! When I'm in a pinch, you'd better come save me, got it?!」"
   },
   {
@@ -608,11 +608,11 @@
     "message": "「Then it'll depend on the time and place」"
   },
   {
-    "name": "Ardin",
+    "name": "Arden",
     "message": "「Yeah, looking forward to working with you!」"
   },
   {
-    "message": "Ardin joined the party!"
+    "message": "Arden joined the party!"
   },
   {
     "name": "Helena",
@@ -640,7 +640,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Helena",

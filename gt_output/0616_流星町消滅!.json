@@ -115,7 +115,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Could this possibly be……」"
+    "message": "「Could this possibly be...」"
   },
   {
     "name": "Synn",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Helena",
-    "message": "「I've been waiting for you, members of the Student Cou――」"
+    "message": "「I've been waiting for you, members of the Student Cou--」"
   },
   {
     "name": "Misa",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Kh…… I only lost because my house is farther away!」"
+    "message": "「Kh... I only lost because my house is farther away!」"
   },
   {
     "name": "Sally",
@@ -242,7 +242,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Preparing for battle? To cast some grand magic... No, judging by this circle's accumulation efficiency and the time passed, the amount of magical energy should already be dangerous for the caster.」"
+    "message": "「Preparing for battle? To cast grand magic... No, judging by this circle's efficiency and elapsed time, the accumulated mana should already be dangerous for the caster.」"
   },
   {
     "name": "Lolotte",
@@ -250,7 +250,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「There's a limit to how much magical energy any Demon can handle. Too much stored up is dangerous... Even if it were a forbidden spell, she should've had enough for the spark ages ago...」"
+    "message": "「There's a limit to how much mana any demon can handle. Too much stored up is dangerous... Even for a forbidden spell, she should've had enough for the spark ages ago...」"
   },
   {
     "name": "Paqy",
@@ -313,7 +313,7 @@
     "message": "「Hyoeeeeeh! The Subaru house is gonna disappear!」"
   },
   {
-    "message": "Is this what Virus warned me to watch out for?"
+    "message": "Is this what Bylous warned me to watch out for?"
   },
   {
     "name": "Paqy",
@@ -371,11 +371,11 @@
   },
   {
     "name": "Ria",
-    "message": "「Times like this are when I really wish the Demon King would show up...」"
+    "message": "「Times like this are when I really wish the Demon Lord would show up...」"
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Finis Tower is drawing closer."
@@ -384,14 +384,14 @@
     "message": "I have to steel my resolve."
   },
   {
-    "message": "I'm sure we won't be able to beat the enemy waiting ahead unless I use the Demon King's full power."
+    "message": "I'm sure we won't be able to beat the enemy waiting ahead unless I use the Demon Lord's full power."
   },
   {
     "message": "Even if everyone calls me a traitor afterward."
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Even if Nanaka looks at me with fear in her eyes."
@@ -438,7 +438,7 @@
     "message": "「Even if she's a Demon General, she's still an idiot, isn't she?」"
   },
   {
-    "message": "That was probably because Virus was around until this morning."
+    "message": "That was probably because Bylous was around until this morning."
   },
   {
     "name": "Misa",
@@ -450,7 +450,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「The more powerful the magic, the more time and effort it takes to cast. If she gets attacked mid-cast and the sequence is interrupted, worst-case scenario, she has to start all over from scratch.」"
+    "message": "「The stronger the magic, the more time and effort it takes to cast. If she's attacked mid-cast and the sequence is interrupted, worst case, she has to start over from scratch.」"
   },
   {
     "name": "Paqy",
@@ -478,7 +478,7 @@
     "message": "Long-range attacker Misa and healer Lolotte take the rear guard."
   },
   {
-    "message": "Our defensive linchpin Leah-senpai, along with Nanaka and me as the offensive core, take the vanguard."
+    "message": "Our defensive linchpin Ria-senpai, along with Nanaka and me as the offensive core, take the vanguard."
   },
   {
     "message": "And Sally-chan acts as a flying reserve unit in the air."
@@ -489,10 +489,10 @@
   },
   {
     "name": "Synn",
-    "message": "「Sengenin-sensei...!?」"
+    "message": "「Sengen'in-sensei...!?」"
   },
   {
-    "message": "Sengenin-sensei--no, Soltia--was standing in the center of the plaza, floating roughly thirty centimeters off the ground."
+    "message": "Sengen'in-sensei--no, Soltia--was standing in the center of the plaza, floating roughly thirty centimeters off the ground."
   },
   {
     "message": "The faint light radiating from beneath her skin was likely from the magic power built up near critical levels."
@@ -507,7 +507,7 @@
     "message": "I glanced over at my comrades."
   },
   {
-    "message": "At Leah-senpai, at Misa, at Lolotte, at Sally-chan,"
+    "message": "At Ria-senpai, at Misa, at Lolotte, at Sally-chan,"
   },
   {
     "message": "And at Nanaka."
@@ -516,7 +516,7 @@
     "message": "Nanaka, who might be afraid of demons."
   },
   {
-    "message": "Nanaka, who might come to fear me if she found out I was a demon--and the Demon King, at that."
+    "message": "Nanaka, who might come to fear me if she found out I was a demon--and the Demon Lord, at that."
   },
   {
     "message": "That glance might have been hesitation. No, it was hesitation."
@@ -602,11 +602,11 @@
   },
   {
     "name": "Ria",
-    "message": "「Nanaka―chan, you should step back―」"
+    "message": "「Nanaka-chan, you should step back--」"
   },
   {
     "name": "Nanaka",
-    "message": "「I can't! I―I have to―」"
+    "message": "「I can't! I-I have to--」"
   },
   {
     "name": "Misa",
@@ -865,7 +865,7 @@
     "message": "Even so, with my power, I can't even break these bindings."
   },
   {
-    "message": "Not with the power I have now. Not with the incomplete power of the Demon King."
+    "message": "Not with the power I have now. Not with the incomplete power of the Demon Lord."
   },
   {
     "message": "What would Nanaka think if she found out we were defeated in a place like this?"
@@ -892,7 +892,7 @@
     "message": "But I'm the one who kept quiet for far longer."
   },
   {
-    "message": "If I had told her first that I was the Demon King, Nanaka would have been able to open up about herself too."
+    "message": "If I had told her first that I was the Demon Lord, Nanaka would have been able to open up about herself too."
   },
   {
     "message": "Nanaka is probably blaming herself for her own cowardice."
@@ -913,7 +913,7 @@
     "message": "I can't say I know everything about them, but I know them."
   },
   {
-    "message": "I should have known they aren't the kind of people to change how they treat me, even if I am the Demon King."
+    "message": "I should have known they aren't the kind of people to change how they treat me, even if I am the Demon Lord."
   },
   {
     "message": "And yet I couldn't say it."
@@ -922,7 +922,7 @@
     "message": "Because I was scared of losing them."
   },
   {
-    "message": "I just assumed on my own that Nanaka was afraid of Demons and the Demon King."
+    "message": "I just assumed on my own that Nanaka was afraid of Demons and the Demon Lord."
   },
   {
     "message": "That was just an excuse for my own cowardice."
@@ -964,13 +964,13 @@
     "message": "That's part of it. Not just that."
   },
   {
-    "message": "The complete power of the Demon King?"
+    "message": "The complete power of the Demon Lord?"
   },
   {
     "message": "That's part of it. Not just that."
   },
   {
-    "message": "The powers of the Demon King and the Angel become one inside me."
+    "message": "The powers of the Demon Lord and the Angel become one inside me."
   },
   {
     "message": "What fills my body is the power of life."
@@ -1188,7 +1188,7 @@
     "message": "Through countless battles, we acquired this instinct naturally."
   },
   {
-    "message": "Our defensive linchpin Leah-senpai, along with Nanaka and me as the offensive core, take the vanguard."
+    "message": "Our defensive linchpin Ria-senpai, along with Nanaka and me as the offensive core, take the vanguard."
   },
   {
     "message": "Long-range attacker Misa and healer Lolotte take the rear guard."

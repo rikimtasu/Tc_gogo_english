@@ -11,7 +11,7 @@
     "message": "「It is futile.」"
   },
   {
-    "message": "Inside Finis Tower, my panicked shout and Melilot-san's utterly \\{cool-headed|れいり} voice echo back."
+    "message": "Inside Finis Tower, my panicked shout and Melilot-san's utterly cool-headed voice echo back."
   },
   {
     "message": "Yes. The voices are definitely hitting the wall surface and bouncing back. There's no way this is just ringing in my ears."
@@ -39,7 +39,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -96,7 +96,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Also, if possible, I'd like to look up whether they celebrate Nativity festivals or anything like that in the Principality of Sharo-Ma--do you happen to have any reference books on that?」"
+    "message": "「Also, if possible, I'd like to check whether they celebrate Nativity festivals in the Principality of Sharo-Ma--do you happen to have any reference books on that?」"
   },
   {
     "name": "Melilot",
@@ -225,7 +225,7 @@
     "message": "「...Understood. Then let the two of us go after him.」"
   },
   {
-    "message": "……。"
+    "message": "..."
   },
   {
     "message": "And so, without managing to find Azel, we ended up getting lost..."
@@ -244,11 +244,11 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Melilot",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "How long has it been since we started searching for Azel? I don't have a watch."
@@ -294,7 +294,7 @@
   },
   {
     "name": "Synn",
-    "message": "「E―even if you say that, I can't even see my own hands, let alone my feet―aaah!」"
+    "message": "「E-even if you say that, I can't even see my own hands, let alone my feet-aaah!」"
   },
   {
     "name": "Melilot",
@@ -333,11 +333,11 @@
   },
   {
     "name": "Synn",
-    "message": "「N―No, I couldn't help it―」"
+    "message": "「N-No, I couldn't help it--」"
   },
   {
     "name": "Melilot",
-    "message": "「E―Even with an excuse like that, your fingers are still moving―」"
+    "message": "「E-Even with an excuse like that, your fingers are still moving--」"
   },
   {
     "name": "Synn",
@@ -356,7 +356,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Huh? Aren't you the one running away, Melilot―san―」"
+    "message": "「Huh? Aren't you the one running away, Melilot-san--」"
   },
   {
     "name": "Melilot",

@@ -3,7 +3,7 @@
     "message": "セーフティ"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You have nowhere to return to, Executor」"
   },
   {
@@ -11,23 +11,23 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
     "message": "「I abandoned my homeland long ago」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Did something strange happen to your body when you were near Synn Sakura?」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
-    "message": "「Did your body move on its own  and try to kill that man?」"
+    "name": "Bylous",
+    "message": "「Did your body move on its own and try to kill that man?」"
   },
   {
     "name": "Azel",
@@ -37,7 +37,7 @@
     "message": "Azel whipped around as if jolted."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Just as I thought. It's only natural, given that you harbor Re-Crea within you」"
   },
   {
@@ -45,7 +45,7 @@
     "message": "「What did you say!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Re-Crea and the Demon Lord are opposing existences. It is their destiny to dance as fate guides them」"
   },
   {
@@ -53,7 +53,7 @@
     "message": "「......Since when?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I've been convinced that Synn Sakura is the Demon Lord for quite some time now」"
   },
   {
@@ -61,7 +61,7 @@
     "message": "「You were convinced!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「The Demon Lord is a being who attracts angels, demons, and humans alike, uniting them in cooperation」"
   },
   {
@@ -69,15 +69,15 @@
     "message": "「I've never heard of anything like that!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Because I never told you」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「And at the heart of these events was an organization where all three races naturally mingled, with Synn Sakura at its center」"
   },
   {
@@ -85,26 +85,26 @@
     "message": "「Then why didn't you kill that man before he awakened」"
   },
   {
-    "message": "Virus merely laughed in amusement."
+    "message": "Bylous merely laughed in amusement."
   },
   {
     "name": "Azel",
     "message": "「Were you waiting for him to awaken!」"
   },
   {
-    "name": "Virus",
-    "message": "「You intend to destroy everything in accordance with God's will, don't you?  Whether destruction comes sooner or later is a trivial difference」"
+    "name": "Bylous",
+    "message": "「You intend to destroy everything in accordance with God's will, don't you? Whether destruction comes sooner or later is a trivial difference」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
     "message": "「Then you won't mind if I destroy you right here, will you」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「If you think you can」"
   },
   {
@@ -122,7 +122,7 @@
     "message": "Azel immediately cried out in pain and crouched down."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Does that mean a weapon cannot be used against its wielder's will?」"
   },
   {
@@ -130,7 +130,7 @@
     "message": "「What?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「To begin with, your Spirit Power capacity is abnormal. Ordinarily, it's impossible. Am I overthinking things to sense God's design behind it?」"
   },
   {
@@ -138,7 +138,7 @@
     "message": "「Are you saying I... I am nothing more than a weapon prepared by God?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It's a possibility.」"
   },
   {
@@ -153,8 +153,8 @@
     "message": "「Not harming you is... the Lord's will...? Impossible...」"
   },
   {
-    "name": "Virus",
-    "message": "「I am the Demon King's enemy.」"
+    "name": "Bylous",
+    "message": "「I am the Demon Lord's enemy.」"
   },
   {
     "message": "Azel's eyes went wide."
@@ -164,7 +164,7 @@
     "message": "「Are you saying my will was not in accordance with the Lord's?!」"
   },
   {
-    "message": "Virus didn't answer, turning to walk toward the park exit."
+    "message": "Bylous didn't answer, turning to walk toward the park exit."
   },
   {
     "name": "Azel",
@@ -174,7 +174,7 @@
     "message": "The departing figure stopped and looked back."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Then stay with me until the very end. All the way to the brink of ruin.」"
   }
 ]

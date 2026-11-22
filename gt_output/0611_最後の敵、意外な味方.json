@@ -3,27 +3,27 @@
     "message": "最後の敵、意外な味方"
   },
   {
-    "message": "In the midst of a fierce, grueling battle where blinding light scorched the flesh――"
+    "message": "In the midst of a fierce, grueling battle where blinding light scorched the flesh--"
   },
   {
     "message": "At last, an opening appears."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Right there!!」"
   },
   {
-    "message": "First strike--Virus swings his iron fist."
+    "message": "First strike--Bylous swings his iron fist."
   },
   {
-    "message": "Amid a deafening roar and white light, Virus and I swap places."
+    "message": "Amid a deafening roar and white light, Bylous and I swap places."
   },
   {
     "name": "Azel",
     "message": "「Die! Die!」"
   },
   {
-    "message": "In an instant, Virus darts forward as if flying!"
+    "message": "In an instant, Bylous darts forward as if flying!"
   },
   {
     "message": "Picturing the trajectory of death hurtling toward me, I thrust out a fist packed with everything I have to deflect its vector."
@@ -49,13 +49,13 @@
     "message": "「I-Impossible!」"
   },
   {
-    "message": "Virus's fist had pierced right through the warped space surrounding Azel and landed squarely on her left flank."
+    "message": "Bylous's fist had pierced right through the warped space surrounding Azel and landed squarely on her left flank."
   },
   {
     "message": "Her petite body is blown backward without a sound."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You are no warrior. Just a little girl swinging around infinite power at random. How boring.」"
   },
   {
@@ -84,7 +84,7 @@
     "message": "It won't reach her. My voice won't reach Azel."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Proxy. Another crack has formed in your vessel. In that state, even if you manage to destroy us, can you withstand Re-Crea?」"
   },
   {
@@ -102,7 +102,7 @@
     "message": "「Azel?!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「She merely warped space and disappeared inside it.」"
   },
   {
@@ -110,10 +110,10 @@
     "message": "「Just like Re-Crea. God's Proxy, alright.」"
   },
   {
-    "message": "Virus turned to face me."
+    "message": "Bylous turned to face me."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You truly are the Demon Lord. Synn Sakura」"
   },
   {
@@ -121,11 +121,11 @@
     "message": "「How do you know my name!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Asking even me for help on the spur of the moment and pulling it off. Only the Demon Lord could do that」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, you are lacking. Lacking to be the Demon Lord who is both my enemy and my dream」"
   },
   {
@@ -136,7 +136,7 @@
     "message": "That was one of the very things I had wanted to ask Melilot-san."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Accept it. Completely. That you are the Demon Lord. Something is holding that back」"
   },
   {
@@ -144,7 +144,7 @@
     "message": "「Something?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「If I knew, I would tell you. If I could, I would have done so, and in fact, I have taken every measure I possibly could up until now. Yet, I do not know what that something is」"
   },
   {
@@ -152,11 +152,11 @@
     "message": "「...Taken every measure?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Little time remains until Re-Crea. Realize it for yourself before then」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Otherwise, my dream will not be fulfilled, and on December 24 by your world's calendar, the world will collapse. That is all」"
   },
   {
@@ -164,15 +164,15 @@
     "message": "「The world will collapse!?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Become the complete Demon Lord before then. I will be looking forward to it」"
   },
   {
-    "message": "Virus laughed and melted away into the darkness."
+    "message": "Bylous laughed and melted away into the darkness."
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "I was left behind with Melilot-san, who was still unconscious."
@@ -228,7 +228,7 @@
   },
   {
     "name": "Helena",
-    "message": "「I see……」"
+    "message": "「I see...」"
   },
   {
     "name": "Helena",
@@ -250,14 +250,14 @@
     "message": "「Yes, ma'am」"
   },
   {
-    "message": "I recounted everything, starting from how Melilot-san had already collapsed when I rushed onto the scene, through my battle with Azel, Virus's sudden appearance, and finally Azel's retreat."
+    "message": "I recounted everything, from finding Melilot-san already collapsed when I arrived, through my battle with Azel, Bylous's sudden appearance, and Azel's retreat."
   },
   {
     "message": "I glossed over the part about him being the Demon Lord. I felt guilty about it."
   },
   {
     "name": "Helena",
-    "message": "「……I see」"
+    "message": "「...I see」"
   },
   {
     "name": "Riesling",
@@ -288,7 +288,7 @@
   },
   {
     "name": "Synn",
-    "message": "「If you want to thank someone, thank Virus. I――」"
+    "message": "「If you want to thank someone, thank Bylous. I--」"
   },
   {
     "name": "Helena",
@@ -304,7 +304,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "Because I'm the Demon Lord. Still, why would he need to save the Demon Lord?"
@@ -319,7 +319,7 @@
   },
   {
     "name": "Helena",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Riesling",
@@ -327,7 +327,7 @@
   },
   {
     "name": "Helena",
-    "message": "「*Sigh*……」"
+    "message": "「*Sigh*...」"
   },
   {
     "name": "Helena",
@@ -335,7 +335,7 @@
   },
   {
     "name": "Synn",
-    "message": "「……Understood.」"
+    "message": "「...Understood.」"
   },
   {
     "name": "Helena",

@@ -101,6 +101,8 @@ class MipsAsm:
     def _encode(self, va: int, m: str, ops: list[str]) -> int:
         if m == "nop":
             return 0
+        if m == ".word":
+            return _imm(ops[0]) & 0xFFFFFFFF
         if m == "move":
             return _enc_r(_r(ops[1]), 0, _r(ops[0]), 0, 0x21)  # addu rd, rs, $zero
         if m == "li":

@@ -68,7 +68,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「There are still five classes that haven't submitted their school subsidy applications. Let's confiscate their budgets and redirect them elsewhere. And then lower the price of the sweets buffet...」"
+    "message": "「Five classes still haven't submitted their school subsidy applications. Let's confiscate their budgets, redirect them elsewhere, and lower the price of the sweets buffet...」"
   },
   {
     "name": "Misa",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Ria",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Ria",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Even though you're a born-and-bred Ryusei local」"
+    "message": "「Even though you're a born-and-bred Ryuusei local」"
   },
   {
     "name": "Misa",
@@ -498,7 +498,7 @@
   },
   {
     "name": "Ria",
-    "message": "「I think Japanese sweets are delicious too, though……」"
+    "message": "「I think Japanese sweets are delicious too, though...」"
   },
   {
     "name": "Sally",
@@ -514,7 +514,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「……J-Just as delicious?」"
+    "message": "「...J-Just as delicious?」"
   },
   {
     "name": "Sally",
@@ -522,7 +522,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Just as delicious……」"
+    "message": "「Just as delicious...」"
   },
   {
     "name": "Ria",
@@ -534,7 +534,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Synn",
@@ -546,7 +546,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I-I see……」"
+    "message": "「I-I see...」"
   },
   {
     "name": "Lolotte",
@@ -566,7 +566,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Amazing…… you say……」"
+    "message": "「Amazing... you say...」"
   },
   {
     "name": "Ria",
@@ -590,7 +590,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -757,6 +757,6 @@
     "message": "「That's right! We've gotta do Student Council work \\{too|\\s12}!」"
   },
   {
-    "message": "『Too,' huh..."
+    "message": "'Too,' huh..."
   }
 ]

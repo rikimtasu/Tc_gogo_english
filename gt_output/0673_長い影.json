@@ -10,7 +10,7 @@
     "message": "After muttering that under my breath, I glance around. Fortunately, the lunchtime clamor drowned it out, and my voice didn't seem to reach anyone's ears."
   },
   {
-    "message": "Sitting at a table all by myself. The coffee shows no sign of going down. I tried bending my principles as a dedicated tea drinker and ordered coffee for a change of pace, but it doesn't look like things are going to be that simple."
+    "message": "Sitting alone at a table, my coffee isn't going down at all. I bent my principles as a tea lover and ordered coffee for a change of pace, but things aren't that simple."
   },
   {
     "name": "Misa",
@@ -20,7 +20,7 @@
     "message": "Progress is sluggish. I rack my brains with my lyric notebook in hand."
   },
   {
-    "message": "I have mountains of work to do as Student Council Vice President, yet with everything waiting on paperwork and confirmations, my hands are free at the moment. There's no reason not to put this free time toward writing lyrics."
+    "message": "I have mountains of work as Vice-President, yet with everything waiting on paperwork and confirmations, my hands are free. No reason not to spend this time writing lyrics."
   },
   {
     "message": "I've heard there are plenty of writers out there who come up with ideas at family restaurants. I came here hoping some of that luck would rub off on me, too."
@@ -80,7 +80,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Nanaka",
@@ -103,7 +103,7 @@
     "message": "I have plenty to back up my confidence too, you know!"
   },
   {
-    "message": "No matter the romance novel, just picturing the story in your head is meaningless. Unless you actually put it down into writing, it isn't a story or anything else--it's nothing more than a daydream."
+    "message": "No matter the romance novel, just picturing the story in your head is meaningless. Unless you put it in writing, it's not a story at all--it's nothing more than a daydream."
   },
   {
     "message": "And a song is no different!"
@@ -275,7 +275,7 @@
     "message": "After school. Even after it came to light that Sakura-kun was the Demon Lord, Student Council activities went on just as usual."
   },
   {
-    "message": "Rather, what had changed was the relationship between Sakura-kun and me. No matter what we tried to talk about, things got awkward between us, and we couldn't coordinate properly as president and vice president."
+    "message": "Rather, what changed was my relationship with Sakura-kun. Whatever we try to talk about turns awkward, and we can't coordinate properly as president and vice-president."
   },
   {
     "name": "Nanaka",
@@ -305,16 +305,16 @@
     "message": "...Sakura-kun demonstrated tremendous concentration, fulfilling his duties as president in a short amount of time."
   },
   {
-    "message": "And then, after giving us the necessary instructions, he headed off to Melilot―san's place to hone his magic―his powers as the Demon Lord."
+    "message": "And then, after giving us the necessary instructions, he headed off to Melilot-san's place to hone his magic-his powers as the Demon Lord."
   },
   {
-    "message": "『Let's go peek in on Synn on the sly and tease him!』"
+    "message": "'Let's go peek in on Synn on the sly and tease him!'"
   },
   {
     "message": "Nanaka-san suggested that, and without even waiting for my reply, she took my hand and left the Student Council room."
   },
   {
-    "message": "『When the Student Council President is away, I, the Vice President, can't go abandoning my post too!』"
+    "message": "'When the Student Council President is away, I, the Vice President, can't go abandoning my post too!'"
   },
   {
     "message": "...Such theoretical defenses crumbled all too easily before Onee-sama's smile and nod. I see--everyone is rooting for Nanaka-san and Sakura-kun's relationship too."
@@ -336,11 +336,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Look, Misa... there's no need to beat yourself up just because Synn's the Demon King.」"
+    "message": "「Look, Misa... there's no need to beat yourself up just because Synn's the Demon Lord.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Demon King or whatever else, Synn is still Synn!」"
+    "message": "「Demon Lord or whatever else, Synn is still Synn!」"
   },
   {
     "message": "Just as I thought."
@@ -349,14 +349,14 @@
     "message": "Everyone is worried about Sakura-kun and me."
   },
   {
-    "message": "Feeling that most strongly of all, Nanaka-san had shown me Sakura-kun in his Demon King form first, and was now trying to talk things through with me."
+    "message": "Feeling that most strongly of all, Nanaka-san had shown me Sakura-kun in his Demon Lord form first, and was now trying to talk things through with me."
   },
   {
     "message": "Going so far as to throw herself into searching the entire academy until her legs were ready to give out."
   },
   {
     "name": "Nanaka",
-    "message": "「I bet part of why he kept the Demon King thing a secret was the balance between the Student Council and the Crusaders, you know?」"
+    "message": "「I bet part of why he kept the Demon Lord thing a secret was the balance between the Student Council and the Crusaders, you know?」"
   },
   {
     "name": "Nanaka",
@@ -376,7 +376,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「He didn't know anything about Helena-san's role, right? It's only natural he'd be scared that if his identity as the Demon King got out, he wouldn't just be removed as president--he might even get expelled.」"
+    "message": "「He didn't know about Helena-san's role, right? Naturally he'd be scared that if his Demon Lord identity got out, he wouldn't just be removed as president--he might be expelled.」"
   },
   {
     "name": "Nanaka",
@@ -388,7 +388,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Misa",
@@ -400,11 +400,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「B―But since that night, things have been super awkward between you and Synn―」"
+    "message": "「B-But since that night, things have been super awkward between you and Synn--」"
   },
   {
     "name": "Nanaka",
-    "message": "「Wait, whaaat?! Don't tell me you're just judging Demon King Synn without even giving him a chance!」"
+    "message": "「Wait, whaaat?! Don't tell me you're just judging Demon Lord Synn without even giving him a chance!」"
   },
   {
     "name": "Misa",
@@ -428,7 +428,7 @@
     "message": "Nanaka-san understands Sakura-kun this much. She even reaches out to me."
   },
   {
-    "message": "Even so, I didn't get closer to Sakura-kun. I didn't have the courage to take even a single step forward. To make matters worse, when he went out of his way to chase after me, I pushed him away."
+    "message": "Even so, I didn't get closer to Sakura-kun. I lacked the courage to take even one step forward--and worse yet, when he went out of his way to chase after me, I pushed him away."
   },
   {
     "name": "Nanaka",
@@ -458,7 +458,7 @@
   },
   {
     "name": "Misa",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Nanaka",

@@ -3,14 +3,14 @@
     "message": "目ん玉はつながってない"
   },
   {
-    "message": "Exams have wrapped up without a hitch, and the rankings are out. Everyone has mixed feelings, of course, but it's time to turn over a new leaf and give our all to preparing for the Holy Night Festival!"
+    "message": "Exams wrapped up without a hitch and the rankings are out. Everyone has mixed feelings, but it's time to turn the page and give our all preparing for the Holy Night Festival!"
   },
   {
     "name": "Sacchin",
     "message": "「Heading out somewhere~? Honyanya-no-nya~♪」"
   },
   {
-    "message": "Just as I'm psyching myself up inside, an airy, carefree voice comes zooming toward me from down the hall. Sacchin is riding a cleaning mop, deftly gliding from one corner of the corridor to the other."
+    "message": "Just as I psyche myself up, an airy, carefree voice zooms toward me down the hall. Sacchin is riding a cleaning mop, deftly gliding from one end of the corridor to the other."
   },
   {
     "name": "Synn",
@@ -109,10 +109,10 @@
   },
   {
     "name": "Sacchin",
-    "message": "「Hanya~n…… Thud」"
+    "message": "「Hanya~n... Thud」"
   },
   {
     "name": "Synn",
-    "message": "「Oh boy……」"
+    "message": "「Oh boy...」"
   }
 ]

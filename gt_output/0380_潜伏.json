@@ -8,13 +8,13 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "message": "Virus languidly opened his mouth."
+    "message": "Bylous languidly opened his mouth."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It has only been about ten days since we judged them to be no major threat, however.」"
   },
   {
@@ -34,15 +34,15 @@
     "message": "「Don't order Pasta around, nya!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Pasta. Just as you say, you might win if you tried again.」"
   },
   {
     "name": "Pasta",
-    "message": "「Then Lord Virus, nya, please give me one more chance, nya!」"
+    "message": "「Then Bylous-nyama, nya, please give me one more chance, nya!」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「However, if your subordinates are reduced any further, it will hinder the construction of the magic circle. Therefore, I cannot let you and your subordinates fight right now.」"
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "message": "After a silence tinged with hesitation, Azel spoke."
@@ -94,7 +94,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Soltia",
@@ -134,7 +134,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Soltia",
@@ -146,7 +146,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Pasta",
@@ -161,10 +161,10 @@
     "message": "「It seems there are no objections. Then tomorrow at the earliest--」"
   },
   {
-    "message": "Virus cuts in concisely."
+    "message": "Bylous cuts in concisely."
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「I object」"
   },
   {
@@ -172,7 +172,7 @@
     "message": "「I'd like to hear your reason」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Right now, what must be prioritized above all else is completing the magic circle. Am I wrong?」"
   },
   {
@@ -180,15 +180,15 @@
     "message": "「That's precisely why I'm stepping in, not Pasta」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You have the role of supervising the magic circle's placement. With only Pasta and his subordinates, it's doubtful they could build a magic circle that actually works」"
   },
   {
     "name": "Soltia",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Besides, how would we deal with enemies other than the Student Council? Right now, we cannot afford to lose you, Pasta, or his subordinates」"
   },
   {
@@ -196,7 +196,7 @@
     "message": "「When that happens, you can just step in yourself, can't you?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Having you attack the Student Council might be the enemy's exact goal」"
   },
   {
@@ -204,7 +204,7 @@
     "message": "「...Are you trying to say the Student Council is bait to lure us out?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「That possibility cannot be denied」"
   },
   {
@@ -212,7 +212,7 @@
     "message": "「So you're saying no hostile actions against the Student Council until the magic circle is complete?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「That's right. Once the magic circle is finished, we'll have plenty of combat strength to spare.」"
   },
   {
@@ -220,27 +220,27 @@
     "message": "「But what do we do if the Student Council interferes with building the magic circle?」"
   },
   {
-    "name": "Virus",
-    "message": "「We just need to get information on the Student Council's patrol times and routes so we can work while avoiding encounters. Fortunately, we even have a Student Council member right here.」"
+    "name": "Bylous",
+    "message": "「We just need the Student Council's patrol times and routes so we can work while avoiding them. Fortunately, we even have a Student Council member right here.」"
   },
   {
     "name": "Azel",
     "message": "「...Are you ordering me?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It's not an order, it's a suggestion. You shouldn't have any reason to object.」"
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
     "message": "「Understood.」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Pasta. Make sure everyone knows to retreat without fighting if they happen to run into the Student Council.」"
   },
   {
@@ -248,7 +248,7 @@
     "message": "「If we do that, everyone's morale will drop, nya...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「It won't drop any lower than it would from losing over and over. Besides, there's no need for your subordinates to get hurt needlessly anymore.」"
   },
   {
@@ -260,7 +260,7 @@
     "message": "「Then what are you going to do? Just leave them alone?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「No, I'll throw someone convenient at them.」"
   },
   {
@@ -268,8 +268,8 @@
     "message": "「Who?」"
   },
   {
-    "name": "Virus",
-    "message": "「I'll use Ardin.」"
+    "name": "Bylous",
+    "message": "「I'll use Arden.」"
   },
   {
     "name": "Soltia",
@@ -287,7 +287,7 @@
     "message": "「W-What is it, nya?」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「Pasta. You can get that man to move, can't you?」"
   },
   {
@@ -295,7 +295,7 @@
     "message": "「I don't wanna see him, nya...」"
   },
   {
-    "name": "Virus",
+    "name": "Bylous",
     "message": "「You're the only one I can ask to do this, Pasta.」"
   },
   {
@@ -303,7 +303,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「It's for Master Virus, nya! I'll do my best, nya!」"
+    "message": "「It's for Master Bylous, nya! I'll do my best, nya!」"
   },
   {
     "name": "Pasta",
@@ -335,7 +335,7 @@
   },
   {
     "name": "Azel",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Pasta",
@@ -347,11 +347,11 @@
   },
   {
     "name": "Pasta",
-    "message": "「...That's not true, nya! Lord Virus is...」"
+    "message": "「...That's not true, nya! Bylous-nyama is...」"
   },
   {
     "name": "Pasta",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Azel",
@@ -363,7 +363,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「When Lord Virus says things like 'I'm counting on you' or 'You're the only one I can ask,' nya, my heart just lights right up, nya. That alone makes me happy, nya.」"
+    "message": "「When Bylous-nyama says things like 'I'm counting on you' or 'You're the only one I can ask,' nya, my heart just lights right up, nya. That alone makes me happy, nya.」"
   },
   {
     "name": "Azel",
@@ -383,7 +383,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「……」"
+    "message": "「...」"
   },
   {
     "name": "Pasta",
