@@ -1,0 +1,579 @@
+[
+  {
+    "message": "天使は何語で喋るのか？"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san isn't here...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's weird. Normally, she'd be sitting right around here looking all imposing.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could she have gone to the restroom or something?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even so, she's taking way too long.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll say this to protect Melilot's dignity. That girl is in the toilet--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I wasn't doing anything of the sort, nor was I in the restroom.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, welcome back♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You must not take Helena's words at face value. Everything she says is completely groundless.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I hadn't even said anything yet~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Do you know the story of the boy who cried wolf? When it really matters, nobody's gonna believe you!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh dear, I'm getting lectured by my little sister.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem! I might be your little sister, but in front of everyone, I'm a proper upperclassman!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Grrr, only your boobs got proper! Outrageous! Simply outrageous!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No, aahn! Stop it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... so, what were you doing, Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A problem arose, so I was investigating the cause.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A problem...!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We have been destroying the magic circle since last night, but that did not go well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then does that mean Re-Crea can still be exploited?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please do not panic. Even if there is a problem, we simply need to resolve it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. So that's why you were looking into it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. It seems that in addition to magical power, the magic circle has been tampered with using Spirit Power to prevent its destruction」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If it's spiritual power, then one of the angels must have……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-It wasn't me, okay!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nobody said anything yet」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Furthermore, it is Spirit Power of the utmost purity, making it impossible to read even a summary of its structure」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So even if we want to unlock it, we can't do anything if we can't even see the keyhole」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Which brings us to the matter at hand. I would like to borrow your power, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really do suspect me after all～～!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is not the case, Lolotte. Only an angel can undo this」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How does it look……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm～～. I can see something faint and blurry, though……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Are you able to translate that into a language?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sorry…… Maybe because I played too many video games at the President's house, it seems my eyesight has gotten worse」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that so」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's my fault!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Lolotte, how long has it been since you came to the Human World?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll be about a year soon, I think」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your spiritual essence is turning into physical matter. It appears you are gradually becoming closer to a human」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-Is that true!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「At this rate, Lolotte-chan won't be an angel anymore……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, I don't really mind」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just like that!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Being in the Human World is more fun, so it's fine. Besides, Amyrina is also――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, it seems I'm getting a call. Excuse me for a moment」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could Spirit Power be infused in it because Soltia was the one who created this magic circle?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She is merely a demon close to the angels; she could not perform a feat of this caliber.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In that case, it would mean another angel is involved.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia, Virus... and aside from the wildcard, Azel-san, someone else is lending a hand to this plan...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot. Isn't there a chance Azel-chan is an angel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. So that is why Helena permitted Azel-san's transfer without a single doubt.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hey now. You're giving me too much credit. Even I couldn't tell on the very day we met.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, you dimly sensed that she was no ordinary person, didn't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis... why don't you ever tell me important things like that?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because I didn't have solid proof... If weird rumors started spreading, it'd be awful for Azel-chan, wouldn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why did you approve Azel's enrollment?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because she's cute, of course」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "message": "Whether she was lying or telling the truth, either way, Helena-san was the last person I ever wanted to make an enemy of."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, it's not set in stone yet that Azel is an angel, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No. Looking at the expression on Lolotte-san's face--being an angel herself--gives a pretty clear idea.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is Azel... an angel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, I never met Azel-san in Heaven. We first got to know each other in the Human World.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We promised each other to keep the fact that we're angels a secret...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just what do an angel and a demon intend to do with Re-Crea by working together...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine. Because in the exact same way, angels, demons... and humans will join hands to stop it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's the Demon Lord's―no. That's our duty as the Crusaders, isn't it, Ria―senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Yeah!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If only we could at least destroy the magic circle...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sorry I couldn't be of any help...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, no. You didn't do anything wrong at all, Lolotte-chan.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-san...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, video games are limited to one hour a day, okay?\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauuu~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister~~!! Lady Lolotte~~!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Shio-chan.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Over here, Shio!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Was that phone call earlier from Shio-chan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. Apparently, there's someone looking for Lolotte-san.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looking for Lolotte?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh my, forgive my rudeness. I had not the slightest inkling she was a friend of Lady Lolotte.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you do?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Merely a touch of intimidation.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez! Stop charging at anyone and everyone without thinking!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Forgive my insolence!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--So, Amyrina got lost at school.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes... Just once, I wanted to see what this 'school' place Lolotte talked about was like...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's trespassing, Amyrina. If the ruler of the academy, the Chairwoman, were to ever catch you, it'd be a total disaster.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「My, my. What a coincidence, Chairwoman」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「H-Heeeeek!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Could it be that you're...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「A-Am I going to be judged in the name of the law...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nope. You're cute, so I'll let it slide♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「R-Really? Phew...」"
+  },
+  {
+    "message": "So approving Azel's transfer really was just a knee-jerk reaction after all."
+  },
+  {
+    "name": "Ria",
+    "message": "「Amyrina... are you Lolotte's friend?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Believe it or not, we are actually childhood friends!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Which means you're an angel too, right!?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hawawah!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Amyrina. Would you mind lending us a bit of your cooperation?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right! If it's Amyrina, she might be able to read it!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「This cannot be expressed in modern language. Would writing out the characters suffice?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That will be fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't read a single word of what's written here」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「These are the exact same characters written in the guidebook」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, really? That's amazing, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though I haven't the slightest clue what they mean」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Thank you very much. With this--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Prad Kcev Qutioxe. Topue Stachz Duemnskia」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Teaox」"
+  },
+  {
+    "message": "Our surroundings were enveloped in a dazzling light."
+  },
+  {
+    "message": "Despite being light, the air was filled with a cold, oppressive heaviness."
+  },
+  {
+    "message": "Swirling like a vortex, it soon faded away."
+  },
+  {
+    "message": "With a tome in one hand, Melilot-san let out a deep breath."
+  },
+  {
+    "name": "Melilot",
+    "message": "「It has been proven. The seal placed on this magic circle is the work of an angel」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Assuming it wasn't either of the angels who appeared in Ryuusei Town... neither Lolotte-san nor Amyrina-san--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then it is indeed highly likely that Azel-san is the one who cast this seal.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that's the case, we really can't just leave Azel alone!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's all go look for her after all!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No. Please leave Azel-san to me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I want you all to focus solely on Virus, and on making the Holy Night Festival a success.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you don't, the time will come while all of our goals are left half-finished.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Assuming she is an angel, she will likely make her move on her own.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She descended to the Human World despite taking on various risks, all to fulfill a certain purpose.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I have a rough idea of Azel-san's whereabouts. However, if I were to tell Sakura-kun and the others where she is...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「They would surely head there to save her. However, in the event that Azel―san is an enemy―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As an angel... that resolve of hers, to cast aside even the pride of her race to bring about Re-Crea alongside the demons」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can only assume she is bearing the weight of something immense. The chances of her listening to Sakura-kun and the others' persuasion are low.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Therefore, I alone am enough to dirty my hands with this. Someone like me, who lives in the shadows, is enough to be despised.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm sorry... Perhaps I've avoided the light for so long that my heart has become twisted.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't make such a worried face. It will be alright. I will definitely save Azel-san, I promise.」"
+  }
+]

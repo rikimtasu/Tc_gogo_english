@@ -1,0 +1,425 @@
+[
+  {
+    "message": "気になって、その気になって"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn. Did you do the math homework?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, uh, could you let me copy it later?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Again?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Please! I'm begging you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Jeez, what am I gonna do with you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Woohoo, that's my Synn! I knew I could count on you!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's up?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Um... never mind, it's nothing!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Must be nice being you, Mako-chan. Not having homework and all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron works hard at plenty of other things. Maybe you should take a page out of her book, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, by the way. The other day, Sacchin was saying--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh-huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, big brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? What's wrong?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Um... actually, it's nothing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn. You didn't do something to Mako-chan, did you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? I didn't do anything! Right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh? Yeah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Suspicious... As if I wasn't already worried enough about the two of you living together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How many times do I have to tell you, we're not living together」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The Great Sage saw it!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Things are super awkward 'cause Master Synn tried to peep on Shorty changing!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huuuh!? Hey, what's the big idea!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wasn't peeping!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And Paqy, why are you making up lies like that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I saw it in a dream. I bet you anything it's gonna come true!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you ever pull something like that, I won't forgive you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't, I won't!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, even if I peeked into the room, Macaron changes inside a tent so there's no way I could see anything anyway」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, I see, I see, well that's a relief--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ow! How do you know about that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa! Sally told me, I swear!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh... You poked the hornet's nest」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Take this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waah! Macaron, help me!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even though this happens all the time...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What am I getting so worked up about...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my, President. Is that all you're having for lunch?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Believe it or not, this extra-large cabbage bread actually fills you up pretty well」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That won't do at all for a growing boy」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Allow me to share some of my bento with you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh! Really?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The Student Council President begging for food?! Don't do something so disgraceful!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not what I meant……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Heeere you go, sorry for the wait!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? I didn't order any water……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's on the house!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. A strategy to fill up his stomach with water, is it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……I-I wouldn't mind sharing a little bit of my bento with you, you know……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, I'd love that……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's on the house!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Isn't this a bit too much?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oops, I made a mistake. Hehe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, I already have milk to drink……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's free, so just drink as much as you can!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What a touching effort.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, your cute little sister went out of her way for you, so you mustn't let it go to waste♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I mean, it's totally fine if Big Brother gets along with everyone on the Student Council……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Why am I letting this bother me so much……?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Macaron.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe. I came to pick you up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry to trouble you.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm walking home with you, so hurry up and let's go!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, Synn-kun~, wait up a second!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Listen, there's something I forgot to mention about tomorrow's meeting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's no good」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The Holy Night Festival is next month too, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think it's better if we decide on whatever we can ahead of time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're right. Understood」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Onii-chan...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, Macaron. Could you head home ahead of me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think it'll take that long, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'd feel bad making her wait」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Okay」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then I'll head home first...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Really sorry about this」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's fine, I don't mind at all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Sigh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Something's seriously wrong with me today...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Stuff like that never bothered me at all until now...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「To think I'd get this worked up over Onii-chan...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...I get it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's because I... love Onii-chan, isn't it...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uwaaaah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That's so embarrassing!!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「S-Saying it out loud like that really packs a punch...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「B-But, when the time comes, I'm gonna say it properly! I really will...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...I-I like you!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「B-B-Big bro, I like you...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Fwoaaah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-I'm gonna die of embarrassment...」"
+  }
+]

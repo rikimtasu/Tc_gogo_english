@@ -1,0 +1,661 @@
+[
+  {
+    "message": "新生活!?"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm home~」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cluck, cluck-a-cluck」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whoa! What, you wanna go at it again?」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Bawk!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Looking closely, you're actually pretty cool」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cluck-cluck」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Bro~, are you still asleep~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Zzz-snort」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, I called out to you before leaving for my part-time job, didn't I?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mgh~... Isn't it still earlier than my alarm...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You were waking up early just the other day!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder why~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez... Hup!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwahh, it's freezing!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ugh, so sloppy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「F-For someone like you, Macaron, aren't you cold...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I just got back from a quick run, so!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's why~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, come on, I'm gonna make breakfast!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If you stay asleep forever, I'll step on you!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ahyahhhn!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oops, wrong spot. Hup!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah! I'm up, I'm up! I'm getting up~!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, so lame~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mornin' there. Synn, it's morning……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……Huh?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「…………」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gahhh--!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, what do you two think you're doing--!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Morning, Big Sis Nana」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Morning, Nanaka……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This isn't the time for casual greetings--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it is morning」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I was just waking Big Brother up」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「T-That's supposed to be my job……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Is it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You bet it is! He puts me through the wringer every single morning!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ohhh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then you won't have to deal with that trouble anymore」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What did you say--!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because I'm going to take care of Big Brother from now on」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What's the big idea here!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because Big Brother is so unreliable」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, that's true, but」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hey now」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku…… Flaunting a forbidden cohabitation right in front of your childhood friend--just as expected of Lord Synn!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Living together?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whatcha mean?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It means shacking up together」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since when?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Since yesterday」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're way too settled in!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's the harm?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the heck are you thinking, letting a girl live with you?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally lives here too, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's totally different... Gasp!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You really are a lolicon!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I am not!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a handful」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well then, I'll go get breakfast ready!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah! Hold on, hold on!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's my job, you know」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can't leave taking care of Synn to the likes of you, Mako-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron is plenty responsible」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You stay out of this!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then let's make it together!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh, well, I mean, I guess...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm, what should we make?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey, wait. H-How about soba today?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Soba first thing in the morning? That's unusual」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-This much is just common sense!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ooh. Human World culture sure is deep!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahaha... W-Well, yeah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why is Mako-chan with you too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because she's working part-time at Prier?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yep. So living at Big Brother's place is way more convenient, right!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is there a problem?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, a lot happened with the part-time job, so that's fine, I guess...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mako-chan, are you planning on living at Synn's house forever from now on?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm, I don't know」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「But I think I wanna stay until it gets warmer!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just what if, by any chance, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What if Synn turns into a beast and some kind of naughty mistake happens? That'd be bad, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A mistake?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh, well, that's, um...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Total debauchery!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyaban!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother is weird, sure, but he doesn't actually do anything weird!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-But...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If he does anything weird, I'll just slice him right up, so it's totally fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Welcome!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, look at you working」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa, it really is Macaron-chan!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You actually look pretty natural at this」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Whoa, she's cute as ever!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, Nana-oneechan, Sacchin-oneechan, please take a seat!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, thanks Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Huh, w-what about me?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Here you go, some water!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, isn't this place self-service?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's a special treat from me!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「How attentive!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, aren't there too many?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「１、２、３、４……５、６?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, I just guessed the count and got it wrong. Sorry!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's fine, don't worry about it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Better too many than not enough, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, Eddie. Accept the love from Mako-chan」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Whoa! Gulp, gulp, g-g-glug!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Little sister, little sister」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, coming!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Would you be so kind as to take our order?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「My pleasure」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well then, enjoy your stay」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll have the same as Nishiki-chan, too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Certainly」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Macaron-han really is quite the hard worker, isn't she」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Totally」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「This much is totally normal for me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「From now on, I'll get to see you every day……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I guess so」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah…… even your swaying tail is so cute……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe, thanks a bunch」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yes-sir, ready to order?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh, what?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Hmph」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh, what was that about……?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Macaron-chan sure is super popular」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, she is adorable, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you looking at me」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She's not just cute--her work ethic is truly stellar!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thanks」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Thanks to Macaron-chan, business is booming even more than usual today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seems like it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Really, leaving it to Synn-chan was the right call」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, it's all thanks to Macaron」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Then I suppose I'll observe Macaron-chan's hard work a little longer♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, please do your job……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you think of Mako-chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do I think? I think she's a good girl, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……Sigh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Asking you something like this is pointless, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really get it, but I take offense to that」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You sure have it rough too, Nana-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even you, Sacchin……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seriously though, is there really nothing going on between you and Mako-chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just like with everyone else, we're just good friends」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's all it is」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, really. Then it's nothing!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, if you don't eat fast, your lunch is gonna get cold!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow-ow-ow!」"
+  }
+]

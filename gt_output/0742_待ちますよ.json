@@ -1,0 +1,295 @@
+[
+  {
+    "message": "待ちますよ"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He hasn't come by today either.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... see.」"
+  },
+  {
+    "message": "Did he go home?"
+  },
+  {
+    "message": "Or is he still somewhere around the academy, taking photos?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for yesterday.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel seemed to be doing well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad... Was he eating properly?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He was eating egg sandwiches and ham sandwiches with quite an appetite.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's good...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If Azel does come by, is there any message you'd like me to pass along?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please tell him that it does have something to do with me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And... also tell him that I'm going to see him no matter what, purely for my own sake.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Understood.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The important things, I'll say to him in person.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He's gone home. Him.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Sorry for causing you trouble.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He says it does have something to do with him.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You don't need to go out of your way to tell me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And also, 'I'm going to see Azel no matter what, purely for my own sake,' or so he says.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Synn」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is all I was told to relay. However, they said they will tell you the important part in person」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You won't be able to hear it if things stay like this」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I want to see him」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then why don't you go see him?」"
+  },
+  {
+    "message": "Melilot served Azel some black tea."
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm scared」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Scared?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Besides... there's no point even if I do see him」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Because this world will disappear in 10 days」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is quite a sudden development」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You probably don't believe me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If there are only 10 days left, does that mean there is no point in seeing him?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It was a joke... There's no way this world will disappear in 10 days. Even I think that was a lame joke」"
+  },
+  {
+    "message": "Azel sipped his black tea as if to cover up his slip."
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is also this way of thinking: precisely because there are only 10 days left, you should see him」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Over the next 10 days, if you don't see him, you will only continue to suffer, whereas if you do see him, something might change」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's why... I can't see him」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In other words, the world disappearing has nothing to do with it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Like I said, that was... a joke」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The only reason is that you are scared, isn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Why are you scared?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You are afraid of him hating you, aren't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is nothing to be surprised about. What a person fears in this kind of situation is being disliked by the other party. It is a deduction derived from general principles」"
+  },
+  {
+    "name": "Azel",
+    "message": "「D-Don't jump to conclusions」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is it already decided that Sakura-kun will dislike you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「'Already decided,' you say!?」"
+  },
+  {
+    "message": "Azel flew into a rage and stood up with enough force to nearly send the chair toppling backward."
+  },
+  {
+    "name": "Azel",
+    "message": "「It is decided! But it cannot be helped! I am, I am, I am!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You are?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel sat back down in the chair weakly."
+  },
+  {
+    "name": "Azel",
+    "message": "「It's nothing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Whenever you're ready is fine」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please tell me when you feel like talking. I'll wait」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Good evening」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Do you have a moment?」"
+  }
+]

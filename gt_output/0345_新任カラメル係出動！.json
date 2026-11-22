@@ -1,0 +1,680 @@
+[
+  {
+    "message": "新任カラメル係出動！"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who knew everyday duties were this easy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, Kirafes is over now, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's definitely part of it, but everyone's skills improving is another reason」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is what you call shedding a layer of skin, isn't it」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is a linguistic vestige from when humans used to molt in order to grow bigger, yes?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Somehow, I get the vague feeling I am being looked down upon. Hmph, hmph」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ahem. Come to think of it, I haven't seen those three around」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Those three?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could you mean... the Demon folks?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, if you mean them--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!?」"
+  },
+  {
+    "message": "Why is Azel here when he was supposed to be absent today?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you sure you're okay to come to the academy?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just as I thought, Azel-san is a delinquent!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A delinquent?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, he is always ditching class, so I guess you wouldn't be wrong?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If it is bad for him to come to the academy, then it must be 'house arrest'! It is punishment for ditching class. A delinquent」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Listen, Lolotte-chan. Did the thought that he was out sick and might not be well enough to show up not cross your mind?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh. The scales have fallen from my rococo eyes. As expected of someone who isn't just big boobs for show」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「L-Lolotte-san, how vulgar! Big Sister is splendid regardless of things like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn! Don't look at your senior's chest!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't look! Anyway, Azel, are you over your cold now?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel silently held out the digital camera to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you come all the way here just to return it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tomorrow would've been fine, you know.」"
+  },
+  {
+    "message": "For some reason, Azel turned her face away and muttered."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Giving it back.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mind if I take a quick look?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Whatever.」"
+  },
+  {
+    "message": "Taking the digital camera from Azel, I connected it to my laptop."
+  },
+  {
+    "message": "I could view them on the camera, sure, but I wanted to see them on a bigger screen."
+  },
+  {
+    "message": "Transfer... There, all set."
+  },
+  {
+    "name": "Synn",
+    "message": "「You sure took a lot.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "The dates on the photo data... Some are from yesterday, and some from today."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let me see too!」"
+  },
+  {
+    "message": "I hurriedly switched the data view from details to thumbnails."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you hiding! Hogging it all to yourself isn't fair!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just switched it to thumbnail view.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. It's Shina-oba! And Tame-san too!」"
+  },
+  {
+    "message": "Nanaka's hand snatched the mouse from me and clicked. Opened."
+  },
+  {
+    "message": "A scene of Shina-oba showing off what she calls \"the truth\" to the neighborhood ladies displayed in full screen."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They look identical. It's almost as if the real people were standing right in front of us.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course they do, they're photographs.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, I think they're great photos.」"
+  },
+  {
+    "message": "I stole a glance at Azel's face. She was looking away. Maybe she was embarrassed about people seeing the pictures she took."
+  },
+  {
+    "message": "So Azel didn't come to school because she was too absorbed in taking photos."
+  },
+  {
+    "message": "She must have really liked it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What is it? Go ahead and ask big sis anything.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like there used to be a recorder position in the Student Council. What's the status on that right now?」"
+  },
+  {
+    "message": "Ria-senpai tilted her head cutely."
+  },
+  {
+    "name": "Ria",
+    "message": "「For each event, one of the committee members ends up handling it on the spot, and year-round the photography club fills in, so the position just disappeared before anyone noticed」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Ah.」"
+  },
+  {
+    "message": "Ria-senpai smiled brightly and continued."
+  },
+  {
+    "name": "Ria",
+    "message": "「An official recorder is supposed to be appointed at the start of our term, so we can't assign one now, but since there isn't an official recorder at the moment--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We can apply the Student Council rule stating that if there's no recorder for any reason, the Student Council President can appoint an acting recorder.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much.」"
+  },
+  {
+    "message": "I called out to Azel, who was looking away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel. Did you like the digital camera?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Whatever.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen. There's a position on the Student Council called the recorder.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The job is to document our events and daily life at the academy, so why don't you give it a tr--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I refuse.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you take the post, you get to use that digital camera the whole time you're an officer, you know.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Really?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You all saw the photos Azel took too, right? What do you think about having Azel become the Student Council's recorder? I think she's perfect for it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. That's my childhood friend for you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's that supposed to mean? Even I thought of something that simple.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Every sore loser says that afterward.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Looks like everyone agrees. And of course, I do too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you say, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel looked at the digital camera, then tore her gaze away from it."
+  },
+  {
+    "name": "Azel",
+    "message": "「I... I refuse.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to overthink it. Just take pictures however you like, same as during KiraFes.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even the digital camera would want to be used by someone who likes it.」"
+  },
+  {
+    "message": "I pressed the digital camera into Azel's hand."
+  },
+  {
+    "message": "It was a small hand."
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I refuse!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The reason we didn't have a recorder is because this digital camera was waiting for you, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm counting on you from now on, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'll only take pictures of what I feel like」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's fine with me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll only take pictures of things I like」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Do that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Then, fine」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now that that's settled, Crusaders, roll out!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Where did you come from!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Roll out... Are Demons causing trouble?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A Demon infiltrated along with the Chairwoman! Having our secret base discovered puts us in a pinch! How exciting」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's so exciting about it. Besides, that kid is Tinun, isn't she」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So this place was a secret base... My heart's pounding」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Tinun! What are you doing slacking off from work!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Work?」"
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, hmm... Whaaat. A Demon is rampaging at Yuugiri-an!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What did you say!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Everyone understands the situation, right?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Roll out!'」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yes, ma'am」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wanna come too, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There might be a photo op」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going」"
+  },
+  {
+    "message": "Inside the shop, where disposable chopsticks are inexplicably scattered everywhere, Nanaka's old man with a kitchen knife and a demon are glaring each other down!"
+  },
+  {
+    "message": "It's about two sizes larger than the demons of the Delicious Food Squad."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. Looks pretty tough」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The treasurer's father certainly is muscular」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Not him!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Nice shot」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah, Mochimochi!」"
+  },
+  {
+    "message": "Up on the household altar, Mochimochi was collapsed, seemingly taken down by the demon."
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He says he's just slacking off on the job and sleeping」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, thank goodness... Wait, no! That little punk, I'm docking this from his pay!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um... what's going on here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All three of them work at Yuugiri-an」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They're actually pretty hard workers. Except for one of 'em」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Destroy it already」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Shall I snipe it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on a second. Hey, you. Why are you rampaging?」"
+  },
+  {
+    "name": "Ringer",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat? You weren't rampaging? You were just playing an instrument?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「An instrument?」"
+  },
+  {
+    "name": "Ringer",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He apparently thinks disposable chopsticks are a musical instrument. He says he liked the snappy 'crack' sound they make when you split them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, come on now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So it wasn't a dine-and-dash」"
+  },
+  {
+    "name": "Ringer",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He says he only asked if there were any that made different pitches, and when he got yelled at, he lost his temper」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. I understand. When I saw a CD for the first time, I ended up throwing it without thinking, too. It's the same thing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is it... really the same?」"
+  },
+  {
+    "name": "Ringer",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if he tells me this shop's are defective and to hand over ones with different pitches... there aren't any with different pitches」"
+  },
+  {
+    "name": "Ringer",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, he's surprised」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're not instruments in the first place. They're tableware」"
+  },
+  {
+    "name": "Ringer",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He looks pretty dejected」"
+  },
+  {
+    "message": "Nanaka's old man lowered his kitchen knife and looked at me."
+  },
+  {
+    "message": "Even I, who've known him for a long time, have never seen Nanaka's old man speak."
+  },
+  {
+    "message": "Yet for some reason, we communicate eye-to-eye."
+  },
+  {
+    "message": "『Thanks, Synn-kun. He wouldn't listen to a word I said』"
+  },
+  {
+    "message": "『It can't be helped. You don't speak the same language, after all』"
+  },
+  {
+    "message": "Hmm. I get it. I actually get it. Even I find it weird."
+  },
+  {
+    "message": "『You're so dependable, Synn-kun. Take over Yuugiri-an, my daughter included』"
+  },
+  {
+    "message": "『Oh, stop joking around』"
+  },
+  {
+    "message": "...Are we really communicating?"
+  },
+  {
+    "name": "Ringer",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He seems to be reflecting on what he did. I wonder if he's saying, 'What have I done!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mostly right, but slightly off」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He says, 'For a musician like me to mistake tableware for an instrument--I'm the worst!'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「His remorse is pointed in a subtly wrong direction」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So even Demons have musicians, huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We understand the situation now, and he seems to be sorry too, so... Synn-kun, what should we do?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Destroy him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I looked at the old man."
+  },
+  {
+    "message": "『Different upbringings lead to misunderstandings. Let's handle this peacefully』"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then how about we do this?」"
+  }
+]

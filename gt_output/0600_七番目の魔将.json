@@ -1,0 +1,636 @@
+[
+  {
+    "message": "七番目の魔将"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I wonder what everyone is hiding."
+  },
+  {
+    "message": "Nanaka probably asked them to keep it a secret, though."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Does Soba's secret bother you that much?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, of course it does, but I'm not thinking about it while on patrol!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmm.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder what Melilot-san and Azel are doing......」"
+  },
+  {
+    "message": "I force myself to switch gears."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why don't you just ask them tomorrow?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think they'll answer?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well. Probably not.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I have no choice but to find out myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was...... right here, wasn't it」"
+  },
+  {
+    "message": "I crouched down and looked around. Only paved ground stretched out before me."
+  },
+  {
+    "message": "If Melilot-san's actions are connected to what Azel said--'It's been destroyed...... An enemy?'--then something must be here. Or must have been here."
+  },
+  {
+    "message": "I can't see any traces at all. Even when I run my hand over it, it's just plain asphalt."
+  },
+  {
+    "message": "Still, Melilot-san was investigating something. And Helena-san is probably aware of it too."
+  },
+  {
+    "message": "And did Azel also investigate that same thing and discover it had been destroyed? And was it Azel's enemy who destroyed it? If it could be destroyed, does that mean it was something physical?"
+  },
+  {
+    "message": "What if that something was connected to Pasta and the others wandering around the academy?"
+  },
+  {
+    "message": "They were clearly different from the other demons."
+  },
+  {
+    "message": "On a whim? That couldn't be. They were far too organized for it to be a whim."
+  },
+  {
+    "message": "I think...... they were doing something at the academy based on some kind of plan."
+  },
+  {
+    "message": "And Azel's enemy? What does that mean? Is there still an unknown faction out there?"
+  },
+  {
+    "message": "Argh, it's all 'something' this and 'something' that!"
+  },
+  {
+    "name": "Voice",
+    "message": "「It is hardly admirable for the Student Council President to take the lead in breaking school rules.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "I spun around as if startled. There had been no presence or sound at all."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Go home. It is past the hours when students are permitted to be here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you doing here yourself, Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I am a staff member.」"
+  },
+  {
+    "message": "I stood up."
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no way Helena would permit a mere staff member to wander around in the middle of the night」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Are you saying one needs permission to take a walk in their own yard?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I live in the library. Naturally, the chairwoman knows this as well. Does that satisfy you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think that would satisfy me?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「At the very least, I believe it makes more sense than you roaming around without permission, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Go back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're investigating whatever Pasta and the others made, aren't you」"
+  },
+  {
+    "message": "It's a bluff."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't see anything. And the reason I can't see it is because it's camouflaged to stay hidden」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But you can see it, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta and the others stopped showing up. That's because they achieved their goal... because that 'something' is finished. And Helena knows about it too. Am I wrong?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With Helena's approval, you're investigating that--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems you have no intention of leaving」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you admitting it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let me help too!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus and Soltia are strong. I only sensed their presence once, but I could tell. It's far too dangerous if you run into them alone, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I'm coming with you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just want to protect the academy and everyone in it. Please, let me help!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "Melilot-san stared fixedly at me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Please!」"
+  },
+  {
+    "message": "I bowed my head."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "I raised my head. Melilot-san was sneering."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Not 'us,' just 'me'? That is quite an arrogant way of putting it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Arrogant?! I--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So you are saying the rest of the Student Council's strength isn't even worth mentioning.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I can't let everyone fight Virus and Soltia--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And you think you can fight them?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because you're the Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How do you know that?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you defeat the enemies yourself, no danger will befall them. I see. What tremendous arrogance.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, you're trying to do this all by yourself too, Melilot-san!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An ordinary human taking on opponents even the Demon Lord can't beat all alone... Isn't that arrogant too?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heh.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Fuhahahaha.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Excuse me. I couldn't help but laugh. Still, it's your fault for saying such a thing, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something I said...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, when the very best you can manage is getting in my way, how could I do anything but laugh at a remark like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me, getting in your wa--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha?!」"
+  },
+  {
+    "message": "He vanished! Before I even had time to register the thought, a hand was placed on my shoulder."
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey?! Are you kidding me?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You can't even perceive this level of speed?」"
+  },
+  {
+    "message": "My shoulder is pushed lightly from behind, and I involuntarily stumble forward."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Go home. Like that, you won't be able to protect anyone.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "I can't protect anyone, not even Nanaka!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true!」"
+  },
+  {
+    "message": "My hair stands on end, and a scorching power fills my entire body."
+  },
+  {
+    "message": "The Demon Lord's power. Invincible, bearing the title of king of all demons. The strongest."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't fall for the provocation! She's got complete control over her magic--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Great Sage Paqy. Don't you think a child ought to be taught the importance of knowing their place?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And that the night is no time for children!」"
+  },
+  {
+    "message": "I see her!"
+  },
+  {
+    "message": "A speed no ordinary human could ever hope to follow."
+  },
+  {
+    "message": "But right now, I'm the Demon Lord."
+  },
+  {
+    "message": "A sense beyond mere sight catches the movements I couldn't see a moment ago!"
+  },
+  {
+    "message": "I catch the shadow squarely in front of me just as it tries to slip into my blind spot!"
+  },
+  {
+    "message": "Still, I can't unleash the Demon Lord's power directly on her."
+  },
+  {
+    "message": "I lightly reach out a hand toward the shadow's shoulder--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You are falling significantly short of your theoretical visually trackable speed.」"
+  },
+  {
+    "message": "Her voice comes from behind. Before I can even turn around, my shoulder is shoved."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah」"
+  },
+  {
+    "message": "Even clad in the Demon Lord's power, my body is effortlessly pushed aside, sending me staggering."
+  },
+  {
+    "message": "I barely manage to dig my heels in and avoid the disgrace of dropping to my knees, though."
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's no use. The way you are right now, Master Synn, you can't even touch her--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That can't be!」"
+  },
+  {
+    "message": "With my power, I should be able to protect her!"
+  },
+  {
+    "message": "I should be able to make sure Nanaka never has to wear that frightened look again!"
+  },
+  {
+    "message": "With the Demon Lord's power! That's what the Demon Lord's power is supposed to be for!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well... maybe this is a good opportunity.」"
+  },
+  {
+    "message": "I don't sense any magical power from Miss Melilot at all."
+  },
+  {
+    "message": "In that case, she's an ordinary human. Just a trained, ordinary human."
+  },
+  {
+    "message": "There's no way the Demon Lord could lose out to that."
+  },
+  {
+    "message": "I focus my awareness on the power surging inside my body."
+  },
+  {
+    "message": "My temples begin to throb with sharp pain."
+  },
+  {
+    "message": "I forcibly seize hold of the raging, still-uncontrollable power of the Demon Lord."
+  },
+  {
+    "message": "I see her! No, I feel her!"
+  },
+  {
+    "message": "Yet her presence slips away just a hair's breadth past my outstretched fingers."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I would put you at roughly thirty percent of your calculated potential output at this point in time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!?」"
+  },
+  {
+    "message": "She vanished!?"
+  },
+  {
+    "message": "No, did Melilot-san surpass my speed again!?"
+  },
+  {
+    "message": "She's even outpacing the Demon Lord's senses!?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems Sakura-kun lacks resolve.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I am! The Demon Lord! That's why I can use this power too!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if you have decided to become the Demon Lord, you lack the resolve to bear the burden.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true!」"
+  },
+  {
+    "message": "No matter how frantic I get, she dances from blind spot to blind spot, and I can't even catch a trace of her presence."
+  },
+  {
+    "message": "How can she move like this!?"
+  },
+  {
+    "message": "How can someone without even a hint of a demon's presence do this!?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Synn-sama, this one's a Demon General.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way!? She doesn't have even a shred of magic power...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How the hell could someone with no magic power use acceleration magic? She's perfectly controlling and concealing the flow of her magic.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that even possible!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It'd be impossible if she were going all out. Which means this ain't her full strength.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even like this!?」"
+  },
+  {
+    "message": "So you're telling me that I--the Demon Lord--am an opponent she doesn't even need to go all out against!?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's the seventh Demon General. Probably from the Record-Keepers, the Nive Clan.」"
+  },
+  {
+    "message": "A voice came from my blind spot. Just like a ghost possessing my back."
+  },
+  {
+    "name": "Melilot",
+    "message": "「So the time has ripened for that name to resurface from the depths of oblivion.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't underestimate me, shut-in. Yours truly is a Great Sage.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, please add a footnote to that profound knowledge of yours.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "Right by my ear."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I hate that name.」"
+  },
+  {
+    "message": "Dead ahead. I didn't even feel her presence."
+  },
+  {
+    "message": "A flash of light! A heavy blow like an iron hammer struck the arms I instinctively threw up!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaaaaah!」"
+  },
+  {
+    "message": "A dull ache that rattled me to the bone! I was effortlessly blown back, landing flat on my rear."
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Compressing magic power to the point of physical manifestation just to throw a punch? And while holding back, at that. Pretty impressive.」"
+  },
+  {
+    "message": "I stagger to my feet. My head throbs with pain."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Go home. Had I been so inclined, you would have lost your life seventeen times over.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I tried to say something. Yet no words came out."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your flow of magical power is completely erratic as well. In that state, you won't even be able to maintain your Demon Lord form anymore.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not--」"
+  },
+  {
+    "message": "Suddenly, a violent wave of dizziness washes over me. Primary-colored lights flash behind my eyelids."
+  },
+  {
+    "message": "I can't stay standing. I drop to my knees. The Demon Lord's power unravels."
+  },
+  {
+    "message": "Melilot-san looked down at me in that state."
+  },
+  {
+    "message": "Not with contempt, not with amusement, not with pity, it was simply--"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In your current state, Synn-kun, the only fate awaiting you if you face Virus--no, Soltia--is decisive defeat.」"
+  },
+  {
+    "message": "Gentle."
+  }
+]

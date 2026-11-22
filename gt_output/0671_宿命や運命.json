@@ -1,0 +1,561 @@
+[
+  {
+    "message": "宿命や運命"
+  },
+  {
+    "message": "Saturday after school."
+  },
+  {
+    "message": "Today, we can spend more time on Student Council activities than usual."
+  },
+  {
+    "message": "...Or so it was supposed to be--"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-M-Mi-Misa... Cristelis-san, here's the meeting agenda and the approval request for the Holy Night Festival」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why don't you just call her Misa like normal?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes, here you go, Sakura Synn-kun」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And she's using his full name...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Misa... Brigitta-san, here are the event survey forms」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh...? Ah, ugh... M-Mgh, kii...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now, that won't do. The Vice President is far too self-conscious about the President being the Demon Lord」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-Th-Th... That's not true at all...!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Sakura-chan, Sakura-chan, you've been requested at Table 3\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-What is Big Sis talking about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's Helena-san's code. She's calling me over」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And she's broadcasting a secret code like that over the whole school PA...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Well then, I'm clocking out for today, so I'll leave the rest to you guys...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Where are you going?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To see the drill sergeant」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And who might that be, and where?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She means Melilot-san」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh? Synn-kun and Misa-chan really are on the same wavelength, aren't they」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'm heading out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Man, I'm sitting on pins and needles here...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just goes to show how much you liked Hisu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't talk about it in the past tense. It's not over yet!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, I mean... I got dumped, so I shouldn't keep dragging this out and should just give up... I know that, but」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If that's what you wanna do, Synn-sama, then give up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Paqy, you cheered me up last night, so you're not gonna back me up today, huh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Both Your Majesty and Hisu are showing up to the academy properly, ain't ya? And you're even doing your Student Council work right」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ain't nothing left for me to butt into」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... You're right, I have to get over this on my own」"
+  },
+  {
+    "message": "I came to the library to have Melilot-san train me."
+  },
+  {
+    "message": "It's supposed to be open to the public on weekends and draw plenty of outside visitors, yet today there isn't a single soul around."
+  },
+  {
+    "name": "Melilot",
+    "message": "「You arrived quite early. That is an admirable attitude」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, there was a broadcast... Ah!」"
+  },
+  {
+    "message": "It finally dawns on me now. Helena-san sees right through everything."
+  },
+  {
+    "message": "If I have the spare time to mope and agonize over Misa, I should focus on my training--that's probably what she meant."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Did something happen with a broadcast? No outside sounds can be heard at all in this training ground」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? W-We're doing the Demon Lord training here? Aren't we renting out the martial arts hall...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A building like that is far too fragile to withstand the shockwaves of magic. Practical training will be conducted outdoors」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's that dangerous... wouldn't the library collapse too?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, please rest assured. A barrier has been cast over this space. At your current level, Sakura-kun, your power cannot break it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Neither our figures nor our voices inside this barrier can be perceived from the outside, and vice versa」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No wonder... Even though it's open to the public on weekends, I thought it was weird that nobody was around the library」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please train to your heart's content without worrying about your surroundings」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, let us begin. Prepare yourself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Melilot-san, you're going to be instructing me? I totally assumed some kind of master would show up...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Could it be that Helena told you nothing at all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, not a single word」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Ahem」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I belong to a clan that records Re―Crea and monitors its state. Those around us also call us the Nive Clan, though―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Just like you, I am a demon」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Melilot-san, you too...!?」"
+  },
+  {
+    "message": "I see... The person who could use magic, the one who guided us through yesterday's magic circle, was Melilot-san all along."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why are you working as a librarian?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Does it strike you as strange? Some work at beef bowl shops, and others have become boiler operators, have they not?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In the very same way, I simply wished to be a librarian」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... right. No wonder there are all sorts of rumors about Nive-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am not particularly fond of being called Nive. Please continue to call me Melilot, just as you always have」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now, regarding last night's matter--I feel terribly sorry for exposing your identity as the Demon King in front of everyone involved」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There were indeed ways to deal with Re-Crea while keeping the fact that Sakura-kun is the Demon King a secret, however...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So Helena-san decided on her own to reveal the secret \\{over|もと} oden?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It was not Helena alone. I also advised her to do so」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because magic is influenced by the caster's state of mind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. It may be painful for you right now, but considering what lies ahead, it was an unavoidable course of action」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I don't have to deceive Everyone anymore. That's one less thing to worry about」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Which means you have other concerns weighing on your mind, do you not?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is the best advice I can offer, but at times like these, focusing on something else will help take your mind off things, even if only a little」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Housework or studying, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ordinarily, perhaps, but right now, please devote yourself to your training as the Demon King」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even for the Demon King, there is no destiny or fate dictating that you must be a certain kind of person」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No matter who you are, you are you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Melilot...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, gaining strength should not be in vain」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Understood. Please guide me strictly」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What are you fooling around for? To think you cannot even control this level of magic power」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah, hah, hah! I-I'm giving it everything I've got」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Really...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your magic is far too erratic. Activate the magic circle with the exact same mental image as last night」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But that's--」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!?」"
+  },
+  {
+    "message": "W-Who is this woman? Judging by her appearance, I don't think she's human, though..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「What business do you have here, Soltia? Did I not tell you not to enter without permission?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「How cold of you, even though we're allies now」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Well, whatever. There's something I want to look into. Lend me the key to the archive」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I've certainly borrowed it」"
+  },
+  {
+    "message": "Surprisingly, Miss Melilot tossed the ring of keys at the person called Soltia. Normally, Miss Melilot would have handed them over politely..."
+  },
+  {
+    "name": "Soltia",
+    "message": "「...Hmph」"
+  },
+  {
+    "message": "Why is this person staring at me with such a nasty look?"
+  },
+  {
+    "name": "Soltia",
+    "message": "「This is the Demon Lord? This...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is--」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「In the end, a Demon is still a Demon. Just a ground-crawling subhuman, I see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia, your business is finished, is it not? Leave the barrier immediately」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Excuse me, then」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Until next time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who was that...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「―Soltia. She is also one of those who hold the key to averting Re―Crea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "What cold eyes she has. She didn't look the cooperative type at all, though..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if our motives differ, as long as our goal is the same, our interests align.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia may seem like an ally, yet she isn't one. Sometimes a friend, sometimes a foe...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「They used to be lovers, too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As if that could ever be true! Now, let us continue our training!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Something seems to be causing disturbances in your magic.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Huff, puff... huff, puff...* I-It's already night. I didn't even notice.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, it's Helena\\s04 Working hard, you two?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Eh...?! H-How did you get inside the barrier?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Foh-foh-foh-foh, you're still too naive, little Melilot.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Why are you approaching me while wiggling the fingers of both hands so lewdly?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「When you're always feasting on a delicacy like Ria, sometimes you start craving a taste of Melilot instead. You understand, don't you?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I do not! I refuse!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Your mouth says no, Melilot, but deep down you really... Oh my, you pervert~\\s04」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So as not to get in the way, please go to a corner over there and do it by yourself.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So meeean!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, we are resuming training!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you push yourselves too hard right from the start, you'll run out of steam halfway through. Call it a day for now.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is a fair point, however...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And so... Hey missy, you've got some fine tits on ya. Ufu, ufufufufu.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No means no!! We're already running out of time--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, come now, what's the harm?♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U―Umm... I wouldn't want to get in the way of you two, so I'll just head off for today―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're not going home yet! We're doing magic training until you cough up blood!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「At least take a break, won't you?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Besides, break time calls for a show♪ Let's put on a live sex show\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tickle, tickle, tickle\\s04」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「W-W-W-W-Wait just a second...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh? They both vanished」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Helenaaa, Miss Merilooott!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...No answer」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, your voice ain't gonna reach the two of 'em inside from outside a barrier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-When did I end up outside... Did Miss Melilot blast me out with magic?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Means you're good to head home for tonight, doesn't it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Go get some rest, Demon Lord. You've got training tomorrow too--keep this up and your body's gonna give out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I will」"
+  }
+]

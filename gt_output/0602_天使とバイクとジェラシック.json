@@ -1,0 +1,641 @@
+[
+  {
+    "message": "天使とバイクとジェラシック"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is Azel an angel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-Whaaat?! Wh-wh-wh-why would you--I mean, wh-wh-wh-what a funny joke you're making, Mr. President?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's got wings sticking out, too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「D-Don't just jump to conclusions on your own! W-We are definitely not angels! W-What are you even talking about with wings?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why did she come to this world? Haven't you heard anything?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「U-Umm, well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like I'm planning to do anything just because she's an angel」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that true?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Impressive as always, Lord Synn. Planning to blackmail them with their secret and make them your mistresses!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「H-How wicked of you, Mr. President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wouldn't do something like that!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So your target is only Azel-san... I'm glad I'm not your type, Mr. President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just want to ask about Azel's recent behavior, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, you should have said so from the start. Of course, I am not an angel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That doesn't even matter」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san may be a delinquent who barely attends class, gets bad grades, and doesn't try to make friends, but she isn't doing anything bad! I guarantee it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Skipping class is already plenty problematic, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san is an outstanding person who was dispatched from Heaven to investigate the Re-Crea!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And even after the investigation ended, she's an admirable person who volunteered to stay behind alone on the surface to continue observing!」"
+  },
+  {
+    "message": "So that's how it was!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Someone said they saw Azel at the academy in the middle of the night」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What a wicked deed, despite being an angel! Unforgivable!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Where'd that guarantee go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You have an idea?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're quite clueless too, Mr. President. When it comes to what delinquents do in the middle of the night, it's going around smashing the academy's windows and riding off on stolen motorbikes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really don't think he's doing anything like that, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We cannot simply stand by and do nothing about this!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As a fellow kin and as a friend, leave it to me to stop any further delinquency! Rumbl-bl-bl-bl-bl!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, where are you going, Lolotte?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel! As a fellow kin and as a friend, we need to talk! Brace yourself and listen!」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Who's this kid?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She's one of Synn's harem members~」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「You sure have a wide range of tastes, Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She's Lolotte, the Student Council secretary! Not part of any harem!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Where's Azel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Huff, huff* Caught up... Azel didn't come in today」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He might have already ridden off on a stolen motorbike! There's no time to waste!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. How did it go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He wasn't at Prier or the church. Though, I heard something concerning」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That brat, right? Apparently he bought up a huge stash of Vandine Jelly last Saturday」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could he be planning to hole up in his room?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If only that were the case」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you manage to hear anything from him directly?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I figured he wouldn't let me into his room, so I let myself in with a spare key」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A spare key?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gramps prepared it for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was empty」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, during fifth period I--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You sure are getting along famously with Lolo-chan」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooh, she exploded right out of the gate~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course I am. We're fellow members of the Student Council, after all. Anyway, Nanaka--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What were the two of you doing flirting around during lunch break?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-We weren't flirting or anything!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Calling Lolo-chan out in secret, then the two of you sneaking off somewhere together away from prying eyes for the whole lunch break」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, whatever, I don't care. Just keep your improper relationships in moderation, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We were just looking for Azel!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't need to make up excuses like that. I'm just a childhood friend, after all, so I get that there are things you don't want to tell me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was planning on telling you about this, Nanaka!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I already figured it out, so you don't have to go out of your way to tell me. You guys didn't even need to date in secret, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? Dating? Me and who!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn and the angel, ain't it?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooh! I don't think that's it, though~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, even Synn's got a girlfriend now, huh... Guess I'm getting old too. Ahaha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Agh, enough already! Nanaka, come here for a second!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What's the big idea dragging me all the way out here! I already get that you and Lolo-chan started dating, so drop it already」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not it! Why would you even think that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-Because if it was Student Council business, you could've just talked about it at the Student Council」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, we're comrades so it's not like we're on bad terms, but we're not close enough to hang out one-on-one, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So... I get it already, drop it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not it! Azel is missing!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not Lolo-chan, it's Azel... So you were into flat chests... I see how it is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got it all wrong! Azel went missing! She's not at the church, not at Prier, and not in the dorms!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ehhhhhhh!? Wait, are you serious!? Isn't she just skipping class like usual!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Lolotte apparently asked Riesling-san to look into it, so I think she'll be found soon, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...I-I see... So that's what it was... Aha, ahaha」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I did it again... I'm acting weird... Ever since we kissed...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, I'm not going out with Azel or Lolotte!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「G-Got it. I got it, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, I'm glad...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to report this to Helena-san, so I think I'll be late for fifth period next」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Um, well... Synn, hey, my hand...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My hand, um... let go...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... s-s-sorry!」"
+  },
+  {
+    "message": "Nanaka's hand is so soft and small."
+  },
+  {
+    "message": "Even though it's gotten calloused here and there from making soba almost every day."
+  },
+  {
+    "message": "Was it always this small?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Saying sorry makes you sound weird, Synn... We've held hands plenty of times before, haven't we?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, probably...」"
+  },
+  {
+    "message": "Even though we must have done it so many times we didn't even think about it."
+  },
+  {
+    "message": "Even though way back when, we used to do it all the time so naturally I don't even remember."
+  },
+  {
+    "message": "Why is my heart pounding like this?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Um, well then, I'm gonna get going」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um, about earlier... I was kind of all over the place...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm sorry!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san is missing, you say!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What were you even doing, Sakura-kun!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't blame everything on Synn!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, you're in the same class, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My bad」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It couldn't be helped. I mean, she barely answered even when you talked to her, and she was skipping classes left and right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lately, she'd vanish right after morning homeroom ended, too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder where she went」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please leave it to me, my butler will find her right away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka's hand. It was so small..."
+  },
+  {
+    "message": "And it made my heart pound..."
+  },
+  {
+    "message": "If just holding her hand got me like that, how hard would my heart pound if I hugged her."
+  },
+  {
+    "name": "Misa",
+    "message": "「What could she have been doing at the academy at night, I wonder?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Wait, not the time for that! I need to focus on Azel right now."
+  },
+  {
+    "message": "Is there some connection between Melilot-san's actions and Azel's?"
+  },
+  {
+    "message": "And who is Azel's enemy?"
+  },
+  {
+    "message": "Apparently, Azel came to this world to investigate Re-Crea."
+  },
+  {
+    "message": "Since she's an angel, would her enemy be Demons?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Taking a walk?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No girl would want to take a walk around a scary place like school at night!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem. Not that I'm scared or anything. I'm just speaking in general terms」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She intends to smash every single windowpane in the academy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Could Pasta and the others have been fighting Azel?"
+  },
+  {
+    "message": "Then are Melilot-san, a Demon, and Azel, an angel, enemies?"
+  },
+  {
+    "message": "Is Melilot-san with the enemy? After all, she's one of the Seven Demon Generals, just like Virus and Soltia."
+  },
+  {
+    "message": "Still, why did she only drive me away when she could have done whatever she wanted to me?"
+  },
+  {
+    "message": "I don't know. I don't know, yet."
+  },
+  {
+    "message": "Do all the answers lie at the academy at night?"
+  },
+  {
+    "name": "Misa",
+    "message": "「I won't let that happen! Crusaders, move out!」"
+  },
+  {
+    "name": "Synn & Nanaka",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We're deploying for our friend! I'll smooth things over with Jiiya.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I was thinking that much myself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, Sakura-kun, you're hopeless, breaking the Chairwoman's orders like that. Still, I'm sure you'll be in trouble without me, so I'll join in--both to help and to keep an eye on you.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan, Synn-kun didn't say anything about moving out\\s02」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun! You embarrassed me because you didn't say the thing you always say!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "That's right. It's what the usual me would have said first thing."
+  },
+  {
+    "message": "The Student Council President's--no, the usual Synn Sakura's way of doing things."
+  },
+  {
+    "message": "Why had I forgotten? Why was I trying to do it all alone?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa. Thank you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-What's with you all of a sudden?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. That really is how we always do things.」"
+  },
+  {
+    "message": "Melilot-san called me arrogant for patrolling all by myself."
+  },
+  {
+    "message": "She was right--I was arrogant. I'd lost my way in a weird spiral."
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, to search for Azel--Crusaders, sortie!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「However, anyone busy with Holy Night Festival preparations doesn't have to participate.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Of course I'm participating!」"
+  },
+  {
+    "message": "Nanaka is a member of the Crusaders, not someone for me to protect."
+  },
+  {
+    "message": "She's a comrade who fights alongside me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, even though you're busy.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's not like that, it's just an emergency like this means I gotta prioritize it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no way I could sit out... all by myself.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Madam Treasurer. You're planning to use patrol as an excuse to skip your assignments, aren't you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I am not!」"
+  }
+]

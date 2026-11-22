@@ -1,0 +1,346 @@
+[
+  {
+    "message": "天使の溜息"
+  },
+  {
+    "message": "And so, we immediately gathered after school and started singing practice, but......"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, let the karaoke tournament begin!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yay, Nana-chan's the best」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, Azel-san, let's sing together too!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I refuse」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I...... am rather poor at karaoke, you see......」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This ain't anything like karaoke, ya know」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wonder how things ended up like this......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, as long as everyone's having fun, it's fine, isn't it\\s02」"
+  },
+  {
+    "message": "Part of the reason I invited everyone was because it'd be fun, sure, but I actually had a little ulterior motive."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Everyone sure loves singing songs, don't you~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stress relief!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Calorie burning!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's go in order」"
+  },
+  {
+    "message": "For some reason, we ended up pairing off into duets."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sweets!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sweets!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san. Let's do our best」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why must I do something like this......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-san! Let's get this crowd pumped up!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah! Let's do our best♪」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Synn-sama. Don't you dare drag yours truly down, got it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Got it!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um, as for me......」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Urgh...... Lady Amyrina...... You are paired with me, milady」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Naginata-san! Please, I'd love for you to join us!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yet how pathetic I am...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「What's the matter?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Truth be told, I am scarcely acquainted with the popular songs of the secular world.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「That's true for me as well, you know...?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is not all. To raise my voice before so many esteemed souls... Perish the thought!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「According to the guidebook, shrine maidens often sing and dance at shrine festivals, though...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come to think of it, Shion only ever dances.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「G-Gah!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Naginata-san...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's okay! We're all embarrassed together. Besides...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Giving up on something this fun just because it's embarrassing would be such a waste.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Amyrina...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「If you'll sing with me, Naginata-san, I'll do my best too! So...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mmm... Were I to fail to steel my resolve after this, it would be a disgrace to the name of a warrior. To see what is right and not do it is a lack of courage--truly, these words apply here.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Even if it be painful to the ears, I shall charge forth prepared for glorious defeat!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nobody said it's going to be painful to listen to yet\\s02」"
+  },
+  {
+    "message": "And so we took turns singing, while those listening cheered each other on."
+  },
+  {
+    "message": "It wasn't quite a karaoke box, yet everyone was having a wonderful time."
+  },
+  {
+    "name": "Shio",
+    "message": "「Hah... How exhilarating and delightful!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Truly, 'Learning without thought is labor lost, and thought without learning is perilous'--this is the very essence of it!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「See, Naginata-san? You sang wonderfully!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ah, well... I am deeply apologetic that I could only offer children's songs and the like...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Not at all. Every single one was a lovely song. As long as you can have fun singing it, I think any song is wonderful.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I see... Whether one is out of touch with the modern world or not makes no difference, then.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「That's right. So there's no need to be embarrassed」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though you're saying that, Amyrina, you were super shy yourself right up until we got here today~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「L-Lolotte!\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, now that we're done warming up... shall we start practicing the Christmas songs?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeaaah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it okay if we don't call Riesling?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes. It would be a shame to wake her up right away」"
+  },
+  {
+    "message": "Well, I get the feeling she's probably waiting around nearby even without being called."
+  },
+  {
+    "message": "Even after everyone else went home, Lolotte alone is fast asleep, and it seems Amyrina is staying behind to match her."
+  },
+  {
+    "name": "Synn",
+    "message": "「How was today?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It was so much fun... ♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even Shio, who was holding back so much at first, seems to have completely fallen in love with singing」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes, I'm truly glad」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... and you too, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Today... you sang a lot in front of everyone」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In front of people other than just me and Misa, you know」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I-I did... Ahhh, now that I realize it...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It looks like the joy of singing has grown bigger than worrying about feeling embarrassed」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Uu... When you point it out, I start getting embarrassed...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha. Well, there's no need to rush, just take your time getting used to it」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「President... did you set up today just for that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Only a little bit. Honestly, I mostly just wanted to hang out and have a lively time with everyone」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Is that so... Thank you very much!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, like I was saying--」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I heard from Lolotte that at times like this, you always try to hide your embarrassment, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... She's got you figured out」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez. I'm hungry~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-oh, welcome back」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll help out, so hurry up and make dinner~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, alright. How about we have curry and rice today, then?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Curry!?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Giggle... Oh, Lolotte」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「By the way, it's curry \\{again|\\s12} today...」"
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "message": "守護天使は気難し屋？"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's all for today's practice. Good work, everyone」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh, it stinks today too! Please change it to a nicer smell! Like oranges or something」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I know how you feel, but that wouldn't make for good practice」"
+  },
+  {
+    "message": "Ria-senpai, Misa, and I managed to avoid falling victim to the stench."
+  },
+  {
+    "message": "I hope it was due to skill rather than luck, though."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good day to you. Forgive me for leaving you all lonely, Lia」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, are you coming along today too, Ayanishiki-chan?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There's no telling what this one might do if I take my eyes off her」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What am I, a violent criminal under escort?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I know! Maybe I'll have dinner at Yuugiri-an today too. I can just let my big sister know」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister, I'm going too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then count me in too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Do you even have the money?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll pay it back with labor later」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're trying to leave me out, aren't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, please stay behind for a moment. It won't take long」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I'll catch up with you guys later」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Got it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Go get chewed out thoroughly. You're so unreliable」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hehehe. By the time the president gets back, there won't be a single thing left, so be prepared」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's wrong?」"
+  },
+  {
+    "message": "Nanaka whispered in my ear."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you're talking about leaving me out, I won't have it. Speak up against it, okay?」"
+  },
+  {
+    "message": "Her warm breath tickled my ear."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can fight just fine too, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Can you borrow the power of your Guardian Angel right here, right now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I gripped the Rosary tightly with all my strength."
+  },
+  {
+    "message": "Then, in response to it, my body grew hot!"
+  },
+  {
+    "message": "My mouth began moving on its own."
+  },
+  {
+    "name": "Synn",
+    "message": "「Guiding the master, descending by the ancient covenant--Avanshell, Angel of Pitch-Black Darkness!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now, just like that, please manifest your Demon Lord power.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please manifest it and show me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Trans-form! Hyah!」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ah, just as I thought」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please try it one more time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Trans-form! Hyah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? I reverted back」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what's going on?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see... So the Guardian Angel's power rejects the Demon Lord's power?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it because one's a Demon Lord and the other's an Angel?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Once a Guardian Angel acknowledges someone, they are supposed to lend their power unless they judge it to be an abuse of power, however」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Avanshell was especially stubborn, so you'd think she'd lend her power even if Lord Synn didn't want it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is this happening...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「With the Demon Lord power you can currently exert, Sakura-kun--even though you've grown stronger since we last fought--you still don't measure up to Soltia, let alone Virus.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I had thought we could improve the situation if we were able to add the Guardian Angel's power to the mix, however.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't get so down on yourself. Your true power's gotta be way more than this, Master Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, I don't need empty comfort.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Have a little faith in me, man. That hurts.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed, mathematically speaking, it is just as Great Sage Paqy says.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Based on calculations using the magical energy data of past Demon Lords, the results indicate your latent power slightly surpasses Virus's.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way.」"
+  },
+  {
+    "message": "That overwhelming power I felt back then."
+  },
+  {
+    "message": "I can't even imagine wielding a force even greater than that."
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, power that cannot be exerted is no different from not existing at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're... right.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Something is obstructing the full activation of your power.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something? Like what?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You already got a hunch anyway, don'tcha?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is it that I'm lacking?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'd say it's either spirit, guts, or self-awareness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But! Becoming aware that I'm the Demon Lord is supposed to be the whole reason I became able to use this power in the first place!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I already have self-awareness, so... is it spirit or guts?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, from watching your training, when it comes to spirit and guts, I'd say you rank pretty high even among past Demon Lords.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is self-awareness, isn't it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way... What am I supposed to do!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「When it comes to this, it's an issue with your heart, Sakura-kun, so there's nothing I can do about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um. Earlier, you said that once a guardian angel acknowledges someone, they're supposed to lend their power as long as they don't judge it to be an abuse of power, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Are you referring to Yugiri-san?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. If that's the case, what happened to Nanaka shouldn't have occurred」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Judging from past cases, the cause does not lie with the guardian angel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, with Nanaka?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. That's why I suspected Soltia had cast some sort of magical curse on Yugiri-san, however...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「During the home visit?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you examine Nanaka?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「After a fashion. Unfortunately, however, she wasn't very cooperative, so I couldn't perform a thorough examination and may have overlooked something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She seems convinced that I'm trying to remove her from the Crusaders. She stubbornly insisted that she can fight and that there's nothing wrong」"
+  },
+  {
+    "message": "『If this is about kicking me out, I won't have it. Speak up against it, okay?』"
+  },
+  {
+    "message": "『I can fight properly too, you know!』"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Curses that act upon the mind often produce no physical changes, making them difficult to detect without the subject's cooperation」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Part of the reason I stopped you today, Sakura-kun, was that I wanted to ask you about Yugiri-san」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you going to remove Nanaka from the Crusaders?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In terms of fighting strength, that's impossible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that mean you'd want to remove her if you had enough fighting strength to spare?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We don't have the luxury of discussing hypotheticals」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Around when did Yugiri-san become unable to borrow her guardian angel's power completely?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There must have been signs even before she fought Ardin」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The last time we fought Pasta... I feel like she was strangely weak」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Since she was able to borrow that power normally up until then, something must have happened before that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lack of sleep... no, that's not it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Lack of sleep?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, wait, no. That was after the thing with Pasta, anyway」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is a possibility that it is the effect of a curse」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it's just simple lack of sleep」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...A guardian angel would never withhold their power simply because you are in poor physical condition」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then lack of sleep has nothing to do with it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...If it is due to your physical condition, it has nothing to do with it」"
+  },
+  {
+    "message": "So if it's mental, it might have something to do with it, huh."
+  },
+  {
+    "name": "Synn",
+    "message": "「That assignment. Did you investigate it, Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Thoroughly. However, there was nothing wrong with that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so...」"
+  },
+  {
+    "message": "Besides, the home visit was after fighting Pasta, anyway..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Did anything happen in November?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you remember anything that bothers you, no matter how small, please tell me. I'm counting on you」"
+  }
+]

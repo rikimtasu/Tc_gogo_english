@@ -1,0 +1,236 @@
+[
+  {
+    "message": "禁令"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahh, my shoulders are stiff... or at least I think they are.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's with that way of putting it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, even if Sengenin-sensei's class is suffocating, I didn't do any exercise that would make my muscles stiffen up.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey, your shoulders can get stiff just from feeling tense, ya know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not even knowin' that... just how blissful of a school life have you been livin'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm? Well, I am aiming for a sparkling one.」"
+  },
+  {
+    "message": "Chatting idly with Paqy, I head down to the first floor."
+  },
+  {
+    "message": "Strict as they may be, Sengenin-sensei's teaching methods make sense, and I think they're an excellent student teacher."
+  },
+  {
+    "message": "There's just one thing that doesn't sit right with me. Why would they be assigned here at this time of year?"
+  },
+  {
+    "message": "Ryuusei Academy takes in a few student teachers every spring. As far as I know, Sengenin-sensei is the first to arrive solo in the autumn."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Say, Synn-sama, what business do ya have in the first-years' classroom?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to hear the rumors going around among the first-years. Whether student teachers are coming to other grades too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sparkle! Mr. President, you caught the scent after all, didn't you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, please eat to your heart's content. Excited!」"
+  },
+  {
+    "message": "Lolotte places a massive amount of yellow objects in various shapes and sizes onto the desk. They are all neatly wrapped in plastic wrap, leading me to deduce they are likely some form of food."
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte? What are those?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hoheh? Sweets, obviously! I made them in home economics cooking class.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-This many of them?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes! I used 13 leftover pumpkins from Halloween.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You stocked up way too much. Not even Synn-sama could possibly eat all that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How ignorant of you, Mr. Panda. Mr. President will happily devour this much. Thrilled!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I can survive for three weeks on this.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...You're gonna scrape by on nothing but pumpkin and milk?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「First up are pumpkin muffins. Here, say 'ahhh.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?! L-Lolotte, you're going to feed me?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why are you getting all flustered? The guidebook said this is what all the hip young folks do」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What era is that info from?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, you're actually doing it?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it looks delicious, doesn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, please open your mouth wider. The whole thing won't fit otherwise」"
+  },
+  {
+    "message": "S-She's planning to shove the entire thing in at once?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaaaaaaaaaah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Perfect. I'm tossing it in, okay? Here it goooes♪」"
+  },
+  {
+    "message": "The instant the muffin leaves Lolotte's fingertips, a fork comes flying in at supersonic speed and strikes dead-on. Without losing momentum, it impales the muffin straight into the wall behind me."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Frozen stiff in terror, I stay there with my mouth wide open. If that had hit my neck just now……"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!? You ate it without leaving a single crumb? You're amazing, Mr. President」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's plenty more where that came from. Please eat lots more」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How about a pumpkin brownie? Hup♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oooooh!! Eating it all in an instant--you sure have a hearty appetite. Have some pumpkin cake and pudding, too♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Enjoy some pumpkin daifuku as well♪」"
+  },
+  {
+    "message": "……Could this pinpoint, godlike feat be Riesling-san's doing?"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Lolotte, hold on a second!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Aren't you going to wolf them right down?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course I'll have some」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But instead of just me, did you make sure to save some as souvenirs for your family back home too?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawaaah!? I completely forgot」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hup」"
+  },
+  {
+    "message": "Riesling-san leaps in through the window just like a special forces operative."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave the taste-testing of Milady's handmade cooking to me, your humble butler, Riesling Toyama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, just as I thought... he's collecting the ones stuck in the wall...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「More importantly, butler? Is it really okay for you to sneak onto campus on a weekday?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Three seconds...」"
+  },
+  {
+    "message": "Oh, he ran away."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. The three-second rule, isn't it? As expected of my butler.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's slightly off...」"
+  },
+  {
+    "message": "After that, Lolotte put the sweets meant for her family into her bag and gave the rest to me."
+  },
+  {
+    "message": "While thanking her, I tried asking about the student teacher, but there were no rumors of one being assigned to the first-year classes."
+  }
+]

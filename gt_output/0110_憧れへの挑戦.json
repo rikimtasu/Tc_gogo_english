@@ -1,0 +1,824 @@
+[
+  {
+    "message": "憧れへの挑戦"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hello, everyone. I am Ria Kujou, candidate for President of the Ryuusei Student Council.」"
+  },
+  {
+    "message": "That was one year ago."
+  },
+  {
+    "message": "Ria-senpai stood up on the podium, and I looked up at her from my seat."
+  },
+  {
+    "message": "The newly appointed Student Council President. That was the exact moment I learned her full name."
+  },
+  {
+    "message": "Speaking of Kujou―senpai―"
+  },
+  {
+    "message": "She was the daughter of the Kujou family that ran Ryuusei Academy, and possessed an upbringing, refinement, and demeanor that could only be described as that of a true young lady."
+  },
+  {
+    "message": "Her grades consistently held the top spot, and rumor had it that in athletics, she riveted the gaze of boys and girls alike."
+  },
+  {
+    "message": "Her dazzling conduct, bordering on absolute perfection, quickly became known throughout the entire academy, making her a popular figure whom everyone envied and revered."
+  },
+  {
+    "message": "And that very Ria-senpai ran for Student Council President."
+  },
+  {
+    "message": "Even setting aside the fact that she was a daughter of the Kujou family, her unanimous election was practically inevitable."
+  },
+  {
+    "message": "At the time, I was still getting used to my part-time job and school life, so things like the Student Council never even crossed my mind, though."
+  },
+  {
+    "message": "I remember seeing Ria-senpai as Student Council President in person for the first time and being completely overwhelmed by how amazing she was."
+  },
+  {
+    "message": "Putting aside our backgrounds and upbringings, even her very essence felt worlds apart from mine--"
+  },
+  {
+    "message": "So much so that it felt far, far more distant than the physical space between my seat and the podium."
+  },
+  {
+    "message": "It didn't feel like we were even attending the same school--I saw her as someone mysterious, standing on a much higher plane."
+  },
+  {
+    "message": "I used to watch her from afar and admire her."
+  },
+  {
+    "message": "Wishing I could become someone like Ria-senpai, too."
+  },
+  {
+    "message": "And then a year passed."
+  },
+  {
+    "message": "The person I admired is now working hard alongside me on the Student Council as a dependable senpai."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun.」"
+  },
+  {
+    "message": "Sure, I ran for Student Council President because I wanted to enjoy a sparkling academy life."
+  },
+  {
+    "message": "To me, it looked like Ria-senpai was living a sparkling academy life, and maybe seeing that was what made me decide to run."
+  },
+  {
+    "message": "It wasn't the entire reason, of course, but it was definitely one of them."
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn-kun!」"
+  },
+  {
+    "message": "So I just hope I've managed to become even a little bit like the kind of Student Council President Ria-senpai was."
+  },
+  {
+    "name": "Ria",
+    "message": "「Boop.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hngah!」"
+  },
+  {
+    "message": "A soft little finger poked me right in the cheek."
+  },
+  {
+    "name": "Ria",
+    "message": "「Looks like everyone already headed out.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, yeah, right.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, what's up? Spacing out like that... Did you hit a snag with something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, no. It's not that--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aha! You were thinking about something else entirely, weren't you~~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heeey. There's no time to be spacing out, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk... I'm sorry」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Instead of apologizing, first get your head, hands, and body moving!」"
+  },
+  {
+    "message": "If she can see right through me like this, I still have a long way to go before I can match up to Ria-senpai."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's do this!」"
+  },
+  {
+    "message": "I spread a blank A3 sheet of paper out on the desk."
+  },
+  {
+    "name": "Ria",
+    "message": "「What are we doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was thinking we could decide on the exhibitor layout. Here's the current list of people from the shopping district who want to participate」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What about the student applicants?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're on a separate sheet」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, you separated them neatly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's easier to understand that way, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And we'll make a layout map based on this, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. And from there, I'm hoping we can carry it all the way to making the guide map for the pamphlet」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm-hmm, sounds good. Knowing where each kind of shop is located is super convenient, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should we take a walk around first to see how we actually want to set up each area?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The entrance and reception desk will be right here」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Since it's a special festival, it'd be great if we could build a big arch right here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About how big should it be~?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aboooooout this big!」"
+  },
+  {
+    "message": "She stretches her arms out wide as if tracing the air, showing the maximum size she can."
+  },
+  {
+    "name": "Synn",
+    "message": "「That big?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Did I make it too big?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm itching to get started~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. Spoken like a true boy. I'm counting on you for the heavy lifting\\s04」"
+  },
+  {
+    "message": "Let's work hard together with everyone and make it big enough to blow Senpai away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Should we put the reception desk right here?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We'll need a tent too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I sure hope the weather stays clear」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We'd better make a teru-teru bozu just in case」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, I know! Pa-chan, why don't you be our teru-teru bozu?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Y-Yours truly, as Ria-chan's terun-terun bozu!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you put on a white skirt, you'd look the part! I'll even lend you mine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「R-Ria-chan's skirt!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wouldn't being hung up all day be a bit……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I can easily put up with that much!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just kidding♪ Totally joking\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, with your waist, Pa-chan, I bet it'd be way too baggy\\s02」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I wouldn't be so sure about that. Tell me your three sizes so we can check」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's see――」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Hey~~! That's a secret!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, so close」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With a figure as great as yours, Senpai, it doesn't seem like you'd have anything to hide」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh……. Y-You really think so?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……! Even so! That doesn't make it okay to ask a girl her three sizes, ya know!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm sorry!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I hate Pa-chan when he tries to trick people!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyaaah!!」"
+  },
+  {
+    "message": "He brought that on himself."
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm... Maybe I went a little too far?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's good medicine for him.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see... Well, if Master says so, then that's that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Imagine wanting to know someone's three sizes when you're just a plushie.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And what about you, Synn-kun... Don't you want to know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Not... interested?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I said I wasn't, that... would... be... a lie.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B―But they're just numbers, right?! You can't tell everything from that anyway, ahahahahaha―come on, let's decide the layout, the layout!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Phew... I see. Thank goodness~~」"
+  },
+  {
+    "message": "Ria-senpai let out an exaggerated sigh of relief."
+  },
+  {
+    "name": "Ria",
+    "message": "「So you really are a boy after all, Synn-kun.」"
+  },
+  {
+    "message": "So that's all I amount to, huh."
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm relieved that Synn-kun actually treats me like a girl\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Want me to tell you my sizes in secret?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just kidding. Total lie~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just pulling your leg, hop-hop!」"
+  },
+  {
+    "message": "She holds both hands up like rabbit ears, wiggling her fingers back and forth."
+  },
+  {
+    "name": "Ria",
+    "message": "「A-ny-way. What were you going to say after 'No, I--'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nga!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm super curious~」"
+  },
+  {
+    "message": "I'm always acutely aware of Ria-senpai as a woman, but there's no way I could ever say that out loud!"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not telling!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Jeez! We don't have time to be messing around like this!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa~~. I got scolded♪」"
+  },
+  {
+    "message": "Unlike the dignified senpai I had always seen before, she was a girl acting just like a little devil."
+  },
+  {
+    "message": "I still admire her just as much as ever, though ever since joining the Student Council, it's been one surprise after another."
+  },
+  {
+    "message": "Especially when it's just the two of us--she teases me, gets all touchy-feely, and basically does whatever she wants with her underclassman."
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm sorry...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Did I go a little too far? I didn't mean to...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! No!! The layout. Let's go over it!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah! Good idea\\s01」"
+  },
+  {
+    "message": "Did Senpai get worried because she thought I was actually mad at her?"
+  },
+  {
+    "message": "Since she has cute sides like this too, I really can't let my guard down."
+  },
+  {
+    "name": "Synn",
+    "message": "「Since there are plenty of water hookups here, I was thinking of putting the food stalls in this area」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Like Nanaka-chan's stall and the others, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. The area in front of the school building is spacious, so they should all fit. That'll work great」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, hey. Prier has a kitchen, so couldn't we put it to good use for all sorts of things~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, that's true. Though boiling soba noodles probably requires specialized pots and equipment...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then let's split them up between stalls that can use Prier's kitchen and ones that can't」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we do that, we'll end up with leftover space...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then it's better to have the other stalls set up here after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's make sure we space them out evenly」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And right here, we set up the Kirafes Executive Committee HQ with a 'ta-da~~!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The student recycling entries would probably be better off in the same spot as last year...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In that case, spreading everything out right here with a big 'Ta-daaa!' is definitely the best way to go.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've gotten applications for live performances too, so let's put the stage right here with a big 'Ta-daaa!' as well!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ta-daaa♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That about covers it, I think.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ta-daaa♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And one more 'Ta-daaa!' as a bonus!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aha, ahahaha.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh, what, what? Why are you laughing~~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just, Senpai... your whole personality did a complete 180.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehhh?! That hurts my feelings~~ I don't know what kind of impression you had of me, Synn-kun, but I've always been like this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Really... That's unexpected.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Unexpected,' he says. How rude, geez.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no, that side of you. I'm totally fine with it.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then what? How did you see me up until now, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well... you always looked so cool when speaking up on stage, and gave off such a refined, upper-class vibe...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's not true at all\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just thought, wow, she's really mature~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why is that in the past tense?! Even right now, I'm still more mature than you, Synn-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's only a one-year difference, isn't it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A one-year gap is huge! Not even three thousand years of history could overturn it! Hmph.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sulking like that is the exact opposite of mature, you know.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh... I guess so. You're right...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aaaalright! Time to show off my mature composure!」"
+  },
+  {
+    "message": "She puts her hands on her hips and puffs out her chest."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem. Piece of cake♪」"
+  },
+  {
+    "message": "Naturally, that only accentuates her chest."
+  },
+  {
+    "name": "Ria",
+    "message": "「I won't be fooled by what you say anymore, Synn-kun. Now, bring it on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I already surrender」"
+  },
+  {
+    "message": "Her body is completely that of a grown woman, after all……."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew…… I'm back~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yes, welcome back. Good work today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. Thank you. *Slurp*…… Huh, when did you make tea?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In the blink of an 'eye,' you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So fast~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem. I am your senior, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm a senior to Lolotte too, so do you think I can pull that off?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It might be just a tiny bit impossible」"
+  },
+  {
+    "message": "So I'm just one step away, huh."
+  },
+  {
+    "name": "Synn",
+    "message": "「Now that the layout is decided, let's make a guide map」"
+  },
+  {
+    "message": "With my memo notebook in one hand, I faced a blank sheet of paper."
+  },
+  {
+    "name": "Synn",
+    "message": "「In front of the school building is…… um, where was that again」"
+  },
+  {
+    "message": "I flip through the pages to check."
+  },
+  {
+    "name": "Ria",
+    "message": "「Yuugiri-an, Ponpoko, and Shinagawa Produce. All the cake shops we're currently approaching, plus Kindai Antiquarian Books from the other day, go here too, I think」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Am I missing any?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, not at all」"
+  },
+  {
+    "message": "Every single shop name written in my notebook. And she even filled in ones we hadn't talked about."
+  },
+  {
+    "name": "Synn",
+    "message": "「Next is Prier, Prier……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wagashi Club wants to use the kitchen, so could you put them at Prier?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I think that'll be fine」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Also, if they're using a steamer, put the meat bun shop there too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean Five-Star Hanten, right」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu. It was so good that I just remembered them by their meat buns\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So the layout order goes tap-tap-tap like this」"
+  },
+  {
+    "message": "Following along with my senpai's words, I write down the names of the shops."
+  },
+  {
+    "message": "Without even needing to look back at our notes, the rough draft came together effortlessly."
+  },
+  {
+    "name": "Ria",
+    "message": "「Now we just need to make a clean copy of this and it'll be perfect」"
+  },
+  {
+    "message": "My senpai is already rolling up her sleeves. She's raring to go."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, if you want to do it, go right ahead」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha, you caught me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By all means, please do. I'll practice brewing tea in the meantime」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu. Keep the refills coming, okay」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm-hm. That ought to do it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, is it finished」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "At that moment, the word \"shogunate\" popped into my head."
+  },
+  {
+    "message": "Drawn on the paper was the kind of illustration I'd seen in history textbooks."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this ukiyo-e……?」"
+  },
+  {
+    "message": "Spread out before me were the Fifty-three Stations of the Tokaido."
+  },
+  {
+    "message": "The guide's text was even painstakingly written horizontally from right to left, using archaic hiragana spellings."
+  },
+  {
+    "message": "This would certainly be friendly to the elderly."
+  },
+  {
+    "message": "Even so, I can't help thinking it's a bit too hard to understand……."
+  },
+  {
+    "name": "Ria",
+    "message": "「It kind of looks like a map, so it's nice, right\\s07」"
+  },
+  {
+    "message": "Yet Ria-senpai flashed a smile brimming with confidence."
+  },
+  {
+    "message": "Well, I suppose we can make this work in its own way……."
+  },
+  {
+    "name": "Synn",
+    "message": "「This sure is unique」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe it would've been better to give it a bit more of a festival vibe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How would that change things?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think it'd feel way, way more fun, though it might end up a little too busy~」"
+  },
+  {
+    "message": "I could never imitate Ria-senpai's artistic style. Serving tea is all I can handle."
+  },
+  {
+    "message": "Anyway, the pamphlet map is finished!"
+  }
+]

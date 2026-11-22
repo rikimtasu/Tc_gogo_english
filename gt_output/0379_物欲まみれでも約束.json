@@ -1,0 +1,371 @@
+[
+  {
+    "message": "物欲まみれでも約束"
+  },
+  {
+    "message": "Maybe I'll try studying somewhere quiet today for a change of pace."
+  },
+  {
+    "message": "Even though this isn't the time to be leisurely drinking black tea..."
+  },
+  {
+    "name": "Azel",
+    "message": "「So this is a Leica...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. This is a Leica. It's a model called the Leica M3.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Does it work?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It had been stored away in the back of the warehouse for a long time, but when I checked it yesterday, it operated properly.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's an old model.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. It requires quite a bit of effort to use.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's positively antiquated... Going out of one's way to use a machine like this is pure eccentricity...」"
+  },
+  {
+    "message": "Even as he said that, Azel was happily caressing the old-fashioned camera all over."
+  },
+  {
+    "message": "The fact that he hasn't touched his black tea is probably proof of how engrossed he is."
+  },
+  {
+    "name": "Azel",
+    "message": "「Where is the monitor?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This one doesn't have one.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What?! You can't tell what kind of photo you took right on the spot?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not a digital camera, after all. You won't know until you get it developed.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I know about developing. That's common knowledge.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about exposure, photosensitivity, and aperture?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「O-Of course that's common knowledge too.」"
+  },
+  {
+    "message": "Still as competitive as ever, I see."
+  },
+  {
+    "message": "Truth be told, I don't really know much about them myself, though."
+  },
+  {
+    "name": "Azel",
+    "message": "「Would you mind if I borrowed it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It would be wise to also borrow a book explaining how to take photographs and how to operate the camera.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I'll be fine without such things.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However... allow me to borrow them just in case.」"
+  },
+  {
+    "message": "He really hasn't changed at all."
+  },
+  {
+    "message": "Even so."
+  },
+  {
+    "name": "Synn",
+    "message": "「You sure seem relaxed, Azel. Are you going to be okay for the regular exams?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What about you, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Uh, well, so-so...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're a scholarship student, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, ah, w-well... Yes, I'm grateful for the support」"
+  },
+  {
+    "message": "I shrink back."
+  },
+  {
+    "message": "Ah, is it bad that I'm drinking tea in a place like this?"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is a midterm exam?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?! No way?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Midterm exams are meant to make the students of this academy realize their own academic standing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Furthermore, those whose test results show an academic ability unworthy of this academy will be subjected to mandatory remedial classes to forcibly bring them up to the proper standard」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. You were panicking because there is a possibility your grades will be deemed unworthy of a student here. Understood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I don't think it'll be that bad, though...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then there is no problem. Why are you cowering?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Agh, seriously! Must be nice being so carefree, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Carefree?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your grades are fine, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Irrelevant」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... the exams are?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I will not take them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's no good at all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "message": "Whoa. Those are serious eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「Which means, Azel-san... you haven't studied or anything, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It's hopeless. Azel really intends not to take the exams!"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. Understood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? You're going to allow it!? Even though you're a faculty member!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will lend you the Leica once Azel-san's test results come out」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh-what did you say!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course, it will have to be a result befitting a student of the academy」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Guh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The books are also on hold for now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... I-I don't really need to borrow them anyway」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What about the Leica?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I have a digital camera!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is unfortunate. It's something I don't use anymore, so I was thinking I might lend it to you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-w-what!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Perhaps I should just sell it to a secondhand shop or something」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-wait!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「When is this test of yours!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Next week, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hold off on selling it until the test is over」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So you will take the test?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Th-that's not what I meant, just wait」"
+  },
+  {
+    "message": "He intends to take it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's have a study session with everyone before the test」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you study properly for the test, I'll treat you to ramen」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel's eyes darted around in midair."
+  },
+  {
+    "message": "Pride and desire are probably locked in a stalemate right now."
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll eat. I'll study.」"
+  },
+  {
+    "message": "That was easy!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, after school, at the library. Okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Understood.」"
+  },
+  {
+    "message": "Still, Azel, are you sure you're okay with this?"
+  },
+  {
+    "message": "A Leica and ramen. Purely driven by materialistic desires starting with 'ra'."
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, I shall wait until the test results come out.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You will lend it to me, then?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As long as you meet the required score. Shall we draw up a contract?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No, that's fine. I'm sure you two will keep your promise.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "She just said 'you two', didn't she."
+  },
+  {
+    "message": "She thinks even I'm the kind of person who keeps their promises."
+  },
+  {
+    "message": "In other words, doesn't that mean she trusts me?"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's nothing.」"
+  },
+  {
+    "message": "I felt a little happy."
+  }
+]

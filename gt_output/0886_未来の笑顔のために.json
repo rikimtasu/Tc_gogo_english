@@ -1,0 +1,828 @@
+[
+  {
+    "message": "未来の笑顔のために"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Today was freezing too~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah~. Still, preparations for the Holy Night Festival are totally ready」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And our special training was super productive!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right. Everyone's gotten pretty strong in such a short time, haven't they」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So much so that even we can't afford to hold back anymore」"
+  },
+  {
+    "name": "Synn",
+    "message": "「After all, this is a battle to protect everyone's peace」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We definitely can't lose tomorrow」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mm-hm, you've gotten so reliable too, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're sounding kind of condescending there」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, you're just noticing now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, look who's talking」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? What's that……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A visitor at the window?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Kyuu-chan. Good work flying in this cold」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What is that sketchy creature……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's Kyuu-chan, the carrier bat」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Carrier bat?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yep. Looks like he came all the way across the sea to bring us a letter from Dad and the others」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whaaat!? From Master?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Of course that's the part you're surprised about……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Show me, show me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Agh, never mind! My heart's pounding too hard, I can't touch it!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Which is it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll open it, okay」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaaah~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Wanna open it together?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-If you really insist, Big Brother...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Never mind then」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph, don't be mean, dummy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gyaaah!? That's cold! Don't put your hands down my back!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Take that, take that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm freezing!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Poke~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm writhing!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Tickle, tickle, tickle, tickle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahyahahahaha!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heeey... What about the letter?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah, hah, quite the technician...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, that stuff doesn't even matter」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah……」"
+  },
+  {
+    "message": "In the end, I break the seal right in front of Macaron."
+  },
+  {
+    "name": "Macaron",
+    "message": "「A letter and…… what's this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, it's a Christmas card. There's a photo inside too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「M-Master...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's Master...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...So, what do you think after seeing his face for the first time in forever」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, how should I put it...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「He's gotten all old-man-ish」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「But it feels like he's gotten way more distinguished」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Your mom looks really pretty and kind too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Dad's totally head over heels for her, after all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mmph... Well, I'll allow it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So, what did the letter say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mom and Dad said they're doing well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Also, they said it's a little early, but Merry Christmas」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see…… Well, knowing Master, they'll probably be fine wherever they go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet they will--」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Man, that must be nice……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm a little jealous of you, Big Brother……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I mean…… your mom and dad genuinely care about you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even when you're apart, they're still watching over you properly like this」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Having a family who holds you dear makes me jealous……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't you have a mom and dad too, Macaron, if you go back to the Demon World?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I told you before, didn't I? Papa and Mama don't care about me at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That can't be true!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Papa and Mama only want to use me whenever it's convenient for them」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「They obviously don't care how I feel at all……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did your mom and dad actually say that?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……No」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「But I know it's true」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「They forced studying and lessons on me…… I never got to be spoiled……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even when we were together, it never made me happy……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I really, truly felt so lonely……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Let's go find out for sure」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once Re-Crea is over, let's go to the Demon World together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then we'll meet your mom and dad and have a proper talk with them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We'll ask how they really feel about you……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And tell them how you truly feel」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I couldn't……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Running away without even checking properly isn't like you at all, Macaron」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Macaron I know wouldn't do something like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, if you're going to be a great Demon Lord, you need to get along with your parents too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big brother……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be okay. No matter what happens, I'm right here with you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At the very least, we're family」"
+  },
+  {
+    "name": "Synn",
+    "message": "「From here on out, forever」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I feel... kinda relieved, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. That's good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just can't stand seeing you look so down, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You really are kind, Big Brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Especially to me♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, yeah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe, maybe you're right, Big Brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Leaving my worries unresolved just isn't like me at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Exactly」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright, it's decided!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Once Re-Crea is settled, I'm going to the Demon World with you, Big Brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And then, I'll show Mom and Dad just how amazing I've become!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「With you there with me, I feel like I can face them properly...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And I think I'll be able to smile honestly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With the two of us, there's nothing to worry about」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, you're totally right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「While we're at it, I'll pay my respects too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? Wait, were you serious about that...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, would that be bad?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, n-no, it's nothing!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just do whatever you want……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then, I'll…… Big Brother's……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm, what?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Agh, jeez, it's nothing at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow-ow-ow, why'd you hit me!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph! I was just pumping you up!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If we can't do something about tomorrow's Re-Crea, we won't have time to talk like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, Macaron! Give me one more, a really hard one!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh…… b-but……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I do it that hard, Big Brother might end up breaking……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who cares!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Get ready」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hyaaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Kyaah?! Are you okay, big brother?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How fake can you get...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, stay quiet, Lord Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Beeeeep!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huff, puff, wheeze...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Chubby character?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks to Macaron, I'm totally pumped! Nothing to be scared of tomorrow!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really? I'm glad」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well then, it's my turn next!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Pump me up too! I'm not gonna let big bro hog all the spotlight!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, wait, that's...」"
+  },
+  {
+    "message": "You want me to whack Macaron?"
+  },
+  {
+    "message": "Those slender shoulders... look too fragile to lay a hand on."
+  },
+  {
+    "message": "That small, toned tummy... is totally out of the picture visually."
+  },
+  {
+    "message": "And that chest with barely any padding... if the shock stopped a heart, it'd be a disaster. Mine, that is."
+  },
+  {
+    "message": "And yet, however..."
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right, let's switch methods here and try using qigong.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Qigong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By pressing my hand against you, I'll gradually infuse you with fighting spirit...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ooh! What's it feel like?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Like this, maybe...」"
+  },
+  {
+    "message": "Driven by an urge I can't shake off, I slowly reach out my hand."
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're breathing kinda heavy, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-This is just how the breathing technique goes.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ooh.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Here I go...」"
+  },
+  {
+    "message": "Closing the distance with Macaron even further..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Gently...」"
+  },
+  {
+    "message": "And thus, my palm touches down onto Macaron's head."
+  },
+  {
+    "name": "Synn",
+    "message": "「Pat, pat.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe... Jeez, that tickles...」"
+  },
+  {
+    "message": "Aah, what am I even doing. Am I a pervert? Yeah, I am."
+  },
+  {
+    "name": "Synn",
+    "message": "「Feeling pumped up?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm... not yet」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, that last one didn't have enough momentum」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, really」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Listen, you can pat my head whenever you want, okay...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So right now...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, hit me with your best shot!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uugh... i-it's gonna hurt, you know」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll be fine! As long as I think of it as Big Brother's love!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah...」"
+  },
+  {
+    "message": "I feel like I'm gonna get a nosebleed even though nobody hit me."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm really gonna do it, okay~? I'm gonna mess you right up~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Quit stalling and hurry up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right!」"
+  },
+  {
+    "message": "I'm a man, too!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Forehead flick!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ow!」"
+  },
+  {
+    "message": "And I'm a total chicken!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah... Macaron, are you okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Something like that is no big deal!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thank goodness...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi. You shared your fighting spirit with me, Big Brother♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Do you think you'll be okay for tomorrow?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Of course」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「As long as I'm with you, Big Brother\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Me too, as long as I'm with Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's definitely make both the Holy Night Festival and the battle against Re-Crea a success...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mmh... smooch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, maybe this really is the best way to get fired up...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Smooch」"
+  },
+  {
+    "message": "I'll protect this world, and everyone's peace."
+  },
+  {
+    "message": "Yet above all else..."
+  },
+  {
+    "message": "Is this irreplaceable person, who stays right by my side."
+  },
+  {
+    "message": "Because to me, she is what matters most."
+  }
+]

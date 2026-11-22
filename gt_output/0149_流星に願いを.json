@@ -1,0 +1,716 @@
+[
+  {
+    "message": "流星に願いを"
+  },
+  {
+    "message": "Even though we've been told to rest since it's a day off, I just can't seem to settle down."
+  },
+  {
+    "message": "I mean, sure, I don't need Ria-senpai to tell me that if we collapse on the big day, we'll cause a massive amount of trouble for everyone around us, but……"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Look who showed up--it's the mysterious transfer student.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe Azel couldn't contain her excitement thinking about KiraFes either, and ended up coming to the academy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No way in hell.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……What's she doing?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's holding somethin' in her hand.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet it's a map of the KiraFes booth locations!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……Doesn't add up to me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think? Then she's probably walking around looking at a campus map, trying to memorize the facilities and paths.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel stops in her tracks and peers at whatever she's holding in her hand."
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if something's wrong?」"
+  },
+  {
+    "message": "And then, she stares intently at the ground."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She stopped again.」"
+  },
+  {
+    "message": "Azel walks a little, stops, and then starts walking once more."
+  },
+  {
+    "name": "Synn",
+    "message": "「She must be walking around picturing how the actual KiraFes will go. You know, image training.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "message": "Suddenly, Azel raises her head."
+  },
+  {
+    "message": "She stares intently at something."
+  },
+  {
+    "name": "Synn",
+    "message": "「What's she looking at?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sometimes people can see things that ain't there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that supposed to mean?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This academy's got a long history, y'know. There's gotta be one or two--nah, a hundred or two hundred occult mysteries around here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「They're swarming all over this area too. Vengeful spirits! I can feel it! Right where that girl's looking, there's a guy covered in blood!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that right?! Our familiar academy scenery suddenly turns into the setting of a horror movie?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't worry, I can't see anything at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Are you kidding me?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I may be a great sage, but that stuff's outside my area of expertise.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't scare me like that.」"
+  },
+  {
+    "message": "Azel started walking again."
+  },
+  {
+    "message": "Still, I wonder what she was looking at."
+  },
+  {
+    "message": "I stood in the spot where Azel had stopped and turned my eyes in the direction she had been looking."
+  },
+  {
+    "message": "A beautiful shimmer caught my eye."
+  },
+  {
+    "message": "It was a spiderweb sparkling in the sunlight."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ho. Fancy her having her eye caught by something like that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "The tightly woven spiral web didn't have a single flaw. It shone just like a brooch made of glass and diamonds."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Think it might rain tomorrow or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...A spiderweb after the rain would probably be pretty too.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, well. If you ask her, she'd say that kind of thing is pointless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I wonder if that's true."
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no doubt about it, she was looking at this.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Maybe it's a biologically rare spider? She's a spider fanatic, you know. Could it be... Spider-Woman?」"
+  },
+  {
+    "message": "I tried imagining Azel shooting webs from her fingertips."
+  },
+  {
+    "name": "Synn",
+    "message": "「...No, there's no way.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President spotted!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're a bad person, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?! Why am I the bad guy?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't even need to say it--I already know. You couldn't hold back your boiling youthful blood either, so you stayed behind at the academy to do Student Council activities, didn't you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, well, Ria-senpai...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senior's words cannot suppress this passion. After all, they say youth is an explosion.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I feel bad for Ria-senpai, though. I don't think I can just go home like this either."
+  },
+  {
+    "name": "Synn",
+    "message": "「You feel the same way, don't you, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? No, I don't? I'm just about to get dragged into the President's scheme and forced to do Student Council activities.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You just said 'the President too,' didn't you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Um, I think you're just hearing things. After all, they say humans tend to only want to hear what's convenient for them.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then you can go home.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you saying? Trying to get a head start on me is forbidden!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Doing something naughty really gets my heart pounding~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shh. Keep it down.」"
+  },
+  {
+    "message": "Sounds echo easily in the hallway."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There doesn't seem to be anyone around all the way up to the Student Council room.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now's our chance.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right. If we're going, now's the time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... wait.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Vice President, you came for Student Council activities too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No, I didn't! I would never do something so audacious as going against Onee-sama's word to do Student Council work!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why are you here, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That's... obviously to keep watch in case delinquents like you two showed up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But didn't you just say, 'If we're going, now's the time'?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I never said anything of the sort! You're just hearing things, Sakura-kun!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, that line. I heard it too.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Me too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're hearing things! I said you're hearing things!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Look straight into my round little eyes and at my adorable form, and tell me I'm just hearing things? Come on, try it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You play dirty... Saying things like that while looking just like Blackuma!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I win」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone is a fellow degenerate, aren't we」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't want to be fellows like that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aah. Miss Senpai!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan!」"
+  },
+  {
+    "message": "An unnatural silence."
+  },
+  {
+    "name": "Ria",
+    "message": "「...Er, ahem」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey now. Everyone has to listen to what your senpai tells you, okay」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Umm, so you see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you push yourselves too hard and collapse on the big day, it'll cause trouble for everyone. So you have to make sure you rest properly on your days off, okay」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, um... do you understand?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I understand」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um. I do understand, however...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The wild instincts known as the hot blood of youth drove out our reason」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm sorry, Big Sister」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, none of you can be helped」"
+  },
+  {
+    "message": "It went without saying that Ria-senpai herself was included among those who couldn't be helped."
+  },
+  {
+    "message": "In the end. Nanaka, who came by to deliver soba thinking everyone must be getting hungry soon, joined in too."
+  },
+  {
+    "message": "Even Sally-chan came over to play."
+  },
+  {
+    "message": "Ultimately, we spent all the way until sunset preparing for Kirafes."
+  },
+  {
+    "message": "Though Sally-chan was just playing around the whole time……."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. It's gotten completely dark!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku…… Impressive as always, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Saying you forgot something so you could turn back alone and set up a magic circle to take over the academy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't have that kind of power」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, none of the past Demon Lords had that kind of power either, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「As the Demon Lord, all you gotta do is sit back and look imposing. You're the Demon Lord, after all. Leave petty tricks like magic circles to your subordinates」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't even have any subordinates」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I feel like there used to be guys who were good at that stuff…… Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, whatever, you've got yours truly, the Great Sage, right here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So it's just one person……. But if that's the case, what is a Demon Lord supposed to do?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just fool around with women or whatever. You're the Demon Lord, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You really are totally irresponsible…… Ah」"
+  },
+  {
+    "message": "A rain of meteors streams silently across the sky."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe because there aren't many lights here compared to downtown…… it's amazing」"
+  },
+  {
+    "message": "Maybe that was why."
+  },
+  {
+    "message": "Maybe the reason I went to the plaza beneath Finis Tower instead of heading home was because the meteors were so beautiful."
+  },
+  {
+    "message": "And then."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel was there."
+  },
+  {
+    "message": "She was looking up at the falling meteors."
+  },
+  {
+    "message": "Her profile, illuminated by the pale blue light, was beautiful."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good evening」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "This is my chance! I've got to say something."
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you know why this town is called Ryuusei Town?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel gave a small shake of her head."
+  },
+  {
+    "name": "Synn",
+    "message": "「You can see way more shooting stars in this town than anywhere else--it's been like that since way back.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...How simplistic.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's just how it is.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What about you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What do you think?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've been seeing them since I was born, so... I don't really find them mysterious or anything... They're pretty, though.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What did you think, Azel? Usually, everyone who comes to this town from outside gets surprised when they look up at the night sky.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is merely a physical phenomenon. Nothing worth being surprised over.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Maybe you're right.」"
+  },
+  {
+    "message": "The shooting stars pouring down from the sky above Finis Tower fall one after another, only to disintegrate far short of hitting the ground or buildings, vanishing without a trace."
+  },
+  {
+    "message": "Endlessly, endlessly, all night long."
+  },
+  {
+    "name": "Azel",
+    "message": "「However...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The person who took that photo collection would likely capture this sight as something beautiful.」"
+  },
+  {
+    "message": "I see. He really does think it's beautiful after all."
+  },
+  {
+    "message": "Azel is standoffish, skips class all the time, and it's hard to tell what he's thinking, though."
+  },
+  {
+    "message": "Even so, he feels the same way we do."
+  },
+  {
+    "message": "Though I guess that's only natural."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "With this many, it feels like any wish could come true."
+  },
+  {
+    "message": "I want Azel to open his heart to everyone."
+  },
+  {
+    "message": "I want KiraFes to go well."
+  },
+  {
+    "message": "Still, the shooting stars vanish right away. They disappear before you can finish saying your wish."
+  },
+  {
+    "name": "Synn",
+    "message": "「People have always said that if you make a wish before a shooting star disappears, it'll come true, but... do you have a similar saying in your country, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What is that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so you don't have that in your country.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, the time before a shooting star disappears is way too short, so it ends before you can even say anything.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even a short wish like, 'I want KiraFes to go well'... you don't make it in time.」"
+  },
+  {
+    "message": "As for my other wish, I can't quite say it out loud."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no such option as wishing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "Before I knew it, Azel had started walking."
+  },
+  {
+    "name": "Azel",
+    "message": "「We merely receive what the gods bestow upon us」"
+  },
+  {
+    "message": "His small back melts into the night."
+  },
+  {
+    "name": "Azel",
+    "message": "「Wishes... are unnecessary」"
+  },
+  {
+    "message": "I was left behind in the darkness."
+  }
+]

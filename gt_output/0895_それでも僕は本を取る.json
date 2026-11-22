@@ -1,0 +1,598 @@
+[
+  {
+    "message": "それでも僕は本を取る"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh. A demon you've never seen before, huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. It was kind of like a cat demon.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not a panda?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't lump the great me in with small-fry demons!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aren't you basically the same thing?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I guess there could be demons that look like pandas too.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Who knows. There's all kinds of 'em, just like humans.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez, I'm telling you, you're bothering the students!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, it's Misa. Wonder what she's doing.」"
+  },
+  {
+    "name": "?????",
+    "message": "「I was merely lured by the alluring fragrance radiating from this garden of lovely maidens, letting my instincts guide my feet...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Like I said, I can't possibly let a pervert onto the academy grounds!」"
+  },
+  {
+    "name": "?????",
+    "message": "「Ahh, yet even that furious visage flushed crimson is as lovely as a rose, is it not?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Grrr! Excuse me for being so thorny!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Good morning...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Oh, sorry about that. Good morning, Sakura-kun, Nanaka-san.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you doing so early in the morning?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This person was trying to barge into the academy without permission, so I was warning him off.」"
+  },
+  {
+    "name": "?????",
+    "message": "「However, frolicking with wonderful women is my very raison d'etre. The universal truth itself, so to speak.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He's been going on like this the whole time...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you looking for a wonderful woman?」"
+  },
+  {
+    "name": "?????",
+    "message": "「Yes. I yearn for one from the very depths of my heart.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, there's a wonderful person named Reiko Shinagawa at Shinagawa Greengrocer in the shopping district.」"
+  },
+  {
+    "name": "?????",
+    "message": "「Oh, Lady Reiko! Truly magnificent!」"
+  },
+  {
+    "name": "?????",
+    "message": "「From her name alone, one can easily imagine what a lovely woman she must be!」"
+  },
+  {
+    "name": "?????",
+    "message": "「Thank you very much for the introduction.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, it's no trouble at all.」"
+  },
+  {
+    "name": "?????",
+    "message": "「By the way, might I ask for your name, good sir?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I'm Synn Sakura, president of the Ryuusei Student Council.」"
+  },
+  {
+    "name": "?????",
+    "message": "「Synn Sakura. So you are the president. You are quite charming yourself, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, thanks...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I am Melphas, the Evangelist of Love. A pleasure to make your acquaintance.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Now then, please excuse me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nice one, Synn. I can't believe you sicced him on Shina-oba...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I'll have to apologize to Shina-oba later.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You saved me, Sakura-kun. For today, I'll let you have my thanks.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, thanks.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, we'll be late if we don't hurry.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, that's bad! Let's go, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's up? Something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's just that Melphas guy...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ah, yeah, he's a demon, that one.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right?」"
+  },
+  {
+    "message": "Just as I thought, there seem to be all kinds of demons."
+  },
+  {
+    "name": "Ria",
+    "message": "「And so, I'd like to begin the Crusaders' strategy meeting~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Specifically, what shall we be discussing?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't it about the demon Sakura-kun said he saw yesterday?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since around last week, it's been every single day lately.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, would handling things the same way we have until now not suffice?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't ask me, I wouldn't know!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, we don't even know much about Re-Crea to begin with, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not something to say so proudly.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The damage caused by demons is increasing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「However, it's also a fact that we lack information...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So first, everyone needs to properly learn about Re-Crea, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, do you have a bright idea?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um... for now, how about we ask my big sister?\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And so, we've come to consult with you, Helena-san.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I want you to teach everyone what you know, Big Sis.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see. I understand the situation.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then right away, the secrets of Re-Crea...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Rejected!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We got turned down!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No good, you lot, relying on others so easily like that.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You see, knowledge only sticks when you learn it yourself. It's just like studying.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Certainly, that's true...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's such a hassle!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't be spoiled」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Back in the day, even I gathered information all on my own and survived Re-Crea」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll lend you a hand when push comes to shove, so until then, try your best on your own」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis... You actually sound like an educator for once」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Saying things like that... Is it these boobs?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaah!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Honestly, what am I going to do if you don't pull yourself together」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-But... I just thought you could tell us what Mom taught you...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nooo~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, where on earth are we supposed to go to look up info on Re-Crea?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Let's see... For starters, why don't you try going to the library or something」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I relied on it quite a lot myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, of course」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Auuu...\\s06」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Besides, gathering information is the basics of any RPG!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In terms of trying hard on your own first, don't you think it's just right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. So that is why you all came here together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We were hoping you could lend us some materials regarding Re-Crea」"
+  },
+  {
+    "message": "Knowing Melilot-san, she's bound to pick out the exact right materials for us."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Acquiring new knowledge to prepare for the future...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is a truly admirable attitude」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ahem!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, it is unnecessary」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I mean that there is no need for you all to gather information about Re-Crea」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then what should we do from here on out……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, exactly. Fighting without knowing anything is kinda weird, isn't it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You will come to learn the necessary knowledge in due time, once the moment arrives」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Until then, you need not force yourselves to gather information」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Instead, I simply ask that you devote that time to other matters you ought to be doing」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Like going on adventures and having tea parties!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your regular studies and special training in Spirit Arts」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heuuu, so it's all just troublesome stuff after all……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, is it really unnecessary……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am not forbidding it, necessarily」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is simply that you all have other things you ought to prioritize」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Doesn't this feel subtly different from what Helena told us?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, as long as Melilot says so, I suppose it can't be helped」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe Big Sis predicted that things would turn out like this too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good grief, she completely pulled the wool over our eyes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. Just forgot something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone, go on ahead without me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gotcha」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh, Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you still need something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was thinking of doing some research on Re-Crea」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Is that so」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like you're forbidding it, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Please feel free to do as you like, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'll gladly take you up on that offer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There might just be some related documents mixed in among them, after all……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For better or worse, I suppose that just means you're earnest……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, that's not a bad thing at all……」"
+  },
+  {
+    "message": "First, I narrowed my focus to the previous Re-Crea and stuck it out right up until time ran out, but……."
+  },
+  {
+    "message": "In the end, I didn't get any decent results."
+  },
+  {
+    "message": "Maybe Melilot-san is right after all..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes... huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Why don't you take a little break?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It wouldn't hurt to have at least a cup of tea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, are you sure...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's a silly question. I'm the one offering it, after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Overworking yourself won't get you anywhere」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...You're right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, thank you very much」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Go right ahead」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...By the way, isn't eating and drinking prohibited in here...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is a special exception」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Taking care of diligent students is also part of a librarian's duties, after all」"
+  },
+  {
+    "message": "Still, I feel like trying just a little bit harder."
+  },
+  {
+    "message": "Because when all is said and done, Ms. Melilot stayed and watched over me right up until closing time..."
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "message": "僕の仔猫ちゃん"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, let's hurry home and study for the exams. We're only halfway there--if we let our guard down now, it's over.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come now, let's get home right away and study. We've only just finished the first day; the real battle is tomorrow.」"
+  },
+  {
+    "message": "I bump right into Misa in the hallway."
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Oh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey you, don't follow me around.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got the wrong idea, I'm just trying to head to the shoe lockers.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Obviously I am too.」"
+  },
+  {
+    "message": "Inevitably ending up side by side with Misa, we head toward the shoe lockers to leave school. Before I know it, our pace starts picking up."
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I won't lose! I'm going to make it home first!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!?」"
+  },
+  {
+    "message": "The instant we pass the hallway, Misa bolts down the stairs, skipping three steps at a time."
+  },
+  {
+    "message": "Since when was Misa this athletic?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa...!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Welp, she went and blew herself up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh no, Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, hang in there! Here!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why... are you crouching down... with your back... turned to me...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Get on my back! I'll carry you straight to the infirmary.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't do... something... so disgraceful!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This isn't the time to be stubborn!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-How rude...! Who are you calling... obstinate!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I... j-just twisted my ankle... a tiny bit. I can walk... totally... normally, you know!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse... me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't even walk properly」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh! I-It doesn't... hurt at all. I'm just acting... to tease you...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah... hah... hah...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, just like Hiss herself says, it ain't a serious injury, right? Not even a scratch, so if she rests for two or three hours, she'll recover, yeah?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew, thank goodness」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm the one... who's relieved...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah... hah... I want to go home...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey Misa, instead of a piggyback ride, how about letting me lend you my shoulder?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah... hah... N-No... It's not like... I'm embarrassed or anything, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, should I go call Shio-chan instead of me, then?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Stop that! Shio is working hard to place in the top 10 on this next test! I can't get in her way」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Our match is on hold. Sakura-kun, you go on home first. After all, I'll heal up if I just stay still for two or three hours」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You just said you wanted to go home, didn't you? I'm sure you want to study for the test for even a single minute longer, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's your deal, stop nitpicking my words. First of all, do you even know where my house is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I don't」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I will NEVER, EVER tell you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Well, it can't be helped then, I got it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's right, as long as you understand. Honestly, you're so stubborn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, looks like I have no choice but to use my last resort」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Synn-sama? What're you planning to do grabbin' the scruff of my neck like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Poof」"
+  },
+  {
+    "message": "I slap Paqy onto my own face."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nwooooh!? S-Synn-sama's breath and lips are caressing my chest and belly button!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Forcing humiliation play on me out in public like this... E-Expected nothing less.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, cut the jokes.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sure thing.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey Hiss, now you don't gotta worry about Synn-sama finding out your address, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...So I'll navigate and give Sakura-kun directions on where to go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, though you'll have to stick close to me so I can hear you easily.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shut up, you don't have to point out every little thing!」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "And so, somehow or other, I managed to see Misa all the way home... apparently."
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee. Spin, spin, spin.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-M-M-Misa? What are you doing to me!?」"
+  },
+  {
+    "message": "At what seemed to be the entrance to her house, Misa spun me around several times while I stood there blindfolded."
+  },
+  {
+    "name": "Misa",
+    "message": "「Spin, spin, spin... Now your sense of direction is completely messed up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's awful! Isn't this just like abandoning a kitten!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy-san, I'll leave the rest to you. Please keep acting as an eye mask until you reach Grand Palace Sakura!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Good grief, what a pain.」"
+  },
+  {
+    "message": "Late that night, I got a phone call from Misa."
+  },
+  {
+    "message": "Regarding what happened during the day, she offered the most roundabout expression of gratitude imaginable, followed by her usual declaration of war."
+  },
+  {
+    "message": "That the pain in her foot had completely subsided, that it wouldn't interfere with studying for the test, and that the real showdown is tomorrow."
+  }
+]

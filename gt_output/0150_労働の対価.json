@@ -1,0 +1,970 @@
+[
+  {
+    "message": "労働の対価"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hellooo~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry, but we don't have time to deal with you right now!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Thought you'd say that~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You came to help out」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahaha, no way~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In the first place, why are you even here, Takahashi!? Don't you have your own duties to take care of?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come to think of it, has that indiscriminate pickup artist still not been caught?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio is chasing after him, but it seems he's pretty fast on his feet」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh! That guy hit on me too~ I was on my way here so I ignored him, though~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ew. Truly indiscriminate」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so on--we have a mountain of problems. Therefore, Mr. Treasurer, please do something about this friend of yours」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, that's the situation」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Like I said! I figured you guys were busy, so I brought reinforcements~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Reinforcements?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I caught him in an empty classroom~ So feel free to use him however you like~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Listen, Takahashi. I don't think forcing someone is right\\s01」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well then, I'll leave the rest to you~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, get baaaaack here...... She's always so fast when running away」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So, what are you going to do?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean, what am I going to do?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......I'm going home」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now, don't say that. Once you join in, it's actually quite fun」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Speaking from my rich and splendid life experience, the best thing to do is just participate for now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I participated, and participated, and participated, and finally arrived at the fun Student Council!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going home」"
+  },
+  {
+    "message": "Hm? Wait a second, this might be my chance!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold it right thereee!」"
+  },
+  {
+    "message": "With this event, I'll get Azel to blend right into the academy all at once!"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "In that case, right here, I have to take the plunge!"
+  },
+  {
+    "name": "Synn",
+    "message": "「How about one day's worth of cafeteria food!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, even if you take the plunge, that's about as far as you go, Synn...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't that bri--mmph, mmph」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Madam Vice President. You mustn't interrupt an interesting negotiation」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah... Th-Then two days' worth!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat!? There's no way you can afford that」"
+  },
+  {
+    "message": "There are times when a Student Council President has to do what he has to do."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can order whatever you want at Prier!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Listen, Synn. I think anything too expensive is going to be a problem」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, before that, it's just impossible」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so! I can't back down here!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Those are serious eyes」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Synn, you're amazing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll pitch in too! I'll cover up to half!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, but, this is something I, as Student Council President」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't worry about it! Leave half of it to me!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Two days' worth of Vandine Jelly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, not something like that...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't have any favorites」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then it doesn't really have to be that...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Got it. Two days' worth of Vandine Jelly, right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's a deal」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, it's burning, it's burning!」"
+  },
+  {
+    "message": "I frantically stir the yakisoba with a spatula."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You have to stir it like this so it cooks evenly」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Too much trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...The deal」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What's next?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, first you pour sauce on for seasoning」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't dump the whole thing on!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pitch black」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I-I can't eat this..."
+  },
+  {
+    "message": "Still, it'd be a waste... I'll ask Eauderourke if he'll eat it later."
+  },
+  {
+    "name": "Azel",
+    "message": "「What do I pour on next?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...My bad for making you do something so hard right off the bat」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then... peel the potatoes over here」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is that terrifying way you're holding the knife!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stab」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What good would stabbing me do!?」"
+  },
+  {
+    "message": "Taking the knife away from Azel, who was holding it at his hip like he was in a yakuza turf war."
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, very wrong. You hold it like this」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't point the blade up... W-woah! Don't swing it around!」"
+  },
+  {
+    "message": "How dangerously perilous!"
+  },
+  {
+    "name": "Azel",
+    "message": "「Can't stab」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to stab it, don't stab it...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. Just like that, onto the potato」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stab」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not like that! Do it just like I'm doing, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like this, press the knife in shallowly and slowly peel the skin with a gliding motion」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, that's way too deep!」"
+  },
+  {
+    "message": "At that rate, there won't be anything left after peeling!"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Peeled」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Just as expected, nothing was left after he finished peeling."
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen... Never mind this part, could you crack the eggs for me?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're just slamming them down right off the bat!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... Have you never cracked an egg before?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm cracking it」"
+  },
+  {
+    "message": "Sure, slamming it down will break it, though."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could you hand out those balloons?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All you have to do is stand there holding the balloons. Then, just hand one to anyone who comes up to you and you're golden」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, let's practice a bit」"
+  },
+  {
+    "message": "I walk up to Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if you hand me all of them...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Done」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not like that! One per person!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're doing it one more time」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Mhm. He handed it to me."
+  },
+  {
+    "message": "Not just a little, he's way too unfriendly... though maybe asking for more is impossible."
+  },
+  {
+    "message": "Besides, if he's surrounded by kids' smiles, even Azel is bound to stop being so standoffish."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah, yeah, just like that」"
+  },
+  {
+    "message": "I handed back the balloon I'd received."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah. That was just practice, so it doesn't count」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Guh」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Now then, let's see how Azel is doing..."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Whoa. Way too unfriendly. Even the kids look hesitant to take one."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, uh... do you think you could be a little more friendly?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With stuff like this, I think it's better if the person handing them out looks like they're having fun. It makes it easier for them to take a balloon, too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It isn't fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But look, once the kids start coming over, it'll get fun. So come on, try smiling just a tiny bit」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You ask for a lot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Contract」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Grin」"
+  },
+  {
+    "message": "Wawah. The kids are receding like an ebbing tide!"
+  },
+  {
+    "name": "Azel",
+    "message": "「So fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Does it have to be a job where it's fine to look unmotivated and unfriendly, and barely move at all...?"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "So with that, I had Azel stand around holding a sign, and yet..."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "He's literally just standing there..."
+  },
+  {
+    "message": "This feels wrong, totally wrong!"
+  },
+  {
+    "message": "Wait a second, before I knew it, the goal became making him work, completely drifting away from the point of getting him to have fun!"
+  },
+  {
+    "name": "Man",
+    "message": "「Mademoiselle. Would you care to enjoy an elegant afternoon tea with me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh, ah, um, I'm on the Kira-Fes executive committee, so」"
+  },
+  {
+    "message": "Wawah. Over there, Ria-senpai is getting hit on!?"
+  },
+  {
+    "name": "Man",
+    "message": "「Acquiring a splendid tea set at this very venue just moments ago must have been a harbinger of my meeting you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "With an utterly casual motion, the thoroughly suspicious, suave man took Ria-senpai's hand and"
+  },
+  {
+    "name": "Man",
+    "message": "「And labor does not suit a young lady's lovely fingers at all. Those fingers are meant solely for enjoying an elegant teatime with me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, please don't do that」"
+  },
+  {
+    "name": "Man",
+    "message": "「Even your troubled expression is quite lovely. There's a cafe just over there that serves rather delicious black tea――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai clearly doesn't want this, so please stop!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, Synn-kun」"
+  },
+  {
+    "name": "Man",
+    "message": "「And might you be her lover, then?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eeh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, I'm not!」"
+  },
+  {
+    "name": "Man",
+    "message": "「In that case, sticking your nose into someone else's romance is rather uncouth」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Romance!?」"
+  },
+  {
+    "name": "Man",
+    "message": "「You're still young, so I suppose it can't be helped if you don't understand. However, such behavior can hardly be called refined」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There isn't any romance to begin with!」"
+  },
+  {
+    "name": "Man",
+    "message": "「That is only because you haven't noticed it yet」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hold it right there!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Hmph」"
+  },
+  {
+    "message": "The man lightly dodged Shio-chan's naginata."
+  },
+  {
+    "name": "Man",
+    "message": "「Deep jealousy is also one of a woman's charms」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah, stand still and face your judgment!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Slaying the man you love to make those feelings eternal... I'm almost moved by that passion of yours」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Do not jest with me, you insolent cur!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Winning over someone who plays hard to get is also one of the true pleasures of love」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah, stop darting around!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Scattering my life before your passion wouldn't be a bad way to end things, I suppose, though now is not yet the time」"
+  },
+  {
+    "message": "Shio-chan's attacks don't even graze him."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That guy isn't normal」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If thou wishest for the end so badly, I am not unwilling to oblige!」"
+  },
+  {
+    "name": "Man",
+    "message": "「As long as there are encounters yet unseen, I simply cannot die」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, I can tell. He's an eccentric, isn't he」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's not what I meant... He's parrying Shio-chan's attacks without barely moving」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmph, take this, ha!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Your form of love is beautiful. However, rather than such a form of love, why not savor a different kind of love?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hah!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Your valiant figure is lovely as well, yet--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-What?」"
+  },
+  {
+    "message": "Before anyone realized it, the man had slipped behind Shio-chan."
+  },
+  {
+    "name": "Shio",
+    "message": "「Kyaaaaah!」"
+  },
+  {
+    "message": "He trailed a finger lightly down her slender back, and"
+  },
+  {
+    "name": "Shio",
+    "message": "「What dost thou think thou art doing, fiend to maidens!」"
+  },
+  {
+    "name": "Man",
+    "message": "「A flower tinged with shyness is also worthy of admiration」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Guh!」"
+  },
+  {
+    "message": "Shio-chan leaped away as if flying and readied her naginata once more."
+  },
+  {
+    "name": "Shio",
+    "message": "「Enough of this mockery!」"
+  },
+  {
+    "name": "Man",
+    "message": "「To become so bloodthirsty over something of this degree--your life training is still sorely lacking」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Judgment!」"
+  },
+  {
+    "message": "A godspeed thrust that seemed utterly impossible to evade lunged at the man."
+  },
+  {
+    "name": "Man",
+    "message": "「Heh. I have certainly received your passion」"
+  },
+  {
+    "name": "Shio",
+    "message": "「N-No way...」"
+  },
+  {
+    "message": "The man had caught the tip of her naginata with a signboard he had casually snatched from Azel."
+  },
+  {
+    "name": "Man",
+    "message": "「However, you must not let yourself be driven by such a trifling surge of emotion to take a life」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "message": "With a snap, the half of the signboard severed by the naginata fell right onto the man's toes."
+  },
+  {
+    "name": "Man",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That looks painful」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah. Um, are you okay?」"
+  },
+  {
+    "name": "Man",
+    "message": "「It is nothing worth troubling a lovely mademoiselle over. After all, pain is part and parcel of love」"
+  },
+  {
+    "message": "The man's gaze turned toward Shio-chan, who was still standing there in a daze."
+  },
+  {
+    "name": "Man",
+    "message": "「The world is beautiful. Those who live are beautiful for that alone. You must never forget that」"
+  },
+  {
+    "message": "Then, his gaze locked onto Azel."
+  },
+  {
+    "name": "Man",
+    "message": "「Though, perhaps you do not feel the same way」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Shut up」"
+  },
+  {
+    "name": "Man",
+    "message": "「Words unpleasant to the ear are always grating. However, irritating a lady any further is not my intention」"
+  },
+  {
+    "message": "With those words, the man gave a bow, and."
+  },
+  {
+    "name": "Man",
+    "message": "「Farewell!」"
+  },
+  {
+    "message": "Just as a massive flurry of rose petals suddenly swirled wildly through the air, the man slipped away in the commotion."
+  },
+  {
+    "name": "Shio",
+    "message": "「...I still lack sufficient training... To have that pointed out by such a frivolous man... H-How humiliating」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You drove him off for now, didn't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, all's well that ends well」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Once this festival is over, I intend to seclude myself in the mountains for about three days. Please tell my elder sister not to worry if she cannot reach me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you know that guy?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Never seen him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Really?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Never seen him」"
+  },
+  {
+    "message": "She didn't leave any room to pry."
+  },
+  {
+    "message": "Still, that was just how Azel always acted, so there was no way to read anything into her attitude."
+  },
+  {
+    "message": "Even so, what was with that loaded remark of his..."
+  }
+]

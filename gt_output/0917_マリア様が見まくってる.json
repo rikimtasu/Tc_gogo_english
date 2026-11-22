@@ -1,0 +1,538 @@
+[
+  {
+    "message": "マリア様が見まくってる"
+  },
+  {
+    "name": "Synn",
+    "message": "「Things sure are busy.」"
+  },
+  {
+    "message": "Still, it's great that we seem to have gained a reliable ally."
+  },
+  {
+    "name": "Misa",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, are you okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes, it's nothing at all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really? Well, if you say so...」"
+  },
+  {
+    "message": "Her face looks a little red to me, though--maybe it's just my imagination."
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What is it, Sister?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun and I are going to look around the area a bit before heading back, so could you go ahead and report to everyone for us?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Understood.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm counting on you.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As you wish. Now then, excuse me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haaah~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa?!」"
+  },
+  {
+    "message": "The moment I call out to her, she plops right down onto the spot as if a taut string had suddenly snapped."
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, are you okay? Did you get hurt somewhere?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, no, I'm fine, really, I'm okay...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Really, it's nothing at all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It doesn't look like nothing, that's why I'm worried.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tell me what's wrong. If anything were to happen to you, Misa, I...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That's, well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Uuu~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't understand unless you tell me clearly, Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah... b-but...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if you say that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's okay. Trust me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it really is nothing, then that's fine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just talk to me properly and put my mind at ease.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「…………」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...O-Okay.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll tell you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Um, you see...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Earlier, while we were fighting...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Seeing your back, Sakura-kun, um...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It felt like you were protecting me, and I thought it was wonderful, or rather...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, does that mean...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I mean, well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm saying you looked cool when you were fighting, Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-How could I just come right out and say something so embarrassing...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That I got so captivated by you, my heart felt all floaty and I couldn't even stand...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's way too embarrassing, there's no way I could say that...!」"
+  },
+  {
+    "message": "With her face bright red, she looks down."
+  },
+  {
+    "message": "Seeing Misa like that, she looks so unbearably endearing to me..."
+  },
+  {
+    "name": "Synn",
+    "message": "「...I see. Thank you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Uuu~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How should I put it, I've always been thinking that I had to protect Misa...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I managed to do that, I guess I'm glad」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Isn't that obvious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah」"
+  },
+  {
+    "message": "Gently, I kneel down beside Misa."
+  },
+  {
+    "name": "Synn",
+    "message": "「Can you stand?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Not yet, I can't...」"
+  },
+  {
+    "message": "Her bright red face remains downcast."
+  },
+  {
+    "name": "Synn",
+    "message": "「Then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shall we rest at the church for a bit?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't be mean...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I just told you I can't stand...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know」"
+  },
+  {
+    "message": "At least enough to know that I have to do something about it."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why I'm doing this...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh...?」"
+  },
+  {
+    "message": "As if gently wrapping around Misa's body."
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh, eh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This way, you'll be fine, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh, ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-wh-what...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-this... is this...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A... a princess carry...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it uncomfortable?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank goodness」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Why……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's kind of my fault you can't walk anymore, Misa」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll take responsibility and carry you there」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, I can actually see your face properly now」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Auu~……」"
+  },
+  {
+    "message": "She looks down again. Still, she's much closer than before, and it puts me at ease."
+  },
+  {
+    "name": "Synn",
+    "message": "「If you want, should we head back to everyone like this?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh--!? No way, absolutely not! Never in a million years!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. I'm glad, you seem lively enough」"
+  },
+  {
+    "name": "Misa",
+    "message": "「G-Geez! Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, hey, Misa, stop thrashing around!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You dummy, Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow-ow-ow!」"
+  },
+  {
+    "message": "Because Misa is flailing her arms and legs, I nearly lose my balance."
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, kyaa!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's why I told you not to thrash around……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Uuu~...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-Don't let go of me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You'd better…… never let go, okay……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……I know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No matter what happens, I won't let go」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have you calmed down a little?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……W-Who knows」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like you'll feel better if you rest for a bit」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I don't care……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'm glad you're not hurt」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wouldn't make a blunder like that…… 」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't stand up right now, though」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Geez, Sakura-kun, you idiot……」"
+  },
+  {
+    "message": "She turns away again, and on top of that, squirms and wriggles around."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry--whoa, hey, stop thrashing around……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. Whatever……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't say that, come on, look over here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Misa, come on……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nn…… chu……」"
+  },
+  {
+    "message": "Just as she suddenly turns back around, our lips collide and press together……."
+  },
+  {
+    "name": "Misa",
+    "message": "「Nnh…… haa……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's because your face was so close, Sakura-kun……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I didn't aim for it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This was an accident. Just a coincidence, got it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An accident, huh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I guess it can't be helped if it happens again……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah…… Sakura-kun……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...」"
+  },
+  {
+    "message": "This time, I'm the one who gently brings my lips closer."
+  },
+  {
+    "message": "As if being drawn right into Misa in my arms."
+  },
+  {
+    "name": "Misa",
+    "message": "「Nn…… chu……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haa…… Sakura, -kun……」"
+  },
+  {
+    "message": "And then--"
+  },
+  {
+    "message": "Having taken a long time to finally reach the church, we."
+  },
+  {
+    "message": "At our own pace, slowly rested our bodies..."
+  },
+  {
+    "message": "When we returned to everyone, we apologized just a little for being late."
+  }
+]

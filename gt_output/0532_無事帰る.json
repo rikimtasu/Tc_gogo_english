@@ -1,0 +1,242 @@
+[
+  {
+    "message": "無事帰る"
+  },
+  {
+    "message": "Basking in the afterglow of KiraFes's success, I'd carelessly started letting my guard slip."
+  },
+  {
+    "message": "There's no need to be tense and on edge all the time, but when facing Demons, keeping a constant sense of alertness is essential."
+  },
+  {
+    "message": "Let's tighten up my focus!"
+  },
+  {
+    "message": "...How?"
+  },
+  {
+    "message": "I don't know."
+  },
+  {
+    "message": "Getting stuck in a vicious cycle of self-admonition is no good."
+  },
+  {
+    "name": "Synn",
+    "message": "「At times like this, let's pay a visit to the shrine and take it easy on the grounds.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, at the very least, the air over there's the clearest in Ryuusei Town. Might be a good change of pace, yeah?」"
+  },
+  {
+    "message": "And so, I headed to Asukai Shrine--"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hm? A bunch of brats are swarming over from that way.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa!」"
+  },
+  {
+    "message": "The kids run away at full speed. What could have them in such a panic"
+  },
+  {
+    "message": "Don't tell me, a Demon--!?"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「President, what seems to be the matter?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Misasagi-senpai...?」"
+  },
+  {
+    "message": "No way, even Senpai is a Demon... nah, couldn't be."
+  },
+  {
+    "name": "Shio",
+    "message": "「What is the meaning of this!? The children all went rushing down the shrine path at once!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, not only Lady Ayanishiki, but Lord Synn has graced us with his presence as well. Welcome, thank you for coming to worship.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, about those kids...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「They were roasting sweet potatoes, you see. When I gave them a little scolding, they bolted right away.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Wh-Wh-Wh-What did you say--!?」"
+  },
+  {
+    "message": "Misasagi-senpai points toward a corner of the shrine grounds with the tip of her folding fan. Shio-chan furrows her brow and turns her face in that direction as well."
+  },
+  {
+    "message": "Looking over, four green bamboo poles had been set up and encircled with a sacred shimenawa rope, and something was being roasted right in the center."
+  },
+  {
+    "message": "On New Year's Eve or New Year's Day, they burn the previous year's spent hamaya arrows and rakes like that, sure... but why in early autumn?"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sniff, sniff... That warm, sweet aroma of roasted sweet potatoes... *slurp*」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gasp!? No, no, no! Outrageous! What do they take the sacred fire for!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Asukai-san, I'll go pick them up. Would you mind if I ducked under the shimenawa rope?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I appreciate the sentiment, however, the misconduct of parishioners is the responsibility of the shrine clergy! I shall go myself.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「So stiff, so stiff. A shrine maiden is much more charming when she's a little more relaxed, you know.」"
+  },
+  {
+    "message": "Without waiting for Shio-chan's reply, Misasagi-senpai walks over toward the bonfire."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? What they're burning isn't hamaya arrows or anything like that... folding fans?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. That bonfire is a sacred Shinto ritual」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Practitioners of traditional dance and tea ceremony burn the worn-out folding fans they cherished in practice and on stage in the sacred fire, praying for mastery in their respective arts」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, so there's an event like that. It really is a sacred fire. Definitely not a place to be tossing sweet potatoes into」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still...」"
+  },
+  {
+    "message": "I wonder if the kids who ran off will come back for their baked sweet potatoes?"
+  },
+  {
+    "message": "From by the torii gate, I turn back toward the sea and look down the main approach."
+  },
+  {
+    "message": "The kids were milling around anxiously right where they stopped."
+  },
+  {
+    "name": "Synn",
+    "message": "「At this rate, they're just gonna go straight home...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Sigh... Well, it can't be helped」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You mustn't go doing things like this, alright?」"
+  },
+  {
+    "message": "Misasagi-senpai hands the finished baked sweet potatoes to the kids with a smile."
+  },
+  {
+    "name": "Shio",
+    "message": "「I apologize for putting you to the trouble. You have my gratitude, Lady Ayanishiki」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, to children, the shrine grounds are no different from a playground. The ritual burning must have looked like nothing more than an unusual bonfire, and they simply got carried away in the festive mood」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm the one who ought to apologize for being so forward, forgive me. By the way, how much would those sweet potatoes run me?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「At a rough estimate, I would say the equivalent of five children's protective talismans. They are embroidered with frogs and are quite effective for traffic safety」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Then in place of the sweet potatoes, I'll buy five of those charms to keep on hand」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Misasagi-senpai is amazing."
+  },
+  {
+    "name": "Shio",
+    "message": "「To the both of you, today was a most fine visit to the shrine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I'm really glad we came」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In late autumn, we also kindle a sacred fire for sweet confections. When that time comes, by all means, please pay us another visit」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Here, these are for you, President, and for you, Asukai-san」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Fuoh!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「The kids shared them with us. Such good children, aren't they?」"
+  },
+  {
+    "message": "Misasagi-senpai gently tosses the roasted sweet potatoes over to us."
+  },
+  {
+    "message": "Shio―chan and I reflexively reach out with both hands to catch them, but―"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hooooot!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-How unseemly of you, Sir Synn. If one empties the mind of all worldly thoughts, even a roasted sweet potato is... i-is...!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gahhh, it's scorching hot! Truth be told, I am terrible with hot things!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Should've said so sooner. Flap, flap, flap~」"
+  },
+  {
+    "message": "Misasagi-senpai fans a breeze over Shio-chan's and my hands with a folding fan."
+  },
+  {
+    "message": "The sacrilegious roasted sweet potatoes we ate on the shrine grounds tasted amazing."
+  }
+]

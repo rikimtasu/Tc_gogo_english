@@ -1,0 +1,690 @@
+[
+  {
+    "message": "ぽかぽか魔王"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmh, I'm so bored~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know resting my body is important and all, but......」"
+  },
+  {
+    "message": "I never realized having neither a part-time job nor Student Council duties would leave me at such a loose end."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Lord Demon, let's head back and take a nap or somethin'.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wouldn't that kind of feel like a waste?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then let's go peek on what Ria-chan's up to!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's Macaron.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh......? What the hell, ain't that the little shrimp from the other day?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's rude to say things like that. You're way more of a shrimp than she is, Paqy.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Shut up, willya!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, the great me is gonna hide out for a bit.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I ain't putting up with getting abused like last time again.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's really not that rough of a kid, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if she doesn't have work today......?」"
+  },
+  {
+    "message": "Since I'm here, I might as well call out to her."
+  },
+  {
+    "name": "Synn",
+    "message": "「Heeey, Macaron~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, maybe she didn't hear me......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What's the matter, President, shouting so loudly like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's just you, Lolotte. Don't startle me like that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was in the middle of exploring, you see, and I happened to spot you, President, so I couldn't help myself.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. I caught sight of Macaron, so I was just thinking of saying hi.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, your little sister, President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Though she's not really one」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A self-proclaimed Demon Lord, was it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's not a bad kid, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I could have sworn you were keeping tabs on her so your little sister wouldn't turn into a delinquent」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not keeping tabs on her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just a little curious about what Macaron gets up to on her days off」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oho. So that's how it is」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then let's get right to secretly tailing your little sister♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Shouldn't we just call out to her like normal?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Non, non! Where would the fun be in that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In life, a bit of playfulness is necessary from time to time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is now really the time for that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come now, let's go!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Where could she be heading……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Want to ask her?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Absolutely not! That would ruin the whole operation!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-right. Sorry……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She went right into the academy, didn't she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's she going to do?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm. Things are getting suspicious now♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's getting suspicious, I wonder?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn and Lolotte. What are you two doing in a place like this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, well, it's not like we're trying to break your rules or anything, Ria...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We're in the middle of tailing his little sister, you see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Macaron? What business does she have at the academy?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's what we're about to find out」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see. Still, peeping isn't very nice」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right? You seem like you'd be a frequent victim of peeping yourself, Ria」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, Synn, you pervert! Girls are going to hate you, you know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We already know the president is a pervert, so let's hurry and follow your sister!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hold on!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, she stopped」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She's looking around--I wonder what's wrong」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Ria. About peeping...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? Oh, this is fine!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Understanding how my juniors think is part of my duty as a senior, after all!\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As the saying goes, when in Rome, do as the perverts do♪」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright... hup!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Macaron just flopped right down」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That spot gets great sunlight, so it looks super warm」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aha, so she's sunbathing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mmm~~~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "So Macaron relaxes like that too."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Fuheh~...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That sure looks comfortable...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, it does」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu~...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let me join in too~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Lolotte!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Bohee~... Hm?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hello there」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gyaah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-I-I'm not slacking off or anything!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, whew. It's just you, little angel」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I told you, I'm not an angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha... sorry, Macaron」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Did we interrupt you?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh, Big Brother, and even Big Sister」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Why are you guys here? Isn't today a day off?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, you see, mmph--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... we just had a little Student Council business...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And then we just happened to spot you, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm. I see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is this your favorite spot, Macaron-chan?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nuh-uh. When I was looking for Big Brother the other day, I thought it looked nice and sunny」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I like it now, though\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I get that. Sunbathing feels really nice, doesn't it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah. Something about it just warms up my body and calms me down」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's pretty convincing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「B-But like I said earlier, it's not like I'm slacking off or anything!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I have the day off from work today, so I was just thinking of finding somewhere warm to do some thinking」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Macaron-chan... could it be that you're bad with the cold?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh!? N-N-No, not particularly, or anything like that, not really, um, auu...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You really are bad with it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm fine! If I do this, I'm totally okay! I can handle it!」"
+  },
+  {
+    "message": "No sooner does she say that than she pulls her hood all the way over her head."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, how's this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, it's a Dalakkuma」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan would probably love that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Looks cool, right~? I made this coat all by myself, you know!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Cool...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's some impressive handiwork. I'll have to take notes」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mumble mumble... If you're gonna say that, it's a Kopinkuma... zzz...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... She really does look comfy」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Somehow, it's making me want to curl up and lounge around too\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me too, me too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wah, hey, go over there, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, that's harsh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That's my spot!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. I'll scoot over here, then」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hyaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Hey, Synn!? Don't go touching weird places, bad!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, I'm sorry, I'm sorry!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother's so ba~d, what a per~v」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mumble mumble... future sex offender... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Isn't that going a bit too far?!\\s01」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi... Big Brother...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is it?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If it's me, no matter where you touch... I won't get mad, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hieeh!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, come o~n, now's your cha~nce?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Abababa...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, both of you, stop it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oww~ie. Geez, it was just a joke」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, that's bad for my heart...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not my problem. It's your fault for being a pervert, Big Brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's my fault?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whatever. I'm gonna take a nap too」"
+  },
+  {
+    "message": "Macaron flings her body down onto the warm grass."
+  },
+  {
+    "name": "Synn",
+    "message": "「Good grief...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Stare...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, no, I was just thinking how defenseless she looks」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mumble mumble... sex offender... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I think I'll take a nap too」"
+  },
+  {
+    "message": "Ah, the sunlight is so warm..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, don't leave your senpai out of it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nngh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, are you awake?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai... where's Macaron?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. It looks like she went off somewhere while we were asleep」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "Did we end up bothering her after all...?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... snore...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, Lolotte, you'll catch a cold if you sleep with your tummy sticking out」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nnngh, I'm so sleepy~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Giggle...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wanted to ask Macaron-chan a little bit about the Demon Lord, though...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Another time, I suppose...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmh, I slept so well!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Somehow, I feel like I was able to relax a whole lot」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, me too. We'll have to thank Macaron-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, let's do our best with Student Council activities again starting tomorrow!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!」"
+  }
+]

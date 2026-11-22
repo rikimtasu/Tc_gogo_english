@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import struct
 import unittest
 from pathlib import Path
@@ -397,6 +398,76 @@ class LocalParserTests(unittest.TestCase):
         self.uc.emu_start(0x0887F924, STOP, count=100000)
         self.assertEqual(self.support.word(dst_spk + 0x0C), 0x40)
         self.assertEqual(struct.unpack('<II', self.uc.mem_read(dst_spk + 0x58, 8)), (0x11223344, 0x096F5818))
+
+    @unittest.skipUnless(Path('build/p3_batch1_backlogfix2/fonts/font').is_dir(), 'Local font build unavailable')
+    def test_dialogue_and_backlog_spacing_match_actual_font_metrics(self):
+        from tools.font.build_font import crilayla, parse_w_abc
+        self.uc.mem_map(0x09200000, 0x100000)
+        fonts = {}
+        for index, name in enumerate(('sulakyapi8', 'sulakyapi12', 'sulakyapi18')):
+            path = Path('build/p3_batch1_backlogfix2/fonts/font') / name / 'abc.w_abc'
+            _, lut, glyphs = parse_w_abc(crilayla.decompress(path.read_bytes()))
+            base = 0x09200000 + index * 0x40000
+            self.uc.mem_write(base, struct.pack(f'<{len(lut)}H', *lut))
+            self.uc.mem_write(base + 0x20000, b''.join(struct.pack('<4H3h2H', *g) for g in glyphs))
+            slot = 0x08A26924 + index * 32
+            self.uc.mem_write(slot, struct.pack('<H', len(lut) - 1))
+            self.support.word(slot + 4, base)
+            self.support.word(slot + 12, base + 0x20000)
+            fonts[name] = (lut, glyphs)
+        text = b'Wi I l mw gjpqy 01239'
+        for font_id, name, half_cell in ((0, 'sulakyapi12', 7.0), (7, 'sulakyapi18', 10.5), (8, 'sulakyapi8', 5.0)):
+            with self.subTest(font=name):
+                lut, glyphs = fonts[name]
+                expected_x = []
+                x = 20
+                for char in text:
+                    expected_x.append(x)
+                    x += sum(glyphs[lut[char]][4:7])
+                self.created.clear()
+                self.support.context(slots=52, lines=3, half_cell=half_cell, font=font_id)
+                self.assertEqual(self.parse(text), len(text))
+                self.assertEqual([x for _, x, _ in self.positions()], expected_x)
+
+                self.created.clear()
+                bl, sprites, speaker, body = CONTEXT + 0x4000, CONTEXT + 0x4200, CONTEXT + 0x4600, CONTEXT + 0x4700
+                self.uc.mem_write(bl, bytes(0x100))
+                self.uc.mem_write(sprites, bytes(0x300))
+                self.uc.mem_write(speaker, b'\0')
+                self.uc.mem_write(body, text + b'\0\0')
+                for off, value in ((0x00, 1), (0x08, 0xFFFF), (0x2C, 20), (0x30, 20),
+                                   (0x34, 20), (0x3C, 380), (0x40, 80), (0x44, font_id),
+                                   (0x48, font_id), (0x4C, 14), (0x50, 14), (0x54, 20), (0x58, sprites)):
+                    self.support.word(bl + off, value)
+                self.uc.mem_write(bl + 0x24, struct.pack('<2f', half_cell, half_cell))
+                self.uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+                self.uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+                self.uc.reg_write(regs.UC_MIPS_REG_A0, bl)
+                self.uc.reg_write(regs.UC_MIPS_REG_A1, 2)
+                self.uc.reg_write(regs.UC_MIPS_REG_A2, speaker)
+                self.uc.reg_write(regs.UC_MIPS_REG_A3, len(text))
+                self.uc.reg_write(regs.UC_MIPS_REG_T0, body)
+                self.uc.reg_write(regs.UC_MIPS_REG_T1, 0)
+                self.uc.emu_start(0x0887FE40, STOP, count=200000)
+                self.assertEqual(self.uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
+                self.assertEqual([x for _, x, _ in self.positions()], expected_x)
+
+    def test_patch_eboot_strings_in_place(self) -> None:
+        root = Path(__file__).resolve().parents[1]
+        eboot_path = root / 'work' / 'eboot' / 'EBOOT_decrypted.bin'
+        if not eboot_path.is_file():
+            self.skipTest('local decrypted EBOOT not present')
+        strings_path = root / 'glossary' / 'eboot_strings.json'
+        patched, info = patch_bytes(eboot_path.read_bytes(), strings_path=strings_path)
+        manifest = json.loads(strings_path.read_text(encoding='utf-8'))
+        self.assertEqual(info['patched_strings'], manifest['count'])
+        for entry in manifest['strings']:
+            offset = int(entry['file_offset'], 16)
+            cap = int(entry['slot_capacity'])
+            encoded = entry['en'].encode('cp932')
+            self.assertLessEqual(len(encoded), cap)
+            expected = encoded + b'\x00' * (cap + 1 - len(encoded))
+            self.assertEqual(patched[offset:offset + cap + 1], expected)
 
 
 if __name__ == '__main__':

@@ -1,0 +1,398 @@
+[
+  {
+    "message": "闇からのまなざし"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Damn it, nya... You're pretty persistent, nya.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, I can fight now, so move! Hey, move! I can fight alongside you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine. I can keep fighting for another hour or two.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn...」"
+  },
+  {
+    "message": "I can manage if I just focus on defending."
+  },
+  {
+    "message": "Where are our allies?!"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That's enough of your tough act, nya!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Now it's two against ten, nya!」"
+  },
+  {
+    "message": "We're surrounded! Is this the end?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're an idiot.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya-t?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You, the first two, and the three reinforcements--one plus two plus three equals six.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Uhh... so it goes like nya-this... and like this... nya-nya...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya-w I get it!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Wait, shut up, nya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's the point of provoking him!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I bought us some time.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll take the front! So rest up, Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way!」"
+  },
+  {
+    "name": "??",
+    "message": "「Noblesse Laser!」"
+  },
+  {
+    "message": "One of the low-ranking demons took a direct hit from a beam of light that flew in from out of nowhere and burst into flames."
+  },
+  {
+    "name": "Sheba",
+    "message": "「Meow!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Reinforcements, nya?! Still, if it's just one person--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What do you think you're doing, Sakura-kun!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun! Sorry I'm late」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The hero arrives at the very end」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Then I'm the hero!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I was just one step away, nya! But I'll retreat for now, nya」"
+  },
+  {
+    "name": "Sheba",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Remember this, nya! Besides, you guys are already too late anyway, nya!」"
+  },
+  {
+    "message": "The presence of magic fades away."
+  },
+  {
+    "name": "Ria",
+    "message": "「Pasta-chan just said 'too late,' didn't she」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. What could that be about?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't understand, Vice President」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What was that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know what it means?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course, it's an obligation」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Obligation?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Villains are required to say lines like that when they run away」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, leaving me behind like that while you're with everyone……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What am I…… saying right now……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka! How are you feeling? Can you move?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you talking about, Synn, don't treat me like an invalid!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry for being late」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's fine. I put everything into defending, so I managed to hold out.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How pathetic. The best defense is a good offense.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's because I wasn't feeling well……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, you're the worst!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? Why!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You took advantage of the dark and did something horrible to Nanaka-san, didn't you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I hit the nail on the head, didn't I! Even for you, Sakura-kun, I didn't think you'd stoop that low!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something's there!」"
+  },
+  {
+    "message": "Beyond the darkness."
+  },
+  {
+    "message": "A thick, viscous presence, like boiled-down pitch darkness, came drifting toward us."
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... something's definitely there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone, don't let your guard down!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm not letting my guard down.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's... looking at me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "message": "Nanaka was trembling even more violently than before."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're being overly self-conscious, Treasurer.」"
+  },
+  {
+    "message": "I stepped forward as if to shield Nanaka."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, I'm fine! I'm okay! I'll be okay this time!」"
+  },
+  {
+    "message": "The grove harboring that dense presence stood dead silent, without even a single rustle."
+  },
+  {
+    "message": "Yet, we could neither approach it nor move away to escape."
+  },
+  {
+    "name": "Female Voice",
+    "message": "「Right now, it'd be effortless.」"
+  },
+  {
+    "message": "This voice!?"
+  },
+  {
+    "message": "The presence wavered."
+  },
+  {
+    "message": "As if by magic, an immense presence overflowed."
+  },
+  {
+    "message": "A malevolence so overwhelming it made that pasta from earlier look like a mere toy."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh! It's huge...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Aah... wh-what is this...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Shouldn't we run!? After all, they say running away is the best of the thirty-six stratagems, lest you chase two hares and catch neither.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think it's going to let us get away.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If running won't do any good, we have no choice but to fight!」"
+  },
+  {
+    "message": "Misa's voice trembled as she said it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "The night shuddered."
+  },
+  {
+    "name": "Misa",
+    "message": "「What is it this time!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Another one!?」"
+  },
+  {
+    "message": "Across the path from where the sinister presence lurked, a massive presence appeared in the grove of trees."
+  },
+  {
+    "message": "There had been no warning at all."
+  },
+  {
+    "message": "It held no malice--just a quiet presence."
+  },
+  {
+    "message": "Yet it was vivid enough to freeze the stillness of the night in an instant."
+  },
+  {
+    "name": "Male Voice",
+    "message": "「Withdraw.」"
+  },
+  {
+    "name": "Female Voice",
+    "message": "「Why!?」"
+  },
+  {
+    "name": "Male Voice",
+    "message": "「Withdraw.」"
+  },
+  {
+    "message": "Abruptly, the first presence vanished."
+  },
+  {
+    "message": "A few moments later, as if having seen it off, the second presence disappeared as well."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...」"
+  },
+  {
+    "message": "My hands, which had been gripping my weapon tightly, were clammy with sweat."
+  },
+  {
+    "name": "Misa",
+    "message": "「What in the world was that...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who knows...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm cold...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Nanaka was hugging herself tightly, as if trying to keep warm."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I want to take a hot bath right now... and go to sleep」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's nothing... it's nothing at all」"
+  },
+  {
+    "message": "That was the incident that occurred on the first day of December."
+  },
+  {
+    "message": "I had no idea what had frightened Nanaka so badly."
+  }
+]

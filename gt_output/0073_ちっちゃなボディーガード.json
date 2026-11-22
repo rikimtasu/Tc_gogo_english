@@ -1,0 +1,283 @@
+[
+  {
+    "message": "ちっちゃなボディーガード"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gyo-gyo!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Good morning」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「G-Good morning~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wawah!!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「She was fine until just a moment ago, but it seems she struggled with waking up earlier than she is used to」"
+  },
+  {
+    "message": "Even so, falling asleep standing up..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Morning, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good morning~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, why are you here?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Already taming this angel, huh? Impressive as always」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Truth be told, I was so anxious about the agenda that I simply couldn't sit still」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, she doesn't trust you at all, huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No. I believed that the President would pull it off」"
+  },
+  {
+    "message": "Gulp. Truth is, I barely made it in time--that was close~."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What I am worried about is: 'Can he actually bring the important documents safely all the way to school?'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How dramatic」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Like tripping on the way and dropping them in a gutter, leaving them on the train's overhead rack, or accidentally using them instead of tissues」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on. I'm not that much of a clumsy girl」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're a guy in the first place!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Perhaps someone like a little devil might even target them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for worrying about me. But--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is why I shall protect you, Mr. President, all the way to the Student Council room!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What one would call an escort--a bodyguard, yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I get that part, but...」"
+  },
+  {
+    "message": "I could never bring myself to say that she's the one I'm most worried about."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, let us be off」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady. What shall we do about the car?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I will do my best on my own. I shall walk to school today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on a second!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn. A chance like this doesn't come around often」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't you wanna ride in that luxury car?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I mean, if I actually could, I'd love to try it, sure」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then it's settled!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Lolo-chan. Since we're all going anyway, would it be... too much to ask if we could catch a ride with you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, Jeeves... what do you think?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I have no objections whatsoever」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then let us do that. Please, go right ahead and get in」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Woohoo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, what about your bodyguard duty then, Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Leave it to me! I shall protect you from any outside threats, even if I must use my own body as a shield」"
+  },
+  {
+    "message": "Am I being targeted by some silent sniper or something?"
+  },
+  {
+    "message": "Wait, could this actually be one of the perks of becoming Student Council President!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'll take you up on that offer」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hehe, please leave the safe driving to me, Riesling Tohyama」"
+  },
+  {
+    "message": "With that smile so uncharacteristic of her, I should have realized something important..."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aaaah, that was fun!」"
+  },
+  {
+    "message": "A high-speed drive reminiscent of a movie car chase."
+  },
+  {
+    "message": "Honestly, I thought her handling--tearing through narrow public roads with barely an inch to spare--was amazing."
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But... still... uuugh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seriously, how pathetic can you get? And after you got to enjoy the ride of a luxury car, too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so... So this is a luxury car, huh... Guess it's still too much for me...」"
+  },
+  {
+    "message": "Dizzy as I am, I'm carrying Lolotte on my back through sheer willpower."
+  },
+  {
+    "name": "Riesling",
+    "message": "「For today's sake, she stayed up desperately studying self-defense last night」"
+  },
+  {
+    "message": "While Nanaka had been headbanging along in high spirits, Lolotte was fast asleep right beside me."
+  },
+  {
+    "message": "Her sweet-smelling, silky hair was right there, and Lolotte's soft cheek was resting on my shoulder..."
+  },
+  {
+    "message": "It really wasn't that far of a distance, yet during that car ride I experienced both heaven and hell."
+  },
+  {
+    "name": "Synn",
+    "message": "「Good grief... She didn't even need to do all that」"
+  },
+  {
+    "message": "Lolotte breathing softly in her sleep, having completely forgotten about acting as a bodyguard, is truly endearing."
+  },
+  {
+    "name": "Riesling",
+    "message": "「My apologies, but I leave the young lady in your care」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, not at all. Well then, first let's head to the Student Council room--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hyaaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The notebook with the agenda notes... I left it at home」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You really are... officially a klutz!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "message": "Riesling-san grins wickedly. And so, I ended up experiencing that thrill two more times."
+  }
+]

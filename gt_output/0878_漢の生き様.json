@@ -1,0 +1,1318 @@
+[
+  {
+    "message": "漢の生き様"
+  },
+  {
+    "name": "Helena",
+    "message": "「So, how have things been looking lately?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm... No real changes, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, it doesn't seem like we're dealing with someone ordinary, after all...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Really, I'm sorry for putting you all through so much trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, there's no need to say that」"
+  },
+  {
+    "name": "Helena",
+    "message": "「*Cough, cough*... If only this old body of mine were a bit stronger...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please stop with the weird acting」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, come on, it's just a little playfulness. Don't retort so fiercely, now, n-o\\s04」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come to think of it, where's Big Sis Melilot?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ah, she seems pretty busy」"
+  },
+  {
+    "name": "Helena",
+    "message": "「One moment she's holed up in the library doing research, and the next she's walking all around the academy grounds」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wonder if there's anything I can help her with?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's fine. Just leave this part to Melilot」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You know how the saying goes--leave it to the experts, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Is that how it goes?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You two just focus on doing what you can do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, ma'am」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Roger that!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyaa-geez! Ardin, go team up with someone else, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Aw, don't say that, Pasta-chaaan...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「He's at it again……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hopeless. He doesn't have the slightest clue how to court someone.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh~ Then by all means, we'd love some instruction from Professor Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh!? U-Um, t-today's a bad day for it, so maybe another time……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mako-chi said that pushy guys get hated!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, exactly that!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, in Mr. Lion's case, I don't think it's possible for him to be disliked any more than he already is.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「What was that?! You clumsy angel!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hyawawa!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright, that's enough」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Macaron…… you saved me, nya.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ardin, don't you ever get tired of doing this every day?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「As if I could ever get tired of loving Pasta-chan!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, yeah, I get it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「True, I never get tired of Ria-chan's boobs either.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Splat!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Aah……」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Still, why the hell aren't things going smoothly…… Dammit!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, cheer up, Ardin.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Hey Prez, how'd you manage to hit it off with the pint-sized Demon Lord anyway?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How…… hmm~, I'm not really sure.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Gah! You're no help at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though, I guess I was thinking about Macaron.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Hell yeah, me too! My head's always packed full of naughty fantasies about Pasta-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, that's not what I meant...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How should I put it--I was thinking about what I'm capable of doing, I guess」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「What you're capable of, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like, wondering what I can do for Macaron's sake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think Macaron was probably thinking the exact same thing for me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh... You're both just way too good-natured」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「So, what you're saying is」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I should think about what I can do for Pasta-chan...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, something like that」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Somehow...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I feel like I can do anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's amazing...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Thanks, Prez! That really fired me up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. Don't mention it」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uwooooh! Pasta-chaaan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is he gonna be okay...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Probably hopeless, don't ya think?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Hey, hey, Pasta-chan, is there anything you want me to do for you?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「W-What's gotten into you all of a sudden, nya? You're creeping me out even more than usual, nya...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「If there's anything I can do, I'll do whatever you want」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Then disappear right this instant, nya」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guhoh! Pasta-chaaa~n!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Did something happen to Ardin?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha... He probably just has a lot on his mind.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Talk about acting like it's someone else's problem.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't mean it like that, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, is something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just felt something strange coming from over there...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Something strange...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is it Soltia?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't know... but something's there...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm gonna go check it out!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wait, I'm coming too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I'm right, it should be this way...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord, let's be a little more careful here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaaaaah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Demon Lord!?」"
+  },
+  {
+    "message": "Right after a flash of light burst before my eyes--"
+  },
+  {
+    "message": "Seized by the illusion that my limbs had been torn apart, everything went limp."
+  },
+  {
+    "message": "My body collapsed straight forward onto the ground."
+  },
+  {
+    "name": "Synn",
+    "message": "「M-My body, won't move...!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Dammit, what the hell's going on?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hang in there, Big Brother! I'll fix this right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, Macaron! Don't come over here……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaaah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This thing…… it's a magic trap camouflaged with Spirit Power!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And the only one who can pull off something like this is……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Fufu……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「How unfortunate. I was planning to take you both out at once, you know……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh…… Soltia……!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even with the great me around, that was careless……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ms. Soltia! Let go of my brother!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That's simply out of the question」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Any factor that obstructs Re-Crea must be eliminated without exception」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Isn't that right……?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is the will of the Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mr. Azel, why……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That bastard, no way……!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Fufu, how naive」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That's right. This angel is the very proxy of God who harbors this cycle's Re-Crea……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「He is now the power of Re-Crea itself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way…… Azel is an angel…… harboring Re-Crea……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So that's why I had a strange feeling……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is Azel……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Synn Sakura」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Everything is the Lord's will. This is the mission bestowed upon me by the Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so... that's...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have been waiting for this moment.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「All this time, for this very moment...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I see. So the missing expedition team was actually this guy...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hehe... It seems you truly hadn't noticed.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I suppose going out of my way to infiltrate the academy and work so hard to cover it up was worth the effort, then.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Soltia, there is no need to explain any further.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I know.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Once we eliminate the Demon Lord right here, our long-cherished wish will be fulfilled...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The world will be reborn into a new form filled with light, and I will be able to be reincarnated as an angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All for something like that...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Destroying everyone's world just for that...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Something like that...?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I cannot let that remark slide!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gwaah!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I'll wipe you out right this instant.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I won't let you do that! I'll be your opponent!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Macaron... go call everyone... You can't do this alone...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No! There's no way I could just leave you behind, Big Brother!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because this time, it's my turn to fight for you!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hmph... How impudent.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is futile...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Taking on both of you might put me at a disadvantage, though...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alzard...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Protect my big brother, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "Macaron thrusts Alzard into the ground beside me, blocking the path between us and Soltia's group."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Cloaking the sword in magic power...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Ah, I see. Are you intending it to be a shield to protect him?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It means my bare hands are more than enough! It wouldn't be any fun without at least this much of a handicap, right?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Big words...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Fine then, I'll erase you first!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Try it if you can!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Macaron...!」"
+  },
+  {
+    "message": "To think she'd face someone like Soltia without Alzard..."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hyaaaah!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Kh... This much power without a medium...!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I can fight without clinging to Alzard!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because my big brother supports my heart... the me right now can fight!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Nonsense...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm putting everything I've got into this!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「When I get serious, I'm capable of way more than this!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Heh... How entertaining!」"
+  },
+  {
+    "message": "Macaron doesn't give an inch, trading blows with Soltia on completely equal footing."
+  },
+  {
+    "message": "She's even overcome her reliance on Alzard that much..."
+  },
+  {
+    "message": "Before I knew it, she'd become so strong."
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn Sakura...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... Let's stop doing this...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Both you and this world shall return to nothingness」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is the mission bestowed upon me by my master...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's the point of doing something like that!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A foolish question」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What sort of value is created or not is of no concern to me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「As my master's servant, I merely fulfill that mission」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you really okay with that, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Silence...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no other choice」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you intend to get in my way, then I...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Will kill you!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I won't let you do that, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「If Pasta-chan says so, then I won't letcha either!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta! Ardin!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「We can't let Lord Virus's rival die in such a cowardly way, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Doing it for Virus ticks me off, but... if that's what Pasta-chan wants!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hmph」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What can the likes of you, who have been sneaking around in hiding until now, possibly do」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「S-Shut up, nya! I wasn't scared at all, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「One or two angels are n-n-n-no big deal at all!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Anyway, for Lord Virus's sake, we're gonna protect the Demon King, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uwoooah!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Foolish」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I shall purify the likes of you first」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unyaaaah!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guooooh!」"
+  },
+  {
+    "message": "With just a single blow unleashed by Azel, the two of them are sent flying."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Pathetic.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The likes of you cannot even manage to lay a finger on me.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「We won't know that until we try...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guoaaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ardin!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyaaaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta!」"
+  },
+  {
+    "message": "Swallowed by the light of Spirit Arts, their two silhouettes collapse."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ardin, Pasta...!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Fools, just as I thought.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In the end, that is the extent of your power.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Be good and vanish.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「W-What did you say...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「T-That kind of strength is cheating, nya...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You two...!」"
+  },
+  {
+    "message": "If only my body could move freely...!"
+  },
+  {
+    "message": "Then I could save my friends!"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's over.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unyaaah!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Pasta-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ugh... I-I can't move anymore, nya...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Thinking about it now, we did something really stupid, nya...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Pasta-chan, hang in there!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyau... I shouldn't have relied on an idiot like Ardin, nya...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Virus, nyama...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stubborn...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, I'll finish you off...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Die」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uooooh!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What!?」"
+  },
+  {
+    "message": "Ardin's back becomes a sturdy wall, taking the attack meant for Pasta."
+  },
+  {
+    "name": "Ardin",
+    "message": "「Heheh, didn't even feel that...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「A-Ardin, what are you doing, nya...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I won't let you... lay a single finger on Pasta-chan!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Not Virus, who won't even come to help at a time like this」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I'm the one who'll do it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ardin...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I cannot comprehend this」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「H-His idiocy has finally reached the terminal stage, nya...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then as you wish, I'll wipe you both out together!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guoooh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ardin!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Gahaa!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「A-Ardin, stop doing something so stupid already, nya...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guaaaah!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why... how are you still standing...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guh, *cough*...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Haa, haa... I'm not done yet...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ardin, that's enough, nya... Stop trying to act so cool, nya...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Heh... Pasta-chan」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「At least at a time like this, let me look cool...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「It pisses me off, but I can't beat that bastard...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Still, y'know, I can at least be your shield, Pasta-chan...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「This is everything I've got left in me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ardin...!」"
+  },
+  {
+    "message": "The outlaw's massive frame swells and roars with sheer fighting spirit."
+  },
+  {
+    "message": "Raising his last ounce of strength, the flame of his life blazes fiercely."
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guoooh! I'm still not done!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「If it's for Pasta-chan!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You really are... a hopeless idiot, nya... *sniff*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... I have to do something...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have to stop Azel...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have to save my friends...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What... Soltia's barrier is being shattered...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-My body can move freely...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun! Get up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "There's no time to think!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azeeeel!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wha--!?」"
+  },
+  {
+    "message": "I slam an awakened, all-out blow straight into Azel!"
+  },
+  {
+    "name": "Azel",
+    "message": "「Guh!」"
+  },
+  {
+    "message": "In rapid succession, a second strike, a third!"
+  },
+  {
+    "name": "Azel",
+    "message": "「M-Magical interference...」"
+  },
+  {
+    "message": "Staggering back, Azel retreats deep into the twilight."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ardin, are you okay!?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「H-Hehe...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I-I did it, Pasta-chan...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ardin! Pull yourself together, nya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ardin...」"
+  },
+  {
+    "message": "The expression on Ardin's face as he collapses looks strangely satisfied, and."
+  },
+  {
+    "message": "Unable to call out to him any further..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「My sincerest apologies...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It took me a little longer than expected to break through the barrier...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Thanks to Sakura-kun unleashing his power, we managed to make it work, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Melilot-san, why are you...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let's save the detailed explanation for later. More importantly, right now, Macaron-san--」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You're better than I thought. Still, haven't you about reached your limit?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huff, huff... T-That's not...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「True, is what I'd like to say... but yeah, this might be bad...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Let's put an end to this little game right about--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Soltia...!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Azel...?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What are you doing against small fry like that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's the Demon King... I was hit by... magical interference...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「No way! Are you telling me you broke through my barrier!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Overconfidence will only lead to your ruin」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, take Alzard!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother!」"
+  },
+  {
+    "message": "The hilt of Alzard settles firmly into Macaron's hand."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Thanks!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah!」"
+  },
+  {
+    "message": "Light blooms once again in Macaron's eyes, which had been starting to cloud over."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Tch... To think someone from the Nive Clan would stick their nose in...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Would you kindly refrain from throwing that name around?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Then should I call you a witch instead...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, that applies to both of us, does it not?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You... insufferable woman...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Soltia...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I know!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「We can't afford to take any more magical interference and have the power inside you thrown into chaos」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Fall back for now」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I'm more than enough on my own for the likes of them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Understood...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...A wise decision」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I'm honored by your praise」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However... underestimating our strength was an uncharacteristic miscalculation on your part」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Keep talking!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「A newly awakened Demon Lord and a single wounded companion...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even with a witch added to the mix, what on earth do you think you can accomplish?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We won't know until we try!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We won't lose to someone like you. We can't afford to lose!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you possess anything that surpasses this spirit... this conviction?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Mocking me to the very end...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Vanish right here and now!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ６２_EASY"
+  },
+  {
+    "message": "ステージ６２_HARD"
+  },
+  {
+    "message": "ステージ６２_NORMAL"
+  }
+]

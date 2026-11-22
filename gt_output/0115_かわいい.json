@@ -1,0 +1,738 @@
+[
+  {
+    "message": "かわいい"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, what should I have for dinner tonight...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You even got enough money to be picky?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Guess I'll wait for the markdown sale after 7 o'clock after all..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, I smell Ria-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're like an animal.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm the Great Sage Paqy-sama, after all! It's only natural I keep a beast or two in my heart!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not making any sense.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmm... It's slightly different.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Too bad. It's the one who isn't Ria-chan.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mr. Student Council President. Have you been doing well?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Helena-san. Are you here for the markdown sale too, by any chance?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I am currently executing a vital mission.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A vital mission?」"
+  },
+  {
+    "message": "So it really is the markdown sale... Getting the food you're aiming for during those is pretty tough, after all."
+  },
+  {
+    "name": "Helena",
+    "message": "「Moreover, it is top secret.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be! Is there a secret technique passed down through the Kujou family for reliably securing the food you're targeting?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa, I'm gonna lay low for a bit.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy? Oh.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「For a cute girl to always be wandering around in her school uniform is a national loss, wouldn't you agree?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Therefore, out of pure goodwill, I decided to force her to let me buy her some clothes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The 'force' part makes it hard to feel the goodwill, though.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Thinking 'Would this look good on a cute girl? How about that?' and shopping around for all sorts of things is so much fun, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oops, I slipped up and spilled top-secret classified info」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it was completely obvious from the start」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'As always, this tape will self-destruct in thirty seconds'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A tape is pretty old-school, isn't it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How's it going, Azel? Find anything you like?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Just like always, Azel merely looks like she finds the whole thing a bother."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why don't you try something on」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aha. You're planning to peek while she's changing, aren't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have no intention of doing that! I really don't, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Ahaha. So you found me out'」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Please stop putting words into my inner thoughts as you please'」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that true?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please stop making up completely baseless accusations」"
+  },
+  {
+    "name": "Helena",
+    "message": "「How about this outfit? This one's cute too, isn't it. Oh, this one would look great on you too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Huh. They really do all look like they'd suit her... Even without looking closely, Azel is cute, after all."
+  },
+  {
+    "name": "Helena",
+    "message": "「Aww. Helena just can't decide♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going home」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh no, you can't. If you go home now, something terrible will happen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something terrible?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Big sis is gonna cry and say Azel-chan bullied her. I'll kick my legs and cry and cry right here, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san, how old are you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Asking a lady her age is terribly uncouth」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going home」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, now. For starters, leap before you look and try them on. Like this one!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I don't want it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, now, now, now, now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah」"
+  },
+  {
+    "message": "Before I knew it, Helena had dragged Azel into the fitting room."
+  },
+  {
+    "name": "Helena",
+    "message": "「Come on, strip, strip」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu. Hey, don't take it off so carelessly\\s04」"
+  },
+  {
+    "message": "Ba-dump."
+  },
+  {
+    "name": "Helena",
+    "message": "「Taking off even your underwear, how bold\\s04」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I didn't take it off... Wh-what are you doing!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ria's boobs belong to me, of course, but a slender body is nice every now and then too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll kill you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, now, I'm only measuring your bust. Jeez」"
+  },
+  {
+    "message": "What on earth is she doing!?"
+  },
+  {
+    "name": "Helena",
+    "message": "「Then let's strip off your skirt too, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Eek」"
+  },
+  {
+    "message": "Eek?"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mmh. So smooth」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh-what are you doing!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh dear, oops, I accidentally pulled off your panties too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll kill you, kill you, kill you!」"
+  },
+  {
+    "message": "C-Could it be that right now, inside this booth, Azel is completely naked......"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「No good! Begone evil spirits, begone evil spirits!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my. Because you struggled, even your bra came off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-what!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll kill you, kill you, kill you right now, kill you immediately!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If it's the Demon Lord, he's gotta have X-ray vision, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whaaat?! N-No, I would never do anything so shameless!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu. If you squirm around that much, you'll never get dressed.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you chant 'Hiranya Kokkuri Okaikosama' in your head, you'll activate X-ray vision.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How mystical! Hiranya Kokkuri Oka-- I-I would never do such a thing!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wouldn't work even if you did. I'm just messing with you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't toy with the pure heart of an adolescent Boy!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, yes, good job... There, all done」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No-no, you can't take it off yet. Let's have Boy take a look too, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. Cute」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right? Heheh. My eye for fashion didn't fail me after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You shouldn't look away like that」"
+  },
+  {
+    "message": "Helena cupped Azel's face in both hands and forcefully turned him toward the mirror."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「See? Cute, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is... 'cute'?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's the fitting word for a situation like this」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Number one. A feeling of wanting to treat someone with deep affection and care」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Number two. Possessing a lovely charm. Mainly used for young women, children, small animals, and the like... Which one do you think it is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Number two. In other words, well...」"
+  },
+  {
+    "message": "I ended up saying it a bit bluntly."
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean it looks good on you」"
+  },
+  {
+    "message": "Ugh. Saying it out loud actually made my cheeks feel hot!"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Whoa. Our eyes just met through the mirror."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is it cute?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. I-It's cute」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, Synn-chan, you sure know how to handle girls. Just what I'd expect from the Student Council President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's not true at all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, no good. You're missing the most crucial point」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is it!? Or rather, before that, I don't even know how to handle girls in the first place」"
+  },
+  {
+    "name": "Helena",
+    "message": "「To make a maiden's heart flutter, you're unfortunately far too young. A man only hits his prime after thirty, you know. Especially in his late thirties」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... if I got that old, I wouldn't be able to serve as Student Council President anymore」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Keep devoting yourself to your studies from here on out as well. That's an order from the Chairwoman」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'll do my best」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm. Maybe I should add a little more touch-up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm good, thanks」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Putting them on Synn-chan would be fun too, but right now it's time to play with... ahem, make Azel-chan cute」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Then how about trying on some glasses?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Stop it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't hold back. It's just one of my disguise tools」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And next up is this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, cat ears! Where on earth did those come from?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Every proper lady carries them\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nobody needs that kind of lady's etiquette」"
+  },
+  {
+    "message": "Still, it might actually be cute..."
+  },
+  {
+    "name": "Helena",
+    "message": "「Even so, aren't you thinking Azel-chan looks cute wearing cat ears?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Er, that's, um...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is it cute?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah. O-Okay...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「P-Please stop treating Azel like a toy already!」"
+  },
+  {
+    "message": "I feel like I'm going to awaken to some weird fetish."
+  },
+  {
+    "name": "Helena",
+    "message": "「Could it be... you feel like you're about to awaken to some weird fetish?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, that's not it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Are you satisfied now」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm. I'd like to dress you up a little more, though. That's enough for today!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Before long. Azel-chan will start wearing them on her own, I'm sure」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Impossible」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wonder about that. After all, to live is to change」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "For once, she said something sensible!"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then, since we even got the Student Council President's stamp of approval, let's buy them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, you can't start stripping right here!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It makes no difference where I take them off」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm, it might be the same to you, Azel-chan, but it's a huge problem for a teenage boy in the prime of his libido」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't casually tack on weird descriptors」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is 'the prime of his libido'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, well, that's...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, setting aside how unfairly I'm being described. You really shouldn't change in a place like this」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You still have a lot to learn, Synn-chan. When a girl acts all cold and distant, she's actually just embarrassed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it is!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not embarrassed」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, oh my. What a shame. A girl getting bashful is nice, you know~. It's cute, too\\s04」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you keep fussing like that, you're going to draw attention from everyone around us」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I just have to take it off in there, right」"
+  },
+  {
+    "message": "Muttering in annoyance just like always, Azel went inside the fitting room."
+  },
+  {
+    "message": "She looked cute, though... She could've just worn it home."
+  },
+  {
+    "name": "Helena",
+    "message": "「Wanna peek?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I don't」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Uh-huh, uh-huh. Of course you wanna peek. Mr. Student Council President is right at that age, after all」"
+  },
+  {
+    "name": "Helena",
+    "message": "「『Yes, I do. I want to peek. I'm already rock hard』」"
+  },
+  {
+    "name": "Helena",
+    "message": "「--replied the Ryuusei Academy Student Council President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, don't go making up lines for me on your own!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And here I was just voicing the inner thoughts that even the person himself doesn't realize」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If even I don't know them, then you definitely don't know them either, Helena-san!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because I'm the kamikaze chairwoman who makes the impossible possible, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...That's not even a reason」"
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "message": "会計監査っておいしいの？"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And so, it's time for an accounting audit! I'm gonna crack down hard, ya hear」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. Nanaka's actually looking pretty reliable」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Leave it to me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with that look?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san, do you even know what an accounting audit actually is?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heh. Don't underestimate me! An accounting audit is a righteous crusade to expose financial corruption lurking in the academy, help the weak, and crush the strong!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In other words, we are going to defeat corrupt magistrates」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My head hurts... That's not what I'm asking. I'm asking what the actual, concrete duties involve」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that?! Are you picking a fight with a righteous crusade?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Where are the corrupt magistrates!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not reliable at all, hey」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, you can't blame her. None of us have ever done Student Council work before, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What's with that look?\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why are you so eager to conduct an audit when you don't even know what it entails?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gulp」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, having enthusiasm is a good thing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And do you understand it yourself, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just about to have you teach me--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I mean, uh, it's about checking whether each club is using their money properly, right? You barge into the clubroom shouting, 'I challenge this dojo!' and stuff」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The treasurer is quite ignorant」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grr! Such a bold, confident declaration?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that situation, the proper line is the classic, 'Echigoya, you are quite the villain yourself'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'No, no, after you, Magistrate'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And right while they're talking like that, you throw a kogatana knife. Then, *thunk*, it sticks right into the desk, and--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Who goes there?!'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That is NOT how a financial audit works!\\s09」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? What's a financial audit? Weren't we talking about crushing the weak and helping the strong?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You've got 'weak' and 'strong' backwards」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, crushing the strong sounds awfully hard」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You obviously can't go around crushing the weak!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not even the main issue! You people don't understand this at ALL!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Scratch that last part! I just got it mixed up with a period drama and things got a liiittle weird」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So anyway, we storm into the clubroom, toss the place, find suspicious goods! Grill 'em, serve 'em a katsudon, get 'em to confess their fraud, and slap on the cuffs! Victory!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We weren't talking about period dramas?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course we weren't!\\s10」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She lived abroad for a long time, so it's only natural she'd have a lot of misconceptions about this country's customs」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, that's right. It was strictly a foreign country and definitely not Heaven or anything. I'll be sure to reread my guidebook later」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A financial audit isn't nearly that forceful, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way! Doesn't the Student Council have the right to do surprise audits and search the clubrooms?! I-I've been tricked!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We do search clubrooms sometimes, but only after we've examined the account books, receipts, and bankbooks submitted by each club and found something suspicious」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Barging in out of nowhere... How utterly uncivilized」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaddaya mean, 'uncivilized'?! I'll have ya know I'm born and bred Edoite through and through!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're born and bred Ryuusei through and through, actually」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Stop getting sidetracked over every little thing!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Besides, something seems fishy here. Why are you so eager to inspect the clubrooms in the first place?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Gulp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You have a guilty conscience, don't you. No, you definitely do. There's no mistake about it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I DO NOT HAVE A GUILTY CONSCIENCE. I AM MERELY BURNING WITH PASSION FOR STUDENT COUNCIL ACTIVITIES」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh. That is some splendid pole reading. Clap, clap」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan. What's 'pole reading'?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'd wager she means \\{monotone reading|\\s12\\s12\\s12}」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now. Nobody knows everything at first. It can't be helped. I didn't understand any of it at first either」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even you were like that, Onee-sama... In that case, it can't be helped」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What is it, Synn-kun\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To conduct an accounting audit, we first need each club to submit their ledgers, receipts, and bankbooks, right」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, that's right\\s07」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Acting like the only goody-two-shoes to steal Ria-chan's heart--that's not fair, Mao--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyappu!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should we go around to them to collect the submissions?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And search their clubrooms while we're at it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nope. First, we ask the Broadcasting Committee to make a school-wide announcement telling everyone to submit their ledgers, receipts, and bankbooks to the Student Council」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is the civilized way to do things, Miss Treasurer♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't act all high and mighty just because you happened to know」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Getting defensive when you're the one who didn't know looks pretty lame, man」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You bounce back fast, Mr. Panda」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How far out should we set the submission deadline?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Since this is a surprise audit, we can set it for tomorrow's lunch break」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Clubs that don't submit by the deadline will have their budget allocations suspended next year, so I think everyone will turn theirs in properly. For the most part」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'For the most part' means... that's pretty strict, isn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is this what they call 'survival of the tastiest'?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Fittest'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, asking why they couldn't submit on time is also an important duty of the Student Council. If they have a valid reason, we have to help them out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case... since we don't have much time today, we'll wrap up after asking the Broadcasting Committee」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Right. We'll have them broadcast it once right now, then once during each break tomorrow, and the financial audit will start after school」"
+  },
+  {
+    "name": "Misa & Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait--when did you start having such a long conversation with Senpai like the two of you are alone?! You really never let your guard down, do you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, I'd better head straight to the broadcasting room right now. We're short on time, after all」"
+  },
+  {
+    "message": "Well, the broadcasting room is in the same building, so it's right nearby."
+  },
+  {
+    "name": "Ria",
+    "message": "「Since it's your first time, there's probably a lot you won't know... Synn-kun, shall the two of us go together?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh?!」"
+  },
+  {
+    "message": "Does that mean, just the two of us?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes! Ba-dump...\\s03」"
+  },
+  {
+    "name": "Nanaka & Misa",
+    "message": "「Aah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Before we knew it, Synn and Senpai--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Before we knew it, Onee-sama and Sakura-kun--」"
+  },
+  {
+    "name": "Nanaka & Misa",
+    "message": "「Got so close?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, ooh, I want to go too! I want to know everything~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right! Then let's all go together!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Good idea. I think it's best for everyone to learn the duties of every position at least once」"
+  },
+  {
+    "name": "Nanaka & Misa",
+    "message": "「Phew... Of course nothing like that would happen」"
+  },
+  {
+    "name": "Nanaka & Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't harmonize with me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't say it in unison!」"
+  }
+]

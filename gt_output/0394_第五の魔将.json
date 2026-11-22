@@ -1,0 +1,759 @@
+[
+  {
+    "message": "第五の魔将"
+  },
+  {
+    "message": "Oh, an unusual pair."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Ah, you mean Ode-yan?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ode-yan?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Yeah, Oderek. Foreigners have weird names that are hard to remember, you know.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is his reputation like?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Word is he's a hard worker. Though his one flaw is that he sneaks a bite every now and then, apparently. He ought to just call it taste-testing.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so...」"
+  },
+  {
+    "message": "Azel was worried the Student Council would be held responsible if Eauderourke caused any trouble, so she came to check up on how he was doing."
+  },
+  {
+    "name": "Azel",
+    "message": "「Is he facing any discrimination?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Ryuusei Town's always had plenty of foreigners, so no.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see...」"
+  },
+  {
+    "message": "I get it. She's genuinely worried about Eauderourke too."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Anyway, Azel―chan. Forget about that―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Auntie. Azel. Hello.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-Why are you here?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shopping. Auntie, I'll take this cabbage.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Coming right up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. Looks like you're pretty close with Auntie.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is not particularly the case.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「What are you talking about? We're close enough to buy and sell, take photos and be photographed! I am a beauty, after all! Ohohohohohohohoho!」"
+  },
+  {
+    "message": "There were quite a few photos taken of Shinaoba, though I doubt that's the reason."
+  },
+  {
+    "name": "Azel",
+    "message": "「...That is not why. It is merely because you are amusing.」"
+  },
+  {
+    "message": "Thought so."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「So, by the way, Synn-chan. How've things been lately?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lately? Exams just ended, so now it looks like I'll be busy getting ready for the Holy Night Festival coming up.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「None of that matters! More importantly, have you made any progress with Nanaka-chan?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nanaka? Is there something going on between Nanaka and this guy?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Hehe. Looks like you're interested, Azel―chan. Actually, these two―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen, Auntie. Nanaka and I are just childhood friends. There is noooothing going on like what you're hoping for!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Same old story as always. Poor Soba.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Not what I was hoping for, but just what I expected, huh. Good grief.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「So he says, Azel-chan. I feel bad for Nanaka-chan, but I'm an apostle of truth, after all! I'll be keeping an eye on how things develop.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Feel bad? Develop?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Auntie. I'd love to listen a little longer, but I've got errands to run!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「One extra-large, coming right up!」"
+  },
+  {
+    "message": "A lively voice echoes out from inside the beef bowl shop."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel readies a digital camera and snaps a photo of Eauderourke hard at work."
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like he's doing his best.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not worried about a demon.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Hmm.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's the truth!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mornin'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Sally-chan, you shouldn't be slacking off from work.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No, I'm not! The Boss said these are on the house for you two.」"
+  },
+  {
+    "message": "Three piping-hot beef bowls are held out in front of us."
+  },
+  {
+    "message": "They're piled so generously that the lids are pushed right up."
+  },
+  {
+    "name": "Azel",
+    "message": "「Could it be... did he make these?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's right! The Boss is pretty handy! Hmph!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ooh. There's one for yours truly, too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you! Tell Eauderourke thanks for us too, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Your stomach's growling! Starving, starving!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since it's about time, want to grab lunch?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「M-My stomach is not--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Munch, munch, chomp, chomp, gobble, gobble. Yes. Delicious. So good!」"
+  },
+  {
+    "message": "Azel is eating with such gusto it looks like she might bury her face right in the bowl."
+  },
+  {
+    "message": "It's already past mid-November, but on a sunny day like this, it's not cold even sitting side by side on a park bench."
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to rush so much, the beef bowl isn't going to run away」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Chomp, chomp, munch, gobble, nom, nom. You eat properly too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I am eating」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, this is good」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Delicious! How utterly delicious! Ah, how I have fallen... yet it is delicious! How seductive human food culture is. Delicious, delicious!」"
+  },
+  {
+    "message": "In no time at all, our beef bowls are empty. Our stomachs are full."
+  },
+  {
+    "name": "Azel",
+    "message": "「Whew...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the meal」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Thanks for the food」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Haaah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That was good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So food is delicious even when made by Demons」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Eauderourke is working really hard at it, after all. He's improving fast too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is not what I」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No... perhaps that is it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just had a thought, though. The reason both Auntie Shina and Tame-san accepted Eauderourke and the others so easily is」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「They're just laid-back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, isn't it because Demons used to work like this in the past too? Maybe that memory still lingers somewhere」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If the whole world became like Ryuusei Town, we wouldn't have to fight demons anymore」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then the Crusaders would be out of a job」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, we could help demons in trouble, or help solve problems between demons and humans」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Doesn't sound like there's any money in it, as usual」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Perhaps what you said before may be true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You said that humans, angels, and demons are all the same」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I still think so」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yet, perhaps that is precisely why conflict will never end...」"
+  },
+  {
+    "message": "I felt like that murmur wasn't directed at me, but inward, toward Azel's own heart."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Zzz」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "A weight resting on my shoulder."
+  },
+  {
+    "message": "Before I knew it, Azel had leaned her head against my right shoulder and fallen asleep."
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's pretty cute when she's like this, ain't she」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's always cute」"
+  },
+  {
+    "message": "A pleasant warmth spreads from my shoulder."
+  },
+  {
+    "message": "Azel sure is light."
+  },
+  {
+    "message": "And warm, too."
+  },
+  {
+    "message": "Even when I try not to look at her face resting right beside me, I end up looking anyway."
+  },
+  {
+    "message": "She really is cute."
+  },
+  {
+    "message": "She smells nice, too."
+  },
+  {
+    "message": "Do all girls smell this nice?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Master Synn. Twitching your nose and sniffing like that--you've got quite the fetish」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not doing that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Keep your voice down or you'll wake her up. What's wrong with having a scent fetish anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everything」"
+  },
+  {
+    "message": "As we argued in hushed voices, a shadow suddenly fell over us."
+  },
+  {
+    "name": "Melphas",
+    "message": "「My, what a rare sight. Lately, nothing but unusual things have been happening--members of the Seven Demon Generals working part-time at beef bowl shops or as waitresses. Myself included.」"
+  },
+  {
+    "message": "When I raised my head, there stood the demon who had previously introduced himself as Melphas."
+  },
+  {
+    "message": "According to Paqy, he's supposedly stronger than Eauderourke."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「You there, the Student Council President. Charming as ever, I see.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm a guy.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Before beauty and charm, differences in gender or race are trivial matters.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you need something?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I was simply captivated by this rare sight and let a few words slip out unintentionally, so there is no need to be so on guard.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "How am I supposed to handle this?"
+  },
+  {
+    "message": "This guy is a demon at least as powerful as Eauderourke, if not more."
+  },
+  {
+    "message": "I don't even know if Melphas is his real name."
+  },
+  {
+    "message": "Judging from what Ardin said the other day, he might actually be Virus himself."
+  },
+  {
+    "message": "Should I call everyone over?"
+  },
+  {
+    "name": "Melphas",
+    "message": "「What an adorable sleeping face. It is no wonder your heart skips a beat, Student Council President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't wake them up.」"
+  },
+  {
+    "message": "Still, I can't drag Azel into danger."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Understood. Even so, with so many unusual events occurring one after another, perhaps a so-called miracle might just happen as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A miracle?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Though, of course, once it actually happens, it is no longer a miracle.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who are you, really?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「A worshiper of love, beauty, and fascination.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I meant.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh dear, I was under the impression that you and I shared a rather memorable, fateful encounter, Student Council President. Was that merely my imagination?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「My name is Melphas. Please do remember it from here on.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't you Virus?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Good grief, to be mistaken for the one known as the Chief of the Seven Demon Generals! There may be those who would be delighted by the mix-up, but I am not pleased at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... Virus isn't popular with women or something?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「No. He is actually quite the handsome, gentle-featured man. In fact, despite having no intention of doing so, he causes quite a stir among the ladies.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「However, he pays no mind to the flowers blooming all around him. And that is a way of life I wish to stay as far away from as possible.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Are you one of the Seven Demon Generals too?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「It seems there are occasionally those who refer to me as such.」"
+  },
+  {
+    "message": "I knew he was a strong demon, but to think he was actually a Demon General!"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're one of the Seven Demon Generals, then someday you and we will...?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Though this may be a rude question, are you, Mr. Student Council President, the sort of man who forces his will upon women through violence or words?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「In that case, there will likely be no battle between you, Mr. Student Council President, and myself.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「For my fists shall only ever be raised against you should you harm, defile, or bring shame upon any of the lovely women I so dearly adore.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Though it would be another matter entirely if you were to attack me like the demons who target me to make a name for themselves, or certain dogmatic angels.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat!? There are angels like that too? Since they're angels, I thought they were all pacifists.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「No, no. Just as there are all kinds of demons and humans, there are all kinds of angels as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well... I guess that's true.」"
+  },
+  {
+    "message": "In that case, that means he has no reason to fight us Crusaders."
+  },
+  {
+    "name": "Synn",
+    "message": "「...It doesn't look like we'll be fighting you, then.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Splendid. After all, I have no wish to fight a charming Student Council President such as yourself either.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「If I had the spare time for such things, I would much rather enjoy a pleasant moment with a lovely lady.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh my. If I monopolize you any longer, Mr. Student Council President, I fear she will grow cross with me. Now then, farewell.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「May fortune smile upon your future.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It kind of feels like he got the wrong idea."
+  },
+  {
+    "message": "Even though Azel and I don't have that kind of relationship."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Nnn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good morning.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel looked at my face with a dazed gaze, and"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hah!?」"
+  },
+  {
+    "message": "She bolted upright like a coiled spring and stood up from the bench."
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I was not sleeping!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, isn't that... a bit of a stretch?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't tell anyone」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you say so, then fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was cute」"
+  },
+  {
+    "name": "Azel",
+    "message": "「!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「F-Forget it!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Until we meet again. Ardin」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「D-Dammittttt! Someday I'll get youuuuuuuuu」"
+  },
+  {
+    "message": "Gradually, Ardin's presence grows smaller--"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Pa-s-ta-cha... n...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why...?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why isn't he... fighting...?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Who knows」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Still, are you sure about this? I don't think Virus stands a chance against the Crusaders, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I was merely wondering」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It might be better for you that way, too. If Virus loses to the Crusaders, you'll be the one who has to fight them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Though I wonder if you can even fight them?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...If my master」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...So wishes it」"
+  }
+]

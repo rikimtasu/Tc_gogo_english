@@ -1,0 +1,330 @@
+[
+  {
+    "message": "帰りたくない"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She hasn't come by today either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... see」"
+  },
+  {
+    "message": "Could it be... just like everyone said, she's seriously avoiding me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, what is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did Azel say anything... um, about me or anything?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No. Nothing at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Until just a little while ago, whenever I came to pick her up, Azel would put on a grumpy face, yet still look happy."
+  },
+  {
+    "message": "She'd stopped complaining when we walked home together, showing her happiness in her own clumsy way."
+  },
+  {
+    "message": "I thought things were going well."
+  },
+  {
+    "message": "Even after that rainy night, when things ended up like that."
+  },
+  {
+    "message": "We were both embarrassed, yet even so, she never avoided me."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you have any idea what might have caused this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......No, I don't」"
+  },
+  {
+    "message": "I wanted to see her terribly."
+  },
+  {
+    "message": "Ever since the day Nanaka confessed to me, I haven't seen her at all."
+  },
+  {
+    "message": "Even though it's only been three days. Even though she was a girl who wasn't even in my life three months ago."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Was Lady Azel acting strangely at all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, she wasn't......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He has gone home.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Thank you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Are you sure about this?」"
+  },
+  {
+    "message": "Azel kept staring intently at the cup of black tea placed before her."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This... is the right thing......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Right for whom, exactly?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am merely following the will of the Lord」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is it what's right for you, Azel-san?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I believe in the word of the Lord. All devout people do. Even those who are not devout ought to」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The Lord is always right. Righteousness is with the Lord. Nowhere else. Everything must be according to the Lord's will」"
+  },
+  {
+    "message": "Having declared that all in one breath, Azel gulped down the rest of his black tea."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Are you saying your heart must be one with God's will, Azel-san?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Yes. That is how it must be」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is avoiding Sakura-kun also God's will?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if it hurts Sakura-kun?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Synn is... only suffering on his own accord. It has... nothing to do with me」"
+  },
+  {
+    "message": "Azel raised his tea to his lips again, only to find the cup empty."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then where is your heart, Azel-san?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My heart is with the righteousness of the Lord」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then why do you watch him from the shadows until he leaves the library?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's, because, I--」"
+  },
+  {
+    "message": "Suddenly clutching his chest, Azel lost his balance and toppled over backward, chair and all."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh. Nngh--!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's... nothing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There's no way it's nothing!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's nothing... If I just stay quiet for a bit, it'll pass...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm contacting Sakura-kun」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stop!」"
+  },
+  {
+    "message": "Melilot's hand froze just as he reached for his phone."
+  },
+  {
+    "name": "Azel",
+    "message": "「Please... don't tell anyone... Especially not Synn...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "With a sigh, Melilot put her phone away."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Understood. However, if you don't at least get in touch with him, he'll worry.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't... want to go back there.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Depending on the situation, that's quite a suggestive line.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Suggestive...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just for today.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can't very well throw you out onto the street in that condition. Please stay at my place tonight.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is that okay?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'll tell him that you came by after Sakura-kun left, and while we were talking about the photos, it got late so you ended up staying at my place.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Please do.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, understood... Please take good care of Azel.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's Azel. He says he's staying at Melilot-san's place tonight」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, he's seriously avoiding you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Taejun!?」"
+  },
+  {
+    "message": "I have no idea."
+  },
+  {
+    "message": "Since when has he been avoiding me?"
+  },
+  {
+    "message": "Since when did we stop talking?"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Since the morning of the day Nanaka confessed to me."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "No, that's not it."
+  },
+  {
+    "message": "It's been since that lunch break when Nanaka and Azel disappeared together."
+  }
+]

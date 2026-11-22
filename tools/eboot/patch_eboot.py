@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import json
 import struct
 from pathlib import Path
 
@@ -613,7 +614,32 @@ def build_payload(base_va: int = PAYLOAD_VA) -> MipsAsm:
     return asm
 
 
-def patch_bytes(source: bytes) -> tuple[bytes, dict[str, int]]:
+def apply_eboot_strings(result: bytearray, strings_path: Path) -> int:
+    """Patch translated CP932 strings from eboot_strings.json in-place."""
+    manifest = json.loads(strings_path.read_text(encoding="utf-8"))
+    if manifest.get("source_sha256") != SOURCE_SHA256:
+        raise ValueError("EBOOT strings manifest source_sha256 mismatch")
+    patched_count = 0
+    for entry in manifest["strings"]:
+        en = entry.get("en")
+        if en is None:
+            continue
+        offset = int(entry["file_offset"], 16)
+        slot_capacity = int(entry["slot_capacity"])
+        expected_jp = entry["jp"].encode("cp932")
+        if result[offset:offset + len(expected_jp)] != expected_jp:
+            raise ValueError(f"Unexpected original bytes at {entry['id']} ({entry['file_offset']})")
+        encoded = en.encode("cp932")
+        if len(encoded) > slot_capacity:
+            raise ValueError(
+                f"{entry['id']} exceeds slot_capacity ({len(encoded)} > {slot_capacity})"
+            )
+        result[offset:offset + slot_capacity + 1] = encoded + b"\x00" * (slot_capacity + 1 - len(encoded))
+        patched_count += 1
+    return patched_count
+
+
+def patch_bytes(source: bytes, strings_path: Path | None = None) -> tuple[bytes, dict[str, int]]:
     if len(source) != 1_527_040 or hashlib.sha256(source).hexdigest() != SOURCE_SHA256:
         raise ValueError("Expected the clean ULJS00316 v1.01 decrypted EBOOT; source identity mismatch")
     asm = build_payload()
@@ -683,18 +709,26 @@ def patch_bytes(source: bytes) -> tuple[bytes, dict[str, int]]:
     result.extend(payload)
     struct.pack_into("<I", result, 28, new_phoff)
     struct.pack_into("<H", result, 44, 2)
+    patched_strings = 0
+    if strings_path is not None:
+        patched_strings = apply_eboot_strings(result, strings_path)
+        # Disable hardcoded Japanese byte-offset U+2122 ('™') insertion in
+        # sceUtilityMsgDialog wrapper (0x089454ec), which otherwise injects '™'
+        # into the middle of translated English words (e.g. "blin™k", "dur™ing").
+        replace(0x0894552C, "move s6, t1", "move s6, zero")
     return bytes(result), {"payload_va": PAYLOAD_VA, "payload_bytes": len(payload),
-                           "slot_factor": SLOT_FACTOR, **asm.labels}
+                           "slot_factor": SLOT_FACTOR, "patched_strings": patched_strings, **asm.labels}
 
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--src", required=True, type=Path)
     ap.add_argument("--out", required=True, type=Path)
+    ap.add_argument("--strings", type=Path, default=None, help="Optional glossary/eboot_strings.json to patch in-place")
     args = ap.parse_args()
     if args.src.resolve() == args.out.resolve() or args.out.exists():
         raise SystemExit("Output must be a new file, separate from the clean EBOOT")
-    patched, info = patch_bytes(args.src.read_bytes())
+    patched, info = patch_bytes(args.src.read_bytes(), strings_path=args.strings)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     with args.out.open("xb") as out:
         out.write(patched)

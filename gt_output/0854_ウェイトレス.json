@@ -1,0 +1,469 @@
+[
+  {
+    "message": "ウェイトレス"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How do you like that!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyaoo... This isn't how it was supposed to go, nya...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's what you get for underestimating the service industry! Learned your lesson yet!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, stop causing a scene now」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Why don't you tell us why you targeted the Crusaders?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Guh... Fine, nya, I'll surrender gracefully, nya...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jeez, you should've just done that from the start」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Just kidding, nyaaa!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「If you think Pasta would give in that easily, you're dead wrong, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I quit this stupid part-time job right now, nyaaa!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, she ran away!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya-ha-ha-ha! You'd better remember this, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「For the sake of Lord Virus's love, Pasta will never, ever give up, nyaaa!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What a shameless turnaround...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh dear, she got away from us」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Lord Viras'... what kind of magic spell is that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So that's why they want to eliminate the Crusaders, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could there be a mastermind pulling the strings behind the Demon Generals...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That would mean they are the true Demon Lord!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gasp!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I don't think those girls have that level of organizational skill, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, as long as we quell Re-Crea, there won't be any problem」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Either way, the peace of Prier has been protected, right!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though to be honest, it ended up looking like we forced her out」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What should we do about a waitress, I wonder」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's true that Prier is short-handed, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Is that so?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nanaka-chan, want to fill in?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, well, I guess I'm practically the one who drove Pasta out, so……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis, you can't make a student work」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know!　I have someone in mind」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, I knew I could count on you, Synn-chan. So reliable」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah…… Synn, could it be……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I'm thinking of asking Macaron」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, your little sister!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, I'll at least talk to her about it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, I'm counting on you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is that really gonna be okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll probably work out somehow, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, if Helena-san says it's fine, I guess it's fine, but……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, nothing at all」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unyaa……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Those Crusaders jerks really piss me off, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ice cream～, anyone want some～?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I won't be satisfied until I get payback, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Cold~, delicious~, get your ice cream~」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Isn't there any good way, nya……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey there, miss」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「How about some ice cream?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Why the hell would I eat ice cream in this freezing cold, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Right~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, it's my part-time job」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I guess so, nya. If it's for work, it can't be helped, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Strawberry's fine, right?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Like I said, I don't want any, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gotcha. Then I'll give you this instead」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Milky Milk! Nice and body-warm」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「If it's free, I'll take it, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Here you go」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Gulp, gulp……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Mm. It's not bad, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Feeling better?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You looked kind of down」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Could you tell, nya……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Actually, I got fired from my part-time job today, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see…… That's rough」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「This, that, and everything else--it's a~ll the Crusaders' fault, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Crusaders?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't tell me, did they bully you!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「It wasn't that one-sided, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「It was a super close, good fight, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, I see……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If it was a fair fight, then I guess it can't be helped」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Which means this kid is actually pretty strong……?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I recruit them as an ally, I might be able to beat Big Brother and the others……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, wanna try showing those Crusaders a thing or two?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「How are we gonna do that, nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll make a chance for your revenge!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Revenge, nya…… Not a bad idea, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe, leave it all to the great Demon Lord Macaron!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You're a Demon Lord, nya!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, if I had to say, I kinda only have the vibe of one in training right now, though!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Which means if I team up with this one, Lord Virus's wish will come true, nya?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「And if I get them to beat the Crusaders too, that's two birds with one stone, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Got it, nya! I'll count on you, Macaron, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aww shucks, the kitty is counting on me!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta is Pasta, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gotcha. Nice working with ya, Pasta!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heeeey, Macaron~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, it's Big Brother. Nihehe……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what's up. You sure look like you're in a good mood」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm~? It's nothing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You'll find out the hard way soon enough anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「F-Find out the hard way……?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「More importantly, didn't you have some business with me, Big Brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Want to try working a part-time job at our academy?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A part-time job?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's as a waitress in the cafeteria, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Could it be you're in a bind?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Do you need my help?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're pretty much the only one I can think of to rely on, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see, I see……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Observing Big Brother's behavior up close might not be so bad either」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm~……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Got it, I'll do it for you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really? That's a huge help」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I've got more mouths to feed now, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll be counting on you starting next week」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Rogeeer. Leave it all to me!」"
+  }
+]

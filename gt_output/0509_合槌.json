@@ -1,0 +1,267 @@
+[
+  {
+    "message": "合槌"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wheeze, pant, wheeze, pant!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Running ain't gonna do ya any good, ya know? I don't hear the clashing of a naginata or the crack of gunfire. It's already over.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nuh-uh. Maybe their sparring match is just about to start! Wheeze, pant, wheeze, pant!」"
+  },
+  {
+    "message": "The other day--I let my guard down and forgot all about my test."
+  },
+  {
+    "message": "Turning to the gods in a pinch. Selfish as it was, I came to Asukai Shrine to buy a charm for academic success, only to find Shio-chan's mother in the shrine office."
+  },
+  {
+    "message": "When I asked, she told me Shio-chan was training with Riesling-san."
+  },
+  {
+    "message": "Their training ground is right in front of the Inari shrine enshrined alongside it on the grounds!"
+  },
+  {
+    "name": "Synn",
+    "message": "「We hardly ever get to see those two fight!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Talk about being a total rubbernecker.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I hereby return Kogitsunemaru to you.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Are you finished already?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「This naginata is far beyond my humble skill to wield.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Surely you jest...! You evaded every single one of my strikes, yet you say such things?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I was merely tracing circles, nothing more.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There they are! Wheeze, pant, wheeze, pant!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, if it isn't Synn-dono. What brings you here in such a frantic rush?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hah, look at that. Judging by the looks of it, the match is already over.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I thought I'd watch the match and cheer you on.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Is that so... Good grief, however...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Far from ending, I could not even begin...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Jiiya-dono saw completely through my swordplay, and I could not even cross blades with him...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So in other words, you got totally crushed, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「P-Paqy!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ngggggh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why don't you just start over from here?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, that's not what I mean! I'm not saying we should have another match right now. How about refreshing your mindset and continuing your training?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Is that so... Indeed, I did gain something from facing Lord Jiiya.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Anyone who can admit their own defeat is gonna grow big.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I imagine you have already completed your theoretical lessons under your mother, but the essence of the naginata lies in bewildering your opponent with circular motions.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「At present, Lady Shio, your movements are far too linear.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A-Are you saying that my practical skill fails to match my knowledge?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Precisely so.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... He cut right to the chase. Even more ruthless than yours truly.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Once you master the 'circle,' it will surely prove effective even against the foes you are truly meant to cut down, Lady Shio.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ah...! That movement Lord Jiiya showed me earlier was--!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To redo my training and grow stronger... should I follow in Lord Jiiya's footsteps and train in dual-wielding as well?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's way too simplistic, Shio-chan.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「With that naginata, a single blade is more than enough.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...What is the maker's inscription?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is unsigned.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Then it truly seems the swordsmith of Kogitsunemaru held deep respect for the Asukai family.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have heard it is a treasured heirloom blade, though even I do not know its detailed history. If you are interested, I shall look into it before your next visit.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Lady Shio, please be careful. It is a fine naginata... too fine, to a terrifying degree.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Do you think so? A name like Kogitsunemaru sounds oddly cute and lacks intimidation, does it not?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Such blades are prone to housing spirits, just as they are to being possessed by demons.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm, I do not quite understand... Are you telling me to seal Kogitsunemaru away and never use it again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, maybe it just depends on how you use it?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then, I must return to guarding milady, so I shall take my leave」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-Yes! Thank you very much for today!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What're ya spacing out for, naginata girl?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kufu, kufufufufu... kufufufu...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, you don't have to hold back your laugh, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「N-Nay, 'tis a most mysterious laugh that has come over me. Kufufufufu...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Humans laugh when they're happy, and when a brush with deadly terror has passed, ya know」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kufu, kufufufufu... W-Which one might this humble self be experiencing, I wonder?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, are you going to keep using that naginata?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Of course I am!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then it's a happy laugh」"
+  },
+  {
+    "message": "Shio-chan's laughter echoes up into the crisp autumn blue sky. She's steadily growing stronger. I've got to do my best too!"
+  },
+  {
+    "message": "Shio-chan has started answering when I call out to her!!"
+  }
+]

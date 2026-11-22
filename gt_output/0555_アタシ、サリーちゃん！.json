@@ -1,0 +1,489 @@
+[
+  {
+    "message": "アタシ、サリーちゃん！"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, it's already pitch dark out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Feel like time's been flying by lately」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Time flies when you're having fun」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm hungry--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's call it a day then」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, let's head home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on a sec」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up, Misa? You're pale as a ghost」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-The world... T-The world...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is there something outside the door?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-There's nothing! Th-That's the problem!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If there's nothing there, then what's the big deal」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go home, Nanaka. Huh, what's wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-Wh-Wh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the heck is thiiiiis!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What happened?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ahem, well. From the quick peek yours truly just took... looks like the world went and got destroyed or something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-Whaaaaaaat」"
+  },
+  {
+    "name": "Misa",
+    "message": "「J-Just because there's nothing outside doesn't mean the world was destroyed, no way!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah! We must be seeing things!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's see」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh. There's nothing here」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're right……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well, I'll go scout around a bit!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'll make some tea!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is, well, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We didn't notice because it's gotten dark, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I see」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not the issue here!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「According to the guidebook, someone named Nostradamus prophesied this」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's old! Way too old!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm back!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut it, shut it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oka~y」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How was it?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's crazy! The Student Council room is floating in completely empty space!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's…… floating」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Floating…… isn't it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's…… floating…… huh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Anyway. First, we need to find out what caused the world to end」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even if we find out, there's nothing we can do about what's already destroyed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Way to kill the mood!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「More importantly, let's think about the future. We've gotta become Adam and Eve, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Adam and Eve…… n-no way!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sh-Synn and me!?　W-w-w-whoa, wh-what do I do!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-no way!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hiss. You weren't even on my radar from the start!　Ria-chan, let's make babies together to rebuild humanity!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll pass」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah. Getting turned down even in a situation like this!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-then, Sister, y-you and I could……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Somehow I am the only one left out. Hmph」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm hungry--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shall we grab some ramen or something on the way back」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I want beef bowl!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's always beef bowl with you, Sally-chan」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Beef bowl is the best!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then let's all go together」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yay」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why are you all escaping from reality!　Even the shopping district is completely gone!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did things end up like this……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Like I said. Unless we can go back to the past, digging into the cause is pointless」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So we just need to go back to the past?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Does Demon World Mail-Order even have that kind of item?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way. That's pushing it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「They do!　Here you go!」"
+  },
+  {
+    "message": "Somehow, that car looks vaguely familiar."
+  },
+  {
+    "name": "Sally",
+    "message": "「Zipping straight to the past or the present, 'Perorian'!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What a questionable name……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Does it even work? I really can't trust the gadgets Omake-san brings out」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's fine! Because it's human-powered!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「H-Human-powered!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What is this! It's just a bicycle with a car-like body cover slapped over it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Cool, right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Let's go!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Wait, seriously!? It's human-powered!? And it's a Demon World gadget!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, standing around here forever won't get us anywhere」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun is right」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Good grief」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm starting to get kind of excited♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess we've got no choice but to steel ourselves, J!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I suppose we don't have a choice……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone's aboard, right? Sally-chan, can you set the time we return to?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I can set it pretty much accurately, so leave it to me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「P-Pretty much……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「October 1st, please」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Okaay!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You at least inspected this thing, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hiss. Asking a question when you already know you won't get a decent answer is foolish」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm just asking a completely normal question!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I did!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You did... T-Thank goodness...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's move out!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah! Being decisive is what makes a true Edoite!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'll follow you to the depths of hell」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, let's hurry! I can't wait to see what happens!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's go save the world!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, big sister!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then off we go!」"
+  },
+  {
+    "message": "We all stomp on the pedals at once!"
+  },
+  {
+    "message": "The sensation of accelerating faster and faster!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are we the only ones left behind!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Where's the bicycle?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's not a bicycle, it's 'Perorian'!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks like only that thing ended up crossing through time」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaaat!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? There's a screw right here」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, that. It's the one left over after I put it back together」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now. Since it's Omake's mecha, it wouldn't have worked even without a leftover screw」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Makes sense」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, if it's Sally's mecha, guess it can't be helped」"
+  },
+  {
+    "message": "All cheerful and harmonious."
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't just accept that!」"
+  }
+]

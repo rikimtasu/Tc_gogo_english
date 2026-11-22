@@ -1,0 +1,335 @@
+[
+  {
+    "message": "よきかな"
+  },
+  {
+    "name": "Ria",
+    "message": "「Pom-pom♪ Namu-namu-namu...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Clap-clap, mumble-mumble...」"
+  },
+  {
+    "message": "Today, at Ria-senpai's invitation, I came to visit Asukai Shrine."
+  },
+  {
+    "name": "Ria",
+    "message": "「There, all done!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now that Kirafes is safely over, next up is the Holy Night Festival, huh. Of course I'll do my absolute best, but--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, it's totally fine to rely on a little divine help\\s07」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just like that, make sure you rely on me and everyone else properly too, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... y-yes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You brought me all the way out here to teach me that, didn't you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... Guess you caught me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Having to ask to make sure shows you've still got a ways to go, Lord Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Even if you say that, seeing Ria-senpai at a shrine is pretty unusual, isn't it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You think so? Believe it or not, the Kujo family are parishioners of Asukai Shrine, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? B―But Ryuusei Academy is a mission school, right? Since the Kujo family has always served as board chair, I just assumed―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem, the Kujo family's motto is literally anything goes!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Uhaa~n, even an unprincipled Ria-chan like that is super cute」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, Shio-chan goes here too, so maybe it wasn't something to worry about...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heya Prez, heya Ria」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Sally―ch―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my, she flew right off toward the shrine office」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, she probably has plans to hang out with Shio-chan」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayane-chan and I used to play here all the time when we were kids too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You can do way more things on shrine grounds than at a park or amusement park with actual playground equipment, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Plus, once a year, only in November, they hand out 'zenzai.' Keep it a secret from everyone else, okay\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Zenzai' is that sweet dish with red bean paste poured over mochi, right? W-We get that for free!? How extravagant!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Actually, Synn, that's a little different.」"
+  },
+  {
+    "message": "Shrine Office--"
+  },
+  {
+    "name": "Sally",
+    "message": "「Shio-chii, hell-o-wanko soba~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I would like to return your greeting, however... Hold on, Lady Sally, is that not a hamaya in your hand?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So this is called a hamaya? It was hanging on the wall at the beef bowl shop. Since it's a weapon, I gotta use it.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, Shio-chii. I wanna try shooting the hamaya.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ho-ho, admirable, most admirable is that spirit!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, to shoot a hamaya, one requires a specialized bow. Do you happen to have one?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nope, the beef bowl shop didn't have a bow like that. If you've got one here, lend it to me, pleeease.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A crying shame, they just sold out a moment ago.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pffft! If I can't shoot it, I'll go return the hamaya later.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mm, a commendable mindset indeed.」"
+  },
+  {
+    "message": "Shrine Grounds--"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. Look at Sally, she's getting brushed off the exact same way I was.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Awawa, that was when I was little, okay!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Seeing you walk right into that and get all flustered is pretty lovely too, Ria.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Chief, bye-bye-boo, Ria, bye-bye-boo.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Sally, please wait.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo! You found a bow, didn't you!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, that is not the case.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「At the Frost Month ritual, we serve zenzai to the worshippers. Please do come by on that day as well, Lady Sally.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's zenzai? Is it yummy?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, it's sweet and you can drink cup after cup of it\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「??? You drink it?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn, Asukai Shrine's zenzai uses the western term; in short, it is what is called oshiruko in the east.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hm... hmm? What's oshiruko? A girl covered in juice?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Hey! Sally, you can't say things like that!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oshiruko is... Wait right there, I'll draw a picture so it's easy to understand!」"
+  },
+  {
+    "message": "Ria-senpai picks up a dead twig and starts drawing a picture of oshiruko on the shrine grounds to explain it to Sally."
+  },
+  {
+    "name": "Ria",
+    "message": "「The red beans and mochi go like this...」"
+  },
+  {
+    "message": "T-This is..."
+  },
+  {
+    "name": "Ria",
+    "message": "「~♪ ~♪ ~~\\s07」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nuh...!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I had no idea Asukai Shrine held an event like that in November.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn. Shinto rituals do not consist solely of festivals lined with food stalls.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, so that's why I didn't notice.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mumu? Mu? Mumun? Zenzai, oshiruko...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's too hard, my head's all jumbled up~. Why go out of your way to call it something else?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is kotodama--the spiritual power of words. When written in kanji, 'zenzai' becomes '善哉.'」"
+  },
+  {
+    "name": "Shio",
+    "message": "「'善哉,' '善き哉,' 'yoki kana'--meaning 'how wonderful.'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So that's what it meant. I'll have to tell Saiki too... scratch, scratch, scratch」"
+  },
+  {
+    "message": "T-This is bad. On the sacred ground of the shrine precincts, something indescribable is...!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn, I'll leave the rest to ya, okay? *Thud*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「P-Paqy?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Awawawawa, Ria... *shiver, tremble*」"
+  },
+  {
+    "name": "Ria",
+    "message": "「All do~ne\\s04」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm, might this drawing be of the ominous gods from outer space?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hyooeeeeh, what is this? It's scary, it's scary, Boss, save meee!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally, where are you going?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah!? I-I must attend to my duties at the shrine office, so please excuse me」"
+  },
+  {
+    "message": "Shio-chan? Did she seriously just run away?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, after I went through all the trouble of drawing it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A... ah... a...」"
+  },
+  {
+    "message": "Nngh!? The words won't come out right. What in the world happened to me!?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Since we're here, I'll explain it to you, Synn\\s07  There are two key points to this oshiruko」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... uh... ugh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You get it, don't you♪  Just as you say, Synn, how well the red beans have melted, and the char on the mochi--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Oh, a bird..."
+  },
+  {
+    "message": "……。"
+  }
+]

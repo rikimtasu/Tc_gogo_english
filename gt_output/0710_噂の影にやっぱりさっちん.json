@@ -1,0 +1,979 @@
+[
+  {
+    "message": "噂の影にやっぱりさっちん"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heeey, Paqy. Your food's gonna get coooold」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He's got such a peaceful sleeping face...」"
+  },
+  {
+    "message": "I'm scared to tell him the truth, but I have to do it sooner rather than later."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's about time I went to pick up Ria―senpai―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Wonder who that could be.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Comiiing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Nobody's here」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Gueeess who\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!!」"
+  },
+  {
+    "message": "This voice is--"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehehe, I came over♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's walk to school together\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your house is right next to the school, Senpai! If we're going to walk together, I should be the one picking you up!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Once we get to school, we have to split up right away, don't we? If we did that, we'd have less time together...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So... please...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Okay, I got it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yay♪」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan!? Don't tell me you came to gently wake yours truly up!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're already awake」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then did you come to treat me to an elegant breakfast!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The one I made is sitting right there wrapped in plastic.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then what did you even come here for」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Um…… well……」"
+  },
+  {
+    "message": "Ria-senpai is in a bind……. As a man, I have to step in for her here."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Actually, Paqy. I…… started dating someone. U-Um…… Ria-senpai」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh? Wait, are you telling me the Demon Lord is Ria-chan's boyfriend? Don't joke around――」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah…… seriously, I'm his girlfriend\\s03」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「W-Whaaat!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, what did you have for breakfast today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Egg over rice」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's no good, Synn-kun. You have to eat a proper breakfast. Otherwise, you won't be bursting with energy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bursting with energy, huh\\s02」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, you're still in your growth spurt, so you have to eat plenty and grow big and tall」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Big and tall……」"
+  },
+  {
+    "message": "Right now, I'm about the same height as Ria-senpai, or if things go badly, maybe even shorter."
+  },
+  {
+    "message": "As her boyfriend, this might be a grave situation."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All riiight. From now on, I'll add one more dish. Finely shredded green onions」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, yeah. That's the spirit」"
+  },
+  {
+    "name": "Ria",
+    "message": "「――Hey, that's not nearly enough! You at least need to add bacon and eggs」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, what do you plan to do by fattening me up? Ah, I get it. You're planning to eat me, aren't you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, saying weird things like that. It can't be helped, so I'll make breakfast for you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem! Ria-senpai's Synn-kun Raising Plan~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I couldn't possibly trouble you like that. You're already coming to pick me up as it is」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't hold back around your girlfriend. That's when you gotta be bold」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Like, 'You are forbidden from going to sleep before me!!'\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of domineering husband is that? Saying something like that to my senpai……」"
+  },
+  {
+    "message": "Wait a second? Taking the lead like a man here might not be a bad move."
+  },
+  {
+    "name": "Synn",
+    "message": "「There are things only you can do. Don't butt in on anything else--just shut up and follow me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey now. Don't get carried away!\\s05」"
+  },
+  {
+    "message": "Smiling, Ria-senpai gave the tip of my nose a light poke."
+  },
+  {
+    "name": "Ria",
+    "message": "「From now on, is it okay if I drop by unannounced?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, that's fine. Ria-senpai is, um…… well……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-Because, you're my, girlfriend, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……♪」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good morning to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good morning!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah…… good morning, Ayanishiki-chan」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my. Walking to school together--you two certainly seem awfully close」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Almost like a pair of lovers」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-As expected of Ayanishiki-chan…… nothing gets past you\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Eh…… wait, is it true?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes…… thanks to you\\s03」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh～～ my～～」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「No wonder Paqy-san looks like his soul has left his body」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I figured it'd be worse to keep hiding it」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Wouldn't it be more accurate to say you couldn't hide it even if you tried?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「At any rate, congratulations」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-When you put it like that, it's embarrassing...\\s03 But, thank you\\s04」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Mr. President. If you ever do anything to make Ria sad...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah, I get it, I get it!! It'll be fine. You can leave Ria-senpai completely to me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez, Synn-kun...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee... You two are so lovey-dovey it's too much for me. I can't bear to watch any longer」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Gasp. To think Synn-kun and Ria-senpai became lovers...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「T-This is a huge deal. Big news. I have to go tell everyone right away」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「W-Whaaaat!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The school just shook...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could it be the effects of Re-Crea...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good morning, Mr. President and Miss Senpai」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, morning, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And, congratulations on your marriage」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, thank you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「--Wait, hey!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And they lived happily ever after. My, I suppose I must call Miss Senpai a bride now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's not it\\s03 We just started going out normally~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Marriage... I-It's still way too soon...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so... In that case--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aha!! You two are what they call a lovey-dovey idiot couple♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fine, whatever, just go with that\\s02」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We haven't told anyone at all that I'm dating Synn-kun yet, so how do you know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, you see--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Well, well, look at the two of you. Seeing you on such intimate terms makes me gaze upon you with a touch of envy, indeed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even Shio-chan!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「With Christmas drawing near these days, one naturally longs for the warmth of another's touch. Giving in to that yearning, warming both heart and body――」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ha――!? Wh-what shameless thoughts am I entertaining!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Having one's heart stolen by the opposite sex is utterly outrageous. Without extinguishing the ego, there is no victory. I must train to cast aside all worldly distractions!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Waaah, don't go on a rampage!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister, please tell me it's a lie!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Another one popped up……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even though I, too, have adored you from the bottom of my heart, Big Sister!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-that's, um……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm sorry!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh…… I lost again……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This isn't some kind of competition……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's fine!! I still have Paqy-san!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aah…… Could it be that I was projecting her image onto Ria-chan……?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Comfort me, Paqy-san!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Knock it off, Hiss!! Don't interrupt a guy while he's soaking in sentimentality!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, geez, how did this turn into such a commotion」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's true, I tell you. There's even a witness--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yep. The maid saw it all!! The President and Ria doing this and that inside the room!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Is it already too late…… *slump*」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now that sounds interesting. Why don't you tell me all about it in detail」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see…… So that's the root of all this」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's no choice now but to announce this in a special extra edition!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Here's the headline: A Student Council President Couple Is Born. Forbidden Love」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll go print this right away~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah, hey, wait a second!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan... looks like Operation Lovey-Dovey was a total bust」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sh-Shut up!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Don't cry, okay? You're gonna make me cry too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not crying!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-H-Hey there, you two」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was meaning to tell you properly, but things ended up like this...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「'Like this'? This is huge news! Two of the biggest celebrities at school dating is a total scoop~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you're the culprit, Sacchin...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, whoops~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Isn't it fine? Your wish came true, after all... Um, well...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A... Ahem」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Congratulations, you two」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Thank you, Nanaka-chan!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah! Well, catch you later!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Nanaka!! Wait--」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No can do, Synn-kun. If you hurt Nana-chan any more than this, I won't forgive you~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What do you mean?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You total blockhead!! Not even noticing Nana's feelings, you're the worst」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka, I knew it……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, Sacchin. What's with that hand」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aww. Guess begging Synn-kun was useless after all~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, are you going to cover for me?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well~. To be fair, Nana was a total coward too~. I just couldn't stand watching anymore~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'll go after her!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's fine, Ria-senpai. After all, Nana managed to properly say congratulations~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She'll be fine once she eats some cake~. I'll go with her today or something~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Thanks, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Not at all~. You always look out for me, Synn-kun~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Phew~. Guess that keeps me from getting charged with spreading rumors~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「See ya~\\s01」"
+  },
+  {
+    "message": "Without the two of them ever saying a word, the rumor spread on its own, yet everyone gave their blessing to their relationship."
+  },
+  {
+    "name": "Synn",
+    "message": "「Haaah……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu, good work today. Right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Preparations for the Holy Night Festival, plus special training with the Demon Lord. Having them back-to-back really wears you out」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You've been holding back all this time, haven't you, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, well, I wouldn't really call it holding back……」"
+  },
+  {
+    "message": "Holding back from grinning like an idiot in front of everyone today was way harder, honestly."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, your hand. Hold it out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My hand?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah♪」"
+  },
+  {
+    "message": "I wonder what she's planning to do, taking my hand like that."
+  },
+  {
+    "name": "Ria",
+    "message": "「Haaah.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Ria-senpai blew a warm breath onto it."
+  },
+  {
+    "message": "Then, after adding a touch of moisture, she pressed her palm against mine and rubbed them together."
+  },
+  {
+    "message": "The soft sensation caught me off guard"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaah!」"
+  },
+  {
+    "message": "A thumb was pressed firmly into my palm."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What are you doing?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A palm massage.\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A massage?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hurts so good, right? Take that! And that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Ow-ow-ow!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Apparently there's a pressure point here that relieves eye strain. Something on TV said so.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, you don't have to practice it on me--owww-ow-ow!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're a boy, so don't whine about the pain so much. It's unseemly.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Boy or not, what hurts hurts! If that's how you feel, should I do it to you too, Ria-senpai?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sure, go ahead♪」"
+  },
+  {
+    "message": "Seeing her accept so readily made my earlier thrashing around look pretty pathetic."
+  },
+  {
+    "message": "The palm she held out was fair and translucent, yet warm to the touch."
+  },
+  {
+    "message": "Still, how am I supposed to do this? She's a girl, so I can't press too hard, so I'll just try pushing around gently."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm... ngh...」"
+  },
+  {
+    "message": "Haaah... Ria-senpai's palm is so squishy and soft..."
+  },
+  {
+    "message": "Before I knew it, wanting to savor the feel of her smooth skin, I stopped pressing and began sliding the pads of my fingers across it."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... ngh... mmm! That tickles!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-If you do it like that... it's not a massage...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah!! No, no!! I just got carried away!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Carried away...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No... I just, well, wasn't really sure how to do it, that's all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, I see. Let's switch then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm good now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Too bad♪」"
+  },
+  {
+    "message": "Still, Ria-senpai's hand was so warm and soft……"
+  },
+  {
+    "message": "Ahh, I want to squeeze that hand tight……"
+  },
+  {
+    "message": "But if I grab it out of nowhere, I'll probably startle her, and yet saying \"Let's hold hands\" is way too embarrassing."
+  },
+  {
+    "message": "Casually…… casually……"
+  },
+  {
+    "name": "Ria",
+    "message": "「～～♪」"
+  },
+  {
+    "message": "Right now, while we're walking close together, is my chance."
+  },
+  {
+    "message": "I reach out to catch Ria-senpai's palm as she hums a tune!!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyah!?」"
+  },
+  {
+    "message": "However, my outstretched hand completely missed the mark and ended up grabbing something outrageous instead."
+  },
+  {
+    "message": "It was even softer than a palm――"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sh-Synn-kun……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha……!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Suddenly doing something like that……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-N-No, you've got it wrong!! I definitely wasn't trying to touch your butt----」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then what were you trying to do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That is……\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mgh~~\\s09」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wanted to hold hands, sir. With you, Ria-senpai……」"
+  },
+  {
+    "message": "Overwhelmed by embarrassment, I slipped into stiff jock-speak."
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I see…… If that's all, you should've just said so……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I wouldn't have ended up touching your butt either……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even with my butt, if you'd just asked――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Take this!!」"
+  },
+  {
+    "message": "Our hands linked together, radiating warmth."
+  },
+  {
+    "message": "Under the chilly sky, that warmth felt like pure bliss."
+  },
+  {
+    "name": "Ria",
+    "message": "「Holding hands kinda makes us seem like a couple, doesn't it...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't we, though?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, right. My bad, my bad\\s02」"
+  },
+  {
+    "message": "Ria-senpai said, sticking her tongue out playfully."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Shall we head home?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, let's go♪ Then all the way to your house--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way!! Picking me up is one thing, but I'm definitely the one walking you home!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My house is right outside the school gate, you know...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's stop by somewhere on the way. That way, we can keep...」"
+  },
+  {
+    "message": "When I tightened my grip, Ria―senpai squeezed back―"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-W-Wait a second, time out!!」"
+  },
+  {
+    "message": "Ria-senpai suddenly let go of my hand, took out a handkerchief, and wiped her palm."
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Here you go\\s01」"
+  },
+  {
+    "message": "Apparently, our hands had gotten sweaty."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-In that case, I'm the same...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez, Synn-kun--\\s03」"
+  },
+  {
+    "message": "What are we even doing."
+  },
+  {
+    "message": "Even though we still can't even hold hands normally yet."
+  },
+  {
+    "message": "Step by step, closing the distance between the two of us."
+  },
+  {
+    "message": "And may we someday grow close enough that our hearts overlap."
+  }
+]

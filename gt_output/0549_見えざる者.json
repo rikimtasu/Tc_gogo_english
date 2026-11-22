@@ -1,0 +1,302 @@
+[
+  {
+    "message": "見えざる者"
+  },
+  {
+    "message": "Forget the exam blues and put everything we've got into the Holy Night Festival."
+  },
+  {
+    "message": "First, we need to prepare thoroughly. To do that, I should ask Helena-san for her opinion."
+  },
+  {
+    "message": "Helena-san's cooperation was the foundation that made KiraFes a success."
+  },
+  {
+    "message": "Whenever we were about to overstep the Student Council's bounds and get carried away, she immediately pointed it out."
+  },
+  {
+    "message": "I want to ask her to be the voice of reason for the Holy Night Festival, too."
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, Helena is in the office\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh, if it isn't Synn-dono.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yikes!? S-Shio-chan... Are you quitting the academy? How could something like that--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Wha!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan, that's just cruel.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. No matter how 'a little questionable' Asukai-san's grades may be, jumping straight to expulsion just because she is in the chairwoman's office is quite uncalled for.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-What do you mean by 'a little questionable'?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Her class rank is two hundred--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Waaah, waaaaah, waaaaaaaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shio-chan, calm down. If you barely missed the mark this time, you can just aim higher on the next test.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Um... I am hopeless every single time, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Back me up here!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Asukai-san, before that, please back up Helena and myself.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oops, that is right.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, what are you doing?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As a shrine maiden of the Asukai, I am merely driving out that wretched Kokkuri.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「K-Kokkuri-san!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, Helena started it half as a joke, but... even after giving its fortune, it has lingered here and refuses to leave.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, you're so mean~ You were having fun asking it all sorts of questions too, Melilot.」"
+  },
+  {
+    "message": "Looking closely, a sheet of paper with the Japanese syllabary, numbers, and \"Yes\" and \"No\" written on it is spread out on the director's desk."
+  },
+  {
+    "message": "It's a game my occult-loving classmates used to play all the time when we were kids."
+  },
+  {
+    "name": "Shio",
+    "message": "「I sensed a strange presence drifting from the director's office, so I came to investigate, and sure enough...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Didn't you actually just get a bad test score and run away to escape Ms. Cristelis's thunderous wrath?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, is Kokkuri-san actually in this room? I don't see anything at all.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Why, it is right over there, you know?」"
+  },
+  {
+    "message": "Shio-chan points toward the top of the shelf stocked with alcohol."
+  },
+  {
+    "message": "...There's nothing there but the wall."
+  },
+  {
+    "name": "Helena",
+    "message": "「I can't see anything either. If you're really here, Kokkuri-san, please answer our questions a little more seriously.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Almost all of the divinations were just cheap attempts at getting laughs...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, when we asked about the names of our future husbands or how many babies we'd have--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Apparently, I am going to give birth to 3,750 children.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you pop out triplets every ten months and ten days, factoring in the margin of error, you'll hit roughly that number in about a thousand years.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No thank you!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, Kokkuri-san quite often misses the mark on purpose, you see?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. Like a sly old badger, it is a cunning entity that leaves behind words imbued with spiritual power meant to sow doubt in people's minds.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Precisely. It is not some arrogant fool that would flaunt its power by giving an oracle for every little thing it is asked.」"
+  },
+  {
+    "message": "Huh? Setting aside Shio-chan, who's a shrine maiden, doesn't it sound like Melilot-san actually knows a lot about Kokkuri-san too?"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, how remarkably thoughtful. So in other words, you're saying...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Kokkuri-san glosses over the things we don't need to know, and only reveals the things we ought to cherish and remember far into the future...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Just so! As expected of a heroine, you are quite quick on the uptake.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, when I asked for the name of my lifelong friend, the oracle returned 'Melilot'♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's definitely the right answer, no doubt about it.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot asked the exact same question, too, yet her oracle didn't say 'Helena'.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ngh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Umm, maybe I phrased the question poorly?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To Melilot, you aren't just a friend, Helena--you're her best friend. At least, that's how I see it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Y-Yes! That's right, Helena!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my? What a sweet thing to say. By the way, the oracle Melilot asked for is written down on that piece of paper--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hyaa!」"
+  },
+  {
+    "message": "Melilot dives onto the desk... right on top of the paper with the notes written on it."
+  },
+  {
+    "message": "She's usually so fearless and composed, so what kind of answer could possibly be written there?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Haa, haa, haa... Destroying the evidence.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Good grief, the Kokkuri is looking over here and laughing, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Because Lady Helena and Lady Melilot possess mature minds, no serious harm has come of this, however...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I cannot say I approve. For the chairwoman and the librarian to summon such a spirit.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh? ...Hehe.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Wh-What was that?! Gah, I need no telling from you! Begone at once!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Phew, pheww. ...It has finally left.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio? Why did you get angry?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As it was leaving, it teased her.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「'Hey now, Asukai, don't let your guard down just because you're an exorcist shrine maiden? Demons and spirits are quite different, you know?'」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. Word for word, that was the Kokkuri's parting remark.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You could see it too, Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, I'm just constitutionally inclined that way.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now then, I have finished covering for you two. Next is Lord Synn! Please cover for my test scores!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N―No, the results have already been posted, what do you expect me to do? More importantly, Helena, I wanted to talk to you about the Holy Night Festival―」"
+  },
+  {
+    "name": "Shio",
+    "message": "「At this rate, my elder sister will scold me severely! Please save me!」"
+  },
+  {
+    "message": "With great effort, I manage to calm Shio down."
+  },
+  {
+    "message": "The matter was settled with Melilot agreeing to lend her some recommended reference books."
+  },
+  {
+    "message": "Just like during the KiraFes, Helena advised me to do what I want with both freedom and responsibility."
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "message": "踊りへっぽこ版"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, hey, Nana-chan. What are we doing for the Holy Night Festival?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You girl, weren't you listening at the general assembly!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yep, I was sleeping. So, what are we doing?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good grief, this girl...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, Synn. What are we doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Pretty sure they said something about dancing, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. Wait, you were actually listening!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe. I've got super sharp ears, you know!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Dancing, huh... Whose idea was this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think it was Misa--」"
+  },
+  {
+    "message": "It was Misasagi-senpai's idea, but it might be better not to tell Nanaka"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Was it Misa?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then why don't we just ask Misa?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, good idea!\\s01　Well, I'll go ask her」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Have a nice triiiip\\s07」"
+  },
+  {
+    "message": "I wonder where Misasagi-senpai is?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Ria-senpai!\\s08」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's up? Coming all the way to my classroom\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... is Misasagi-senpai around?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misasagi... chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes. I have some business with Misasagi-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「O-Oh, I see. Hold on just a second, okay\\s02」"
+  },
+  {
+    "message": "Sigh... Is there really nothing I can do about how my heart starts pounding every time I look at Ria-senpai?"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm Ayane Misasagi」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I already know that\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hehe... President, Rii-a's over there sulking, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「She's got a look on her face that says, 'Why wasn't it me~?'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I mean, my business was with you, Misasagi-senpai...」"
+  },
+  {
+    "message": "As I say that, I can't help sneaking glances over toward Ria-senpai."
+  },
+  {
+    "message": "And she's been glaring straight over here the whole time..."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Business with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Earlier, about the Holy Night Festival dance party... I wanted to ask what kind of vibe you were hoping for」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Awfully sorry to put you out, makin' you go along with my selfishness like this. Let's see~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you picturing something like ballroom dancing, after all?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Nothing quite so stiff and formal. Havin' everyone dance casually and enjoy themselves is what's best」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, wouldn't it be better if folks learned at least a little bit of how to dance beforehand?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. If everyone learns a few simple steps in advance, we'll all be able to have fun on the day of」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Can you dance, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm embarrassed to admit it, but I can't even do a proper Bon Odori」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「In that case, why don't you have Rii-a take you by the hand and teach you step by step?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-With Ria-senpai, hand-in-hand?!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I couldn't possibly...\\s03」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Just kiddin'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, hey! What are you two talking about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Ria-senpai!\\s01」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「...Mr. President. About what we were just talking about--on second thought, you'd better drop it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「After all, a boy is supposed to take the lead with a girl, you know~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wha--?! What's that supposed to mean--?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Excuse me!\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah! Hey, Synn-kun!! Get back here--!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hehehe... Honestly, those two are such a gloomy pair.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sy~nn-kun♪」"
+  },
+  {
+    "message": "Whoa, that's a huge smile."
+  },
+  {
+    "name": "Ria",
+    "message": "「What were you and Ayanishiki-chan talking about just now~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Give me a break already...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you don't tell me--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah! I got it, I'll talk--! So please spare me--!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I didn't even say anything yet.\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well... I didn't know how to dance, so I was wondering what to do. And then, Misasagi-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayanishiki-chan did?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She told me to have you teach me, Ria-senpai.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh... M-Me?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though she's the one who suggested it, she then told me to forget it because a guy is supposed to lead a girl.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, when it comes to dancing, there's nothing I can really do on my own...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, sorry to keep you waiting!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hello~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What were you doing, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nothing! Just going over the agenda」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So there is something you need to decide on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Um, about today's agenda--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun's expression totally changes the second it comes to Student Council business~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-What am I staring at, geez\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--And so, since not everyone knows how to dance, I was thinking we could hold a dance workshop or something」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on a second. Who's going to teach it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, us downtown-raised folks can't do it, but... surely the high-society ladies can pull it off, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am an angel, so I cannot dance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And she owns up to it so shamelessly」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is stranger for a king to be unable to dance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh. 198 damage to my heart!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In that case, our last hope is...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, I suppose it can't be helped. Leave this to--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's gotta be Ria-senpai, after all!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you think, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph. If it's Onee-sama, I have no objections」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I have no doubt she will grace us with her magnificent and lovely steps\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Ah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-san is quite skilled at teaching others, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Zero objections! Now it's settled as long as you're okay with it, Senpai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun is staring... Uuu... I can't say no...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-All right. If you insist that much, I, Ria Kujou, will teach everyone how to dance!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoaaa」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Way to go, Ria-senpai」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As expected of you...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Ahem!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then, assuming we hold the general workshop sometime the week before...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, right here! December 17th!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We should do a dry run with just us beforehand, shouldn't we」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's a brilliant idea! With one-on-one lessons from Onee-sama\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then, let's get started right away with us as your students--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah! Oh right, oops. My big sister actually called for me today」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry, I'm gonna run to the chairwoman's office real quick--\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh my」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She's quite busy, isn't she~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So dreamy...\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Is it really okay to just keep relying completely on Ria-senpai?"
+  },
+  {
+    "message": "I'm the Student Council President, too."
+  },
+  {
+    "message": "I've got to practice dancing so I can set a good example for the students."
+  },
+  {
+    "message": "That said, I can't embarrass myself in front of everyone."
+  },
+  {
+    "message": "Staying behind to practice after everyone goes home."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yo, ho, ho, whoops, AAAAH!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ugh, I can't watch this anymore. Prez, isn't dinner ready yet~~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan!? How long have you been there!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I've been here the whole time. I'm super starving already. Stop playing around and let's eat~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Okay, got it. I'll be home soon, so go ahead and cook the rice!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Roger that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... Alright, one more time. One-two-three, uno-dos-tres」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa!! Ria-senpai!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, what... are you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, could it be... dance practice?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not even 'could it be'--that's exactly what it is」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sorry! I didn't mean to peek, though\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... well, I figured it'd look pretty lame if the Student Council President couldn't dance...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I've been practicing in secret, though doing it alone isn't really working out...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Honestly, I did think about asking you for help, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'm a guy, after all. I have to get good enough to lead you properly, Ria-senpai. Yep」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Synn-kun... come on... that's not fair」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa--\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even if you are a boy, I'm still a third-year upperclassman, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry... for speaking out of turn」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, pushing yourself like that won't make you any better, y'know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-As a special exception, you're going to take private lessons from Teacher Ria」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It's already late today so we can't start now, okay\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... but if I just keep relying on Ria-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If I end up letting Synn-kun take the lead... I won't be much of a senpai anymore...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Riaaa. I'm done with work, so for our special dance train--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaa!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my. You were here, Synn-chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hurry on home now. You'll make Ria worry, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha... I'm not a kid anymore, so I'll be fine!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I got what you said earlier. Still, I'll practice on my own too! Excuse me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-Be careful, okay?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Bye-byyyee, zoom-zooom♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Is Synn-chan finally going through his rebellious phase?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think it's a little different from that\\s02」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, that means we need to buckle down even more on that special dance training」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh」"
+  }
+]

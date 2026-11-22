@@ -1,0 +1,424 @@
+[
+  {
+    "message": "大人と子供の境界線"
+  },
+  {
+    "message": "We will now begin the extraordinary student general meeting."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Wait, that's way too normal.」"
+  },
+  {
+    "message": "The student general meeting is starting\\s07"
+  },
+  {
+    "name": "Synn",
+    "message": "「Too casual.」"
+  },
+  {
+    "message": "Student general meeting, let us commence fairly and squarely!!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Too stiff.」"
+  },
+  {
+    "message": "The student general meeting is starting!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「What am I, Paqy?!」"
+  },
+  {
+    "message": "Uugh... What am I supposed to do..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Guoo~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seriously, completely oblivious to how I'm feeling...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go. Have some tea♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's the matter? Is something troubling you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Ria-senpai.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You didn't even notice me brewing the tea. You must have been really focused.」"
+  },
+  {
+    "message": "I get the feeling she pops up out of nowhere just as much as Helena-san."
+  },
+  {
+    "name": "Ria",
+    "message": "「Did everyone head off somewhere?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. They're out notifying the students... As for me, I've been trying to come up with what to say in my speech, and ended up like this.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see.」"
+  },
+  {
+    "message": "Looking at the desk covered in eraser shavings, Ria-senpai smiled as if amused."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai... do you happen to have any good ideas?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is this year's Student Council President the type to give up so easily?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no, it's not that I'm giving up or anything, it's just...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How disappointing~~ To think you're someone who immediately relies on others.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, not at all! I'll think of something, I'll do my best on my own. Alright, I've got this!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee, just kidding♪ That's what I'm here as an advisor for, after all.」"
+  },
+  {
+    "message": "It's embarrassing feeling like she can see right through me."
+  },
+  {
+    "name": "Ria",
+    "message": "「You know, Synn-kun, asking other people is super easy, right? That's why you end up just asking them」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you keep relying on others like that, you'll be in trouble when the time comes that you have to figure things out on your own」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, that's why I think if you're going to ask someone, you should come up with your own ideas first♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You make a very good point……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll wait right here until you think of something, okay?」"
+  },
+  {
+    "message": "Ria-senpai sat down directly across from me and rested her chin in both hands."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "message": "Ria-senpai watched me, swaying her head side to side as I scratched away with my pen."
+  },
+  {
+    "name": "Synn",
+    "message": "「This is the very first event since our Student Council was formed, isn't it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When I think about whether everyone will approve of it, I just get so anxious……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see. So that's why you're stuck」"
+  },
+  {
+    "message": "Ria-senpai stood up slowly and sat down next to me this time."
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn-kun, how do you want all the students to feel at this festival?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Feel……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What kind of memories do you want everyone to take away from it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want them to have fun. I want it to be a fun memory for them」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And what about you, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't forget, you're one of the students too, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let me ask you again. How do you want to feel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I want to have fun too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Exactly! That's why you have to put yourself in a fun mood first」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You won't come up with any fun ideas making a face like thiiis\\s04」"
+  },
+  {
+    "message": "She pinched my cheeks with her soft fingertips and stretched them sideways."
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shtop ihh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now up and down, streeetch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmph-gaaah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, your skin... is really pretty, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmmm. Kind of frustrating...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Take this, take that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. Sorry, sorry. That lovely skin of yours is gonna get all stretched out, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All stretched out...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aaah! No, you can't write that down!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a collection of Senpai's famous quotes!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez! No way, no way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, give me back my pencil!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Not giving it baaack unless you promise not to do anything weird」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmm... Sounds like someone's having fun--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa?! Is this my chaaance to get all tangled up with Ria-chan!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「However, here comes the steal!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gwah」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A magnificent dribble, and then--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Dunk shoooot!」"
+  },
+  {
+    "message": "Paqy was slammed into the ground."
+  },
+  {
+    "name": "Helena",
+    "message": "「'Hmph... Nailed it...'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Helena-san...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hey, Synn-chan. What are you doing flirting with my cute Ria?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Hey, stop that!\\s03」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mmh\\s04 They feel just as good as ever\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mfufu♪ Do you want to touch them too, Synn-chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hyaa! I-I could never... do something like that!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What's with getting shy now? That's what you were doing just a moment ago, wasn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha!? I was not!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Even though you two were fooling around behind my back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「F-Fooling...!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you could touch them, you'd want to, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「O-Onee-chan, really! Synn-kun isn't that kind of perverted boy!! Right?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Really~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez! Look, you're troubling Synn-kun!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, what a kind big sister. In that case, stop playing around and hurry up and finish putting your speech together」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Urk」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hehehe, Ria really is still just a kid~~」"
+  },
+  {
+    "message": "Helena-san gave a little wave of her hand and walked out."
+  },
+  {
+    "message": "Ria-senpai stuck her tongue out at her retreating back."
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't doing things like that why she calls you childish...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, you dummy, dummy, dummy, Synn-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Ria-senpai, st-stop it!」"
+  },
+  {
+    "message": "I writhed under an attack that tickled far more than it hurt."
+  },
+  {
+    "name": "Ria",
+    "message": "「Listen up, Synn-kun! You are to finish summarizing that speech right this instant! That's an order from your senpai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes ma'am……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If there's anything you don't understand, feel free to ask your senpai anything at all. Special service\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah……」"
+  },
+  {
+    "message": "Seriously, she changes her tune so fast, I can't tell if she's mature or childish……."
+  }
+]

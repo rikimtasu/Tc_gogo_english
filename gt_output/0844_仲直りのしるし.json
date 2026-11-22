@@ -1,0 +1,1354 @@
+[
+  {
+    "message": "仲直りのしるし"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I'm going to make up with Macaron... first, what should I even say to start talking to her...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're starting from there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I guess I'm just nervous」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, that ain't like you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Forget that, it's lunchtime, lunchtime. Hurry up or lunch break's gonna end」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Today, just like every other day, a curry bento...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Food and drink are prohibited in the library」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Especially things with strong smells」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Um, is there something else...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Isn't it you who has something on your mind?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's rare for you to come here without any business, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I thought you might have something troubling you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, it's written all over your face that I hit the mark」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'm no match for you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe, so I was right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually, I'm having a bit of trouble with a personal relationship...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. It is just as Helena said.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Half of it was my own intuition, while the other half was at Helena's instigation.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why would Helena-san do that?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「\"Attentive care for the students is also a chairwoman's duty...\"」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Or so she said, at least.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In all likelihood, she heard from Ria that Sakura-kun was acting strangely.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I merely heard about it secondhand.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "I see..."
+  },
+  {
+    "message": "Even while I'm like this, I'm making the people around me worry..."
+  },
+  {
+    "message": "I really need to pull myself together."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, you were having trouble with interpersonal relationships, correct?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Have you found a girl you like?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh!? N-No, it's nothing like that!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you dislike her, then?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... It's not that I dislike her.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At first, we got along right away...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Truth is, I want to get even closer to her...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...So you already understand both your own feelings and what you wish to do.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I believe so.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, you need only convey them.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In your own way, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In my own way...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "What I was agonizing over wasn't what I should do."
+  },
+  {
+    "message": "I just wanted a push to actually go through with it..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...It seems there's no longer any need for me to counsel you further.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all, you were a huge help.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Have you found the courage to take action?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes! Thank you very much.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Don't mention it. Guiding troubled students is part of my job, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, excuse me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...The Demon King, huh.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I wonder which one of them is truly worthy...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's all for today's meeting.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Good work today~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alrighty then.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What, got plans today or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah, not really. You've got club activities, right, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, I do.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Try not to push yourself so hard you get a stomachache.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not that weak!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. Well, see ya~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...What's up with him?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, it's nothing big.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn acting weird is nothing new, anyway...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Are you looking for the squirt or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before that, there's something I want to look into」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What happened between the humans and the Demons who were at the venue on the day of KiraFes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wanted to find that out」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ah, I gotcha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to follow up on the parts I couldn't finish patrolling that day」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, I think you should just do whatever you want, Demon Lord」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Let's see now」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「I was at the shop the whole time that day too, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't see anything?」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Yeah, sorry I couldn't be of any help」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, thank you, Tame-san」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「By the way, did Macaron-chan like that thing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Oh, yes. Very much」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Is that so, is that so? Well, that's great」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「I don't really get what's going on between you two, but you take care of each other, alright?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, well then...」"
+  },
+  {
+    "message": "I can't exactly tell him I haven't seen her since then..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No clues from Shina-oba, Tame-san, or Kim-san's place either, huh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord, are you seriously planning to go around the whole shopping district by yourself?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I can't exactly ask humans to do it, can I?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't you think you're getting a little too worked up over this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But...」"
+  },
+  {
+    "message": "I have to be the one to talk to Macaron."
+  },
+  {
+    "message": "No. Because I want to handle this myself..."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll keep at it a little longer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There were people who saw a creature that looked like a Demon, though nobody saw the commotion itself...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, the venue was pretty huge, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What should we do now...」"
+  },
+  {
+    "message": "Is there anything else I can do..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heeey, Shiiin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huff, huff, fiiinally found you!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Auu~, Nana-chan~, heff, huff, wait up~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong, you two?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha... Well, I just happened to hear something interesting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Haa, phoo, listen, Nana-chan is just--...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, really! I was at the shop Sacchin recommended until just a bit ago!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And apparently, the shopkeeper saw a Demon during Kirafes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-what, really!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It seemed like they wanted the cakes out front」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When the shopkeeper talked to them wondering if they had money, they suddenly went and ate the cake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's a Demon who just came to the Human World, they wouldn't know anything about money...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Probably. Maybe they thought they could just eat whatever they wanted」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And then when the shopkeeper scolded them, they ran off, apparently」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you eat something you thought you were allowed to eat and get yelled at for it, that'd make you feel sad」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The shopkeeper said they might've acted a little childish, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "Neither of them meant any harm, after all."
+  },
+  {
+    "message": "If they just understood each other properly, it's really just a trivial misunderstanding."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, Nanaka. That really helps」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Ah, nah, something like this is no big deal!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You know, Nana-chan kept going on and on about how Synn-kun was acting weird~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Waaah, hey!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And then she even went around questioning the shopkeeper~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You little! Still talking?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nooo~! Stop giving me noogies~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Take this, and this!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, sorry for making you worry」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Oh, it's fine, it's fine, I don't sweat the small stuff!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I could tell right away that you were worried about Mako-chan, Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And honestly, I can't just leave Mako-chan alone either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, when you're down in the dumps, Synn, it throws off my groove too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Childhood friends for the win~ Mutual love, huh~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--?! Don't say stupid things!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, Synn! We'll help out too!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Eeeh~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm helping!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, we already checked around here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's fine! I made sure to ask for backup」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Backup?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, look, they're here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Sorry to keep you waiting」"
+  },
+  {
+    "name": "Shio",
+    "message": "「We have procured some promising information」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, and even Shio-chan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't get the wrong idea, Sakura-kun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san begged me so desperately that I had no choice but to help out, okay!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, thanks, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh~! I didn't do anything special!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now then, I was asking around over by the park, and...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did you hear anything?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yes. I met some children who said they encountered a creature resembling a monster on the day in question」"
+  },
+  {
+    "name": "Shio",
+    "message": "「According to them, the monster seemed to take an interest in the balloons the children were holding」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet it was planning to play with them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Or maybe it thought they were one of its own」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, you can probably guess what happened next」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Something caused a balloon to pop, and the startled kid started making a fuss...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Apparently, a parent nearby chased the Demon away, and it fled」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It seems the children were not particularly frightened of the monster」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If anything, they said the parent was scarier when they were chasing the Demon away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Parents these days are way too overprotective. They ought to take a page out of Synn's family's book」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My family is way too hands-off」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bwahaha! True that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, what just happened was just a misunderstanding we could work out if we talked it through...」"
+  },
+  {
+    "message": "They simply didn't know anything about each other."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, next up...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「We have arrived, milady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you for your hard work, Jeeves」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry to keep you waiting, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry. Feels like I'm putting you through a lot of trouble...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't worry about it, don't worry about it. We're all here to help each other out when things get tough, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I made sure to look into everything that happened on the day of KiraFes!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We went around asking various people connected to the academy about it, you see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「During KiraFes, certain facilities were off-limits, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It seems a Demon wandered in there by mistake, got spotted, and was kicked out」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Expecting a Demon who doesn't understand the language to read warning signs seems rather pitiful, doesn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After all, there are words that even we don't understand!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Coming from you, Lolotte, that really carries some weight」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ahem!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, given the situation, I guess it's hard to blame them for mistaking that as being rejected...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, I think there's room for both sides to meet in the middle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I think so too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So? Did that help a little?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. It really saved me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「When you work so hard, Synn-kun, it makes us feel like we have to do something too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After all, getting along is such a wonderful thing♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'd feel bad for Macaron-san if things stayed like this, you know. Not that I care about Sakura-kun or anything!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now it's your turn to go nail it, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Alright, let's go, Synn-sama!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're staying behind!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I'm off!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, you there?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「......What did you come here for」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want you to hear me out」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I don't wanna hear any excuses」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to make up with you...... with all of you, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We weren't even friends in the first place......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's become friends starting now」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whether human or Demon, I believe we can get along」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「T-Think whatever you want......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't run away, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wha--!? I'm not running away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then listen properly to what I have to say」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Say whatever you want」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I will」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...So, I think neither side meant any harm」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They were just strangers to each other and got startled」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Everyone, is that true?」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...You saw other people eating it, so you thought it was okay to eat, right」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「When you break someone else's things, you have to apologize」"
+  },
+  {
+    "name": "Yasubee",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You can't go into unfamiliar places by yourselves. When that happens, you tell me」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Okay, everyone, what do you say when you're sorry?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you understand now...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...I should have taught them properly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No. I invited you guys too lightly as well. I'm sorry」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll go apologize to the cake shop and the kid who was holding the balloons」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll go too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No. Because I'm these guys' guardian. That's my responsibility」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, I have a responsibility as the Student Council President who ran KiraFes」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Hmph. Do whatever you want」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like we'll be able to... get along again」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...I wonder about that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's not like I trust all humans yet, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We were even after KiraFes, and I get that you guys are good humans」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, that doesn't mean all humans are like you guys, right!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm not letting my guard down just yet!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then keep watching us」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You guys aren't really...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No. It's not like we're perfect」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why I want you to spend time with us and get to know humans」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Won't you judge for yourself whether you can get along with us, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Y-You're awfully confident...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha... Not really, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Why would you go that far for me?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「To humans, demons are supposed to be better off gone...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once we're friends, none of that matters」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, it wouldn't be any fun if you couldn't get along with your friends, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Fun... That's it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Making everyone's school life fun is my goal, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If everyone's having fun and happy, then I'm happy too. It's all good things!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This right here is a truly sparkling school life!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that weird?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Yeah, it's weird」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「But...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's not... bad, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Right?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I think it suits a carefree big brother like you just fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not a compliment, is it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, I'd never compliment you, big brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You sure don't hold back……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, since I don't have much choice……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If that's what you're going for, big brother, I'll play along」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll be the judge of whether the Human World is a worthy place for Demons to migrate to!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? Since when did it turn into that!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're the one who said it, big brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Coexistence. Co-ex-is-tence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it was」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh well. Here, then」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What's with that hand. I'm not giving you anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, it's a handshake. As a sign we made up」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's get along starting tomorrow, too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Hmph」"
+  },
+  {
+    "message": "Macaron's hand roughly settles into mine."
+  },
+  {
+    "name": "Macaron",
+    "message": "「But…… if you get in my way, I won't go easy on you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There you go again」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Geez, dummy」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "A black shadow charges straight at us at breakneck speed!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugyaaa!」"
+  },
+  {
+    "name": "Yasubee",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhee! That's not a handshake!」"
+  },
+  {
+    "message": "I get crushed in the blink of an eye!"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihaha! Big brother, you're such a dooofus!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Everyone, Macaron says she'll shake your hands!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Wha, w-wait a second, ah, wa, st--...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nooooooo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, that was rough」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Seriously, geez...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was a pretty good scream from you though, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're one to talk, big brother, you had such a stupid look on your face I thought I'd die laughing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Nihehe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Fufu... Geez, what are you laughing at?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just found it funny」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're such a dummy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, totally」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's nighttime, we're gonna bother the neighbors」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'm heading home」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, wait」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're the one who left those vegetables yesterday, right, big brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Um, well, I was thinking about making dinner now……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So, um……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm saying if you've got the guts to eat it, I'll make a special exception and let you have some!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh! In that case, I'll gladly take you up on that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, yeah……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Man, it's been ages since someone made dinner for me」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-If it tastes bad…… don't blame me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  }
+]

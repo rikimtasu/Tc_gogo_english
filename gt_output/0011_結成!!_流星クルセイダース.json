@@ -1,0 +1,609 @@
+[
+  {
+    "message": "結成!!　流星クルセイダース"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Alright, sorry, but I'm gonna head to Prier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See ya.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with the sudden voice crack!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I forgot my bento...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's what you get for oversleeping when you're not used to it!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, why don't you share a little of your lunch?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What about yours, Satchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mine... it's probably better if he doesn't~ Today's a masterpiece, he'd pass out if he ate it~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess I've got no choice! I shall share my handmade rice balls with you, Lady Nanaka style!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really!? Then in return, I'll give you my--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Satchin, you don't have to give him anything. Synn says he'd rather skip lunch.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? I haven't even said anything yet?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't remember raising anyone who repays kindness with evil!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You really hate milk, don't you~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why does everyone just assume it's milk!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because that's the only thing you have, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Still, this is trouble. I'm the Student Council President and I can't even get my hands on lunch."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. I have this!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A Rosary?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Is that delicious~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right! As long as I have this...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Too bad. You can't.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way... Doesn't becoming Student Council President mean free meals at the cafeteria...?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I think that'd be way too much abuse of power~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmmgh, at least one roll of bread! No, shouldn't a single glass of juice be fine?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Just drink some milk~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, exactly. That unholy liquid is more than enough for you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This has got to be a mistake. And after I became Student Council President, too...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why don't you go ask the previous Student Council President then?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai...?」"
+  },
+  {
+    "message": "Ugh... It's really hard to talk to her right now."
+  },
+  {
+    "message": "That said, settling for just milk is brutal."
+  },
+  {
+    "name": "Synn",
+    "message": "「Argh, come what may!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「300 yen of allowance~~♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa-whoa~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The month just started and you're already spending all the money you have?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine. Tomorrow will surely be an all-you-can-eat feast.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ha! Reckless, aren't we, Mr. Optimist?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Are you really gonna be okay~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll work out somehow! I am the Student Council President, after all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, you're investing the whole amount?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah, just 100 yen.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, let me guess--the extra-large cabbage bun~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It goes great with milk.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look! Stop blabbering and go buy it already!! My lunch box is gonna get lukewarm!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I think it's already gone cold long ago~」"
+  },
+  {
+    "message": "On the way back after successfully securing the extra―large cabbage bun―"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, it's Senpai.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If you're gonna ask, now's your only chance~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A life-or-death, all-or-nothing gamble!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-wh-what are you planning to do?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't you wanna make it all-you-can-eat?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-well, that's... I mean, I do, but...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then we're on the same page! Riiia-senpaaai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugyaaaa~~!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yelling out loud like that, embarrassing yourself as usual~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What're you talking about? She won't hear me if I'm not loud!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Riii-a-senpaaai!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'm pretty sure she can hear you without going that far~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... so I'd appreciate it if you could tone it down a bit.\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heeek?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hyaaah!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, I'm sorry, I'm so sorry! It's nothing at all, seriously!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! I went through all the trouble of calling her for you! Why're you chickening out now?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, look, that's not it--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We'll talk about that... after school, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bye now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Senpai... she left.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She sure did~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh? Synn, where are you going~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's weird. My body just naturally started moving on its own to run away from Nanaka--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'That thing'...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "*Gasp*"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come to think of it, you were alone with Ria-senpai yesterday, weren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "*Gulp*"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, it's nothing! It's totally nothing~~~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then why are you running!? Hey! Wait up~~~!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You two sure are full of energy~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah! Nana-chan, what about your bento~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa. I think I managed to shake her off...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Hey.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you come here for?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, well... I was running away like crazy and ended up here...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Running away? You must have done something bad, then. Good grief, I wish you'd show a little more awareness as a Student Council officer.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't do anything bad! That's not why I came here, it's just, well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then what is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ngh... What about you, Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You can tell just by looking. I'm eating lunch.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sweets for lunch!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...They're vegetable sticks.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, so you like those.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you like it, you should look like you're enjoying it more.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~hh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that really all you're having for lunch?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, it is! Got a problem with that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... So you're just like me, Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're trying to save money, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whaaaat?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How on earth... could this be saving money?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why? You'll never grow big and strong with a meal like that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-Big and strong...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For someone like you... here, milk!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, where did you even get that milk?! Just drink it yourself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's fine. I have another one for myself.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How many do you have...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, now I'm getting hungry too. Mind if I eat here?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Hmph. Do whatever you want.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? What's wrong?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm going back. Please, \\{take your time|\\s12\\s12\\s12\\s12\\s12}」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, okay. Thanks.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~hh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm?」"
+  },
+  {
+    "message": "Last year's meeting minutes were left on the desk."
+  },
+  {
+    "message": "The sticky-noted pages were filled entirely with areas where the Student Council's issues had still not been resolved."
+  },
+  {
+    "name": "Synn",
+    "message": "「If she came here to work on Student Council stuff, she could have just said so... Guess I got in her way.」"
+  },
+  {
+    "message": "Since it's right here, I might as well take a look."
+  },
+  {
+    "message": "Let's see... As one of the Seven Wonders of the Academy, the Chairman's presence is--"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Found you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp! How did you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I figured if you're the Student Council President, you'd end up here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To think my title would work against me... Ugh. Still, you took your time getting here, didn't you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, I was eating my bento.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, hurry up and finish yours too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not going to interrogate me about earlier?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Once my stomach got full, I stopped caring.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Thanks for the food.」"
+  },
+  {
+    "name": "??",
+    "message": "「Excuse me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "??",
+    "message": "「Now then, where could Sister be...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sister?」"
+  },
+  {
+    "name": "??",
+    "message": "「I guessed she would mostly likely be here, but... was I mistaken?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, who are you?」"
+  },
+  {
+    "name": "??",
+    "message": "「...Pardon my intrusion.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, wait--she left.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She was a first-year, wasn't she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She had a naginata bag on her back... Naginata Club, maybe?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whose younger sister is she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... Nobody comes to mind.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Sister', huh? How old-school! I want someone to call me that too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*munch munch, gulp gulp* Nothing goes better with an extra-large cabbage bun than milk. Want some too, Sister?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gag!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, don't be shy, drink it all up, little brother.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gububububububububububububububububububububububububububububububububububububu!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, hope you enjoyed that!」"
+  }
+]

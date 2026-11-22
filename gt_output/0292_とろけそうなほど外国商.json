@@ -1,0 +1,542 @@
+[
+  {
+    "message": "とろけそうなほど外国商"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Preside~~nt!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good timing♪ Do you happen to have any plans after this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. I was thinking about heading home and studying or something」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No way! Haven't you been doing nothing but studying for the past few days?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, true」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, you see. Why don't we go out for a little breather?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just for a tiny bit, though♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, I'm in, I'm in」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then it's decided--let's go!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah! H-Hey, wait up--!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You were practically floating in midair today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let me run on my own two feet properly...」"
+  },
+  {
+    "message": "Where we arrived was the shopping district."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Shall we relax and have some tea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Come to think of it, where's Amyrina?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I did invite her, but she turned me down, saying she had an expedition today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wahaha, she's just like you, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina and I are best friends, after all~~」"
+  },
+  {
+    "message": "Well, even if she isn't used to it, Riesling-san is with her, so she'll surely be fine."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, let's head inside♪」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Welcome! Welcome to Chocolat l'Or! How many in your party?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Two people~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Well, well, if it isn't the Student Council President of Ryuusei Academy! Thank you so much for all your help back then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all. The pleasure was mine」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, you're the cake shop that had a booth at KiraFes, right」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes. We look forward to your continued patronage next time as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By all means」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「And if I recall correctly, the young lady with you is--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Allow me to formally introduce myself. I am the Student Council Secretary, Lolotte Rosenkreuz」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「My, how polite... I am--」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「R-Rosenkreuz!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're just planning to have tea as usual, is that alright?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Y-Yes!! Of course! Right this way, please\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, the most modest option is--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What should we get~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mgh!! Th-These prices are... quite steep」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The characters are too hard for me to read~~\\s06」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Th-Thank you for waiting~~\\s01」"
+  },
+  {
+    "message": "What came out wasn't ice water, but a set of black tea and cake."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? We haven't ordered yet, though?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「It is today's special recommendation」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh! How convenient, Mr. President. That saves us the trouble of deciding」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, how much... does this cost?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「No, no! This is on the house」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... That's... W-we can't accept that. We came here as customers today, after all」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Please, do not hesitate. Rather, I am the one who owes an apology for my grave discourtesy in not realizing you were a daughter of the Rosenkreuz family...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. Did you do something?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When you say 'something,' what do you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like eating every single cake in this shop before, for example」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even for me, about half is the absolute limit」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You just mentioned the name Rosenkreuz... Manager, are you an acquaintance of my Grandfather?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「N-no... My father has been deeply indebted to Lady Katerina for a very long time...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「My Grandmother, is it」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「I was told that we were only able to open Chocolat in Ryuusei Town thanks to Lady Katerina's generosity...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To bring such a wonderful shop here, Grandmother is wonderful too~~」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes, ma'am! I am most deeply honored!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heh~~. You're pretty amazing, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm really nothing special at all. It's simply that my Grandfather and Grandmother are remarkable」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides, aren't there other people from prestigious families at Ryuusei Academy as well?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Like Senpai, and Senpai's friends. The shrine maiden, and also... Sacchin-san, for instance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haaah... I really am surrounded by nothing but people like that, aren't I...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You have a rich heart, President, so isn't that wonderful?♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-you think so...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「To think that my lady would grace us with her presence in person... It is the highest honor」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you talking about? I visit other shops quite frequently too, you know」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「W-what... If you would prefer, I would be happy to deliver directly to you...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There would be no meaning in that. If I do not explore on my own two feet, I cannot uncover the truth」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True. Eating at the shop definitely tastes better than getting delivery」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right♪ Just as expected of you, President. You really know your stuff」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Piping hot and freshly made is always the best」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「...Understood. Would you mind waiting just a moment?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, uh, yes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, do you think it's alright if we go ahead and have this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh... hmmm...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, the shop probably can't just take it back as is either, so... let's eat it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'd be a waste otherwise」"
+  },
+  {
+    "message": "And so, expressing our gratitude, we dig in."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's so good~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, Lolotte. Somehow I ended up getting treated too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not at all. All of this is thanks to Grandfather and Grandmother, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They always let me do as I please... I hope I can repay Grandfather and Grandmother someday」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe you could get them a present or something」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A present, huh. Hmm-hmm... That's a great idea! I'll think of something~~」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Thank you for waiting」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, it's steaming...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Our pastry chef had their hands full just now, so... I wouldn't go so far as to call it homemade, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be, you made it yourself, Manager...?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes! Even so, my skills are second to none compared to our other pastry chefs. It's freshly made, so please enjoy it while it's still hot」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Time to dig iiin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Munch.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「O-Oooooh, oooooooooh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The piping-hot chocolate soaked deep into the sponge cake is exquisite~~」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「That's a flavor you can only get when it's freshly baked♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry... going out of your way to do all this for us.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Not at all. Seeing you enjoy it like that brings me the greatest joy.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Love really is the secret ingredient to deliciousness♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Man~~ That was delicious, and it made for a great breather.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, it really did! I feel like I can actually do my best studying for the tests after this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, is that all thanks to the cake?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's... part of it, too, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I think it's because I got to be with you, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To tell you the truth, um... I just... really wanted to see you, President...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But without any Student Council activities, I didn't have an excuse to meet up...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true at all! Don't worry about stuff like that--you can come see me anytime you want.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, you're always coming up with some excuse to invite me out anyway, aren't you, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Was I really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just like today, right? I have more fun and feel more energized when I'm with you too, Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... well. Let's go out again sometime.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes!」"
+  },
+  {
+    "message": "Now~ then, time for one more push."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...?」"
+  },
+  {
+    "message": "I feel someone's gaze on me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sasami?」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Coo-coo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're a chicken, not a pigeon, you know」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Sneak, sneak...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hyaah! You've got the wrong person~~!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Sneak... sneak...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you get too close carelessly, Sasami's gonna attack you, you know?」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Bawk」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hieeeeee!」"
+  },
+  {
+    "message": "Seriously, what is Amyrina even doing?"
+  }
+]

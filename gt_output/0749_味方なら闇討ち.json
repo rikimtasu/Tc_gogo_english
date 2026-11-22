@@ -1,0 +1,641 @@
+[
+  {
+    "message": "味方なら闇討ち"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mornin', Prez」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz... Ria-chan...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Wait, did you stay up all night waiting for Azel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "message": "In the end, Azel never came back."
+  },
+  {
+    "name": "Sally",
+    "message": "「He's probably out smashing windows all over the place. Sounds fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why windows?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Roro-chi said staying out all night makes you a delinquent, and delinquents smash windows」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel wouldn't do that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good morning!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Soba!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What?! I'm eatin'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa! Two pandas!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do I really look that sleep-deprived?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You've got huge dark circles under your eyes」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh yeah! Since Azel's not here... that means there'll be extra soba!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll eat it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Show a little concern, will you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Going a hundred years without seeing someone you know is totally normal, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's only because you're a demon」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh... this digital camera」"
+  },
+  {
+    "message": "Sitting all alone on the kitchen table was the digital camera the Student Council had entrusted to Azel."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry for carelessly promising that he'd come back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it really because I'm the Demon Lord...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I told you, that's not it!」"
+  },
+  {
+    "message": "This isn't the first time Azel has vanished."
+  },
+  {
+    "message": "Even before, she once lied about staying over at Melilot-san's place."
+  },
+  {
+    "message": "Still, leaving her digital camera behind..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn. Ditch that heartless woman and let's go find a new love.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure there must be some reason--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel isn't that kind of girl!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch. Soba. You've got a personality that only loses out.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hamapu!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up.」"
+  },
+  {
+    "message": "I told everyone what I had told Nanaka."
+  },
+  {
+    "name": "Ria",
+    "message": "「It's true... I feel an incredible power...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'd heard about it, but... this is amazing.」"
+  },
+  {
+    "message": "Once I transformed in front of them, everyone was convinced."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You beat Sengenin-sensei to a pulp right in front of Azel-san? That would be what they call school violence.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think that's quite right...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No wonder Azel-san got scared and ran away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're merciless, aren't you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun is the Demon Loooooooord!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Did you seriously think it was a joke?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry for keeping quiet until no--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A simple 'sorry' isn't going to cut it! What a massive betrayal!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Talking big like that, Misa--what would you do if you were suddenly told you were the Demon Lord one day!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why, of course! I would do my utmost to conduct myself in a manner befitting the Demon Lord!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What is that supposed to mean?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So you really do turn women into sweets and chop off the men's bits, don't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I would never! Obviously, I would use the Demon Lord's power fairly and squarely for the sake of social justice!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn isn't using his Demon Lord powers to do anything bad either, you know!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If it were me, I'd put them to much better use!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I feel like we're getting off track here.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Anyway! It's unforgivable that he kept something this huge a secret from the comrades he's fought alongside and pushed himself with!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...So you're not mad about me being the Demon Lord?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm mad about that too!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just what I'd expect from my Student Council! From the Crusaders! This is exactly how things ought to be!」"
+  },
+  {
+    "name": "Ria & Nanaka",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To think you'd already recruited the Demon Lord as an ally without me realizing! That's the best!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're awfully positive...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please call it leaning forward. It's even more forward-looking than just being positive.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're gonna trip and fall.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Someone terrifying as an enemy becomes worth a hundred men when they're on your side!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides, if they're an ally, it's much easier to ambush them from behind.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What a terrible ally.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan, you're actually more upset that Synn-kun hid it from you than the fact that he's the Demon Lord, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Uh, w-well... Yes. That's true, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... could I change back soon?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, sure, I'm satisfied. Though staying like that a little longer wouldn't...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He just awakened to it, so he gets worn out quick. Plus, Lord Synn's short on sleep.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, I'm getting dizzy...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So a Demon Lord is... just like that...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't fly at Mach 3 or go on a rampage with a million horsepower?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. I can't fly」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How disappointing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun is still Sakura-kun even after becoming a Demon Lord... Somehow, blaming you started feeling ridiculous」"
+  },
+  {
+    "message": "Phew...."
+  },
+  {
+    "name": "Synn",
+    "message": "「Being normal sure is easy... wait, this isn't the time for that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We have to look for Azel」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right! Who cares about the Demon Lord!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Didn't she just get scared after finding out there's a Demon Lord living under the same roof?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that really is it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If that were the case, she would've run away at the park, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wasn't she just panicking at the park? She even saw you defeat Sengen-in-sensei live, after all. Maybe she got scared once she went back to the apartment and calmed down a bit, or something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's scared of me, huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Don't get depressed when nothing's even decided yet! And Misa, stop calling Synn a monster!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm speaking generally!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn-kun. Do you have any idea where Azel-chan might have gone?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The only place I can think of is Melilot-san's. But I already confirmed she didn't stay there」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Running to the police... probably isn't happening, huh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if she told them about a Demon Lord, nobody would take her seriously」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder how much money Azel-chan has on her?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not that much...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then going back to her hometown is out of the question. The Duchy of Shabadaba, was it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's the Principality of Sharo-Ma.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How ignorant of you, Vice President. Azel went back to Hea-- *ahem, cough*.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hea--?」"
+  },
+  {
+    "message": "Right. Azel was an angel who came here to investigate Re-Crea, wasn't she."
+  },
+  {
+    "message": "She doesn't have a home to return to in this world."
+  },
+  {
+    "message": "Did she go back to Heaven……"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「N-N-N-No, it's nothing!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「B-But, um, I don't think she went back to Hea--the Principality of Sharo-Ma. After all, it's super, super, suuuper far away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, stop spacing out! We're going to be swamped from here on out! We have to pull off the Holy Night Festival preparations without a hitch while also finding Azel-san.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alrighty, let's split up and track her down nice and quick!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll tell the folks in the shopping district and the gang from the Delicious Food Squad to let us know if they spot her!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll casually pass the word along to Shio and the choir members as well.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll have Ayanishiki-chan help out. My big sister, too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I shall enlist Jeeves's cooperation. Jeeves is a true professional, after all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So you see, Synn-kun, you don't have to worry all by yourself.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「One for all!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? What's the matter, everyone?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Say the second half too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course, we're going to make the Holy Night Festival a huge success, too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--Sakura-kun, why are you crying?! Th-This much is only natural!」"
+  },
+  {
+    "message": "I'm glad I became the Student Council President with these guys."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "As closing time arrives, Melilot locks the door."
+  },
+  {
+    "name": "Azel",
+    "message": "「Um……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please organize that shelf over there」"
+  },
+  {
+    "name": "Azel",
+    "message": "「G-Got it」"
+  },
+  {
+    "message": "Walking between the bookshelves, he puts the misplaced books back in their proper spots."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone from the Student Council stopped by earlier」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Sorry for making you lie」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't worry about it. Even a hunter won't shoot a cornered bird that flies into his bosom, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's an old proverb. They're good people, aren't they」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I already know that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun in particular came by five times」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Synn did」"
+  },
+  {
+    "message": "Azel's hands stopped."
+  },
+  {
+    "name": "Melilot",
+    "message": "「So, do you intend not to go back today either?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I can't go back」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then it can't be helped」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you sure?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Though I can't offer much hospitality」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Just letting me stay is more than enough」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Also, I bought some pajamas for you, Azel-san. I hope they're to your liking」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh... I feel bad taking that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't mind it. I intended for it to be a gift」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「With only a small bag like that, you didn't even bring a change of clothes, did you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I brought underwear」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And only that, right. I went ahead and bought a toothbrush and toothpaste too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Aren't you going to ask why」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please tell me whenever you feel like it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Thanks」"
+  },
+  {
+    "message": "Melilot gave a small laugh."
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, if you are going to tell me, please do so before the world ends」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You know about it!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, it's merely a figure of speech」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Also, allow me to give you one piece of advice. If you do not wish to be found by the Student Council, you must not leave this place」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because a very capable friend of mine will likely join the search for you」"
+  }
+]

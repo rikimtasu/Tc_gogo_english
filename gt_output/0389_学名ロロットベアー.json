@@ -1,0 +1,550 @@
+[
+  {
+    "message": "学名ロロットベアー"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heeey, Mr. Demon」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Lolo-chan! What's the big idea calling them over on purpose!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's the exact opposite」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The opposite?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To avoid bears, it's best to make loud noises while walking. Bears are scared of humans, so if they know a human is approaching, they'll naturally run away」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh. That actually sounds pretty legit. Guess guidebooks can be useful after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was on 'Unprecedented Animals' yesterday」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Demons aren't bears, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-M-Mmh!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up, Synn?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah... I feel something...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's a strange presence. Could it be a bear?」"
+  },
+  {
+    "message": "Perhaps thanks to their special training, everyone has become able to sense magical energy too."
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone, be quiet」"
+  },
+  {
+    "message": "As they approached the direction of the magical presence."
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guooooh~. Gaaguuu~. Buooooh~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just as I predicted, this is a bear」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Indeed... That growl doesn't sound human at all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What should we do? I wonder if Spirit Arts even work on bears?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Gaaaaah. Guuuu. Goooooh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's coming from the gazebo」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Shouldn't we shout loudly right now to kindly inform it of our approach?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But... do bears that emit magical energy even exist?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess we've got no choice but to go take a look?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Earth. A blue planet teeming with diverse forms of life. Among them are countless creatures still unknown to us'」"
+  },
+  {
+    "message": "Leaving Lolotte behind as she drifted off into some distant world, we approached the gazebo."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Now, let us embark on a journey of exploration driven by intellectual curiosity. Featured on today's Unprecedented Animals is a bear that uses magic'」"
+  },
+  {
+    "message": "We peered inside the gazebo, which was thick with the presence of magic."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's name it the Lolotte Bear, after its discoverer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...No, I'm pretty sure this one already has a name」"
+  },
+  {
+    "message": "A large man was sleeping alone."
+  },
+  {
+    "name": "Ardin",
+    "message": "「Gogaaaa. Fuguouuu. Gogoooo」"
+  },
+  {
+    "message": "It was a tremendous snore."
+  },
+  {
+    "name": "Synn",
+    "message": "「...A Demon, maybe?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Looks that way, yeah. Doesn't seem dangerous at all, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When I appear on the show, I'll let you come on with me too, President and Treasurer, so please let me have the naming rights」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right. If he were here for the same reason as those other Demons, there's no way he'd be fast asleep like this」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What should we do? Wake him up for now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please wake up. You'll catch a cold sleeping in a place like this」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Mgh... mgh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone, I was the one who discovered that bear, you know」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Nnh... nnh?」"
+  },
+  {
+    "message": "With a snap, the large man opened his eyes."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, Treasurer! This person isn't a bear!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've known that for a while now」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Mmph... *yaaawn*. Slept like a log」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Wait, it's pitch black out!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, why were you sleeping in a place like this?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「It's already night!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Damn it. They got me again! Putting a brilliant mind like me to sleep just to slip past! What utterly cowardly, despicable, base, vicious, cunning bastards!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Um... what is this bear-man so angry about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds like his enemies tricked him and put him to sleep.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How despicable! What are the names of those people?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Right?! You guys think they're despicable too, don't ya? Of course you do--anybody would think those guys are despicable!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「They're a bunch of perverts who gang up on helpless little girls to make 'em prey to their twisted lusts!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To think a group like that is lurking in the academy... I'm shocked.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Fuhahahaha! Don't worry, bro. Leave it to the strongest, most invincible me! I'll beat that wicked, heinous Student Council to an absolute pulp!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Student Council?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Damn you, Student Council! The next time we meet will be the end of yoooooooou!」"
+  },
+  {
+    "message": "As the giant man roared with a voice that shook the heavens, magic power erupted from him, blowing the roof off the gazebo and bathing the surroundings in golden light."
+  },
+  {
+    "message": "The dazzling light shot straight upward, rising into the night like the spire of a grand cathedral."
+  },
+  {
+    "name": "Synn",
+    "message": "「What incredible magic power!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-This is even stronger than Pasta!」"
+  },
+  {
+    "message": "The air is thick with magic power, vibrating intensely."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could Mr. Lolotte Bear be one of the Seven Demon Generals?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait... is this guy Virus?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I'll get a good night's sleep tonight! Tomorrow at noon will be the end of 'em!」"
+  },
+  {
+    "message": "Incredible power."
+  },
+  {
+    "message": "Still... he doesn't seem very bright. This guy."
+  },
+  {
+    "name": "Ardin",
+    "message": "「If they don't show up, I'll smash every single building on these grounds to rubble! That way they won't be able to stay hidden!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I'm on a roll! So clever! Gahahahahahahaha!」"
+  },
+  {
+    "message": "Letting out a hearty laugh, the giant man ran off."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hrm. What overwhelming intensity.」"
+  },
+  {
+    "message": "The waves of magic power thin out and gradually fade away."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He completely forgot about us, didn't he. That guy.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He's an idiot.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Definitely an idiot.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tomorrow at noon... Luckily, it looks like exams will be over by then」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We have to fight that thing right after exams wipe us out? Ugh, no thanks」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It will be fine. If you fill in the answers you know and then guess the remaining multiple-choice questions, you will have plenty of time left. You can recharge your energy during that time」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You mean sleep?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not sleeping. Recharging your energy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, this is going to be troublesome...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He is an idiot, so it will be fine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He might be an idiot, sure, but we can't underestimate that strength of his. It'll be a huge mess if he starts smashing up the academy buildings, and I seriously doubt he'll care about his surroundings while fighting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If possible, I'd like to fight him in an open area, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So the Treasurer will act as a decoy and lure him out, then」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why me?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, because you are the President's childhood friend, Treasurer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The person who proposed the plan should take the lead and put themselves in danger!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I just noticed this, actually, but we don't really come around this area on patrol, do we?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're just ignoring me?! We ended up here while tracking the big guy's presence!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Someone's there」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "Azel is surrounded by those cat-eared Demons!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's help him!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wait, the President already bolted right in!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Get away from Azel!」"
+  },
+  {
+    "message": "Reacting to my voice, the Demons backed away from Azel and formed ranks to confront me."
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...No problem」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! What's the big idea running off on your own!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, more haste, less speed, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Makes no sense」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Transform--」"
+  },
+  {
+    "message": "At the exact moment I was about to transform."
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "message": "Along with a shout from the one who looked like their captain, the demons vanished into the darkness of the night."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did they... retreat?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They must have been terrified of us」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But... it didn't feel like they ran away out of fear...」"
+  },
+  {
+    "message": "Were they ordered by someone not to fight?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe they actually listened when you asked them not to rampage inside the academy, Synn?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then what about that Mr. Lolotte Bear from earlier? He was clearly targeting us, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe they called him in as backup or something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, anyway, I'm just glad nothing happened to Azel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What were you doing out at this hour?」"
+  },
+  {
+    "message": "My voice sharpened before I knew it."
+  },
+  {
+    "message": "Even though he said goodnight, he was still out wandering around."
+  },
+  {
+    "name": "Azel",
+    "message": "「There was an unreturned book in the dorm」"
+  },
+  {
+    "message": "For some reason, the calm way he said it annoyed me just a little."
+  },
+  {
+    "name": "Synn",
+    "message": "「Couldn't that have waited until after the exams?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, Azel's safe and sound, so you don't have to get so mad」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not mad」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I hear the library is closed from tomorrow until the 25th for book sorting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you came to return them?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "message": "Calm down. Azel is safe. What he's saying makes sense."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Melilot-san is scary, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not scary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you return them properly, sure. Still」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You could have just called someone from the Student Council」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't have a cell phone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Buy a cell phone at least」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not very convincing coming from you, Synn, since you don't have one either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  }
+]

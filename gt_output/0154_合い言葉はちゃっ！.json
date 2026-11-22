@@ -1,0 +1,223 @@
+[
+  {
+    "message": "合い言葉はちゃっ！"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, it's Synn-kun. Cha!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, hello, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Wrong! It's 'Cha!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ch... Cha!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooooh~ Well said! You actually said it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it really something to get that excited over?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'm trying to spread the compressed greeting 'Cha!' instead of 'Konnichiwa,' you know~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So let's make the theme for the Charity Bazaar 'Cha!' I'm counting on you~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ch-Chaaaaaa~~~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if you express your anger using 'Cha,' I have no idea how I'm supposed to respond to that...」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Huh? If it isn't Sakura-senpai」"
+  },
+  {
+    "message": "Okamoto-san walked over from the serving counter."
+  },
+  {
+    "message": "On her tray were two servings of curry rice, along with glass tumblers brimful of cold water with spoons stuck inside them."
+  },
+  {
+    "name": "Yumil",
+    "message": "「By any chance, did you have plans to get tea with Sacchin-senpai? If you want to order anything, I'll bring it right over for you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I came here to scout out Prier on behalf of the Student Council」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I need to check the number of tables and chairs, as well as where the power outlets are, to prepare for the bazaar」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We have data sheets on this stuff in the Student Council room, but sometimes things are different in person」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Is that right? Thanks for all your hard work as president」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yumil~ I couldn't possibly invite Synn-kun out behind Nana-chan's back~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「*Sigh*... Nana-chan sure has her work cut out for her~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, well, hoho~~ While Nana-chan is away at the Student Council, the Sweets Club is my kingdom!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And so--」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yessir.」"
+  },
+  {
+    "message": "Okamoto-san sets Prier's special curry rice and a mini salad on the table."
+  },
+  {
+    "name": "Synn",
+    "message": "「Having a tasting session? You are the vice president of the Sweets Club, after all, Sacchin.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hold up, hold up! Curry ain't a sweet, y'know?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Curry has apples and honey and stuff in it, so it's totally fine~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That feels like sophistry, though I suppose you have a point.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, if you eat curry rice at this hour, won't you be too full for dinner?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「This is snack curry, so it's fine~ I'm a growing girl, you know~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're awfully tiny for all that, though.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehehe~ I'm just a late bloomer~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's also the phrase 'unfinished talent,' y'know. Even with all your constant snacking, you're still flat where it counts--none of it's sticking.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Simply being young burns energy all on its own~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sacchin, you really sound strangely philosophical sometimes.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahem! Now then, let's begin today's meeting~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Regarding 'Whether or not the raisins sitting on top of curry rice count as sweets'~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「S-So stupid. That ain't a topic for someone who's supposed to be all philosophical.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Sacchin, isn't it kind of like pineapple in sweet-and-sour pork? That stuff is there to tenderize the meat.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Boss, there ain't even a trace of these curry raisins ever makin' contact with the roux~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-What a revelation...!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Why are you shocked?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yes, I'd like to share my opinion too. As long as it tastes good, doesn't anything go?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooooh~ Well said! You actually said it!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Meeting adjou~rned.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So fast?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「The verdict is in! In that case... time to dig in!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yessir. Let's eat, ssu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, we could never have a tasting session like this if Nanaka were around」"
+  },
+  {
+    "message": "Giving a quick nod to Sacchin and Okamoto-san, who have entered full eating mode, I step away from the table"
+  },
+  {
+    "message": "And then, a recheck of Prier"
+  },
+  {
+    "message": "...Yeah! It's perfect. Not a single mistake in the data Misa organized!"
+  }
+]

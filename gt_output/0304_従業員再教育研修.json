@@ -1,0 +1,513 @@
+[
+  {
+    "message": "従業員再教育研修"
+  },
+  {
+    "name": "Synn",
+    "message": "「The reason I asked you all to gather here today is none other than...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's about Prier's new waitress, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. It'd be one thing if it were just us, but we've been getting tons of complaints from other students.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How many are we talking?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This many!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa!! There are really this many~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「All of these in just a few days.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If this keeps up for a year, how many rolls of toilet paper could we even trade these for...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Though at that rate, I wonder if she'll even last a month--or heck, even a week~?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Mysterious Waitress, Gunned Down in the Wasteland!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Bang!!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey now, don't say such violent things.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, wouldn't firing her out of nowhere be a bit too harsh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How kind of you, after how much she made a fool of us.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The one she made a fool of was you, Madam Vice President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's definitely best if we can settle this peacefully.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So that's why we're having a strategy meeting. Makes sense.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I can't believe you can talk like that right in front of the person herself, nya...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my~\\s01」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Even like this, Pasta is entertaining customers with plenty of hospitality in her own way, nya!! And yet you're all running your mouths saying whatever you please.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Which is precisely why!! I think we should cleanly, clearly, distinctly, and plainly tell her the exact situation as it stands!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oho~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, Senpai. Please go ahead.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If things keep going like this, we might have to let you go\\s02」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyahaha! A mere student like you couldn't possibly have that kind of authority, nyan.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「By the way, she's the director's little sister.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The director is the highest-ranking person in this entire academy, you know.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Which means if she puts in a word with them, Pasta is totally done for... Ginyaaa!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Surprisingly, her brain actually works.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What... Ria-senpai actually has that much pull?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, I don't\\s02」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unyaaa~~. Getting fired would be a huge problem, nyan!! Please do something about it, I'll work hard, nyan!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There, there, what an obedient little kitty. If only you were this cooperative all the time.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyat was that?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even if we report the actual situation, the problem remains unsolved. After all, Pasta-san still considers herself a waitress.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That's right. I'm trying my very best, nya.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yet you have zero intention of actually improving.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, allow me to lend my assistance!! I call it Operation 'Close Call for a Waitress'!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To put it bluntly, Pasta-san's service is the absolute worst. She doesn't understand the first thing about customer service.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「NYAT?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so! You will practice alongside me so that you can become a proper waitress!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we're talking about teaching customer service, I think Nanaka is the best person for the job.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The treasurer is far too perfect. There is no way Pasta-san could ever imitate her!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now you're speaking my language.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Actually, I can't do it either.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Spineless!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is why I shall offer myself up. I'm quite used to devoting myself to others, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't it just because you actually want to be a waitress yourself?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「G-Gulp!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fine, got it. Then I'll just shut up and watch!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to go out of your way to announce it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come now, Pasta-san. Let's do our best together.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Meowww~~. I'm kinda not feeling it, but this is for Lord Byrus too, nya...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone else, please act as the customers.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You got it. Then, could I get some cold water first?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Water is full-service self-service, nya♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's not right! You have to properly bring the water over to them. Like this, you see.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kyaaaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh... Hot water suddenly coming out like that really startled me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay? Did you burn yourself?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「How pathetic, nya. If it's just water, Pasta will go scoop some up in a flash, nya.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ginyaaaa!!」"
+  },
+  {
+    "message": "It seems she fell into the exact same trap."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's the blue one, the blue button!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As expected of you, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, to me, it's basically a substitute for juice, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, how pitiful\\s06」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I just can't help wanting to press the red one. Doesn't it look like it'll launch missiles or something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That has nothing to do with ice water!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could I get a wet towel next?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Here's your wet towel, nya」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, don't wring out a floor rag!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Then should I bring you a beer instead, nya?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I believe that's the wrong kind of \\{wringing|\\s12\\s12}\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sorry for the wait on the wet towels. Please take one from this tray~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thanks」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yo, Lord Synn. Worked up a bit of a sweat, so let me wipe myself down」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Popping out of nowhere like that--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「HOOOOOOOOT!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Told you so」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I thought wet towels were supposed to be warm, though」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's way too hot, you stupid angel!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wrap Mr. Panda in a white cloth and--presto! Now you're one of the angels too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「St-Stoooooop. Ah, ajaaaah!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, to think she can't even handle the basics……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This really is hopeless」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now, they say a journey of a thousand miles begins with a single step\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. Don't give up and keep at it. If you do, I'm sure……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll be able to do it? Can I really believe that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh…… ugh…… y-you can do it, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, I'll do my best!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyaa~~. I'm already tired, nya~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you talking about? Next up is cooking!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「D-Don't tell me we're the ones taste-testing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course you are. You are the customers, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I have a bad feeling about this......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um...... should I help out a little?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That wouldn't be good practice!! We will definitely finish it with our own hands!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'm so done~~!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm doing all of this for your sake, Pasta-san.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And the real reason?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've always wanted to step inside Prier's stylish, wonderful kitchen just once♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What an honest girl.」"
+  },
+  {
+    "message": "Lolotte grabs Pasta by the scruff of the neck and disappears into the kitchen."
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte sure is energetic, huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's amazing how you keep up with her.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, right. Pasta really hangs in there too.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, I meant you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Excuse me~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's done already?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, no. Actually, I forgot to take your orders, ehehe. What would you like to eat?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, radish sprout ramen」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm fine with that too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Me too...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Me too\\s02」"
+  },
+  {
+    "message": "If it's just ramen, they should manage somehow as long as they follow the instructions."
+  },
+  {
+    "name": "Synn",
+    "message": "「Just one piece of advice」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Make sure you... actually taste-test it」"
+  },
+  {
+    "name": "Lolotte & Pasta",
+    "message": "「Roger that!!」"
+  },
+  {
+    "message": "And just like that, the two of them never came back."
+  }
+]

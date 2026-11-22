@@ -1,0 +1,2925 @@
+[
+  {
+    "message": "結成!!　流星クルセイダース"
+  },
+  {
+    "message": "Alright, this is finally it..."
+  },
+  {
+    "message": "I'm a little scared to face Ria-senpai."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai isn't here... Oh, am I the first to arrive?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Too bad, I'm already here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「AAAAAAAAAAAAAAAH!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Keep it down, will ya?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I totalLLLLLLy forgot about you!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mbugh!」"
+  },
+  {
+    "message": "I hide him in my shirt and look around."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... looks like no one's around.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I appreciate the sudden hug, but I ain't into guys, pal.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What if someone sees you?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't sweat the small stuff, Lord Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you to stop calling me Lord Demon Lord!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Come on, what's the harm when it's just the two of us?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just the two of us...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Like I said, I ain't into guys.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If everyone finds out I'm the Demon Lord, it'll be a disaster!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Who cares? Show 'em that terrifying power of yours that'll make the whole world tremble!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I worked so hard to become Student Council President, so I want to get along with everyone and enjoy a sparkling school life!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kekeke... As expected of Lord Demon Lord. You're gonna play nice with 'em first, then hit 'em with a massive betrayal at the very end, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I am definitely not doing that.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, if you wanna play friend, why not just go ahead and do it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm sayin' you should just do whatever the hell you want.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that even possible?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even if they're Demons, most of 'em are just idiots who do whatever they feel like.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「They like rampaging, playing around, eating, fighting, screwing guys, screwing girls, and loving huge boobs. That's your average Demon for ya.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you one of them too, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, 'cause yours truly is a Great Sage.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'm the king of those chaos-loving Demons, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh. Didn't I tell you earlier? Everyone's so laid-back they don't have a single shred of loyalty.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I must be the least charismatic king ever...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't worry, there are serious guys among 'em too, like me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ser... ious?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The Great Sage Paqy here is about the only one who's truly loyal to you, Lord Demon King.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really have no popularity, huh...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, you just became the Demon King, so your charisma or whatever might be sitting at zero.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then all you gotta do is make those suckers eat their words.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「By teachin' a lesson to those punks who're getting ahead of themselves.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh! That sounds a lot like what Ria-senpai was doing.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Exactly. You two can get along and give 'em a fun little punishment.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, do you know Ria-senpai?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah... call it a Sage's intuition. Someone's whispering in my ear that you'd better get along with this Ria person.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of half-baked intuition is that... Can I really trust it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The title of Great Sage ain't just for show, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I'm glad to know I don't have to fight Ria-senpai. What a relief.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I merely did what any familiar naturally would.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone will be here soon, so keep quiet, Paqy.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aye-aye!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Late again.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Welcome.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. Haven't you been here since noon?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha. You're so funny, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~nnngh!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-B--!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bra?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!!」"
+  },
+  {
+    "message": "I forgot to hide Paqy!"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-Is that plushie... yours, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh. Y-Yeah, it is...」"
+  },
+  {
+    "message": "Oh no, Misa's gonna have leverage on me!"
+  },
+  {
+    "name": "Misa",
+    "message": "「That new color... where did you buy it... tell me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's nothing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I got it as a gift, so I don't really know where it's sold...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So you were listening after all!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you want a plushie?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't treat me like a child! I-I don't want...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why not just give it to her then?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Nanaka.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!? N-N-No way do I want it... No way...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did you know? This guy actually talks. Isn't that awesome!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look, look!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, noodle girl! Don't stretch my cute little cheeks!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ow, ow, that hurts!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It really is... talking...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka! I told you it was a secret, don't just spill it!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? You meant the talking part?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, sorry! I thought you meant keeping it quiet that you two sleep together.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sleep together!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaagh~~!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey, don't go saying things that cause misunderstandings. Yours truly has zero interest in dudes.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah... Blackuma...\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let me make one thing crystal clear. I've got zero interest in you either.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「――Wha! Hey, what's that supposed to mean!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Ugh, I can't look him in the eye...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you have a fever? Are you okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shut up, youuu!!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Alright. Her nickname is Hissy, settled.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Waaah!! That's amazing!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Great, another source of trouble...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's amazing that a panda can speak!! It wasn't even mentioned in the guidebook... It's a miracle!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The hell're you talkin' about? You're an angel yourself.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I am not an angel!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-A-Anyway, a panda talking is completely unnatural!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're the one growin' wings, which ain't natural either.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't have wings!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What should we do, Student Council President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No point hiding it now that the cat's out of the bag. Whatever happens, happens...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha... Sorry.」"
+  },
+  {
+    "message": "Well, as long as my identity as the Demon King isn't exposed, it'll be fine."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Lord Synn. Don't just stand there silent, introduce yours truly.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is our Paqy. Everyone, treat him well.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The Great Sage, Lord Paqy! Nice to meet ya!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Squeal\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So you are a panda.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jackie, Panny, whatever. You can stay, just don't get in our way.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh yeah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Excuse me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Ria-senpai...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What in the--?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What is the matter, Mr. Panda?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No way, this girl is Ria-chan!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Calling your upperclassman '-chan'!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh, w-what!? A... plushie...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Thanks for the feast!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Paqy! I told you not to butt in!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ahhh... This is top-tier... I can't get enough...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you doing to my senior!? Get off her!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, but maybe it's kind of cute...\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Haa... haa... So this is the legendary Shangri-La... heaven on earth...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*gasp*!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mustn't say any more than that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me, Paqy. Are you... toward Ria-senpai...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh... ohhh... oh yeah... You could say it's... love...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Wait a... ah! Not there--nn, n-no!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stop it, Paqy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't get in my way, you brat!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Can't you see she's uncomfortable!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's why you're just a kid. Can't you see it? Ria-chan's irresistible charm that makes you just wanna dive right in!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're just staring at her boobs anyway!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Boobs are crucial! Boobs! Right, Lord Synn!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B... Boobs...!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So Senior-san's charm lies in her breasts.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Women are about more than just chest size!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Onee-sama, Paqy-san...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, auhh...\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmph. If you're so jealous, why don't you try growing boobs as big as Ria-chan's?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Thump-thump*...\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can do it too! I'm gonna be just like Senpai soon!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Probably.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Boobs truly are magnificent, Madam President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-Boobies...!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「E-Everyone... looking at my...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez...! Quiet down already!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Eh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Flick!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Haugh...!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sssssss, ah, AHHHHHHHHHH...!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm... pass... ing... away...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Puff, puff*... Finally, some peace and quiet...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Where did it go?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who knows? Didn't it just ascend to heaven?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Tremble tremble!!*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... taking Paqy down in an instant, Senpai really is amazing...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course she is.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who knows what would've happened if Senpai wasn't here...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai is truly magnificent.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, all of you...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...But, well. Today marks the end of the handover work...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Umm, so it's over... but... I have one last favor to ask...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Umm, well...」"
+  },
+  {
+    "message": "Senpai really intends to talk about yesterday after all. But she's having trouble bringing it up."
+  },
+  {
+    "message": "At a time like this, I should--"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord. This is where you butter Ria-chan up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan's in a pinch here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, you're right. I'll give it a try.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--Senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've worked so hard for us―for everyone in the Student Council―up until now, haven't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's with you all of a sudden? Everyone knows that without you pointing it out.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. Thanks to you, Senpai, we managed to handle things efficiently.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You were truly a huge help.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks to you... umm... how should I put it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「One way or another, we had a lot of noisy fun, didn't we?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At first I thought it would be nothing but hassle, but once we got into it, it was surprisingly fun.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...That's true. For once, I actually agree.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, exactly. So, umm... how to say...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, you're so frustrating!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just say it already!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am not entirely sure what is going on, but please, just spit it out.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah, we want to"
+  },
+  {
+    "name": "Synn",
+    "message": "be of help to you, Senpai.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Helping people is only natural!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Not that Sakura-kun needed to tell us, though.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could you tell us... what your request is, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Demanding her body in exchange for granting her wish--how wicked! As expected of the Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Read the room.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「With everyone doing so much for me... I can't keep moping around, either...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「――」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Alright, I've decided!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone. Listen to what I'm about to say without getting shocked, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "*Gulp*"
+  },
+  {
+    "name": "Ria",
+    "message": "「My request is--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I want everyone in the Student Council to protect this world!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ho-ho. Well, well.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's Ria-senpai's request, so of course it's fine, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's all do our best!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, that's a huge scale!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Ah...? Isn't this a bit different from what we talked about?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku. Now this is getting interesting.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Save the world? Protect? Eat? Angel? Huh, what am I supposed to do...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai... what in the world is the meaning of this?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Auu...」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「Good morning, Student Council.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「In the Ryuusei Academy Student Council, in addition to your usual activities, you are tasked with a special mission.」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「This mission may involve protecting not only the academy, but the entire town, and ultimately the whole world.」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「Your objective is to fight against the villains who disrupt this peace and drive them away.」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「As always, should any members of the Student Council be captured or killed, the authorities will disavow all knowledge of your actions. Be prepared.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why a tape recorder...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So exciting! What a wonderfully \\{retro|\\s12\\s12\\s12} piece of machinery!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could this be...」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「This tape will self-destruct. Good luck.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait--!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone, run!」"
+  },
+  {
+    "name": "???",
+    "message": "「KABOOOOOM!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eeeek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa... you scared me. I really thought it exploded.」"
+  },
+  {
+    "name": "???",
+    "message": "「Oh, honestly. As if I'd do something like that on your very first time.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She just crawled out from under the desk... Has she been there the whole time?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I didn't notice her at all!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How long were you under the desk...?」"
+  },
+  {
+    "name": "???",
+    "message": "「Ufufu... Surprise! It's a huge success!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't hear a thing about this.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I knew it... Geez, Sis...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Oney-chan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could this person be Senpai's...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yep! I'm Helena, Ria's big sister! Nice to meet you, Student Council members!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that sound?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ohohh!? What's that--!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha――!?」"
+  },
+  {
+    "message": "Even as the troublesome big sister offered a bright, energetic greeting, her hands were busy squeezing Ria-senpai's breasts."
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san! Wh-What are you doing?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What do you mean? You can tell just by looking. It's a greeting! A g-r-e-e-t-i-n-g\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, stop it, Sis! Tickling my chest again!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Doing such a thing in the Student Council room... Th-Th-That's completely indecent!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Groping breasts is a greeting...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Not groping, t-i-c-k-l-i-n-g\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*badump badump badump*\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There's no need to greet your own little sister like that, is there?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Fair point. In that case――」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No way!」"
+  },
+  {
+    "message": "The two of them hurriedly tried to cover their chests."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……?」"
+  },
+  {
+    "message": "This one didn't seem to get it."
+  },
+  {
+    "name": "Helena",
+    "message": "「Mmm, so close! Just a little bit more, though~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How did I do?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm. You get an honorable mention, at best.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What a shame...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's fine. You just have to keep trying your best from here on!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're right!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's it! That's the spirit! Keep giving it your all like this!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ngh, mmmh~~. I told you, stop it! *Smack!*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Wait... Helena-san, a-a-any more than that is--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Giggle, what's wrong? You don't strike me as someone that shy, though?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Awesooome! Hyahooo!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Take this!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pugyappi!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'd knock out the President of the United States if I had to!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「At it again...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eye-gouging a plushie... That's ruthless.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah... Poor thing...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Let's see, you're the Student Council President... Synn-chan, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, y-yes!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Calm down, young man.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Haaah, foooh.* *Haaah, foooh.*」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, here's a present for you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did you know about that?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tee-hee-hee...\\s04 The Board Chairman sees through everything, you know♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "Whaaaat!?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You were... the chairwoman...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was certain your mother was the one running things...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The chairwoman usually doesn't show herself in public, after all.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, we're not the type to just rot away in the dark.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My head hurts...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Does everyone know why this place is called 'Ryuusei Town'?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because shooting stars fall here often, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so!? I had no idea at all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shall we go see them together next time?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Let's all go see them together!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... And then use the cover of darkness to do naughty things--as expected of the Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, you were alive?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So anyway. Right now, a cycle where even more shooting stars fall is starting, but--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's so romantic again, isn't it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Ngh! I-I take that back!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「But you see, whenever this season with lots of shooting stars comes around, demons cause trouble, making things a pain.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「De... mons...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, basically, besides humans, things like demons and whatnot exist in this world.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wha-what!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn... do you get what she means?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!? Ah... more or less, yeah.」"
+  },
+  {
+    "message": "And I can't exactly say that I'm their big boss."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What about you, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If Sakura-kun gets it, then of course I do too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. Somehow I feel like I kind of get it now, too.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「How about you, Lolotte-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*gasp*!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uh, yes, of course! Thank you for the easy-to-understand explanation.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Very good. And the one who's been secretly, stealthily vanquishing those Demons from the shadows is--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da! It was my beloved little sister, Ria!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ngh, ah, please stop, that's embarrassing. *smack!*」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, you meanie~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So what happened yesterday was part of vanquishing Demons... is that it?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Exactly! That's why we have this trophy. To commemorate Synn-chan and Ria vanquishing a Demon together.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, that's awesome! As expected of my childhood friend.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「V-Vanquishing it together?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... though I was really just following Senpai's instructions.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph. You only just realized? You can't do anything without Senpai around, after all.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, that's amazing!! Protecting world peace is such a wonderful thing!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I agree with that approach, too. If Sakura-kun can do it, then I...!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds like fun! Count me in too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So it's unanimous, then.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Things somehow turned out pretty well. As expected of you, Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though I shudder to think what would've happened if they had actually seen that scene...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aren't you glad, Ria? Hearing everyone say that.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Everyone... thank you.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「With this... with this, I can hand over the Student Council with peace of mind.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank you so much. And please take good care of the Student Council from now on as well.」"
+  },
+  {
+    "message": "Senpai bows deeply."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sister...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Hearing those words, loneliness and insecurity rushed in all at once."
+  },
+  {
+    "message": "Everyone fell silent, staring at Senpai with vulnerable eyes."
+  },
+  {
+    "name": "Ria",
+    "message": "「Though, after finally becoming such good friends with everyone... parting ways like this feels a bit lonely.」"
+  },
+  {
+    "message": "Ah, that's right."
+  },
+  {
+    "message": "This means it's goodbye to Senpai."
+  },
+  {
+    "message": "Even though I knew this day would come eventually, coming so abruptly like this has left me bewildered."
+  },
+  {
+    "message": "Everyone must be reminiscing in their own way about those days spent with Senpai, brief as they were."
+  },
+  {
+    "message": "About those fun-filled days."
+  },
+  {
+    "message": "If only Senpai could stay, these days would surely be so much more fun--"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't want that!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't want us to say goodbye! Ending things like this is too cruel! I absolutely won't accept it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-san... Senpai-san...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Back when my term as secretary hadn't even started yet, while we were working on handing over duties...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「My shoulders are so stiff...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How about some dango?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*pant* *pant*... It's so heavy...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Would you like a dorayaki?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-saaand. There's something I don't quite understand...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Would you like some yokan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*sigh* Being a secretary sure is tough...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How about some karintou?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, but you have to eat outside, okay?\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai has helped me so much up until now.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Along the way, she taught me what it truly means to be a secretary--and how to enjoy Student Council activities.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan was only recommended because she has nice handwriting, after all~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, aren't you just eating sweets the whole time? I'm jealous...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It kind of feels like bribing her with food...\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai was also the one who taught me that there's more to it than just writing down words.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wonder what else she taught you.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please keep teaching me so, so, so much more fun stuff from now on, Senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-san...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「M-May I say something too?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It was when I first met Senpai... I still remember it vividly.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Hey, do you mind if I interrupt for a second?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Excuse me for just a moment.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yep. There we go.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai fixed my crooked tie. There aren't many people who would pay attention to a run-of-the-mill first-year like me.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai softly and gently touched my neck and tied my tie for me. Her slender, supple fingertips were like they were dancing... Ah, so dreamy...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What does that have to do with anything?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That was just the prologue!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「On one sunny morning on the way to school--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaah!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For some reason, a banana peel was left right on the side of the road, as if lying in wait!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Again...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Losing my balance, I was just about to fall forward. But--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Giggle, are you okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Catching me in a soft, gentle embrace was unmistakably Senpai's body...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A tender and warm embrace... Senpai held me tight. And then she softly whispered into my ear--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You are... 'Misa', right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh, Senpai. How do you know my name...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is it wrong for me... to be interested in you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I-I... in me...!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Giggle, blushing like that is so cute. You're just like a little sister.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, if I could become your soeur... then I...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is this non-fiction?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh, umm. Was it... like that...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course, that wasn't all--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's more!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It was when a vicious dog confronted me on my way home.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Terrified, my legs froze and I couldn't move. Just then--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Stand down!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Senpai!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you dare hurt my Misa, I will never forgive you!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, sister...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're safe now. Are you hurt?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Ah, thank you so much!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If anything were to happen to you, Misa... Just the thought of it terrifies me...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ngh, sob...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sister! I'm completely fine. So please, wipe away your tears.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh... Misa, my sweet Misa... I can't bear the thought of you getting hurt... sob...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Back then, you were so brave, Senpai! Absolutely wonderful! And yet, having that vulnerable side to you as well was just marvelous...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's what happened, huh...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Huh? Pretty sure that was a cute little puppy, wasn't it? And that's pretty far off from how I remember it...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is this a story about the vice president messing up?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I mean, how much trouble did you even cause her back then?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not what I mean! What I want to say is, um, well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You were my role model, Senpai. When you were chosen as Student Council President, I was so happy--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It was after that. I wanted to follow in your footsteps, so I decided to join the Student Council and do my best, too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was chosen as an officer, and I finally got to connect with you. We finally got so close, and yet...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I want to spend even more time with you, Senpai!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I agree! Having Senpai around puts us at ease, makes us feel safe, and helps out a ton.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, the Student Council is way more fun with more members. That's all!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But... I...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「President, Vice President, Treasurer, Secretary. Which means there's no particular position left for Ria.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please don't be so mean, Madam Chairwoman.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Am I wrong, though? If you don't have a role, you can't stay here.」"
+  },
+  {
+    "message": "A place for Ria―senpai...? Wait, did Helena just give us a huge hint―?"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why don't we just create a new position for her?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Respecting student autonomy is our school's creed.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Even so, this year's Student Council President says some pretty interesting things~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that a no...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The rules of the Student Council are \\{decided by the Student Council itself|\\s12\\s12\\s12\\s12\\s12\\s12\\s12\\s12\\s12}, so there's nothing I can do about it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Decided by us...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Doesn't that mean we just need to decide it in a meeting?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, that must be it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A meeting it is! Let's decide on that position right away.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Try coming up with something that fits both organizationally and position-wise.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A position... Archangel, Apprentice Angel... Mmm~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In a normal company, it'd be Chairman, President, CEO, GM... No, no, in times like this... um, what was it again...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm... How about Advisor?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's great!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh, w-wait, everyone...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'd like to put the motion of appointing Ria-senpai as Student Council Advisor to a vote in this meeting.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is our glorious first Student Council meeting!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Those in favor, please raise your hands.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「In favor!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Unanimously, this motion has been passed!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is this really... really okay...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You're going to test whether it's okay or not, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Test...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right... What we decided here is just a provisional decision. To be officially adopted--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Those are the Student Council rules, after all. We have to ask everyone properly.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But even if we ask them blindly, wouldn't they just fail to understand?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That is why we establish a precedent beforehand--so to speak, adopting this matter as a trial, reporting the results, and taking a vote.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If this gets approved, then Senpai will get to stay with us next year, the year after that, and forever and ever, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Surely that's a bit...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You never know, actually~ \\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san. May I try out this advisory role proposal?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Why not? I'll give special permission under my authority as Board Chairman.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Really!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Board Chairman can actually do something like that...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yep. I just decided it right now.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A true abuse of power...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can't tell at all if she's serious or joking.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sorry. My sister is just like this...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu. Student Council President, this favor is going to cost you big time~~」"
+  },
+  {
+    "message": "Ugh, I dread what comes next."
+  },
+  {
+    "name": "Synn",
+    "message": "「But with this, Senpai is--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Officially one of us in the Student Council!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hooray!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone... thank you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank goodness... I'm so glad, Onee-sama...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Congratulations on launching the new Student Council. Here's a gift to celebrate.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... what are we supposed to do with this trophy...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Make sure to display it with care.」"
+  },
+  {
+    "message": "Whoa, this is gonna be such a pain."
+  },
+  {
+    "name": "Helena",
+    "message": "「Good luck. I'm expecting great things from you, Ryuusei Crusaders!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ryuusei... Crusaders...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Student Council' doesn't sound cool enough for beating up demons, right? That's why you're Crusaders.」"
+  },
+  {
+    "message": "Oho, Crusaders. That actually sounds pretty cool."
+  },
+  {
+    "name": "Ria",
+    "message": "「Sis... Um, thanks.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm counting on you, Crusaders!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, that was one hell of a detour.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Demon hunting, Student Council business, Helena the chairwoman... You even played up your own uselessness just to stay by Ria-chan's side.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Using whatever's at hand, even if it's poison--as expected of you, Lord Demon King.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--! You're the one who wants to be with Ria-senpai!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Are you sure about that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are you flirting with a plushie?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, please, just shut up for a second.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, yeah, as you wish.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Umm, anyway, now that Ria―senpai has joined us, this newly reborn Ryuusei Student Council has its work cut out for it. From here on out, what we need to do is―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Planning and measures for Student Council duties and dealing with those 'demons.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, exactly. That's it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I kind of get the Student Council stuff, but these 'demons' still don't really click with me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai. In the end, what are we supposed to do?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You don't call him by his title.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a bit hard to explain...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「First of all, thank you. I was really happy that everyone gave me such a warm welcome.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll do my absolute best as a member of the Student Council too. So if there's anything you don't understand, feel free to ask me anything.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes! What are Demons like?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I remember right, they were kinda round with little nubs, swole all over, with spinning eyes going ‘eeee-eee-eee’?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is that even supposed to mean? That explanation makes zero sense.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If I had my phone on me back then, I could've snapped a commemorative photo.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way. We definitely didn't have time for that.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun only saw one for the first time yesterday, after all. It can't be helped.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A~ll right then--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh!? Senpai, what are you drawing!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A portrait of a Demon.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I see!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As Student Council President, this is only natural for her.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Can you draw one, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Of course I can! ...Well, at least... something like Rakkuma...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm just the *Vice* President, so it's fine!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, something's wrong here. Did Misa just willingly accept being Vice President?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're pretty slow to notice.」"
+  },
+  {
+    "message": "Ignoring our banter, Senpai's pen glides smoothly across the paper."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Drawing without a single moment of hesitation... that's amazing!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As expected of Senpai... To think she had artistic talent, too...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seriously. I could never!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Couldn't you draw Soba and cake?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sweets, not cake! Besides, as if I'd ever draw Soba!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you draw them so they look delicious, it'd be great promotion. We'd make a fortune!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Our shop competes on taste!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Excited*, I can't wait to see how it turns out!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「--There, all done.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Ooooh~~~」"
+  },
+  {
+    "message": "Everyone peeks at the finished drawing."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Huh, wait? Was it really like this?"
+  },
+  {
+    "message": "The shape is distorted, and something like a pitch-black sinister aura is squirming around it."
+  },
+  {
+    "message": "I can't even tell where the facial features are in the first place. The eyes and mouth that were so distinctive--where on earth are they?"
+  },
+  {
+    "message": "Is my memory misremembering things? Or did Leah―senpai―"
+  },
+  {
+    "message": "Ah, she has such a proud smile on her face. She's completely confident without a shred of doubt. Surely I must be the one who's wrong, yeah, that's it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, exactly like this! Did everyone get it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-Is this a demon...? It's my first time seeing one!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Vice President, did you get it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O... Of course! I grasped it clearly! Perfectly!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then I'll just pretend I got it too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, it looks sinister just by looking at it, doesn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... To think a guy like this was up to no good, I never knew until now.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wonder if he was doing pickpocketing, purse snatching, or robbery?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Flinch*!! I won't hand over Tontoro!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai. But how are we supposed to fight this demon? Anyone who practices martial arts is--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sleeper hold locked in--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah, guh, I can't breathe, I tap, I tap!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though they were doing trial memberships for the Tea Ceremony Club, Flower Arranging Club, Noodle Club, Shogi Club, and Maiden Club?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Doesn't seem like they're here\\s10」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, you see, we don't fight with physical strength. No, in fact, if we tried to rely on brute force, we wouldn't last a second.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "\"Is that true!?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "　Eeeek!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn. How did a delicate guy like you beat that poltergeist?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With this, right here.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What about the Rosary?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This Rosary lends me its power.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehh, whaaaaat!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You know this Rosary has been passed down through generations in the Student Council, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But why it needed to be passed down--the answer is this demon extermination.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So last year's Student Council members, and the ones before that, were all fighting demons too?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That was originally the intent, but ever since the Great Meteor Shower 25 years ago, things never got so dire.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Great Meteor Shower?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shooting stars rain down all across the sky, making it look like a shower of stars.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I've heard about what happened 25 years ago from my parents. They said it was so beautiful it was truly moving.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In the Kujou family, the period when many shooting stars fall is called 'Re-Crea.'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Re-Crea...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Re-Crea is abnormal weather, supernatural phenomena... an unsolved, mysterious natural phenomenon.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Most people see Re―Crea as a tourist spectacle, but actually―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena mentioned it, didn't she? That when lots of shooting stars fall, many demons appear.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. We don't really know the reason why, though...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because Senpai drove those demons away, it made it seem to ordinary people like nothing out of the ordinary was happening.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's true. I was born and raised in this town, but I didn't notice a thing.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's also true that nothing major enough to cause serious trouble happened since the previous Re-Crea. That's why my sister and I were able to manage on our own.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did Helena-san say something similar to you, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My sister was a student here too―and just like Synn―kun and me, she was the Student Council President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But this year, you told us about Re-Crea, didn't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The cycle of Re-Crea is usually six months at the shortest, and a few years at the longest. Only during Re-Crea has this Student Council borrowed the power of the Rosaries to fight Demons.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Up until the previous Re―Crea, that was enough to get by. But―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For twenty-five years, Re-Crea didn't come even once.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. So, if Re-Crea is coming this year...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Twenty-five years of buildup... That sounds like it could turn into something terrible...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's strange. It sounds a little different from the story I know...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's wrong, Lolo-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wah-wah! It's nothing!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just as Synn―kun said. We can't even imagine what kind of things might happen from here on out. That's why―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why we need the power of the Rosaries--the power of the Guardian Angels, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Preparing for the worst is the secret mission hidden within this Student Council.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How wonderful! The power of the Angels who protect the world!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait a moment! Why did you keep something so important a secret?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If everyone knew, it would cause a huge panic, wouldn't it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, yes, but to think you've been doing something so dangerous all by yourself all this time, Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「These four Rosaries entrusted to the Student Council... Not just anyone can hold them.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Our current age is when one is best suited to draw out the Angel's Spirit Power. As you grow older, that sensitivity gradually fades away.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Does it disappear as we grow up?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like a dream or something?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I will never accept such a thing!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And to fight together, you need a certain level of aptitude and mutual trust.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In other words, only chosen beings are permitted to wield the power of the Rosary.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-We were really that special...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Doesn't look like it to me at all, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's why disbandment is on the table... I feel like I'm starting to get it now.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmh, then I get it too!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Basically, all we have to do is borrow the power of the Angels and give those mean old demons what for, right?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Exactly. Taking advantage of a crisis like this makes them no better than common looters. It's unforgivable.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hear, hear.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "If I confessed right now that I was the Demon King myself, being burned at the stake would probably be the least of my worries..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, just chasing off those demons won't actually solve anything, will it? I feel like we need to come up with a real root solution.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wow! Madam Treasurer is actually saying something sensible for once!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're the last person I want to hear that from, Lolo!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well... you're right, but... the demon commotion is just the visible symptom, so who knows what's actually happening behind the scenes...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If only 'that person' were here at a time like this...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Was I the only one who heard that?"
+  },
+  {
+    "message": "With eyes longing for someone's return, Ria-senpai quietly murmured in a faint, barely audible voice."
+  },
+  {
+    "message": "Her expression made it impossible for me to ask who 'that person' was, leaving me with a vague, unsettled feeling inside."
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's what the Student Council is for! Let's all do our best together!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't need a lecture from you, Sakura-kun. But don't misunderstand. I'm only doing this for Senpai's sake.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm so excited! I want to hurry up and blast those bad guys away!!」"
+  },
+  {
+    "message": "Yeah, I'm definitely starting to get worried again."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It'll be fine! Everything's gonna work out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I hope so...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Compared to losing a hundred yen, this isn't even a big deal!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, good point!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, I had no idea this Rosary was such a huge deal. I'm a little shocked.」"
+  },
+  {
+    "message": "Nanaka fidgeted with the Rosary inquisitively, turning it over in her hands."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Huh...?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Wait... what is this?! Strange words suddenly popped into my head...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, don't tell me--!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...\\s03」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa! What is this?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amazing, amazing! You transformed!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seriously, so awesome! I've gotta show this off!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Nanaka-san... How immodest...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Zing!* *Swoosh!* *Sparkle sparkle!* A transformation! It's a real transformation?! That's the first time I've ever seen one!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thump-thump-thump-thump-thump-thump-thump-thump\\s03」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Get a grip, Demon Lord!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, how could you say something like that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's fine. Everyone is totally dazed anyway.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so? Thank goodness. Are you completely unfazed, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, I couldn't care less.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I thought I'd be the same, but I guess I was mistaken. Seeing it right in front of my eyes hit me with a huge shock.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You've seen your childhood friend naked before, haven't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if I look back, I don't have a single memory like that.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Are you two really childhood friends?」"
+  },
+  {
+    "message": "Only a faint trace in my memories. But since it was when we were little, I don't really remember."
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Forget what you just saw right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not even gonna ask IF I saw it?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course you saw it!! You're a boy, after all!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, yeah, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Vice President, did you see that?! A transformation, a transformation!! Let's share in the excitement together!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Ah, hey!! I'm kind of busy right now!」"
+  },
+  {
+    "message": "So the Rosary's power really can transform you after all."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Master Synn. Forget about the hysteric. More importantly, do something about Ria-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This must be a dream... a dream...」"
+  },
+  {
+    "message": "Dazed, she squishes and pinches her own cheek."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ouch, ch-ch-ch!」"
+  },
+  {
+    "message": "Surprisingly playful."
+  },
+  {
+    "name": "Ria",
+    "message": "「No way... You're naked, Big Sis...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay... Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, no, Synn-kun!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you... not know?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because Big Sis told me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san... Right, Helena-san transformed too, didn't she? Seeing that should've made it obvious...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, but when I told her, 'You're naked!', Big Sis said--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's just your imagination, Ria. It only looks like I'm naked.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「When you think of transformations, you think of being naked, right? I wanted to be naked. So I'm just making it look like that.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「To think it was a lie... And I believed her...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you never question Helena-san 'wanting to be naked'?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, she's my big sister.」"
+  },
+  {
+    "message": "Surprisingly persuasive words."
+  },
+  {
+    "name": "Synn",
+    "message": "「But why would she tell a lie like that?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because if she knew she had to get naked, she'd be too embarrassed, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Yeah, true.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If she's embarrassed, she can't fight Demons properly. Thinking about Ria's safety, I had no choice but to do this.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No way... Sis, you lied to me for my sake...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's definitely playing you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Helena-san!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, yes, what is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Umm, when did you get back?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Never mind the pointless small talk!! More importantly--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't do something like this! In front of a boy... um, well...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You don't want to get naked?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't say it so bluntly!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「*Inhaaale*... *Pffuuuuh*. Young lady, is \\{that|\\s12\\s12} you're wearing just for show?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-What does the Rosary have to do with anything?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tsk, tsk. Wrong. That badge is the pride of the NYPD... *Inhaaale*... *Pffuuuuh*.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san. You don't have a cigar, you know.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In this town, I am the law. Call me BOSS.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, Sis... imitating TV dramas again...」"
+  },
+  {
+    "message": "Which show is she mimicking?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Anyway, I refuse to transform!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you saying, Vice President?! Doesn't that look super fun?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It is NOT fun!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After seeing something like that, doesn't it make you want to transform right away?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「NO, IT DOES NOT!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, I shall also right away--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Listen to what people are saying--!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why are you getting in my way?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's a boy here, so it's a no-no-no--!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan. Why don't you wait outside?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not the point, it's just plain forbidden!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「My, what a handful you are, Vice President」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't that line meant for you!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, you do need a reason to transform, after all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which means, if we create a situation where you *have* to transform...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, nice one! Let's go search for a Demon right away! That's the only way if we want to transform quickly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, it's not like I wanted to see you naked or anything like that--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're digging your own grave」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Have a nice trip~\\s04」"
+  }
+]

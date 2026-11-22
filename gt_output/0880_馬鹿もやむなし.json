@@ -1,0 +1,721 @@
+[
+  {
+    "message": "馬鹿もやむなし"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uwaah~... M-mornin'~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good morning, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uwaah~, I kinda overslept...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, yesterday was pretty rough, so it can't be helped」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We have the day off today, so let's take it easy」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Is it really okay for me to take a break...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You work hard every single day, Macaron, so you need to rest once in a while too, right」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm~...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then, I'll do that♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. You're gonna eat breakfast, right」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Of course!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me will dig in too!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Me too--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Then, I shall as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Melphas... what are you doing?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I was thinking I might partake in the meal alongside you all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry about that. Please, go right ahead」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Then, pardon me」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's pretty rare--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Do you have nothing better to do...?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「No. It is merely an incidental stop while paying a visit to inquire after our lovely princess」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, what a shameless bastard」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「My, my, though yesterday was quite the commotion, I am glad above all else that you appear to be unharmed」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm totally fine! Or rather, were you peeping again?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Truly regrettable as it is, contrary to my love for the princess, I judged that I would be of no use whatsoever」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Always making excuses」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now. Well then, please wait just a moment」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-I'll help too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Say what you will, Melphas really does worry about you properly, huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm, I don't think it's anything like that, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「More importantly, what about you, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course I was worried」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe... then all's good!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, yesterday I was the one who got made to worry way more, though!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's true. You really saved me, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nufufu!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were seriously amazing yesterday, Macaron」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since when did you learn to fight like that without Alzard?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm~... I was just so desperate about everything... I don't really know」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I just thought, I have to protect Big Brother...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「My head was completely full of just that, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then does that mean you managed to stop relying on Alzard all thanks to me?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph! Even though you were practically about to get beaten!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just acting, just acting」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Such a liar」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Busted, huh--」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, I was seriously worried about you, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Though, it might be a little disappointing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron throwing a tantrum like a spoiled kid was pretty cute too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uwaaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah--watch out, watch out!」"
+  },
+  {
+    "message": "Even an ordinary kitchen knife is scary!"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ugh, stop it! Don't make fun of me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not making fun of you...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, I'm totally fine now...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even if I don't hold everything in anymore...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because you'll accept all of me, Big Brother...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron...」"
+  },
+  {
+    "message": "Those tantrums back then might have been a reaction to the pressure of having to become the Demon Lord."
+  },
+  {
+    "message": "But that means all of that has been resolved now."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, I'll be careful」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Honestly, thinking you can get away with anything just by calling it cute!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I won't ever call you cute again」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「E-Eh, ah, ughhh……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「D-Do whatever you want……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Wh-What?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just thinking how cute you are even when you're being stubborn like that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez! Dummy, dummy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow, ow!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmphhh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't get so mad……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……You're not lying?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wouldn't say something that embarrassing if I were lying……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then…… hold back a little more……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I get used to it, it'll be a waste, right……\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah…… yeah……」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「My, truly wonderful!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hyah!?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「So this is how the two of you affirm the shape of your love day by day, I see」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「At this rate, no matter how much I whisper words of love, they will never reach the Princess. Truly a pity」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, we'll be ready right away!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just wait a little longer!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh dear, I've been terribly uncouth. Well then……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Whew, that scared me」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's because you keep saying unnecessary things, Onii-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm ashamed of myself...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez... You looked kinda cool when you were overwhelming Azel, too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Back then, I was just desperate to save Pasta and the others... I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, if I had been able to fight properly, Ardin would have...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That wasn't your fault, big brother! Don't blame yourself!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Pasta wasn't crying anymore after that, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... yeah, you're right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What we have to do right now is protect this world from Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Making sure something like that never happens again is what's important, isn't it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yep, yep, you get it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can think like that because you're here with me, Macaron」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like the two of us took one step closer to becoming proper Demon Lords」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hehehe...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wonder if I can face my Master with a little more pride now...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you want to see your Master?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah! We promised that I'd go see him once I became a proper Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah... Big brother, could it be you're jealous?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Th-That's not it at all!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, it's okay!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because the me right now has properly realized it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What I felt for Master was admiration for him as a Demon Lord」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「But with you, big brother, it's even more than that, um...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「B-B-B-B-B-B...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Doing an impression of Sasami?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Agh, enough!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Befuh!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「As a lover! I love you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You sure say embarrassing things...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「S-Shut up...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「My heart is pounding so hard it hurts, too, you know...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah... I think I'm gonna get a nosebleed...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mmph... Shall I shove a green onion up there for you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No-no-no, I'm good...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuu~... Even though I'm being serious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because you keep saying such cute things, Macaron...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hyah--!? Jeez, you said it again!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, my mouth just moved on its own...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「…………」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Sorry to interrupt while you're busy, but」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Is dinner ready yet~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry, I'll get it ready right now!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuu~... Big brother, you idiot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe I am...」"
+  },
+  {
+    "message": "Well, there's no doubt I'm an idiot for Macaron."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Thank you very much for the wonderful meal today. I'll be taking my leave now.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So he just came here for a free meal after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now. You're welcome back anytime」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I thank you for your kind consideration, Lord President」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「By the way, Princess...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Have you noticed any changes in your mood or physical condition lately?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not really, I feel the same as always」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Is that so... No, if nothing is amiss, then pay it no mind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We take good care of our health, so there's no need to worry」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Ah, yes, of course, I have complete faith in you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I can take care of myself just fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true too」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「It seems Great Sage Paqy hasn't noticed anything in particular either...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh? What're you talking about?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh, nothing, just talking to myself」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Well then, until we meet again」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See ya」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...What was his deal...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sip*...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「*Yawn*...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This tea hits the spot...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「*Snore*...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Somehow, it doesn't feel like yesterday was just yesterday」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah... So peaceful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Still, Re-Crea is closing in right on our doorstep...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wonder if even this peace might disappear...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey, what're you gettin' all gloomy for? Not like you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「We've got two Demon Lords on our side, y'know? Nothin' to be scared of」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, duh! We won't lose to the selfishness of some god or whatever!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I won't let this world, filled with everyone's feelings, be erased like it never existed!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hell yeah, that's the Demon Lord I know!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「As long as I'm with Big Brother, it feels like I can do anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's keep doing our best starting tomorrow, too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe, leave it to me!」"
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "message": "青い鳥"
+  },
+  {
+    "message": "Now then, what was on sale today..."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Student Council President」"
+  },
+  {
+    "message": "The person who called out to me was the manager of Peace Tanimura Patisserie."
+  },
+  {
+    "message": "If I remember right, his name was Tanimura-san."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Thank you so much for letting me participate in the event the other day」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「No, words can't even begin to express how grateful I am」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all. I just wanted as many people from the shopping district as possible to join in and liven up Kira-Fes」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I figured you'd say that... Thanks to you, I was able to make amends with her. Truly, thank you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... I've been wondering, what happened between you and Nanaka?」"
+  },
+  {
+    "message": "Nanaka wouldn't push someone away or dislike them for no reason."
+  },
+  {
+    "message": "As her childhood friend, I know that much."
+  },
+  {
+    "name": "Synn",
+    "message": "「If you don't mind, could you tell me?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「...First, the one thing I want to make clear right away is that she wasn't at fault at all. It was entirely on me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「It was all brought about by my own arrogance」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「That girl... Yuugiri-san was a huge fan of the sweets my father made, you see」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「My father was fond of her too, and whenever he came up with a new dessert, she was always the very first person he had taste it」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「My normally grumpy father always looked so happy when he was with her...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Yet at the same time, while watching her eat, he'd be as nervous as a newly minted patissier having his master taste his work」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Looking back now, to my father, she was the ideal person--someone with the most honest and sensitive palate to savor his sweets」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「He even showed her his recipe book without a second thought, something he never once let me see」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Though, it seemed she didn't have much interest in making them herself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's still the same now. All she does is eat」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「However, I hated my father's sweets」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why... is that?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「How should I put it... It wasn't refined. It was unstylish. It felt just like your typical neighborhood cake shop, you see.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I hate to bring up another shop as an example, but do you mean they weren't cute like the cakes at 'Chocolat l'Or'?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「'Cute'... isn't quite the right word, though I see what you're getting at. Yes, that's about the gist of it.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「My father was mostly self-taught when it came to making sweets. Of course, he had never studied in the birthplace of pastry.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「That always weighed on him... and it seems he strongly wanted me to study abroad where it all originated.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They were delicious, weren't they?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「...Back then, I believed that true sweets could only be found in their homeland. And... so did my father.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Just like the Blue Bird.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... I see.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「The Blue Bird is right beside you. Even though the lesson is right there, people repeat the same mistake over and over. I was no different.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I went abroad to train, and just before I finished my apprenticeship, my father passed away.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「When I returned, I was arrogant, thinking I had mastered authentic sweets from the homeland.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I changed the entire lineup of sweets we sold, and renovated the shop that had looked so much like a neighborhood cake store.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I even changed the name from 'Peace Tanimura Patisserie' to 'Alexandrine'.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Alexandrine'!?」"
+  },
+  {
+    "message": "Uncle Amakawa once told me, 'You'd be better off licking a sugar cube than buying a cake from that place'!"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I don't blame you for being surprised. It was infamous in this neighborhood, in a sense.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I even threw away all of the recipes... the culmination of my father's life as a patissier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I was a fool. Truly.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「On the day of the grand reopening, she was the very first to rush over... and without letting sentiment sway her, she gave me a remarkably level-headed critique.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Care to guess what score she gave me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Around 40 points?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「It was 15 points.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Even 'Sans Souci,' run by those shady guys, got 69 points...."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I cursed her out as a worthless brat who didn't understand authentic flavors, and threw her out of my shop...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But, um... how did other people react?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「They all either left without a word looking uncomfortable, or claimed it was delicious while practically running away.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Yet, I didn't feel nearly as angry toward them as I did toward her.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「She was the very one I wanted praise from. She knew my father's flavors better than anyone. That's precisely why she was the one person I couldn't forgive.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, could it be that Nanaka kept coming back anyway?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Yeah, that's right. Lately, the only repeat customers I had were her and the girls she brought along.」"
+  },
+  {
+    "message": "The 'Sweets Club' members, huh."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「About half a year ago, they came by. That time, she gave it 12 points.」"
+  },
+  {
+    "message": "It was already low, and it actually went down!"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I threw a Mont Blanc at her and drove her away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "If he did something like that, even Nanaka would get mad."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Even so, I thought she'd still come back again. Pathetic as it is, I was taking her, a paying customer, for granted.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「However, a week passed, a month passed, three months passed, and she never came.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Nobody came to the shop anymore... And then, I finally realized. Everyone hated my sweets.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll apologize upfront. I'm sorry. But please let me say this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's definitely way too late now...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I can't blame you for saying that.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「When I tried sweets from other shops... mine didn't even compare... I don't even know where or how to start fixing them to make them decent...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「She was right. What's more, she was the only one who didn't just think they tasted bad, but actually gave me proper critique.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And yet... Nanaka stopped coming to your shop.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Standing there in a daze inside my dimly lit, empty shop... I suddenly remembered how happily she used to eat my father's sweets」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I got the idea to try making my father's sweets. I even figured his old-fashioned recipes would be easy to pull off」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「However. The sweets I ended up making didn't even hold a candle to what my father made...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just like the Blue Bird of Happiness, huh」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「After that, once I'd spent some bleak days in a shop where not a single customer came, I worked desperately to get closer to my father's flavor」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「But... there was no one left to come by as a customer anymore...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「If you hadn't brought that proposal to me... I think I would have closed the shop」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「And yet, thanks to you, she ate my sweets, and she started coming back to this shop again...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「She's as strict as ever, but she acknowledged my hard work」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, I really didn't mean to--」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Thank you. Truly, thank you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Peace Tanimura Patisserie'... Could it be!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Didn't you have an eclair with chocolate chips mixed into cream so full it was practically overflowing?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「That must have been an eclair my father made」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They served it to me at Nanaka's place once... That thing... was delicious」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I'll make you a promise too. Someday, I'll bring that flavor back」"
+  }
+]

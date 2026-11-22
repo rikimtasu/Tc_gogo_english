@@ -1,0 +1,453 @@
+[
+  {
+    "message": "プレゼント"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san is...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Doesn't she feel unwell every now and then?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, true. Plus, she's been getting awfully worked up lately.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But what does that have to do with Re-Crea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, you see,」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President.」"
+  },
+  {
+    "message": "I locked eyes with Lolotte and gave a firm nod."
+  },
+  {
+    "name": "Synn",
+    "message": "「To tell you the truth, I--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see, so that's how it is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't be a stranger. If you'd just talked to me, I'd have come running anytime.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-You mustn't come any closer!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, looks like someone stole Ria's job.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis. We're having an important talk right now, so don't interrupt.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't be so cold. We've been worried about Azel-chan too, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'We'...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, we can't just leave things like this. It'd be awful if it gets too late.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Um... we still don't know what's going on at all, though...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right you are! Solving everyone's troubles! Tell us, Headmaster~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uhh, are we being left behind here?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I know someone who's well-versed in this sort of thing, so I'll go ask them.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Leave your back to me.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "message": "Helena pushed the conversation forward on her own, then left the Student Council room just like that."
+  },
+  {
+    "name": "Synn",
+    "message": "「Someone else who knows about it besides Helena...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is a new comrade making an appearance right now~~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry. I have no idea what's going on at all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's right. Even about what Sakura-kun was about to say earlier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? U―Uhh... That's―」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, right. Synn-chan.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sorry for the sudden notice, but we found a contractor to do the Christmas decorations. Could you go greet them right now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I don't mind, but...」"
+  },
+  {
+    "message": "Grrr, when am I supposed to steel my resolve?"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sorry. For interrupting.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...!」"
+  },
+  {
+    "message": "Could it be that Helena noticed what I'm trying to do?"
+  },
+  {
+    "name": "Helena",
+    "message": "「You were just about to start making costumes for the costume party, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, that's right.」"
+  },
+  {
+    "message": "...Guess I was just overthinking it."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, I'll go with him too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Leave the rest to me and the President, and everyone else just stretch your necks like a rokurokubi while you wait, okay?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She's not wrong, though...\\s02」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mhm, mhm. How reliable. Well then, I'll leave it to the two of you.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And also--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Stay by Azel-chan's side as much as you can. Please.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sorry. I'll explain the details tomorrow.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, everyone! I wish you all the best of luck」"
+  },
+  {
+    "message": "Just how much does Helena-san actually know?"
+  },
+  {
+    "message": "We settled on asking for help with the large-scale decorations, while the students would handle everything else."
+  },
+  {
+    "message": "So, we decided to take a stroll through the shopping district to get some ideas for the decorations."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「～～♪」"
+  },
+  {
+    "message": "With a cheerful Lolotte."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "And a quiet Azel."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, bringing Azel-san along--that's quite sharp of you, President~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No... it wasn't me, it was Helena-san. She told me to stay close to her as much as possible」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Probably because it'd be bad if she collapsed again... or something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'm going back」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now, that won't do. You mustn't abandon your duties halfway through.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This has nothing to do with me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you saying」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san is already a member of the Student Council, after all ♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I―I never agreed to―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa! Amazing, look at that!」"
+  },
+  {
+    "message": "Azel's protests were in vain, as Lolotte's attention had already been drawn to something else."
+  },
+  {
+    "name": "Synn",
+    "message": "「Christmas is right around the corner, after all」"
+  },
+  {
+    "message": "The entire shopping district was decked out in Christmas colors, with various decorations adorning the eaves of every shop."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hoho~~. So Christmas isn't something celebrated only at Ryuusei Academy~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When I came here, it was right after Christmas had ended, so this is my first time seeing it~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's your first time seeing it too, right, Azel-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not interested」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if Re-Crea is involved?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And you thought that meager bait would hook me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shallow creatures, as always」"
+  },
+  {
+    "message": "I hoped I could get a little closer to unraveling Azel's mystery, though I guess I was way too direct."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, the shops are especially lively, aren't they? Why is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's probably Christmas sales」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the Human World, there's a tradition of giving presents on Christmas. So stores hold special sales to go along with it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hoho~~. Presents, is it~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To family, friends, close acquaintances, people who've helped you out... and also...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Are there other people you give presents to as well?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well... giving a present to someone you like is probably the most common」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Someone... you like...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, is there anything you'd like as a present?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I-I'd be happy with anything I get!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That makes it hard to choose, though~」"
+  },
+  {
+    "message": "Gah! Blowing a golden opportunity like that...!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then, what about you, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A present...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. After all, you're my friend, Azel♪」"
+  },
+  {
+    "message": "Ugh...... So she still just sees me as a friend, same as Azel......"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Memories may be important, too. Even so, I think giving something tangible that lasts is also a wonderful thing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Something tangible that lasts. So that's what a present is」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Something like that...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, that doesn't help me narrow it down at all~~!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, I see. Since you're clueless about these things, Azel-san, you simply don't know what kind of options exist, do you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, let's go window shopping together. I'm sure you'll find something you want if we do」"
+  },
+  {
+    "name": "Azel",
+    "message": "「H-Hey, stop it...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Onward! Charge into the shops~♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Aaaah--!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha...\\s02」"
+  },
+  {
+    "message": "I'd really love to get Lolotte a present for Christmas too."
+  }
+]

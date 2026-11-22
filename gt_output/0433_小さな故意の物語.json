@@ -1,0 +1,290 @@
+[
+  {
+    "message": "小さな故意の物語"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sigh... I'm so depressed...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, you too, Lolotte?」"
+  },
+  {
+    "message": "Right after stepping out of the school gate, I bump straight into Lolotte."
+  },
+  {
+    "name": "Synn",
+    "message": "「We're past the halfway point of exams. Just one day left, so let's both hang in there」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Something as trivial as that doesn't matter at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Euu... To me, my friend is much more important than exams. We arranged to meet up right here, yet they haven't shown up...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ummm, friendship is important and all, but it's not really something you compare to exams, you know?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady, they do not appear to be in the immediate vicinity」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu~. Do you suppose they've come to dislike me again?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Certainly not. Please leave the guarantee of friendship between yourself and your companion to me, your humble butler, Riesling Toyama」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Ten minutes prior to the conclusion of exams, I escorted your friend right up to the school gate」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Thereafter, they expressed a desire to take a stroll until your arrival, my lady...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so? They must be brimming with curiosity about this world, then」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Never did I imagine they possessed the skill to slip past my surveillance network」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~~!! That one is quite capable too, aren't they?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe they got lost? I'll help you look」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawah!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The sound of flapping wings is getting closer... Yay, it seems they've flown back♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Your friend has the ability to fly?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, Lolo-chi, hey-hey. I came to hang out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so you were talking about Sally」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was not. And Extra, I am utterly disillusioned with you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「*Hic*, right off the bat, am I getting told something awful?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, you don't have to put it like that... Sally-chan is working hard at her gyudon shop part-time job, you know?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ugh, *sniff*. Waaaaah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, there, there, you don't have to cry」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-What is this situation? Doesn't this make me look like the bad guy?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You wicked angel! You don't know the hardships of a gyudon artisan! *Sniff, sniff, sniff*, bleeeh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sh-She's fighting back while crying...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If it's just gyudon, even I can make it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No waaay. All you ever do is eat, Lolo-chi!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh, th-then I'll prove it to you!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Squeeeeeze...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「*Sniff, sniff*... Lolo-chi, why are you hugging me?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Slam!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're just saying 'gyu-don' with sound effects!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Lolotte? Why are you pushing Sally-chan down?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You didn't know, President? The Chairwoman taught me that this is how you make gyudon」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Helena-san...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「*Hic*, *sob, sob*, it huuurts, I bumped myself when I fell, waaaah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Omake-san. Please focus on making the gyudon!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That takes care of prepping the ingredients. For the preparation, do this and that, thoroughly and tenaciously...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Fwah!? L-Lolo-chi, why are you groping all over my body?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is all for the sake of the gyudon. Please feel the movement of my fingers crawling all over your young body」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah... afu... hya... nku!」"
+  },
+  {
+    "message": "And after groping around for a while."
+  },
+  {
+    "name": "Sally",
+    "message": "「Ehehehe~. Roro-chi, I love you~\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is just how it goes. I bestow beef bowls of love upon all living things.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I love you 1.25 times more than Boss, Roro-chi!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Being compared to someone shaped like a daifuku rice cake does not make me particularly happy.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「*Hic*, *sob*! I'm sorry~, please don't hate me~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I might have made my new friend hate me too... *hic*, *sniffle*, *sniffle*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now she's crying along with her...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady, I have detected a flight trail.」"
+  },
+  {
+    "message": "Riesling-san's ability to stay at his own pace is pretty incredible too."
+  },
+  {
+    "name": "Riesling",
+    "message": "「It appears your friend was carried off by the autumn wind and blown all the way to Kenseizaka Park.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good grief, Amyrina can be such a scatterbrain. Jeeves, let us go pick her up at the park.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Yes, the car is already prepared.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay, yay! Good for you, Roro-chi~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now she's celebrating along with her...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is all thanks to you, Omake-san. Let us go together.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really, really?! Give me a ride, give me a ride!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What in the world was all that about?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The angel's buddy was found safe and sound, and she made friends with Flatty. Isn't that good enough?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, I guess. I'd better study for my tests too so I can be the one laughing in the end.」"
+  }
+]

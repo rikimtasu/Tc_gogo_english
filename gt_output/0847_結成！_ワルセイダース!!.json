@@ -1,0 +1,860 @@
+[
+  {
+    "message": "結成！　ワルセイダース!!"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-doo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmm... Woke up feeling great!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, good morning, Macaron. Hard at it again today, huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Why are you awake?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, because it's morning?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't wake up before I get here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-I wanted to see your sleeping face, big brother, and have a good laugh at it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-Trespassing isn't good, you know!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't sweat the small stuff~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's not like this house is a problem if someone comes in, though」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's a problem for me~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, good morning, Sally-chan」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mornin', Pres, Mako-chi」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mornin'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Rare to see you up this early」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I slack off on days when nothing's going on, but I'm an early bird when something's up~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so something's up」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Never mind that, Pres, care a little about my priva-cyy~ too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. I figured normal people wouldn't notice the attic」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm a maiden too, you know, how rude!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're a terrible landlord, big brother~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll work harder on that……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「By the way, Mako-chi, what are we doing today again?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, yeah. Talk later, okay……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's this, what are you two talking about?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's a secret! I'm not telling an insensitive big brother like you!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pfft. So lame, Prez」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright, off to my part-time job!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Here you go, big brother, you can have this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「See ya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Is there more milk than usual……?」"
+  },
+  {
+    "message": "I'll let them know later that they should make sure to double-check how many they're handing out."
+  },
+  {
+    "name": "Synn",
+    "message": "「Want a drink, Sally?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp, gulp, gulp」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Phew! Nothing beats a morning drink!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it really hits the spot!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well then, I'm gonna catch a bit more sleep~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Nighty-night」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...What was up with those two?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So yeah, that happened this morning」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, isn't it totally normal for demons to get along with each other?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, knowing those two, there's no way they're plotting anything bad」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I suppose so」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sooo, I'm telling you, you're overthinking it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so……?」"
+  },
+  {
+    "name": "？？？？",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm……?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder what's wrong with that girl……」"
+  },
+  {
+    "name": "？？？？",
+    "message": "「…………」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're right, she looks suspicious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is she lost, maybe?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Doesn't it look more like she's searching for someone?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Either way, she looks like she's in trouble. We can't just leave her alone」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku…… Pretending to be kind so you can have your way with a helpless young girl--just what I'd expect from Lord Synn」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Giacobini!」"
+  },
+  {
+    "name": "？？？？",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello there--」"
+  },
+  {
+    "name": "????",
+    "message": "「Hyaaaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-sorry, did I startle you?」"
+  },
+  {
+    "name": "????",
+    "message": "「Uh, ah, um, augh-augh……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See, you spooked her because you used such a gruff voice, Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey there, welcome!　I'm Nanaka Yuugiri!　If you're having any trouble, just tell me anything!」"
+  },
+  {
+    "name": "????",
+    "message": "「Hyah!　Um, er……」"
+  },
+  {
+    "name": "????",
+    "message": "「I'm soooorry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……How fast can she run」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Weird. That's supposed to be my friendliest greeting.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're just way too energetic, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Better than looking all worn out, right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my, good morning, President and Treasurer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, Lolo. Morning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mornin'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Did something happen?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, there was a girl we didn't recognize wandering around」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A girl you didn't recognize? Could she be a suspicious person!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She was acting suspicious, yeah, but I don't think she's a bad kid」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There you go again. The second you see a cute girl, you're like this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't say something so rude\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, the President does have a point」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After all, someone as cute as an angel like me is a very good girl♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, I'd better hurry to the classroom or I'll be late」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aah, please wait for me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, the meeting's over, so let's clean up and head home」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, I don't have club today, so let's walk home together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure thing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's take the shopping district detour for the first time in a while!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, sounds good」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A detour!? In that case, by all means, allow me to accompany you as well!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about Riesling coming to pick you up?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since this is an event to deepen the bonds of the Student Council, there is no problem」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's a convenient excuse, the Student Council」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't bring up the Student Council as an excuse to play around!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you'd like, won't you come too, Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh, guess I have no choice~. Since I'm worried, your senpai will tag along with you too\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「One more guest, right this way~!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah! In that case, I'm going too! Strictly to keep an eye on you, mind you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, shall we go~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't ignore me!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nufufu......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I've been waiting for you, Big Brother!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Meeting up to go home together? How nice, how nice~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「E-Even I could at least meet up with Shio......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As for Jeeves, he will wait for me without me even saying anything」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though you've never done that with me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no need to, is there」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come to think of it, fair enough」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aah, geez! That's nooot iiit!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wasn't waiting for Big Brother or anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aw, you weren't~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why do you sound so disappointed」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, little sister, goodbye~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaah, wait, wait! That's not it either!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Goodness, you're being so indecisive.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's what you call being a sweet little potato. Slurp.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Vague and hazy, isn't it\\s02」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm telling you, I was waiting for all of you, Big Brother!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I was waiting for the Crusaders!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You see, I got to thinking.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A proper Demon Lord's record shouldn't have any blemishes on it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not this again.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, leaving things on a loss goes against my code!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Meaning...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Let's settle the score, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey Synn, I thought you two made up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We did, we did.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That doesn't matter!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Think of this as a necessary ritual for me to become the Demon Lord!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because if I can't even beat the likes of the Crusaders, I have no right to call myself a Demon Lord!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So she says, anyway.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then we'll just take the loss.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't mess with me!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「There's no point unless you fight me seriously!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right! That is an insult to anyone who challenges you with everything they have!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Sis Misa... you really get it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. Facing everything fair and square, in earnest, is simply basic human etiquette」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That's our Seisa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You too, Macaron!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Somehow, they're bonding over the weirdest things...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, if we fight as things are now, it'll just end up like last time... right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A group lunch!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't that peaceful」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No need to worry!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even I'm not gonna stay the same forever!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I didn't cut any corners when gathering allies!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Now come forth! Fierce warrior of the Demon World, summoned by beef bowls!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hiii there! It's the Demon World's idol, Sally-chaaan♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's straight-up betrayal!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I didn't betray anyone. I was just bribed with beef bowls~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Grr, this is a tough opponent...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Financially speaking, yeah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally-chan, want some strawberry daifuku?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I dooo!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaah, hey, wait a second!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sooo delish!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In that case! How about a large serving of soba for breakfast every single day!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Seriously?!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, Jiiya」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I have brought some refreshments」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa, thank you very much!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone, Jiiya gave us freshly caught Mr. Sea Urchin♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's that?! I wanna eat it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, I'm getting dizzy……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngggh…… That's playing dirty!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, come on……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Sally-chan, do you care what happens to the beef bowl?!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gasp! Oh yeah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What's the greatest food in the world to you? It's beef bowl!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uuu～gh…… I've got it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll be on both sides! That solves everything!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……So unreliable」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Melphas told me to recruit more allies, but……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「This time might be a bust……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, with Sally-san's fighting strength, it won't make much difference anyway」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whose side are you even on, Misa」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nngh～, anyway!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Prepare yourselves, Crusaders!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uuu～gh……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, wake up, wake up」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here you go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oomph!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And on top of that, if I win, I'll put the Crusaders under my control!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That would be a problem」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, your younger sisters are an organization opposing the Crusaders...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just like the Warusaders, wouldn't you say!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady, what magnificent naming sense」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I like that! We're the Demon World Warusaders!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaah! No, no! We don't have such a lame name!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we can't avoid it, then we've just got to do it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hell yeah! Even a sibling brawl is the pride of a true Edoite!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's do this fair and square--bring it on!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone, be very careful not to get hurt\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go, Warusaders!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I told you, that's not it!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ５７_EASY"
+  },
+  {
+    "message": "ステージ５７_HARD"
+  },
+  {
+    "message": "ステージ５７_NORMAL"
+  }
+]

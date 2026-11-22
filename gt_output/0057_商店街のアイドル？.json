@@ -1,0 +1,791 @@
+[
+  {
+    "message": "商店街のアイドル？"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What a huge haul!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Getting a ton of recycled goods from \"Ponpoko\" for the Charity Bazaar was great and all, but......"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Put some more spirit into pushing that handcart! Everyone else is out there busting their butts right now too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Especially Misa! Didn't she say something like, 'Let's see who can collect more!'?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, what's wrong, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry. I was just thinking about something」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tonight's dinner?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No! I was just wondering if this is really okay......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mhm. I don't know what it's about, but I allow it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You've got zero grounds or authority for that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't care!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, I'm grateful they donated so much, right? If they're this generous, how does 'Ponpoko' even make a profit?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't it because secondhand goods like these don't cost anything to stock? Even a whole handcart full like this probably cost them zero to acquire」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, moving nothing but freebies like this won't make them any money, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Doesn't it draw in a crowd? If more people show up, more of them will end up buying the stuff with actual price tags too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see! Tame-san sure knows how to do business」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Exactly, exactly. So don't worry about it. Let's ride on Tame-san's savvy coattails and keep gathering stuff at full speed!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If we're riding any coattails, I'd rather it be Master Synn's wallet making a profit」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Yo. You two」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, hello」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hello!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Still no progress today, huh--just plain old good friends as usual」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, we are childhood friends」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with that subtly suggestive phrasing?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oh no, no, I'm merely stating the facts」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right, Nanaka. Being close is a good thing, isn't it? 'To be on good terms is a beautiful thing'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well... it's better than being on bad terms, I guess. Better than bad terms」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You sound kinda negative about it... Wait, were we actually on bad terms?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, I didn't mean it like that...\\s10」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「You two really do get along so well. What a dilemma. Even though youth is a brief, dazzling flash of heart-throbbing brilliance that passes by in an instant」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Still, if you don't make some progress soon, everyone in the shopping district is going to fret themselves sick」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't go turning us into gossip fodder without asking!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, Nanaka. Spreading talk around is basically Auntie's job」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Indeed. After all, I am an apostle of truth」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're a greengrocer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, what's been the topic of gossip this whole time?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「It's a heartwarming tale of the shopping district watching fondly over two young lovebirds. At this rate, maybe I ought to roll up my sleeves and revolutionize this situation!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Please don't」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「When someone offers goodwill, you're supposed to accept it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's got a point, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're way too clueless, Synn... Oh, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Auntie. Besides 'Ponpoko' and 'Raffine,' do you know any other places that might donate secondhand goods to help out with the Charity Bazaar?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Nanaka-chan. A true Edoite knows when to push, and when to push him down in one go」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like I'd ever push him down!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like I've been subtly left out of the loop this whole time」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't need to know!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Lord Synn is a lady-killer technician who just pretends to be dense」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Everyone already knows that. That's way too old news」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just what kind of things have you been saying about me?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「I'm an apostle of truth. Only the truth matters」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. That sounds kinda deep!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, more importantly, aren't there any shops that'll seriously help out with Chariba? You know a ton of people, Auntie」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tea-riba?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's short for Charity Bazaar. Man, girls these days shorten everything, it's a real pain」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Let's see... Places that deal in secondhand goods might be willing to help out, don't you think?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like the secondhand bookstore, 'Modern Antiquities'? He's pretty cranky, though, isn't he?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「If Nanaka-chan asks, things'll work out somehow. Following her lead, plenty of other places would probably listen too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm. I wonder about that. It's not like it'll bring them any business」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Nanaka is the shopping district's idol, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Idol!? Come on, Synn, flattering me isn't gonna get you anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow, ow」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「The only one who doesn't know is the girl herself」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Still, up until last year, the Student Council President herself never came down to the shopping district to recruit. What brought on this sudden change? Is management going downhill?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, charity and school management have nothing to do with each other」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We want more people who don't normally visit the academy to participate. It'll be way livelier and more fun that way, don't you think?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Ho-ho. Lively and fun, eh... That's a wonderful thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You sound kinda envious. Is business slow?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「No, it's not that. At least in Ryuusei Town, the economy isn't bad at all」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「It's just that the neighborhood association around here is getting older, and there are fewer kids now too」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Fewer people are carrying the shrine's \\{portable shrine|おみこし} these days, you know... The festival's gotten smaller too. It's lonely, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah. You probably didn't know since you're buried in part-time jobs rain or shine, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know! Why doesn't Shinagawa Greengrocer join the Charity Bazaar too? If possible, not just your place, ma'am, but all the shops in the shopping district!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It might not replace the festival, but if you build ties with the academy, maybe more students will join the festival too」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, that's a great idea」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「We're a greengrocer, though, you know. We don't exactly have secondhand goods to put out」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mgh... Guess things don't go that smoothly, huh」"
+  },
+  {
+    "message": "Hmm. I wonder if there's some good way to pull it off."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Well, all that aside, to cheer up folks like us in a spiritual recession, I want to see some progress between you two! Speaking as a longtime viewer!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Am I a TV drama series to you?!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「You two are way too settled, like an old married couple sipping tea on the veranda」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jumping straight to an old married couple is way too far!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Everyone around here wants to hear how a tenderhearted girl decided to follow Synn-chan to the ends of the earth just because he said he'd become Student Council President!」"
+  },
+  {
+    "name": "Nanaka & Synn",
+    "message": "「That's not why at all!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Hmph-hmph」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka's my childhood friend, so she just can't leave me to fend for myself」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, that's all it is, that's all!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Speaking in unison--truly worthy of first place in the Ryuusei Shopping District Best Couple poll」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What the heck is that」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Exactly what it sounds like, I bet.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「The results from a secret ballot last year. Oops, that was supposed to be a secret from the two of you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't just pick us without asking!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's the big deal? You're 'Best Couple.' If it were 'Worst,' you wouldn't even be able to look people in the eye.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It IS a big deal! Don't go deciding things on your own!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Investigating the latest public opinion is also the mission of an apostle of truth, you know~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't 'Best Couple' a good thing? It just means we get along well.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Synn-chan, you haven't changed a bit. That's what's great about you. I want you to hold on to that pure, innocent sensibility forever and ever.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really get it, but I'll do my best to hold on to it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She's not complimenting you, Synn. Doesn't that just mean you're childish...」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oh, right, right. Nanaka-chan.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I already told you, there's been no progress between us!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Putting stale gossip like that aside,」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That got old fast.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「has your place been hit yet?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hit by what?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Dine-and-dashing, dine-and-dashing! Lately there's been a dine-and-dasher popping up around here. Judging by your reaction, Yuugiri-an is still safe, huh~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How terrifying! We have to be careful too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's nothing at your place you even need to be careful about.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Chicken tenders?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If they're up against Sasami, I'd be more worried for the dine-and-dasher. So, Auntie, what kind of dine-and-dasher are we talking about?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Well, you see, they just leave weird things behind and don't pay a cent~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of weird things?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Just weird things! Incomprehensible tools or things that look like toys. You can't even tell how to use them or play with them.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That sure is troubling.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「And on top of that, they'll eat anything! They even gnawed on a whole thick daikon radish completely raw~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. How wild」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd think they'd run off with it, so they eat it right on the spot?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Well, they aren't human, so maybe their customs are different」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not human?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way」"
+  },
+  {
+    "message": "We looked at each other."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Yeah, yeah, guys like that... with shapes you can't make heads or tails of」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, where are they!?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Right over there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They appeared!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They're gnawing on pickled daikon!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, compared to gnawing on raw daikon, they might actually have a sense of taste」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Hey! Don't eat it all by yourself! No sneaking ahead!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "I feel like I've met this kid somewhere before..."
+  },
+  {
+    "name": "Mochimochi",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eee!?」"
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eee!!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Is it really that good? Let me see」"
+  },
+  {
+    "name": "Girl",
+    "message": "「It's delicious! It goes great with rice!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Eee♪」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Ooh. As an apostle of truth, I've gotta get a picture of this!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, this is no time to be taking pictures! You dine-and-dashers!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Dine-and-dashers? What bad guys!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm talking about you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And what's more, that rice bowl you're holding is from the beef bowl shop!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A double dine-and-dash?! How shameless!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Mgh, wait--by dine-and-dashers, do you mean us?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't even have to ask, yes!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「We aren't dine-and-dashers!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then what do you call yourselves, you dine-and-dasher!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What is with that unfair name?! I have a proper, super cute name--it's 'Sally-chan'!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「And as for my merry companions!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mochimochi!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Jangara!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Tinun!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「And all together, we're--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「'The Delicious Food Squad♪'」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「I see, I see. Well then, let's take a group photo to commemorate this」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh? W-well, alright. Make sure you take a good one, okay?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Leave it to the Apostle of Truth. Say cheese」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Did I come out cute?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「I am the Apostle of Truth, after all. Turned out great. Look」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa. I really do look cute!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Why are you throwing up a peace sign too?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I just kind of... Listen, you guys. No matter how high-sense a name you've got, dining and dashing is still dining and dashing.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, it's definitely not high-sense」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It wasn't dining and dashing! We properly bartered and left something behind!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Always smiling and paying in goods is the Delicious Food Squad's motto」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It has to be cash, not goods. We're not living in the age of bartering anymore」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm asking what \\{cash|\\s12\\s12\\s12\\s12} even is! You're just picking a fight like that so you can extort more out of us!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, defensive much」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Anyway, we didn't do anything wrong. And yet everyone's looking at us like we're a huge nuisance! Now I'm mad!」"
+  },
+  {
+    "name": "Mochimochi",
+    "message": "「Eeee!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hm? What's wrong?」"
+  },
+  {
+    "name": "Mochimochi",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whaaat!? Don't tell me you guys are the 'Student Council' Mochimochi was talking about!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We are, yeah...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So you're with the jerks who bullied Mochimochi and the others!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, are you talking about when we fought over the meat bun ruckus? We weren't bullying them...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, those dine-and-dashers. Your luck finally ran out」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's my line! Your luck finally ran out! Now the time has come to avenge my comrades!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Come on! Fight me, Student Council! I can take you lot on all by myself with ease!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What a sudden turn of events!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Transform! ...Right after--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Hey, what's the big idea!」"
+  },
+  {
+    "message": "Paqy, hurled by Nanaka, landed a direct hit right on Shinaoba's face."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「W-What is this! Everything went pitch-black!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Must be the black part of the panda」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Never mind that, transform!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh!」"
+  },
+  {
+    "message": "View the battle tutorial \"Beware of EX Attacks\"?"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ６_EASY"
+  },
+  {
+    "message": "ステージ６_HARD"
+  },
+  {
+    "message": "ステージ６_NORMAL"
+  }
+]

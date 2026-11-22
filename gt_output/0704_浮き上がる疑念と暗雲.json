@@ -1,0 +1,526 @@
+[
+  {
+    "message": "浮き上がる疑念と暗雲"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry! I'm in a bit of a rush, so catch you later」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Awesome! Scored the mega-sized cabbage bread!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Rare to see you here when it's so crowded, Azel. Sorry though! I've got something to take care of, see ya!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Classes are done, see you tomorrow!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You should try joining a club or something too, Azel. Seize that sparkling school life. Later!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-Wait......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Tch......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「To think I would fall into such a predicament......」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Looks like Azel-chan finally understands how it feels to be left behind~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you talking about?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Didn't you want to talk with Synn-kun?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I can see right through everything~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Action. I have no choice but to make a move now......」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Azel-chan?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If you're looking for Synn-kun, I think he's probably in the Student Council room~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The Student Council room, you say......?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn-kun. You're wearing a costume on the day of the event, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, yes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It might be a good idea to leave some hangers or something in the restrooms」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see! Good catch!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ow-ow-ow!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, stand up. Let's take it again from the top」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, dancing's impossible for me!! It's totally not my style!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This much is basic etiquette for a young lady. Keep at it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Vice President sure is strict~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're up next, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm going to have my kind Senpai teach me, so I'm fine」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, you won't! You need to follow the proper steps first and learn to dance well enough so you don't embarrass Sister!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-ahaha...\\s02」"
+  },
+  {
+    "message": "I'd better learn the bare minimum too before having Senpai teach me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, well this is rare. What's up?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Where is Synn Sakura?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll be waiting at Finis Tower」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you planning to do somewhere so deserted?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could this be a confession of love--!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, there's no way it's that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll be waiting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "message": "This feeling... it reacted to magical energy!?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could Azel be a Demon too...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just felt it. That same sensation from when a Demon appears...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Are you saying Azel went out of his way to let us know about that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Was that some kind of message?"
+  },
+  {
+    "message": "No... I can't imagine Azel using such a roundabout method."
+  },
+  {
+    "name": "Ria",
+    "message": "「Me too, actually. I've been a little worried about Azel lately.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel is calling me... Just what for...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's report this to my sister... to Melilot.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. And then let's all go together.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. So everyone is going to cheer Azel on for his confession.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's not it, Lolotte\\s02」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Can you win on your own?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「On top of the ones who defeated Soltia, even that Nive might show up.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What of it?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Why are you in such a rush?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am in no rush.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「You still have plenty of time left to fulfill your objective, don't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Don't tell me you intend to get in my way?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have nothing to say to you.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Then you're going to take his place instead, aren't you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That person is...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Get away from Azel, Virus!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「So you've come, Demon King」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You knew I was coming」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What Synn sensed earlier was...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「A predictable reaction. With this, I can meet the Demon King anytime」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus... what on earth are you thinking?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't concern yourself with me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus isn't an ordinary person. It's dangerous, so stay back」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I said don't concern yourself with me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't do that!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Why try to protect someone you could just leave alone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just my nature not to leave people alone. Especially when it's a friend」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...A friend, you say?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please answer my question, Virus. What is your objective!?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「...Shut up」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kh...」"
+  },
+  {
+    "message": "An overwhelming aura of intimidation so intense that just a glare sends chills down my spine."
+  },
+  {
+    "message": "Even Melilot is being overwhelmed...?"
+  },
+  {
+    "message": "Still, like hell I'm turning tail and running away like this!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Azel. Hurry to somewhere safe--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S―shut up! Don't touch―ugh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Disappear!! Ah, guh, guuh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「So your half-baked resolve is at war with itself」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-what are you talking about...!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「In such a state, you wouldn't even measure up to the current Demon Lord」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't mess with me!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Leave Virus to us!! So Azel, you--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「As if the likes of you could stand against him...! Leave at once!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph...」"
+  },
+  {
+    "message": "I can't sense any will to fight from Virus."
+  },
+  {
+    "message": "Eyes full of disdain, as if watching a farce. And a gaze of curiosity directed at me."
+  },
+  {
+    "message": "He doesn't answer what he's thinking, nor do we have any means of forcing it out of him."
+  },
+  {
+    "message": "Virus speaks dispassionately, offering only the bare minimum of words required by his own ambitions."
+  },
+  {
+    "message": "I'm convinced that all we can do right now is find the truth in the midst of battle."
+  },
+  {
+    "message": "However, we can't just leave Azel behind in agony and pick a fight."
+  },
+  {
+    "name": "Virus",
+    "message": "「I look forward to the next time we meet」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「W-wait... Virus」"
+  },
+  {
+    "message": "Her faint voice couldn't stop Virus, and all we could do was watch his imposing figure walk away."
+  },
+  {
+    "message": "An unimaginably fierce conflict is inevitable."
+  },
+  {
+    "message": "The reason Melilot, who relentlessly pursues the truth, didn't make a move was probably because there was no chance of winning."
+  },
+  {
+    "message": "In the end, even after defeating Soltia, not a single problem had actually been solved."
+  },
+  {
+    "name": "Azel",
+    "message": "「Kuh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... are you okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Don't touch me. I can walk on my own」"
+  },
+  {
+    "message": "Azel, too, maintains his usual aloof demeanor as he disappears."
+  },
+  {
+    "message": "Yet, I felt as though the confidence I always caught glimpses of in his retreating back had grown faintly clouded."
+  }
+]

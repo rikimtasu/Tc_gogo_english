@@ -1,0 +1,234 @@
+[
+  {
+    "message": "努力の動力"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yo, Lord Synn, why'd we come back to the library again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wanted to try looking for books about demons one more time.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You already looked into it with the Student Council before and didn't find much, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, better safe than sorry. Besides, I want to read through any books written about Ryuusei Academy, too.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Come to think of it, Petanko was sayin' a huge horde of demons is swarming the academy.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Alright! If I dig through a bunch of reference books, something might jog my memory. Let's head in.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, soba back in the old days must've tasted awful.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Instead of boiling the noodles like we do now, they used to steam them in a bamboo steamer. That just makes them dry and crumbly--a total waste of buckwheat flour!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Huh?」"
+  },
+  {
+    "message": "The moment I sat down at a reading table, Nanaka--who had walked up without me noticing--spoke to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, hey, Nanaka. You came to the library too?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What about you, Synn? Aren't you here for the exact same reason as me? Looking for books on demons, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right, so why are you carrying a book on soba folklore and a history of sweets?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahahaha! It's like a warm-up before I dive into the real research, you know?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's a pretty weak excuse.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not slacking off! Once I get into proper reading mode, I'll look into demons and Ryuusei Academy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I'm counting on you.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka's concentration is even better than mine. Think about it--she's been studying with the hustle and bustle of the shopping district in her ears ever since she was old enough to remember.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mufufu, leave it to my childhood friend. You know me so well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just that Nanaka tends to overcharge while gearing up for the main event, and ends up short-circuiting.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up! Don't build me up just to tear me down!」"
+  },
+  {
+    "message": "Having unexpectedly met up with Nanaka, we began our research in the library."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wonder if they have sweets in the Demon World too?」"
+  },
+  {
+    "message": "Nanaka asks while skimming through the history of sweets."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure there must be」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Watching Sally-chan, it's obvious that Demons get hungry too and collapse if they don't eat, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There have to be little kids too, so I bet there are sweets in the Demon World」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then that means the Demon World has home cooking too, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What if the Crusaders recreate the taste of Demon World mom's cooking and treat the Demons to a feast?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If we did that, wouldn't the Demons causing trouble in the Human World get homesick and go back to the Demon World?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It sounds absurd, but as psychological warfare, it's extremely effective」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka……」"
+  },
+  {
+    "message": "Nanaka's proposal warms my heart."
+  },
+  {
+    "message": "Even if I revealed my true identity, wouldn't Nanaka accept me?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, um……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn? Making a serious face all of a sudden--are you planning to tease me again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That sweet looks delicious」"
+  },
+  {
+    "message": "Unable to bring myself to say it after all, I drop my gaze to the page of the book Nanaka has open."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that barmkuchen」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey now. Not barm, it's baumkuchen!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "message": "A large illustration is drawn on the page, explaining how baumkuchen was made over a hundred years ago."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, you coat a spit with batter over a flame and spin it around and around to bake it firm…… and repeating that creates those tree rings」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You bet. And then at the end, you pull out the spit and slice up the thickly baked dough, and it turns into the baumkuchen shape we know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You have to keep rotating the spit the whole time while making it, so it's pretty heavy labor……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, ack! Back in the old days, a doggy was the power source!?」"
+  },
+  {
+    "message": "Examining the illustration closely, an object resembling an enlarged hamster wheel was connected to the end of the spit. Inside it, a dog is running with all its might."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ho-ho, the cooking method itself is simple. Maybe I'll make this our booth for next year's KiraFes. Looks like Yumil could even do it alone」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Soba. If you used a pooch like that nowadays, animal welfare groups wouldn't stay quiet, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right... Then what should we do?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh? It's Nana-chan. Synn-kun's here too. Hellooo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's a power source」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, totally a power source」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Definitely a power source」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「W-What, what, what is going on?」"
+  },
+  {
+    "message": "After chatting quietly so as not to disturb the other library patrons, we got down to business and started our research."
+  },
+  {
+    "message": "With Sacchin helping out too, we searched through various books on Ryuusei Academy and Demons, yet..."
+  },
+  {
+    "message": "...We didn't really find anything new."
+  }
+]

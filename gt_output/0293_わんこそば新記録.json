@@ -1,0 +1,556 @@
+[
+  {
+    "message": "わんこそば新記録"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Presideeent! Treasurerrr!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey there, Lolo-chan.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hello, Sacchin-san.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hellooo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did the test go?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes! It went much better than usual♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, I see. That's great.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How did it go for you, Treasurer?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Me? So-so, I guess~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so? Well, that's good~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No allowance raise for me, though……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And what about you, President――」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh…… *sniff*……\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hold on!! Why are you getting all gloomy on your own!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's fine. Both his scholarship and his presidency are completely safe.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That means no expulsion and no stepping down, so we can keep enjoying our sparkling school life together just like before!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yup, yup.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Phew…… What a relief~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I really gotta shape up for the next one……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Next time, I'll help you study with everything I've got♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's nice and all, but make sure you work hard on your own stuff too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You too, Nanaka.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Teehee」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Wait, why aren't you asking me, huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's what you'd call reading between the lines, man」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then. Since exams are over and all, shall we go out somewhere after this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, sounds good!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'm in, I'm in」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They say okay~~」"
+  },
+  {
+    "message": "In the direction Lolotte was waving stood Riesling-san and Amyrina."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Have you guys eaten yet?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Have you eaten~~?」"
+  },
+  {
+    "message": "The two of them shake their heads."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. Then wanna come over to my place?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, I'm back! Brought some friends over~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooooh~~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ooooh~~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh? You've never been to Nana-chan's place before?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've only ever mentioned that her family runs a soba shop, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, when it comes to restaurants, I've only ever explored curry rice or hamburg steak places……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Heehee…… you're acting just like a child」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh--!? That is not true at all~~!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「You shouldn't be a picky eater, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mgh…… those words just now. Please make sure you remember them well」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright then, just some regular tenzaru--」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Oh…… wanko, soba?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wanko soba, what might that be……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-W-What?! I-It's not written down!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Wanko soba is, you know, soba served in little bowls~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh-ho~. You're so knowledgeable, Miss Sacchin.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's literally just what it is!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Furthermore, it is a time-honored tradition of hospitality in which the soba is automatically reloaded so the guest's bowl never becomes empty.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Oh-ho~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hospitality, you say~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... is wanko soba okay? They both seem super interested.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well... if you're fine with that...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's more reasonably priced than tenzaru, too.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My family isn't that stingy!」"
+  },
+  {
+    "message": "And so, in the kitchen, Nanaka's old man was boiling soba at a furious pace."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, got your bowls ready?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ye~s♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ready~~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Then on your marks, get set, go~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is it a race?!」"
+  },
+  {
+    "name": "Lolotte & Amyrina",
+    "message": "「Thank you for the meal!」"
+  },
+  {
+    "name": "Lolotte & Amyrina",
+    "message": "「Slurp, slurp, sluuurp~~!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thanks for the foo--huh, oh my?!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I'm sure I finished it all, yet... why is there soba in my bowl?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph-hmph~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As expected of a soba shop's only daughter.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「An impressive display of skill」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan put soba refills into everyone's bowls with blinding speed~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Is that so~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Which means... it's all-you-can-eat, isn't it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hehehe. I wonder how long you'll be able to keep smiling~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm gonna feed you till you're stuffed to bursting!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Bring it on~♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You two sure are full of energy~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Probably because tests are over?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hup, hup, hup!」"
+  },
+  {
+    "message": "Lolotte and Amyrina eat the soba at a dizzying speed."
+  },
+  {
+    "message": "Though Nanaka is tossing noodles into their bowls at a brisk pace as well--"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Huff...* *Huff...*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can do it, Nanakaaa!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, Daddy hasn't given up on you yet!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We can still eat plenty more. Right, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, you two!! Where is all that food even going in those tiny bodies of yours!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「They have already consumed over a hundred bowls apiece, yet--」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「To the young mistresses, it is merely an hors d'oeuvre!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please stop drawing your pistol every single time」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Huff, huff...* No good... I give up...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yaaay! We wooon」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Still, Lolotte. Food is meant to be chewed slowly and savored, isn't it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah! R-Right…… Which means it's our loss」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Let's go with regular soba instead of wanko soba after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're still gonna eat!?\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very much, Mr. Cashier」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't sweat it, don't sweat it. Nobody ever orders wanko soba here, so it's been a while since I had this much fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And Nanaka's dad was really going all out too」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Those two both love festivals, after all~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come now. You too, Jiiya, let's eat before the noodles get soggy」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……Thank you for the meal」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Slurp, slurp, slurp」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah! That's right, Amyrina. How about trying some wasabi in it?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Wasabi?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait a second, Lolotte……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I must properly teach her that everyone has likes and dislikes. After all, it is a path I have walked myself!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawa\\s01　Um, Mr. Cashier. May we please have some wasabi?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You betcha, one order of freshly grated coming right up!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You dissolve this into the dipping sauce before eating, you see」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I see……. Ba-dump…… Slurp」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How is it?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mmph…… Something is shooting right up my nose……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed, indeed. That being said, having likes and dislikes is――」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's so crisp and refreshing, and super delicious!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What!?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「To think such a wonderful food exists!! Thank you for introducing me to it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Urgh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Amazing, Amyrina. Even though Rolo-chan can't handle it at all」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eh...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mghhh. Somehow this makes me so frustrated! I want to find wasabi delicious too!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I don't think you should push yourself~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh, ghh... I'll do my best...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Slurp」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haguuh!! It's spicy!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good food is best eaten however you like it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right~♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Even though it's so delicious... slurp, slurp」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Hasn't the volume of Rolo-chan's mentsuyu increased?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That butler is quite capable~」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am humbled」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very much, Jiiya♪ Now then--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Slurrrp~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wait, it's still spicy after all~~\"\\s06"
+  }
+]

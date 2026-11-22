@@ -1,0 +1,350 @@
+[
+  {
+    "message": "ロロットントロ"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm? Something's rustling under my foot...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yo, Master Synn, you got a piece of trash stuck to your shoe.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Must've been blown around by the sea breeze. Now, where's the trash can?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「W-W-Whoa there! Oopsie-daisy. My wrapper flew right off.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yo, Master Synn, looks like Flatty came to stick herself to you too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey now, don't talk about Sally like she's trash.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Bleh! I'm not taking you with us, Paqy!」"
+  },
+  {
+    "message": "Huffing and puffing in a sulk, Sally neatly picks up her trash. Taking a closer look, what had caught on my shoe was the wrapper from a kids' snack."
+  },
+  {
+    "name": "Sally",
+    "message": "「Heya, Prez!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「C'mon, over here, over here! Lolo-chi is giving out as many stick candies as we want!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...? What's Lolotte doing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ewuu, another dud... It's a weird car, a MesserschmitTontoro...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're going all out here.」"
+  },
+  {
+    "message": "In a corner of Tsukinoo Park, Lolotte sits surrounded by a mountain of candy toys, her shoulders slumped in utter defeat."
+  },
+  {
+    "message": "Beside her is a cardboard box with its flaps wide open. Having likely bought it in bulk, it's packed to the brim with stick candies that come with bonus toys."
+  },
+  {
+    "message": "Judging by the illustration on the packaging, they seem to contain various figures of a mascot character that looks just like Tontoro."
+  },
+  {
+    "name": "Sally",
+    "message": "「Nom nom, roll-roll, crunch-crunch! Kahaa, so sweet and yummy!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please, Prez, have one too... or rather, have fifty of them.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Go right ahead. The only thing I want is this part...」"
+  },
+  {
+    "message": "Saying so, Lolotte picks up an unopened toy packet."
+  },
+  {
+    "name": "Sally",
+    "message": "「...For a big eater like Lolo-chi... that's rare, huh? Is this what they call a big spender?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Tagalong, just keep quiet and suck on your Kintaro candy.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You know, no matter how much you bite into these, Kintaro's face keeps showing up--it's so cool!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That takes me back. Even though the bonus toys are new, the candy itself is still the same as ever.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmph, next time for sure, I will pull a winner.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hic... Another dud... It's Miniskirt Tontoro...」"
+  },
+  {
+    "message": "In Lolotte's palm sits a tiny Tontoro wearing an outfit identical to the Ryuusei Academy girls' uniform."
+  },
+  {
+    "message": "Curious, I checked the manufacturer on the package again and saw the name of a Rosenkreuz family affiliate."
+  },
+  {
+    "message": "It seems they at least got permission from Ryuusei Academy to use the design--there's a proper copyright notice. This must be Helena-san's doing."
+  },
+  {
+    "message": "The proof is that the lineup chart for the candy toy figures doesn't include a male student... no, a Male Student Tontoro."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hafun... Please, let me get a winner!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!? It's a total dud! I got Merilottontoro, the demon-horned librarian!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't want this. Toss!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's harsh.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Looks like it'd make a good talisman to ward off evil. I'll take it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's harsh too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「U-Ugh... I can't buy any more after this... God, please, this time for sure...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "The Rosenkreuz family is involved in making these. If she just asked someone at home, she could get as many as she wanted..."
+  },
+  {
+    "name": "Synn",
+    "message": "「You're admirable, Lolotte. Buying the snacks properly with your own allowance.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I'm not admirable at all!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why... something like that...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte?」"
+  },
+  {
+    "message": "Wait, wasn't she down because she couldn't get the figure she wanted?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, would you try opening one for me? Maybe it'll go well if you do.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, if I'm good enough.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「A different one from before came out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...A Tontoro wearing a tuxedo and elegantly dual-wielding pistols?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's one of the rare ones, Elegantontoro.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll give that one to you, President.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I pulled one the other day too and gave it to Jiiya as a present. He was super happy.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...I had a friend once... and I want to give them an Elephan-Tontoro...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Look, it's right here on the checklist chart♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a Tontoro shaped like a baby elephant, and it can flap its big ears to fly freely through the sky. Hmph!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "message": "I nod, though more than her explanation, what bothers me is that Lolotte spoke in the past tense, saying 'had a friend.'"
+  },
+  {
+    "name": "Sally",
+    "message": "「Lolo-chi, you look kinda lonely?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...I'm super happy being here with my family and the President and everyone. So I'm totally fine!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm, is that so?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「...Lolo-chi, look, look! Snap. No matter how much you eat, it's Kintaro Candy」"
+  },
+  {
+    "name": "Sally",
+    "message": "「B-u-t, crack. If you eat it diagonally, it becomes Giant Takadanobaba!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Freebie-san...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "message": "From inside the bushes behind Lolotte, Riesling-san staggered out."
+  },
+  {
+    "message": "However, instead of his usual dashing entrance, he had a hand pressed to his mouth, his shoulders trembling slightly as he turned his face away."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What the hell are you holding back a burst of laughter for? Did Flat-chest's lame-ass gag actually hit the butler's funny bone?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Baton?!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave hunting down My Lady's rare items to I, Riesling Toyama」"
+  },
+  {
+    "message": "Riesling-san places a tiny Tontoro figure onto Lolotte's palm."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-An Angel Tontoro...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo! That's the secret rare, no fair, no fair! Gimme, gimme!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please don't touch it. This belongs to that girl. I won't give it to you, Freebie-san!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you so much, Jiiya. I love you♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am deeply humbled」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Giggle... If you think it's funny too, Jiiya, you should just smile as big as you want」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「However...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right, Riesling-san! If we all laugh together, we can be happy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And so--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The sea breeze got cold? Ahahaha, the cold one is my girlfriend!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady. I shall now return to Class-A guard deployment. Excuse me」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Munch munch, delicious--♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Omake-san, I think I'll eat some candy too after all. Lick~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  }
+]

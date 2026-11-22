@@ -1,0 +1,631 @@
+[
+  {
+    "message": "リ・クリエの夜に"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's over, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I already... know that」"
+  },
+  {
+    "message": "Azel slapped away the outstretched hand."
+  },
+  {
+    "name": "Azel",
+    "message": "「How you underestimate me. Does the victor intend to lend a hand out of pity?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You sure are stubborn. That was just a fight. And I want to make up」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A battle with the fate of the world at stake. To dismiss it with such a vulgar word」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is this the magnanimity of a Demon King? Or are you merely a fool?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The latter, definitely. I didn't do all this just because I'm the Demon King」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To you, who was ordered to regenerate the world, it might certainly seem foolish」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But that foolish thing is the very conviction we hold」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Tell me. Where does the wellspring of power that surpasses even my master's will come from?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it that you people refuse to yield? That conviction--is it to protect the world?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, Azel. There's something I want to show you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is the answer to your question. What I wanted to protect wasn't the world--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was the Holy Night Festival」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「F-For something like this... I lost for this...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You say that, Azel, but it's far more important than you think」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's Ryuusei Academy's biggest event, filled with the wishes of so many people」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This year's Holy Night Festival will never come again」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's why Synn, everyone on the Student Council, and the entire student body worked so hard to make it a wonderful memory」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All so we could live a sparkling school life together, right?」"
+  },
+  {
+    "message": "This is my conviction. What I presented as my campaign promise."
+  },
+  {
+    "message": "Because I hadn't fulfilled this condition, I couldn't be satisfied with my idea of a 'sparkling school life.'"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And while exterminating demons at the same time, mind you? Why, we were working so hard we barely had time to sleep」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Everyone at the academy came together as one, working hard to make the Holy Night Festival a success!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, I'd been hoping you could join us too, Azel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Unfortunately, that didn't happen. Still, I think we can enjoy it together starting now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Absurd... Isn't a Demon Lord supposed to use the world as a shield? And yet...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But there are people looking forward to the Holy Night Festival」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why I couldn't lose. I knew I had to win no matter what」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you join in too, Azel, I'm sure you'll understand how important it is」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Guh... ngh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stay... away... from me...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Geez, you're testing my patience!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh-What are you doing!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're completely powerless right now, Azel. Resisting is totally pointless!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Stop it. Let go of me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, Amyrina's waiting too! Right this way~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha...\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, that settles that」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now the real fun begins」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Yeah. Everyone's already tired of waiting!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right! Let's go!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Welcome」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am deeply humbled by your kind invitation today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please take your time and enjoy yourself」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, come on, over here~~. Hurry, hurry!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eeeeeek!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Stop it... ngh! Don't drag me!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez! Where's the yummy stuff~!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Go on over to where Nanaka and Sacchin are」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, yummy food, wanna eat」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Even so, you can't eat Nanaka and Sacchin, 'kay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha...\\s02」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Good grief, just how happy would I have been if I could spend time with Lord Virus-nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta! You came!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I owe you one, nya. At the very least, I'll savor the feeling of spending time with Lord Virus-nya」"
+  },
+  {
+    "name": "?????",
+    "message": "「Wait up, Pasta-cha~~n!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who was that just now...?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Now then, let us enjoy new encounters and romance tonight as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Never learns, does he...」"
+  },
+  {
+    "message": "The people from the shopping district also entered right behind them--"
+  },
+  {
+    "name": "Helena",
+    "message": "「Congratulations, members of the Student Council!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Judging by how things look, it seems everything went smoothly. Thank you so much, truly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're the ones who should be thanking you! Thank you so much for sticking with us all this time」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So, where is Azel-chan...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're looking for Azel, she's over there」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, come on, Azel-san, you're changing clothes too!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S―Stop it!! In an outfit like this―aaahhh!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And so it went」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, color me surprised~~」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's as if all the malice has drained out of her. Perhaps deep down, she was wishing for the exact same thing as Lolotte.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The shooting stars are getting fewer and fewer, too.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So it's really over, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Our night is just getting started, though. Come on, you two, go have the time of your lives!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course we shall.」"
+  },
+  {
+    "message": "Once all the participants have finished entering, the various events get underway."
+  },
+  {
+    "message": "Costume plays, and hospitality at the maid cafe."
+  },
+  {
+    "message": "And at last, the time for the dance party arrives."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria, would you do me the honor of dancing with me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah♪」"
+  },
+  {
+    "message": "And so, the final Holy Night Festival for the two of them begins."
+  },
+  {
+    "message": "Still, maybe because there are so many more girls here, there sure are a lot of same-sex couples."
+  },
+  {
+    "name": "Paqy",
+    "message": "「What is this, Private Lesbian Academy? Hehehe... It's straight out of a porno.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-How utterly shameless?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, that might not be half bad...\\s04」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sister, get a hold of yourself!! Here, dance with Sir Paqy!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyaaaah!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, let's dance together~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No way, it's embarrassing!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'll take the guy's part for you~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Can you even lead?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot. Your feet are getting tangled.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「T-This is... Well, what do you expect! It's my first time, after all...\\s01」"
+  },
+  {
+    "message": "Standing alone a short distance away, I found myself captivated by Ria-senpai and Misasagi-senpai dancing."
+  },
+  {
+    "message": "Leave it to two highborn ladies--their graceful movements are completely mesmerizing to watch."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You know... being by your side all this time has made me truly happy, Ria」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's gotten into you, Ayanishiki? This isn't goodbye forever, you know?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Maybe not, yeah. Still, I wish I could just keep dancing like this forever without thinking about a single thing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even after we graduate, we'll always be friends」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria... Thank you so much for giving me such a wonderful school life」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez! You're just trying to make me blush again so you can laugh at me, aren't you!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hehe... I'm a hopeless case, aren't I? Can't even get my honest feelings across」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm just kidding. I can tell everything just by looking at your face, Ayanishiki. I'm the one who should be thanking you」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh boy... Looks like you really got me there」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu, I have to get the upper hand once in a while」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even if our paths diverge from here, I'll never forget the time the two of us spent together」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... Me neither... They're truly precious memories to me...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ahh... I wonder if time could just freeze right here like this...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If that's what you wish for, Ayanishiki...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even so, it really wouldn't do if that actually happened」"
+  },
+  {
+    "message": "The two of them stop dancing."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayanishiki...?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Your time with me is all over now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We still have plenty of time left, don't we?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「The person you really ought to be dancing with isn't me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "Misasagi-senpai slowly walks over toward me, bringing Ria-senpai along with her."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Thank you for everything up until now. I'm returning her to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「The music is still playing, so go on, hurry up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayanishiki-chan...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「This might be the last Holy Night Festival for us, sure, but it's the last one for you two as well. Gotta keep things fair, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Ria-senpai. Will you dance with me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yes, I'd love to ♪」"
+  },
+  {
+    "message": "And so, seen off by Misasagi-senpai, we blended into the circle of dancers."
+  },
+  {
+    "message": "Even though I'd always been terrible at it until now, today I was able to dance naturally."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. You've gotten really good before I knew it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I practiced a little bit after last time, you know.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even though you might not have gotten to dance with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I can dance with you anytime, Ria-senpai.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I like you, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me too... I love you.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez...! Don't go surprising your senpai like that, bad boy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Saying things like that is why people call you childish...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I am not! Saying 'I love you'... th-that's... something like that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Saying 'I love you'...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, just saying 'I like you' wouldn't be any different from before... So...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you... not like it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N... No. I'm really...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm super, super happy...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, do you...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Yeah, I love you...\\s04」"
+  },
+  {
+    "message": "The music stops, and the two of them stand rooted to the spot."
+  },
+  {
+    "message": "And from the sky they look up at together--"
+  },
+  {
+    "name": "Ria",
+    "message": "「The stars...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The stars... disappeared...?」"
+  },
+  {
+    "message": "The Re-Crea had passed."
+  },
+  {
+    "message": "From that moment on, shooting stars vanished from Ryuusei Town."
+  },
+  {
+    "message": "Yet, the sparkling life the two of them weave together will keep shining brightly forevermore."
+  },
+  {
+    "message": "Yes."
+  },
+  {
+    "message": "Just like powdery snow dancing in the sky, bathed in light."
+  }
+]

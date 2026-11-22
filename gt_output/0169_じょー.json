@@ -1,0 +1,244 @@
+[
+  {
+    "message": "じょー"
+  },
+  {
+    "message": "KiraFes finally starts tomorrow. I wonder how the town is looking?"
+  },
+  {
+    "message": "I made my way through the residential area, Shiokumi Shopping District, and Asukai Shrine--"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahem! Now then, today's meeting is officially starting!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yo.」"
+  },
+  {
+    "message": "Huh? Nanaka isn't here, but isn't that crowd the Sweets Club?"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Can you all eat your snacks without leaving a single crumb?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yessir.」"
+  },
+  {
+    "message": "W-Why is even Sally mixed in with them?"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「In place of Nana-chan, who's busy with the Student Council and Yuugiri-an, I'm running the Sweets Club again today!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Preparations for the KiraFes cake shop are all done too, so I've got time!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Working hard as the club vice president, I see. Hello, Sacchin.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, Synn-kun! 'Sup!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, 'sup!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Sup.」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yo-sup!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yo-sup.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Now that the opening remarks have wrapped up without a hitch, today's agenda is this!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Volume: 'Can sweet curry eaten after spicy curry be called a sweet or not?'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What a forced agenda.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, don't ya think you can get anything approved just by slapping the word 'sweets' onto it?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「'Sup!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't try to dodge the question with a weird greeting!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe. Until Nana-chan comes back, the tasting sessions are entrusted to me!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Even if you're unhappy with the menu, the only right left to Yumil and the rest of you is the right to remain silent!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's saying stuff like this, is that okay?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Guh, gotta endure it until I become an upperclassman」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I don't really care either way. Sniff, sniff, smells great. Wanna eat, wanna eat, I wanna eat right now!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Alrighty then, I'll line up the takeout we got from the curry shop Ai no Kuni in the shopping district~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Phantom Curry, Kfir Curry」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Apache Curry, Cheyenne Curry, and Cobra Curry」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And that is all!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「There's one more, you know?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's the F-8 Curry I'm saving as a souvenir for Nana-chan~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa-oa-oa. Oops, my bad. Guess I mustn't eat that one」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even excluding Nanaka's, that's five plates. Isn't that too much for three people?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「This curry counts as a snack, so it's totally fine~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Time to dig iiin♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kaha! So spicy, so goood~~♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, right! Synn-kun, you take Nana-chan's portion to her~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, leave it to me」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Ah, Senpai. Before you head back, could you tell me one thing?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「It's been on my mind lately. Between 'curry rice' and 'rice curry,' which name is the right one?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, at my house we call it curry rice」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「If I remember right, Yugiri-senpai called it rice curry」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm... hmm? The manager at Subaruya said 'rice curry' is when you pour the curry straight over the rice~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「And then, when you pile rice on half the plate and spread curry on the empty half, that's 'curry rice'」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「That theory sounds fishy. There's a saying that claims the exact opposite」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, what could the real truth be--」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「What are you all talking about? Both of those are snacks--they're candy curries~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Isn't proper curry the kind where the roux comes in a silver dish shaped like a magic lamp?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「What's wrong, everyone?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've never eaten anything that fancy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This girl... Looking the way she does, she's surprisingly a rich young lady」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa. That's so rude! There's nothing surprising about it, I really am a rich young lady」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I wanna eat proper curry too!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I see~~. Well then, I'll bring some next time」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Whoa, it's spicy!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aah! Yumil, jumping the gun!」"
+  },
+  {
+    "message": "And so, everyone happily started the curry party."
+  }
+]

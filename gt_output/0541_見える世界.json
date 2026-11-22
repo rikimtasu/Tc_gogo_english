@@ -1,0 +1,183 @@
+[
+  {
+    "message": "見える世界"
+  },
+  {
+    "message": "I borrowed a book from the library and came up to the plaza on the hill."
+  },
+  {
+    "message": "It was a warm, clear autumn day just before winter. Every once in a while, I felt like reading outdoors."
+  },
+  {
+    "message": "I wanted to ask Melilot for a recommended spot, but unfortunately, she had stepped away from her desk."
+  },
+  {
+    "name": "Paqy",
+    "message": "「You came all the way up to a high place like this just to read a book?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, people rarely come up here, after all. If someone saw me in the courtyard or somewhere, I'd look pretentious and it'd be embarrassing.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's your reason?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Melilot?」"
+  },
+  {
+    "message": "I ran into the very person I was looking for. With a serious expression, Melilot was gazing at Finis Tower, rising tall and solitary in the distance."
+  },
+  {
+    "message": "It wasn't clear whether she had noticed me or not."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...!」"
+  },
+  {
+    "message": "This time, Melilot turned her face toward me."
+  },
+  {
+    "message": "And then, a silence as if she were sizing me up."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is there something you need?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was thinking about reading around here.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is a good thing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot, do you have any other recommended reading spots?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I do not.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Giving a library patron such a terse and exact answer--that really is so like Melilot."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Taking a book that piques your interest at the moment, bringing it to a place you like, and opening it--that is the right answer.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, where would be good, I wonder...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you come here to read too, Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Something like that... I am not turning pages, though it is for contemplation that leads to reading...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To me, this is the center of the world. From here, I can look out over everything...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In this world, there are so many books that one could never finish reading them all, even if it took a lifetime.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even so, I would like to try reading it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Perhaps those who built that tower thought the same thing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I-It's too difficult, so I don't really get what she's talking about."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you don't mind my personal recommendation rather than one as a librarian, I can tell you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please, tell me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Anywhere outdoors is fine. Just one thing...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Try reading your book while lying down. Just doing that will change your impression of it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so? I'll try it right away.」"
+  },
+  {
+    "message": "I take a few steps through the grass and lie down on my back."
+  },
+  {
+    "message": "Instantly, the way the scenery looked changed."
+  },
+  {
+    "message": "The various colors I had been seeing until then receded, and white clouds and blue sky spread across my entire field of vision."
+  },
+  {
+    "message": "With the scent of earth and grass rising from beneath my back, I gradually feel at peace."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Even though I came here wanting to read, I end up staying still like this for a while."
+  },
+  {
+    "message": "Before long, the rustling of branches and leaves at the edge of the woods a short distance away. I become able to hear the sound of the tide from the pier far in the distance."
+  },
+  {
+    "message": "Then, gradually, the illusion that my own body is shrinking."
+  },
+  {
+    "message": "In inverse proportion to that, I feel as though Finis Tower is coming closer and closer toward me."
+  },
+  {
+    "message": "Even though it ought to be cold with winter approaching, the sensation coming through my back is somehow warm."
+  },
+  {
+    "name": "Synn",
+    "message": "「Nodding off... zzz, zzz, zzz」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe」"
+  }
+]

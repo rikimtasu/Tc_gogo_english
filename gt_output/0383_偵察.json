@@ -1,0 +1,687 @@
+[
+  {
+    "message": "偵察"
+  },
+  {
+    "name": "Azel",
+    "message": "「Kanji isn't important in life」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, not being able to read kanji is gonna cause problems in life. Probably」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There are just few kanji I can read」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey there!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, Nanaka? What'd you come here for?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'What' is rude! I came here to study too, ya know!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...There's no ramen for you. No Leica either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ramen? Leica?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, ahem. What part are you having trouble with, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All of it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Saying it that cheerfully doesn't really help me out」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So let me join in too\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not giving you any ramen」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You baited him with stuff?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't make it sound so shady. I just racked my brains trying to figure out how to get Azel to take the test」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So you baited him with stuff」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do you study for tests without a goal like ramen?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Calling it a 'goal', seriously...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Irrational」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew... I really studied today!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're supposed to study every day. Besides, all you did was copy my notes the whole time. While chattering nonstop, too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Copying helps me remember it better, see」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not something I want to hear from Nanaka, who always gets by with copying...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahh, even so, Synn, you're having a rough time, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... don't remind me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Fwaaah. This is boring as hell. Let's ditch this stuff and go raise a ruckus」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like shouting at the sunset? Because that won't cost any money」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Forgot there was such a thing as the economy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, Azel, this is seriously bad. You can't read kanji at all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I can read ten percent」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. No wonder Synn felt like making you study even if he had to bribe you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This world is going to end anyway」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see! Why didn't I think of that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Someday, sure. Just not before the test」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh, what a harsh reality」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Perishing would be harsher」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It will not perish. It will end」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Either way, it's the same thing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Guess it's not really a romantic vibe after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? What's wrong, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nothing at all! Well, I've gotta go help out at the shop!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See ya tomorrow!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Nanaka... she left」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Where is Yugiri-san?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She just headed home」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems a cup of tea has gone to waste」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll drink it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, what did that guy even come here for? Did he just take a photo, chat, and leave?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Illogical」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, I see」"
+  },
+  {
+    "message": "For some reason, Melilot looked at us as she poured tea into a teacup."
+  },
+  {
+    "name": "Melilot",
+    "message": "「So that's how it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Matters like this are often clearer to those not directly involved」"
+  },
+  {
+    "message": "Behind Azel and me as we walked side by side, long, faint shadows cast by the winter sunset."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. You look like you'll be fine with math, right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is still room for improvement」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't just keep focusing on your best subjects like that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not do it because I am good at it. I do it because there is room for improvement」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you get a failing grade in Japanese, they won't let you borrow the Leica」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Come to think of it. She hasn't been brushing me off lately even when I say I'll walk her home."
+  },
+  {
+    "name": "Azel",
+    "message": "「What would you have me do?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't study math anymore at all. Instead, focus on Japanese」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Japanese is merely one of countless languages」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, well, the tests are written in that Japanese」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And for Japanese, we'll only study just enough to avoid failing. As long as you can handle the multiple-choice questions and kanji dictation, you should be able to reach that level. Probably」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Abandon the rest? Is that acceptable?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not great, but we don't have enough time left to aim any higher than that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Logical.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For science, memorize every chemical formula in the test scope by rote. For English, memorize the vocabulary in the test scope the same way. Skip all applied problems in every subject except math.」"
+  },
+  {
+    "message": "Fortunately, Azel has a good memory."
+  },
+  {
+    "name": "Azel",
+    "message": "「Rational.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's really no other way.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Before I knew it, Azel was staring intently at my face."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Will you be alright?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Teaching others is a good way to study, you know.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do you lose anything if I can't borrow the Leica?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe because I want to see you completely absorbed in that Leica?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And what will you do once you see that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing at all. I just want to see it.」"
+  },
+  {
+    "message": "Azel, absorbed in a Leica like a child."
+  },
+  {
+    "message": "An Azel unimaginable from when we first met."
+  },
+  {
+    "message": "I can't wait to see it."
+  },
+  {
+    "name": "Azel",
+    "message": "「That's all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's just how it is. Reasons for helping someone out, I mean.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Irrational.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe so.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's dark, isn't it. Looks just like the kind of place ghosts would come out.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「True. Though what comes out here would probably be Demons.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, when it's this dark...」"
+  },
+  {
+    "name": "Lolotte & Misa",
+    "message": "「Fwaaaah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san! Sakura-kun! Yawning in the middle of patrol--you're slacking off!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry……」"
+  },
+  {
+    "message": "I see. I didn't think I yawned, so I must have done it unconsciously."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There were indeed two yawns, though you have the pairing wrong. That was just myself and the Vice President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I didn't yawn!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. Exams are a week away, so why don't we take a break from patrolling as well?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can't really do that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, we haven't run into any demons since our fight with Pasta-san.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think they stopped causing trouble?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am certain of it. A student's primary duty is to study, so let's head back right now――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How do you jump to such a carefree conclusion just because we haven't encountered them for a mere three days?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's either pure coincidence or they're lying low after taking heavy losses--something like that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Vice President lacks the capacity to trust people.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「They're not people, they're demons!」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「What are you all doing?」"
+  },
+  {
+    "message": "Illuminated by the lights lining the path was Ms. Sengenin."
+  },
+  {
+    "name": "Synn",
+    "message": "「Good evening.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Are you still continuing your patrol to look for suspicious individuals?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「……Enough is enough--stop playing around. I'm busy preparing for exams too, so don't give me any extra trouble.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We're not playing around! This is the Student Council's」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「It's playing around. How do untrained students like you expect to catch a suspicious person? Are you planning to transform like some superhero?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「H-How did you kn――mghhh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, with this many of us, I think any suspicious person would run away.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「And do you have any guarantee they'll run?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「You'd better not get carried away playing hero without even knowing your opponent's strength, or you'll end up getting hurt」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're not playing hero--」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Besides, it's exam period right now. If you're students, you should be studying. Or are you just that confident?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course!　I'll easily avoid failing」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I look forward to seeing your grades」"
+  },
+  {
+    "message": "With that, Ms. Sengenin walked away, her steady footsteps echoing."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That teacher. I dislike her even more now」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was tempted to transform right in front of her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, to someone who doesn't know about the Crusaders, maybe that's just how it looks」"
+  },
+  {
+    "message": "Even so, what was Ms. Sengenin herself doing out here?"
+  },
+  {
+    "message": "Could she be on night duty making rounds...?"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I won't make a move right away. Are you worried about them?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Oh, really?　Haven't you grown quite attached to them?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The Lord's will is absolute」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Then, is it atonement?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Atonement?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Atonement for destroying this world」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is neither sin nor punishment. Everything is as the Lord wills」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What an admirable zealot you are. However--」"
+  },
+  {
+    "message": "Soltia pointed at the digital camera hanging around Azel's neck."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Why are you keeping a record of a world fated to perish?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「To kill time」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「If the world you've come to love is doomed to be destroyed, you want to at least leave behind a record of it--isn't it a sentimental motive like that?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ridiculous!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Yes, it really is absurd. After all, we are going to disappear too. And of course, so will the records you've been so diligently hoarding」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...That's why it's just killing time」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Shall we leave it at that, then?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do whatever you want」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Thinking rationally, there's no way you would ever consider something like that, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Because you know as well as I do that this world isn't being destroyed--it's merely being recreated」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Is it here?!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Is this Ryuusei Academy?!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Or is it over here?!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「If it's come to this, I'll have to ask my beloved Pasta-chan where it is!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Blocked?! What the heck!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「What are you doing, Ardin?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Huh? Oh, it's just you, pretty boy. Why'd you come over to me?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Self-conscious as ever, I see. I simply happened to notice an acquaintance making a scene」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Who cares about that! Where the hell is Ryuusei Academy?!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「It's over that way. Just follow this street--」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Thanks a bunch!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「...That alone won't be enough for him to find it, though」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Besides, even if he does make it there, it won't be open at this hour...」"
+  }
+]

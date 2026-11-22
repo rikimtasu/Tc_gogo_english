@@ -1,0 +1,1166 @@
+[
+  {
+    "message": "流星学園屋台村"
+  },
+  {
+    "name": "Synn",
+    "message": "「Going on breaaak」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, Lord Synn. Thank you for your hard work」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there. Taking a break too, Shio-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As I have been swept up in the fervor of the festival, I have no need of rest」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what are you doing?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Surveillance... or something to that effect, I suppose. Whenever I spot an insolent rogue, it's instant slash-and-destroy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't push yourself too hard and make sure you get proper rest」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am deeply grateful for your thoughtfulness」"
+  },
+  {
+    "message": "Well, there don't seem to be any troublemakers around, so I suppose this counts as a decent break in its own right."
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Lolotte also headed off to rest just a short while ago」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, is that right」"
+  },
+  {
+    "name": "Shio",
+    "message": "「She was walking alongside a rather tall gentleman」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, could that be Mr. Riesling?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn! Are you acquainted with that honorable lady!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, yeah. Just a little」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Not a single opening to be found--truly what one would call a master. She was a most splendid lady……\\s04」"
+  },
+  {
+    "message": "No wonder, considering she shares blood with her cousin Misa."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh…… That's Tontoro」"
+  },
+  {
+    "message": "A familiar pig was sitting squarely atop a folding chair."
+  },
+  {
+    "name": "Synn",
+    "message": "「Leaving a piggy bank in a place like this……」"
+  },
+  {
+    "message": "At this rate, someone like Sally might……"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aah, I'm beat. Ups-a――」"
+  },
+  {
+    "name": "Sally",
+    "message": "「SHOOOCK!!」"
+  },
+  {
+    "message": "And plop right down on it, saying something like that."
+  },
+  {
+    "message": "Let's move it somewhere safe so it doesn't get broken."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, it's heavy……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Just as expected of Lord Synn. Swiping all that cash just like that is pretty wicked」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To be blinded by greed for money is an act of folly unworthy of the head of the Student Council. Allow me to beat that rotten nature out of you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a huge misunderstanding!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yet Sir Paqy says so right here, does he not!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... That's right」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A specter...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Non, non, it's the cute little Blackuma-cha~n\\s04」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To deceive me is utter cowardice!! Know shame, for I shall bring you to justice!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aren't you Hisu's cousin or something!?」"
+  },
+  {
+    "message": "Besides, that character isn't even Blackuma."
+  },
+  {
+    "name": "Shio",
+    "message": "「Become a swift sacrifice to my halberd!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Eeeeeek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa! That was close」"
+  },
+  {
+    "message": "I need to take Tontoro somewhere safe as soon as possible."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Lolotte!! Just in time--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why do you have Tontoro!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "message": "D-Don't tell me they mistook me for a thief!?"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ugh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gya!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「L-Lord Synn……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, are you okay!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Thud」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not even twitching... Miss Riesling, what have you done...!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I avoided their vital spots」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I meant--」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It's merely a tranquilizer gun, so please rest assured」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Snooze... snooze...」"
+  },
+  {
+    "message": "Paqy is sleeping way too soundly."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Why would you do this?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Because securing Tontoro's safety was my top priority」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I see\\s02」"
+  },
+  {
+    "message": "For something so prioritized, I feel like it gets broken pretty often."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Honestly, Gramps, that was so sudden. It's no wonder Mr. President was startled.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Better safe than sorry. An eye for an eye. A tooth for a tooth.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I could've sworn I was the one being targeted」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Were you contemplating something worthy of being targeted?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's not what I meant...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's quite alright, Gramps. Mr. President wouldn't do something like steal Tontoro.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「To think you weren't merely planning to break it, but to steal it outright...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, it's a misunderstanding!! Look, here!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you so much~~\\s04」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Mission complete. My gratitude for your cooperation.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After all, we can't go shopping without this」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Shall we be off, then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have a good ti~me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my? Are you all by yourself, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah, hitting me where it hurts……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, come enjoy yourself with us!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, are you sure……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll be much more fun that way, won't it? Right, Jeeves」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It may increase our chances of surviving on the battlefield」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is that supposed to mean?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. He's just embarrassed, I'm sure」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Are you really sure?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes!! Now then, let's get going right away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? Ah!? Aaaah!!」"
+  },
+  {
+    "message": "Grabbing my hand, off we went."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on! Don't fall behind, Jeeves」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Understood, Milady」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry to keep you waiting\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We've been waiting--\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for letting you treat me like this……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't worry about it. You're the Student Council President, after all, right~\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right~\\s04」"
+  },
+  {
+    "message": "Lolotte is totally into it."
+  },
+  {
+    "message": "And no wonder. Right in front of her is the Wagashi Club's special mochi-filled dorayaki topped with vanilla ice cream."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, don't mind if I do~~」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... is it not to your liking?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Geez... Jeeves, are you still hung up on that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did something happen?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Earlier, when I was about to eat a cake someone gave us as a gift--」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「There is a possibility it has been poisoned. Allow me, Riesling Toyama, to verify its safety first.」"
+  },
+  {
+    "message": "I see, so it was part of his duties as a bodyguard."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He used that as an excuse and ate my whole portion!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I felt a chill down my spine at the sight of Milady back then.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you got scolded...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I had not the faintest idea there was only one. There is no excuse I can offer.」"
+  },
+  {
+    "message": "They say grudges over food are terrifying, though I can see Riesling-san has his own share of hardships."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even without saying all that, I was planning to share it half-and-half from the start. And yet Jeeves just... *nom, nom*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha...\\s02」"
+  },
+  {
+    "message": "You have my deepest sympathies."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Much obliged.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You heard me!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, come on! If you don't eat it soon, the ice cream is going to melt.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Then, I shall partake.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How is it, Jeeves?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It is most delicious.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Every single Japanese sweet Senpai-san picks out is a winner, after all.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It is wonderful to see that Milady is experiencing all sorts of new things as well.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're one to talk, Jiiya. Even if you are a butler, you can't just go around fighting evil organizations and wild beasts all the time.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "message": "The fact that she didn't deny it means she actually does that?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You may be a butler, Jiiya, but before all else, you're still my Jiiya.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here you go, Jiiya. Say ahh♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "message": "Isn't asking Riesling-san to do that setting the bar way too high!?"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Ahh.」"
+  },
+  {
+    "message": "She pulled it off without a second thought."
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is it good?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「*Nod*...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm glad♪」"
+  },
+  {
+    "message": "Maybe there's a bond between Lolotte and Riesling-san that someone like me could never possibly fathom."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Lolotte. Don't you think Riesling-san would be great at something like that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Something like that... What do you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The shooting gallery.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That sounds like so much fun!! Let's do it, President!!」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hey there, step right up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We came to play, Tame-san.」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「100 yen a go for 10 shots. Step right up and try your luck!!」"
+  },
+  {
+    "message": "The targets are nothing but junk that practically makes you swallow hard just looking at them."
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaalright. So, first you aim at the target like this...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh! You hit it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah, it didn't fall after all...!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't get the prize unless it falls?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... Well, it's pretty heavy, so it can't be helped.」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hahaha, thanks for your business~」"
+  },
+  {
+    "message": "That's Tame-san's prized Autonomous Round Mailbox Ex-Unlimited. It's the kind of thing you'd never get your hands on outside an occasion like this."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That looks like a lot of fun~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, it's your turn next, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Okay~♪」"
+  },
+  {
+    "message": "Imitating me, she casually aims at the target, but--"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I missed~~\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Too bad, that was close!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Next is your turn, Grandpa」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My apologies, but I cannot bring myself to shoot something harmless and defenseless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get the feeling you shoot at me plenty often though……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, please teach me how to do it properly」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Understood」"
+  },
+  {
+    "message": "Riesling-san stepped behind Lolotte."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please hold the sniper rifle like so to ready your stance. Then, align these sights with the target」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oooh. So this is how you look through it~~」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Tuck your elbows in to keep the axis steady when firing. Now, please pull the trigger」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Take this!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oooo! I hit it----!」"
+  },
+  {
+    "message": "However, the target doesn't budge an inch."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Splendid work, Milady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you. It's all thanks to you though, Grandpa\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it won't go down, huh…… that Autonomous Round Mailbox Ex-Unlimited」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Muu~~. Isn't there some good trick to this~~」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hahaha, it just means you oughta give up and aim for something else」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If I did that, it would feel like losing. I simply cannot give up on this!!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Defeat does not suit you, My Lady. Come, let us try once more together」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I believe in you, Jiiya」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave it to me, Riesling Tooyama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can do it, you two!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now, My Lady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hah!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Let us fire in rapid succession without a moment's pause」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "message": "Countless impacts pummel the giant round mailbox. Those blows throw off its center of gravity."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Let us sink it with one final strike」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes!」"
+  },
+  {
+    "message": "Unable to withstand the impacts and its own weight, the Autonomous Round Mailbox Ex-Unlimited topples onto its side."
+  },
+  {
+    "message": "It keeps rolling and tumbling along--"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Waaaah!!」"
+  },
+  {
+    "message": "That sets off a chain reaction, knocking down everything stacked on the stand."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Mission complete」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amazing... Did we just win everything?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hooray! We did it!」"
+  },
+  {
+    "message": "I take Lolotte's hands, sharing in the joy."
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Grrr! Take 'em and scram, you thieves!!」"
+  },
+  {
+    "message": "In the end, we decided to take just enough for the three of us."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That was impressive as always, Jiiya」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...Thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah, really. Thank you both so much」"
+  },
+  {
+    "message": "I finally got my hands on the Autonomous Round Mailbox Ex-Unlimited I'd been dying for!"
+  },
+  {
+    "message": "Incidentally, Lolotte got a metronome, and Riesling received a barbed-wire necklace. Though of course, she wasn't wearing it."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What do you think of the Sparkle Festival?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Being treated to delicious food and even receiving such a wonderful gift... It truly is a splendid event, My Lady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ufufu. If you think so, Jiiya, then it's a huge success\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. I'm glad to hear that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Being able to spend every day so happily like this is all thanks to you, President」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady is delighted as well. Allow me to offer my words of gratitude」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, I haven't really done anything. I just wanted to have a sparkling school life together with everyone……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Coming to this academy and joining the Student Council. At first, my heart was pounding wondering how things would turn out, but it's been nothing but exciting things one after another, so I'm truly happy」"
+  },
+  {
+    "message": "Lolotte's eyes are sparkling."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If only that girl were here with us too……」"
+  },
+  {
+    "message": "A shadow fell over those once-shining eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was just remembering a dear friend back in my hometown」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A friend……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. By all rights, she was supposed to be here at Ryuusei Academy, enjoying our time together. And yet……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where is that friend right now?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right now, surely……」"
+  },
+  {
+    "message": "With lonely eyes, Lolotte looked up at the sky."
+  },
+  {
+    "message": "Could that friend be far beyond the distant sky, somewhere out of reach no matter how far she stretches out her hand?"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Could that friend be an angel?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If only I had been able to convey how fun this is…… I'm sure she would have understood too……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte…… What on earth happened?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's alright. After all, it's something that's already in the past……」"
+  },
+  {
+    "message": "Why is she biting her lip while stringing together words that sound like she's given up?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sorry. I went and ruined the wonderful mood we had」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no……」"
+  },
+  {
+    "message": "Even Lolotte, who's always endlessly cheerful, makes an expression like that sometimes."
+  },
+  {
+    "message": "I wish there were something I could do for her, but…… right now, it'd probably just be unwanted meddling."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady. Where might you be taking us next?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh right, that's right!　Leave everything to me today--ta-da!」"
+  },
+  {
+    "message": "Lolotte puffs out her chest."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, Mr. President! Let's go with enough energy to visit every single stall!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, wh-whoa! Jeez, Lolotte, hold on!」"
+  },
+  {
+    "message": "Still, being dragged around like this is actually starting to get pretty fun."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew! My stomach is full and my heart is full of dreams～～」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We even got tons of souvenirs, didn't we\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Perks of the job, perks of the job♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady. If you need someone to carry your bags, I, Riesling Toyama, shall――」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's quite all right! You're our guest today, after all, Gramps!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady...」"
+  },
+  {
+    "message": "We all plop down heavily onto a bench."
+  },
+  {
+    "name": "Synn",
+    "message": "「Man～～ I'm totally satisfied. This is what a sparkling school life is supposed to be like after all」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The curry Jacqueline made was also supremely delicious.」"
+  },
+  {
+    "message": "Riesling seems to have caught up with an old friend for the first time in a while, and he looks really happy."
+  },
+  {
+    "message": "As for Lolotte, though……"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz…… zzz……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh my」"
+  },
+  {
+    "message": "Using Riesling's lap as a pillow, she was breathing softly in a sound sleep."
+  },
+  {
+    "name": "Synn",
+    "message": "「After running around that much, I guess it's only natural」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Unlike in the past, Milady has become very open-hearted and cheerful.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that how she used to be?」"
+  },
+  {
+    "message": "Come to think of it, she was quiet at first, so I never imagined she'd turn out to be such a lively girl."
+  },
+  {
+    "name": "Riesling",
+    "message": "「At first, she often went out all on her own, yet once she returned home, she was completely alone and looked terribly lonely.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about her parents……?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Both the Master and Mistress are well. However, both are busy with the family business, so looking after her has been left almost entirely to myself, Riesling Toyama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's how it was……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Ever since joining the Student Council, however, she talks endlessly about it even after coming home…… She truly seems to be enjoying herself.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just hope we're not ending up teaching her anything weird\\s01」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Not at all. Ever since Milady began carrying out her duties on the Student Council, she has been growing into a fine young lady day by day.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad to hear that.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Ashamed as I am to admit it, I, Riesling Tooyama, am often the one being admonished by her.」"
+  },
+  {
+    "message": "Even Riesling, who always wears a stern expression, looks at Lolotte with remarkably gentle eyes."
+  },
+  {
+    "message": "To me, Riesling seems almost like an older sister to Lolotte."
+  },
+  {
+    "name": "Synn",
+    "message": "「To you, Riesling, Lolotte must feel just like a little sister, huh?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No. If I were to compare it to my former station, I suppose I would call her my Colonel.」"
+  },
+  {
+    "message": "A superior officer, huh……."
+  },
+  {
+    "name": "Riesling",
+    "message": "「That is just how precious a master she is to me, Riesling Tooyama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the model butler, aren't you.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Not at all. After all, I was unable to wipe away Milady's loneliness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Neither a bodyguard nor a caretaker…… What Milady truly desired was――」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Perhaps fulfilling days spent alongside wonderful companions she could have fun with――true friends.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Friends, huh……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Words cannot express my gratitude to everyone on the Student Council.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no! We're the ones relying on all of Lolotte's hard work, and it's fun having her around……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now, if only the friend Milady speaks of were by her side……」"
+  },
+  {
+    "message": "Knowing Lolotte, she probably wants to share this fun, sparkling academy life with that friend too."
+  },
+  {
+    "message": "And if a close friend like that were here with her, things would get even more fun."
+  },
+  {
+    "message": "Still, it doesn't seem like something Riesling or I can solve just by stepping in ourselves."
+  },
+  {
+    "message": "I want to help however I can. Because Lolotte's smile is what gives all of us energy, too."
+  },
+  {
+    "name": "Riesling",
+    "message": "「My apologies. I ended up doing all the talking myself.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all. I enjoyed getting to talk with you too, Riesling.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You are too kind. It seems our break time is nearly over, however……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh! Shoot!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady, it is time.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz... Seconds, please...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It appears she is quite exhausted.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Well, can't be helped then.」"
+  },
+  {
+    "message": "I hoist Lolotte up by her shoulders and smoothly shift her onto my back for a piggyback ride."
+  },
+  {
+    "name": "Riesling",
+    "message": "「If you need someone to escort the young lady, please leave it to me, Riesling Tooyama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte said you're a guest today, didn't she, Riesling-san?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I'll head back to my post. I'm sure there's still plenty to see, so please go enjoy yourself.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Much obliged.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's go, Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mumble, mumble... Jackpot~~」"
+  },
+  {
+    "message": "And so, with Riesling-san seeing us off, Lolotte and I headed back to the headquarters where our fellow Student Council members were waiting."
+  }
+]

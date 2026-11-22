@@ -1,0 +1,544 @@
+[
+  {
+    "message": "Ｈ・Ｅ・Ｒ・Ｏ！"
+  },
+  {
+    "message": "Cooking the food to serve the guests and participants has finally calmed down a bit."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? It's about to start, so where did Lolotte run off to?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... What an idiot, right when it's finally time to sneak some snacks.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, knock it off!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Preside~~nt!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, there you are. You scared me, disappearing all of a sudden like that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The real surprise is still coming, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!! Why are you transformed!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're just noticing now? Come on, we're short on time, so please transform already.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm asking why!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just hurry up and do it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Stop i~~t!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huff, huff... So, what are we gonna do...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In order to hype up the stage, we must do something hype-worthy. And so!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Starting right now, we're putting on a fun and exciting hero sho~~w!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I properly got permission to use the stage, you know. The scheduling is super-duper locked in too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When did you do that!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I decided on it just a moment ago.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Talk about last-minute...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A hero show? What do I look like, a brat?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't go throwing a selfish tantrum when you can't even draw a crowd.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I ain't some sideshow attraction!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on now, everyone is waiting.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shiiin!! Over here, over here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh. Even Nanaka transformed.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because after all, I'm playing the idol--I mean, the hero!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka's a herooo!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't let your voice crack!! Got a problem with it being me?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Treasurer and I are forming a unit to perform 'Futari wa Kuru-Kuru.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What does 'Kuru-Kuru' even stand for?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Cool Crusaders,' of course.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka's coool!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Only me?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't there five Crusaders?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then that would make it 'Kuru-Kuru Five,' wouldn't it!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「More importantly, we're short-staffed, so that's rejected.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are the others doing?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Hiii, everyone! Hello!! Huuh? I can't hear you, one more time! Yeah, yeah, everyone's full of energy today~~♪'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She kinda just looks like her usual self, though.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She is everyone's 'Big Sister,' an indispensable role for any hero show.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu, 'Big Sister,' she says\\s04」"
+  },
+  {
+    "message": "Still, this upperclassman is really getting into it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Then all that's left is...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kumaa.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is Misa... I mean, Blackuma doing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As for Blackuma, she is a foot soldier.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kumaa.」"
+  },
+  {
+    "message": "I can't see her expression, but she's radiating an aura of pure negativity."
+  },
+  {
+    "name": "Synn",
+    "message": "「How did she end up like that...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because I can't serve as a hero looking like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't just accept that!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And finally, the president.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thump-thump……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, I will have you become the evil Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...? D-Demon Lord, whaaaat!?」"
+  },
+  {
+    "message": "N-no way... Could it be that Lolotte realized I'm the Demon Lord and is doing this...!?"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you're a bad Demon King, I'll have to punish you good and proper\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Even you, Ria-senpai...!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's quite alright, President. It was only decided by process of elimination」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so? Good things come to those who take the leftovers, hm?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll apologize in advance. Sorry if I hurt you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's what it is!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here is the script.」"
+  },
+  {
+    "message": "I skim through it and drill it into my head. The Demon Lord is a classic, hammy villain laid on thick."
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, you already memorized yours?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I only have one line...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, here's the synopsis. First, there were two close girls.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's who we are--the duo, Kurukuru!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That girl ends up falling in love with the same boy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ba-dump」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, that Demon Lord was terribly wicked, and not only deceived the two of them, but even used them.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, you're the worst」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though it wasn't me\\s06」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Realizing this, the two mend their friendship and defeat the evil Demon Lord」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Where is Misa-chan's turn?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's the role of getting caught up in the explosion there」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's guaranteed to be a tearjerker of a story. Alright, shall we go all out with a bang!!」"
+  },
+  {
+    "message": "The main event begins without even a moment to refuse."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can't forgive taking advantage of a maiden's heart」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But if you think something like that can ruin our friendship, you're dead wrong」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wisdom... Power... Courage... What good is any of it? What lies beyond them?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with the high-and-mighty attitude? Even though all you ever say is 'delicious'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Always brewing nothing but weak, over-steeped tea--such endless villainy. I simply cannot let this slide!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hrmmm... Even things that have nothing to do with the Demon King...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fahahaha. Just watch. I'll destroy everything in this world!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I will never let that happen!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「On our name!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's go, Kurukuru Cyan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here we go, Kurukuru Pink」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hurry up」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To the Demon World」"
+  },
+  {
+    "name": "Nanaka & Lolotte",
+    "message": "「Welcome home!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on, everyone in the audience, cheer those two on!! Lend them your strength!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Go, Nana-chan! Don't lose」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave the rear support to me, Riesling Toyama」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can hear everyone's voices...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I can hear their voices roaring and crying out to defeat evil!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Utterly pointless!! And utterly reckless!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Power is surging through me more and more. Everyone is lending us their strength!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fwahahaha. Such things will never work on me, the Demon King--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey...! That was a false start, wasn't it!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Striking first is the key to victory!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you ready for this?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The two of us are in Kuru-Kuru Serious Moooode!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Impossible--!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now!!」"
+  },
+  {
+    "name": "Lolotte & Nanaka",
+    "message": "「Goooo!! Kuru-Kuru Powerful Dynamic Special Gorgeous Sparkle Attaaack!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Beeeear!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gwaaaaaah!!」"
+  },
+  {
+    "name": "Lolotte & Nanaka",
+    "message": "「This is the power of dreaming maidens」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... Uboaaaargh!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And so, the peace of the world was protected♪ Everyone~, thank you for cheering us on~!! Please keep having lots and lo~ts of fun at the Meteor Sparkle Festival!!」"
+  },
+  {
+    "message": "The hero show came to a close amid thunderous applause."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone! Great work out there!!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Great work~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Things really do work out somehow--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm just so glad nobody got hurt.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the crowd was super hyped, too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-um. Don't sweat it!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nngh--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But thanks to that, look!! So many customers have gathered in the courtyard」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, yeah. A huge success, isn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you all very much for your cooperation\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hehehe... Now then, I suppose I'll return to my post」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Before that, I'll hand out the next script」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In the afternoon, we'll be performing 'Futari wa Kurukuru Massive Heart,' so I'm counting on everyone's best effort」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "message": "Even in the new installment, the cast hadn't changed one bit."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Make sure you memorize it thoroughly, okay?\\s04」"
+  },
+  {
+    "message": "And once again, it ended with an explosion punchline."
+  }
+]

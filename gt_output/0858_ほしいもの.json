@@ -1,0 +1,640 @@
+[
+  {
+    "message": "ほしいもの"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-um, hey, Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, look, the weather's great again today, huh~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it is~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's totally cold, though!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-stuff like that's nothing if you've got enough spirit!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Sis Nana's always all fired up, after all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm complimenting you for being warm!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, really? Well, that's fine then」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's totally playing into her hands...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Here, squeeze hands!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahaha, knock it off already」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother too, squeeze!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mgh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your hands are cold, Macaron. Do you have poor circulation?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Poor circulation? Does that happen when it's cold?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm~, probably」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I don't really get it, but then it's that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aren't they just cold from the weather...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Makes you want some gloves or something」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm fine! See, if I pull my hands inside like this, it's warm」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh-ho」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Synn, do you want gloves or anything?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Well, I could just knit some myself, I guess」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, you know how to knit?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「More or less, about as well as the average person」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whoa! Then let's knit together sometime!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, sounds good」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll show you how much better I am at it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, I'll take notes from you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nngh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What about other stuff? Isn't there anything else you want?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, even if you ask me out of the blue...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's gotta be something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you suddenly asking me that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Ah, no, well, ummm...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn, Soba's tryin' to fish for info on somethin'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「G-Gah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no way Nanaka would do something that roundabout」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah, ugh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What are you gonna do after asking what Big Brother wants?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-wh-what are you talking about!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whatever Synn wants has nothing to do with me!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, Big Brother. Is there anything you want right now?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aah, hey!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hm? Big Sis Nana, why are you panicking?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--!? ...I-I'm not panicking at all!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi~ Are you suuure~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Geez, don't tease your elders」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Owww~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, violence isn't good」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm telling you, it's just showing affection」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, age has nothing to do with it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, you're basically our little sister, Mako」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I am?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe so」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, I am the Demon Lord, you know! Don't forget that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, sure」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「More importantly, come on, if we don't hurry we're gonna be late」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, wait up, Nanaka」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Something Big Brother wants, huh...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, hey, Nana--」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Did you manage to ask Synn what he wants for his birthday--?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh... Well, you know, we're getting there, sort of, kind of...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aah, so you couldn't do it--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I'm about to, okay, I'm about to!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Then why don't you just go ahead and ask him right now--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Daaah, no way, no way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did something happen with you two?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh!? Ah, it's nothing, nothing at all!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah, it's nothing~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「D-Do you think he got suspicious……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Suspicious about what?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Dwah!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yoohoo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Macaron. How's the part-time job going?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yep. Totally, completely problem-free~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, glad to hear it, glad to hear it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So, what were Big Sis Nana and Big Sis Sacchin whispering about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We weren't whispering!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, we weren't」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Could it be a continuation of this morning's talk?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, no! It has nothing to do with that at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This morning's talk...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't need to hear anything about it, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Waaah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The talk about poor circulation」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah... y-yeah, that's right!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Actually, Sacchin's been having trouble with cold sensitivity!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Eh~? I don't get cold easily~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just go with it!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah, I totally get cold easily~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so? Sounds rough.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Sacchin-oneechan, you should follow my example and dress warmer too!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Y-Yeah~, I will~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, there's the warning bell. Should we head back to the classroom soon?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, let's...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See you after school then, Macaron.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's not like I'm gonna wait around for you or anything, Onii-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How cold.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Only if I feel like it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, since you went through the trouble of joining the Student Council~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What is it...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You've gotta make use of that advantage~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You could at least casually ask what he wants for his birthday present, right~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If it were that easy, I wouldn't be struggling.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Even though you're childhood friends~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka~, Sacchin~, I'm heading ahead~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aah, coming!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「See ya~, Macaron-chan~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, see you later!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A birthday... I wonder whose it is...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, what are you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I'm studying for a test. I have one coming up soon」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A test?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's basically a way to put your daily hard work to the test」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm, I see. You guys have it tough with your lessons too, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What was the school you went to in the Demon World like, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I didn't go to any school」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, then...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Private tutors used to come to the castle for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aha, got it. Spoken like a true princess」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, don't say that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「They aren't really happy memories...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Back then, I thought it was just normal, though...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「In the end, Mama and Papa were just forcing it all on me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You might feel that way now, but I'm sure it'll come in handy someday」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You think so...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, I'm only able to live like I do now thanks to everything Mom and Dad taught me」"
+  },
+  {
+    "message": "Mostly life skills, anyway."
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Sounds like you have a really nice Mama and Papa」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Though sometimes they're a little too lovey-dovey for my own good」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nuh-uh, it's nothing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「More importantly, come on, you have to study properly, okay」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, thanks」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Panda-chan, go over there so you don't get in the way, okay?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm not gonna do anything anyway」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just go」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh, this goes like this, and……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is something up with Lord Synn?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, Panda-chan. Is big brother's birthday coming up soon?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh? How does a shrimp like you know about that?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nuh-uh, no reason」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……?」"
+  }
+]

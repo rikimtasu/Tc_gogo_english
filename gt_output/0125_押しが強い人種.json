@@ -1,0 +1,553 @@
+[
+  {
+    "message": "押しが強い人種"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okay, approved!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, since things are mostly settled, let's head over to Helena-san's……」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Ee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, chocolate」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Ee!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No fair, Jangara. I want chocolate too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then you help out with something too」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I won't help, I just want chocolate, gimme gimme!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Tagalong-san. He who does not work--or monkey around--shall not eat」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I wanna eat even if I don't work!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then I'll give you this kashiwa mochi」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, wait, since monkeys don't work, wouldn't everyone starve to death? That's a rather strange proverb, isn't it」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Big trouble, big trouble, biiig trouble」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Takahashi-san! Running in the hallway is----」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Don't sweat the small stuff like that. Synn-kun, it's big trouble!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get that it's big trouble, so」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm sure it's no big deal」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Listen, listen. Ryo-chan collapsed with the mumps」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? I knew she left early, but……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ryo-chan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Otomo Ryoko. Our class's Kirafes executive committee member」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She hadn't gotten the mumps until this age…… That's rough」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She said she felt feverish, so she stopped by the doctor on the way home and got that diagnosis~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...So she can't make it on the day of?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nope, she can't~ Ahh, now I'm the only executive committee member left, I'm gonna be swamped~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To think the less competent one is the one left behind...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even a withered tree adds to the liveliness of the mountain, as they say」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're always casually harsh, aren't you」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「What's with those eyes looking at me like I'm some pitiful kid!? My feelings are hurt~ Hmph!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe we can find a replacement... no, that's probably impossible」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Me, me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I doubt we can」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Plenty of kids are willing to just help out, sure, but being on the executive committee comes with a lot of responsibility. There's a ton to do on the actual day, too」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I don't really get what's going on, but I'll help!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It is precisely because there is responsibility that one should take the initiative and step up!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's impossible to expect that from everyone」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Am I being ignored here!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because you're just an extra, after all」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gasp」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, that means we can at least find someone to cover her prep work up until the day before, right? What was Otomo-san doing? Huh, where'd Sacchin go?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Did she run away?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why is she only fast when it comes to stuff like this...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well, I mean, I don't wanna do anything tiring either, you know」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Otomo-san's duties up through the day before were setting up the reception desk and decorating the main gate. It's pretty heavy labor」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then it's gonna be rough if we don't find a fill-in」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san, sorry to trouble you, but could I ask for your help again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Again?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We have someone acting as a rover for us」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on, let me ask」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, Yumil. How are things on your end? Good, good, going smoothly? Dependable as ever, I see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, sorry to bother you, but could you help set up the reception desk and decorate the main gate? Yeah, yeah. Of course I haven't forgotten, see you later」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She says okay」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Congrats! Guess I didn't even need to sortie!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why not just have her become an executive committee member」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She says she'd never do it because she wouldn't get to eat sweets on the day of the event」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Sigh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nuh-uh. Sighing won't move things forward, you know~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True... Otomo-san probably won't be able to make it on the day. Do you know anyone, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hehehe. I figured you'd ask that, so I secretly did some research beforehand」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Skip the preamble」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Treasurer-san. You're jealous of my competence, aren't you. Too bad, though. I won't hand over my position as secretary!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Otomo-san is in charge of records」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aah. That's my line!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Records, huh... Wouldn't that be fine then? The photography club is already documenting things on their own, and there are two other people on records」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why were there three people on records in the first place」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come to think of it, why? It's always been like that, so I never really thought about it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't it because the Student Council has three digital cameras as equipment?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm pretty sure you've got that backwards」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I caught one for you~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「He was just wandering around, so I went 'heave-ho!' Praise me, praise me~」"
+  },
+  {
+    "message": "So Azel is weak against pushy people who go at their own pace, huh."
+  },
+  {
+    "message": "Sacchin doesn't listen to what people say without batting an eye, after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. Could you serve on the executive committee, even if it's just on the day of KiraFes?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is an executive committee」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. Starting from the basics!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's okay if you don't understand that stuff~ Even I don't really get it~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Please understand it!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, hey. Ryo-chan is working as the caramel-man on the day of, right~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Caramel...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of shop is that」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehh~ Isn't that it~? He's not in charge of stirring caramel~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He's in charge of recording how KiraFes goes」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That just means wandering around randomly with a digicam on the day of, right~」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think... it's quite that easy\\s02」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Digi, cam...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So anyway, Azel-chan. It's a suuuper easy role, so you don't need to think too deeply about it~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's pointless」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「We just need to fill the headcount, so it's fine if you have no motivation. Even if one person doesn't do anything, someone else will cover for them somehow~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't teach him irresponsible things」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I don't care」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah. It's a super unimportant role, so you'll be fine just half-assing it. I totally guarantee it~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guarantee what, exactly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you'll take on the recorder role, I'll lend you this from today until Kirafes ends.」"
+  },
+  {
+    "message": "I placed the digital camera on top of the desk."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel's gaze stopped on the digital camera."
+  },
+  {
+    "name": "Synn",
+    "message": "「You can take pictures of whatever you like.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Take pictures...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Sakura―kun! Taking Student Council equipment without permission―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here」"
+  },
+  {
+    "message": "I held the digital camera out to Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「Give it back once Kirafes is over, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel timidly reached out his arm and took the digital camera from my hand."
+  },
+  {
+    "name": "Synn",
+    "message": "「...You can take as many pictures as you can. On the flip side, if you don't feel like taking any, you don't have to take a single one.」"
+  },
+  {
+    "name": "Misa & Nanaka",
+    "message": "「Whaaaaat?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you thinking!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I won't take any」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's fine too. Anyway, it's in your hands now. Don't lose it, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. Update the recorder spot for me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Understood.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is it really... okay no matter what I take pictures of?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Anything at all, as long as it's something you want to photograph, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not gonna take any, you hear me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's fine too.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel left the Student Council room without saying a word."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're amazing, Synn-kun~. At least on paper, we've filled the recorder spot~. Just like a government office~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not something to be impressed by... Are you sure about this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure」"
+  },
+  {
+    "name": "Misa",
+    "message": "「True... Unlike Sally-san, she doesn't seem like the type to run off with it, though」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's casually unfair! I might swap it out, but I wouldn't run off with it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed, even a withered tree adds liveliness to the mountain」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. You have some kind of plan, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not really much of a plan... I just got the feeling that Azel wanted to take photos」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's that supposed to mean!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see... Then it might just work out♪」"
+  },
+  {
+    "message": "Saying that, Ria-senpai smiled gently."
+  }
+]

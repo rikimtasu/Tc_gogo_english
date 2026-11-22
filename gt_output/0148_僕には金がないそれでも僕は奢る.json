@@ -1,0 +1,484 @@
+[
+  {
+    "message": "僕には金がないそれでも僕は奢る"
+  },
+  {
+    "message": "Even when I'm told to rest because it's a day off, I just can't seem to settle down."
+  },
+  {
+    "message": "I mean, sure. I know without Ria-senpai having to tell me that if we collapsed on the day of the event, it would cause a massive amount of trouble for everyone around us."
+  },
+  {
+    "message": "No, it's precisely because I don't truly get it that I ended up coming here like this, so Ria-senpai really is right after all."
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's right. You've still got a long way to go, Demon King.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Did I say that out loud?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Who knows? Still, I'm the Great Sage, after all. Reading the Demon King's mind is a piece of cake for me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should we grab some tea at Prier before heading back?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Now that's a wise choice. The tea's free, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's tea that isn't free, you know?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「For you, Demon King, non-free tea practically doesn't exist, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...What are you, a mysterious transfer student?」"
+  },
+  {
+    "message": "In the corner of Prier, Azel was drinking Vandine Jelly."
+  },
+  {
+    "name": "Paqy",
+    "message": "「He really doesn't eat anything else, huh.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How pitiful that he can only afford to eat something like that! He must not have any money!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, maybe he just can't eat anything else.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, he definitely has no money! Otherwise, he wouldn't be eating nothing but stuff like that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Calm down, Synn-sama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't calm down! Because that's just too awful!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Easy, easy. Being able to buy that actually makes him richer than you, Synn-sama... Well, it's probably pretty close, though.」"
+  },
+  {
+    "message": "Paqy was saying something, but I ignored him."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to treat Azel!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey. Are you serious?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With what I have right now, I can buy radish sprout ramen!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ah. That thing.」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Daikon Sprout Ramen is the cheapest menu item boasted by Ryuusei Academy's cafeteria, 'Prier'.」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「The firm, chewy noodles and slow-simmered chicken bone broth are exquisite! The toppings consist manfully of just a few daikon sprouts.」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Thank you for your kind attention.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even I can afford to treat her to that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, maybe so, but... no matter how incomprehensible that girl is, isn't Daikon Sprout Ramen a bit much? It's got practically nothing in it, ya know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It has daikon sprouts in it, doesn't it!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well... I suppose treating her to anything else is impossible for you, Synn-sama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have no money! Still, I'm going to treat her!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Listen, though. If you treat her to that, you'll be flat broke, ya know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't care!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You'll have no choice but to sit there drinking plain tea or water while watching her eat ramen, ya know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "True, that might be a little rough. However."
+  },
+  {
+    "name": "Synn",
+    "message": "「Treating someone when you're well off is easy. Treating someone when you're struggling--that's what makes someone worthy of being Student Council President, I think.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... As expected of Synn-sama. Putting on a display of self-sacrifice like that to grab that weirdo girl's heart--and her body along with it--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Garm!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because this is already decided.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Good grief... Still, shouldn't you tell her you're treating her before buying it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I did that, she might turn me down, right? Or rather, knowing Azel--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I can practically see her saying 'I don't need it' and walking off.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why it has to be a surprise attack! It's the only way!」"
+  },
+  {
+    "message": "I gently opened my trusty wallet."
+  },
+  {
+    "message": "If I pool all my loose change together--not that I have anything besides loose change--I can make it!"
+  },
+  {
+    "message": "Let's do this!"
+  },
+  {
+    "message": "Got the ramen!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah... It smells so good...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Where are the radish sprouts... One, two... Only three?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is... This is ramen! My entire fortune!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This aroma. This warmth. Right now, in my hands, I hold something more precious than the entire world combined!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, ramen... Oh, ramen...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Listen here. Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Gah, wh-what is it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you're gonna swoon over it that much, why don't you just scarf it down yourself?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-what are you saying!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Think about it. Do you really think that woman's gonna accept the ramen you offer her? She's just gonna spout 'I don't want it' or something anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "That's possible."
+  },
+  {
+    "name": "Paqy",
+    "message": "「And when that happens, you're gonna end up eating it yourself anyway, right? Or are you gonna throw it out?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「P-Paqy! What a horrifying thing to say!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then. Even if Master Synn eats it right here and now, you're just skipping a step, so it doesn't make much difference, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't give up just from getting turned down once. I'll beg her over and over until she eats it!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why are you getting so fired up over this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There are times when a man has to do what a man has to do」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even if all you've got for yourself is water?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "The hot tea dispenser was out of order."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Even if all I have for myself is water」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I get Master Synn's resolve loud and clear. I ain't gonna stop you anymore. Go ahead and see it through as far as you can」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't need you to tell me that!」"
+  },
+  {
+    "message": "I turned my gaze toward the spot where Azel had been sitting--"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's gone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If she ain't here, nothing we can do about it. Let's devour that thing ourselves before the noodles get soggy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Without a word, I walked over to the table where Azel had been sitting and gently set down the ramen and Paqy."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even if it's just radish sprouts, it looks pretty good... Wait, what're you doing, Lord Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Stroking a chair to savor the warmth left behind by the ass of the girl who was sitting in it―what a pervert―」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Shapan!」"
+  },
+  {
+    "message": "It's still faintly warm. Not much time could have passed since she left her seat."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to look for her! Paqy, keep watch so nothing happens to my ramen until Azel and I get back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Azel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel-chan!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel~! Azel~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... Azel... -tan?」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Sigh..."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Still, I mustn't lose heart!"
+  },
+  {
+    "message": "I still have my ramen!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, Mr. President. Thank you for the meal.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It would have been a waste if the noodles got soggy, so I went ahead and ate it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, that hit the spot.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was delicious. Is this what they commonly call plain ramen?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It had radish sprouts in it, radish sprouts!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I didn't notice... I'm shocked.」"
+  },
+  {
+    "message": "I peered into the bowl with 0.1 percent hope."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really mustn't do that, Mr. President. If you don't eat ramen right away, the noodles get soggy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was almost past the point of being edible. Close call, close call. That was a narrow escape.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I was keepin' a proper eye on it, ya know. Thing is, she had a point about it goin' to waste if it got soggy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It was empty. Not a single strand of noodle, not a single sprout, not even a single drop of broth remained."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Figured preventin' a tragic waste took priority over just standin' guard, so I helped myself to a share.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「With this, one's energy for tomorrow really comes surging forth」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well said, man」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "On that day, I."
+  },
+  {
+    "message": "May have come to know true nothingness and despair for the very first time."
+  }
+]

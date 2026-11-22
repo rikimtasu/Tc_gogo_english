@@ -1,0 +1,490 @@
+[
+  {
+    "message": "できること"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well then, Sakura-kun, I'm counting on you again today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「My errands look like they'll take a while this time, so I've scheduled the library to be closed tomorrow and the day after.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'll need your help again starting next week.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, please take care on your trip.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, thank you.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Sigh.」"
+  },
+  {
+    "message": "She even celebrated my birthday the other day, so I thought Melilot-san and I had gotten closer, but..."
+  },
+  {
+    "message": "Even so, she still hasn't told me the reason why she goes out."
+  },
+  {
+    "message": "Honestly, I'd be lying if I said I wasn't curious."
+  },
+  {
+    "message": "Above all, if it comes down to whether or not she trusts me, that makes it bother me even more."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is something like this really all I can help her with...」"
+  },
+  {
+    "message": "I want to be of more use to Melilot-san."
+  },
+  {
+    "message": "I want to earn the kind of trust she gives only to me."
+  },
+  {
+    "message": "And then, I want Melilot-san to tell me what she's keeping secret in her own words."
+  },
+  {
+    "message": "...Is it presumptuous of me to think like this?"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, Melilot-san trusted me enough to leave this to me, so I have to do a good job!」"
+  },
+  {
+    "message": "Even so, right now, all I can do is what's within my power."
+  },
+  {
+    "message": "The librarian, and the acting librarian."
+  },
+  {
+    "message": "Because that's the relationship between Melilot-san and me right now."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't find any information on Re-Crea...」"
+  },
+  {
+    "message": "There aren't many visitors today, so I can focus on searching through the materials."
+  },
+  {
+    "message": "Though, as usual, I still haven't found the documents I'm looking for."
+  },
+  {
+    "name": "Synn",
+    "message": "「...That's right.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe in the archive stacks or somewhere...」"
+  },
+  {
+    "message": "I've heard that old documents and valuable books are stored there."
+  },
+  {
+    "message": "Old records regarding Re-Crea might be kept in that collection too."
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Of course, even as the acting librarian, I'm still a student, so I'm prohibited from entering."
+  },
+  {
+    "message": "Still, right now, Melilot-san wouldn't be around to scold me."
+  },
+  {
+    "message": "And I have more than enough time to look for the key."
+  },
+  {
+    "message": "If I can quickly track down a lead to resolve Re-Crea, it wouldn't just be for Melilot-san's sake, it'd be for everyone's too……"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……No, I shouldn't」"
+  },
+  {
+    "message": "That only sounds like an excuse to mask my own curiosity."
+  },
+  {
+    "message": "More than anything, it would mean betraying Melilot-san's trust."
+  },
+  {
+    "message": "I just need to focus on doing what I can do……"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「……Oh, my」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Filling in for that librarian again today, I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sengenin-sensei……」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「It's not as though it'll boost your school record, either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's nothing like that」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Then perhaps it's just hypocrisy on your part as Student Council President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……What business do you have here, Sensei」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Hehe…… I was just wondering how you've been doing, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think that's any of your concern, Sensei……」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Well, isn't that harsh」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Is a teacher not allowed to worry about her student?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「If you're having trouble because the substitute duties were forced on you, you're always welcome to talk to me about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm doing this of my own free will」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Oh, is that so」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Here I was, completely convinced you were being deceived or something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Deceived…… Why would Melilot-san ever do something like that……」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「So you don't find anything strange about that librarian at all, do you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's……」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Hasn't anything ever struck you as odd?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Who that librarian really is, and what she's truly trying to do...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "I don't even need Ms. Sengenin to point it out to me."
+  },
+  {
+    "message": "It's obvious that Ms. Melilot is keeping something secret."
+  },
+  {
+    "message": "Where she goes when she heads out, her background, the hidden meaning behind her usual words and actions--there's a mountain of things I want to know."
+  },
+  {
+    "message": "But that's only because I want to be closer to her and help her out..."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Don't you want to know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「About her... There's quite a lot, isn't there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I don't want to do anything that would be a bother to Ms. Melilot.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「It's the exact opposite.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Coming to understand her will actually help her.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Help her...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Not telling you anything is her own form of kindness, trying not to cause you unnecessary trouble.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「And you're simply taking advantage of that kindness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Of course, if you say you'd rather keep things just the way they are, that's fine too.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「However, Sakura-kun.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「You want to be of help to her...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「...Am I wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I...」"
+  },
+  {
+    "message": "Why did I volunteer to be the acting librarian?"
+  },
+  {
+    "message": "Why do I want to stay by Ms. Melilot's side?"
+  },
+  {
+    "message": "Something like that doesn't even require thinking about."
+  },
+  {
+    "message": "The Student Council and the Crusaders have nothing to do with it; the feelings inside me are everything."
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to... be of help to Ms. Melilot...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I see...」"
+  },
+  {
+    "message": "Ms. Sengenin's eerily pale hand slowly touches my shoulder."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Just as I'd expect from you, Sakura-kun. I knew you'd say that.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Being able to act for someone else's sake. It's a truly wonderful thing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Um」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you know about Melilot-san, Sensei...?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Ah, right... It's only natural that you'd wonder」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「It's really quite simple, though」"
+  },
+  {
+    "message": "Gently stroking my arm, Sensei's hand pulls away."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「She and I are cut from the same cloth」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The same...?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I came to this land for much the same reason she did」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Besides, I want to help her too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean by...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「You'll understand right away once you go see her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Go see her? I don't even know where she is, you know?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「That won't be a problem」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Come to Finis Tower tomorrow」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To the tower?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I'll have a guide waiting, so all you need to do is follow them」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「After that, once you arrive, just tell her how you feel, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How I feel...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「If things go well, we might be able to resolve all sorts of problems」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「For example, yes...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「The Demon, perhaps...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Heheh...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I'm looking forward to seeing you show the kind of power I expect from you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, how do you know about the Demons, Sensei...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Everything will become clear tomorrow」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「See you then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "So Sensei Sengenin knows something too."
+  },
+  {
+    "message": "About us, and about the Crusaders."
+  },
+  {
+    "message": "Thinking about it like that, she seems like an even more mysterious person than Melilot."
+  },
+  {
+    "message": "Still, if Sensei were an enemy, there's no way she'd tell me something like this..."
+  },
+  {
+    "message": "In that case, I can't afford not to accept this invitation."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll be able to help Melilot out, right...」"
+  },
+  {
+    "message": "There's a lot on my mind, but once tomorrow comes, I'll understand everything."
+  },
+  {
+    "message": "This time, I'll finally be able to do something for Melilot myself...!"
+  }
+]

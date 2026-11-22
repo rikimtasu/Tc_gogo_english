@@ -1,0 +1,426 @@
+[
+  {
+    "message": "サリーちゃんの談合"
+  },
+  {
+    "message": "After school. There's a commotion coming from the school gate."
+  },
+  {
+    "name": "Sally",
+    "message": "「We're here, Prez!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Me, you, couldn't wait」"
+  },
+  {
+    "message": "I see, that makes sense."
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on in. Welcome to the Student Council room」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, how can you stay so calm walking around with these people?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's way easier on the nerves than speaking up on a stage」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Make up your mind whether you've got nerves of steel or you're just completely careless!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Would you like some ohagi?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you for the food!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, I was the one who got that! Don't take it, you stupid angel!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ohagi, good. Thanks」"
+  },
+  {
+    "message": "He's surprisingly polite for someone of his huge build."
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Feed me, more」"
+  },
+  {
+    "message": "Never mind, he's totally shameless."
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, what should we do from here?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What do you mean 'what should we do'? If they get hungry, they're just going to pull the same stunt as before, right?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I already ate curry, so I'm totally fine!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Sally-chan, unfair. You, feed me」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Th-th-th-that's why! Please lend a helping hand for poor, starving Boss here!」"
+  },
+  {
+    "message": "If we leave them unchecked, they might end up eating not just the food, but us too."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. Lolotte, first off, could you explain how the economy works in this world to these two?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, sir!」"
+  },
+  {
+    "message": "Two minutes later."
+  },
+  {
+    "name": "Sally",
+    "message": "「Gwooo~~~. Zzz~~~...」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Is that, tasty?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. This isn't compulsory education, so if you have no intention of studying, I'd like you to go home」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Go home... to her hideout?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「To the Demon World, maybe」"
+  },
+  {
+    "name": "Sally",
+    "message": "「A-A-A-A-Anything but that! I went through all that trouble to come to the Human World, so cut me some slack!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Coming to the Human World just to eat delicious food... Are all Demons like this?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmph! Don't lump us gourmets in with those dimwits who are slaves to their three basic desires!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, a guest?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「At least stop tickling me when we have a guest!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heya, Chairwoman」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, well. You've reeled in quite the big catch again~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Apparently, she's one of the so-called Seven Demon Generals」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan, that's amazing! Colluding with a Demon executive--what kind of backroom deal did you strike?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-W-What a shady way to put it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it was--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, Big Sis. You have to choose your words properly when you speak」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Smooth peace negotiations--truly a bloodless Tulip Revolution, as it were」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't complicate things」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In short, she has to do something in order to fill her stomach」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You do get it...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, I believe it is difficult for a mere student, who isn't even a business owner, to hire someone without any capital」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That actually sounds pretty reasonable」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe. By the way, what is a business owner?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see. So you're looking for a potential sponsor, then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can't ask you to go that far to look after us. After all, this is the duty of the Student Council--no, of the Crusaders」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'My role isn't just to drive them away'... huh.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you want to fill your belly, first you have to work and earn money. Let's see, why don't you try getting a part-time job?」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Part-time job?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm doin' prosti-work at the Prez's house, prosti-work!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you're going to say that, it's 'housekeeper'\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, you're just a freeloader」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, part-time job?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But we're talking about a Demon here. I really doubt there's any shop willing to hire him――」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In that case, why don't you all arrange something for him?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Us?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「For example, Synn-chan. Someone like \\{you|\\s12\\s12\\s12} might be able to pull a few strings, wouldn't you say?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What a dummy~ You don't even get something this simple? Well, I don't get it either.」"
+  },
+  {
+    "message": "So Helena-san sees right through everything, huh..."
+  },
+  {
+    "message": "I wonder if she knows about Macaron too...?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, I see! Because he's the Student Council President, he can somehow cover things up using his power and authority!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, let's go with that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Understood. I'll figure something out.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. I don't think you're making an empty promise, but... are you really going to be okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just have to do it.」"
+  },
+  {
+    "message": "Still, the milk delivery job is a no-go. He'd break the bicycle."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Easier said than worrying about it, harder done!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Which one is it?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, making him work right away when he doesn't even know how money works is... well, you know」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Even so, this boy really is huge~. He stands out way too much」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Her boobs are huge too, just like Senpai's」"
+  },
+  {
+    "name": "Helena",
+    "message": "「This one is just plain fat. Don't lump her together with the cute and sexy Ria」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She stands out......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn-kun. How about we hire her in the Student Council first?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I thought about that too, but we don't have the money to pay her」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If there's a purpose, we can allocate a budget, right? Besides, right now there's......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The Kirakira Festival!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Right. So with this little Eauderourke--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, hmm. I see, that's a brilliant idea! Nanaka...... can you spare a bit of budget from our current allocations?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if we can't, I'll make it happen. Leave it to little ol' Nanaka!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It seems they've decided on something. Good for you, Extra-san」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aren't you angels basically extras around here too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before you start working, there's something you need to keep in mind. That is perseverance...... what you'd call endurance!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And so we go with a sandwich-board advertiser」"
+  },
+  {
+    "message": "We tried sandwiching Eauderourke's massive body between signboards."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wear this and take a lap around Ryuusei Town」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「That's it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's it. Easy, right? So, how far can we stretch the meal allowance?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If it's just one beef bowl...... somehow!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Beef bowl!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So she's serving as Ryuusei Academy's walking billboard, then」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, it's for an event, so people will just think she's in a mascot costume--nothing to worry about」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No fair, no fair. I wanna eat a beef bowl too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, work together and have them share it with you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, I'll do that~\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Cleverly tricking them to double your workforce without increasing your capital--truly impressive, Lord Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're so twisted. Truly impressive, O Great Sage」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, work hard. Beef bowl, feed me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you cause any trouble, the contract is void immediately, got it?」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Beef bowl, can eat. Holding back, no problem」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Have a safe tri~p♪」"
+  },
+  {
+    "message": "Now then, let's get to work ourselves!"
+  }
+]

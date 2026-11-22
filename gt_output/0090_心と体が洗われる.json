@@ -1,0 +1,743 @@
+[
+  {
+    "message": "心と体が洗われる"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Sally-san」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sally-chan!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honorifics don't matter right now! It's time for Angelic Agent!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Angelic Serenade?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san. Please explain it to her」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So on and so forth」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I don't get it at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you just say it literally, well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Anyway, Sally-san. First of all, we can't do these activities without a request. You at least understand that much, right?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, got it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then let's go look for a request first」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's a piece of cake, a total breeze♪ Leave it to Sally-chan!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, wait up! Jeez! Why do you always run off on your own~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's the harm? She's finally motivated and everything」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. That remark is far too irresponsible. That's unbecoming behavior for the president」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd think taking responsibility is also part of the president's job, though...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh. No matter what I say, you always have a comeback for everything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the exact same way, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't lump me in with the likes of you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph~~!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The two of you are staring at each other again」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You two really are close\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, alright, that's enough being all buddy-buddy」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sorry to keep ya waiting, Prez! I went and scored us a request!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Not bad at all. I'm impressed」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heheh~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, what might this request be?」"
+  },
+  {
+    "name": "Mochimochi",
+    "message": "「Eee~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What is Mochimochi-kun doing in a place like this……」"
+  },
+  {
+    "message": "A Demon is rolling around on the ground in front of the school gate."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I can't go hoooome~\\s06」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Sacchin. Why are you just standing there stuck?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Because this guy is scary~! Do something about it~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just ignore it!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If I could do that, I wouldn't be having such a hard time~」"
+  },
+  {
+    "message": "Indeed, it is creepy and repulsive."
+  },
+  {
+    "name": "Sally",
+    "message": "「Well? Doing it like this gets us a request right away, doesn't it♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see…… So, who asked you to do something like this?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You don't even need to ask to know that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could this be the Demon Lord's doing after all……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way~~\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then who are you saying it is?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't it obvious without even thinking about it!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haa, haa, honestly, Sally-san…… you're surprisingly sharp」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay! I got praised! Pretty amazing, right~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why are you looking so smug!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eek!! If you're mad, just say so properly~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course I'm mad!? Having the Student Council cause a problem just to solve it is completely staged!! Don't puff your chest out so proudly!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now. Sally-chan did work hard for the Student Council, after all」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez\\s06」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's just your subjective opinion, isn't it? Because you spoil her like that, she goes and pulls stunts like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All we have to do is properly teach her that it's wrong--do you really need to go that far?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This goes way beyond 'working hard'!! With someone who does things like this, it won't get through to them unless you go this far!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You won't know that unless you try!! And yet, all you ever do is get angry, Misa--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「S-Stop it, you two~~\\s06」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You stay quiet!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See, there you go saying things like that again!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sigh... Always ending up with the thankless role~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The President sure never gets a break from all these worries, does he」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No. I meant Misa-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's enough, both of you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Onee-sama...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now isn't the time for the two of you to be fighting, is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's true...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You are completely right...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You can both see that clearly once you calm down, yet you always jump straight into fighting like that--it's a bad habit of yours」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... I'm sorry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, if we're talking about who started it, Sakura-kun was――」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyway, let's hurry up and knock out this request, hup」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, thank youuu♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mission complete--\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, that's one thing settled. Next up――」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sniff, hic. Waaaaaah. I'm soooorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll never do it again, so I'm soooorry, hic」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-ah... I'm the one who should apologize... I got a little too worked up...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「We won't fight anymore?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-well... that's...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Waaaaah!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「F-fine, I get it!! We won't, so come on. Stop crying, okay?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really!? Yay!! Yahoo!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-how does she cheer up so quickly...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally-chan is much, much more of a child than we think. That's why she makes mistakes like that sometimes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, you know, if you just keep getting mad at her, she'll never understand, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Yes, I suppose so」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's why you have to be the one to teach her properly, Misa-chan」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Understood. If that's the case, then I... shall educate Sally-san so she can become a splendid Student Council member!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I told you, it's Sally-chan!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O―Oh! In that case, I'll also―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No can do, Synn-kun♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way~~! Why not?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You haven't forgotten about how the president is supposed to take responsibility, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugya...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And so, you're skipping a turn\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this sugoroku or something\\s02」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Every once in a while, it's good to just quietly watch what Misa-chan does.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A-Are you truly certain about this, Elder Sister?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course! I'm fully prepared.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As you command. If Elder Sister possesses the resolve to commit seppuku, then I too shall cast aside my shame!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ugeh, it stiiinks!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「O-On second thought, might I beg you to desist?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, let's do this.」"
+  },
+  {
+    "message": "Saying so, Misa rolled up her sleeves and picked up a washboard."
+  },
+  {
+    "name": "Synn",
+    "message": "「Washing a dogi... Now that's quite the chore.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan doesn't seem to mind it at all, though.」"
+  },
+  {
+    "message": "In this chilly season, using cold water, she scrubbed the thick, sweat-soaked dogi vigorously."
+  },
+  {
+    "name": "Misa",
+    "message": "「Look, just like this.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Bubbly-wubbly~~♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kya!! H-Hey, cut that out~~!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「How do you do this~?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You put some muscle into it to scrub out the dirt. Look, it's getting cleaner and cleaner, isn't it?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa! You're right! This is so fun!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「D-Don't tell me, mine as well...\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Once you're done, move on to the next one. There's still plenty more.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yes, ma'am!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ughhh~~. I wanna do it, I wanna do it, I wanna do it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. You have to hold back today, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uuugh. Misa can handle things properly like that when she wants to. So why is she always, always picking fights with me...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Did you gain a newfound respect for Misa?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well... I mean, it's not like I ever thought Misa wasn't working hard!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then, about that fight earlier. Will you properly apologize to Misa?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because Misa is working just as hard for the Student Council as Sally is, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, yeah... I get that, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, you're a boy, Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that really the reason...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, I'm teasing. The real reason is... because it's you, Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because it's me...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Tahaa--all done!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My word. I am deeply grateful. Now I can devote myself to martial arts once more with a refreshed spirit.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well? Spotless, right!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It has become clean beyond recognition.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「After all, yours truly did the laundry! It's only natural!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good work. How did you find Student Council activities?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It was fun!! Plus, this 'whew, all finished~~' feeling is the best!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee. Isn't it just? Even just having you understand that makes me happy.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Thaaanks~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Let's do it again next time!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Yes!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, how did you enjoy watching from the sidelines?」"
+  },
+  {
+    "message": "It's her usual sarcasm, so I just have to endure it right now!!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh... I'm sorry about earlier!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't even think about your feelings and just blurted out whatever I wanted to say... I'm really sorry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's with you... stop that! You have no reason to apologize to me. We're both equally to blame, after all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe so, but... still, I'm really sorry!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm the one who should... um... I'm sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I said I'm sorry!! Didn't you hear me!? Should I say it louder then!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa, I got it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Geez... why do we always end up arguing like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's my line」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's because you always steal the spotlight before I do...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't let it go to your head, though!! Even so, I'll definitely prove that I'm the one who can deliver real results!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You bet! I'm not gonna lose either~~!」"
+  },
+  {
+    "message": "Yeah, this is how Misa ought to be."
+  },
+  {
+    "name": "Misa",
+    "message": "「Besides, it seems like you were the only one forced to take responsibility this time, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well... I did make a big show of saying I'd take responsibility, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not the point. Normally, Student Council matters are a shared responsibility. I should have been right there watching from the sidelines with you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't get the wrong idea!! The only reason I obeyed quietly was because I didn't want to ruin Big Sister's reputation!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not it. Thank you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's what I'm talking about!! I hate how you act like you're one step ahead of me like that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then what am I supposed to do!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You just need to do your best on your own!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I am doing my best!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then try even harder!! Putting our pride and stubbornness on the line--it's a match!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. I'll try even, even, even harder!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, I'm going to try even, even, even, even harder!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll try even, even, even, even, even harder!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And I'll try even, even, even, even, even, even harder!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of match is this even...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They really get along so well~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... Maybe this really is the best way for those two to be\\s02」"
+  }
+]

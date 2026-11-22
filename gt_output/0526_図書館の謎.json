@@ -1,0 +1,226 @@
+[
+  {
+    "message": "図書館の謎"
+  },
+  {
+    "message": "After school, I head over to the library."
+  },
+  {
+    "message": "KiraFes was a huge success. I'm genuinely happy about that."
+  },
+  {
+    "message": "However, I can't really explain specifically what we did or how it led to such a great outcome. All I can say is that it's thanks to everyone..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, should I check the politics shelves? Or maybe the how-to section for a book on the art of living?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't bother.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're planning to study and analyze what the Student Council pulled off at KiraFes, aren't you?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That kinda stuff is nothing more than cheap tricks, ya know? Besides, calculating every single word and move ten steps ahead basically means throwing away who you are.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「KiraFes went well because Lord Synn was Lord Synn, right? Who the hell's gonna follow a Lord Synn who stops being himself?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, that's right.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Helena, what are you doing in the library?! ...Wait, you're looking something up, aren't you?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan... I told Ria the exact same thing Pa-chan just said last year.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Last year, you mean... to Ria-senpai when she was Student Council President...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's all I'll say on the matter. Think the rest through for yourself, Synn-chan.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Heehee. Though it looks like you've already figured it out.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, thank you very much.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, right, let me correct just one misunderstanding.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I didn't come here to read--I came here to steal a book.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why would you do that? You're the Chairwoman of the Board, aren't you, Miss Helena? Isn't the entire collection here under the Kujo family's management?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Not entirely. After all, Melilot is the librarian.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Honestly, that girl even goes around building secret studies without permission♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I have heard all sorts of rumors about Miss Melilot, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, you look like you're having fun, Miss Helena.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, of course! Sneaking into the underground archives to pinch a book, then escaping while dodging the traps Melilot set up!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That was entertaining for the first time in a while. Here you go」"
+  },
+  {
+    "message": "Helena-san handed me a single book."
+  },
+  {
+    "message": "It's a strange tome..."
+  },
+  {
+    "message": "I'm not well-versed in printing or bookbinding techniques, yet even I can tell how bizarre this book is."
+  },
+  {
+    "message": "Every single page is made of antique-looking parchment, yet there's no fading or staining from age at all."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Whoa!? Even though it's properly bound, it's not printed--it's a handwritten manuscript!"
+  },
+  {
+    "message": "W-What era was this written in? Even when I flip through the pages, no dust or mold kicks up."
+  },
+  {
+    "message": "On the contrary, a modern scent like ballpoint pens and highlighters wafts off it."
+  },
+  {
+    "name": "Helena",
+    "message": "「What do you think of that book?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry for opening it without asking. Here, I'll give it back」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You took a quick peek at it, didn't you? What was written inside?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. The phrasing of the text is a little archaic」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But it's not as difficult as a classical literature textbook--it's just the normal writing style used back in the Meiji or Taisho eras, so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At this rate, if I take my time, I can definitely read it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll never be able to read it for all eternity. I can't break the lock on that book」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A lock...? Anyone can just open it and read it normally, can't they?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, Pa-chan...」"
+  },
+  {
+    "message": "I don't really get it, but Helena-san has started responding when I call out to her!!"
+  },
+  {
+    "name": "Helena",
+    "message": "「Did you know? Melilot is a towering figure when seated」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's that supposed to mean?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「When Melilot sits down, she ends up taller than me♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, Helena-san, saying something so blatant...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「All right! No reaction」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot has abnormally sharp hearing, so if she were in the library, she'd come flying right over after hearing that!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then! Let's sneak the book back while she's away. Bye-bye, Synn-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, I'm heading outside too. I don't have any business left here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Master Synn, you see that book Helena just brought? That's a grimoire someone penned recently」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a weak reaction!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, bookstores are lined with tons of fantasy-related books, aren't they」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Haaah, Master Synn really is a true big shot」"
+  }
+]

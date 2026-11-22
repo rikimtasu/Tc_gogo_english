@@ -1,0 +1,381 @@
+[
+  {
+    "message": "根本的失敗"
+  },
+  {
+    "name": "Synn",
+    "message": "「Welcome」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Welcome!」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Ho. The young couple's both here today!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you saying, Tame-san」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll bring you some water right away. The usual?」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Yeah」"
+  },
+  {
+    "message": "I make eye contact with Nanaka's old man."
+  },
+  {
+    "message": "『One tsukimi』"
+  },
+  {
+    "message": "『One tsukimi. And two orders of mori coming up』"
+  },
+  {
+    "message": "『Got it』"
+  },
+  {
+    "name": "Tame-san",
+    "message": "\"Still, you sure understand him well\""
+  },
+  {
+    "name": "Synn",
+    "message": "「Understand what?」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「What old man Yuugiri's thinking」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I just kind of get it」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Looks like there's only one way. Synn's gotta marry into the family」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Marry into the family?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--how do you jump to that conclusion!」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Understanding each other is important, y'know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Tame-san! Don't just decide things on your own!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, that's right. Nanaka's troubled by it too...」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Oh-ho, troubled by it, are you? My apologies then」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's not like I'm troubled or anything...」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「O-Oh, looks like you've got a customer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know without you telling me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Welcome!」"
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, long time no see! How've you been?」"
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eee」"
+  },
+  {
+    "message": "After greeting me, Tinun carried a tray with two servings of country-style soba over to the customers."
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eee!」"
+  },
+  {
+    "message": "Jangara, working over there, looks energetic too."
+  },
+  {
+    "message": "They've completely blended into the shop's atmosphere. Thank goodness."
+  },
+  {
+    "name": "Mochimochi",
+    "message": "「Eee」"
+  },
+  {
+    "message": "Mochimochi was sleeping on top of the household Shinto altar."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It's blending right into the atmosphere without a care in the world, sure, but this probably isn't good."
+  },
+  {
+    "message": "On my way to grab a tray of mori soba, I picked Mochimochi up off the altar."
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, Mochimochi, wake up」"
+  },
+  {
+    "name": "Mochimochi",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "Sensing some kind of eye contact, I turn around."
+  },
+  {
+    "message": "『Synn-kun. Take that one to the kitchen』"
+  },
+  {
+    "message": "『Are you sure?』"
+  },
+  {
+    "message": "『We'll just let it sleep somewhere back there』"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「One zaru, one mori!」"
+  },
+  {
+    "message": "Nanaka's old man gave a solemn nod."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-um, well...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helping out? I don't mind at all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N―no, that's not what I meant―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In exchange, I'd love it if you treated me to some more of your delicious soba」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, I'm trying to say, um--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, welcome!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah... w-welcome」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look, we've got customers waiting」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I picked the wrong spot... There's no way we can be alone together like this...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-Nothing at all!」"
+  },
+  {
+    "message": "『Synn-kun』"
+  },
+  {
+    "message": "『Ah, yes』"
+  },
+  {
+    "message": "『You can clock out now. You were a big help today』"
+  },
+  {
+    "message": "『No, something like this is no trouble at all. Please call on me anytime』"
+  },
+  {
+    "message": "『Why don't you just marry into our family, Synn-kun?』"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pfft!!」"
+  },
+  {
+    "message": "『Th-That depends on how Nanaka feels about it too!』"
+  },
+  {
+    "message": "No reply comes back."
+  },
+  {
+    "message": "Sometimes I wonder if it doesn't even get through at all."
+  },
+  {
+    "message": "Still, I wonder if he was serious just now, her old man... Good thing Nanaka can't hear him, though."
+  },
+  {
+    "message": "If she had heard that, what would Nanaka have thought?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aaaaah! I'm such an idiot!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no way we can be alone together at the shop! My old man's there too……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Umm…… Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……Sigh…… Must be nice for you, having zero worries」"
+  },
+  {
+    "message": "Even though your old man was just giving me a huge headache a moment ago."
+  },
+  {
+    "name": "Synn",
+    "message": "「I've definitely got a worry or two of my own, you know!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk……」"
+  },
+  {
+    "message": "There's no way I could tell Nanaka to her face that I was rattled over marrying into her family."
+  },
+  {
+    "name": "Synn",
+    "message": "「A…… About surviving tomorrow」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right…… There was that too……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aren't you worried about something else, Soba?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up, panda! I said nothing, I mean nothing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It must be about the Holy Night Festival, after all... It probably isn't the same kind of problem I'm having... I'm sure of it."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm clocking out now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, sure. Good work today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks for today!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, this much is nothing. You're always helping me out.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, see you tomorrow」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, see ya」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What do you think Soba's worried about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's about the Holy Night Festival. Probably. Like getting hold of sweets and stuff」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I don't have any money, contacts, or connections... Hrmmm」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sigh... Poor Soba」"
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "message": "ずれ"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "message": "Phew... I guess the porridge looks good enough like this?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yesterday, right. I had a crazy vivid wet dream. Since it was the Great Sage's own dream, it was one massive pink spectacle--wanna hear about it?」"
+  },
+  {
+    "message": "Azel's hot, moist sighs..."
+  },
+  {
+    "message": "The soft feel of a girl. The movement of her fingers. Her sweet scent."
+  },
+  {
+    "name": "Synn",
+    "message": "「Haah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, no, no! Don't remember it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah, y-yeah...」"
+  },
+  {
+    "message": "I set the bowl down by the bedside of Azel, who has propped herself half-up from the futon."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "It's awkward. I can't meet her eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「U-um... I brought you some porridge」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Th-thanks」"
+  },
+  {
+    "message": "Skillfully keeping her gaze averted, Azel reaches out to take the bowl of porridge from me--"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah, hot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "As she nearly drops it from the heat, I reach out my hand to steady it."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Our fingers overlap on the sides of the bowl."
+  },
+  {
+    "message": "Yesterday, Azel's body was close enough to touch."
+  },
+  {
+    "message": "I remember that warmth."
+  },
+  {
+    "name": "Azel",
+    "message": "「U-um, well... you see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I was just trying to steady it!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I know... It's... fine now...」"
+  },
+  {
+    "message": "Our fingers part, as if reluctant to let go."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's gonna... get cold」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I know...」"
+  },
+  {
+    "message": "Azel cradled the bowl carefully and began eating the rice porridge."
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Um, conversation, conversation. Completely natural and casual."
+  },
+  {
+    "name": "Synn",
+    "message": "「How are you... feeling?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Just a bit sluggish... However...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn, y-you... well... since you're worried... I'll... stay in bed today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yeah. You really should get some rest」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-what about you, then!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine now. My fever went down, too. Still, I'm staying home all day today」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I see... I see... So you'll stay with me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah, yeah. Just call me if you need anything, okay」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Y-you don't have to hold back on my account--you can go out if you want...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm staying. I don't have any errands anyway」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... when you sleep... you wear your uniform... huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This is all... I own...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right... You do have a whole bunch of them...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Y-you've got it wrong!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-what do I have wrong?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't have a bunch of them because I never wear the same thing twice... I-I mean... even I can do laundry...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wasn't thinking anything like that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Having different kinds of clothes is... just a hassle...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「T-that's the only reason, got it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, really...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-So yesterday's, um, those clothes too... I-I'll wash them myself...」"
+  },
+  {
+    "message": "Azel's clothes and underwear are somewhere in this room.... Gulp."
+  },
+  {
+    "name": "Azel",
+    "message": "「D-Don't go looking for them!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I-I won't look!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「T-Then fine... Y-You worry too much about me, Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, of course I'm worried, but... I wouldn't just wash a girl's underwear without asking...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I wouldn't do that either... I-It's irrational, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「N-No... I suppose it's rational for the one who can move to do the work... B-But I cannot accept that kind of rationality...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You mustn't!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It was delicious...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You want some tea, right!? It's just a second brew, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thanks--」"
+  },
+  {
+    "message": "As I tried to hand over the steaming teacup, our hands brushed."
+  },
+  {
+    "name": "Azel",
+    "message": "「!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry」"
+  },
+  {
+    "message": "I pulled away right away."
+  },
+  {
+    "message": "I set the teacup down by her pillow."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Um」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's not that I dislike touching you or anything like that」"
+  },
+  {
+    "message": "Azel blushed all the way to her cheeks and looked down."
+  },
+  {
+    "name": "Azel",
+    "message": "「Even last night... um... I didn't feel... disgusted or anything... Though you might have felt defiled...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true! Not at all, not one bit!」"
+  },
+  {
+    "message": "As soon as I blurted it out, my own cheeks grew hot."
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry... I shouldn't have said that so forcefully...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It goes... both ways...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The one acting strange... is probably me... I didn't hate it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「N-Nothing...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's Nanaka」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Grub's here」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Food's here!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on, Synn! What's the big idea!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Sleeping」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can see that! Look, the heating isn't nearly enough, and it's way too dry in here! Though I figured it'd be like this」"
+  },
+  {
+    "message": "Nanaka pulled a hot water bottle out of her knapsack and placed it right against Azel's feet."
+  },
+  {
+    "name": "Azel",
+    "message": "「So warm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Forget the thanks! Azel! What have you eaten since this morning?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「He gave me some rice porridge」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We didn't have any ingredients」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Can you eat this?」"
+  },
+  {
+    "message": "Nanaka thrust a piping-hot bowl of oyakodon right in front of Azel."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks delicious」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Right now... I don't have much of an appetite...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Put some plastic wrap on this oyakodon and stick it in the fridge! And take this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What am I... supposed to do with this?」"
+  },
+  {
+    "message": "What Nanaka thrust at me was a pack of sake lees."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Amazake! I'm gonna whip some up right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see! We rarely have that around here, so it didn't even cross my mind!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's way too sad, Lord Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, right, that's true...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't blame... Synn. He's been taking good care of me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's nowhere near enough!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Boil some water while you're at it! And grab a towel too! I'm gonna wipe Azel down!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's move!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, sorry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm gonna go hang out at Boss's place for a bit!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O... okay」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's gotten into her?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn! Hurry to the kitchen! I've got a bad feeling about this!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She got us!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With what?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Our oyakodon is gone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah!」"
+  },
+  {
+    "message": "Three bowls, licked clean without a single grain of rice left, were stacked in the kitchen."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, Sally's really started doing a lot more compared to how she used to be」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's washed properly」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't get impressed over something that basic!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Warming up a little bit?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jeez, I can't tell if Synn is thoughtful or clueless, or just broke... What a handful」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn treats me well」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, he puts his all into everything he does, at least」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is inconvenient」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's boring when you have a cold, sure, but resting is the best thing for you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No. This physical body... Once something goes slightly wrong, it becomes difficult to move... It is flawed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Flawed, huh... Well, I do wish they'd do something about that monthly thing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It engages in irrational behavior stemming from hardware defects, driven by incomprehensible and illogical impulses」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Illogical impulses, huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nothing at all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Love or anything like that... is completely out of the question」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up? Want something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm hungry」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The amazake will be here soon」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What is Synn doing? He's taking forever」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The time is near」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thy will be done」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am the reflection of Thy will. I am the vessel that sings Thy will」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am the thunderbolt. I am the spear. I am the gun. I am the proxy of Thy will」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am the chosen apostle. I am the prepared weapon. I am the signpost to the righteous path」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I carry out. I destroy. I create. I usher in a new world」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I aaaaam!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's... slipping out of alignment?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am the chosen... proxy... so how could...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  }
+]

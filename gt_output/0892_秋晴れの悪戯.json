@@ -1,0 +1,512 @@
+[
+  {
+    "message": "秋晴れの悪戯"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hello. Do you have business at the library?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. I came to return the materials I borrowed the other day, actually」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that so. Right on time, as expected」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I am the Student Council President, after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I really wish the other students would follow your example, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, not me at all」"
+  },
+  {
+    "message": "Getting praised for something I just took for granted feels kind of ticklish."
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, what's going on with all those books?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah... these are something I was asked to bring」"
+  },
+  {
+    "message": "Adjusting her grip on the armful of books, Melilot-san lets out a small sigh."
+  },
+  {
+    "name": "Synn",
+    "message": "「Where are you taking them? If you'd like, I can help」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, I'm quite alright」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's only to the Chairwoman's office, so it's hardly any trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, you're bringing them to Helena-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Yes, well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san does seem pretty busy, after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Indeed she is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looking out for Helena-san like that--you're really kind, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's nothing... like that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...We've simply known each other for a long time, that's all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you're on good terms, then」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Not necessarily」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Maybe I'm just overthinking it……."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, let me help you after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Won't the Student Council miss you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The meeting ended early today, so it's fine」"
+  },
+  {
+    "message": "Until the rest of the work starts, it's break time."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……They're all thick books, so they're quite heavy, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All the more reason I can't just leave you to carry them」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that so……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then I'll take you up on your kind offer and ask you to take just half」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, leave it to me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「My, how reliable」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Phew……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've got clear autumn skies today, huh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though I'm not particularly fond of strong sunlight……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……I don't really go out walking around during the day like this very often, you see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your skin is really pale, after all, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……I don't think that has anything to do with it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It doesn't particularly bother me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um…… shall I carry a bit more?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, that won't be necessary」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, it's originally my job」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if you say so, Melilot-san...」"
+  },
+  {
+    "message": "Come to think of it, she usually carries about this much for her regular work anyway..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hngh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-No, it's nothing at all...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Gah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wh-What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You suddenly started acting restless, so I wondered if something happened...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「L-Like I said, it's nothing at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "It's almost like she's on guard against something, though..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wh-What's wrong!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san, please don't move」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Seriously, what is going on...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's a ladybug on your shoulder」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A b-bug...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kyaaaaaaaaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!? Um, Melilot-san!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「G-G-G-Get it off! Please get it off! H-H-H-Hurry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, b-but, um...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「P-Please, I'm begging you, get it off right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, could you just hold still for a second……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kyaaaaah! No! Please don't come any closer!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you expect me to do!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-No, I mean this bug! Hyaaah!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can't take it, I really can't! Please get it off, get it off me!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Okay, I'll get it off……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Don't hold back, hurry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right……」"
+  },
+  {
+    "message": "While he hesitated like that, the mischievous ladybug made its way onto Melilot-san's chest."
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「S-Sakura-kun? What's wrong!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, um, it's just in a really awkward spot to reach, oh man, this is turning into a huge mess……」"
+  },
+  {
+    "message": "Pressed between both arms and pushed up by the books she was holding, there was only one place his eyes could go."
+  },
+  {
+    "message": "Before long, the enemy sank straight into that soft valley."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kyaah! No! Sakura-kun, any further and I really can't take it!」"
+  },
+  {
+    "message": "It was the kind of scream that would definitely cause a misunderstanding if anyone else saw them."
+  },
+  {
+    "name": "Synn",
+    "message": "「P-Please stay still. It'll be over in a second……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Aaah, no, you mustn't, Sakura-kun……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Easy……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, ah……」"
+  },
+  {
+    "message": "Having made a narrow escape at the last second, the ladybug returned straight to the open sky."
+  },
+  {
+    "message": "Was that good luck, or bad luck……"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san, it's all right now」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「R-Really……? Is it gone now……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Nooooo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah! I was just checking, I swear! You're totally fine!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Y-You're not lying……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. Please believe me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-Is that so... *ahem*」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I seem to have shown you an unsightly side of myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, shall we get going?」"
+  },
+  {
+    "message": "She's so composed it's as if nothing ever happened."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, could it be... you're not good with bugs?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wh-What makes you say that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, everyone has at least one thing they can't handle, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As I said, what are you talking about...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think something like a ladybug is pretty cute, though...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「They are not cute! Bugs are all the same!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "So she really can't stand bugs after all."
+  },
+  {
+    "message": "Still, I have to hand it to her for not letting go of her book even while panicking that much."
+  },
+  {
+    "name": "Melilot",
+    "message": "「L-Listen carefully, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I must ask that you keep this strictly confidential, understood...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... oh, yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I swear I won't tell a soul」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can trust you on that, yes?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I never go back on my word to the Student Council President!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Is that so」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then, let us go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "message": "So even Melilot-san, who's usually so cool, has a side like that."
+  },
+  {
+    "message": "Thinking that probably no one else has ever seen it makes me feel like I got a little lucky."
+  }
+]

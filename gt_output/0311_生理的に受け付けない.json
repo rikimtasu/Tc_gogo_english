@@ -1,0 +1,626 @@
+[
+  {
+    "message": "生理的に受け付けない"
+  },
+  {
+    "name": "Eddie",
+    "message": "「When a pot gets scorched, soaking it overnight in the water from washing rice is supposed to do the trick.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it works...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Azel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, class is about to start, and Azel...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Skipping again, huh」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sabotender♪」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「What the heck is that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, he looked kinda sick, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, the restroom」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun, you've got zero tact!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why me!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Has Azel-san already gone home?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually, he left during class and still hasn't come back」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Skipping out on his duties yet again!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No. I thought he went to the bathroom, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, when he stepped out, he really didn't look like he was feeling well」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've got it! Azel must have been caught by Hanazawa-san of the toilet!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's Hanako-san...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's no time to lose! We must go save them right away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha! Whaaaa!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not here, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not in the infirmary either. Where on earth could they have gone」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel... could it be...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you figure out where they are?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「N-no! Even an omniscient and omnipotent being like me doesn't know that much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So it wasn't the restroom... Then maybe they collapsed somewhere...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that's the case, this is bad. We have to hurry and look!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Places Azel would likely go...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's probably here, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse uuuuus」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Nobody's here」"
+  },
+  {
+    "message": "Guess my hunch was wrong."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Shh! Someone's here」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is it a ghost?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-no way it's...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "message": "Someone is curled up on the long bench."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Ngh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san! What on earth is wrong!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S... Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does your head hurt?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your stomach, then?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I said no. It's nothing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're lying down--that's clearly not nothing...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I knew it... Azel-san...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you have some idea what illness it might be!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh!? W-Well, that is... um, you see... uhh, well...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What should we do? Maybe we really should take them to the hospital...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hwah!! I-If you did that... it would be a disaster!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What would?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nothing, I was just talking to myself!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At times like this... um, um--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah! Got it! You see, Azel―san's illness is―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「None other than a period!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, once a month, women--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa--you don't need to explain it!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Wro--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's fine, just leave this to me!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Kh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, if that's the case, there must be some way to deal with it...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you do, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「U-Um... I have yet to experience menstruation myself...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Lolotte's a late bloomer--no, no, stop thinking about that!"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is tough... Anyway, I have to ask someone for help」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mm. Thirty points」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa. Harsh as ever」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I have a sweet tooth, though♪」"
+  },
+  {
+    "message": "Ugh, this is so embarrassing! Still, it's for Azel's sake. It's my duty as Student Council President!!"
+  },
+  {
+    "name": "Synn",
+    "message": "「H―Hey, Nanaka―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Treasurer! What should one do when on their period!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh!?」"
+  },
+  {
+    "message": "Ahh, give me back my courage."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun, you've got zero tact!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you blaming me again!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stop putting weird ideas into Loro-chan's head!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What would I even gain from doing that!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sorry... It's all because I'm so hopeless...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, it's not your fault, Lolotte. People all develop at slightly different paces, after all...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, she ain't human in the first place」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Panda!! Don't just pop out when it's convenient for you--come out when it actually matters!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「My bad. It's just that I really can't handle that Azel woman...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So? I'm totally lost here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Azel is... um... suffering right now. Right, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh!? Y-Yes! That is right!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Says she's got bad menstrual cramps.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't just blurt it out like that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Got it, got it. So, where is she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think she's lying down in the church.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. Well, let's go, Roro-chan.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry about this, Nanaka. Thanks.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Are you not coming with us, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, no... I mean, obviously...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It'd be embarrassing if a guy tagged along. Even for Azel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Are periods something to be embarrassed about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is it really such an embarrassing illness!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Who knows, right, Sacchin?\\s01」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Punting that question to a shy, delicate flower like me is totally unfair~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What do you think, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guys don't get them, so I wouldn't know!\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oho~~. So it is an illness that men do not contract.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait a second, Roro-chan. Have you not gotten your period yet?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Period coming...? Yes, well, nobody by that name has come here.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Wait, does that mean... could it be...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You look so innocent, what a shocker~! Even I'm blown away~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who was it with... d-d-don't tell me!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no!! It's nothing like that, she just hasn't experienced her period yet」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then why the hell do you know about that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because she just told me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't talk about weird stuff like that!!」"
+  },
+  {
+    "message": "Talk about adding insult to injury."
+  },
+  {
+    "name": "Synn",
+    "message": "「Girls sure have it rough~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, having to deal with that every single month」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord. Are you seriously saying that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm dead serious! That's why we've gotta take good care of girls」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sigh... that's not it. Just so you know, Aze--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!? Is your body... already okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No issue」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. That's a relief. Nanaka and the others explained everything to you properly, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'm going back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. Take care of yourself...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is... no issue」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right...」"
+  },
+  {
+    "message": "She really is a mysterious girl."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm back~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Welcome back」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel. She was totally fine.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It seems it was just a misunderstanding on my part. My sincerest apologies.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no! As long as she's fine, that's all that matters」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wasn't someone around here having some naughty fantasies?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh--?! I wasn't doing anything like that!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nobody said it was you, Synn-kun~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You per-vert\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gahhh\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Temporary symptoms... Azel-san, after all... isn't able to adapt, is he...?」"
+  }
+]

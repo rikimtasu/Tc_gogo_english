@@ -1,0 +1,257 @@
+[
+  {
+    "message": "虚空の疲れ目"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Found 'Servant of the Frenzied God'! How about over there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've got 'Three Stigmata Carved by the Cursed Barber'!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「'Rotting Undead,' 'Roadside Slaughter,' and 'Greet the Morning of Pig-Slaying' are right here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you so much for going out of your way.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Accommodating our patrons is part of a librarian's duty, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is that all of 'em?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see... 'Sacred Massacre,' 'Bludgeoning Humanity to Death,' 'Worship the Morning of Slaughter,' 'High Supper of the Black Daifuku Cult'...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's all of 'em.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, every single one of these covers is, like, creepy, or gross, or just... y'know.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「'Cause it's death meta.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What is that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Death metal... probably.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Hmm.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you checking out, Azel?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's see, 'The Everyday Right There'?」"
+  },
+  {
+    "message": "Azel hid the photo book, whose cover featured a nostalgic back-alley scene, behind his back, and then."
+  },
+  {
+    "name": "Azel",
+    "message": "「I am the one asking the question here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're music CDs.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Your hobby?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. For a guest.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A guest?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The musician staying at Synn's place.」"
+  },
+  {
+    "message": "With Azel clutching his photo book as if it were precious and us having stuffed the CDs into the paper bag Melilot gave us, we headed outside."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ringer said he wanted to listen to human death metal, see.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, you actually asked what he wanted and went out of your way to borrow it? Jeez, Synn, you're way too soft-hearted」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, he doesn't have any money to buy things, and Demons don't have library cards」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fair enough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, you let me use your library card too, Nanaka」"
+  },
+  {
+    "message": "At the library, each person is only allowed to borrow a maximum of five items."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess it's what they call a fated brush of sleeves, huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Why go this far for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm only doing what I can」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep, yep」"
+  },
+  {
+    "name": "Azel",
+    "message": "「We are not of the same kind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no difference」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No difference?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. At least to me, I don't think they're any different from us aside from appearances」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Roro and Sally are no different from us either, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, don't mention to Lolotte that she's an angel, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's super obvious, though she seems to think she's hiding it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Understood」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait a sec, do you even have a way to play that at your place, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Knew it. My old man used to have one, so I'll lend it to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「By the way, Azel, did you get your furniture and stuff sorted out?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Azel was no longer standing beside them."
+  },
+  {
+    "message": "When we hurriedly looked back, Azel had stopped in his tracks and was staring at something."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is something wrong with Finis Tower?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "I looked in the direction Azel was gazing."
+  },
+  {
+    "message": "It wasn't the tower. He was looking at an empty patch of sky just above it."
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you want to take a picture?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel briskly started walking away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you... see something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「An unidentified flying object!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's nothing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aw, man」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...If you can't see anything, that's fine」"
+  }
+]

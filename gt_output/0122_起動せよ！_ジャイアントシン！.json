@@ -1,0 +1,1611 @@
+[
+  {
+    "message": "起動せよ！　ジャイアントシン！"
+  },
+  {
+    "message": "Hmm..."
+  },
+  {
+    "message": "Azel didn't show up to class again today..."
+  },
+  {
+    "message": "Well, not just class, homeroom too."
+  },
+  {
+    "message": "It bothers me... It really bothers me..."
+  },
+  {
+    "message": "If she were rebelling against something, maybe it'd be simple, but that doesn't seem to be the case."
+  },
+  {
+    "message": "Aaah, I really want to do something about this... I want her to have a sparkling, heart-pounding school life too. Even if I'm being nosy."
+  },
+  {
+    "message": "Still, what am I supposed to do? I can't skip during class, and after school I have Student Council activities so I don't have the time for it..."
+  },
+  {
+    "message": "As the Student Council president, I can't skip class or neglect Student Council activities just for one person..."
+  },
+  {
+    "message": "Helena-san told me to look out for her, so I do think I need to keep an eye on her, but... I can't skip during class, and after school I have Student Council activities so I don't have the time for it..."
+  },
+  {
+    "message": "As the Student Council president, I can't skip class or neglect Student Council activities just for one person..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Demon Lord. If you gotta use the bathroom, it ain't this way.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I might've been groaning, but it's not the bathroom.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Adolescent troubles, huh? Then go ahead and talk to the Great Sage Paqy-sama.」"
+  },
+  {
+    "message": "Calling himself 'Great Sage' actually makes him less trustworthy... Well, whatever."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's about Azel.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What, nothing to do with adolescence? So, what's up with the mysterious transfer student?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel doesn't come to class, and it doesn't look like she's making any friends either, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, that's just her reaping what she sows.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe so, but I can't just leave things like this.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I think it's fine to just leave her alone.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't do that.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Look, the fact that the school authorities aren't making a fuss means they don't care whether she shows up to class or not.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, Helena-san told me to look out for her...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The Student Council's swamped right now, so there's no way you can spare anyone for a transfer student.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I say you just look out for her once Kirafes is over.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It's just a hunch, but I feel like that'll be too late..."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why I was thinking of asking Sally-chan to snoop around and find out what Azel's doing when she skips class.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...I don't think she'll take you up on that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You might not have noticed, Demon Lord, but that flat-chested Sally is avoiding the mysterious transfer student. No doubt about it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Now that he mentions it, maybe she is... Even though she's so friendly, I've never seen her messing around with Azel."
+  },
+  {
+    "name": "Helena",
+    "message": "「'Good morning, Mr. Student Council President.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good morning.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'The reason I have summoned you is none other than this.'」"
+  },
+  {
+    "message": "We just ran into each other in the hallway, though."
+  },
+  {
+    "name": "Helena",
+    "message": "「'I want you to track down Azel, the exchange student from the Principality of Sharo-Ma.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, I have Student Council work--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'I wish you all the best of luck. As always, this tape will self-destruct in thirty seconds.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't it about time you dropped the whole 'tape' medium thing?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It has to be a tape, or it's no good.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's 'cause she's old.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, my. Compared to you, I'm waaaay younger.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, what's that supposed to...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Kaboom!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What was that all of a sudden?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because thirty seconds passed.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I see. Still, why me?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's not just because you happened to be here. You and Azel-chan are kinda close, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me and Azel?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's right. In horse-racing terms, you're leading by half a length.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's just your imagination. Azel doesn't pay any attention to me at all.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Acting cold just means she's conscious of you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What year is that rom-com trope from?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The classic tropes are always beautiful, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Besides, it *has* to be you, Synn-chan. I have solid proof to back this up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And what would that be?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Woman's intuition.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. Zero proof whatsoever.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Synn Sakura. Your assignment to this case is already decided.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Understood, Boss. Though unworthy, I, Synn Sakura, shall devote body and soul to this mission.'」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Mm. I expect great things. Furthermore, should the mission fail, the authorities will disavow any knowledge of your whereabouts, so keep that in mind.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, don't just carry on the conversation by yourself!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You're no fun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like I'm not worried about Azel, either. Still, like I said earlier, having the Student Council President skip out on duties is...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It'll be fine.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「HEY, come on!」"
+  },
+  {
+    "message": "When Helena-san snapped her fingers."
+  },
+  {
+    "name": "Sally",
+    "message": "「What is it, BOSS?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mm. Making your entrance just as I taught you--I'm satisfied.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Because Prez was dragging his heels, I couldn't come out of the air vent for ages! It's cramped in there, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's my fault?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then, bring out the goods.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aye-aye, Great Oyabin... I mean, BOSS!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「'Copy-Paste Robo-kun'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is this?」"
+  },
+  {
+    "message": "It looks like nothing more than a tiny mannequin to me, though."
+  },
+  {
+    "name": "Sally",
+    "message": "「With this treasure I got from Demon World Mail-Order, you can sabotage and escape to your heart's content!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「This clever Copy-Paste Robo-kun will do everything in your place」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, it doesn't look like me at all, though」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If you press this button on the nose, lo and behold, it becomes a spitting image of whoever pressed it」"
+  },
+  {
+    "message": "If I'm going to end up forced into doing it anyway."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Alright, boop」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It certainly stopped being a mannequin, though."
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa. It looks just like Prez!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How!? It's got seams under its eyes! Its rivets are showing! And there's something like a propeller stuck on its head!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's the spitting image of you. This will work just fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That cheesy-cool look like a robot from an old anime has quite the charm. Truly retro-futuristic」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Doesn't that mean it doesn't look like me after all!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「All that's left is to wind up the mainspring with this key, and it's good to go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A mainspring...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A mainspring--how very eco-friendly」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If you wind the key on its head nice and tight, it'll wake right up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That wasn't a propeller, it was a wind-up key!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, go ahead and give it a good wind」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, activate, Giant Synn! Show us your power at this very moment!」"
+  },
+  {
+    "message": "Giant Synn?"
+  },
+  {
+    "name": "Copy",
+    "message": "「Mgh!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Flawless」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm surprised it looks this much like you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In what world!」"
+  },
+  {
+    "name": "Copy",
+    "message": "「Mgh!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's fine. I've already taken precautions. Everyone on the Student Council might get suspicious, but they won't find out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's with that subtle phrasing?!」"
+  },
+  {
+    "name": "Copy",
+    "message": "「Mgh!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And so, go carry out your mission without a worry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm terribly worried, though」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you keep whining any more, there's no telling what Helena might do! I can't even imagine what'll happen to little Synn! Mmm, it gets me so excited」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn. I think you'd better give up. You're up against the wrong opponent」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I don't think we'll find Azel by searching blindly, though」"
+  },
+  {
+    "name": "Helena",
+    "message": "「According to the latest intel, little Azel should be near Finis Tower」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where is that intel from?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Naturally, it's woman's intuition」"
+  },
+  {
+    "message": "Azel, Azel..."
+  },
+  {
+    "name": "Synn",
+    "message": "「He's not here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You can't rely on stuff like woman's intuition」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, maybe he moved by the time we got here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sure are positive, Lord Demon King」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So, why are we heading this way?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I saw Azel at the church before」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There he is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like he really is heading toward the church」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I don't get what's so interesting about a place like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A Great Sage seems like he'd have ties to that kind of place, though」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Precisely because he's a Great Sage. Let me stake my life on saying this: God doesn't care one bit about the likes of us」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't know that for sure」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, yeah. That's something only God knows, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "An empty church. Azel was sitting in the front row."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel. What a coincidence」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You again」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mind if I sit next to you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you come here, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't there nobody else around here?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Because it's quiet」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It sure is quiet, yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And I get that sometimes you just want to be alone in a quiet place」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, I don't think you should go as far as skipping class to do it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, wanting to be alone is something that suddenly hits you while you're interacting with all sorts of people」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think that's different from being alone right from the start」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're always by yourself, aren't you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's gotten noisy」"
+  },
+  {
+    "message": "Azel stood up without a sound."
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you... hate people, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Footsteps receding in silence."
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why do you even attend this academy?」"
+  },
+  {
+    "message": "Azel doesn't go to class. He barely even shows his face at homeroom. Yet, he always comes to the academy."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "message": "There was no answer, and the footsteps left the church."
+  },
+  {
+    "message": "Where is he?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I think it's about time you gave up, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Maybe so. Even still."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, I still haven't shown you how to use the library yet, have I」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, it's always quiet in the library.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Shut up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. Nobody can make a racket in the library anyway. There's someone scary here, after all.」"
+  },
+  {
+    "message": "Inside the dead-silent library, only Miss Melilot's voice echoes."
+  },
+  {
+    "name": "Melilot",
+    "message": "「That concludes the checkout procedure. Have you committed it to memory?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Or shall I explain it again from the very beginning?」"
+  },
+  {
+    "message": "Silent pressure radiates from Miss Melilot."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'd better answer her.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "When I warned him, he seemed to press his lips shut even tighter."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then I shall explain it again from the very beginning.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will explain from the beginning. First--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not gonna use it, so never mind.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Whether you use it or not is irrelevant. Have you committed it to memory?」"
+  },
+  {
+    "message": "A slender arm smoothly extended, and a hand was placed on Azel's shoulder."
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What are you...」"
+  },
+  {
+    "message": "Azel tried to shake it off, but wherever those slender fingers hid such strength, it looked like he couldn't escape."
+  },
+  {
+    "message": "Actually, I know from personal experience, too, that that grip leaves finger marks."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Have you committed it to memory?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I-I got it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You are telling a lie, aren't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then I shall explain it from the very beginning. First, you write the title of the book you are borrowing on this library card.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I remember.」"
+  },
+  {
+    "message": "When Azel answered looking utterly exasperated, Miss Melilot didn't even smile."
+  },
+  {
+    "name": "Melilot",
+    "message": "「This card is for writing down the title of the book you are borrowing.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then I shall explain it from the very beginning. First, on this library card, you write the title of the book you wish to borrow.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You have understood up to this point, yes?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then, let me explain from the beginning. First--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I get it!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「When borrowing a book, first, you write the title of the book you want to borrow on the library card.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am delighted that you have understood that much. Now, let us continue... Before that.」"
+  },
+  {
+    "message": "Melilot-san's eyes locked onto me."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Synn Sakura-kun. Are you not the Student Council President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, yes, I am, but...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is very little time left until the Charity Bazaar. The Student Council ought to be busy. Why, then, are you here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, well, that's...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I was just in need of an extra pair of hands. You will help me, won't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yes.」"
+  },
+  {
+    "message": "While keeping her right hand gripped on Azel's shoulder, her left index finger pointed."
+  },
+  {
+    "name": "Melilot",
+    "message": "「On that book cart, there are books that need to be returned to the shelves. You will put them back according to their classification, won't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... at a glance, it looks like there are over a hundred books here.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please rest assured. There are ninety-eight.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Understood.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Thank you very much. Now then, Azel-san. I would like to resume the lecture on how to borrow books. Is that alright?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You don't have to.」"
+  },
+  {
+    "message": "Melilot-san's eyes were like a snake glaring at a frog."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is it alright if I resume?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I-It is alright.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Incidentally, at times like this, I believe answering with 'Yes' is more appropriate. Now then, allow me to resume.」"
+  },
+  {
+    "message": "Azel looked around as if seeking salvation."
+  },
+  {
+    "message": "Our eyes met for just a second, though he immediately looked away."
+  },
+  {
+    "message": "Let's see... This book is politics and economics, and with this number... here, I guess."
+  },
+  {
+    "name": "Paqy",
+    "message": "「That woman, Melilot. She's no ordinary person.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true. After all, she's overwhelming even Azel」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No, I'm sure it's not what you're thinking, Demon Lord……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, it's nothing. Whoops, that book goes over here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, you're right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heave-ho……」"
+  },
+  {
+    "message": "Now then, for the next book……."
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless effort」"
+  },
+  {
+    "message": "The quiet voice might be because the fear of Melilot has really sunk in."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. You're done with the explanation. Good work」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel glanced at my face, then immediately looked away."
+  },
+  {
+    "name": "Azel",
+    "message": "「The problem is there are too many books」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "message": "I replied without stopping my hands from working."
+  },
+  {
+    "name": "Azel",
+    "message": "「They're full of unnecessary things」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so…… I don't read all that much myself, but I think it's nice having plenty of them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because the more there are, the higher the chance there's a book that suits me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If it's high-precision information, a report is enough. If it's fantasy, it's unnecessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you're saying they're useless?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Correct」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then we wouldn't need a library either」"
+  },
+  {
+    "name": "Azel",
+    "message": "「One book is enough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That way you wouldn't have to remember the borrowing procedures, huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh……」"
+  },
+  {
+    "message": "Melilot's lecture must have really gotten to him."
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that mean the others are pointless?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's what I'm saying. Your current efforts are pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of book is this one book you're talking about?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A book in which the words of God are written」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's the only truth, and that's why it's necessary?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Correct」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if such a book exists, though. How can you tell those are the words of God? Maybe someone just made it up」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "While I was returning several books to the shelves, Azel remained silent, however."
+  },
+  {
+    "name": "Azel",
+    "message": "「That is... because it is a book passed down from the distant past」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just because of that doesn't mean the book is necessarily the truth」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Do you doubt God」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just saying we don't know if those are really God's words」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is not true!」"
+  },
+  {
+    "message": "A sudden loud voice."
+  },
+  {
+    "message": "I pressed a finger to my lips,"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shh. Be quiet」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A-Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why can you say that's not the case?」"
+  },
+  {
+    "message": "Taking a single deep breath, Azel spoke again in a quiet voice,"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Because my \\{brethren|はらから} would never commit such a blasphemous act as fabricating the words of God」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. So there's a book like that in your homeland, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Everyone has a copy of their own」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, isn't it possible that the person who heard God's words and wrote them down in a book didn't properly understand what they meant」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They are the words of God. They must have been conveyed in a way that anyone could understand without mistake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because they're God's words?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Correct」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, even God might tell lies. He might speak in riddles, too. Or even pose puzzles」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why would God do such a thing!?」"
+  },
+  {
+    "message": "Another loud voice."
+  },
+  {
+    "message": "I pressed a finger to my lips,"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you, keep it down」"
+  },
+  {
+    "name": "Azel",
+    "message": "「B-Because you keep saying... weird things...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why, you ask... hmm」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since we're talking about a god, there's no way someone like me could understand」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...If you don't understand. Don't say it」"
+  },
+  {
+    "message": "Come to think of it, Uncle Amakawa used to say it's better not to bring up religion or politics."
+  },
+  {
+    "message": "Still, even if the conversation was a bit strange, maybe it was good that I got to talk this much with Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, you might not be happy about it, Azel, but this country has tons of books」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even from your perspective, Azel, I think the library is pretty great」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Unlike the church, if you go deep between the bookshelves here, you can't be seen from the entrance, and there are plenty of places to hide」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...That would be a problem」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It would make it harder for you to search for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you want me to search for you and find you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...That's not what I meant」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I figured」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……?」"
+  },
+  {
+    "message": "Azel was staring intently at the book cart."
+  },
+  {
+    "message": "It was the very last book I hadn't put back on the shelves yet."
+  },
+  {
+    "name": "Synn",
+    "message": "「Interested?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, is that so, not interested, eh」"
+  },
+  {
+    "message": "I pulled that book from the book cart."
+  },
+  {
+    "message": "It was a thick, full-color photo book."
+  },
+  {
+    "name": "Synn",
+    "message": "「A photo book of mountain scenery, huh. Oh...」"
+  },
+  {
+    "message": "This is pretty."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel peeks over from behind me."
+  },
+  {
+    "message": "I'm sure if I say anything, she'll look away right away."
+  },
+  {
+    "message": "So without saying a word, I slowly flip through the photobook."
+  },
+  {
+    "message": "The photobook, titled \"Fleeting Moments of the Mountains,\" was a collection capturing the Alps across each of the four seasons over an entire year."
+  },
+  {
+    "message": "Highlands dyed in the setting sun. Snow-capped peaks."
+  },
+  {
+    "message": "Of night. Of morning."
+  },
+  {
+    "message": "Of summer. Of autumn. Of winter. Of spring."
+  },
+  {
+    "message": "A photobook capturing the jewels of the changing seasons."
+  },
+  {
+    "message": "The moment I closed the final page, Azel let out a small sigh."
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, I'd better put this back on the shelf.」"
+  },
+  {
+    "message": "Standing up, I push the small book cart and head toward the photobook section."
+  },
+  {
+    "name": "Azel",
+    "message": "「...What is a photobook?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a collection of carefully selected photographs of various landscapes, people, and things, put together around a certain theme.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Photographs...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't know what photographs are?」"
+  },
+  {
+    "message": "No way."
+  },
+  {
+    "name": "Azel",
+    "message": "「...I know. Obviously.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I didn't press the matter any further."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Right here.」"
+  },
+  {
+    "message": "I slide the book back into a gap in the photobook section that fits it perfectly."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that finally wraps things up. Guess I'd better return the cart to the counter.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hurry up and go.」"
+  },
+  {
+    "message": "Desperately holding back a laugh, I walked away from the spot."
+  },
+  {
+    "message": "I'm sure the moment I'm gone, Azel will immediately check out that photobook."
+  },
+  {
+    "name": "Jangara",
+    "message": "「Ee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa! What's going on, all of a sudden?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's saying, 'Quit having a carefree little rendezvous,' or something like that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's really not a rendezvous or anything... Did something happen?」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Ee!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Apparently, the stand-in is reaching its operational limit.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What did you say!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「For now, put these on over your clothes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A l-lab coat!? A mask!? Even sunglasses!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「There's no time!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hey there, everyone!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-Big Sis! Something's terribly wrong with Synn! Even though you told me not to call him out on anything today, this is too much!」"
+  },
+  {
+    "message": "So when she said she took precautions... she just told them not to question me!?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He was working at an insanely fast pace, and then he suddenly started acting weird!」"
+  },
+  {
+    "message": "Wait... does that mean it was more competent than me until it broke!?"
+  },
+  {
+    "name": "Misa",
+    "message": "「He pushed himself beyond his abilities... I knew being president was too much for Sakura-kun.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In other words, he was underqualified for the role.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Agh, I want to retort to that, but this isn't the time!」"
+  },
+  {
+    "name": "Copy",
+    "message": "「Ma\"  Ma\"  Ma\"  Ma\"」"
+  },
+  {
+    "message": "Whoa, whoa. Its eyes are flashing!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, hang in there! Hang in there!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa! Don't shake him like that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hot! Synn's body is burning up!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Should the president become unable to perform his duties for any reason, the vice president shall assume his authority--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「People really do crave power no matter the situation, don't they?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaaa! Smoke is coming out of Synn's mouth!」"
+  },
+  {
+    "name": "Copy",
+    "message": "「Ma\"  Ma\"  Ma\"  Ma\"  Ma\"  Ma\"  Ma\"  Ma\"」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Heh heh heh. I rushed over following my woman's intuition, and it looks like it's my time to shine! Ria, evacuate everyone! I'll handle things here!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-But!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Here, I make the impossible possible. Leave it to me.'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「O-Okay. I believe in you, Big Sis! Everyone, take cover」"
+  },
+  {
+    "message": "Helena-san stood tall amidst the billowing clouds of white smoke, gave a firm thumbs-up, and smiled."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Please save Synn!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I make it a rule to grant the requests of cute girls.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Synn!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Leave the rest to Big Sis--let's go, everyone!」"
+  },
+  {
+    "message": "Phew... Everyone's evacuated."
+  },
+  {
+    "name": "Helena",
+    "message": "「Sally! What is that sound!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「U-Uhh... Looks like the self-destruct sequence is activating.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why does it even have something like that!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Isn't it obvious? Self-destruct devices are a staple for robots.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Self-destructing once it hits its operational limit... That makes sense.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it doesn't! More importantly, what are we going to do!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「We do this!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Achoo! Hup! Hyaah! One more, yah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaaah! How reckless can you get!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, it stopped.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「When its head came off, the part connected to the self-destruct device must've disconnected.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then, Synn, you're going to switch places with the Copy here, so take off your disguise.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes, ma'am!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Sally, have your minions help you carry that broken robot... to the chairwoman's office for now!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Okey-dokey, BOSS.」"
+  },
+  {
+    "message": "Giving out orders so briskly and decisively, Helena looked kind of cool."
+  },
+  {
+    "message": "I asked while taking off my lab coat and sunglasses."
+  },
+  {
+    "name": "Synn",
+    "message": "「How should I explain all this?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Let's see... 'I ordered something weird from Sally's Demon World Mail-Order and ate it.' Wouldn't that work?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, in that case, there's a candy called 'Brain-Booster-o's.' Its side effects were crazy, so it got discontinued about ten years ago, though.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's the one.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That name practically screams failure」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, Helena, how did you know how to stop it?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「When an electrical appliance acts up, you hit it, right? That's just common sense」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, I see! But what's an electrical appliance?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Isn't that robot an electrical appliance?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's wind-up」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ah, come to think of it, it was, wasn't it. I forgot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I take back calling her cool. It was a coincidence. A pure coincidence."
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan. You're thinking it was just a coincidence, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What else could it possibly be...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Woman's intuition!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Sigh..."
+  }
+]

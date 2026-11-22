@@ -1,0 +1,610 @@
+[
+  {
+    "message": "ライカ"
+  },
+  {
+    "message": "Between training and Student Council duties today, too."
+  },
+  {
+    "message": "Time flew by in the blink of an eye."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Feels like we really put in the work today, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up, Synn? You don't have patrol today, do you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just remembered an errand I have to run」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oops, I just remembered something too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know. You've got grocery shopping for dinner today, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ngh~~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel was in the photobook section."
+  },
+  {
+    "message": "She was sitting on a stepladder leaned against the bookshelf, reading a photobook."
+  },
+  {
+    "name": "Synn",
+    "message": "「A......」"
+  },
+  {
+    "message": "She was reading so intently that I hesitated to call out to her."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "In the deserted library, I listened to the sound of Azel turning the pages."
+  },
+  {
+    "message": "As if reluctant to part with them, she kept flipping back to earlier pages, making her progress slow."
+  },
+  {
+    "message": "The fluorescent light formed a halo on her glossy hair."
+  },
+  {
+    "message": "I felt like I was seeing a girl this pretty for the very first time."
+  },
+  {
+    "name": "Azel",
+    "message": "「......Sigh」"
+  },
+  {
+    "message": "I was pulled back to reality from that strange moment--one that stirred something deep inside my chest, yet wasn't unpleasant--when Azel closed the photobook and let out a sigh."
+  },
+  {
+    "name": "Azel",
+    "message": "「Hm?」"
+  },
+  {
+    "message": "Our eyes suddenly met."
+  },
+  {
+    "name": "Azel",
+    "message": "「......!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um, I didn't mean to interrupt」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's not like--」"
+  },
+  {
+    "message": "Azel started to say, then faltered and turned her face away."
+  },
+  {
+    "name": "Synn",
+    "message": "「'It's not like I'm moved or anything,' right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Even if I said that now, you wouldn't believe me anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wouldn't mind believing you, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You don't have to believe it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Isn't it pointless, though?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Ahem」"
+  },
+  {
+    "message": "Azel cleared her throat, stepped down from the stepladder, and,"
+  },
+  {
+    "name": "Azel",
+    "message": "「What do you think?」"
+  },
+  {
+    "message": "She opened the photo book she had been looking at until just now and thrust it toward me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if you ask me out of nowhere」"
+  },
+  {
+    "message": "Rather than a foreign town straight off a postcard, it was a photo book capturing ordinary street corners of this country--places much like Ryuusei Town, so to speak."
+  },
+  {
+    "name": "Azel",
+    "message": "「It's different」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... from what?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「From mine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, from the ones you took, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why does an utterly ordinary scene appear as something special, unlike what we see every day?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well... because they're pros」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This was taken by a photographer whose main profession is teaching」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then they're just skilled. Or maybe it's their eye for it? Both, I guess」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is this as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Under equipment used, it says Leica R6」"
+  },
+  {
+    "message": "If I remember right, Leica is a famous camera brand."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Are you saying it's because they didn't use a digital camera?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There were several books that stated the same equipment was used」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think that's the only reason, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, using the same tool might allow me to see something new. It is a rational line of thought」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Have you ever used one?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nope. Never」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Here you go」"
+  },
+  {
+    "message": "In front of each of us sat a teacup filled with amber-colored black tea."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Th-thank you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well done」"
+  },
+  {
+    "message": "She must have been taught to say thank you."
+  },
+  {
+    "name": "Synn",
+    "message": "「May I have some too?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, you'll be the only one with nothing, is that alright?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for the tea」"
+  },
+  {
+    "message": "An empty library."
+  },
+  {
+    "message": "Melilot-san, Azel, and I sit around a single table."
+  },
+  {
+    "name": "Synn",
+    "message": "「Since when?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ever since I found her hiding in the shadow of a bookshelf after curfew, looking at photo books.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I wasn't hiding. I just lost track of time before I knew it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though she only started eating the biscuits the day after you treated her to ramen.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「R-ramen has nothing to do with it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let's leave it at that.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Um...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's nothing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. Melilot-san, do you know about a camera called Leica?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-why are you asking that?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I used to use one in the past.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There you go, Azel. If you have something you want to ask, go ahead and ask」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-it's not like I have anything I want to ask」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of camera is it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unlike a digital camera, it takes quite a bit of work」"
+  },
+  {
+    "message": "Azel leaned forward just a little."
+  },
+  {
+    "name": "Azel",
+    "message": "「You don't just press the button?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You have to check the lighting and the distance to the subject, and adjust it yourself」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. It requires such delicate adjustments」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I should have it put away somewhere, so I'll look for it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「N-no, there's no need for that. It's an old-fashioned thing, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd love to see it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you want to see it!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's have her show us together」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah... like I said」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Sigh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh-why are you looking at my face!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You've become quite expressive, haven't you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Y-you're imagining things!」"
+  },
+  {
+    "message": "Azel suddenly downed the rest of his black tea. He stood up."
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I'm leaving」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Where's my 'thank you for the tea'?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Thank you for the tea」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well done」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please see him out」"
+  },
+  {
+    "message": "Azel didn't try to drive me away, though he didn't open his mouth for a while."
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's your fault」"
+  },
+  {
+    "message": "As usual, it came out of nowhere, and on top of that, it was hard to understand."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Because you treated me to ramen. I found out」"
+  },
+  {
+    "message": "His usual pose, talking without looking my way."
+  },
+  {
+    "message": "Somehow, I feel like I'm always looking at Azel's profile."
+  },
+  {
+    "name": "Synn",
+    "message": "「Found out what?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Vandine Jelly tastes awful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. It sure does」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My food expenses have gone up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I see. So you've started eating other things too」"
+  },
+  {
+    "message": "So that's why he has biscuits."
+  },
+  {
+    "name": "Azel",
+    "message": "「It's wasteful, completely wasteful. Illogical. Mere nutritional supp--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why am I even telling you this in the first place?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm enjoying it, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You are always illogical. I don't understand you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. I think I'm a pretty simple guy, though」"
+  },
+  {
+    "message": "Azel fell silent again."
+  },
+  {
+    "message": "Every time a shooting star streaked across the sky, twinkling softly, his profile was faintly illuminated."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Why did you come」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To the library?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「At such a late hour」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're really into photography, Azel, and it seems like you're at the academy past dismissal time a lot, so I wondered if you were staying late again」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It shouldn't be a patrol day」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why, well, I was worried about you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You worry about anyone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because you're especially reckless, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Reckless, you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. That's why I feel like I can't take my eyes off you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You are far more perilous」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You converse calmly with hideous creatures, and even go so far as to find them employment」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They aren't hideous. Not really」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even you want to eat delicious food, don't you, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless. As long as nutrients are replenished, that is enough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, good-tasting food is better than bad-tasting food, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Appearances aren't really a big deal」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even problems caused by all sorts of differences can be solved if everyone puts their heads and strength together. Even if you can't do it alone, you'll be fine with everyone else」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that why」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is it because you are not alone that you can fight strong opponents, despite not being strong yourself?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I'm sure that's it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel fell silent."
+  },
+  {
+    "message": "That silence somehow seemed lonely."
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "message": "召喚師ｖｓ召喚師"
+  },
+  {
+    "message": "After school. We decided to hold a Crusaders training session to keep ourselves sharp."
+  },
+  {
+    "message": "Apparently, Ria-senpai is using the spare time before we start to drop by the Wagashi Club's practice."
+  },
+  {
+    "message": "I can easily picture what a sports club's practice looks like, but I can't imagine at all what kind of things the Wagashi Club does."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why don't we just go take a look?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good point」"
+  },
+  {
+    "message": "And so, I'm heading over to Prier."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria―sen―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's been a while, so let's have a match, Ayanishiki-chan」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It really has been ages. Hasn't it been since you handed in your leave of absence, saying you had to join the Student Council, Lia?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A Wagashi Club match?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooooh, contestant Misasagi is rubbing contestant Kujo the wrong way! Commentator Sally-chan, could this be a strategy?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「More importantly, I'm hungry」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why the heck are these two mixed up in this?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ready then? Here you go, kashiwa mochi」"
+  },
+  {
+    "message": "Just like Ria-senpai always does for us, a kashiwa mochi appears out of nowhere in Misasagi-senpai's palm."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ta-da! Kashiwa mochi x2」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Not bad at all, pulling them out of both hands like that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I've still got it, ahem!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go, Takahashi-san. Eat up」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You have some too, Sally-chan」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nom nom, munch munch, it's delicious!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Chew chew, chomp chomp, so yummy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So you guys really are just here to eat!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now that the warm-up's out of the way, shall we get serious?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hmph, three-color dango」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ta-da! Baked manju」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Genjimaki!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then I'll counter with rose petal yokan\\s07」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ohoho, you haven't gone soft in the Student Council after all, Ri-a」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If anything, I've been getting whipped into shape~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Uwah... Ria-chan in battle mode is adorable too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai hasn't even transformed, you know?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Can't you feel it? A honed fighting spirit is a beautiful thing」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hmph, muscat monaka」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ta-da! Strawberry daifuku」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That leaves you with just one more shot, Ri-a」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heh, you think so?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「...The very heart that wishes to enter upon that path is, within oneself, one's own true master」"
+  },
+  {
+    "name": "Ria",
+    "message": "「While learning, watch and learn indeed; to speak of good or bad without learning is foolishness」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hoho, that black-stockinged one...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Auu, my headache hurts!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eek, it's so hard my head's gonna split~」"
+  },
+  {
+    "name": "Ria & Misasagi",
+    "message": "\"Ta-da! It's kinton♪\"\\n\"Hmph, it's Mr. Kinton, ya know\""
+  },
+  {
+    "name": "Ria & Misasagi",
+    "message": "\"...\"\\n\"...\""
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Looks like your skills haven't dulled, kinton is a wagashi befitting the eleventh month」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Right back at you, Ayanishiki-chan, heeheehee」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, shall we have some tea? Come join us too, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, she noticed we were watching...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kaha, so good~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「See ya! I'm gonna thank you for the food and get out of here before Nana-chan finds out~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「'Twas nothing much at all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Synn-kun, did you notice? That Ayashiki-chan was holding back against me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I didn't notice at all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Up until now, we've managed to scrape by like that, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Knowing how to hold back means being able to see right through your opponent's true strength」"
+  },
+  {
+    "name": "Ria",
+    "message": "「From here on out, we're gonna have to hone our skills even more--both of us, got it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes」"
+  },
+  {
+    "message": "She doesn't say the words Demons, Demon Generals, or Re-Crea, yet it's obvious my upperclassman is talking about the future of the Crusaders."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I don't quite know what's goin' on, but you oughta relax and enjoy your tea a bit more」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aha, ahahaha...」"
+  },
+  {
+    "message": "With Misasagi-senpai easing the tension, Ria-senpai and I thoroughly enjoyed our tea time."
+  }
+]

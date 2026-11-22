@@ -1,0 +1,711 @@
+[
+  {
+    "message": "お嬢さまと僕"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Mr. President. What're you doin' in a place like this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, hello. Um, where's Ria―senpai―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, how did your test go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, w... well, I think I did decently enough」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see\\s04 You still have one more day left, so hang in there... okay?\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes! I'll do my best!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, did you need something from me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no... that was all. Since you helped me study, I thought I should at least report back to you, Ria-senpai」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What a sweet boy. Just what you'd expect from the president Lia raised」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. Though his face says he doesn't recall being raised by you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not true at all! I'm really grateful to Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehehe. Hearing you say that makes me kind of shy」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Why don't you give our honest, hardworking president a reward?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, that's a great idea♪」"
+  },
+  {
+    "message": "A-A reward...? What could it be, my heart's pounding."
+  },
+  {
+    "name": "Ria",
+    "message": "「Do you have a little time after this? Oh, maybe it's tough since you have to study for your tests~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That much time! I'm totally fine!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu, then it's decided♪」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You're probably disappointed, thinking, 'Here again?'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not true at all!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Forgive us. Both Lia and I like this place best, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get to have tea with two gorgeous upperclassmen. There's no way I could ever be disappointed」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh, you, saying such flattery. Stop it, you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go~ First, have some tea~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Why, thank you so very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much. *Sip*... Phew」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That Japanese sweet we spoke of. Is it ready yet?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They said it'll be right out♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's coming out?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait until it gets here and see\\s04」"
+  },
+  {
+    "message": "A voice calls out from the kitchen, and Misasagi-senpai rises from her seat."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Here you are, thank you kindly for waiting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-This is...!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's yokan sprinkled with gold leaf」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh... What!?」"
+  },
+  {
+    "message": "I-It's so dazzling I can't look straight at it."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「The appearance might be a touch garish, I suppose」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You think?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You're thinking it's all the same once it's in your stomach, aren't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wha--!? I wasn't thinking anything like that!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What about you, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Pant, pant*... This is wonderful...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Spoken like the President Ria raised」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That has nothing to do with it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Can I really eat this!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Of course, of course. Please do enjoy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for the food!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm gonna dig in too~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!!」"
+  },
+  {
+    "message": "Still, eating Japanese sweets on a Western-style terrace has its own distinct charm."
+  },
+  {
+    "message": "On top of that, having a tea party surrounded by two beauties like Misasagi-senpai and Ria-senpai is truly having a flower in each hand!"
+  },
+  {
+    "message": "I'm so happy I feel like I might suffocate."
+  },
+  {
+    "message": "I suppose this situation is also a privilege of being the Student Council President. I can feel the prickly stares from everyone around us."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hey, Prez」"
+  },
+  {
+    "message": "Misasagi-senpai leaned forward."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "message": "And then she stared intently at my face."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is it」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You really do look just like him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yukkun, the celebrity」"
+  },
+  {
+    "message": "Oh, Nanaka was talking about that guy."
+  },
+  {
+    "name": "Synn",
+    "message": "「He's in *Ai no Yoromeki no Yatsura* right now, isn't he. Playing the protagonist's younger stepbrother or something」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yeah, that's the one, that's the one」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Really～～? I don't think they look *that* much alike」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「True. Prez here might actually be the cuter one」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heeey. It's rude to call a boy cute, you know」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, it's the truth. The way he triggers your maternal instincts is the spitting image of him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm～～. Personally, I think Teppei-kun looks more like him」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ah, because they both seem a little masochistic?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I never said anything like that!」"
+  },
+  {
+    "message": "Listening to them chat about celebrities like this makes me realize that even two high-class young ladies like them are just ordinary girls at heart."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, you know. He might not seem like you based on the roles he plays, but when you meet Yukkun in person, he's your dead ringer!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ooh～～」"
+  },
+  {
+    "message": "Huh? Even Ria-senpai has a totally normal reaction."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Teppei-kun is actually quite flashy in his private life, you see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... So he really is like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Umm... You're casually talking about a celebrity's private life, though」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't tell me you've actually met him in person!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Every now and then」"
+  },
+  {
+    "message": "S-She really was a rich young lady!!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Not me at all, though\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Lia has no interest in showbiz, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Celebrities are fun because you watch them on TV」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. That's just like you, Lia」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's amazing... Being friends with celebrities...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Friends? It's nothing like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We're merely acquaintances. My friends are Lia and everyone in class」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And Synn-kun too, right♪」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We're only socializing because of our family backgrounds... I wish they'd at least let me choose my own friends myself」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, Ayanishiki-chan... You can't really help it\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "I guess even rich young ladies have their own kind of troubles."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Mind you, when it comes to meeting famous people, Lia is actually way more impressive」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Apparently she's met the Prime Minister before」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No, Ayanishiki-chan. That's supposed to be a secret!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Why's that?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-Because~~ It's not like I actually wanted to meet him or anything~~」"
+  },
+  {
+    "message": "Meeting the Prime Minister when she didn't even want to--what kind of chain of events led to that..."
+  },
+  {
+    "name": "Ria",
+    "message": "「If I had to choose, I'd rather be friends with more mysterious people than important or famous ones」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Don't tell me you're gonna say you want aliens, people from another world, or espers as friends?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm~. That might actually be pretty close」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. That definitely sounds like it'd be more fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I'm neither a celebrity nor the Prime Minister, though by the way she just put it, wouldn't I qualify?"
+  },
+  {
+    "message": "After all, I'm the ruler of the Demon World--the Demon King!"
+  },
+  {
+    "message": "...Even though I've never actually lived in the Demon World."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Speaking of which, don't you already have loads of friends like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah~~, true. There's Lolotte-chan, Sally-chan, everyone in the Delicious Food Squad, and Eauderourke-chan, for starters」"
+  },
+  {
+    "message": "So Ria-senpai knew about Lolotte's true identity too."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm so jealous. Having all kinds of friends like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure you'll become good friends with them right away too, Misasagi-senpai」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Really, really」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Is that so~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Having lots of friends is way more fun, after all♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It sure is」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, now that I've had my tea, I really oughta get back to studying」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, do your best」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you studying for entrance exams, Misasagi-senpai?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Not that, imperial studies. Terribly sorry for the intrusion」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bye-bye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Goodbye~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misasagi-senpai wants to become an emperor……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's not what it means\\s02」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayanishiki-chan is the heir to her family, after all. Once she graduates from Ryuusei Academy, she'll start working right away as the successor」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Come to think of it, what are your plans after graduation, Ria-senpai----」"
+  },
+  {
+    "name": "Ria",
+    "message": "「For now, going on to university, I guess. I've already got a recommendation」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Impressive as always, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, which university?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, there's also Re-Crea to worry about. I picked somewhere I can commute to from Ryuusei Town as much as possible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "And that's why Helena-san is the chairwoman at her age too……."
+  },
+  {
+    "name": "Ria",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing, it just struck me how you, Helena-san, and Misasagi-senpai all have constraints on your futures」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It might look that way, yeah. Still, it's not like we aren't allowed any freedom」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Normally, Ayanishiki-chan wouldn't even commute to school--she'd be getting elite tutoring at home」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My big sister even skipped grades to study abroad, so we actually get to do plenty of what we want」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And right now, I'm having fun doing Student Council activities together with everyone like this!」"
+  },
+  {
+    "message": "Out of her few free choices, Ria-senpai chose to spend her time with us."
+  },
+  {
+    "message": "Sometimes, it makes me feel uneasy."
+  },
+  {
+    "message": "Even if Ria-senpai was the one who asked us to help exterminate demons, we've ended up dragging her into everyday Student Council duties too."
+  },
+  {
+    "message": "If only we were more reliable, maybe Ria-senpai could have enjoyed even more freedom."
+  },
+  {
+    "message": "I wonder if it's really okay for us to monopolize what little freedom she has."
+  },
+  {
+    "name": "Ria",
+    "message": "「What's the matter? You've been looking down for a while now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If something's bothering you, tell your senpai all about it♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to spend even more time with you, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "message": "Giving in to negative thoughts and saying something like that out of nowhere!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's not just me. Everyone else has to feel the same way」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, ahaha, right, right. You're right~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, I only have a few months left to spend with everyone......」"
+  },
+  {
+    "message": "Ria-senpai murmured wistfully while holding her teacup."
+  },
+  {
+    "name": "Ria",
+    "message": "「Things are so fun right now that I can't help wishing time would just stop~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, though. We can't keep doing Student Council forever」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The time will come when it ends. I have to graduate」"
+  },
+  {
+    "message": "Every single minute and second we spend happily together is constantly ticking away, never to be reclaimed, yet――."
+  },
+  {
+    "name": "Ria",
+    "message": "「Even so, our bond won't end. Right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You know, I really love your house, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, why is that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because that's a place where everyone can gather no matter how much time passes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even after Student Council is over, I thought that as long as everyone gathers there, we can go back to our Student Council days whenever we want」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehehe...... sorry. For forcing my own selfish wish onto you like that\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it makes me happy. Hearing that about a house with nothing in it...... where I practically live all alone......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's all get together again and do all kinds of things, okay\\s04」"
+  },
+  {
+    "message": "After that, we kept talking until dusk about what we should do for our upcoming Student Council activities."
+  },
+  {
+    "message": "So that we could make our bond even stronger during the little time Ria-senpai had left to participate."
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "message": "完璧な仕事"
+  },
+  {
+    "name": "Helena",
+    "message": "「Alright, everyone! Eyes on Tamiko-chan!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Judging from the information gathered thus far, I can state with certainty that Lady Azel is in Ryuusei Town.」"
+  },
+  {
+    "message": "Riesling-san's voice echoes through the Student Council room, which feels strangely cramped than usual with so many people packed inside."
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「When it comes to finding people, leave it to me, Riesling Tooyama.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Having checked the security cameras at Ryuusei Town's station, convenience stores, banks, roads, and apartment buildings, we confirmed Lady Azel's presence as of the 16th.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's great news, but... are you even allowed to view that kind of footage?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-san, that's what they call 'a snake's eye is a snake.' In other words, protective coloration!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You mean 'it takes a snake to know a snake's path,' right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya is not a snake!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Is that the mouth that slanders Sir Jiiya as a serpent?! I shall strike that head from your shoulders!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You can chop it off, just wait until later.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wait, it's fine if it's later?!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Wouldn't it be better to just say, 'leave rice cakes to the rice cake maker'?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya is not a rice cake either!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What about the 17th?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「There was no sign of her.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, didn't you just say she's in Ryuusei Town?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「And that is precisely why I can state with certainty that she is in Ryuusei Town.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How can she be here if there's no sign of her?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooh, flash of genius! She's invisible! An evil scientist used her as a test subject!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Awesome!」"
+  },
+  {
+    "message": "Riesling-san steps up to the map pinned on the whiteboard, and"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The access points leading outside of Ryuusei Town consist of the port, two train stations, two major roads, and eleven regular roads, but--」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Security or surveillance cameras are installed at every single one of those locations.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Footage taken in front of the station on the 16th at 18:15 is the most recent video of Lady Azel at this point.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「And after that time, Lady Azel does not appear in any footage from the access points leading out of town.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see. So at the very least, it means she hasn't left town.」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, saw. That girl. Night before last. In front of, Subaru House.」"
+  },
+  {
+    "message": "The person responsible for 90% of why the Student Council room felt so cramped spoke up."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Around what time would that be?」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Four, five. Around then.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Around four to five in the morning on the 17th, then. Thank you very much for the valuable information.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She hasn't left town, yet she hasn't been caught on camera either... What could that mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Does it mean she's holed up somewhere?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Like an abandoned house or an unused warehouse, perhaps? So we just need to search buildings like that all over Ryuusei Town, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we know that much, it'll be fine. I'll handle the rest--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of sleep-talking is that? We're all going to search for her starting now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm happy you all feel that way, but I really will search on my own. There's the Holy Night Festival to prepare for, too.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn. Searching all by yourself might be cool and dramatic, but no way is that happening.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We can't leave it all to Sakura-kun alone. Even things we could find wouldn't get found that way.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not being honest with yourself, huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, shut up.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「While I am deeply moved by everyone's sentiments, I have not finished speaking.」"
+  },
+  {
+    "message": "Riesling-san took out another map and stuck it onto the whiteboard."
+  },
+  {
+    "message": "A red circle was drawn on it, completely enclosing the central area of Ryuusei Town."
+  },
+  {
+    "name": "Riesling",
+    "message": "「As a result of analyzing the photos Lady Azel had been taking, we have also determined her range of movement.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Within this circle two kilometers in diameter, any buildings with infrequent foot traffic that can also be freely entered and exited have already been searched.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「We have also investigated accommodations such as hotels, karaoke boxes, and internet cafes. As a result, we were unable to locate Master Azel」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So fast!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That much in just one day!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Compared to fighting in the scorching Sahara, it is nothing of consequence」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The Sahara...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, the places he could be are limited」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Either he is sleeping rough outdoors, or a safe house was prepared in advance」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Safe house?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It means a hideout for emergencies」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not like he's a spy or anything...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Taking the previous information into account...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Master Azel's hideout is narrowed down to a location reachable via a route from in front of the beef bowl shop Subaruya without being caught on camera」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel! You shouldn't make everyone worry like that! Sorry. 'Sorry' doesn't cut it! And then, as Azel and I embrace, a sob escapes Azel's lips」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you suddenly going on about」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since it's practically the same as having found him already, I'm imagining that moment right now and getting all emotional」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And then Sakura-kun says 'Welcome back' or something, right... Oh, that's actually kind of a nice scene」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, come back to reality」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「We have installed additional cameras in various locations to eliminate blind spots, and are currently monitoring all entrances and exits of every building within the perimeter」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Even now, several comrades-in-arms are keeping watch, and I will be contacted the moment Master Azel is spotted」"
+  },
+  {
+    "message": "Just what kind of life has this person lived...?"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tamiko-chan. Flawless work as always, I see」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Because I am a professional」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That being said, all of you students should devote yourselves to preparing for the Holy Night Festival without a care in the world」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Eeeh!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's a reasonable conclusion」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please let me do something too!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No way. This is an order from the Chairwoman」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, want, help. Ode, student, not」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya, you're so mean! Please leave some work for me too!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Even if you say that……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I understand how everyone feels, and I want to look for Azel-chan too…… but」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We can't do any more than what Tooyama-han is already doing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That may be true, but……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan. Even we can search for Azel-chan, but you all are the only ones who can prepare the Holy Night Festival」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「How do you think Azel-chan would feel if the Holy Night Festival wasn't at its best because you were out looking for her?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's why I'm handing this over to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A cell phone?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The moment Azel-chan is found, I'll let you know first」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "If I accept this, it'll mean I've agreed not to take part in the search……."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn. Just take it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sure, like Ria-senpai said, if you were the one to find Azel, that'd be all dramatic and romantic」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I'm aiming for」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, someone other than you can find Azel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know, though, there's no replacement for the Ryuusei Academy Student Council President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's Misa, isn't there」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't take your place, you know. As frustrating as that is to admit.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-Don't get the wrong idea! I just mean there's less than a week until the Holy Night Festival, so there's no way I could take over as the person in charge!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If it's preparations for the Holy Night Festival, the rest of us can help out with that together.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But you know, sorting out the reason Azel walked out on us is something only you can do.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When you see Azel, nail it for us, Student Council President!」"
+  },
+  {
+    "message": "I wondered why I'd never fallen for Nanaka as a girl."
+  },
+  {
+    "message": "My chest felt completely full."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Go get 'em!」"
+  }
+]

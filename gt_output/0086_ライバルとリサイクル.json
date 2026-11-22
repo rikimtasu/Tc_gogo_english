@@ -1,0 +1,826 @@
+[
+  {
+    "message": "ライバルとリサイクル"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, do you have anywhere in mind?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. Right now, maybe Ponpoko?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A tanuki shop?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A thrift shop. Though, well, it's mostly just junk.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That won't do at all! We need to find things that customers will actually want.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What kind of things would they want?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Please leave this to me.」"
+  },
+  {
+    "message": "Misa puffs out her chest and says."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, shall we have Misa escort us?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「First, right here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh.」"
+  },
+  {
+    "message": "It's Capricore, the high-end supermarket we came to before when shopping for the mixer."
+  },
+  {
+    "message": "The high-end supermarket in the Ryuusei Town shopping district, Capricore."
+  },
+  {
+    "message": "Compared to Inamiya, the supermarket I usually shop at, the prices are in a whole different league."
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll go ask if they have any unwanted items.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Can I come too?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just having you by my side, Big Sister, makes me...\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to go too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't get lost, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right. I'll...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Going in with such a big group would just be a nuisance.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk... You've got a point.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Besides, your knees are shaking.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well then, I'm off. Make sure you keep a good eye on the handcart.」"
+  },
+  {
+    "message": "The three of them disappeared beyond the automatic doors."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How pathetic, honestly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm ashamed of myself...」"
+  },
+  {
+    "message": "However, they returned before long."
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Cardboard boxes?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh, these are our spoils from here!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They said inventory is managed by headquarters, so they can't just give it away on their own」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Plus, since they mostly sell perishable foods, anything close to its expiration date gets thrown out, apparently」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What a waste...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So you brought back cardboard boxes instead」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She said she couldn't bear to come back empty-handed」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmph!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh! These look pretty sturdy~ And clean, too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't settle for just this! Next time I'll definitely get something wonderful」"
+  },
+  {
+    "message": "The next place they headed to was 'Raffine,' a shop dealing in luxury interior goods."
+  },
+  {
+    "name": "Misa",
+    "message": "「A place like this should have plenty of everyday items. Besides, it's independently owned」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't wanna look at the price tags...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about? We're only going to collect unwanted items, so the price tags don't matter」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-right! A-alright... This time I'll do my part too...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll stay behind. If I go in, I'll probably end up wanting all sorts of things」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Leaving Ria-chan behind to go in seems kinda wrong to me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll watch the handcart」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Count on you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds fun! I'm gonna go check it out!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Needless to say, that goes for me too~」"
+  },
+  {
+    "message": "Chatting cheerfully, they disappeared inside the shop."
+  },
+  {
+    "name": "Ria",
+    "message": "「You don't have to hold back--you should've gone with them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm actually relieved I had an excuse to watch the place」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn! Help us out here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All of a sudden!?」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「Come now, there's no need to be so modest」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No! We cannot possibly accept this」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「You don't like it, I see. All right then, how about this statue instead?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That isn't the issue--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's going on, Misa」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「Oh my, Synn. Welcome~\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Natalie. We're here collecting unwanted items for the Charity Bazaar」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「Yes, I heard all about it. And yet Misa here is telling me she doesn't want any of my shop's merchandise~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Come on, you shouldn't be picky」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm not! That's not it--what she's giving us is way too bad!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Luxury is the enemy, you know~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, take a look at the price tag」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Ones, tens, hundreds, thousands... uh-huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--Gasp!? We can't take something like this! It's supposed to be for a Charity Bazaar」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「That's exactly why, ex-act-ly\\s04 Here, take this and this along with it!」"
+  },
+  {
+    "message": "The generous Natalie finally even started pulling merchandise right off the display shelves."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, no. We can't accept these」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right! Not some little figurine like this--it has to be something far more fabulous!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, cut that out!」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「My, you have a discerning eye, young lady! Hold on just a moment!」"
+  },
+  {
+    "message": "Natalie went excitedly back into the rear room."
+  },
+  {
+    "message": "What is she planning to bring out this time?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Roro-chan, what have you done...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you wish to obtain what you desire, you must not compromise.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, well, saying that based on your own subjective taste doesn't really help.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What should we do? It's true that something we'd actually want is good, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We can't accept this much, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's do this.」"
+  },
+  {
+    "message": "Everyone gathers in a circle to hatch a plan."
+  },
+  {
+    "name": "Natalie",
+    "message": "「Sorry to keep you waiting~♪ You're def-initely going to love it this time\\s04」"
+  },
+  {
+    "message": "What she pulls out full of confidence is a cute mechanical clock."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's utterly wonderful~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now, as for the price we're all wondering about--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We're deliberately not looking!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Shouldn't this one be fine?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, I think so.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then, Natalie-san. Could we take \\{just|\\s12\\s12} this one?」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「Huh? You can take the others too, you know.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. We are very grateful for that, it's just that having too many overly expensive things would make us worry about keeping them safe...」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「True, it would be awful if a burglar came after them, wouldn't it? Well, if that's the case, it can't be helped.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When something is this wonderful, just a single one is more than enough.」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「Oh, really? I'm glad you like it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Natalie-san. Thank you very much for your cooperation!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh... That still feels so half-hearted...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's fine. It's not like we told a lie or anything.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To begin with, if I had to lie about it, I'd just take everything.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Truly a case of 'a white \\{dialect|\\s12\\s12}' as they say.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Since it's a special charity event, we want people to feel good about participating.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's a limit to just going along with the flow, huh~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though in the end, all we got were a trick clock and a cardboard box.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where to next?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are we calling it quits?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No! No we're not! We're just getting started!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Ho-ho-ho. Little missy over there, you sure look like you're wanting something~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Step right up, take a gander!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「L-Look. Next up is right here, right here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-A street stall is pretty rare.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-What kind of stuff are they selling~?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It looks so fun~!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Phew... I managed to play it off.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You can't fool my eyes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, little miss?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Call me Sally!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan. We're looking for items to sell at our academy's Charity Bazaar, but...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's this firecracker?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa there, that baby's a top-notch piece that lays down smoke and lets you bolt at three thousand miles an hour!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And this fluffy ride is...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「A custom-modded piece I just got in stock! Pedal it and it generates electricity--an ecological and economical masterpiece!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a huge fork~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「This is a dinner set favored by top-class demons! Is it French today? Or maybe Italian? Don't mind the lack of MP, that's part of its charm!」"
+  },
+  {
+    "message": "Hmm...? Did I just hear something I really can't let slide?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Every single one of these... How utterly useless can they be?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Did you say something!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's no way I could put things like this in the bazaar」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's that supposed to mean? You think you can just browse around and walk away!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Unfortunately, we don't need them」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm not doing this for fun either, you know. This is business. I'm definitely not letting you get away until we strike a deal!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Trying to charge money for this is practically a scam!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Money...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on, hold on. Paying money just to collect donations defeats the whole purpose」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I already know that!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Trying to get your hands on the latest Demon World Mail-Order goods for free--what a bunch of nerve!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry. Maybe I didn't explain enough, we're with the Ryuusei Academy Student Council and――」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Student... Council...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're collecting unwanted items for the Charity Bazaar at the end of this month」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Student Council, Student Council... Feel like I've heard that somewhere before...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sorry. The moment we have to pay money, we just can't ask you for it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I don't need any money! Instead, treat me to a beef bowl!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can make it if you're fine without the beef...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Not an onion bowl, a beef bowl!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Grrr... Fine, let's call it a deal with extra green onions」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't push yourself」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Either way, I'd still be paying out of my own pocket. Negotiations have broken down.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No, no! I wanna eat a beef bowl, I wa-n-na ea-t o-ne!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you want to eat one that badly, why don't you just go buy it yourself?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If I could buy it, I would've done that from the start! For an angel, you can't even figure that out?! What a dummy!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-Angels are not dummie~~s!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, that's just how it is.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Buy it for me! If you don't, I won't let you go home!」"
+  },
+  {
+    "message": "She latches tightly onto Misa's waist and refuses to let go."
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph.」"
+  },
+  {
+    "message": "Ignoring her, Misa turns on her heel and marches briskly forward."
+  },
+  {
+    "name": "Sally",
+    "message": "「Ow, ow! Don't drag me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't have any more time. Let go of me.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Grrr. If it's come to this, time for my trump card!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, st-stop it, ngh, kh, that tickles, hyah, not there, aah, hahaha, stop!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, you shouldn't do that out in the middle of the street... ba-dump\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't just watch, hyaah, wh-wh, eek, aah, nngh, do something, hih, about this girl!」"
+  },
+  {
+    "message": "I pin down the arms of the tantrum-throwing Sally-chan and pull her away from Misa."
+  },
+  {
+    "name": "Sally",
+    "message": "「Where do you think you're touching, pervert!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There isn't even anything there to touch...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Grrr!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Will this do?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-Thank you.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uuu~~. I wanna eat a beef bowl...\\s06」"
+  },
+  {
+    "message": "I'm starting to feel kind of bad for her."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you want to eat one so badly?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm glad you asked! Back home, I've got three starving little ones waiting for me to return, sob, sob.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aren't there three of you……?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yep. 'Cause we're 'demons,' after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, speak of the devil, here comes Jangara!」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eeeh!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek, it appeared!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Look, he's starving, poor thing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't really get it……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hm? What's wrong, Jangara」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whaaat!? These guys are that 'Student Council'--!?」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eeeh!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I see, I see. Running into you here seals your fate」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What do you mean?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Don't play dumb! You put my precious buddy through hell, didn't you!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, right! I thought I'd seen this little guy somewhere, so it really is from back then……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai, you know them?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's the demon from when we fought at the Five-Star Restaurant」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You can't even tell them apart」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Jangara! This is our big chance to settle the score from back then!」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eeeh!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Everyone, come on out!」"
+  },
+  {
+    "name": "Mochimochi",
+    "message": "「Eeeh!!」"
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eeeh!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「We are――」"
+  },
+  {
+    "name": "Sally",
+    "message": "「The Delicious Food Squad♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「We're gonna settle our food grudge once and for all----!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's an unfounded grudge, but if you're going to bare your fangs, we'll take you on. Ryuusei Crusaders, move out!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--?! T-Transforming right here in the middle of town...?!」"
+  },
+  {
+    "message": "Would you like to view the battle tutorial \"Beware of EX Attacks\"?"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ８_EASY"
+  },
+  {
+    "message": "ステージ８_HARD"
+  },
+  {
+    "message": "ステージ８_NORMAL"
+  }
+]

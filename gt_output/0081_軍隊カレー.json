@@ -1,0 +1,227 @@
+[
+  {
+    "message": "軍隊カレー"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We aren't having much luck finding new shops, are we~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, we've already checked out almost all of them.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to make things much, much livelier, so I want to increase the number of shops even more!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, our only option is to check out the underground shops in the back alleys--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my? What could that place over there be?」"
+  },
+  {
+    "message": "Stairs leading down to the semi-basement of a dilapidated building. Just before the entrance hangs a sign bearing a garish skull mark."
+  },
+  {
+    "name": "Synn",
+    "message": "「What was that place again... A curry shop, if I remember right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Curry and rice?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, though the vibe is so sketchy that nobody's ever gone in...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I cannot sit still after hearing the words 'curry and rice'! I'll be right back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pretty sure it was some kind of eatery. Wait, Lolotte... where'd you go?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady has gone to have a meal.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Riesling!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Authentic Spice Curry 'Land of Love.' It is managed by a comrade-in-arms of mine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, is that right?」"
+  },
+  {
+    "message": "Might as well have her introduce me while we're here."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Jacqueline.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that the manager's name?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「A woman once known as Death March Jacqueline.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Jacqueline was a chemical weapons specialist who sprinted across battlefields thick with artillery shells, holding defoliant in one hand and VX gas in the other.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Plants withered, beasts foamed at the mouth, and people collapsed. After she passed through, not even a single blade of grass remained... or so the legend goes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's why she's Death March Jacqueline... Where on earth did you meet someone like that?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「She was a classmate of mine back during our assassination training.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Assassination?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「They are fond and nostalgic memories, indeed.」"
+  },
+  {
+    "message": "Curry made by someone like that. True, both chemicals and spices come down to the blend--"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Lolotte's in danger!」"
+  },
+  {
+    "message": "Just as I started to rush inside the shop, Lolotte emerged from within looking frail and weak."
+  },
+  {
+    "message": "She was swaying unsteadily on her feet, almost as if suddenly convulsing."
+  },
+  {
+    "name": "Synn",
+    "message": "「We have to administer an antidote fast. Riesling! What are you spacing out for?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gah... *cough*...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you use in a situation like this, um, uh, if I remember right...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Pralidoxime methyl iodide. Also known as PAM.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「However, more importantly right now--pardon my rudeness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!」"
+  },
+  {
+    "message": "Riesling suddenly reached into my coat pocket."
+  },
+  {
+    "name": "Riesling",
+    "message": "「This should prove to be a more effective remedy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Milk?」"
+  },
+  {
+    "message": "What a person... to have noticed that I always carry milk on me!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gulp, gulp... Phew. Ahh~~ I feel alive again~~」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「When one thinks of curry?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's hot. When you eat something hot and spicy, milk is good--wait, oh, I get it!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It is said to soothe spiciness better than water or tea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's why you grabbed the milk... Wait, is Lolotte okay?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was so spicy~~\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Wait, so it wasn't poison or anything at all. Phew, that scared me.」"
+  },
+  {
+    "message": "Come to think of it, if Lolotte were ever in real danger, Riesling would've acted immediately anyway."
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady. How was the taste of the Field Marshal Curry?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Field Marshal?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Apparently it's a ranking system for spiciness. The higher the rank, the spicier it gets.」"
+  },
+  {
+    "message": "Being a Marshal means it's way higher up than a Colonel or something, right."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But, Jeeves. Even for me, the Marshal Curry is impossible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then around Sergeant Curry?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No. It's Private Curry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It is super mild」"
+  },
+  {
+    "message": "Even as a curry lover, she really loves super sweet curry, huh."
+  }
+]

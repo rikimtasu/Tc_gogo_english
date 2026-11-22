@@ -1,0 +1,375 @@
+[
+  {
+    "message": "スパイな大作戦"
+  },
+  {
+    "name": "Synn",
+    "message": "「Today's bargains were way too good.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Deliberately targeting flash sales to drive retail stores into the red is purely wicked, Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should you really be saying that when you're reaping the benefits too?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ah, um...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Amyrina... hello.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「H-Hello. Um... Mr. President.」"
+  },
+  {
+    "message": "Even you call me that."
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you out shopping too, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「No... that's not really it, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, out for a walk or something?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Strolling... I suppose.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, is that so.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「You don't think it's strange?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I know someone who loves doing the exact same thing.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Could you mean Lolotte?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's right.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte is full of curiosity, after all. She used to tell me all sorts of things she'd learned about.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She doesn't anymore?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「She won't even give me the time of day anymore\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. So you're exploring so you won't lose to her.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I-It's not like we're having that kind of contest, though...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I want to know. More about this world--about this town.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I want to know more... about this place that Lolotte loves so much.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've only just arrived here yourself, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes. That is right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There are lots of places Lolotte likes, so if you don't mind just a few of them, I can show you around?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh... Are you sure?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, as long as you're okay with the shopping district」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes, please, by all means!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte just pressed herself right up against the shop's glass window, you know. Her face got all squished like this」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Heehee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And then the line Lolotte came out with was, 'So this is what they call window shopping!!'」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Oh, honestly, Lolotte...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Also, on the way home from school, we used to eat pork buns here together with everyone」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Pork buns... are they?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Right. Of course she's never eaten one before."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Alright then」"
+  },
+  {
+    "message": "I tightly gripped my last precious 100-yen coin."
+  },
+  {
+    "name": "Synn",
+    "message": "「Kim-san, one pork bun!」"
+  },
+  {
+    "message": "I split the bun I bought in half and handed it to her."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Are you sure?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it's totally fine. I was just wanting to eat one myself anyway」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, before it gets cold, let's dig in!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Nom...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How is it?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「This pork bun. Lolotte used to eat these too, didn't she...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course she did」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「With this, have I been able to understand even a little of the fun Lolotte spoke of...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't think about such complicated things. Eat it while it's hot. It tastes better that way」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte's a glutton, you know. She digs into her food with a huge smile on her face」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Naturally, at times like that, she empties her head and focuses all her senses on the taste」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And then just one word: 'Delicious!'」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't tell me. Do you dislike meat?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ah, no. Somehow, my stomach feels full, and it makes me feel happy」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「So this is what Lolotte meant by 'delicious'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Exactly!」"
+  },
+  {
+    "message": "It seems I somehow managed to make her happy."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mr. President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「So Lolotte has been spending her days harmoniously with everyone like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think it's anything worth exaggerating that much\\s02」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It truly looks like fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「And yet, I didn't even listen to what Lolotte had to say...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina...?」"
+  },
+  {
+    "message": "Even though I went out of my way to treat her to a meat bun, she grows gloomy and looks down."
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really know what happened between you and Lolotte, but... you two are friends, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If so, I think it's better to get along and have fun together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't that why you came to see Lolotte in the first place?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't it because you want to do that that you're trying to learn about the things Lolotte loves?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I don't know. However, if doing so will make Lolotte forgive me even a little...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「If there were any room for forgiveness, you wouldn't... avoid me, right...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Thank you very much for today. The meat bun was delicious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Well then, goodbye」"
+  },
+  {
+    "message": "Leaving behind a frail impression, she disappears back into the city once more."
+  },
+  {
+    "name": "Synn",
+    "message": "「Emilinaaa!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If there's ever anything I can help with, don't hesitate to tell me!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mr. President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, take care! Bye-bye!」"
+  },
+  {
+    "message": "I hope this cheers her up even a little."
+  },
+  {
+    "message": "I felt kind of embarrassed, so I immediately looked away from Amyrina."
+  },
+  {
+    "name": "Riesling",
+    "message": "「You certainly are caring. I believe I understand why my lady places her trust in you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am currently in the middle of a mission, so please excuse me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, hey, wait!!」"
+  },
+  {
+    "message": "Lolotte isn't even here, so why is Riesling-san...?"
+  }
+]

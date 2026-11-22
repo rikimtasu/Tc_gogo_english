@@ -1,0 +1,380 @@
+[
+  {
+    "message": "決戦前夜"
+  },
+  {
+    "message": "The day before the Holy Night Festival."
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Blackout curtains, blackout curtains, we need more!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Coming through with the delivery! Out of the way, please!」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「The Baseball Club just keeps on doing practice swings! Behold! My practice swings!」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「In the way, in the way, in the way! Baseball Club over there, you're in the way!」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「You dare call my sacred practice swings an obstruction?!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Both of you are in the way!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good day to you all」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooh! Refreshments, right?! Gimme!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hardly any time has passed since you brought us refreshments earlier, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. It's already three o'clock」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When did it get so late」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Just so. Nothing good comes of pushing yourselves too hard, after all. Won't you take a little breather right about now?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then I'll put on some tea」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Refreshments, refreshments! Yay」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You haven't even been working」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Just having me around makes the atmosphere better!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What are you, a deodorizer」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, I suppose we need only set the sweets in front of Sally-chan. So long as she can enjoy the atmosphere, that's plenty」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No way, not just the atmosphere!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's the big deal! The angels haven't even been here since this morning!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have them working on a job that requires that」"
+  },
+  {
+    "message": "Lolotte, Amyrina, and Melilot-san are undoing the magic circles around the academy."
+  },
+  {
+    "name": "Sally",
+    "message": "「Boo-hoo, I wanna have a job where I just hang around outside too! Actually, I'm totally gonna do that!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now don't ya go gettin' all worked up like that. Have yourself some rakugan and calm your nerves a bit」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Munch, munch. Yum! Pure bliss!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr... eating Japanese sweets with such a happy look on her face... she's been completely brainwashed」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sally, you eat both kinds anyway, don't you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why doesn't anyone ever bring sweets as a treat?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Maybe you've got a problem with your choice of friends?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Speak of the devil」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My friend! Thanks for the treats!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「What are you talking about--?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I was a fool to get my hopes up...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, right, right--. I almost forgot--. Big trouble--. Big trouble--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When you say it like that, it doesn't sound like big trouble at all」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah. Nobody believes me--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Quit the fake crying. So, what happened that's 'big trouble'?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「There was a multi-cart pileup at the entrance--, and three handcarts broke--, and now there aren't enough spares so everyone's fighting over them--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That IS big trouble!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Everyone's overloading those carts way too much! Nobody's following the weight limits, are they?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And then Shio-chan snapped, and started swinging Kogitsunemaru around--」"
+  },
+  {
+    "message": "Everyone is busy."
+  },
+  {
+    "message": "The only ones with their hands free at this moment are..."
+  },
+  {
+    "name": "Sally",
+    "message": "「Leave it to me! With this fabulous gas I bought from Demon World Mail―Order, 'Shizukaninaru,' I'll quiet those noisy fools right―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll go check it out! Misa, hold down the fort here for a bit!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Got it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Listen to what I'm saying!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It says 'poison' right on it, doesn't it」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Everyone, fighting, stop. Fighting, not beautiful. Ode, carrying, help」"
+  },
+  {
+    "message": "Thanks to Eauderourke, who had come to help, saying that, the commotion had already died down by the time I reached the entrance."
+  },
+  {
+    "message": "He's strong and leaves quite an impact, in various ways."
+  },
+  {
+    "name": "Shio",
+    "message": "「My apologies, Lord Synn. Despite being entrusted with maintaining public morals, I lost my composure. I shall slice open my belly--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you want to take responsibility, do it by seeing your job through to the end」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What magnanimous words! I am deeply moved! I shall work myself to the bone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, don't push yourself too hard, okay」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「That is all. Did you write it down, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nailed it! Here you go, Librarian, all done!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see... hmm, hmm. How intricate... another pattern variation...」"
+  },
+  {
+    "message": "Thinking they looked busy, I was about to turn back when."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, slacking off is no good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just a bit curious about your progress」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Leave it to me! It's going great!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We are far from being able to say that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't throw cold water on me right when things are getting good」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I apologize for borrowing people from the busy Student Council」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This job is important too. So, how is the progress looking?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We have destroyed nearly three-sevenths of the magic circles on campus, yet just under eighty percent of the overall function still remains」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though you've destroyed that many?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The smaller magic circles are complementing each other's functions, preventing any loss of capability」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「If only Lolotte's spiritual essence were a little denser...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm a secretary, so this is plenty fine for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Spiritual essence?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U-Umm, it's what makes up the bodies of us angels. Originally, we're non-material beings--in other words, our bodies are composed of spiritual substance」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, well, we can't operate in the Human World like that, so here we wrap ourselves in physical matter to protect our spiritual substance」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte's been here so long that her spiritual substance has thinned out... so she can't read the seals」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even I'm surprised by it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm the only one handling the dispelling and destruction anyway, so the speed won't change」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, Lolotte-san's handwriting is neat. It's very easy to read and has been a great help」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Those who get it really do get it, don't they」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, the destruction wasn't for nothing. I've nearly grasped the mechanics and structure of these magic circles」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「From here on, I will destroy only the magic circles with critical functions to strip them of their power」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Doing this should strip away 90% of their functions before Re-Crea reaches criticality」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're counting on you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That means Azel-san and the President will have tons of time to talk!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Woo her nicely and get her into bed!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-Whaaat!?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Wh-Wh-Wh-What are you saying, Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Anyway, good night」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What good is going to sleep now!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Panda sure is ignorant. Living creatures are supposed to sleep at night」"
+  },
+  {
+    "message": "Contrary to Lolotte's perfectly reasonable claim."
+  },
+  {
+    "message": "The day of the Holy Night Festival arrived while the vast majority of the students pulled an all-nighter."
+  }
+]

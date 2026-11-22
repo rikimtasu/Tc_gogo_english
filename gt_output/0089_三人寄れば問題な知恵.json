@@ -1,0 +1,483 @@
+[
+  {
+    "message": "三人寄れば問題な知恵"
+  },
+  {
+    "message": "After getting the go-ahead from Helena, I went around telling my close friends about it."
+  },
+  {
+    "name": "Eddie",
+    "message": "「Oh, congrats, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not officially decided yet, though. I'm counting on you at tomorrow's general assembly」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, hey, Synn-kun~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's up, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Have you seen Nana-chan~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? I could've sworn she went to find you」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooh~ The Ryuusei Academy Kirakira Festival~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. We'll go over the details at tomorrow's general assembly, though」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sounds fun~ Though it looks like it's gonna be rough for you, Synn-kun~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha...」"
+  },
+  {
+    "message": "On top of that, I still have demon hunting to deal with, too."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, the harder the work, the better the payoff's gotta be」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Already calculating your reward in return, huh? Just as expected」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I see~ Wonder if there's anything I can help out with~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well~ I'd really appreciate it if you could help spread the word about this」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, speak of the devil~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Oh, Sacchin-senpai! Did you find Yuugiri-senpai?」"
+  },
+  {
+    "message": "If I remember right, she's Nanaka's underclassman--a girl named Okamoto, I think."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So, like, the Student Council is apparently throwing a festival called KiraFes--」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Ah. If it's about that, I already heard」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Pretty sure the Vice President told me to pass along her regards, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa did?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh, so the vice president's been talking to the first-years too」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Looks like they've been going around talking to everyone in class about all sorts of stuff」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so~」"
+  },
+  {
+    "message": "They're steadily putting in the work behind the scenes, huh."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, it's Nana」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hello--"
+  },
+  {
+    "name": "Sacchin",
+    "message": "Eh!? You're already at the shop?!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「We're meeting at Chocolat, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Chocolat, you say……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a cake shop in the shopping district. Those two are both members of the Sweets Club」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Jeez, and here I was waiting for you, Nana~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「I figured she'd gone on ahead. She's pretty impatient, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, you know her well」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sorry about this, Synn~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no. Take care and have fun~」"
+  },
+  {
+    "message": "I wave goodbye and see the two of them off."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's go too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where do you think we'd get the money for that」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a spineless Demon Lord you are」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, if Kirafes succeeds, we might actually get to eat some cake」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How does that work?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We'll have them open a stall at Kirafes. Don't you think that'll massively boost our chances of getting to eat some?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh…… Planning to devour everything under the guise of 'taste-testing,' eh? As expected of you, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, let's at least stick to the leftovers」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Alright! Now that it's decided, let's head straight to this Chocolat place--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure Nanaka will handle things well.」"
+  },
+  {
+    "message": "It'd be a bit rude to ask her for a favor without even eating some cake, after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「In the meantime, let's solidify our groundwork.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, got a second?」"
+  },
+  {
+    "message": "I call out to the students I spot and try talking to them about Kirafes."
+  },
+  {
+    "message": "A lot of them had question marks floating over their heads at the sudden topic, but overall, everyone's reaction was good."
+  },
+  {
+    "name": "Azel",
+    "message": "「Not interested.」"
+  },
+  {
+    "message": "Well, you get people like that every now and then."
+  },
+  {
+    "message": "If I'm going to do this, getting a little more in-depth with them would make things more certain, though."
+  },
+  {
+    "message": "Even so, quite a few of them already knew about this."
+  },
+  {
+    "message": "The source was, of course--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chaaan.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shiooo.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Whoa?!」"
+  },
+  {
+    "message": "Getting called out to from the opposite side at the exact same time, Shio-chan gets all flustered."
+  },
+  {
+    "name": "Shio",
+    "message": "「Wh-Which of you should I greet first...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Either one is fine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can start with Misa.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As you wish. Good day to you, Dear Sister. And a pleasant day to you as well, Lord Synn.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. Do you think that means you've conceded the win to me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We're tied when it comes to Shio. I know all about it, you know--that you've been going around preaching about Kirafes too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like it. Word has gotten around more than I expected. At this rate, tomorrow's general assembly should go smoothly, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That depends entirely on who's spreading the word.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-What's that supposed to mean?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Spouting nothing but sweet, fun-sounding promises to smoothly reel people in and drag them along.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How awful...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You, I mean you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy. Was it really like that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wouldn't be weird if it looked that way.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'd expect nothing less from you, Paqy. That's how someone who knows the difference ought to be.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, being so damn serious that the content doesn't grab anyone's interest is also a problem.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Gulp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that true, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nobody ever said it was about me!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Um... What manner of business might you have with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. Well, actually...」"
+  },
+  {
+    "message": "Before she can complain about anything, I steal a quick glance at Misa to gauge her reaction."
+  },
+  {
+    "name": "Misa",
+    "message": "「You can go ahead first here.」"
+  },
+  {
+    "message": "She's strangely principled in the weirdest places."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, actually, it's about Kira―Fes―」"
+  },
+  {
+    "message": "And so on and so forth."
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm... I see. And what, pray tell, is Sister's side of the argument?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Alright, my turn!」"
+  },
+  {
+    "message": "The two of them finish their speeches."
+  },
+  {
+    "name": "Shio",
+    "message": "「So, whether to hold it or not. The question comes down to which option would be preferable, does it not?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes... whether we managed to make a case that makes you want to vote in favor at tomorrow's general meeting.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. Allow me to speak candidly.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ba-dump...\\s03」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Katsu!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's wrong, Shio? Did something upset you...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Fufufu... hahaha! I am a fortunate man indeed. After all, I have gained the deepest understanding of this event in the entire academy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? What do you mean by that?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「At first, I was somewhat perplexed by Sir Synn's explanation, yet with Elder Sister's supplement, it has come to make complete sense」"
+  },
+  {
+    "name": "Misa",
+    "message": "「See~? Just like I told you\\s04」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, in the reverse case. Had I heard Elder Sister's explanation first... I would have lost all desire to hear anything further」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-Wha--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「These guys are idiots. If the two of 'em teamed up, they could fool way more students, hehehe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How wicked...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「For a mere apparition, it comes up with a clever scheme. What say you to that, Sir Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「J-Just Misa and me, together...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey! Needing the two of us to do it together would just be embarrassing, wouldn't it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh, true. Being all alone together... would be embarrassing\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh? Wh-wh-wh-what are you talking about, that's not what I meant--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~!! Now you've made me forget what I was even going to say\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I get it. Basically, if we each understand it, we can do it solo, so there's no need to go out of our way to do it together?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, that! So I'll memorize what you said, and you memorize what I said!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Got it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then let's practice」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hahaha. You two are certainly on close terms」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How on earth does it look like that from any angle!!」"
+  },
+  {
+    "message": "Needless to say, the sun went down with them doing nothing but practicing."
+  }
+]

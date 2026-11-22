@@ -1,0 +1,272 @@
+[
+  {
+    "message": "襲われる時刻？"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Um, hey……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-We're all alone…… aren't we」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Of course it will! There's no way you've got the guts to jump me, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me!? W-What are you suddenly talking about!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I mean, l-look, I'm a girl, and you're a guy, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Do you really think I'm the kind of person who'd do that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No! That's not what I…… 」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, I literally just said there's no way you would!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That still means you think I'd jump you if I only had the guts!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Soba actually wants him to jump her」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-Wh-Wh-Wh-What」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy. Saying stuff like that in the middle of patrol really isn't cool」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, yeah. My bad, alright」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You too, Nanaka. Don't make weird jokes at a time like this, okay」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Oh, yeah…… Y-You're right. Guess I was just a little nervous」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we're just up against ordinary demons, the two of us should be able to handle them somehow」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If those strong demons show up and things get dicey, I'll draw them away, so you call everyone on your phone, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way! That's too dangerous!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll be fine. I can at least buy enough time for everyone to rush over」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I can fight too…… 」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Having Master Synn act as the decoy is the logical call」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why's that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Neither Master Synn nor the great me has a cell phone」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's the reason?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Having a cell phone must be amazing. Apparently the newest ones can even send photos and play games」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, they've been able to do that for a pretty long time」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Awesome. How does it send photos when it's just a phone? Is it magic?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it has a fax machine attached?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, it doesn't\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, it's thoughtography! They must have scientifically figured out the principles of thoughtography!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Modern science is awesome」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not science!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We finally get a moment alone together in the dark... so why are we having such an idiotic conversation...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's not thoughtography, then how--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know how digital cameras and computers turn images into data? It's the same thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Something's here」"
+  },
+  {
+    "message": "A presence, as if the darkness had grown thicker."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's... nothing really here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No... this one... smells like a Demon」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This suspicious presence is... a Demon...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yoo-hoo」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, it's just you, Sally」"
+  },
+  {
+    "name": "Sally",
+    "message": "「'Just you' is so rude!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I was already pissed off from getting lectured and kept late at my part-time job, and I still went out of my way to rush over here 'cause I sensed a suspicious presence!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why'd you get lectured?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I got hungry during my shift, and right there in front of me was a beef bowl... eheh, I just couldn't help myself」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't give me 'couldn't help myself'! No wonder you got yelled at!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A suspicious presence... Then what I felt earlier was...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah. There were a whole bunch of presences I didn't recognize either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat!? Then I've gotta send an emergency email to everyone!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And, send. That does it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks like they've arrived」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Over there!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! It's the same ones again」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, wait a sec, Synn, there's something... different about 'em than usual!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ears! They've got ears!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Those are cat ears!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They might look a little cute, but... we can't let our guard down」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, I'm totally ticked off right now!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ１６_EASY"
+  },
+  {
+    "message": "ステージ１６_HARD"
+  },
+  {
+    "message": "ステージ１６_NORMAL"
+  }
+]

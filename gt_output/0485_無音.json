@@ -1,0 +1,374 @@
+[
+  {
+    "message": "無音"
+  },
+  {
+    "message": "The entire schedule of midterms is finally over."
+  },
+  {
+    "message": "I'll still feel anxious until the grade rankings are posted tomorrow, but there's no use fretting over it now. I did everything I could."
+  },
+  {
+    "message": "Alright, time for a change of pace."
+  },
+  {
+    "message": "I want to stretch out as hard as I can and take a deep breath somewhere. Somewhere wide open with a great view."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-huh?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel! Did you come here for a breather too? Just like me!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel is looking down at the wharf from the hilltop, staring intently."
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you looking at?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh, do you mean the big passenger ship docked at the pier? I don't know its name either.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No. Further out.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Around the horizon? I think that's a tanker or a container ship sailing out there, though... without binoculars, it's a little hard to tell.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No. Everything closer than that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-everything? U-umm, it just looks like the regular ocean to me, though...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I know what the ocean is. But what is that pattern?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There aren't any designs on the open sea, you know? We don't get red tides or blue tides around here, either.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It isn't colors like that. Look closely. Subtle as it is, stripes in shades of the sea are running across it, are they not?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I cannot believe there is any regularity or law to them. Yet it would be premature to declare them mere coincidence or disorder.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...! C―could it be―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, Azel-san is referring to the current rips.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yikes?!」"
+  },
+  {
+    "message": "Melilot-san appears out of nowhere."
+  },
+  {
+    "message": "This isn't the carpeted floor of the library, so how did she get here without making a single footstep?"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You again. Why are you following me?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is a misunderstanding. It just so happens that wherever I go, Azel-san is already there.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I get it, you were looking at the differences in the ocean currents. Just like you said, Azel, the sea really is dyed in different shades」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hmph, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel? Doesn't the Principality of Sharo-Ma have an ocean?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Th-That's right. There's nothing like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. Then hey, wanna go over to the other side of Finis Tower? At this time of day, the current paths look way prettier from over there, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need. I already understand. That is nothing more than the flow of seawater」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We came all the way up this hill, though--wouldn't that be a waste?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Leave me alone」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is someone right around here telling me not to get involved with you」"
+  },
+  {
+    "message": "Azel twirls a finger, pointing diagonally above their own head."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's someone right around here telling me to stay with you, Azel」"
+  },
+  {
+    "message": "I point at my own chest."
+  },
+  {
+    "name": "Azel",
+    "message": "「Your god resides in a place like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, the one above your head is a god, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not residing there. We merely commune around here」"
+  },
+  {
+    "message": "Azel waves a hand back and forth in the empty space they had just pointed at."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's interesting--is it the faith of the Principality of Sharo-Ma? What's this god's name?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How fascinating. Would you be so kind as to tell me as well?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hu--... It cannot be pronounced in this country's language. Don't blame me if you can't catch it, alright?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My god's name is...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「――――」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. To my auditory sensors, it registers as complete silence.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I couldn't catch it either.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hmph.」"
+  },
+  {
+    "message": "It's strange. Azel definitely muttered something. Having never studied the Principality of Sharo-Ma, I can't even imagine what sort of god's words those might be."
+  },
+  {
+    "message": "Yet, the tone brings back memories that go beyond words."
+  },
+  {
+    "message": "The fields I ran around in when I was little, the sound of wind passing through the leaves, the sound of budding sprouts, the sound of falling blossoms."
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, it is exceedingly meaningful.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To me, the encounter between Sakura-kun and Azel-san feels unmistakably like groundwork laid for the future.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「By drawing each other in, the two of you are learning and thinking about many things.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Unnecessary.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think I'm being praised, but it doesn't really ring a bell.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Naturally. If I were to put it into words, this is a plan spanning a hundred, or even a thousand years.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Meaningless. That far ahead――」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel abruptly falls silent and turns his face toward the tideway once more."
+  },
+  {
+    "name": "Azel",
+    "message": "「The scenery is beginning to freeze... I can sense faint fractures... It really is going to vanish, isn't it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「V-Vanish? It's like this every year when autumn ends and winter's about to start, you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san, everything visible from here is not dying.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is breathing. Withering yet budding, being born yet dying. Fleeting, undeniable, and precious.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you trying to say?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is what I mean.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh-What are you doing!?」"
+  },
+  {
+    "message": "Melilot-san gently covers Azel's ears with both hands."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Quiet now. Close your eyes.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Seemingly not completely deaf to her voice, Azel lowers his eyelids just as Melilot-san tells him."
+  },
+  {
+    "name": "Azel",
+    "message": "「...What is this sound?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The sound of buds swelling as they await spring, the sound of bark splitting open against growing wood, the sound of petals preparing themselves for the day they bloom」"
+  },
+  {
+    "message": "Yes, that's it! That's the sound I felt from Azel's god earlier!"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't know anything about that!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「All you need to do is quietly open your eyes and listen closely」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mind your own business!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then instead of the sounds of a peaceful world, shall I offer you my blessing?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'd rather take foul poison!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey, that way is where this 'tideway' or whatever is clearly visible, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going. Don't you dare follow me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He left... I can't tell if Azel is unapproachable or just honest」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee... He's simply pure-hearted, very much so」"
+  },
+  {
+    "message": "Melilot-san and I stood there and watched Azel off."
+  },
+  {
+    "message": "Azel looked back just once, but the moment he noticed we were still there, he scurried off in a panic."
+  }
+]

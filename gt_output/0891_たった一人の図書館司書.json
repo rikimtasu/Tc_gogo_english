@@ -1,0 +1,439 @@
+[
+  {
+    "message": "たった一人の図書館司書"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey Synn, about this ledger」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, is something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wanted to check past accounting records for reference, but I can't find them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, weren't they kept on the reference shelves or something...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, if that's what you mean, I think they were probably sorted out before the Student Council changed hands」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Pretty old records had piled up, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Does that mean they already threw them out or something?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nope, don't worry」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They should be stored in the library vault right now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I didn't even know there was a vault」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's literally a place for storing important books and records」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Though if I remember right, you can't go inside without Melilot-san's permission」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Your face looks bad, Miss Treasurer. Did something happen?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You mean complexion...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha... I'm just not very good with that librarian」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I think she's a lovely, mature, and wonderful person, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All I can picture is getting lectured about borrowing books」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aah~ That's a rite of passage for first-years~\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, it's not like I dislike her or anything, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll go borrow them for you instead」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, are you sure?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just finished my own work, and you still have tasks left, right, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry about that, I owe you one!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'll be back in a bit」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please be careful, President!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It's not like Melilot-san is a bad person or anything……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Always the soft touch, aren't ya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My hands are free, so what's the harm?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, do whatever you want, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me--」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Yes, yes, can I help you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd like to see the librarian, Melilot-san」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Ahh, if you're looking for Melilot-san, I think she's probably over that way organizing books」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so. Thanks」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「No, no, you're welcome」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「……Is something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you always the only one on library duty?」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Well, the librarian is a pretty hard person to please」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh--……」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「She even organizes all those books entirely by herself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see……」"
+  },
+  {
+    "message": "I wonder if we'll get kicked out if we chatter too much."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's surprisingly big, isn't it, this library」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Chattering away right off the bat--leave it to the Demon Lord. You've got guts」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, it's not like the librarian's gonna eat me alive or anything...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is there something wrong with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhyah!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please keep quiet inside the library」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Ah, sorry about that...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...You seemed quite lively for someone talking to themselves, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Ahaha...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So, do you have some business with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oops, right, I do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was hoping to borrow some past Student Council records」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Past records...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I heard they're kept in the library's archives」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, indeed」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We hold onto the materials that the Student Council room can no longer manage」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could I get permission to enter the archives?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I'm terribly sorry, but I cannot allow that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As a rule, general students are prohibited from entering the archival stacks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, is that how it is...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is there any way you could make an exception?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I didn't say you couldn't view the records at all, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if you simply say 'past records,' I imagine there are quite a variety of them...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! Um, accounting records」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For preparing for KiraFes, I was hoping there might be something I could use as a reference for the ledgers」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. Please wait a moment」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Will these do?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, these are fine」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that so. I'm glad I could be of help」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for putting you through the trouble」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It was hardly any trouble at all. Please don't worry about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, being able to pick out this many accurate materials in such a short time is amazing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I'm used to this kind of work」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, you manage all the books by yourself too, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Being alone is easier on the mind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh--……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have you been the librarian here for a long time, Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's still only been a few years, though...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Why do you ask?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, no, I was just curious, I guess」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Curious about me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I suppose so」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're an unusual student, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, you think so...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, I do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Did I say something that rubbed Melilot-san the wrong way...?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, shouldn't you be heading back already?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone must be waiting for you, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, that's true. Well then」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good luck with the KiraFes preparations」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san really is a nice person, isn't she」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「'Really is'? Weren't you two already acquainted?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd never really talked with her properly until now, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka should just drop that weird awkwardness around her too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's with you, you're in a weirdly good mood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, whatever」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, I've gotta hurry up and hand these materials over to Nanaka!」"
+  }
+]

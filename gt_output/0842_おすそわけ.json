@@ -1,0 +1,376 @@
+[
+  {
+    "message": "おすそわけ"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm~ How should I make up with Macaron...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord, what're you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I thought I'd try coming up with something clever to say while doing a bit of gardening.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's all well and good, but...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's with the rice paddle?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Where's my trowel?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...You're overthinking things.」"
+  },
+  {
+    "message": "Even though I want to go see her right now."
+  },
+  {
+    "message": "Maybe both Macaron and I need some time to cool our heads."
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Alright, big brother and the others aren't around.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「After yesterday, it'd be super awkward if we ran into each other today...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, it's Mako-chi!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uwah!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's the deal~? You're gonna startle me too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「O-Oh, it's just you, Sally-chan……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yep. Oyabin's here too」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode has arrived」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What are you guys doing in a place like this?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「We're on our way back from eating beef bowls♪ What about you, Mako-chi?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm heading to my part-time job now」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What? Is there something on my face?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You seem kinda down today, Mako-chi」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh!? T-That's not true!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I got it! Something's bothering you!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No, it's not! Nothing's bothering me at all!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really? And here I had a great Demon World Mail-Order item for you……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Anyway, I'm just my usual self!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm not worried about anything at all!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「See ya!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「...Weirdo Mako-chi」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Shall we go, Boss」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, yo」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Prez, Ode, here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Welcome back, Sally. Welcome, Eauderourke」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Beef bowl, tasty. Thanks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「For lunch, Nanaka treated us~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, as thanks for promoting KiraFes. Is it that late already?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really, thanks a bunch, Prez」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no. We're the ones who should be thanking you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nuh-uh, that's not all」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I got a part-time job at the beef bowl shop together with Boss♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Me, work, eat beef bowl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good for you~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「This is a~ll thanks to you, Prez\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's because you and Eauderourke worked so hard, Sally」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ehehe~ Well, maybe I am pretty great~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You haven't been causing any trouble for the beef bowl shop, have you?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh? Of course not」"
+  },
+  {
+    "name": "Sally",
+    "message": "「They were shocked when they first saw us, sure, but it looks like they've gotten totally used to us by now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "message": "Humans and Demons really can get along well together like this."
+  },
+  {
+    "name": "Sally",
+    "message": "「So anyway, we were thinking of thanking you, Prez」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanking me?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah. We'll lend you a hand anytime if it's for you, Prez!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, Prez's, ally!」"
+  },
+  {
+    "message": "Sally joined the party!"
+  },
+  {
+    "message": "Eauderourke joined the party!"
+  },
+  {
+    "name": "Sally",
+    "message": "「Call us anytime you've got something tasty, okay\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Thanks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... feel like I'm finally getting motivated!」"
+  },
+  {
+    "message": "It feels like I might even be able to make up with Macaron."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, right away, could I ask you guys for a little favor?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What is it, what is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to harvest the vegetables, so I'd like some help carrying them」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Okay, leave it to us!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, heavy lifting, good at!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So hey, where are we taking this stuff?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're almost there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, were you looking for Mako-chi?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If it's Mako-chi you're looking for, she was in the shopping district?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, really?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「She said she has a part-time job」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "Even after everything that happened yesterday, she still shows up properly for her part-time job."
+  },
+  {
+    "message": "I wonder if this is also for the sake of becoming the Demon Lord..."
+  },
+  {
+    "name": "Sally",
+    "message": "「Going to see her right now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No. I'd feel bad interrupting her work, so I'll save it for next time」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What're you gonna do with the veggies?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's just leave the ones that won't spoil by the side of the tent」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As for the rest, you and Eauderourke can go ahead and have them」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Bleh! I don't want 'em」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, eat, veggies. Being picky, no good」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uuu~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, maybe I'll head back and start prepping some vegetable curry」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Waaah! I hate you, Prez!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehhh!」"
+  },
+  {
+    "message": "I wonder if the day we can live peacefully alongside Demons is still far away."
+  }
+]

@@ -1,0 +1,820 @@
+[
+  {
+    "message": "年齢だけは追いつけない"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Is it this late already?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey... Lolotte... If you fall asleep now, you'll definitely... die...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Dead men tell no tales, ya know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No way... If I fall asleep like this, it'll be tomorrow before I know it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone~~ I brought some super bitter tea to wake you up~\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll take some!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thank you very much. Though if it's green tea, Misa will--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Looks like... she didn't need any\\s02」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If it's tea Ria brewed, I can down as many cups as you've got!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Uwaaaah!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... Maybe Russian roulette green tea was going a little too far」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What did you put in it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's a secret♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So bitter!! Another cup!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gulp, gulp... Phew--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, wide awake!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Congrats~~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, everyone else is...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We still have tomorrow, so I think if you're going to sleep, you should get some proper rest...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, who could that be?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave picking up and dropping off the young lady to me, Riesling Toyama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, were you waiting until we finished?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No, I was just doing a bit of weeding.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why would you do that? I'm really sorry.」"
+  },
+  {
+    "message": "And so, after having her take Misa home with her, the three of us--Nanaka, Ria-senpai, and I--resumed studying."
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't push yourselves too hard either, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're fine. It's not like we're pulling an all-nighter yet.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not yet... It ain't over yet...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan, you look super sleepy, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「--Gah?! Y-You're one to talk, Ria-senpai!! Shouldn't you be taking it easy too?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Me? I'm totally fine.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, I'm everyone's guardian. I have to keep watch so nobody pushes themselves until they collapse.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr... She's flexing her senpai authority on me... At this rate, I'm gonna get blown away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka. If you're sleepy, you can go to bed.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gyaah!! You have no idea how I feel, you jerk!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pre~~~z. I'm hungr~~~y」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's about time for dinner...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gyaah!! Now even Sally-chan joined in!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on, dinner...?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eat dinner → get full → Sally-chan exits → Ria-senpai goes straight to sleep」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「→ And then I'm happily alone with Synn?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's iiiiit!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's gotten into you all of a sudden?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What a brilliant strategy that satisfies both my stomach and my heart」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Um... Nanaka-chan?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Didn't she study so hard that she turned into an idiot?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Everyone! I'm gonna go make some soba, so hang tight for a bit!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, I'll help--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No need, no need! I'm gonna treat you to a huge feast, so work up a big appetite and wait up!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, I'll be waiting~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's with all that energy」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm~. Maybe she'll fall asleep if she doesn't keep moving」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa! An earthquake!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-She's really putting her spirit into it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan... If she works that hard, won't she just get tired and sleepy instead...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew~!! Thanks for waiting!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've worked up quite a sweat, Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, of course. After all, today is Synn's birth--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun's...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-B-Boy... whoops. Boy, are we gonna see some seconds!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My seconds...?」"
+  },
+  {
+    "message": "Something's weird. Even though she always serves me just enough that I'm right on the edge of not asking for seconds."
+  },
+  {
+    "name": "Sally",
+    "message": "「Thank you for the food!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eat up plenty too, Ria-senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're plotting something, aren't you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-N-No, nothing of the sort!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Isn't she trying to fatten Ria up?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like I'd ever do that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's fine, Ria-senpai. Soba is even effective for dieting! Probably」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah... thanks for the food~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Haa, haa, good, good... Now I just need to get her to eat a bunch...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It's spicy!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I put wasabi in it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Uuuuh\\s06」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You're pulling an all-nighter to work hard, right? So I figured it'd wake you up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a great idea. Or at least, that's what I'd like to say, but--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「~~!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrrr! What did you do, you little devil!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eh, ah, oh no. Nanaka, are you mad?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course I'm maaaaaad!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eeeeek!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure are energetic...」"
+  },
+  {
+    "message": "Actually, why is Nanaka the one getting mad when Ria-senpai is the one suffering?"
+  },
+  {
+    "message": "Geez, Nanaka really is too kind."
+  },
+  {
+    "name": "Ria",
+    "message": "「Sniff... sniffle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm totally fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, you'll be able to keep pushing through after this, right」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm so jealous of Nanaka」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She gets to cheer you up like this, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, we've known each other for a long time, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I might... get a little jealous♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!? N-Nanaka and I aren't like that! We're just childhood friends」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wish there were something I could do for you too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You always cheer me up too, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Really...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like how you're helping me study today, for instance」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is that all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, besides that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What is it? What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-There are too many to list, I don't know where to start\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Or maybe you just couldn't think of anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not true at all!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hehe, it's okay. You don't have to force yourself」"
+  },
+  {
+    "message": "For some reason, I felt like naming them would push Ria-senpai further away, so I couldn't say anything."
+  },
+  {
+    "message": "Even though I'm always the one getting cheered up by Ria-senpai without ever giving anything back."
+  },
+  {
+    "name": "Synn",
+    "message": "「Just having you by my side makes me feel relieved, or comforted, I guess...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But still! Relying on you all the time is... well...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehehe. It's okay to let me spoil you more, Synn\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then again, you are a boy, Synn. Hearing something like that probably doesn't make you very happy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's right」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see. Sorry...」"
+  },
+  {
+    "message": "Ugh... Why can't I just be honest in front of Ria-senpai?"
+  },
+  {
+    "message": "That's probably because--"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uwee... That was awful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Welcome back. Where's Nanaka?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Looks like she's wiped out. She's fast asleep in the entryway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the entryway!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, after running around that much, I'm not surprised. Hup」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa, Synn-kun... You're so strong~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, this much is nothing...」"
+  },
+  {
+    "message": "I wonder if I'd actually be able to give Ria-senpai a piggyback ride..."
+  },
+  {
+    "message": "Wait, no, no! That's basically saying Ria-senpai is heavier than Nanaka."
+  },
+  {
+    "message": "Then I lay out a futon in an empty room, put Nanaka to bed, and go back to studying."
+  },
+  {
+    "message": "Did Sally-chan set off on another wandering journey somewhere?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai. It's getting pretty late, though... Are you sure you're okay?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. I'm fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But won't your family worry if you get home late?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's fine, it's fine. I told them I was going to Synn-kun's house, after all. My big sister will cover for me」"
+  },
+  {
+    "message": "I'm not sure whether to feel happy or sad about that."
+  },
+  {
+    "name": "Ria",
+    "message": "「More importantly, I can't just leave Nanaka-chan behind and go home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why not?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-Because... leaving a teenage boy and girl alone under the same roof...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Your senpai is going to keep a close eye on you, so I won't let you do anything weird!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wouldn't do anything weird! Nanaka's slept over here tons of times before!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... right. You're childhood friends, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wouldn't call it worrying--you're just reading way too much into things」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Uuu...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Or are you the type of person who immediately jumps to doing stuff like that the second we're alone, Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez! I wouldn't do anything like that!」"
+  },
+  {
+    "message": "Good grief... She acts all mature like an upperclassman, yet she's completely hopeless with topics like this."
+  },
+  {
+    "message": "Well, I'm not exactly great with them either, so I want to clear this awkward air as fast as possible."
+  },
+  {
+    "name": "Ria",
+    "message": "「Eek」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, nice timing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A letter from Dad, maybe」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-A bat...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a messenger bat. Let's see here--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Happy... birthday?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh... Synn-kun. Today's your birthday?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, it seems... so」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why didn't you tell me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I completely forgot! My head was so full of Student Council stuff and tests...」"
+  },
+  {
+    "message": "Even before that, bringing it up myself would've been way too embarrassing."
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Mom and Dad actually remembered, huh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Um, Synn-kun. I'm sorry. If I'd known--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no! It's totally fine!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No way! It's not too late yet, so I'm going out to buy you a present!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You really don't have to do that!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No buts! Synn-kun, you be a good boy and stay home studying while you wait!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah, come on!」"
+  },
+  {
+    "message": "The moment I reached out to grab the stubborn Ria-senpai's arm――"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyah!」"
+  },
+  {
+    "message": "A soft, bouncy sensation filled my palm."
+  },
+  {
+    "message": "I had ended up grabbing a handful of her huge breasts!"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm sorr――」"
+  },
+  {
+    "message": "Perhaps because I was panicking, I tripped over Paqy, who was lying flat on the ground."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Apepi!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sh-Synn-kun! Hang in there!!」"
+  },
+  {
+    "message": "Ah, my head is resting on a warm, soft pillow..."
+  },
+  {
+    "message": "And it smells so good, too..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Mm...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, thank goodness♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sorry. I guess I got a little carried away...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm the one who... um, touched your chest, Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Ah! About that... That was an accident, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "message": "So this is kind Ria-senpai's lap..."
+  },
+  {
+    "message": "No wonder it feels so nice."
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, your birthday only comes once a year, right? It's sad if nobody celebrates it with you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "For some reason, I couldn't bring myself to tell Ria-senpai that Nanaka had always celebrated it with me up until last year."
+  },
+  {
+    "name": "Ria",
+    "message": "「So I thought, at the very least, if I could celebrate it for you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai, about my birthday present...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Would it be okay if I just... slept like this on your lap for a little while?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-If not, that's totally fine!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. You're such a spoiled baby, Synn-kun\\s04」"
+  },
+  {
+    "message": "Saying that, Ria-senpai gently stroked my head."
+  },
+  {
+    "name": "Ria",
+    "message": "「Just for a little while, okay?♪」"
+  },
+  {
+    "message": "Combined with my fatigue from studying, the comfort of her thighs made my whole body melt."
+  },
+  {
+    "message": "By the way, it's a secret that Ria-senpai's chest is in the way, so I can't really see her face."
+  },
+  {
+    "name": "Ria",
+    "message": "「Once you rest a bit, it's back to studying, alright?\\s07」"
+  },
+  {
+    "message": "I get so much energy from my gentle yet strict senpai."
+  }
+]

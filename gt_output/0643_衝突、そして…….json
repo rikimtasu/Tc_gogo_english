@@ -1,0 +1,347 @@
+[
+  {
+    "message": "衝突、そして……"
+  },
+  {
+    "name": "Helena",
+    "message": "「Excuse me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Miss Helena. What's the matter?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, well…… I was wondering if Melilot might be bothering you here」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nope. She hasn't come by」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's unusual. You normally seem to know everything about Miss Melilot」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes…… For her to just vanish somewhere without consulting me……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She'd been cooped up in the library for a while, so what could have happened…… I have…… a bad feeling about this……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come to think of it, Mr. Azel. Didn't you say you had business with the librarian?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「O-Oh, right…… I thought I might be of some help regarding Virus, but……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Virus…… Now that you mention it, Melilot was muttering that name over and over like a prayer……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……!!　Hey, Azel!!　Could Virus and Melilot actually know each other!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't know…… However, the odds that the two of them have crossed paths are high」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If that happens…… Melilot will attack him!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Surely she wouldn't be that foolish. Virus's power is beyond anything ordinary」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's why she was making thorough preparations!!　Oh, that girl, honestly! Hiding something this important……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Helena, what's wrong!　Please calm down」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot…… That girl intended to fight Virus」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Absurd……!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Lolotte!　We're searching for Melilot…… right now!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes, sir!」"
+  },
+  {
+    "message": "Countless traps laid out in every direction."
+  },
+  {
+    "message": "At first, it seemed as though even Virus was being toyed with."
+  },
+  {
+    "message": "Yet petty tricks are useless against one hailed as the strongest."
+  },
+  {
+    "name": "Virus",
+    "message": "「Witch. You certainly gave me quite the hard time」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ngh…… ugh……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「However, you could never stand in for the Demon Lord with a style of fighting that refuses to face an opponent head-on」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-not yet…… My stratagem is…… u-ugh……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Boring……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Such terrible wounds……! At this rate……"
+  },
+  {
+    "name": "Azel",
+    "message": "「Helena! Take Melilot and go!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……Understood」"
+  },
+  {
+    "message": "In truth, she probably wanted to land at least one punch on Virus's face, yet she must have sensed in an instant that he was no opponent she could do that to."
+  },
+  {
+    "message": "Holding Melilot in her arms, Helena hurried away."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To do something so awful to Melilot……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I had placed a sliver of hope in it, yet…… it never turned into a fight to the death」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What point is there in piling up any more disappointment」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Fighting needs no point. Fighting itself is the point」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you so obsessed with fighting, Virus」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A berserker who revels in clashing with the strong…… What a worthless ideology」"
+  },
+  {
+    "name": "Virus",
+    "message": "「That provocation…… means I may interpret it favorably, does it not?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please step back, Azel. With everyone from the Crusaders here, surely――」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Your legs are trembling…… You intend to stand against the power that struck down Melilot. It is only natural……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And even so, you still mean to put yourself on the line to protect me……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Forgive me. I ask that you leave this to me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel, what on earth……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even without relying solely on Re-Crea…… my power――」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Ho...」"
+  },
+  {
+    "message": "Seeing Azel clad in a divine aura, Virus nodded in satisfaction."
+  },
+  {
+    "name": "Azel",
+    "message": "「Crusaders! Leave this place at once. I will be Virus's opponent!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mustn't. Trying to shoulder this all alone is--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No!! You will only get in my way!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh... b-but... but...!」"
+  },
+  {
+    "message": "Words meant to push us away, sounding almost cold."
+  },
+  {
+    "message": "Yet, this was an opponent she couldn't defeat if her focus was divided by having to protect us."
+  },
+  {
+    "message": "Perhaps those were the best possible words, born precisely because Azel cared for others."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, I can't just leave you all alone, Azel-san!」"
+  },
+  {
+    "message": "Despite everything, Lolotte tried desperately to stand her ground."
+  },
+  {
+    "message": "Looking at Lolotte like that, Azel smiled strangely."
+  },
+  {
+    "name": "Azel",
+    "message": "「I believe in all of you. So, believe in me as well.」"
+  },
+  {
+    "message": "Azel gently approached the pressing Lolotte and lightly tapped the nape of her neck."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, Azel-sa, n...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I no longer think of myself as being alone... so believe in me and wait」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, ugh... uh」"
+  },
+  {
+    "message": "And then she entrusted the unconscious Lolotte's body to me."
+  },
+  {
+    "name": "Azel",
+    "message": "「Take care of Lolotte.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... If only I became the Demon Lord, none of this would...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「For the Demon Lord's power to awaken would mean Re-Crea has already progressed beyond the point of no return.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In that case, is it not better that it remains dormant? So, do not trouble yourself over it. Until we meet again.」"
+  },
+  {
+    "message": "Azel gave a slight bow with a smile brighter than ever before."
+  },
+  {
+    "message": "And then--"
+  },
+  {
+    "name": "Azel",
+    "message": "「Let us go, Virus.」"
+  },
+  {
+    "message": "Just like that, the two of them vanished into the light."
+  },
+  {
+    "name": "Ria",
+    "message": "「Azel-san... she really went.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I want to believe her... I really do. But what if this ends up being goodbye...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san! Stop saying such ominous things!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn, you...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, I can't... I'm still a guy, after all!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wha--!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even Lolotte said so. Azel, you're not... alone anymore!」"
+  },
+  {
+    "message": "I leave Lolotte with everyone else and chase after the two of them."
+  },
+  {
+    "message": "Even if the Demon Lord's power doesn't awaken, we still have our own strength to support Azel!"
+  }
+]

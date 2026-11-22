@@ -1,0 +1,616 @@
+[
+  {
+    "message": "人類の剣"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "message": "At the signal from the voice of a demon who seemed to be their captain, the demons called off the fight and retreated while shielding their injured comrades."
+  },
+  {
+    "name": "Ria",
+    "message": "「Did we win...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, don't run away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no point pushing ourselves. We don't have the energy left to chase them anyway.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, you saw right through me?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Damn it. For mere small fry, they sure had the nerve to pull off coordinated attacks--made them a huge pain to fight.」"
+  },
+  {
+    "message": "It really had been a tough fight."
+  },
+  {
+    "message": "We had the upper hand, sure, but we couldn't completely overwhelm them."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, something feels different from before. How should I put it... Doesn't it feel like water is receding right now?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, I feel it too. Like the restless atmosphere is thinning out or something...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What is this sensation?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh. You guys can actually tell, even though you're human, Prez.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Magic power is receding from this whole area.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Since the demons broke off the battle and are retreating, the surge of magical presence from the fighting is fading away.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Bingo.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if Azel is okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, you didn't run away?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am an officer of the Student Council.」"
+  },
+  {
+    "message": "She might not have a Rosary, but Azel is still one of our comrades, after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, do we happen to have any spare Rosaries?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Unfortunately, we don't.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... As expected of Lord Synn. Having grown tired of the naked bodies of the women nearby, you're already looking to legally see a new woman naked.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Is that what you're implying!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Definitely not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It wasn't me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not me either, so that means」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It wasn't me!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is this sound」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aye-aye, Sally-chan's here to explain it all! When you get suuuper hungry, your tummy growls!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How strange」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's your stomach, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so?」"
+  },
+  {
+    "message": "I see, Azel's hungry, huh..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, wanna go grab something to eat together now?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm in! So, where are we going?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Me too! Beef bowls, beef bowls!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm in too, though I wonder if Sally-chan ever eats anything besides beef bowls?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll eat anything if you give it to me~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is that right\\s02」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I refuse」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's my treat」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Understood」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn!? Dining and dashing is bad!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't you think jumping to that conclusion is a bit much?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is dining and dashing?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's eating at a restaurant without paying」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is an efficient, rational course of action」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't do that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because it's a bad thing to do」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is it a crime」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not just a crime, a huge crime, ya hear. Dining and dashing is super uncool」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If it is a crime, I will not do it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, dig in, dig in!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Quiet. How could I eat something so greasy and utterly vulgar!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's delicious. Big sis guarantees it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no need for guarantees. Food only needs to provide nutrition」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If you don't eat it, Azel, I won't feel safe eating it either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What is he, a poison taster」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... you don't know how to use chopsticks, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What did you say!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come to think of it, you're always eating things like Vandine Jelly that don't require chopsticks」"
+  },
+  {
+    "message": "Nice one, Nanaka. She caught onto my plan and joined in on the taunting."
+  },
+  {
+    "name": "Azel",
+    "message": "「How insolent!　Of course I can use such a simple tool」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, but I've never actually seen you use them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right. Anyone can talk a big game」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Not knowing how to use chopsticks is super lame, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you doubting my word!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not that we doubt you, just don't push yourself, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A whole week of trai--no, never mind. Regardless, I can use them!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll swap it out for something you can eat with your hands.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hold it!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「All I have to do is show you I can use chopsticks, right!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look at her pushing herself.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not pushing myself! Just watch!」"
+  },
+  {
+    "message": "Nanaka and I exchanged a glance. It worked."
+  },
+  {
+    "name": "Azel",
+    "message": "「Just watch!」"
+  },
+  {
+    "message": "Azel picked up the chopsticks, and"
+  },
+  {
+    "name": "Azel",
+    "message": "「How's that! I can use them, can't I!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, you actually have to eat with them before we can say anything.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why must I eat something so pointlessly packed with calories, with grease floating on top like poison...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to force yourself. You can still get by in life even if you can't use chopsticks.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's a little embarrassing, though.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up, shut up, shut up! All I have to do is eat it, right!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm digging in too!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh-What is this?!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What the--this is delicious?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is this food?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's ramen.」"
+  },
+  {
+    "message": "It cost me my entire fortune, though I mustn't say that."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ramen?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bean sprout ramen, to be exact. The broth, made with Five-Star Restaurant's prized secret dashi, has a truly bewitching flavor!」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Missy, I'd appreciate it if you didn't say that tagline out loud, aru. It's embarrassing, aru.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A demon general?! Is this connected to the demons?!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「'Demon General flavor' means... could Boss be an ingredient!? E-Eek! Sorry, Boss, it's so good!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Not like that, um... it means the flavor is so enchanting that once you eat it, you get hooked.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I see... Then there is no issue.」"
+  },
+  {
+    "message": "Saying that, Azel digs in enthusiastically, chomping away."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It really is addictive.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's my first time eating here, and it's delicious.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no way I would become addicted. It is mere sustenance... nom, nom, illogical, nom, nom, impossible. Purely nutritional intake, yet, nom, this is, how, slurrrrrp」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't know what ramen was, Azel?」"
+  },
+  {
+    "message": "Slurp--Azel raises his head with noodles still dangling from his mouth."
+  },
+  {
+    "name": "Azel",
+    "message": "「Of course I know. It is ramen!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Yeah, he definitely didn't know."
+  },
+  {
+    "name": "Azel",
+    "message": "「Why are you the only one not eating?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just really like water.」"
+  },
+  {
+    "message": "I'm not crying, right? I'm doing great, totally great."
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so.」"
+  },
+  {
+    "message": "As if that could possibly be true."
+  },
+  {
+    "message": "Ah, what a cruel aroma..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You okay, Synn? It'll be here soon.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Soon?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-Nothing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious! Water sure is delicious! Another glass, please.」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Coming right up. And here's bean sprout ramen too, ya know.」"
+  },
+  {
+    "message": "In front of me sits a glass of ice water and, for some reason, bean sprout ramen!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... I didn't order anything--」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Call it friendship, ya know.」"
+  },
+  {
+    "message": "Following Kim-san's gaze, I see a bashful-looking Nanaka and a smiling Senior Ria."
+  },
+  {
+    "message": "Thank you, Nanaka! Thank you, Senior Ria!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the food! Whoa. So good! So good, so good!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You really think anything's good, huh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So good! The best, so good!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Man, I gotta tell Boss about this too! It's delicious!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see…… Could this be what 'delicious' means……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. That's what tasty--what delicious means.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah, I am experiencing deliciousness right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh-huh, it's tasty, and it's delicious.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn's crying……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now you've got me tearing up too……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah, there is so little left already. Slurp, slurp. No, it is only natural for food to disappear when eaten. It is rational.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yet what is this sense of loss!? For mere nutrient intake, this is…… My emotions are being needlessly stirred…… What is this……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Is it really that big a deal……?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kwah, delicious! Way too delicious! The Human World is awesome!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Could it be…… that this liquid is also drinkable…… Even this dubious liquid with oil floating on it……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yet this aroma! Urgh, I want to drink it…… I want to gulp it right down…… What a wild, irrational impulse.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's totally fine to drink it\\s02」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I know that. It is ramen, after all.」"
+  },
+  {
+    "message": "Gripping the rim of the bowl tightly, Azel drank it all down in one hearty gulp."
+  },
+  {
+    "name": "Azel",
+    "message": "「Gulp…… glug…… glug…… glug……」"
+  },
+  {
+    "message": "I caught up to him and gulped mine down too."
+  },
+  {
+    "name": "Azel",
+    "message": "「Phew……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew……」"
+  },
+  {
+    "message": "It was at the exact same time."
+  },
+  {
+    "message": "In no time, our bowls were empty. Not a single drop of broth remained."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "When we set our bowls down, our eyes met."
+  },
+  {
+    "name": "Azel",
+    "message": "「It's delicious」"
+  },
+  {
+    "message": "He was smiling."
+  },
+  {
+    "message": "He's cute, I thought."
+  }
+]

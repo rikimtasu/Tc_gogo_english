@@ -1,0 +1,828 @@
+[
+  {
+    "message": "前向きにいこう"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「By the way,」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You still haven't made up with Mako-chan, have you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, well」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't even worry about a little pipsqueak like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not going to happen」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So in the end, what even is Mako-chan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I get that you're a Demon, sure, but you don't exactly give off the vibe of someone trying to become the Demon Lord and cause trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron has their own ideals, in their own way.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You mean those clashed and ended up causing a fight?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm. Well, no point moping around overthinking it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not like there's anything I can do about it anyway」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since you're the big-brother type here, you better make sure you patch things up properly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... I'll do my best」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, give me a break if that ends up causing the Demons to go on a huge rampage」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, I know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, do something about that gloomy face already」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I tried making an ugly face to test it out」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gross!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A handsome face... is probably impossible, huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Forget it, I'll knock some spirit into you myself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gwah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, hurry up or we'll be late, late! I'm leaving you behind!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I'd let you」"
+  },
+  {
+    "message": "I clench my right back teeth."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait up!」"
+  },
+  {
+    "name": "???",
+    "message": "「Gh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow, ow...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey Synn, are you okay!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "？？？",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I'm so sorry. Are you hurt?」"
+  },
+  {
+    "name": "???",
+    "message": "「Yes, I'm fine. I wasn't paying attention either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seriously, jeez, it's because this idiot was running in the hallway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the one who started running first, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're the one who crashed into her, aren't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm really, truly sorry!」"
+  },
+  {
+    "name": "???",
+    "message": "「...Hehe. Student Council President, huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "???",
+    "message": "「It's nothing. If you don't hurry, you're going to be late」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...That was a teacher I don't recognize」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That person just now, she gave off kind of a strange feeling...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's that supposed to mean」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Lord Synn here had his heart stolen by that female teacher's huge tits」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What did you say?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?! No I didn't! I'm not like you, Paqy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me only has eyes for Ria-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I mean, she definitely rivals Ria-senpai...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugaaah, you total pervert!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hebuoah!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just stay right there and be late to class!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah! Hey, wait up, Nanaka! It's a misunderstanding, I swear!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mornin'~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Morning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Mornib...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, hey, did you two hear~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hear what?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Apparently a student teacher is coming to our class~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh~? Nana-chan, are you in a bad mood~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not really」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And Synn-kun looks all beat up too~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm fine, totally fine...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This is completely Synn's own fault, you know」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Did something happen~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, you see, Synn is just a ridiculously shameless guy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just because you bumped into some unfamiliar female teacher in the hallway, you've been grinning and acting all lovestruck!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have not, I have not!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahh, you can't really blame him~ Even Synn-kun is a boy, after all~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And on top of that, going on about how huge her boobs were and everything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't say that, I didn't say that!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahh, you can't really blame him~ Even Synn-kun is, you know~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, what!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do you really like huge ones that much?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you saying you prefer Ria-senpai over me?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa, Nana-chan, Nana-chan~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, I didn't say anything like that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then what, you prefer modest flat-chested ones instead?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't hesitate right there!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guhoa!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You two never get tired of this, huh~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Alright, that's enough chatter! We're starting morning homeroom!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, why is Helena-san here?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Today, I'm going to introduce our student teacher!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What Sacchin said was actually true!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aww, nobody trusts me~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Come on, please come in」"
+  },
+  {
+    "name": "???",
+    "message": "「Excuse me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're from earlier!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Nice to meet you. I am Seira Sengenin.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She will be teaching math. Please make sure to get along with her for the foreseeable future.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Pleased to meet you all.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She seems like a pretty strict teacher~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She's not really my type, I guess...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew, finally lunchtime!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Still~, Ms. Sengenin's class was rough~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, seriously! Springing a pop quiz on us, calling on people...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That was totally uncalled for~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so? She's definitely earnest, sure, but that much is pretty normal.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, good for you then.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「We~ don't prep or review at all, after all~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You really should.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Forget that, let's eat!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah~. Using my brain made me hungry~」"
+  },
+  {
+    "name": "???",
+    "message": "「Welcome, nya.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "???",
+    "message": "「May I take your order, nya?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Who's there~?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta is Pasta, nya. A waitress who started working at Prier today, nya.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, I didn't know Prier was hiring part-timers.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um, well. That thing on your head... is it an ear?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Huh? What are you talking about, nya?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, sorry, never mind after all!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Never mind that, hurry up and order, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「The recommendation is the Super Spicy Stamina Lunch, five thousand yen, nya!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So expensive!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Starting today, Prier is aiming for high-end luxury, nya」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well then, I guess it can't be helped~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're actually gonna pay?!」"
+  },
+  {
+    "message": "As expected, a rich girl is on a whole different level...!"
+  },
+  {
+    "name": "Pasta",
+    "message": "「What are you going to do, nya?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I brought my own bento, so」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyaaat?! You're not even a customer, nya?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, technically speaking」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Then I have no business with the likes of you, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Anyone who doesn't intend to pay money can hurry up and go home, nya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「More importantly, how is a business supposed to survive with rip-off prices like this!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That's not true, nya」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And your attitude toward customers is completely hopeless, too」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「If you have complaints about Pasta's way of doing things, you can go home too, nya」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why you! I'll do just that without you telling me to!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, wait up, Nana-chaaan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanakaaa」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Bleh-nya! Get lost, nya!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「--And so that's what happened」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sounds like you had a rough time. Here, have some tea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, thanks」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, Professor Sengen'in's class was very easy to understand, so I quite liked it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, spoken like a true honor student」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Studying is different for everyone, you know. There is no high or low when it comes to grades」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, Lolo-chan just said something super wise!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's definitely good and bad, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, some people just aren't good at studying」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That ain't helping at all, man」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, things over at Prier are a real problem...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right, right. Why'd they suddenly hire more waitresses anyway?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm. I wonder what Sis is thinking...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Want to know?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaah!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek! She appeared!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're always so sudden...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, don't scare me like that!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, my apologies. I went and made Ria's cute little chest go all pitter-patter, didn't I?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No, stop it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't stare!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yours truly will calm Ria-chan's racing heart for ya!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, what a nice cushion right here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pegyaaah!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mm, quite comfortable to sit on, too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Panda's heartbeat stopped before anything else happened, didn't it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, about that waitress and that super strict teacher」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ah, that」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ms. Sengenin is the result of scouting out top-notch talent」"
+  },
+  {
+    "name": "Helena",
+    "message": "「As for hiring a waitress, Prier was simply short-handed」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And yet, what is your true intention...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's a se-cret\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehhh, keeping us in suspense is unfair!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Just kidding. This is the management policy I decided on, so you all don't need to worry about it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Besides, even if you don't fret, you'll find out sooner or later」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that how it is?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, if you have time to chatter, get to work on your Student Council duties!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeees」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron isn't here today either...」"
+  },
+  {
+    "message": "I went through the trouble of gathering them, so I'll just leave the vegetables...."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What is it, Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, do you think humans and demons will ever be able to live together in harmony?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, that all depends on how you go about it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「At the very least, the previous Demon Lord kept everyone on good terms, regardless of whether they were human, demon, or angel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I don't know how it's done. That's just how it was」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see--so even the Great Sage doesn't know, huh--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「......Are you really that worried about that little squirt?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't you worried, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, I mean, it's not like I'm not worried, but......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder how Dad maintained his dignity as the Demon King」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He didn't really have any dignity, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「When it comes to bringing your allies together, I think you just gotta do it in whatever way you can」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...... You're right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll try doing it my own way!」"
+  },
+  {
+    "message": "I have to clear up the misunderstanding with Macaron as soon as possible."
+  },
+  {
+    "message": "I need to bridge the gap that's formed between humans and Demons, after all."
+  }
+]

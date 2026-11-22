@@ -1,0 +1,1360 @@
+[
+  {
+    "message": "舞い降りた天の使い"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, come on! My save data got wiped again!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you not to play battery-backup games since the battery's dead」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Agh, back to kindergarten again... I can't deal with this~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's play this game together instead. Look, a fun RPG」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Like hell I can remember all those passwords one by one!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've got a proper password notebook, so we'll be fine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch... Fine, whatever」"
+  },
+  {
+    "message": "Despite the complaining, we play co-op."
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy! Share the items properly!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ataaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, someone's here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Leave 'em, Demon Lord!! Let's just take down the boss in one go!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Time out, time out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Comiiing」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「G-Good evening...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Hm? Hmmm?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U-Umm!! W-Well!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「E... Err. Well, it is truly... unfortunate, but Lolotte is... um, not here!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that means you're here alone, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes...」"
+  },
+  {
+    "message": "Huh, that sound is..."
+  },
+  {
+    "message": "Did Riesling-san drop her off all the way here?"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, I see. What's up?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I am terribly sorry to bother you, but... might I have a moment of your time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it... gonna take a while?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「...*nod*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then come on in, come on in. It's cold out, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, it's just Angel Unit 02」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm gonna go make some tea, so take over for me, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eh, eh!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, what're we gonna do if we lose!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then we'll just try again」"
+  },
+  {
+    "message": "Still, I'm surprised Amyrina came here all by herself..."
+  },
+  {
+    "message": "I wonder what Lolotte is doing right now after being left behind."
+  },
+  {
+    "message": "Maybe she's off exploring somewhere?"
+  },
+  {
+    "message": "No, she's probably worn out from playing and fast asleep."
+  },
+  {
+    "message": "Lately, she's been running around all over the place with me, after all."
+  },
+  {
+    "message": "Plus, the Holy Night Festival is coming up."
+  },
+  {
+    "message": "Spending the Holy Night Festival with Lolotte, huh~~."
+  },
+  {
+    "message": "Yeah, I'm looking forward to it."
+  },
+  {
+    "message": "Wait..."
+  },
+  {
+    "message": "How rude of me... Amyrina came all this way, and here I am thinking only about Lolotte."
+  },
+  {
+    "message": "Still, Amyrina... What could be the matter for her to come all the way over at this hour?"
+  },
+  {
+    "message": "Being timid and nervous is nothing new for her, yet today I can sense a different kind of determination."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「L-Like this, perhaps?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ooh, nice! Alright, leave the kicking to me」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Then I shall go with punches」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Counting on ya!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you manage to beat the boss?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, total piece of cake. This Angel Unit 02 actually knows how to divide up roles」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh-ho~~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Makes all the trouble I had up till now look stupid. So yeah, I can't team up with Lord Synn anymore」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I've decided I'm only ever playing versus games with Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh, pretty uncooperative for a familiar……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U-Um…… Mr. Panda. Would it be alright if we wrapped things up soon?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah! Make sure you jot down the password good, alright?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Password?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's kinda like a 'secret promise word' you need for the next time we play」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Next…… time…… you say……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina……?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's wrong, angel?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……Ngh」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……Yes, that's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I…… am actually an angel!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……And?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Wha……!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「What is with that reaction!! I'm an angel, you know!? Aren't you going to be even a little surprised, or scared…… or anything!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Surprised?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Scared?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, no way, no way!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Talk about stating the obvious.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Does that mean, about Lolotte as well……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She really is an angel…… isn't she?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「...*nod*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The vibe kind of made it feel like I shouldn't pry, so I didn't, but she really was an angel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, even knowing that, I doubt anything's gonna change from how things have been.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……I see.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「No. I'm relieved that the person I'm speaking with is you, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gotcha…… Here, have some tea.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes…… Thank you for the tea.」"
+  },
+  {
+    "message": "After taking a gentle sip, Amyrina looked straight at me with a serious expression."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「However, this is the Human World. It is a realm where the world and the living beings within it shift and change alongside time.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Unlike our homeland of Heaven, things here properly change.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of place is Heaven, anyway?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Heaven is a world where only beings of high spiritual nature can reside.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Spiritual nature……?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The power angels use is Spirit Arts…… basically, the power of spirits. When the vast majority of what makes up a body is Spirit Power, that existence is called spiritual.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「In contrast, those who live in the Material World----the Human World and the Demon World--are referred to as material.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which means demons are also material, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes…… Though on rare occasions, there are apparently demons who possess a spiritual nature as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Material beings cannot set foot in Heaven. However, spiritual beings are able to enter the Material World.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like Lolotte and you, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes. However……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「When a spiritual being descends into the Material World, their body gradually transforms into something material.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that mean...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Basically, an angel turns into something like a human, yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then that means... Lolotte and you, Amyrina, will become human!?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Please calm down, President. Complete materialization requires a considerable number of years」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Therefore, transitioning into matter is not the primary issue」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then what else are you saying the problem is?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Angels are forbidden from going to the material world without permission」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte went without permission?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Always doing reckless things, that one...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But why is it forbidden?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「We angels view turning into matter as a harmful effect」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Apparently, some angels cannot adapt to the environment of the material world and fall ill」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-what did you say...?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Not only can they end up unable to return to our homeland, it can even become life-threatening!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-does that mean... Lolotte is in... danger?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I do not know... Only that there is a possibility...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「The problem... is not limited to just that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-there's still more\\s01」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Are you aware that the shooting star anomaly--Re-Crea--is the cause?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Re-Crea...!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...So that's what they call it in Heaven too」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「We cannot observe the shooting stars from Heaven... However, an angel investigating in the Human World contacted us regarding this Re-Crea」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「We do not even know what kind of impact the ripples of Re-Crea's power will have on the angels in the Human World」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「That is why, before it is too late, we must return to Heaven, where the aftermath of Re-Crea should be minimal... as soon as possible...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「If we do not... Lolotte will... Lolotte will...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not just Lolotte! You're in the exact same boat, aren't you!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「But... Lolotte did not know this was going to happen. That is why, to tell her--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...And I know you wouldn't just leave Lolotte behind and go back first, either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It seems this Re―Crea is the biggest one yet. Helena said there's never been a time in history when this many shooting stars fell―」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...!? Hold on a second」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Never once in the past... No, just once...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Back when I wasn't... a plushie yet, just once...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's right! I remember now! This is just like the very first time Re-Crea happened!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Unbelievable, you mean it's on the exact same scale as back then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just how bad was it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Words can't even begin to describe it, though one thing's for sure--it had an extraordinary impact」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Damn it! If only I weren't stuck looking like this...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mr. Panda... just who... are you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, never mind Paqy for now. Anyway, it's dangerous for angels to stay in the Human World. That's the gist of it, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, Amyrina... what is it you want me to do?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「W-Well, that is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't come here just to talk about that... did you?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U-Um... well...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Uu...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry!\\s01 I didn't mean to put you on the spot, but...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Get a grip, Amyrina. That's what you came here for, ain't it」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mr. Panda...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「...Understood!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mr. President」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Please persuade Lolotte to return to Heaven!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Persuade her, huh...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I'm sure if it's you, Mr. President... Lolotte will listen to what you have to say...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that means you already tried, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes! B-But...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Even if I try to persuade her, it's no use coming from me... I end up getting drawn in by Lolotte's smile」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「...Even when I tell Lolotte we should return to Heaven...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte doesn't refuse, and instead tells me about all the fun and wonderful things in the Human World」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「To imply to me that there's no need to flee... from such a lovely world...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If Re-Crea passes, can you come to the Human World again?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「W-Well, that is...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「As I mentioned earlier... coming to the Human World is considered a taboo among angels...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「So... there is no guarantee... that we would ever be able to come to the Human World again...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte must know that too... That's why she would never... ever think of returning to Heaven...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Still, if she doesn't return to Heaven!! Lolotte will... Lolotte will...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「What should I... do... What can be done... for Lolotte...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I'm... a coward... In the end, on my own... I can't do anything...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no one out there who can do everything all by themselves」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go, together」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go persuade Lolotte!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, at this hour...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Comiiing!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh, Lolotte!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I heard Amyrina was intruding on you here--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, Amyrina!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Going out all alone in the middle of the night like this... Do you have any idea how worried I was~~!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「S-sorry, Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Honestly... Sneaking off to get a head start while I was asleep--that's so unfair!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, so that's what it was after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Well then, everyone. Please take your time and enjoy yourselves」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「G-Gramps!?」"
+  },
+  {
+    "message": "W-what a smooth operator."
+  },
+  {
+    "message": "I wonder what Riesling himself is thinking, though."
+  },
+  {
+    "message": "Still, the fact that he created an opportunity for us like this means"
+  },
+  {
+    "message": "Riesling must be worried about Lolotte's well-being too..."
+  },
+  {
+    "message": "Well, of course he is."
+  },
+  {
+    "message": "It's not like she's going to die or anything, after all."
+  },
+  {
+    "message": "She's just going to be gone, that's all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. Why don't we go for a little walk?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Okay~♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's pouring down today too~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not rain, so I'm not sure about using that expression」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I wonder why these shooting stars increase whenever Re-Crea draws near」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it's something like... an omen of a great catastrophe?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Give me a proper theoretical and logical answer, please」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that's what you want, I don't think Re-Crea itself... can be explained theoretically」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've been thinking lately, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't you think there might be an important meaning behind this Re-Crea too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The meaning of Re-Crea...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though I have no idea at all... what that answer might be\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The meaning of Re-Crea, huh.... I've never even thought about it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was taught that Re-Crea is transient. Once it passes, everything will be fine...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "I've never heard anything like that."
+  },
+  {
+    "message": "Does that mean that's how it's been passed down among the angels...."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, that isn't necessarily true. Because what we can see with our own eyes isn't everything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We just simply accepted that Re-Crea is the way it is. Without even caring about what it means...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But now... aren't you starting to get curious? About the secret of Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah. Though that's only because you brought it up, Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I feel like... for the first time, I was able to be of help to you, President♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is the exact same thing you've been doing for me all this time, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "I've spent all this time with Lolotte."
+  },
+  {
+    "message": "Every day getting caught up in Lolotte's antics was so much fun."
+  },
+  {
+    "message": "And in the same way, Lolotte also enjoyed being with me."
+  },
+  {
+    "message": "And so, she grew more and more."
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte... you've somehow become so admirable」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe... do you really think so?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All of this is because you've taught me so many things, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Those words, spoken so naturally... resonate deep in my chest."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「From now on, instead of just being taught by you, President, I want to be able to teach you things too」"
+  },
+  {
+    "message": "I can't bring myself... to talk openly about the future."
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, listen. Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I heard... from Amyrina. About, well--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「About returning to Heaven, you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You already... knew...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So the two of you were talking... about that today?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even I can tell right away if I just keep an eye on Amyrina」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina... isn't the Human World fun?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-No, that's not it!! I-It's not like that...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then everything's fine, isn't it! We can just stay together like this forever--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina only brought it up because she's worried about your well-being, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...You mean about materialization?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina. If you've told him that much, then you've already...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I knew from the very beginning that it might negatively affect my body. I came here fully prepared for that much」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides, fortunately... I haven't shown any abnormalities. Nothing on my body is impaired, and I haven't fallen ill once」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You spend the most time with me, President, so you should know that best of all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So there is nothing to worry about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But... but if you stay here forever, you won't ever be able to go back... to Heaven...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm prepared for that as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But... this upcoming Re-Crea... isn't going to be... anything like a simple typhoon...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's on par with the biggest ones in history... I truly have no idea... how it might affect your body, Lolotte...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Back before the great me became a Plushie, there was a Re―Crea of the same scale―and let me tell you, it was brutal」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A cataclysm that practically spelled the end of the world, plunging everything into chaos and disorder in its wake」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And what happened to the angels during all that... I don't even want to remember--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Panda」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「N-ah?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not just the angels--what happened to everyone else?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Uh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Suppose we withdraw from the Human World and only we are saved」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What would become of everyone left behind in the Human World?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To be honest... I don't know. Still, we'll... we'll figure something out on our own. So, Lolotte, you--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm one too!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm a member of the Crusaders as well, you know!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know that! But... but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why won't you understand, President!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No matter what reason you give, I do not want to return to Heaven!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Going back to Heaven might guarantee my safety. Even so, far more important to me than that--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to stay together with you, President!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If I go back to Heaven, I won't be able to stay with you anymore, President!! So...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So... no matter what excuse I have to make... I... want to... st--... stay in the Human World...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte... please... come back to Heaven with me...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「An angel who has lost their spiritual essence is... terribly powerless... Under the effects of Re-Crea, you'll lose everything」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「In that case, let's at least... leave open the possibility that you can come to the Human World again someday!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「If you do that, the day will come when you can see the President again--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Possibility, huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the face of a phenomenon that can't be explained theoretically or logically. A word like 'possibility'... is completely useless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, clinging to it... I think anyone's free to do that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry... Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... feel the exact same way as Lolotte, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And truthfully, I don't want to be apart from her for even a single moment anymore... Ah... Why didn't I just say it from the very beginning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That if anything ever happens to Lolotte--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll just have to protect her myself!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina... I'll protect... your precious friend. There's no guarantee I'll be able to... Even so--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If there's a possibility that everyone can be happy, I want to bet on it」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「A possibility like that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As it turns out... there actually is one. A special trump card, you see」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte... are you sure your body is really going to be okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President. Can you see these wings?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「About a year has passed since I came to the Human World, yet I have still been able to maintain my spiritual form」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The proof of that is these angel wings--I kept it a secret until now, but actually, I... am an angel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I knew」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You heard it from Amyrina, didn't you...」"
+  },
+  {
+    "message": "Well, I actually knew even before that."
+  },
+  {
+    "name": "Synn",
+    "message": "「So, you see. I don't know if you'll believe me, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm actually the Demon Lord」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Demon Lord... Demon Lord... You mean the king of the demons?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right. I'm not human. I'm a demon. And the Demon Lord on top of that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「D-Demon L--!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mgyu!!」"
+  },
+  {
+    "message": "She fainted after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes. I felt a little dizzy for a moment, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for keeping it a secret all this time」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is quite alright. We both... have our own circumstances, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... At first, I was scared of what you'd think of me. I couldn't bring myself to say it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But right now, this Demon Lord power... feels reassuring. If it means I can protect you, Lolotte」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I might actually be able to do something about Re-Crea. And if I can, I figured it'd be okay to finally come clean!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A Demon Lord and an angel meeting like this. Maybe it's just a coincidence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But just like the existence of Re-Crea itself, I'm sure there has to be a meaning behind it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to believe in that possibility. Lolotte... will you trust me, even though I'm the Demon Lord...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whether you are the Demon Lord or not... Mr. President is still Mr. President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Thank you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「By the way, should I address you as Mr. Demon Lord... from now on?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no. Normal is fine\\s02」"
+  }
+]

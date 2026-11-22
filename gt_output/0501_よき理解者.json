@@ -1,0 +1,231 @@
+[
+  {
+    "message": "よき理解者"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Good day」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!?」"
+  },
+  {
+    "message": "When I happened to pass by the wharf, Miss Riesling pointed a pistol at me without a word of explanation."
+  },
+  {
+    "message": "Lolotte isn't anywhere around. Which means there's nobody here who can stop this?"
+  },
+  {
+    "message": "I-I'm going to be killed……!!"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Forgive the abruptness, but do you have any experience shooting with a short barrel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Am I safe?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「In that case, I shall lend it to you, Lord Paqy」"
+  },
+  {
+    "message": "Riesling hands two pistols to Paqy"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey, isn't that a Saturday night pistol? With a piece of junk like this, the bullets won't even fly straight, y'know?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「As we are anticipating an assault by ruffians, I deliberately selected that handgun」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, I don't mind. The butler's weapon is actually decent, after all」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I'm much obliged」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh, I'm not quite following...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Excuse me, there is a message from Helena」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hello? Angels are number one, telephones are number two, and for your three o'clock sniping, this is Riesling Toyama speaking」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, it's Helena\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tamiko-chan, how are the preparations going on your end?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Leave the endurance test of the sister model to the young lady's chauffeur car to me, your humble butler, Riesling Toyama」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm all ready over here too. Ready to go?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Classic Rocket Mode, boop♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-W-W-What is going on!?」"
+  },
+  {
+    "message": "A massive hole blows open in the hull of a large transport ship moored at the pier, and a luxury car bursts out from inside."
+  },
+  {
+    "name": "Riesling",
+    "message": "「What you see over there is the Daydream Supercar Helena 2000 'Onifuji'」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Woohoo! The G-Canceler is working great」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't tell me Ms. Helena is inside that car...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Indeed she is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait a minute, it's in free fall straight toward us!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It has entered firing range. Commencing interception now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on, hold on, hold on!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Alright, here it comes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh? The bullets are bouncing off...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Cease fire」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Here you go, butler, take it back」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, I'm Helena, the righteous director revived in the modern age\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Helena, are you hurt!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da! Not a scratch♪」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Every shot hit dead-on, and instead of turning into Swiss cheese, not even the paint's chipped」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, of course! Tamiko-chan upgraded the body's molecular structure for me, after all」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Inflicting damage upon it with modern weaponry is impossible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「J-just what kind of car is this?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, fitting for the commander of the Crusaders, isn't it? Plus, it's a custom stealth fighter!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You can ride it too once you get your license, Synn-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really? I'm looking forward to it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Wanna ride it?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「How was the handling?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No issues with performance itself. There's a glitch in the language circuit, though. Sometimes Kito speaks in Kansai dialect」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Do you like the Kansai dialect, Helena?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My absolute favorite♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「In that case, there is no problem.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hehe, you're right about that. That's the end of the durability test!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Come on, Synn-chan. I'll give you a ride home, hop in.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...I pray for your continued fortune in battle, Master Synn. Excuse me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...? You're not getting in, Riesling-san? Well then, goodbye.」"
+  },
+  {
+    "message": "I soon found out the reason why Riesling-san didn't get in...."
+  }
+]

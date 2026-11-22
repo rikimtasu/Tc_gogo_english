@@ -1,0 +1,1081 @@
+[
+  {
+    "message": "親密に親睦会"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, we're here!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So this is Synn's place~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's closer than I expected……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not as close as yours, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is this an apartment building?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. My dad bought it after an acquaintance begged him to, which is fine and all, but……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is the only tenant here, you know. Won't somebody move in to help him out?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I already have a place to live」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, that's too bad……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No sense standing around chatting out here, so don't be shy and come on in」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. These sweets are from everyone for your family」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, you really…… shouldn't have bothered」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, how thoughtful! That's our Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wasn't the one who thought of it, Senpai did. She said we should bring a greeting gift since it's our first time visiting」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's our Ria-chan for ya!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's from everyone, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much. Thing is, though…… my parents aren't around……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh, y-you don't mean……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's just a solo job transfer. They're alive and well」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I hadn't even said anything yet!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mom is head over heels for Dad, so she went along with him. That's why the only ones living here are me and--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yours truly, yours truly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're just a talking panda, aren't you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoaaaa~?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wondered where you disappeared to, and sure enough, you went over there.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-What in the world is this mysterious creature...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa, awesome! You keep a chicken in your yard.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A chicken... Hmm, I see. Is this the avian species from the Human World famous for its meat and eggs?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「His name's Sasami.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, talk about being straight to the point\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So basically, it's just the two of them--Sasami and Synn--living together in this apartment.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Does that mean you're going to cook Mr. Chicken up into a delicious meal?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ow... That hurts...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey now, Sasami. You shouldn't peck at our guests.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He used to be such a cute little chick back in the day, though~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And you still named him Chicken Tender even back then\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sasami's really shy around strangers. Now let's see, any eggs today...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Darn. None today either, huh.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President! Your head is bleeding. It's bleeding!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just how we show affection, so I'm fine.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-Is that so? Well, if you say so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm~, I wonder when he's finally gonna lay an egg for me.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If he did, it'd add one more ingredient to Synn's pantry, too.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, you can't really blame him--he's a rooster, after all.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Vice President, why are you standing so far away?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-ah, no... it's just...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could it be you're allergic to chickens?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-that's not it, but...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then come over here. You can't even get inside like that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-well, that's true, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you act that shy, you're gonna make me blush too...\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why are you blushing?! Besides, I'm not even acting shy!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sigh... After all, it's so cu--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Sasami and Misa locked eyes."
+  },
+  {
+    "name": "Misa",
+    "message": "「Eek\\s08」"
+  },
+  {
+    "message": "Sasami didn't miss the split second Misa flinched."
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now that's quite an aggressive approach\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my~~ It seems you're terribly disliked, Vice President.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, is this...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I'm shocked. To think Sasami would take to her this much.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A watchdog... no, a mad dog, this one. He's a birdbrain who bares his fangs even at his own master.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yet this is the first time he's ever warmed up this much to someone other than me.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Has he really warmed up to her?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sasami's weapon is his beak. Anyone he views as an enemy gets pecked relentlessly with it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't hear the sound of his deadly weapon. That's proof they're just playing around.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President... she was getting pecked just a moment ago, though.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah... hah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good job! Looks like you managed to walk three whole steps.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh... ughh... This is why I hate animals...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm glad you were able to make friends with Mr. Chicken.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're shining so brightly for thinking that I can't even look at you.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Alright! I'll do my best to make friends with him too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, Lolotte! I told you not to touch Sasami!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. If you're not careful, he'll peck your uniform full of holes.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek, that's dangerous!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It definitely seems better to stay on his good side...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, hey, Synn-kun. Is this the gardening I've heard so much about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Since we have such a nice yard, it felt like a waste not to grow something.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh, surprising. You really can't judge a book by its cover.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aw, shucks, you're making me blush~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That wasn't a compliment!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Where is the gardener gentleman?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha! This isn't Lolo-chan's house, there's no way we have one.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Amaziiing, it's the Sakura Garden! What can you harvest here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since I'm growing them in planters, I can't grow anything too big, so it's stuff like asparagus and bell peppers. Shiso leaves, loofah gourds, and things like that.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Loofahs are vegetables? Not scrub sponges?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn only grows things he can eat! So it's not gardening, it's farming!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The skin of a loofah is too tough to eat, sure, but when you simmer it in miso, it's seriously 'delicious!'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so~~ *slurp*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, this guy calls literally anything 'delicious!', so you shouldn't take his word at face value.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Plus, you can even extract skin lotion from the stems and stuff. Thanks to that, my skin is super firm and glowing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That sounds rather intriguing……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right now, we can harvest eggplants, bok choy, cauliflower, crown daisies, and things like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seasonal autumn veggies…… Mmm, sounds yummy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Do you happen to like vegetables, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No. Rather than vegetables, I prefer things like hamburger steak or curry rice」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My word. I was completely under the impression you were a vegetarian……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why is that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, just a hunch……. Hmm…… I wonder why?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's gotta be 'cause she's an angel」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is a huge prejudice. Besides, I am not an angel!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right, uh-huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't just agree with him!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Did you take care of all of this yourself, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. It's my dinner, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're living self-sufficiently. What a surprise」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh…… Disguising it as a home garden while growing poppies to make a killing--expected nothing less」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, the eggs didn't pan out, after all. My only remaining hope is these vegetables」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's wrong, what's wrong!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're gone……. My seasonal autumn veggies…… have been eaten!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「E-Eaten?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look at this. Only the stems of the eggplants are left. And on the cauliflower, just the florets are cleanly gone……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're right…… Every single edible part is thoroughly gone……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who on earth would do something like this... Ah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's just cruel... Sasami...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, looks like it's mad」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm the one who wants to be mad! Though, it's also true I haven't been able to feed it enough...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Say no more」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Um, chickens don't... eat raw vegetables, I thought...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaaa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's eaten is eaten, can't help it now. Still, you can't eat any more, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, everyone. Next, let's go inside the house!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ooh~ I'm excited」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Excuse us!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh, ah, wait up everyone--!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Pardon the intrusion!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huff, huff... E-Excuse... us...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, right this way!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「E... Excuse... us」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai. You don't have to come in so timidly」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, oh, I'm sorry. I just couldn't help it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's nobody here besides me. Please don't hesitate and come right in」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm just feeling kinda nervous...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There's no way I could say it, it's too embarrassing~~\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What is it this time?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President! What is this cute pink figurine!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a telephone」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is a telephone!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Quite the retro interior decor, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, it's still alive and kicking」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What!? May I…… try using it for a moment?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, though it won't work unless you put money in」"
+  },
+  {
+    "name": "Misa",
+    "message": "「An analog phone indeed……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Money, right. Understood」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh…… nn…… nnh, nnh, nnh. The money won't go in」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, a 500-yen coin won't work. It has to be a 10-yen coin」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-Is that so……. How disappointing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have any 10-yen coins?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. Because I only have \\{this|\\s12\\s12}……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-What……!」"
+  },
+  {
+    "message": "Does that mean everything inside that piggy bank is 500-yen coins!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huff, huff」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa there, easy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ta-da! The grand reveal of the Student Council President's room!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooooh~~!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you think?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's surprisingly neat and tidy, isn't it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's nooothing in here at all~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And here I went out of my way to choose my words carefully!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「E-Excuse me... for intruding~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa! So this is... a boy's room...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, no, that's not it! I didn't mean it in a weird way, it's just, um, it's my first time in a boy's room, so I got surprised--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... oops」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Crafting an inorganic, cool room to seduce women--as expected of Lord Synn. Still, Ria-chan belongs to yours truly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you even talking about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai, don't fall for it. He literally just doesn't own any stuff」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka's room just has way too much unnecessary junk. Like plushies and stuff」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm a girl too, you know!? Having one or two plushies is... right, Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ehh!? Y-Yes, of course. Having a few isn't strange at all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm-hmm. So the vice president has plushies~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-What is it!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's very adorable」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...!?!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're one to talk, Sakura-kun--you have a cute plushie yourself!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Paqy, cute... huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you he's not a plushie. Paqy's just a talking panda」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So he's not a plushie\\s02」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chaaaaan. Comfort meeeee」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bad boy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oka~y」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The President's room... The President's room...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, Charlotte-san. Looking around restlessly like that is unladylike」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah! There is something suspicious in the corner of the room!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey. It's rude to touch things without permission」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have discovered a magazine!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A magazine? C... could that possibly be...! Since it's a boy's room, after all--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Nooo!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why is that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-W-W-What do you mean why... Could it be a p-perverted...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai, please say something to her too~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ba-dump, ba-dump...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-N-No, you mustn't, Senpai... Hey, Nanaka-san!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, I'm going to make some tea, so boil some water~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm already on it~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, thank you for your thoughtfulness」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey!! What are you doing while I'm not here, Misa!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wha, it wasn't me!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Trying to dig up someone's secrets is just too cruel!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's a misunderstanding, a misunderstanding!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, open♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aaah. I mustn't look, yet I really want to see...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't look!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I don't care anymore!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aah!\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, man」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Practical Knitting: Winter Collection Special」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Whaaat? It's just a knitting book... Phew」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aha, ahahahaha...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How cruel... All of you trampling all over my delicate maiden heart...!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since when are you a maiden?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Knitting... Hohoo, so it's where you use yarn to knit scarves and sweaters to give as gifts to someone you have a crush on, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're not wrong, though Synn's doing it for himself.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He has a crush on himself?! What an intriguing person!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, that's not what I meant\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wool socks are cheap and warm, you know. That's why I borrowed it from the library.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, there's even a cookbook. You're really domestic, Synn-kun. You'd make a great bride.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, come on... Stop saying stuff like that\\s03」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Looks like he doesn't entirely hate the idea.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Vice President. Is this what a dirty--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmmmph! Mghhhhgghh!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's nothing. It's nothing at all, Lolotte-san.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's amazing that you can do handicrafts. You should teach me sometime too~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please teach me too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... I'm still nowhere near good enough. I only just started, after all.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, why not?! Let's do some knitting!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Look, look, this knit cap looks so warm~~」"
+  },
+  {
+    "message": "Gah, the two of you don't have to cling to me and beg like that!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, alright, tea's ready for everyone~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Tea~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thanks, Nanaka-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... You saved me, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't go getting all mushy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It couldn't be helped!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank you for the tea. *Sip*...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「J-Japanese tea again?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry. We don't stock fancy Western drinks here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「First the Student Council room and now Sakura-kun's house, I really have to do something about this...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「*Sip*...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sip*...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh, it's bitter!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, why are you all relaxing?! Were you planning on having a tea party today or something?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, right! That's it, it's supposed to be a get-together!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A tea party wouldn't be bad either~ So cozy」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No way! I went through the trouble of bringing delicious food today!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah! We need to put Lolotte's stuff in the freezer!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like it'll fit!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, is it finally time for the big reveal?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, it is. Now then, everyone. Please bring out what you've brought」"
+  }
+]

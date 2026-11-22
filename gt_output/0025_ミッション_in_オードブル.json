@@ -1,0 +1,642 @@
+[
+  {
+    "message": "ミッション　in　オードブル"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, Ria-senpai. It's not time to meet up yet, is it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... Actually, I'm in a bit of trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me you can't find the ingredients」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's exactly it. I opened the fridge just now and it was completely empty. Even though there was still food left this morning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Someone must have eaten it all, then」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Speaking of the kind of person who'd pull something like this...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even Helena-san wouldn't go that far, come on」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You already know who it is, don't ya」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Good morning, members of the Student Council」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here we go again...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I have taken the hostages. If you want them back--BEEEEP」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Alright, hazardous material recovered\\s10」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nice one, Ria-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are we going to do, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm. I guess we have no choice but to go shopping」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She did say she's holding them hostage, so let's make her give them back」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'd be such a waste!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, you're right\\s07」"
+  },
+  {
+    "message": "Senpai rewinds the tape recorder a little."
+  },
+  {
+    "name": "Helena",
+    "message": "「If you want them returned, you will follow my instructions to the letter」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, running errands」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Let's see... First is wine. I want you to get some wine ready」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are we her errand boys now」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I feel bad making children buy it, but this too is a mission」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Some mission」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, this is a problem. Looking like this, there's no way I can buy alcohol」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You think so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's just head over first」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got the wine!」"
+  },
+  {
+    "message": "Nakago Liquor Store. He comes out cradling several bottles of wine in both arms."
+  },
+  {
+    "name": "Ria",
+    "message": "「Amazing...! Are you okay? They didn't yell at you for being in uniform?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The old man at the liquor store knows I don't drink, so it's fine」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh~. You know him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bring empty bottles here all the time, after all. Hup」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, want me to carry some?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm good」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thanks, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I hope this is the end of it, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She did say, '\\{First of all|\\s12\\s12\\s12}' and all...」"
+  },
+  {
+    "message": "Looking fed up, he plays the tape recorder."
+  },
+  {
+    "name": "Helena",
+    "message": "「It seems you've acquired it without issue. Next, head to the bakery and buy some baguettes for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is Helena-san more of a Western-food person?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I might be starting to get a slight bad feeling about this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Got the baguettes\\s04」"
+  },
+  {
+    "message": "Inside the paper bag Ria-senpai is holding, the baguette brothers are snuggling up cozily together."
+  },
+  {
+    "name": "Ria",
+    "message": "「So super soft and fluffy\\s05」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They don't really feel like baguettes unless they're hard, do they?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You've just never had it fresh and fluffy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hehehe, I knew you'd say that. But I've actually had it fresh and fluffy before, you know」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Fresh out of the oven is so good~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. When you buy some and pop it in the toaster oven」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Uh-huh, popping it in the toaster oven」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey now. That ain't fresh-baked」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's just reheating it. Freshly baked is way more delicious\\s05」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it works--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wanna try a little bite? Here you go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, are you sure!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Actually, I kinda wanted to sneak a bite myself, you see\\s07」"
+  },
+  {
+    "message": "Senpai sticks out her tongue playfully."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Now you're officially accomplices」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, I'm not giving any to you then, Pa-chan」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's cold, Ria-chan!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here, say aah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Both your hands are full, right."
+  },
+  {
+    "name": "Ria",
+    "message": "Say aah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Aaah\\S01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......\\s08」"
+  },
+  {
+    "message": "Whoa! My lips just brushed against Senpai's fingers."
+  },
+  {
+    "name": "Ria",
+    "message": "「Is it good?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nom nom... It's delicious\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Great. Then I'll have some too ♪」"
+  },
+  {
+    "message": "Smiling brightly, she tore off a piece of the baguette using the same fingers she'd just used to feed me, and ate it."
+  },
+  {
+    "message": "Ah, Senpai, if you bring it that close to your mouth, your fingers are going to touch your lips!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Giggle, it's delicious.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, it's nothing.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey! Let me lick Ria-chan's fingers too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, Paqy!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... Did I... touch you? I-I'm sorry\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, it's totally fine! Besides, it tasted great.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「They're Ria-chan's fingers, of course they taste great, you bastard!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I meant! I meant the bread!\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「AAAAAAHHHHH, I wanna be fed 'ahhh' by Ria-chan tooooooo!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「G-Geez... Bad dog!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Silence...」"
+  },
+  {
+    "message": "I'm just going to dig my own grave if I say anything else, so I'd better stay quiet..."
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Senpai. Let's get back to the tape.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Things are getting quite steamy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pfft!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mhm, that's a fine baguette. Alright, I'll take cheese fondue next, please.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Cough, cough!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, are you okay?」"
+  },
+  {
+    "message": "Is Helena-san watching us from somewhere...?"
+  },
+  {
+    "name": "Ria",
+    "message": "「We got cheese fondue.\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's cheese melted with white wine until it's nice and gooey. You dip bread in it to eat.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, so that's why we needed the baguette. Do you eat it often, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, now and then.」"
+  },
+  {
+    "message": "Since she's a rich girl, Senpai must eat plenty of fancy Western dishes with fancy names like that."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, have you ever had beefsteak?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Sometimes it's served together with this cheese fondue, too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Beefsteak with cheese fondue...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I become the Student Council President, do you think I'll get to eat stuff like that all the time?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't eat it that often, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmmgh...」"
+  },
+  {
+    "message": "It seems beefsteak really is a high-class delicacy that even Ria-senpai doesn't get to eat easily."
+  },
+  {
+    "name": "Ria",
+    "message": "「I hope this is the last one...\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai... Come to think of it, wouldn't it have been better if we just listened to the whole tape at once from the start?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, idiot! Apologize! Apologize to Ria-chan right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahhh, I'm sorry! Forget I said that! Come on, let's do our best on the next mission!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「R-Right.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Good work. This long battle will likely end with the next one. I'm counting on you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The final target is Fish & Chips. Stay sharp. I wish you success.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whew... That was a long errand run.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry for dragging you along.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, you really don't need to worry about it.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「For Ria-chan's sake, I'd go through fire and water... yeah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, Synn-kun. Do you have the stamp card?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think it's in my uniform pocket, though--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then I'll grab it for you.」"
+  },
+  {
+    "message": "Senpai steps right up close to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Senpai?!」"
+  },
+  {
+    "message": "Just because my hands are full doesn't mean you can suddenly start groping around in my pocket--that's way too bold!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? Where is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-N-Not that side, it's the other one, the other one!」"
+  },
+  {
+    "message": "Senpai presses up against me far closer than necessary. And on top of that, she rummages around deep, deep inside, thoroughly feeling around."
+  },
+  {
+    "message": "Your face is too close, Senpai. Plus, the soft squish of her chest is pressing against my elbow...!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Found it!」"
+  },
+  {
+    "message": "Completely oblivious to how stimulating that physical contact was, Senpai holds the stamp card up high."
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa...」"
+  },
+  {
+    "message": "How can she be so defenseless? At this rate, I feel like I'm going to lose control of myself."
+  },
+  {
+    "message": "Though I'm one to talk, since I couldn't bring myself to tell her to stop."
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go. Thanks again for today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're welcome.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis's selfishness really puts me in a bind.」"
+  },
+  {
+    "message": "Despite saying that, Ria-senpai looks strangely happy."
+  },
+  {
+    "message": "She probably doesn't actually mind it deep down."
+  },
+  {
+    "name": "Helena",
+    "message": "「You were quicker than I expected.」"
+  },
+  {
+    "message": "Helena-san was standing there with her hands on her hips, striking an imposing pose."
+  },
+  {
+    "name": "Ria",
+    "message": "「Because Synn-kun came along with me, you see\\s07」"
+  },
+  {
+    "message": "Ria-senpai gives a wink so sparkly it wouldn't be strange if stars popped out."
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis. I went and bought it, so hurry up and give back what you took from the fridge!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't get so worked up over it. It's cute, isn't it?\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-Big Sis?! Please stop doing that outside!」"
+  },
+  {
+    "message": "Helena-san really must love everything about Ria-senpai."
+  },
+  {
+    "message": "Seeing Ria-senpai cross her arms over her chest and puff out her cheeks nearly makes me dizzy."
+  },
+  {
+    "name": "Helena",
+    "message": "「Alright, alright, I get it」"
+  },
+  {
+    "message": "We trade what we're holding with each other."
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait, this is wine, a baguette, cheese fondue, and fish and chips」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't this the exact same stuff we just bought」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yep, seconds」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu. Looks like we're in for another elegant evening tonight\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, Sis, come on--\\s09」"
+  },
+  {
+    "message": "It seems the Kujou family refrigerator is also under Helena-san's complete control."
+  }
+]

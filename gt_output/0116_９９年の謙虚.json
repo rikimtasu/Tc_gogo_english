@@ -1,0 +1,631 @@
+[
+  {
+    "message": "９９年の謙虚"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy. How do you think we can bring Azel into our circle of friends?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Isn't that just 'a small kindness, a huge bother'? Some folks just want to be left alone, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, but... oh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Today is a lovely day for a walk, isn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Taking a walk together? They've finally gotten that close. Expect nothing less from the Student Council Secretary!"
+  },
+  {
+    "name": "Synn",
+    "message": "「How wonderful it is when people get along.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No matter how you look at it, that's not what's happening.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The sun is so nice and warm, it really puts a spring in your step, doesn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「All I see is an angel clinging onto a mysterious transfer student.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At least tone it down to 'tagging along' for her sake.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san. I don't think it's good for you to always look like you have nothing to do.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I read somewhere that the time of one's youth is more precious than grains of sand made of diamonds.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you have free time, I think you should join a club or something. If you just keep joining and quitting over and over, you're bound to find one that suits you, Azel-san.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And that, in short, is the voice of experience!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you don't know what kinds of clubs there are, I'll introduce them to you with a ba-ba-ba-bang!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After all, having joined and quit thirty different clubs, I am the self-proclaimed and universally recognized Club Queen.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, what kind of club would you like? One that gets your blood pumping and your heart racing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Or one with a bit of a mysterious air about it? Or perhaps the kind where people sit and chat quietly?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Hmm. I can tell Lolotte is trying hard, but how should I put it--he clearly looks annoyed."
+  },
+  {
+    "message": "Well, from an outsider's perspective, what I've been doing to Azel probably looks the exact same way."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello there, Lolotte. Azel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, President!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmph-hmph. We're already besties now, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...No, it sure doesn't look like that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Your eyes are like microscopes, Mr. President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're going to use that idiom, it's 'knotholes.'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come now, we're already best friends, aren't we, Aze-chan?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Trying to make friends is fine, but forcing it isn't good.」"
+  },
+  {
+    "message": "Not that I'm one to talk, though."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm not forcing anything. I'm being careful and subtle.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Didn't the Chairwoman tell us to subtly look out for him?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, you're being ridiculously blatant, Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Your eyes really are microscopes, Mr. President. You're blowing tiny details out of proportion. Besides, sometimes a little pushiness is necessary.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. True enough.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「According to my years of observation, Azel doesn't seem to have gotten close to anyone, which is a most regrettable situation.」"
+  },
+  {
+    "message": "I agree, though..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen. Saying that right in front of the person himself is what's blatant.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A human... awawa!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You should enjoy this country--or rather, this academy life--much more. It's super fun here, after all. Especially Student Council activities.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not listening to a word I say, are you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How rude of you, Mr. President. I hear you faintly in the background, like the babbling of a little brook.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In other words, what I'm trying to say is: you came all this way from Tang and India to fetch precious sutras, so it's a waste to always wear a sour face.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He didn't come here to fetch sutras.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are sutras?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's your problem right there. When you have a question, you have to look it up yourself. That way you'll get bogged down in knowledge and the world will become much more fun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. That's actually a decent point... wait, 'get bogged down'?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not interested enough to go out of my way to look it up.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So you're a lazybones, huh. But don't worry. When it comes to being lazy, I won't lose to anyone either. Ahem!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For someone like that, this guidebook will come in handy. Most things are written right here. In this 'True Stories: The Human World'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It sounds super shady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's not true at all! 'True Stories: The Human World' is a tenka..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "Awawa, ahem!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Setting that aside, every single day has been super happy for me since I joined the Student Council」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, I have a brilliant idea! Azel should join the Student Council too. If she does, a happy, sparkling, heart-pounding school life will begin」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... Where's Azel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is this the ninja art of vanishing into thin air?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She gave us the slip? Could she be a secret agent?!」"
+  },
+  {
+    "message": "But where to?!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At times like this, asking Kokkuri-san is the best way」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We won't be able to catch up to her while we're preparing all that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, that's mine. Yes, hello」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「If it is tracking an agent, please leave it to me, Riesling Tohyama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Where on earth did you come from?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya, do you know where Azel is?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Distance: 138 yards. She has entered the new school building's entrance and is heading toward the stairs」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you, Jiiya」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Not at all, Milady. Should you ever be in trouble, please do not hesitate to call upon me, Riesling Tohyama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where on earth did he come from?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you sweat the small stuff, you lose」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haa, haa... T-Trying to shake me off, haa, she's n-ninety-nine years too early」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa, why ninety-nine years...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wheeze, wheeze, I am humble」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait a second!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey. Is there some reason you can't fit in with that class? I think they're all good people, though」"
+  },
+  {
+    "message": "Apparently, it's quite common for transfer students to struggle to blend into new social circles over trivial misunderstandings."
+  },
+  {
+    "name": "Azel",
+    "message": "「There isn't」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Trying to dodge the question is useless. Unlike the president's eyes, mine aren't microscopes, so I see everything crystal clear」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There is a huge problem. I have never once seen Azel-san talking to anyone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True. Even in the classroom」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Furthermore, not attending classes is unacceptable! Why, just the other day, you were at the church right in the middle of class hours, weren't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's right. You're barely ever around during class time」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's pointless」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The church is not pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, does he mean classes are pointless?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even I, who am always sleeping, at least make a point of attending class」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stay awake」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The president has high standards. In that case, please show me through actions rather than words」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actions?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If I should inadvertently fall asleep during class, I would appreciate it if you could gently wake me up without anyone noticing」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「While you're at it, telling me which textbook page is currently being explained in the lesson would earn you a 'good job'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...We aren't even in the same grade to begin with」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You just dodged a bullet, didn't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did you know Azel was at the church anyway?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sleeping at the church is truly a rare occasion, to the point of having scarcity value」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's still no good」"
+  },
+  {
+    "message": "Just as Lolotte says, there's no sign of Azel getting friendly with anyone."
+  },
+  {
+    "message": "Besides, he's not even in the classroom during breaks."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, since you get to spend time with so many people your own age, you should at least try to make some friends.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, friendships aren't something you force, they just happen naturally... But still, if you miss your chance, nothing's ever going to happen.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With the way you acted when everyone came up to talk to you on your first day after transferring, too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Meaningful interactions begin by answering when someone asks you a question.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's a nuisance.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Hmm. He's a tough nut to crack."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel, could it be that you're holding back from making friends out of consideration for a close friend back in your hometown!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have a dear friend of my own. Though we're under distant skies now and cannot meet,」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sure she would be much happier knowing I'm with friends rather than all alone.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, we have to move classrooms for the next period! I need to hurry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No skipping class, Mr. President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm actually more worried about you on that front, Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll come see you again later, Azel! Make sure you go to class!」"
+  },
+  {
+    "message": "Well, guess I should get going too. Before that, though."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You might find her annoying, but please don't hate Lolotte.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's genuinely worried about you.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How can you tell?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, anyone could tell, just from the way she acts.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I can't tell.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「She is another person.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, sure, you can't understand someone completely, but if you spend time together, you get a pretty good idea, right? Especially with someone as easy to read as Lolotte.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How much do you actually know about that girl?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...What do you mean, 'how much'?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Unusually enough, Azel was looking straight at me."
+  },
+  {
+    "message": "Th-This is my chance for some meaningful communication!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte Rosenkreuz. She's a rich girl and a returnee from abroad. She has a butler of unfathomable skill named Riesling Tooyama, and of course, she's filthy rich」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That piggy bank of hers is especially terrifying. Believe it or not, it's filled with nothing but 500-yen coins! Just thinking about how much money is inside that piggy bank sends shivers down my spine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, even just one of them is 500 yen! And 500 yen is big money, you know!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, that's not the important part. We only just met, sure, and she might seem unreliable at first, but she's actually a dependable Student Council comrade!」"
+  },
+  {
+    "message": "Yeah. I kinda feel like a real Student Council President right now!"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph」"
+  },
+  {
+    "message": "Snorting as if in disdain, Azel looked away from me and started walking."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, ah...」"
+  },
+  {
+    "message": "He vanished as if he'd been wiped out of existence."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I looked around, but he was nowhere to be found."
+  },
+  {
+    "message": "And unlike her, I didn't have Riesling."
+  }
+]

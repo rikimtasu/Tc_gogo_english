@@ -1,0 +1,234 @@
+[
+  {
+    "message": "記号と再生産"
+  },
+  {
+    "message": "Now then, it's Monday after school. I need to hurry to the Student Council room and decide on this week's activity guidelines."
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, today is Monday, after all. I'll get to the Student Council room ahead of Sakura-kun and decide this week's activity plan myself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since we're both heading there, wanna go together?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Teehee, no way in hell」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, you don't have to run away」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyah!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Whoa there!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm sorry, I was in such a hurry... Wait, it's just you, Shio!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The fault is mine as well, for I was in quite a rush... Oh, my! Elder Sister!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「How fortuitous. I was just searching for you, Elder Sister. Pray accept this notebook」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's this?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Did we not speak of it during our recent sleepover? Inspired by you, Elder Sister, I too have penned a novel!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My, you finished it! Good for you. Finishing what you start is the most important thing, after all.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ahem! Come, come, by all means, please peruse this humble effort」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As it is a tale into which I poured my very soul, it shall take nearly an hour to read through, no matter how swiftly one reads. In the meantime, might we partake of some tea at Prier?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'll head on ahead--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wait right there! You want to go to the Student Council room with me, don't you!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... but it's gonna take nearly an hour, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll finish it in under five minutes.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is quite impossible. Come, come, please give it a read」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Shio, before I turn the cover, let me ask you one thing: what genre is this story?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is a modern battle-academy fantasy romance neo-horror」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't tell me the protagonists are a prince in disguise, an apprentice mage, and a sentient sword?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「*Flinch*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Listen closely, Shio? First, as the absolute basics, starting the intro with an alarm clock, opening with a poem, or having the protagonist introduce themselves right away are all automatic point deductions, okay?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「*F-Flinch*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Next, just to check, the prologue doesn't start with a voice from another world before they suddenly find themselves there, or have them pass out and wake up in a parallel world, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As for fantasy elements, having a cherry blossom tree spirit or a rabbit appear for an Alice parody is a no-go, okay? Espers, psychics, and supernatural detective agencies are strictly forbidden too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, of course that includes onmyoji, too?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「*F-F-Flinch!*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「G-Guhii…… H-However, Elder Sister, even if the developments are cliche, so long as it depicts a romance that transcends social status, would that not earn a passing grade?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, that's right. However……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Episodes where someone protects their crush or takes the hit for them from a flying ball, a runaway car, or shattering glass from said car are totally played out for readers, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「*Flinch-flinch, flinch-flinch!*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And forbidden love? Don't tell me a conglomerate heir who grew up unloved by his parents ends up living with a kid he picked up off the street?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And if the trigger for falling in love is crossdressing for a school festival play or crossdressing as a stand-in for an arranged marriage, that's completely out of the question, okay?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「*Flinch-flinch-flinch, flinch-flinch-flinch!!*」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa…… She just hacked it to pieces without a shred of mercy……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I shall…… take my leave and start anew…… P-Please return my notebook……!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, I'll hold onto this for now. Let me give you my proper thoughts on it the next time I come over for a sleepover」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-You really needn't…… trouble yourself reading…… such trash……!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, everyone starts out there, okay? Don't let something like this discourage you--let's both do our best!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister…… Yes, I shall devote myself to improving…… Now then, if you'll excuse me……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, it hasn't even been five minutes yet, has it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yeah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Scary... When she's hysterical, she's scarier than a Demon General」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She gave credit where it was due and encouraged her at the end, though...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio is my little sister, you know? That's why I deliberately withheld flattery and gave her my harsh opinion」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get that. Still, wouldn't it have been better to actually read it first?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Sakura-kun, even if it's just until we reach the Student Council room, do you want to try reading it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it looks interesting」"
+  },
+  {
+    "message": "On the way to the old school building, I skim through Shio-chan's debut work."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I've only looked at the very beginning, yet the content is exactly as Misa pointed out..."
+  }
+]

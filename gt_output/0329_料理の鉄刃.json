@@ -1,0 +1,424 @@
+[
+  {
+    "message": "料理の鉄刃"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Sorry to keep you waiting, nya~! The food is ready, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "A few minutes after lunch break started, Pasta showed up at the Student Council room without any warning."
+  },
+  {
+    "message": "With the Holy Night Festival coming up, we in the Student Council had planned to have a quick meeting while eating lunch."
+  },
+  {
+    "message": "We also asked Shio-chan to sit in so we could get a regular student's perspective."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Lero~n, lick, lick ♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san, that's not how you eat vegetable sticks」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But the dressing coated on the veggies tastes way better. Chupappa~\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're not even eating the actual veggies, man」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, is that seriously Misa's lunch again? How do you even get full off that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I just have a small appetite」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, I get it! The dressing has tons of calories packed into it, right!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gasp!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A-Aneue? I understand the emotional shock, but we have a guest, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Everyone, this is Pasta. You remember him, right?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You're keeping a bunch like this in line, nya? Must be rough, nya...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't just barge in out of nowhere and call us 'a bunch like this'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, the Student Council has to handle emergencies for anyone connected to the academy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's going on today, Pasta?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You'll hear Pasta out, nya? Even if it's just boss of a tiny monkey mountain, you're still a man who stands above humans, nya」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's not a compliment at all, dude」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「For causing you guys all kinds of trouble... I'm really sowwy, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh-huh, you mean 'sorry,' right?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「As a token of apology, I prepared a special lunch, nya. Pasta put all his skill into cooking it, nya」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Lies. You're trying to trick us! The \\{pork|\\s12} wholesaler won't let that fly!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Th-That's mean, way too mean, nya! Even though you're an angel, you don't have a trusting heart, nya.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am not an angel, so it is fine!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Special lunch...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, so you *are* hungry after all, Misa.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Nanaka, some things are best left unsaid.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I am not hungry! My stomach is completely full! It's all plump and jiggly, and I'm getting chubby!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「M-Misa-chan, you're saying some pretty wild things.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Anyway, I wouldn't touch Pasta's home cooking if you paid me!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「...Tch.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did someone just click their tongue--」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「*Sniff*, *sniffle*, *hic*! Pasta, Pasta... just wanted everyone to be happy, so I worked so hard cooking... *waaaah*!」"
+  },
+  {
+    "message": "Pasta clings to me and bursts into tears."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh-oh, you made her cry. Don't look at me.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Even though I got up around 3 in the morning to start prepping... *sob, sob, sob*.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, you...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, don't cry, Pasta! And Sakura-kun, why are you looking at me so accusingly?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Even though it's a super luxurious menu, I made it so that even if you eat all of it, it won't go over 100 kilocalories... *honk*, *sniffle*.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Gasp*, 100!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I would be delighted to partake, Pasta!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Talk about a fast change of heart!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It really is a luxurious meal. But...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'll keep bringing more out, nya, so you guys just sit and wait, nya. You can go ahead and start eating first, nya.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「No, such is my code of etiquette. First, those of higher standing must partake.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「...Shaddup, pipsqueak, nya. I wasn't talking to you, nya...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Huh? J-Just now, did I not hear a vaguely malicious voice...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You're hearing things, nya. Pay it no mind, nya.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll go help serve the food.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If Sakura-kun is doing it, then I will too! It's a contest!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, wouldn't having too many people go actually make things less efficient?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph, I was just saying that. I was only testing you. I'll wait quietly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, I'll be right back.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta, I'll help carry--huh?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyapupu, nyapupupupu.」"
+  },
+  {
+    "message": "He must be happy everyone's going to eat his cooking. I totally get that feeling."
+  },
+  {
+    "name": "Pasta",
+    "message": "「Damn rotten Student Council, how shall I cook you up... nyaffuffu.」"
+  },
+  {
+    "message": "Huh? Isn't the cooking already done?"
+  },
+  {
+    "message": "Besides, that laugh is just like Auntie Shinagawa's when she thinks she's doing something good, even though she's actually plotting something wicked...?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sparkle, sparkle~\\s07 The piping-hot dishes are shining!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I was expecting the punchline to be cat food or something, but what is this? It actually looks seriously delicious.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I want to eat it, but could this food possibly...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's suspicious. Is this really only 100 kilocalories?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In my humble estimation, the calories here reach at least as high as the eighth station of Mount Fuji.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A-Elder Sister, get ahold of yourself!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, there's still more coming out, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If we don't polish these off and clear them away fast, the plates won't even fit on the table.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even our Treasurer says something smart every once in a while~」"
+  },
+  {
+    "message": "Near the kitchen--"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Here, carry this out, nya. Pasta will be in the back sharpening the meat cleaver and preparing dessert, nya.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "That's strange... Why would they have a blade like that for dessert?"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sniff, sniff, sniff! Something smells really good over here~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there, Sally-chan.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, it's Prez! Hiya~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa, whoa, what's that? It looks delicious. I wanna eat it, I wanna eat it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, food always tastes better when you eat with a big group. Sally―chan, over at that table―」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo~! Thanks for the food~! Chomp!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, wait! It's bad manners to sneak bites before we start!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mmph!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Thud, spin~\\s07 Tingle-tingle-tingle-tingle-tingle-tingle...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sally-chan collapsed and she's convulsing!? Don't tell me this food is--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is bad. Everyone's in danger!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It doesn't appear to be lethal.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In other words, they might have intended to paralyze us and have their way with us...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It seems this humble one made the right choice by minding my manners!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aah, uuuh, aah, I'm all numb and can't move...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is the pufferfish poison Jeeves told me about. To cure it, you have to take a sand bath. How exciting...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah!? Was I too late!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, this is your chance, Master Synn! Now's the time if you wanna play some naughty tricks on Soba and the angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I'd ever do that!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「T-That stuffed toy thinks up things even more wicked than a demon, nya...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Wait, what's going on, nya!? Only two of them went down, nya--has Pasta's grand scheme been foiled, nya!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Pasta-san! This goes way too far for a prank. What is the meaning of this!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Shut up, nya! You guys are in my way, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'm done being the mastermind, nya! From here on, it's time for brute force, nya!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh... I can't forgive you for this, Pasta」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun is actually getting mad for once?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It looks so delicious, yet it's poisoned? We can't even eat it? Anyone who wastes food deserves punishment!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, so that's what you're mad about」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ２８_EASY"
+  },
+  {
+    "message": "ステージ２８_HARD"
+  },
+  {
+    "message": "ステージ２８_NORMAL"
+  }
+]

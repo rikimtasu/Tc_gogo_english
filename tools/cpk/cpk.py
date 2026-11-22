@@ -181,8 +181,7 @@ class CpkArchive:
 
     def rebuild(self, out_path: str, replacements: dict[str, bytes]) -> None:
         """Rebuild CPK keeping exact TOC/GTOC/ETOC schemas and updating offsets/sizes."""
-        if self.toc_offset > self.content_offset:
-            raise NotImplementedError("Rebuilding TOC-after-content CPKs (e.g. BATTLE.CPK) is not yet supported")
+        toc_after_content = self.toc_offset > self.content_offset
         hdr_buf = bytearray(self.raw_hdr)
         hdr_utf = bytearray(hdr_buf[0x10:])
         toc_buf = bytearray(self.raw_toc_body)
@@ -196,6 +195,7 @@ class CpkArchive:
         cur_abs = self.content_offset
         payloads: list[tuple[int, bytes]] = []
         delta_enabled = 0
+        delta_packed = 0
 
         with open(self.path, "rb") as src_f:
             for idx, row in indexed_rows:
@@ -208,12 +208,13 @@ class CpkArchive:
                     else:
                         ext_sz = len(data)
                     delta_enabled += ext_sz - (row["ExtractSize"] or 0)
+                    delta_packed += len(data) - row["FileSize"]
                 else:
-                    src_f.seek(self.toc_offset + row["FileOffset"])
+                    src_f.seek(self.file_base + row["FileOffset"])
                     data = src_f.read(row["FileSize"])
                     ext_sz = row["ExtractSize"]
 
-                rel_off = cur_abs - self.toc_offset
+                rel_off = cur_abs - self.file_base
                 patch_utf_field(toc_buf, self.toc_table, idx, "FileOffset", rel_off)
                 patch_utf_field(toc_buf, self.toc_table, idx, "FileSize", len(data))
                 if ext_sz is not None:
@@ -224,31 +225,56 @@ class CpkArchive:
                 cur_abs += padded_len
 
         content_size = cur_abs - self.content_offset
-        etoc_abs = cur_abs if self.etoc_blob else None
+        if toc_after_content:
+            toc_abs = _align(cur_abs, self.align)
+            after_toc = toc_abs + len(self.toc_prefix) + len(toc_buf)
+            gtoc_abs = _align(after_toc, self.align) if self.gtoc_blob else None
+            after_gtoc = (gtoc_abs + len(self.gtoc_blob)) if gtoc_abs is not None else after_toc
+            etoc_abs = _align(after_gtoc, self.align) if self.etoc_blob else None
+        else:
+            toc_abs = self.toc_offset
+            gtoc_abs = self.gtoc_offset if self.gtoc_blob else None
+            etoc_abs = cur_abs if self.etoc_blob else None
 
-        patch_utf_field(hdr_utf, self.hdr_table, 0, "ContentSize", content_size)
-        if etoc_abs is not None:
+        if self.hdr.get("ContentSize") is not None:
+            patch_utf_field(hdr_utf, self.hdr_table, 0, "ContentSize", content_size)
+        if toc_after_content:
+            patch_utf_field(hdr_utf, self.hdr_table, 0, "TocOffset", toc_abs)
+            if gtoc_abs is not None and self.hdr.get("GtocOffset") is not None:
+                patch_utf_field(hdr_utf, self.hdr_table, 0, "GtocOffset", gtoc_abs)
+        if etoc_abs is not None and self.hdr.get("EtocOffset") is not None:
             patch_utf_field(hdr_utf, self.hdr_table, 0, "EtocOffset", etoc_abs)
         if self.hdr.get("EnabledDataSize") is not None:
             patch_utf_field(hdr_utf, self.hdr_table, 0, "EnabledDataSize", self.hdr["EnabledDataSize"] + delta_enabled)
+        if self.hdr.get("EnabledPackedSize") is not None:
+            patch_utf_field(hdr_utf, self.hdr_table, 0, "EnabledPackedSize", self.hdr["EnabledPackedSize"] + delta_packed)
         hdr_buf[0x10:] = hdr_utf
 
         os.makedirs(os.path.dirname(os.path.abspath(out_path)), exist_ok=True)
         with open(out_path, "wb") as out:
             out.write(hdr_buf)
-            out.seek(self.toc_offset)
-            out.write(self.toc_prefix)
-            out.write(toc_buf)
-            if self.gtoc_offset and self.gtoc_blob:
-                out.seek(self.gtoc_offset)
-                out.write(self.gtoc_blob)
+            if not toc_after_content:
+                out.seek(toc_abs)
+                out.write(self.toc_prefix)
+                out.write(toc_buf)
+                if gtoc_abs and self.gtoc_blob:
+                    out.seek(gtoc_abs)
+                    out.write(self.gtoc_blob)
             out.seek(self.content_offset)
             for padded_len, data in payloads:
                 out.write(data)
                 pad = padded_len - len(data)
                 if pad:
                     out.write(b"\x00" * pad)
-            if self.etoc_blob:
+            if toc_after_content:
+                out.seek(toc_abs)
+                out.write(self.toc_prefix)
+                out.write(toc_buf)
+                if gtoc_abs and self.gtoc_blob:
+                    out.seek(gtoc_abs)
+                    out.write(self.gtoc_blob)
+            if etoc_abs is not None and self.etoc_blob:
+                out.seek(etoc_abs)
                 out.write(self.etoc_blob)
 
 

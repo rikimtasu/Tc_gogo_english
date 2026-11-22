@@ -1,0 +1,669 @@
+[
+  {
+    "message": "放っておけない"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Synn, you were a huge help today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all, just let me know anytime you need a hand」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Yeah. See ya, get home safe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew, all done helping out~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What're we gonna do now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm gonna stroll around the shopping district for a bit」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, if it isn't Synn and P-boy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, hey Nanaka. Helping out around the house?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep. What about you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was helping out over at Tame-san's place until just now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. If you haven't had lunch yet, wanna stay and eat?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'd love to!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You look busy, so I'll pass」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha, sorry about that」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, and here I thought soba was your only redeeming quality」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Next time I'll flatten you with a rolling pin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「His insides'll spill out」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, come to think of it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I saw Mako-chan a little while ago」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah? Probably working another part-time shift」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She was with some guy I didn't recognize」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe it was a Demon acquaintance of hers or something, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, I see. Yeah, right...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Why are you getting so worked up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm not worked up or anything」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I did get a little worried she might've run into trouble, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, really. What a fine big brother figure you are」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like that, I swear」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. Well, I'm heading back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, see you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? No, nothing」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aren't you hungry?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's Macaron」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, wait?」"
+  },
+  {
+    "message": "If I remember right, that guy is from the KiraFes..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「That guy's a Demon, isn't he」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I had a feeling」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So it really was a Demon acquaintance of hers after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... What, you bothered by it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, look, it's just」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm worried Macaron might turn delinquent, you know」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Impure heterosexual relations」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's no good, you can't do that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What if it ain't impure?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I wanna get all tangled up with Ria-chan and do things that'll make us blush!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Diis!」"
+  },
+  {
+    "message": "Macaron and Melphas-san, on a date...?"
+  },
+  {
+    "message": "No, no, no way"
+  },
+  {
+    "message": "...Anyway, let's tail them for just a bit."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord. Ain't got nothin' to do with us, does it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't just leave it alone」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why do you care so much anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh, well...」"
+  },
+  {
+    "message": "Why am I worrying so much about Macaron?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, they went into the park...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Outdoor play」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nufu!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You guys were late, nya. I got totally tired of waiting, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Sorry, sorry. Couldn't get a hold of Melphas」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「For fostering moments of new rendezvous is, too, part of the refined pursuits that color one's life」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Is this guy an idiot, nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「He was just hitting on girls」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, why is Pasta here?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh... That bastard's having a threesome, not bad」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I hear you're a Demon General too, nya」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Yes. However, I am of a disposition that dislikes conflict」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Therefore, agreeing with the ideals the princess upholds, I am lending my cooperation to the Warusaders」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That's a lame team name, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I told you, it's not Warusaders!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Then what is it called, nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Um... The Black Macaron Royal Guard?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That's on the exact same level, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No it isn't!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Then, before we begin our strategy meeting, let us think of a more tasteful organization name」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What could a 'strategy meeting' be about...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aren't they probably coming up with a plan to defeat the Crusaders?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that what it was--」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Okay, anyone with an idea!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I don't really care, nya」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「How about 'Rosenberg,' or perhaps 'Tempelritter'?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I don't get what they mean, so rejected」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Forget about that and hurry up and think of a strategy, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, let's do that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Shall we head back, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey, you're fine with leaving when we're the ones being targeted?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't want to get in the way of Macaron working hard, and it doesn't seem like she's doing anything delinquent anyway」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So you're saying that's why you're relieved?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Truth is, aren't you relieved for another reason?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that supposed to mean」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Who knows. Well, I think you should just do whatever you want, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "message": "I really don't think eavesdropping is a good idea, after all."
+  },
+  {
+    "message": "If Macaron is serious, then we have to face her fair and square too."
+  },
+  {
+    "name": "?????",
+    "message": "「Ugh... haah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "?????",
+    "message": "「Haah, haaah, Pasta-cha~n...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "?????",
+    "message": "「Uooooh! Fiiinally found ya, Pasta-chaaan!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「What is it, nya?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Is that...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Who?」"
+  },
+  {
+    "name": "?????",
+    "message": "「Pasta-chan! I've missed yaaa!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ginyaaa!? Ardin!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ardin?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「He's a stalker, nya! The biggest pervert among the Demon Generals, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Calling me the biggest, you're makin' me blush!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That wasn't a compliment, nya! Go away already, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「You don't gotta be shy, Pasta-chan!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'm grossed out, nya! You lolicon! You sicko!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Kuhaah! That sends chills down my spine!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「And he's a masochist on top of it, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What a weirdo!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「He's been following me around forever, and I'm totally sick of it, nya...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ardin-san, was it? Stalking is a full-fledged crime, you know!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Huh? Who the hell are you?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Get lost, you weird cosplay chick!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm not weird! I look cool, don't I?!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「\"Cool\" is a word meant for a guy like me!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then let's settle this man-to-man--Melphas, deal with him for a bit--」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wait, he's not even here?!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「He ran away right off the bat, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whenever he sees a guy, he always pulls this...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... I know that feeling all too well」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh, Panda-chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's enough arguing!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unya! Student Council President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really know what's going on, but you're troubling that girl, aren't you?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「What is it this time? Are you gonna get in the way of my love life too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Doing things that make others uncomfortable isn't right」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uncomfortable?! Don't talk nonsense!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's completely hopeless」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Things are starting to get kinda complicated, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'm gonna make a run for it while I still can, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, Pasta-chan!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta's bidding you farewell for today too, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Aaaagh! Pa~sta-chaaan!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Damn it, what're you gonna do about this?! It's your fault for getting in the way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, forcing someone isn't right」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That's right, you're the one in the wrong, Mr. Ardin!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Whaaat did you say?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You mustn't do things that bother other people!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Shut up, shut up!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh... Looks like you need a little punishment」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, let me handle this」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No, it's my job!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, don't say that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm doing it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, I really should」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's me!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Nngh... Gaaah!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Quit your yapping! I'll crush the both of you together!」"
+  },
+  {
+    "message": "View the battle tutorial \"Macaron's EX Attack Edition\"?"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ５９_EASY"
+  },
+  {
+    "message": "ステージ５９_HARD"
+  },
+  {
+    "message": "ステージ５９_NORMAL"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "message": "ブルジョワとプロレタリアン"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So, what are you gonna do, Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sitting around doing nothing won't help. Maybe I'll come up with something if I go for a walk.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Coming up with ideas won't magically give us more options, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I wish something delicious would fall from the sky.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, I'm so sorry!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, you again!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, sorry... That was my bad for not paying attention.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, it's my fault too for not looking where I was going.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were we looking at the same sky by any chance?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As if.」"
+  },
+  {
+    "message": "She shut me down instantly."
+  },
+  {
+    "name": "Misa",
+    "message": "「So, have you decided what you're bringing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just thinking about it while taking a walk.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Giggle, you sure are confident. I can't wait to see what you come up with.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She has high expectations, Paqy. We need to take this more seriously.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was being sarcastic, sarcastic!!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Besides, thinking about it is a waste of time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How about you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm going grocery shopping right now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shopping? They said cobbled-together leftovers were fine.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We didn't have any. So I'm buying some while doing the family shopping.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well then, see you later.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Bye-bye.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shopping, huh……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「We only got 200 yen left for this month, ya know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if there's a way to go shopping without spending any money」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's go shoplifting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, let's follow Misa around. Maybe it'll give me some good ideas.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heyyyy, Seisaaaa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, stop it! Don't go yelling people's names in the middle of town!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can I tag along with you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh!? Why would you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I thought it might be a good reference」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't you have any pride!? Shamelessly scouting out the enemy like this……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Enemy? What enemy?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can leave carrying the bags to me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't just decide things on your own!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No good, huh……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-N-No means NO!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh…… too bad……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let it slide for my sake, please?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh. E-Even so…… n-nooooo……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch. She actually held out.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! What're you two doing on a date!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Nanaka」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A d-date!? That's completely out of the question!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh please, weren't you two just flirting and lovey-doveying all over the place!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!? We were definitely NOT flirting!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then what were you doing!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shopping!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, why didn't you say so sooner. Hehehe, getting Misa to pay out of her own pocket--not bad, Synn」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... And intending to make all of her fortune your own, just as expected of Lord Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I haven't done anything this whole time...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bring back something delicious, okay!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good grief...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's go shopping already!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it okay if I come along?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Only because I already said we were, so I have no choice--no choice at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Thanks」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's not like I have any reason to be thanked!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where are we going?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The supermarket. Obviously」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, you mean 'Inamiya Shopping Center,' right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Where's that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, you don't know it? Even though it's the cheapest, best-value supermarket in Ryuusei Town」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The one I always go to is right here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-This place is...!」"
+  },
+  {
+    "message": "A delicious, reliable supermarket whose storefront exudes an \"expensive\" vibe. Its name is \"Capricore.\""
+  },
+  {
+    "name": "Synn",
+    "message": "「D-D-Don't tell me you mean we're going in here……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course I do. That was my plan from the very beginning.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm not mentally prepared……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's wrong? Hurry up, let's go.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, here goes nothing!」"
+  },
+  {
+    "message": "I decided to take the plunge."
+  },
+  {
+    "name": "Synn",
+    "message": "「Everything is so expensive……」"
+  },
+  {
+    "message": "Even though the product names lined up are the exact same as at Inamiya, the prices are more than double."
+  },
+  {
+    "name": "Misa",
+    "message": "「Really? I've never been to Inamiya, so I wouldn't really know……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There are plenty of other stores with much better deals, you know.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if you tell me that, I've only ever shopped here. I don't feel like going out of my way to buy elsewhere.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tsk, tsk, tsk. This is why commoners are so hopeless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That goes for you too, Hisa, eating this food without even knowing its true worth!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「All the fresh fish is wild-caught and straight from the sea. Top-notch chefs even fillet and prep it for lazy housewives.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Housewives……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The meat section is packed with carefully raised, first-rate domestic beef, domestic Kurobuta pork, and domestic free-range chicken.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Imported meat is already a feast to me, though.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The produce is strictly handpicked for the season, and it goes without saying that it's completely pesticide- and additive-free.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah. When it comes to cherry tomatoes and shishito peppers, I won't lose!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's no way a measly home garden could ever beat organic farming. There's a reason it's expensive. That value shows right in the quality.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I had no idea……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, did you manage to buy what you were looking for?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Potatoes, onions, carrots. And meat」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Meat--like beefsteak!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just chicken」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I see...」"
+  },
+  {
+    "message": "As far as ingredients to simmer in a pot go, we'd gathered a completely ordinary selection."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on...? That lineup. Don't tell me--it's curry and rice, isn't it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right. That was the plan from the start, anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Chicken curry, huh. You really like curry and rice, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's not like I particularly like it or anything, such a childish food」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Curry's pretty much the only thing she can make」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As if! Honestly, your face is the only cute thing about you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why curry and rice?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shut up! I was just in the mood for curry today, got a problem with that!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, don't get mad」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Don't flirt in the middle of town!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Like I would!」"
+  }
+]

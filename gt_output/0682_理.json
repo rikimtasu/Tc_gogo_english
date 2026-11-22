@@ -1,0 +1,834 @@
+[
+  {
+    "message": "理"
+  },
+  {
+    "name": "Misa",
+    "message": "「That concludes today's morning practice. Good work, everyone.」"
+  },
+  {
+    "message": "Misa's clear voice echoes through the early morning chapel."
+  },
+  {
+    "message": "A few moments later, the crisp atmosphere softens, and lively chatter along with impressions of the new hymn fill the air."
+  },
+  {
+    "name": "Synn",
+    "message": "「You're amazing, Misa. Even though it was our first joint practice, you conducted brilliantly. And you're great at teaching singing, too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, of course I am. After all, I spend my days supporting a certain unreliable Student Council President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's so like you, Misa.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's a good song.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan. This turned out even better than I expected.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To receive such praise from you, Onee-sama, I'm deeply moved!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It really is a lovely song, isn't it? Thanks to you, it looks like I'll be making another fond memory with Ria. Much obliged, Vice President.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-What the heck is Bubuzuke doing here?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san, participation in the Holy Night Festival choir is voluntary, you know? I want everyone in the academy to come.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, but Bubuzuke is practically the incarnation of wagashi, right? She's got nothing to do with Christmas!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Um, Lady Nanaka... By that logic, would I, as a shrine maiden, also be unable to participate?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shio-chan is totally okay!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh, my. Are there people who get special treatment here, and people who don't?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「With a captain like that at the helm, the Sweet Club really doesn't amount to much, does it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wrong, it's the Sweets Club!! Stop getting it wrong on purpose!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Hey-ssu! Good work-ssu. Christeles-senpai, that was an awesome song. I'm gonna come to practice tomorrow too-ssu.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yumil, good timing! Beat up Bubuzuke for me! That's a president's order!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Y-Yuugiri-senpai, that's basically power harassment-ssu.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like hell I'm gonna let the likes of the Wagashi Club get a head start on us!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan. Forget a head start, they've already left you way in the dust. Look, check that out.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「These are Hanamura's special throat lozenges. Ria, open wide and say 'aah'.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aah... nom, nom」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nom, nom, roll, roll... It's sweet, yet my throat feels so cool and refreshed. What a pleasant sensation」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「This candy is made with fine wasanbon sugar, so it has a refined flavor that Western sweets--which are merely sweet--could never imitate」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the heck!? The two bigwigs of the Student Council have fallen right into her Kyoto-style trap!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though I'm the president, I'm not counted among them?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin, Yumil, it's time for our counterattack!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I got these herb candies from Fuyuka-san over at Chocolat l'Or. She said they're super soothing on the throat」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Eat up, eat up! Come on, come on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, nom, nom...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...He's hopeless, this guy is totally hopeless!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Teehee」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Asukai... Having mischievous seniors sure is rough on both of us, huh. Here, have a candy」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nom, nom... Oho, this is not the sweetness of ordinary sugar. Hmm...?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I perceive this is the result of blending several medicinal herbs in an exquisite balance」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nice going, Yumil! Now, pass out those herb candies to everyone instead of those clunky hard candies--」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Here you go, a delicious, delicious little candy for you. Say 'aah'」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Chomp. Nom, nom... It's true--it's sweet, yet it melts so smoothly and feels all cool and refreshing!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Sacchin!? You traitor! Cast everything aside and fight!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehh? As long as it's yummy, who cares what it is? Let's just relax and enjoy them」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yuugiri-senpai... Personally, I think Sacchin-senpai's got a point, y'know?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Expected nothing less from the second-generation leader. Truth be told, Sacchin-han is the shadow boss of the Sweets Club, isn't she?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not Sweets, it's Suite! ...Wait, huh?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Sacchin, how about joining the Wagashi Club? Even a trial membership would be lovely, you know?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm, what should I do~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Watch out, Sacchin! Run for it!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Won't you join us as well, Nanaka? I happen to have gotten my hands on some wonderful tea sweets made with buckwheat flour, you see?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-Buckwheat flour... You don't mean...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, she's tempted」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh... I-I won't give in! Not when I have to live up to Touka-san's expectations!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If it has come to this, then it is time to bring out Jiiya's homemade genkotsu candy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, we're good on that」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Noo, I'll pass on that too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahahaha. You two are totally on the same wavelength, Ayanishiki-chan and Nanaka-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sniff... Everyone, why are you all so opposed to it? Even though Tennouji-san looks so delighted」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Eek?! M-Me? You really threw that at me out of nowhere」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Ummm... I've got business in the confessional, so see ya! My family line's real good at slipping into the next room, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She left...」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「'Genkotsu'--I like how rugged that name sounds. Give me one」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yay, here you go♪」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Mmmph-grmph」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, that's four of them」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Two is plenty~」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Mmph-mmph-mmph-mmph」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eddy, you really are...」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Mmph, mmph, mmph, mmph?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-See, it doesn't melt at all, right?」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Mmph, mmph, mmph, mmph...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, Eddy, even if you look at me with teary eyes, there's nothing I can do about it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eddy-san left, too. He must be going to the classroom to review his lessons, how admirable」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What if Mukaihara-kun doesn't show up tomorrow...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Participation is voluntary, so we can't force him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, I think you should be more worried about what happens if a huge crowd shows up instead」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez, stop flattering me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm serious. I mean, it's gotten such great reviews」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Word about the hymns will spread during break, so a ton of interested people are bound to come after school」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think so too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, Onee-sama... B-But if that happens--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, wrap up your afternoon Student Council duties early and focus on the hymns」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. We've got Synn-kun here for the Student Council, after all. Right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah! For the sake of the Holy Night Festival too, Misa has to focus on singing!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, the Treasurer is juggling the Sweets Club as well. Vice President, please go ahead and practice your hymns. It's what they call 'fighting amphibians'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank you, everyone...!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, that's the warning bell. Why don't we just stay here and chat all day long?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Okay, everyone, please clear out. I'm locking up the chapel」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nunaah?! Nana-chan, it's not too late yet. Go for a stolen love! If you follow my script, it'll totally work out!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, I got it, so let's head back to the classroom together, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What is a 'stolen love'?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'll teach you hands-on, hips-on, step-by-step, so come on, Azel-chan!」"
+  },
+  {
+    "message": "Everyone leaves the church in twos and threes."
+  },
+  {
+    "message": "The only ones left behind are Misa, who's in charge of locking up, and me, keeping her company."
+  },
+  {
+    "name": "Misa",
+    "message": "「All the windows are locked... there. That should do it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-What is it! Don't look at me with that smile like Father's.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I was just thinking how gallant and lovely you look when you're singing, too, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph! Flattering me won't get you anything at all, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, your tongue came out, see? Mmh.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmph--slurp!? Nnh... mfu... nnh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah, hah, haaaah--. ...S-Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Can you kiss... your dad like that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-Idiot...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well then! I have class, so I'll head on ahead, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I have class too! Escort me to my classroom!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「ly, it's lunch break.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Demon Lord, what's for grub today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Dumplings made from Milky's milk thickened with starch and salt, plus butter and cheese, and for dessert--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Dessert is yogurt... Wait, isn't that all homemade dairy products?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I challenge you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Misa, you're in the class next door, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right, I came over from the class next door!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Speed-eating contests are bad for your health. You have to chew your food well and eat slowly.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I didn't come here for that kind of match! Just shut up and come with me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whew-whew♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Man, you two are making me jealous~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's nothing like that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, come on now. Judging by the size of that, you brought enough bento for two people, didn't you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I simply made too much!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm? There are two pairs of chopsticks too, aren't there~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kieee! I told you that's not it, we're going to have a match!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where to?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's a secret...!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oops, I've got plans with Hikki to grab dim sum. I'll take my leave now」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank goodness. There's no wind today, so it's nice and warm」"
+  },
+  {
+    "message": "We sit side by side on a bench in the courtyard. Perhaps because few people eat lunch outside in the dead of winter, there's nobody else around."
+  },
+  {
+    "name": "Synn",
+    "message": "「Plus the sky is completely clear. Eating a bento outside on a day like this makes it taste even better」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. Though even on cloudy or rainy days, I still love bentos, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Ever since I was little, Mother was always busy with work」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So on days when classes ended in the morning or on holidays, there would be a lunch bento left on the table at home」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There was always a note attached, saying, 'Be sure to wash your hands properly' and 'Say itadakimasu before you eat'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whenever I saw Mother's bento, I would mysteriously feel so happy, and it tasted wonderful...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I get it. I've had similar experiences myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Getting to eat a bento on a day that wasn't even a field trip felt fun and made me proud, giving me a secret sense of superiority over everyone else」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hehe, me too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wanted to recreate that bento... so as soon as I entered middle school, I had Mother teach me how to make it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And today, you're letting me eat it, right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gasp!? N-No!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Oh, right, we haven't said itadakimasu yet」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That too, but...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I didn't bring any chopsticks for you, you know!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, I see two chopstick cases, though?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...!? N-Never mind that! I'm the type who uses chopsticks with both hands!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now then, are you ready? Let's have a contest!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「???」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You've got some nerve pulling a stunt like that this morning. At the church, doing something so...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Are you mad about the kiss?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It took me three years to finally make tamagoyaki just like Mother's」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Glance, glance*... N-Nobody's around, right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nom...」"
+  },
+  {
+    "message": "Ignoring my question, Misa brought a piece of tamagoyaki to her small mouth and--"
+  },
+  {
+    "name": "Misa",
+    "message": "「Fwaa...」"
+  },
+  {
+    "message": "Holding the tamagoyaki between her lips, she turned her face toward me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You want me to eat it mouth-to-mouth?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's thousands of times more embarrassing than a normal kiss!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mfufu... fwaa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for the food... mmh!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmh, mfuu... mmh, chuu...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmph...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I ate it. That makes this contest a tie, right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There are still 24 side dishes left.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Teehee」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. To put it crudely, the Demon Generals led by Virus are nothing more than a ragtag bunch. Their foundation is fragile, and their chain of command is a complete mess...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's a problem even more basic than that. When the guy at the top hasn't made his goal clear, unity is just a pipe dream.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Though thanks to that, the Demon Lord was able to pick off the Demon Generals one by one.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Each individual Demon General possesses respectable abilities. Had they launched a simultaneous assault on the Crusaders, they likely would have won with ease.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, this tactic--one anyone could think of--has not been adopted thus far.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You've got a vague hunch about it too, don't you?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You mean regarding Sakura-kun last night?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...An upper limit to his power as the Demon Lord has begun to show.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even so, it's an overwhelming awakening that none of the other guys could ever hope to reach, you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even so, I had estimated that Sakura-kun's growth was limitless. In fact, that was true up until two days ago.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ain't that a good thing? Knowing the limits of your own power is important.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, it'll probably be a long while before that good-natured Demon Lord gets that strong anyway.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Two days ago, after finishing Sakura-kun's training, I destroyed the magic circle amplifying Re-Crea.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And almost simultaneously, an upper limit appeared on the Demon Lord's power... I cannot believe the alignment of these two signs is a coincidence.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... It's been a while since I've had the pleasure of an exchange like this.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Would you be willing to tell me?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You... while probing into the Demon Lord's power, you're trying to test whether I'm the real deal at the same time, aren't you?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You don't need to overthink it--at the root, it's simple, see?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Magic power and Spirit Power... Despite being fundamentally different things, you can see commonalities in their attributes, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Elemental magic has massive effects, but it has a flaw, and that is--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That there is always an elemental magic that serves as its weakness.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, that's the law of the Demon World.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Talented individuals can cast magic by combining multiple attributes, yet even those patterns are finite. They remain within the bounds of reason.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's easy to forget when faced with overwhelming power, but the Demon Lord ain't an exception either, ya know?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Each attribute keeps the others in check, and each attribute nurtures the others.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That shares similarities with nature in the Human World.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Quick on the uptake, aren't ya. That's why it's called Re-Crea.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Though that's strictly a hypothesis.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then let us continue cooperating with Sakura-kun and proceed with the Demon Lord's training.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「More importantly, what do you say? As you are now, you could finish off the Demon Lord.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wanna catch her and dissect her? The pursuit of truth would sure as hell be fascinating.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A tempting jest, though I have no hobby of plucking Chinese milk vetch blossoms.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Guess we both end up like that when we've lived this long.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh...」"
+  }
+]

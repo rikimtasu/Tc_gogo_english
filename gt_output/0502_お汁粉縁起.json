@@ -1,0 +1,182 @@
+[
+  {
+    "message": "お汁粉縁起"
+  },
+  {
+    "message": "Today, let's help out at Yuugiri-an."
+  },
+  {
+    "message": "Before dinner, the restaurant is filled with a relaxed atmosphere with few customers. Nanaka isn't here, and instead, in the seating area--"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now, order whatever pleases you. It is my treat.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo!　Shio-chi's tummy is all big and squishy~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...What might you mean by that?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It means you're big-hearted! Lolo-chi taught me that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'll have a word with Lolotte about that later.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah, it's Prez. Hiya!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, Sir Synn. What a coincidence. Come, come, please take a seat beside us.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No thanks, I came to wash dishes. I'm not a customer.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you guys having an early dinner, Shio-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay. In the middle of this month, our shrine is holding a modest ritual.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「For that occasion, I have come to borrow copper soup bowls from the proprietor in order to treat our parishioners to a humble meal.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then why the hell are you opening the menu?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Shio-chi and I came to eat snacks♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-Indeed. Is that not what one calls proper courtesy?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Moreover, Lady Sally worked diligently to clean the shrine grounds. I must reward her!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, that's so like you, Shio-chan.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm... hmm?　Everything looks so yummy♪　What should I order?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Whether it be kake soba or mori soba, do not hold back.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I decided, kyuru~n\\s07　One Supreme Oshiruko!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Supreme, you say?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, a flat-chested brat like her is obviously gonna pick that if there's sweets on the menu.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-How much does it cost...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-What...?!」"
+  },
+  {
+    "message": "Cold sweat beads on Shio-chan's forehead."
+  },
+  {
+    "message": "In addition to sweet red beans and mochi, Yuugiri-an's Premium Oshiruko is packed with luxury ingredients completely foreign to my everyday diet, like candied chestnut paste and tapioca."
+  },
+  {
+    "message": "Naturally, it costs more than an entire year's worth of my living expenses."
+  },
+  {
+    "name": "Shio",
+    "message": "「One, two, saury's tail, gorilla's son, leafy greens...」"
+  },
+  {
+    "message": "Under the table, Shio-chan opens a cute embroidered clasp purse and counts the cash she has on hand."
+  },
+  {
+    "name": "Shio",
+    "message": "「Ahem... Are you aware, Lady Sally? Oshiruko is actually a terribly bitter medicine, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, you're...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Shhhhhhh!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ehhh, really?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-Yes... Legend has it that in ancient times, when pestilence ran rampant in Ryuusei Town, people gathered at Asukai Shrine to pray for recovery and ate oshiruko served in copper bowls.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Copper... that is to say, the color red, possesses the power to ward off pestilence--and mononoke...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Therefore, if Lady Sally, being a mononoke yourself, were to eat Premium Oshiruko, something dreadful would befall you!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-However... if it is Regular Oshiruko, it is not entirely impossible to manage...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Furthermore, Regular Oshiruko is not medicine, but a sweet treat...」"
+  },
+  {
+    "message": "I see, that whole lecture was just to lead up to this conclusion"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wait a sec, what does the color of the bowl have to do with what's inside?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If you point that out, it ruins the whole point.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Shio-chi, I get it now. I've decided on my order.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Two Regular Oshirukos!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  }
+]

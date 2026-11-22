@@ -1,0 +1,1073 @@
+[
+  {
+    "message": "リ・クリエの武器とならん"
+  },
+  {
+    "message": "After school that day, the topic of Azel came up again."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I wonder... if Azel-san is starving.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so too, Lolotte?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't tell me you do too, President! For a Demon Lord, you certainly know a lot about angels! I'm amazed.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Angels barely eat any food. Rather, it's because they have no need to.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come to think of it, Azel was always drinking nothing but Vandine Jelly. The kind that doesn't even feel like you're eating anything.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nutrition isn't necessary to sustain an angel's body. However, that only holds true while they are in Heaven...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And that's due to the difference between physical matter and spiritual essence...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You humans get hungry, right? And if you don't eat food, you die, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The exact same thing happens when an angel becomes closer to a human.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Or so Amyrina told me. Ahem.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Though you're always starving hungry, Lolo-chan.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. After all, the very first reason I took an interest in the Human World was because I wanted to eat delicious food.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That makes it easy to see why you get along so well with Sally-san...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To think you already understood the circumstances of angels. Impressive as expected, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No... it's not really like that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait, if that's the case and Azel―san hasn't eaten anything this whole time―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It means she will starve, just like a human would.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's bad!\\s01 Once today's special training is over, let's all go talk to Melilot-san.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good work today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... excuse me, Melilot-san.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can we really not... please let us help with the search too?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For Azel...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes」"
+  },
+  {
+    "message": "I relay the story I heard from Lolotte just as it was told."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, the adverse phenomenon that occurs during an angel's material transition」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Every second counts!! That's why--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「*Sigh*... How many times must I tell you before you understand? You should just focus on doing what you're supposed to do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But Azel is...!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot... You're stubborn, sure, but these kids are just as stubborn as you are, you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena, please don't butt in either. If we do anything more to encourage the Crusaders--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Calm down, Melilot. That's not like you. What are you hiding?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be something about Azel...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-No, it's not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've believed in you this whole time, Melilot! And yet...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you won't trust them, there's no way you can work together」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's precisely because they trust you that they've endured such harsh trials all this time. Do you intend to betray those feelings?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Have the courage to trust them, Melilot. Neither you nor they are as weak as you think」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...That's not it. It's not like that...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Everyone, I'm sorry. Could you call it a day and head back for now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Understood. We'll leave the rest to you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yeah, thank you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hey, what's wrong, Melilot... Normally you would always come to me for advice」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I didn't want... to drag you into this, Helena...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What do you mean? Does this have something to do with Azel-chan?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena... what would you do? If you were forced to fight a friend」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I cannot... force those children to do something like that...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's not decided for sure that Azel-chan is an enemy, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「At the very least, our goals do not align. Just like the Demons, she also intends to take advantage of this chaos to do something」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even now while in hiding, she has put up a powerful barrier and refuses to let anyone near her」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Part of it is because we had overlooked Azel-san until now, but she shows no sign of listening to persuasion at this late stage」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if that persuasion comes from Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is why, before she clashes with the Crusaders, I will with my own hands--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, shut-in. Don't go underestimating the Demon Lord, ya hear?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Great Sage Paqy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Listen up. I've served Demon Lords for a long time. Even among 'em, that bastard Synn Sakura feels like the second coming of the First Demon Lord」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How can you say such a thing!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The First Demon Lord... well, the folks like me, only joined hands and tried to help each other once we were staring the worst-case scenario right in the face」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It wasn't like we planned it from the start. We just didn't have any other choice left」"
+  },
+  {
+    "name": "Helena",
+    "message": "「But Synn-chan is different. Just by being who he is, he's joined hands with others and helped them out. Long before things ever got this bad」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「At this point, he has already surpassed our imaginations. That is what you are saying, isn't it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's what Helena meant by the courage to believe」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's the courage to believe that Synn―chan will pull off something crazy, that he'll come through for us. Because that boy―」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Is a total airhead」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Pfft... heehee, because he's an airhead... there is no telling what he might pull off, I suppose」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The probabilities you're talking about can't be relied on at all in front of the Demon Lord」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Saying you'll take on the dirty work yourself is the kind of line a brat spouts. There's no need for you to end up like yours truly or Lumiere and the others」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Melilot. You live your life to the fullest in the present era. That's the role of those who have life」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Understood. I will tell you everything I was trying to do」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In exchange, let us make sure we never push the responsibility onto them alone. No matter what happens」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Of course」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's what our job as guardians is all about」"
+  },
+  {
+    "message": "Melilot seemed as though she were being cornered by something."
+  },
+  {
+    "message": "For Melilot, who always puts on such a brave front, to get that worked up."
+  },
+  {
+    "message": "Beyond that point, there was nothing to do but leave it to Helena, who's known her for a long time."
+  },
+  {
+    "message": "That said, it didn't feel right to leave everything entirely to her, so--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy. About Azel... what do you think we should do?」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, Paqy?」"
+  },
+  {
+    "message": "I wonder if he went out somewhere. It's cold, so maybe I should've made him a scarf or something so he wouldn't catch a cold."
+  },
+  {
+    "message": "Well, I'll just make it for a Christmas present."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for calling. This is Grand Palace Sakura」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn? Sorry for calling so late at night! You see--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn, over here, over here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's going on?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, well. Melilot said she'll tell us where Azel is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Given the hour, y'know. She probably doesn't wanna make too big a fuss out of it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, true. Wait, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You be the one to tell the others, Demon Lord」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I've been waiting, Synn. Let's get right to it--follow me」"
+  },
+  {
+    "message": "When we arrived and headed over, I saw Melilot standing still with a book in one hand."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Phew」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You've arrived」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What were you doing?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I was setting up a magic circle」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This magic circle is meant to seal Spirit Power. It's similar to the one Soltia used to seal our magic power before」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Spirit Power, so that means it's for Azel......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For the past few days, I've sensed a strong barrier here. She's most likely hiding inside Finis Tower」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, there hasn't been any sign of her making a move since then」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Or rather, she couldn't move」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't tell me...... because she's hungry?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee...... really, what am I going to do with you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Perhaps so. Whatever the reason, if she isn't moving, that works in our favor as well」"
+  },
+  {
+    "name": "Helena",
+    "message": "「For setting a trap...... right」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So you really do think Azel-san is an enemy」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's unfortunate, but the likelihood is high enough that it's difficult to overturn」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, with this, even if Azel-san turns her blade on us, we should be able to neutralize her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And that gives us a chance to talk with her, right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Though whether she'll actually listen to persuasion remains to be seen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll...... do it!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What are you going to do, Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Words like \"likelihood.\" I'm no longer relying on them anyway」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let's believe in Sakura-kun's words. I'm activating the magic circle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, Azel......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just one last thing. If you sense any danger to yourself, don't push it--just run」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please make sure you at least keep that promise. Do you understand?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......Yes!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's do our best, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't forget. Because I'm always with you, Synn-kun」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Whew, I'm getting jealous~~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「However, Ria. It's unfortunate, but you're going to wait here with me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehh, no way, I don't want to」"
+  },
+  {
+    "name": "Helena",
+    "message": "「We're going to seal away Spirit Power. You're only borrowing a guardian angel's power, so what could you possibly do when push comes to shove?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well, that's true, but......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Waiting for a man is also a woman's job, you know」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Look who's talking, when you've never even dated a guy before」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because the guys who confess to me all lack mature charm~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai. If we're always together, then we're together even when we're apart」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ooh...... Synn-kun......\\s03」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Lo-vey-do-vey\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, Sis!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun. Let's go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes! Well then, I'm off!!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Take ca~~re」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's too quiet......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This barrier blocks out almost everything perceived by the five senses. It's just like a simplified version of Heaven, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When it's completely silent, my ears start ringing. I can't really bring myself to like this feeling......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This might simply be normal for angels」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Rumor has it that not just hearing, but touch, taste--all of his senses have been lost.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like I can understand why Lolotte came to the Human World.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, to be able to construct a barrier of this magnitude, Azel must be quite powerful even among the angels.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think you're plenty impressive yourself for being able to infiltrate it, Melilot.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... uuugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Shh, be quiet...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-Who's there...」"
+  },
+  {
+    "message": "From beyond the pitch-black darkness, an unsteady shadow sways."
+  },
+  {
+    "name": "Azel",
+    "message": "「Why... why do you interfere... I will... make the world... anew...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The world...!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I get it, so this guy's a fanatic.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To think there was actually an angel who took such absurd theories seriously... How deplorable.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「To put it simply, there are folks out there who think this Re-Crea is a force meant to regenerate the world.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh...? If that happens, what becomes of us?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Naturally, every single person living there goes kaput.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Such a thing. As if I would ever allow it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So Azel actually believes in a pipe dream like that?」"
+  },
+  {
+    "message": "What is he planning to do right in the middle of the Holy Night Festival?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「World regeneration... I won't let you do it!」"
+  },
+  {
+    "message": "Looking at each other and nodding--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!!」"
+  },
+  {
+    "message": "They leaped out in front of Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「...So it is you... Demon King... and Nibe.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Taking advantage of Re-Crea to regenerate the world by merging the three realms... There is no way you could ever pull that off.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...The Lord chose me...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Come to your senses already. Even if you are an angel, there's no way you have that kind of power--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I erased the Virus」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What did you say...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I will tolerate... no further... interference...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-What the--!?」"
+  },
+  {
+    "message": "The sky, where the curtain of night should have fallen."
+  },
+  {
+    "message": "Amidst the usual downpour of shooting stars, stars fall as if painting right over them."
+  },
+  {
+    "message": "The trails of the stars fill the sky."
+  },
+  {
+    "message": "The number of falling stars is, quite literally, as countless as the stars themselves."
+  },
+  {
+    "message": "An amount impossible to even count blankets the entire sky."
+  },
+  {
+    "message": "The stars grow brighter and brighter, filling the air with a brilliance unimaginable for night."
+  },
+  {
+    "message": "Following their trails with our eyes, there is a commonality that defies all logic."
+  },
+  {
+    "message": "Every single meteor was heading straight toward this very Finis Tower!"
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-No way... Are the shooting stars heading toward Azel-san...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That means...」"
+  },
+  {
+    "message": "Does this mean Azel is the one causing this meteor shower phenomenon?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A case like this... I've never seen anything like it before...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, it's useless, Azel-san!! Your Spirit Power is sealed and unusable!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The magic circle!?」"
+  },
+  {
+    "message": "It collapses all too easily."
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san! Azel is...!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Guh!!」"
+  },
+  {
+    "message": "Melilot-san opens her book and launches an attack on Azel."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Get down!!」"
+  },
+  {
+    "message": "Chanting swiftly, she hurls the magic-infused book toward Azel."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Come forth!!」"
+  },
+  {
+    "message": "From within the opened book, warriors summoned from the Demon World appear and charge at Azel."
+  },
+  {
+    "message": "However, the light surrounding Azel envelops those fierce warriors, swallowing them whole."
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-No way... It didn't work at all...」"
+  },
+  {
+    "message": "In the blink of an eye, every single page is used up, and the book vanishes into the light."
+  },
+  {
+    "message": "The sheer shockwave from that moment sends Melilot's body flying violently into the air."
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ngh...!」"
+  },
+  {
+    "message": "Though she was launched high into the air, it seems she somehow managed to stick the landing."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you doing this...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... uuugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stop it, Azel! Doing something like this--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「C-Can you people... stop...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you saying you can bend your own beliefs that easily!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urgh... uwaaaah!!」"
+  },
+  {
+    "message": "Along with an agonizing scream, Spirit Power began overflowing from Azel's body."
+  },
+  {
+    "name": "Melilot",
+    "message": "「T-This is the power of Re-Crea... The power of world rebirth dwelling within an angel...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「T-The time is... ugh, guh... not yet, ripe...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel is in pain! I have to help him!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun!? Stop! If you get caught in that maelstrom, you won't stand a chance!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now is our only chance!! Let's run!! Hurry!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But Azel is--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you want to die!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...!」"
+  },
+  {
+    "message": "Seeing Melilot's ghastly, desperate expression, I remember what she warned me about at the start."
+  },
+  {
+    "message": "I can't betray her trust over a momentary surge of emotion."
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot, can you walk?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can manage...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Huff*, *huff*, *huff*」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That shooting star just now…… what on earth happened……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll explain the details later, right now we need to get away from here as fast as possible!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-It's alright…… Azel isn't chasing us……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I…… I see…… *sigh*……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot. What about persuading Azel--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Yes. I'm sorry, an unforeseen situation occurred……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In response to Azel, shooting stars came gathering together」"
+  },
+  {
+    "name": "Ria",
+    "message": "「T-To Azel……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The power of Re-Crea was dwelling within her」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-How could that be……!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Not even Melilot's magic circle could hold it back」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That massive amount of energy--if you call it Re-Crea, it makes total sense. Though I really don't want to believe it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A power far surpassing even Virus. He had already outlived his usefulness, and by Azel's own hand……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why would Azel want to do something like that……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If, as hypothesized, Re-Crea desires the rebirth of the world, then Azel might be controlled by that power」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, she did ask whether one could ever bend their own convictions」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wonder if Azel truly believes she's carrying out a sacred mission……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That she was chosen. That sense of duty telling her she must see it through is what's driving her forward」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's suffering so much…… and yet, does Azel seriously intend to remake the world?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She likely has no thought for what will happen by doing so. Nor even what will become of herself as a result」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You could almost call him a martyr, couldn't you? Poor thing...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He finally made it to this academy, you know? Even an angel, if he spent time with us like Lolotte does...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If he had just... spent time with us... things wouldn't have ended up... like this. Damn it...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not your fault, Synn. You mustn't blame yourself like that.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Azel simply had circumstances he couldn't compromise on. That's all there is to it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But... Azel was all alone the whole time... suffering so much... and I didn't even know...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're very kind, Synn. But with that kindness alone... do you really think you can overcome Azel's conviction?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't know when he came to harbor the power of Re-Crea. However, ever since then... Azel has lived his life staying true to his conviction.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There's no way mere sympathy could ever persuade someone like Azel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You have no choice but to confront conviction with conviction!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My... conviction...」"
+  },
+  {
+    "message": "My conviction... What kind of conviction could possibly allow me to stand on equal footing against Azel?"
+  },
+  {
+    "message": "Is it my conviction as the Demon Lord? Or else--."
+  },
+  {
+    "name": "Helena",
+    "message": "「At any rate, it seems we'll need to devise new countermeasures immediately.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel will surely make his move when the energy of Re―Crea reaches its critical point―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「According to projections, that will be December 24th. On that day, the fate of the world may be decided.」"
+  }
+]

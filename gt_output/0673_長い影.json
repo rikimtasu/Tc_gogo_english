@@ -1,0 +1,589 @@
+[
+  {
+    "message": "長い影"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh...! B-Bitter...」"
+  },
+  {
+    "message": "After muttering that under my breath, I glance around. Fortunately, the lunchtime clamor drowned it out, and my voice didn't seem to reach anyone's ears."
+  },
+  {
+    "message": "Sitting at a table all by myself. The coffee shows no sign of going down. I tried bending my principles as a dedicated tea drinker and ordered coffee for a change of pace, but it doesn't look like things are going to be that simple."
+  },
+  {
+    "name": "Misa",
+    "message": "「A hymn for the Holy Night Festival... A hymn...」"
+  },
+  {
+    "message": "Progress is sluggish. I rack my brains with my lyric notebook in hand."
+  },
+  {
+    "message": "I have mountains of work to do as Student Council Vice President, yet with everything waiting on paperwork and confirmations, my hands are free at the moment. There's no reason not to put this free time toward writing lyrics."
+  },
+  {
+    "message": "I've heard there are plenty of writers out there who come up with ideas at family restaurants. I came here hoping some of that luck would rub off on me, too."
+  },
+  {
+    "name": "Misa",
+    "message": "「A hymn... No, not a hymn, an anthem works just fine, right, Sakura-kun?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nnggh...」"
+  },
+  {
+    "message": "I try not to think about him, but that's impossible. Ironically enough, his advice was spot-on."
+  },
+  {
+    "message": "A song for everyone to sing happily together."
+  },
+  {
+    "message": "Not something themed around revering God, like a traditional hymn."
+  },
+  {
+    "message": "An anthem where everyone praises everyone else."
+  },
+  {
+    "message": "Can I really write lyrics that resonate with people like that...?"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Hmph, someone like you--」"
+  },
+  {
+    "message": "Someone like him just coasts on natural talent, barely puts in any effort, and never thinks things through. Winning the election for Student Council President was pure luck, too."
+  },
+  {
+    "message": "That was just a fluke! In fact, he's practically overflowing with baseless confidence!"
+  },
+  {
+    "message": "...That's what I had convinced myself, anyway, yet in reality, he wasn't that kind of person at all."
+  },
+  {
+    "message": "He worked even harder than I did."
+  },
+  {
+    "message": "And he suffered a massive failure, too..."
+  },
+  {
+    "message": "He must have been overthinking things."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?! You're at Prier today too, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Misa, are you listening?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Tch」"
+  },
+  {
+    "message": "Did I fail too, then?"
+  },
+  {
+    "message": "...W-What's the big deal! So what if I did?!"
+  },
+  {
+    "message": "Even if I did fail, I refuse to lose to you of all people...!"
+  },
+  {
+    "message": "I have plenty to back up my confidence too, you know!"
+  },
+  {
+    "message": "No matter the romance novel, just picturing the story in your head is meaningless. Unless you actually put it down into writing, it isn't a story or anything else--it's nothing more than a daydream."
+  },
+  {
+    "message": "And a song is no different!"
+  },
+  {
+    "message": "It doesn't have to be in the form of lyrics yet. Don't worry about fitting a rhythm--for now, let's just write down what I'm thinking and feeling."
+  },
+  {
+    "message": "Unadorned and honest, wherever the pen leads."
+  },
+  {
+    "message": "Even if it's still faint, a single feeling will surely take shape there."
+  },
+  {
+    "message": "And--"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, that notebook... How's the Christmas song coming along?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyah!? I-It's not done at all! I'm so sorry! I'll do my very best!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Why are you using polite speech?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Oh my? It was you, Nanaka-san. I was completely convinced it was Sakura-kun.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't it still weird to use polite speech just because it's Synn?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Um, w-well, that's, uhm...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, whatever. Sorry for startling you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's quite alright, I don't mind. Bitter coffee is far more of a shock, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahahaha--what a weird comparison」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-Do you think so? Oh dear. Could my sensibilities be going haywire because I'm making no progress with the lyrics...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm telling you, Misa, you're way too uptight.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is totally relaxed, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just a minute ago, he went to the Student Council room saying he was going to take a nap because he's tired from magic training.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That part's fine, but what do you think Synn said to me?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Teach me the secret technique to sleeping soundly at the Student Council room desk!' he says.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though we were finally alone together, that guy isn't conscious of me even a tiiiny bit.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Giggle」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If I were a dorm student like Azel, Synn would definitely come over to sleep. And without treating me like a girl, at that!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But boys are forbidden in the student dorms, aren't they?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nope! Even so, Synn would still come. No doubt about it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right. Misa, do you know about dorm songs? It's not directly related to the Holy Night Festival, but apparently the dorm students write a new dorm song every year.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I know there are dorm songs, though I've never actually heard one」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why don't you give 'em a listen sometime? Might give you some ideas. There's decades' worth of them, so it's a huge amount, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I've only ever heard like three or four of 'em myself」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Some were total duds and some were masterpieces. But that's exactly what makes 'em authentic」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even I could tell when I listened to those songs just how much the dorm students really love the academy and dorm life」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That sounds wonderful」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I... I love the Student Council and everyone in it」"
+  },
+  {
+    "message": "I loved them..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't that more than enough reason to write a song?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're right. It seems I was overthinking things. Thank you, Nanaka-san」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't need any thanks! More importantly, mind if I say one thing?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What is it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa, did you put sugar in the coffee?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Geez, where the heck is that Demon Lord training, anyway?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even though we searched the entire academy, he wasn't anywhere to be found...」"
+  },
+  {
+    "message": "After school. Even after it came to light that Sakura-kun was the Demon Lord, Student Council activities went on just as usual."
+  },
+  {
+    "message": "Rather, what had changed was the relationship between Sakura-kun and me. No matter what we tried to talk about, things got awkward between us, and we couldn't coordinate properly as president and vice president."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, that was a surprise. You're actually pretty bad at exercise, aren't you, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nnggh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I mean, whenever you're racing Synn to school, you're crazy fast, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And yet, just walking around the campus left you totally wiped out」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whenever I challenged Sakura-kun to a race, some mysterious surge of power would well up inside me for some reason」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahahaha, that's so like you, Misa」"
+  },
+  {
+    "message": "...Sakura-kun demonstrated tremendous concentration, fulfilling his duties as president in a short amount of time."
+  },
+  {
+    "message": "And then, after giving us the necessary instructions, he headed off to Melilot―san's place to hone his magic―his powers as the Demon Lord."
+  },
+  {
+    "message": "『Let's go peek in on Synn on the sly and tease him!』"
+  },
+  {
+    "message": "Nanaka-san suggested that, and without even waiting for my reply, she took my hand and left the Student Council room."
+  },
+  {
+    "message": "『When the Student Council President is away, I, the Vice President, can't go abandoning my post too!』"
+  },
+  {
+    "message": "...Such theoretical defenses crumbled all too easily before Onee-sama's smile and nod. I see--everyone is rooting for Nanaka-san and Sakura-kun's relationship too."
+  },
+  {
+    "message": "At least, that's what I thought at first, though today, if nothing else, turned out differently."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahahaha! Still, precisely because it's so like you, Misa--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I really don't want you talking about it in the past tense.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look, Misa... there's no need to beat yourself up just because Synn's the Demon King.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Demon King or whatever else, Synn is still Synn!」"
+  },
+  {
+    "message": "Just as I thought."
+  },
+  {
+    "message": "Everyone is worried about Sakura-kun and me."
+  },
+  {
+    "message": "Feeling that most strongly of all, Nanaka-san had shown me Sakura-kun in his Demon King form first, and was now trying to talk things through with me."
+  },
+  {
+    "message": "Going so far as to throw herself into searching the entire academy until her legs were ready to give out."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I bet part of why he kept the Demon King thing a secret was the balance between the Student Council and the Crusaders, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He wants everyone to get along. See, Synn may be like *that*, but outside of romance, he's actually pretty good at reading the room, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Plus, if his identity had gotten out the wrong way, they might've forced him out of the Student Council.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're right. Sakura-kun became Student Council President aiming for a sparkling, ideal school life, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Exactly! Besides, just like the rest of us, Synn had never heard a word about the Kujou family's secret before either.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He didn't know anything about Helena-san's role, right? It's only natural he'd be scared that if his identity as the Demon King got out, he wouldn't just be removed as president--he might even get expelled.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, come on, Misa...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Please, just forgive Synn!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Forgive him or not, I'm not angry in the first place, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B―But since that night, things have been super awkward between you and Synn―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, whaaat?! Don't tell me you're just judging Demon King Synn without even giving him a chance!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, what a wonderfully Nanaka-san way of putting it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tch, what the heck. Here I was worrying for nothing.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heeheehee!」"
+  },
+  {
+    "message": "Yes, I'm not angry at all."
+  },
+  {
+    "message": "I am simply disheartened. Not with Sakura-kun, but with myself."
+  },
+  {
+    "message": "Nanaka-san understands Sakura-kun this much. She even reaches out to me."
+  },
+  {
+    "message": "Even so, I didn't get closer to Sakura-kun. I didn't have the courage to take even a single step forward. To make matters worse, when he went out of his way to chase after me, I pushed him away."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, saying I lost out was a lie, though. You smiled, Misa, so it's all good!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san and Sakura-kun are somewhat alike, aren't you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grr! How rude!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, stop imitating me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahahahaha!」"
+  },
+  {
+    "message": "They say that close married couples grow more alike as they age, even though they started out as strangers. Wouldn't the same be true for lovers, or those who are more than friends?"
+  },
+  {
+    "message": "...There's no room for me to wedge myself between Sakura-kun and Nanaka-san. Those two should just become a couple. And yet--"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm fine, really...」"
+  },
+  {
+    "message": "And yet, why did Sakura-kun say he likes me? I didn't compete in anything and lose, so why do I feel so miserable?"
+  },
+  {
+    "message": "I like you."
+  },
+  {
+    "message": "The instant it was conveyed to me clearly in words, I realized it."
+  },
+  {
+    "message": "I like him too--"
+  },
+  {
+    "message": "No, I mustn't think like that."
+  },
+  {
+    "message": "The more I try to tell myself that, the more terrified I become of myself for falling deeper for Sakura-kun."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is a Demon Lord, the Student Council President, and a Crusader--he's totally all over the place, and yet he's still doing his best.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So let's do our best too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, I can't let myself lose to him.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's the spirit!」"
+  },
+  {
+    "message": "Nanaka-san casually said \"let's\" instead of just \"I.\" She must have sensed that I'm still feeling down."
+  },
+  {
+    "message": "That kindness hurts."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, tomorrow I'm definitely gonna confess to Synn!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, wait--once tomorrow comes, tomorrow becomes today, and the tomorrow of tomorrow's today becomes the day after tomorrow, so, uh, umm...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heeheehee.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, you laughed! I'm being serious here!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san.」"
+  },
+  {
+    "message": "I take a breath and speak to Nanaka-san."
+  },
+  {
+    "message": "I had stolen away a precious day that Nanaka-san surely wanted to dedicate to Sakura-kun. I couldn't let her worry about me any more than this."
+  },
+  {
+    "message": "A sharp, prickling pain stabs at my chest."
+  },
+  {
+    "message": "...Putting on a fake smile is your specialty, isn't it, Misa? It's a skill you mastered back when you were given your own room, after all."
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm cheering for you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ow... that hurts!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bye-bye, see you tomorrow」"
+  },
+  {
+    "message": "After giving my back a hard slap, Nanaka-san runs off while waving her hand."
+  },
+  {
+    "message": "Before I knew it, we had reached the spot where the three of us met every morning. From here on, our ways home diverge."
+  },
+  {
+    "message": "Bathed in the setting sun, Nanaka-san's long shadow briskly recedes into the distance. Until just a little while ago, I used to dash off just like that too, yet now my legs feel so heavy."
+  },
+  {
+    "message": "Yes, see you tomorrow."
+  },
+  {
+    "message": "I tried to call back loudly, to answer her like that, but I couldn't."
+  },
+  {
+    "message": "My lips are trembling."
+  },
+  {
+    "message": "My back is slick with sweat."
+  },
+  {
+    "message": "And yet I'm cold. So cold. Freezing."
+  },
+  {
+    "message": "My fingertips are numb. Pale. Ice-cold."
+  },
+  {
+    "message": "I can't run anymore."
+  }
+]

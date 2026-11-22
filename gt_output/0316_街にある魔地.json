@@ -1,0 +1,693 @@
+[
+  {
+    "message": "街にある魔地"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there~!」"
+  },
+  {
+    "message": "I greet a shopkeeper who's been good to me. On my way home, I decided to treat myself to a leisurely weekend stroll."
+  },
+  {
+    "name": "Synn",
+    "message": "「I really like the shopping district on Sundays. Unlike weekdays, it's got this unique sense of excitement to it.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No toys in your room. No money to go shopping either.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Brainwashing yourself into calling it a 'stroll' while people-watching for talented recruits--truly worthy of the Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you always interpret things so maliciously?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Whoa! Ooh.」"
+  },
+  {
+    "message": "A little ways ahead, under the eaves of Yuugiri-an. My eyes meet Nanaka's as she's wiping down the entrance door, and I give her a light nod."
+  },
+  {
+    "message": "Nanaka nods back at me with a smile, quickly finishes wiping the display case, and heads back inside the shop."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh... Did you have a lovers' quarrel with Soba or something, Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No. Why do you ask?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Normally, Soba would be right up in your personal space, chattering away all bubbly.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Usually, yeah. Right now she's helping out at the shop, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Despite how she looks, Nanaka's the type to draw a strict line between work and her private life.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aren't you and Soba just awkward?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, whatever. Let's go tease her while she works and treat ourselves to some tempura zaru soba.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, maybe next time.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're holding back too much. There's no line, and the lunchtime rush is already over, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's true that on weekends, it doesn't get overwhelmingly slammed right at mealtime.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Instead, there's a steady, endless stream of customers coming in to eat.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I see, that'd be bad then.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you two started up your usual married-couple comedy routine in front of random customers, your dignity as the Demon Lord would be completely ruined.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, I don't have the money to eat a luxury like tempura zaru anyway.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So that's the real reason!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow...! I'm terribly sorry, are you hurt?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「No, it is I who have been rude」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, it's just the naginata brat. What's the big rush?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heading back from club activities? Hello, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, if it isn't Synn-dono and the specter!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「At this very moment, I am being pursued by a villain... If possible, I would like you to shelter me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A villain? Don't tell me it's a Demon--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Found you!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, catch Shio for me!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Even if you tell me that out of nowhere... L-Like this? *Squeeze*...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Synn-dono, if you hold my hand by linking our pinkies together like that, I will get embarrassed, you know...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, how indecent-cent-cent-cent! You're disqualified from being Student Council President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Didn't you tell me to do this, Misa?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No she didn't」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Keep your hands off Shio! Hiyah!!」"
+  },
+  {
+    "message": "Rushing over, Misa separates Shio-chan and me with a splendid knife-hand strike. Then, in one fluid motion, she firmly grasps Shio-chan's hand."
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph! Cau-ght you~♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gasp!? Y-You betrayed me, Synn-dono. To fluster me and make me let my guard down... Truly worthy of the Student Council President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stop complimenting me like Paqy would!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--Wait, so the 'villain' was Misa?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nngh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How rude! I just want to go shopping with Shio」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come now, let's head to the clothing store」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A-As you command! Though I am but a humble warrior, now that it has come to this, I shall resign myself to my fate with grace」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However! ...Y-You must not use me as a dress-up doll, understood?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I won't, I won't. I wouldn't do anything you hate, Shio.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...Y-You promise?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, looks like everything's settled? Well, I shouldn't intrude, so I'll be heading off」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Sakura-kun!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Ummm...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Inhaaaale. Exhaaaale. ...Hmph!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Regarding the matter of you catching Shio, I am not unwilling to express my gratitude to you, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the short version is?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're welcome」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh! Allow me to thank you once again. Bow, bow, bow!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, the pleasure is all mine. Bow, bow, bow, bow, bow, bow, bow, bow, bow, bow」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Grrr! At this rate, I'll lose. In that case, my only choice is to grovel--ah!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You played me like a fiddle and tricked me into thanking you honestly, didn't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, don't get cocky! You think that means you beat me? I only thanked you on purpose just now, okay!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sister, that excuse is rather strained...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nnggh... S-Stand by for a moment, Sakura-kun!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn, Miss Hissy over there is desperately trying to think up an excuse, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa, Paqy! Shhh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmm, hmm... Mmm-hmm?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Sister, running into Lord Synn here must be fate. How about asking him to accompany us on our shopping trip?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shio-chan, there's no way Misa would ever agree to th--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right. If it's convenient for you, Sakura-kun, I'd like you to join us.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Misa...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way... Misa inviting me out? This has to be a dream.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To wake up and return to the real world... Paqy, hit me with everything you've got!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Got it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Ow. Ngh... Still not waking up, though. Hit me harder!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Synn-sama, you're blushing like crazy, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What are you doing...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-If you don't want to, you don't have to tag along, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-But, look, um... oh, right!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ryuusei Town is peaceful, sure, but there might be some rowdy guys out on their day off, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It'd be awful if someone like that tried to hit on Shio.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sister, with all due respect, I am quite capable of protecting myself--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...*glare*」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eep...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If Sakura-kun is around, he'll at least serve as a bodyguard.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so that's what this is about. Got it. And I'll carry your bags too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes... You're so slow on the uptake, you're disqualified as Student Council President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, let's go.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Good grief, what a troublesome pair.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I quite agree.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That surprised me.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. To think they would announce a discount before we even chose our items.」"
+  },
+  {
+    "message": "Under the eaves of the clothing store, Misa and Shio-chan have their eyes wide open in surprise."
+  },
+  {
+    "name": "Misa",
+    "message": "「You certainly know a lot of people, Sakura-kun. To think you're even acquainted with a clothing store.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, the shopkeeper here gives me fabric scraps, you see.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I collect all sorts of scraps and use patchwork to make aprons, or try making kotatsu covers and things.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And if they turn out well, they let me display them here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course, there are also ones I don't hand over and just use myself.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmm.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry, this kind of talk sounds pretty domestic, doesn't it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No! Not at all. It's a wonderful hobby.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah!? You thanked me so honestly! That makes us even for earlier!」"
+  },
+  {
+    "message": "Misa's usual reaction."
+  },
+  {
+    "message": "I don't really understand why myself, but I feel relieved."
+  },
+  {
+    "message": "Surprisingly, Misa's favorite spot wasn't a high-end boutique, but the shopping district's clothing store that Nanaka and I also frequent."
+  },
+  {
+    "message": "Misa happily browses through the bargain clothes lined up at the storefront."
+  },
+  {
+    "name": "Shio",
+    "message": "「Sneak, sneak...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, that over there is the men's section, you know?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Putting men's wear right next to gal fashion is pure chaos.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a small shop, after all. Once you get used to it, it's pretty convenient, you know? Families can drop by casually, too.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A―Elder Sister, I too wish to contribute to the fabric scraps. Rather than a skirt, I shall play it safe and purchase jeans―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nothing that plain! Cute clothes will definitely suit you, Shio!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For example--yes, something like this is lovely.」"
+  },
+  {
+    "message": "Misa picks up a super girly outfit and holds it up against Shio-chan."
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got great taste, Misa. It really brings out your charm, Shio-chan.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course! It is for Shio's sake, after all.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「B-But I was hoping for some stylish modern-day kimono...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right, there are bound to be other clothes that suit you even better--my!! How about this one?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A-A-A-Big Sister, such a frilly and fluttery outfit is... T-The color is to my liking, however」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Doll-like clothes on the naginata brat, huh? Tickles a connoisseur's fancy. I've got newfound respect for Hisu」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Putting a garment overflowing with frills like that on an expressionless girl such as myself--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about? You're super expressive, Shio. It's just hard to tell unless someone gets close to you」"
+  },
+  {
+    "name": "Shio",
+    "message": "「N―Nay. I have cultivated an unshakable mind through the martial arts. To carelessly let my expression shift would be―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--?! I found an even better outfit! Look, look, it's the classiest one yet!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eek?! W-Where on earth do you expect me to wear a dress that's so extravagantly poofy...!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ahem! Big Sister, did you not declare that you would not treat me like a dress-up doll?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, and I'm not, am I? I'm just holding different outfits up against you」"
+  },
+  {
+    "name": "Shio",
+    "message": "「C-Careless of me! I have been deceived」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "message": "Oh, I get it...!"
+  },
+  {
+    "message": "Watching Misa and Shio-chan playfully banter like real sisters, I suddenly realize."
+  },
+  {
+    "message": "When we bumped into each other earlier, Shio-chan wasn't actually trying to run away in earnest."
+  },
+  {
+    "message": "If she truly hated picking out clothes, all she had to do was shake off my hand and run off somewhere."
+  },
+  {
+    "message": "It's the same for Misa."
+  },
+  {
+    "message": "She didn't want to make Shio-chan--her little sister, who had invited me along--lose face."
+  },
+  {
+    "message": "So she came up with all sorts of excuses to bring me along... Man, the bond between these two is great. I'm jealous."
+  },
+  {
+    "name": "Shio",
+    "message": "「It seems we have taken quite a bit of time」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, it really is true that time flies when you're having fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry I couldn't be of any help」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mmph, mmph-mmph」"
+  },
+  {
+    "message": "I apologize to the two of them while covering Paqy's mouth."
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, I did say 'having fun,' didn't I? Lift your head up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Jerk!*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, don't lean all the way back like you're hot stuff!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Big Sister, where shall we head next? We still have time, so shall we visit the Blackuma shop as usual--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Waaah, waaah, waaah!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mmph, mmmph!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun, did you hear anything? You didn't, right? Yes, that's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A Blackuma shop, huh~~ You're pretty cute, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, you!」"
+  },
+  {
+    "message": "Misa lets go of Shio-chan's mouth and presses in close to me."
+  },
+  {
+    "name": "Misa",
+    "message": "「L-Like I'd ever go to a shop like that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, okay. Well, that's fine then. A clothing store is one thing, but that place would be embarrassing for me too...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hehehe... *grin*」"
+  },
+  {
+    "name": "Shio",
+    "message": "「M―My Lady, a corrupt magistrate's wicked smirk graces your noble visage―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Glare!*」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-It is nothing at all!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, we're going to the Blackuma shop next. You're going to carry my bags for me, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huuuh?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hold on! Didn't you literally just say you weren't going?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, what year, month, day, hour, minute, and second did I say that?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Misa...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sigh*~, well, it can't be helped. I'll stick with you till the end today」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kufufu, you could run away if you truly wished to, yet you are just like me, Lord Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's not say that out loud」"
+  },
+  {
+    "message": "I accept my fate with a clear conscience and walk alongside Misa and Shio-chan toward the novelty shop."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mgh, m... gh... *slump*, goes limp--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "message": "命より重い豚でもただの豚"
+  },
+  {
+    "name": "Synn",
+    "message": "「Differentiation, integration, what a great sensation~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, yes~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for calling, this is Grand Palace Sakura」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President!? Is it okay for you to be on the phone right now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte? W-Well, it's fine, I guess... What's wrong?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Actually, you see... I just don't understand」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Was there something difficult in the material?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No. What I don't understand is--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How to study without falling asleep!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am trying my best, however, the very instant I grip my pencil--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, whoa! Wake up, wake up!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauah!! Once again, I have wandered off into Portopia」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean Utopia. Hmm~~ You weren't like that at our study session earlier, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Once I get home, I end up relaxing too much, so it's no good~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You need a certain level of tension. Like having Riesling keep watch over you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Grandpa is so gentle, I don't think he is very suited for that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Then, what about asking Amyrina?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She is already fast asleep right next to me~~\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Then, um... well, you know...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's it! I simply need to study together with you again, Mr. President」"
+  },
+  {
+    "message": "She effortlessly blurts out the very thing I was hesitating to say."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, is that really okay this late at night?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Tomorrow is a day off, after all. If it's for studying, I'll be fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about Riesling-san?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He says that if it's the President, there's nothing to worry about」"
+  },
+  {
+    "message": "I see. Being trusted like that actually puts more pressure on me."
+  },
+  {
+    "message": "Like if I do anything, it'll be a huge deal--wait, what am I even planning to do!?"
+  },
+  {
+    "message": "No, no. I'm the Student Council President, so I have to properly guide my underclassman down the right path."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Got it. Then I'll wait at home」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oka~y♪」"
+  },
+  {
+    "message": "Now then, maybe I should get some tea ready."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good evening!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sorry to keep you waiting~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was fast!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「As this is an emergency, please forgive the intrusion」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, butler. I dunno about spoiling the angel this much」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I believe the wretched culture of torture should be eradicated immediately」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-Torture...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, Jiiya. I'll do my best」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Have a safe time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, have some tea」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very much~\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sip...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hii~~ It's so bitter~~\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's perfect for waking you up, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~. I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, shall we get started?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes ♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Spring is so warm and mild... dozing... dozing... so warm and mild...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh! Lolo-chi spotted. And wide open too」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Poison Sting, poooke!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hyaoo!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hiding your head while your butt's sticking right out!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you doing all of a sudden!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You were sleeping so I woke you up」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gulp\\s01」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey. Whatcha doing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm studying. I don't have time to play along with Omake-san's games today」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aw, boring」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Want to join in too, Sally-chan?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No way, pffft」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sigh... Omake-san really is a free spirit, isn't she」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Jealous?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Certainly... it might be best if I didn't have to study at all. But...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fun things, painful things. Happy things, sad things. Taking them all together is what makes every day wonderful, I think」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If there were only fun things, you wouldn't even realize they were fun, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's true」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why tough things, painful things, and sad things--every single one of them must lead to having fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha. Wouldn't it be nice if you could have fun studying too?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Truly~~」"
+  },
+  {
+    "message": "For a while, only the sound of pencils scratching across paper echoed through the room."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. How should I go about doing this part?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Umm, make the subject and object clear... If it's hard to tell, draw a line like this--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm... hmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nod... nod...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, she's nodding off again...\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Shake, shake!* Ah, this won't do at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Want something to drink?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a brilliant idea! I'll go brew some tea to wake myself up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you know how to make it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have a rough idea, so I'll borrow your kitchen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, go ahead」"
+  },
+  {
+    "message": "I wonder if she'll be okay...?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sorry to keep you waiting~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thanks」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oho~~. I see, you really take thorough notes, Mr. President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Without these, prepping and reviewing would be tough. *Sip...*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's good!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe. Failure is the mother of success, after all」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Huh? She didn't get the idiom wrong--wait, that's not what I should be pointing out."
+  },
+  {
+    "message": "Until just a moment ago, Lolotte was definitely sitting across from me."
+  },
+  {
+    "message": "She's kind of close. Actually, she's right next to me."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, let us continue from earlier...」"
+  },
+  {
+    "message": "It doesn't feel like she's doing it on purpose; she just naturally ended up here."
+  },
+  {
+    "message": "Plus, I'd just turned my writing supplies and notebook toward her a moment ago."
+  },
+  {
+    "message": "Even so, I'm the only one whose heart is pounding, and it's kind of embarrassing."
+  },
+  {
+    "message": "I'm the upperclassman here, so I've got to pull myself together."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Do second-years really do stuff this hard~~?」"
+  },
+  {
+    "message": "Ugh. Her soft upper arm is pressing against me......"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haaah...... I really need to try harder at studying too, don't I」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you put in the effort now, I think it'll be easier later. You won't have to cram like this either」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This happens because you're always slacking off. You've got to prep and review properly every day」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though, you're panicking quite a bit yourself this time, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's because...... the Student Council was so much fun that I just couldn't help it......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right~~♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu~~. There's no way I could do something that's difficult even for you, President~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's it! Why don't we work hard together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As long as you're by my side, President, I'm sure I...... can do my best at anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, I just feel like I can, though I don't think the results will follow」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, that kind of positive attitude is what matters most. So it's all good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, true. First, we have to beat the sleepiness」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu~~. I won't fall asleep anymore~~!\\s01」"
+  },
+  {
+    "message": "And so, while chatting together, the two of us fill our notebooks with writing."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President. Today is, well, your birthday, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Even I completely forgot, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's the wonderful and precious anniversary of the day you were born into this world, you know? You mustn't forget it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha......\\s02 Say, Lolotte. When's your birthday?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mine...... you ask?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmmmm... Well, since it's the day I was born in this world... that would make it December 25th」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which means?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawa\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the wonderful present today」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mustn't be satisfied with just that, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Actually, I secretly prepared a present from myself as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?!」"
+  },
+  {
+    "message": "A present straight from the young lady of the Rosenkreuz family!!"
+  },
+  {
+    "message": "What kind of present could the wealthiest family in all of Ryuusei Town possibly prepare!?"
+  },
+  {
+    "message": "Wait, no, stop that!"
+  },
+  {
+    "message": "What matters with a present is the thought behind it, not its monetary value!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ba-dump, ba-dump...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here is your present」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Isn't this... your piggy bank, Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. This is Tontoro's little brother, Peetoro」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So it's a matching figurine with yours, Lolotte~~」"
+  },
+  {
+    "message": "Just having something matching with Lolotte makes me happy."
+  },
+  {
+    "message": "Though, the fact that I don't have any money to put inside it is just part of my charm."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here you go. Please be careful not to drop it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Thank--whoa!」"
+  },
+  {
+    "message": "The instant I held it, I felt a heavy, solid thud of weight."
+  },
+  {
+    "message": "Could it be that this thing is packed to the brim with something inside?"
+  },
+  {
+    "message": "Gahhh. Compared to this weight... a human life is... light... far too light!"
+  },
+  {
+    "message": "And what's more, I don't see any lid to take things out!"
+  },
+  {
+    "message": "To get whatever's inside, the only way would be to smash its cute little form."
+  },
+  {
+    "message": "However..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please take good care of it\\s04 If you break it or anything, I'll cry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You bet I will!」"
+  },
+  {
+    "message": "Just like that, the secret treasure inevitably became my own prized possession."
+  }
+]

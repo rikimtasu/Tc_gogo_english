@@ -1,0 +1,429 @@
+[
+  {
+    "message": "クサヤタイム"
+  },
+  {
+    "message": "The next morning. We were suddenly summoned."
+  },
+  {
+    "name": "Helena",
+    "message": "「And so, 'Listen up, maggots! Today I'm introducing your new drill instructor!'」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're pretty calm, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I figured it'd be something like this」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I have been designing your special training regimens for some time now, and I have recently been appointed to instruct you directly. It may only be for a short period, but I look forward to working with you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No, Melilot. Here you're supposed to say, 'I am Gunnery Sergeant Melilot, your senior drill instructor! From now on you will speak only when spoken to!' right?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「After I showed you that video over and over again, how lamentable」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Lament all you want!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait, did you know about last night too, Sis...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ehe. Sor-ry. I just figured good little kids like you would go looking for Azel-chan」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I wanted to verify your strength in actual combat conditions」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Um... Melilot-san, are you one of the Seven Demon Generals?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is merely what some demons call us on their own. It sounds terribly childish, so I dislike it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Flash of inspiration! How about one of the Seven Stars!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I dislike that too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gasp」"
+  },
+  {
+    "message": "And then, after school. Once we finished our Student Council work, it was time for our one-hour special training."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Starting today, I will have you train under the assumption that your numbers are reduced during battle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Our numbers reduced... You don't mean」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your coordination is quite impressive, yet it seems you weaken rapidly the moment even one person drops out」"
+  },
+  {
+    "message": "I couldn't help glancing over at Nanaka."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The remaining two Demon Generals, Soltia and Virus, are powerful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just how strong are they?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Setting Soltia aside, I do not want to fight Virus」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To think even Melilot-san doesn't want to fight him……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is Virus-san really that strong!? I'm trembling in my boots」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For you as you are now, even Soltia is a sufficient threat. Nine times out of ten, you would be defeated」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Should a battle break out, you must assume there is a high probability someone will fall during the fight」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If that happens, as you are now, you will undoubtedly lose. And they will show you no mercy」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-Things got serious all of a sudden!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way……」"
+  },
+  {
+    "message": "We instinctively looked at each other."
+  },
+  {
+    "message": "Up until now, we had made it this far without losing a single person. Even our enemies hadn't tried to take our lives."
+  },
+  {
+    "message": "But the enemies from here on out……."
+  },
+  {
+    "message": "And if the one we lost were Nanaka……."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What're you lookin' at! Who do ya think I am」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Therefore, until I give you permission, if you encounter them, do not engage in combat and flee immediately」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Run away?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course, patrolling the academy at night is completely out of the question」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you understand」"
+  },
+  {
+    "message": "The words of the person who had handed us our very first defeat carried heavy weight."
+  },
+  {
+    "name": "Synn",
+    "message": "「……Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, I will explain the details of your training」"
+  },
+  {
+    "message": "Melilot-san opened the thick book she was holding in her hands."
+  },
+  {
+    "message": "An eyeball spread across the entire page looked around at us."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-It just looked at me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-What are you talking about, Lolotte-chan. There's no way a picture could move. Ahaha」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait…… it might actually be cute\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How?! Its skin is all green and slimy--it's gross!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Moving pictures and talking dolls are basically the same thing」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't lump the great sage yours truly in with something like that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is called an Artifact Creature, an existence given temporary life by infusing an inanimate object with magical power」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's alive?! Then, d-don't tell me--it's gonna jump right out of the book?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is correct. You will be fighting them starting now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seriously?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Their combat power is zero, though their speed is quite considerable」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, zero? If they are that weak, there is no sense of tension at all. How boring」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan, this isn't a game」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Their combat power is zero, however, please be careful as they fire a foul-smelling mucus synthesized from kusaya components out of their mouths」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek! That is way too much tension! If I go home with a smell like that on me, what will Jeeves say?! Shiver, shudder」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If it gets on your skin, the odor will not wash off for three days」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's way too terrifying...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will release them five at a time, so please defeat all of them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah! Roger that!」"
+  },
+  {
+    "message": "Melilot-san took something out of her pocket. It looked like an earphone."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will have everyone put these on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could these be... communicators?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There are two rules」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「First. During combat, anyone hit by the mucus must cease all combat actions at that moment and lie down on the ground」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Second. During combat, anyone to whom I speak over that communicator and say 'You are eliminated' must do the same」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have one question」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What might that be?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like we could still get covered in slime while we're lying down, though」"
+  },
+  {
+    "name": "Misa",
+    "message": "「R-Right! That's a major problem! O-Of course, I'd already thought of a question like that myself!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please just accept it as an unfortunate disaster」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaaaaaaaaat?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, let us begin」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-We seriously cannot afford to lose this!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Burst forth!」"
+  },
+  {
+    "message": "Five monsters were unleashed from the open pages!"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nooo, it stiiiiinks!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It stinks, it stinks! It's so stinky my eyes are watering...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eeeek! And I work in customer service!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「My nose is starting to go numb... Actually, it's kind of starting to smell nice... Ufufufu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Get a hold of yourself, Lolotte!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, me too!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why is the great me caught up in this toooo?! It stiiiiinks!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ew. It stinks」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis, is that really the first thing you say right after showing up...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, it's because it stinks\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Walking around smelling like this would disqualify me as a maiden!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What will Sebastian say... Shiver, shiver, tremble, tremble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san! At least do something about us getting sprayed while we're lying down!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's just how it's designed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of buggy game is this?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, it’s almost closing time. You’d better go straight home and wash up real good. Unless you actually like that smell, of course」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I’m going straight home without you telling me to. I can’t make any detours smelling like this」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whether I smell or not, I wouldn’t make any detours!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, dismissed for today」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yugiri-san, please stay behind for a moment. It won’t take long」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Yes」"
+  }
+]

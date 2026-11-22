@@ -1,0 +1,551 @@
+[
+  {
+    "message": "恋する気持ちは３拍子"
+  },
+  {
+    "name": "Ria",
+    "message": "「...And there. What do you think, Sis...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mastering it completely in just a few days--what a terrifying child! That's my little sister for you!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Make up your mind if you're praising me or putting me down\\s02」"
+  },
+  {
+    "name": "Helena",
+    "message": "「With this, you won't embarrass yourself anymore, at least」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah♪ Thanks for teaching me, Sis」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Though, the only thing left is... whether it goes well during the real thing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's already tomorrow, huh... the dance workshop」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Huh? What are you talking about? You're going to teach Synn-chan, aren't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Whether you can dance well in front of Synn-chan is the biggest issue, right...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wh--!? H-How did it come to that!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, didn't you want to look cool in front of Synn-chan?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It's not like that\\s01」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It really isn't!\\s01」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Your face is bright red. You won't be able to dance properly like that, you know?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Uuu~~\\s03」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Come on, he's probably still around. Go teach him properly\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez! I told you I'll be fine!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "All right, the program for tomorrow's workshop is all set."
+  },
+  {
+    "message": "Now, as Student Council President, it'd be great if I could pull off a dance worthy of being an example, though......"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the end, Ria-senpai never taught me......」"
+  },
+  {
+    "message": "Wait, I'm trying to rely on Ria-senpai again!"
+  },
+  {
+    "message": "I have to do my best on my own."
+  },
+  {
+    "message": "Still......"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy. Want to dance with me?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Groooowl. Groooowl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...No helping it, I'll do my best on my own. Un, deux, trois--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you... see that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Loud and clear...」"
+  },
+  {
+    "message": "Sigh... Of all people, Ria-senpai had to see me look so uncool."
+  },
+  {
+    "name": "Ria",
+    "message": "「You were... practicing dancing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Inhaaaale, exhaaaale」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn-kun. Want to head out to the courtyard for a bit?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on, over here, over here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heeere, give me your hand\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We don't have music, but we can still keep the rhythm, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could that mean--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yup♪ Ria-senpai's dance workshop~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Though the big day is already tomorrow\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... it's fine. Really, I should be able to pull it off properly without Ria-senpai having to teach me...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the end, I've just been relying on Ria-senpai the whole time, I...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm happy to be relied on, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But that's only because I'm your junior... right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's dance, Synn-kun」"
+  },
+  {
+    "message": "I find myself drawn into that outstretched hand."
+  },
+  {
+    "message": "I wrap my fingers over the back of her hand, enveloping it."
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll take the lead, so do your best to step forward」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We're turning to the right」"
+  },
+  {
+    "message": "My arm is pulled in, and I fall into step with Ria-senpai's rhythm."
+  },
+  {
+    "name": "Ria",
+    "message": "「That's it. Keep your back straight, on your toes--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmph!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now you're puffing your chest out too much\\s04　Calm down. Come on, bring your feet together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "message": "Ria-senpai suddenly closes the distance between us."
+  },
+  {
+    "name": "Ria",
+    "message": "「Right now is when you take a step back. Like they say, if pushing doesn't work, try pulling♪」"
+  },
+  {
+    "message": "Ria-senpai's soft, warm hand."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, no good. Now we're turning left next」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh--」"
+  },
+  {
+    "message": "Our feet get tangled and we lose our balance. In a panic, I catch Ria-senpai around the waist."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm sorry!」"
+  },
+  {
+    "message": "We managed to avoid falling over, though the dance came to a halt."
+  },
+  {
+    "name": "Synn",
+    "message": "「At this rate, it's not much of a practice, is it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even if I'm about to fall, Synn-kun will catch me nice and safe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wouldn't it make you happy to have me rely on you, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is it because I'm your senior after all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I want to rely on you because you're you, Synn-kun, and I want you to rely on me for the exact same reason」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you wouldn't rely on me unless I were your upperclassman... that would just be sad」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel the exact same way. If I weren't your underclassman, you wouldn't pay any attention to me, Ria-senpai」"
+  },
+  {
+    "message": "Ria-senpai rhythmically bobs her hips up and down, and I match her steps as if drawn in by her lead."
+  },
+  {
+    "name": "Ria",
+    "message": "「To tell you the truth... I couldn't dance at all before」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But, you know. I worked really hard because I wanted you to rely on me, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... You really are amazing, Ria-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's amazing is that you're the one who got me able to dance. If you hadn't been there, I wouldn't have been able to dance at all, you know?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Like this, you know. When I'm with you, Synn-kun, I... feel like I can do anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai...」"
+  },
+  {
+    "message": "There are plenty of things I was only able to do because Ria-senpai was there for me, too."
+  },
+  {
+    "message": "Making KiraFes a success."
+  },
+  {
+    "message": "Getting good grades on my tests even while distracted by Student Council duties."
+  },
+  {
+    "message": "Dealing with the Demon Lord."
+  },
+  {
+    "message": "And my desire to make this year's Holy Night Festival a success."
+  },
+  {
+    "message": "As long as Ria-senpai is with me, I can overcome any obstacle."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm...」"
+  },
+  {
+    "message": "Ria-senpai steps forward, closing the distance between our faces all at once."
+  },
+  {
+    "name": "Ria",
+    "message": "「Didn't I tell you earlier? You're supposed to take a step back right there」"
+  },
+  {
+    "message": "We gently bump our foreheads together."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry. I just... really wanted to be with you, Ria-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... I wanted to dance with you like this too, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can't really call this dancing anymore, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why not?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because you're so close to me, Ria-senpai」"
+  },
+  {
+    "message": "We're close enough to feel each other's breath."
+  },
+  {
+    "message": "The tips of our noses brush together, and a deep affection swells within me."
+  },
+  {
+    "message": "Even though I want to kiss those lips, our shyness gets mixed in, making us tease each other instead."
+  },
+  {
+    "name": "Ria",
+    "message": "「No fair, Synn-kun... Something like this has to come from the guy...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You always do that, treating me like a guy only when it's convenient for you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, I am a girl, after all... I might be your senior, Synn-kun, but I still want to be seen as a girl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've always... looked at you as a girl, Ria―senpai. You're so kind, and so warm―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I love you, Ria-senpai」"
+  },
+  {
+    "message": "Holding her trembling shoulders, I bring my lips closer to hers."
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh... no...」"
+  },
+  {
+    "message": "Contrary to her words, all strength drains from Senpai's body, leaving everything to me."
+  },
+  {
+    "message": "Those desperate words were the last bit of resistance put up by her title as my senior."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm... mmph... *gasp*. Haaa...」"
+  },
+  {
+    "message": "The moment our lips touch, my mind goes completely blank, and we part before I even have time to savor the sensation."
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez... kissing me out of nowhere isn't fair...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm a guy too, you know...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I... haven't even given you my answer yet」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't seem like you hated it, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You shouldn't be so forceful. If you do that, I'm just going to fall for you even harder...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was my first time, so I didn't really know what to do...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It was my first time too, you know. So be gentle with me... mmh」"
+  },
+  {
+    "message": "This time, Ria-senpai presses her lips against mine."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmph, mm, *chu*... *chu*... nfuu...」"
+  },
+  {
+    "message": "Ria-senpai repeatedly taps her soft lips against my mouth."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm... *chu*, *chu*... mm, mph, fuuu...」"
+  },
+  {
+    "message": "An awkward, hesitant kiss. Watching her like this, my tension gradually melts away."
+  },
+  {
+    "message": "It really is her first time, and she's trying so desperately."
+  },
+  {
+    "message": "She's always the one taking the lead, yet she's completely hopeless when it comes to romance."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmh... mmph, *chuu*... *slurp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "message": "Just as I let my guard down, something wet brushes against my lips."
+  },
+  {
+    "message": "And then, it parts my lips and begins to slip inside."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmh... nn, nchuu... nnh, pururu, rurero... nn, nmuu...」"
+  },
+  {
+    "message": "Ria-senpai is moving freely inside my mouth."
+  },
+  {
+    "message": "Filled with a warm, pleasant sensation, I could do nothing but surrender myself to the act."
+  },
+  {
+    "name": "Ria",
+    "message": "「Nn... puh, haa...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-How was that...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn...-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A grown-up kiss...\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Ufufu\\s04 Well, I am the older one here, after all♪」"
+  }
+]

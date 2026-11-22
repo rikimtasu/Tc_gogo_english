@@ -1,0 +1,615 @@
+[
+  {
+    "message": "破滅を寿ぐ者"
+  },
+  {
+    "name": "Helena",
+    "message": "「There are only two days left until the Holy Night Festival, so are the preparations going alright?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Completely ready! We've done all we can, so now we just leave it up to fate!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka, you have your club activities to deal with too, don't you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Leave it to me! Everything's in the bag!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka seemed unusually excited."
+  },
+  {
+    "name": "Helena",
+    "message": "「How about it, Student Council President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes. Preparations are going smoothly. Rehearsals for the parts hosted by the Student Council are finished. All that's left is the actual setup.」"
+  },
+  {
+    "message": "I hope Nanaka isn't pushing herself too hard."
+  },
+  {
+    "name": "Ria",
+    "message": "「It's going even more smoothly than last year.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In that case, you have a little bit of spare time, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We do, yes.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Splendid. Because--」"
+  },
+  {
+    "message": "Helena paused for a moment and looked around at us."
+  },
+  {
+    "name": "Helena",
+    "message": "「There is an errand I'd like the members of the Student Council to take care of before the Holy Night Festival.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ask anything of us! My Student Council is the greatest!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's mine!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not yours either, Misa.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「None of you know why Pasta and the others were wandering around the academy at night, do you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I do know. It was on a whim.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They are Demons, after all. What a pain.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's what Big Sis said back then, but... I wasn't convinced.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Neither was I.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I thought that much through myself, too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey! That makes me look like an idiot for honestly believing it was just a whim!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hehe. You're quite the fool, Treasurer. Actually, I had my suspicions too.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Traitor!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You see, they were creating a giant magic circle large enough to cover the entirety of Ryuusei Town.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A ma-gic circle?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't that something you'd see in a fantasy story?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, that! Like the kind that pops up in video games! I never thought I'd hear a word like that in real life!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why would they make something like that?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Simply put, to accelerate and amplify Re-Crea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Accelerate and amplify Re-Crea?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No way! If they did something like that...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The world would be destroyed.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Chairwoman! Didn't you just casually say something completely outrageous!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Surely not even they would go that far...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ryuusei Academy is built right next to the singularity connecting the Three Realms. In other words, it's the seam of space-time--and its weakest point.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's why Demons have appeared here since ancient times, and why the Kujou family and the Crusaders existed to protect it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's how it is!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If the space-time distortion caused by Re-Crea is amplified here, the impact on the Three Realms will be catastrophic.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Once the balance collapses, it'll trigger Pre-Materialize--well, the terminology doesn't really matter. Point is, the Three Realms will collapse in a chain reaction.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Are you serious!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Unfortunately, dead serious.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How can we destroy the magic circle?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Too bad, but it's impossible for anyone without specialized knowledge. And the one in charge of destroying the magic circle for us was Melilot.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "So that's why Melilot-san was walking around the academy at night."
+  },
+  {
+    "message": "When Azel said something was being destroyed, did she mean the magic circle?"
+  },
+  {
+    "name": "Helena",
+    "message": "「If Soltia appeared to interfere with destroying the magic circle, Melilot would take her down」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And the plan was for the Crusaders to fight the remaining Virus with Melilot's support」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It was an operation with a 79.8% success rate, but... things suddenly started going off the rails」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The magic circle Pasta and the others made had an angel's seal on it to prevent destruction」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An angel's seal?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because it's a special seal woven from Spirit Power, destroying it gave Melilot, being a demon, quite a bit of trouble」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're quite ignorant, Chairwoman. That's impossible.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Only we angels can create an angel's seal. Angels do not cooperate with demons. Therefore, such a thing is impossible.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone, please don't be shocked. I am actually an angel! Since an angel is saying it, there's no mistake!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Setting Lolotte's true identity aside for a moment」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You just brushed right past that!?」"
+  },
+  {
+    "message": "If it's them, maybe even the fact that I'm the Demon King... But..."
+  },
+  {
+    "message": "What would Nanaka think?"
+  },
+  {
+    "name": "Helena",
+    "message": "「As long as the seal exists, there's an angel cooperating with Pasta and the others. If it isn't Lolotte, then it can only be Azel, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, an angel cooperating with demons is unthinkable.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way! That can't be! She's our classmate!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Doubt she thinks of you guys that way」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, sure, she completely ignored me whenever I tried talking to her, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I won't believe it until I see the seal for myself!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, the Chairwoman has no reason to lie...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe I should've tried talking to her a bit more... Could she have mistaken it for bullying or something!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not a chance」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So that's why! That's why she was spotted at the academy at night」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then that means Azel and Sengenin Se--Soltia and Virus are working together……」"
+  },
+  {
+    "message": "That doesn't make sense."
+  },
+  {
+    "message": "Sure, Virus and Azel did seem like they knew each other."
+  },
+  {
+    "message": "But if so, why did Virus protect me last night?"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't see anything strange about it, though.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Why do you think it's strange, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To begin with, Azel-san would never team up with people like them!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot and I thought Virus was the mastermind, and Soltia and Pasta-chan were cooperating with him.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've got it! Azel-san was being blackmailed!」"
+  },
+  {
+    "message": "Someone with as much power as Azel being blackmailed?"
+  },
+  {
+    "message": "Something really isn't adding up……"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Could it be…… now that the magic circle is complete and she's outlived her usefulness, they're going to--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is bad!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We have to save Azel-san!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But where on earth could she be……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It doesn't seem like she's being forced to cooperate, though.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh…… but then--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That makes even less sense!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nobody should be able to blackmail Azel-chan. After all, Azel-chan is Re-Crea itself.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Re-Crea itself!?」"
+  },
+  {
+    "message": "Melilot-san really did say that. That Azel is Re-Crea."
+  },
+  {
+    "name": "Helena",
+    "message": "「Azel-chan harbors the power of Re-Crea inside her body. There's no mistake about it.」"
+  },
+  {
+    "message": "Saying that, Helena-san took a single photograph from the director's desk."
+  },
+  {
+    "name": "Ria",
+    "message": "「What is this……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's a photo taken last night during the battle between Melilot and Azel-chan.」"
+  },
+  {
+    "message": "Even through an image, a sinister aura presses in on me."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is…… Azel-san…… An angel's power wouldn't look like this……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, so Azel is our enemy!? Seriously!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No way. I mean, it's Azel we're talking about, right? Sure, we never got all that close, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then he took out Melilot to stop any more magic circles from being destroyed?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If she were up against Soltia, Melilot wouldn't have fallen behind, though...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-This... isn't special effects?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's real. Most of the monitors blew out from overload, so this is all we managed to capture.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sure you've all seen magic power swirling around Demon Generals and demons before.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You can only see that because you're under the influence of Guardian Angels--normally, it's invisible. Yet it showed up clearly on an ordinary monitor.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Meaning his power is just that off the charts...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Exactly. Power that's supposed to be invisible is so dense it's reached the level of pseudo-matter.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Who would've thought... It wasn't Virus, but Re-Crea itself that was our enemy.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on a second! What about Melilot? What happened after she fought Azel!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She lost. She burned through every last drop of magic in her body, and she's still in a coma.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No way...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She'll be fine. She should regain consciousness in about a week.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To think even Melilot... was defeated...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What is Re-Crea's--no, Azel's goal...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The destruction of this world.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「According to Melilot, it's to remake this world. At least, that's how the angels' teachings put it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Angels are way crazier than demons!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is that true, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...It is true that in our God's teachings, there is a passage stating that Re-Crea is the manifestation of God's will to remake the world.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But... I didn't think anyone actually believed it.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So it's a crusade to destroy this tainted world and bring about a new one, huh. Fanatics are the worst kind of trouble」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the heck is that! Don't pull something like that right before the Holy Night Festival!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though I still... haven't been able to do anything...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then, does that mean the true mastermind was Azel-san, and Virus, Sengen'in-sensei, and Pasta-san were merely being used?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wonder about that. They probably each had their own agendas.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san is a fool. To betray her friends over something like this! It is unbelievable!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She probably didn't think of it that way」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Panda-san, please be quiet. To think Azel-san was such a delinquent!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We must have the Archangel give her a spanking!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There've been a dime a dozen fanatics since the old days, yeah, but none of 'em could actually use the power of Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So this is the worst-case scenario?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pretty much」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot had considered every possibility, and anticipated that a situation like this could happen.」"
+  },
+  {
+    "message": "Helena-san took a bound report out of her desk drawer."
+  },
+  {
+    "name": "Helena",
+    "message": "「Specifically, the scenario where as of last night, she herself was defeated, seventy percent of the magic circle's functions remained intact, and it retained enough capacity to accelerate and strengthen Re-Crea.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Re-Crea will occur and spacetime will begin to collapse on December 24th at 4:23:28 AM. Margin of error within two minutes.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In all likelihood, Azel-chan, the core of Re-Crea itself, will appear at the same time. The location is the plaza beneath Finis Tower, where the most critical magic circle closest to the singularity was set up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... that's... the errand you wanted us to take care of before the Holy Night Festival?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's right. Don't worry, you can win. At least, that's what Melilot left written down.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is there some kind of good plan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It must be intensive training known as cramming overnight! I shall do ten thousand bunny hops and snap my Achilles tendons! Gogogogogogo」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You mustn't snap them!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Apparently, there's nothing more you need to do. Just go ahead and prepare for the Holy Night Festival.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But...」"
+  },
+  {
+    "message": "Helena-san glanced over at me."
+  },
+  {
+    "name": "Helena",
+    "message": "「'If everyone trusts one another and draws out their full potential, it won't just add up to 5--it could become 10, 100, or even 1,000,' apparently.」"
+  },
+  {
+    "message": "Is she talking about me? About how I can't become a complete Demon Lord."
+  },
+  {
+    "name": "Helena",
+    "message": "「So anyway, I know it's sudden right before the Holy Night Festival, but I'm counting on you.」"
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "message": "神域の小悪魔"
+  },
+  {
+    "message": "The first day of midterms is over, and I head to Asukai Shrine to pay a visit."
+  },
+  {
+    "message": "I'm trying my best, though maybe because I started studying late, I don't feel as confident as usual."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Turning to the gods for help with your tests, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm not going to ask for good scores. I'm praying for confidence.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're weirdly meticulous about stuff like that.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Okay, okay, everyone line up properly. Hey, you there! Don't push!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed, there is no need to rush; there is enough for everyone.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "There are lots of children in the shrine grounds, all lined up neatly in a single row and chatting excitedly."
+  },
+  {
+    "message": "At the front of the line, right in front of the main hall, sits a folding table with a stockpot on a portable stove. Billowing steam and the smell of piping hot, sweet oshiruko fill the air."
+  },
+  {
+    "name": "Sally",
+    "message": "「Look, look! Check out these ladle skills I honed at the beef bowl shop!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Splendid. Truly worthy of Lady Sally, who settled in here through Lord Synn's good graces.」"
+  },
+  {
+    "message": "While watching the heat, Sally and Shio ladle oshiruko into bowls and hand them out to the children."
+  },
+  {
+    "message": "The children sit with their close friends on the torii base, the stage, and the steps of the shrine approach, blowing on the hot oshiruko as they eat."
+  },
+  {
+    "name": "Paqy",
+    "message": "「I wouldn't mind getting in on that treat myself.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh! It's Prez! Hey there!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, Lord Synn! Welcome. Please, do get in line.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... are you sure? Isn't this just for little kids?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, this is a sacred rite to serve oshiruko to all worshippers, you know? There are simply many schoolchildren here because of the hour on a weekday.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez goes to the very back of the line, okay? I can't give you special treatment just because we're friends.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I know.」"
+  },
+  {
+    "message": "While Sally manages the line and serves the food, about ten minutes pass before I finally get my hands on some oshiruko."
+  },
+  {
+    "name": "Sally",
+    "message": "「One regular, coming right up♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now, now, down it in one gulp and accumulate some merit.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...? Forced chugging? Since I went through the trouble, I'd rather savor it.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「You see, I was the one who cooked it... so I am not particularly confident in the taste.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tasty, isn't it? Munch, munch, munch」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey now! Paqy, you didn't say 'thanks for the meal'!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I said it in my heart」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. Well then, including Paqy's share... thanks for the meal! Nom, nom」"
+  },
+  {
+    "message": "Unable to wait any longer, I partake in the hospitality while still standing in front of the two of them."
+  },
+  {
+    "name": "Synn",
+    "message": "「You're great, Sally. You properly made everyone wait their turn, didn't you?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hm... hmm? Well, the manager at the gyudon shop taught me all sorts of things」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Besides, if everyone just eats and makes a mess, cleaning up afterward is a total pain!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Wait, grrr! Don't throw your disposable chopsticks there!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed! Lady Sally is far more admirable than any half-baked human」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However... what in the world is a Demon, anyway?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...They're no different from us」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Then I am relieved!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm back! Shio-chi, there's two servings left. Let's eat too!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Understood! I have already dished them out!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo! You're amazing, Shio-chi, making this much oshiruko」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, for a shrine maiden of Asukai, this is only a matter of course」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Still, doing it right in the middle of exams is super amazing♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gulp!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it... I'm surprised you had the time to spare」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-Well, that is~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. You always study steadily on a regular basis, don't you, Shio?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-Indeed! It is the fruit of constant effort」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As I have given up on exams from the very beginning, I do not panic when the crucial moment arrives!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry. That sounds kinda weird, honestly」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Awawawa, you're like, pessimistically positive, Shio-chi」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nugugugu... P-Please call it catastrophically bold」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, I dunno about that either?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「P-Please keep this matter a secret from my elder sister...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nom nom nom, phew--that was delicious. Thanks for the meal♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Shio-chi, upupupu」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm gonna go tattle to Misa-Misa. Bye-bye」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-What did you say--!? You little imp, halt right there!」"
+  },
+  {
+    "message": "Shio-chan runs off chasing after Sally-chan. A game of tag between a human and a Demon, as if their roles had been reversed."
+  },
+  {
+    "message": "It looks like it'll take a while before they come back."
+  },
+  {
+    "message": "I should clean up the stockpot and bowls. It'll be a nice change of pace."
+  },
+  {
+    "message": "My studying for today's test is sure to go smoothly."
+  }
+]

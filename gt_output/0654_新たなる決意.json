@@ -1,0 +1,735 @@
+[
+  {
+    "message": "新たなる決意"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san, we've arrived.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yeah, thanks...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Are you really okay to be moving around already?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yeah, I've managed to get back on my feet. Sorry for making you worry.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't push yourself too hard, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...So, um. Azel... well, when are you going back to Heaven?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "He glances briefly over at Lolotte."
+  },
+  {
+    "name": "Azel",
+    "message": "「The Holy Night Festival...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I've heard rumors about it from Lolotte for quite some time. That it's a very enjoyable event.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Since I'm already here... I intend to experience it before heading back.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see... That's a huge responsibility! Right, Lolo-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh... Y-yes! That's right! I'm itching to show what I can do!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, it's going to be lonely. Just when we finally became friends.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It can't be helped. Though once you're feeling better, you can always--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「All I can say is that I'm sorry.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Angels aren't supposed to set foot in the Human World in the first place. Moreover, I'm someone who naturally warrants suspicion.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no chance I'll be able to come back again.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you saying, Azel-san!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll be fine! If you properly reflect on your actions in Heaven, they'll forgive you!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes... It'll be fine... Everything is going to be fine...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, yeah. Even a klutzy angel like Lolo-chi was able to come to the Human World. For Azel, it'll be a total breeze!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wha?! What do you mean by that, 'extra'?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Anyway, we're going to liven up the Holy Night Festival so we can make precious memories together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. So Azel won't feel lonely even in Heaven!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mustn't get lonely and cry, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What are you saying?! I would never……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hehehe…… Well then, I'll entrust a big role to Azel, who's looking forward to the fun Holy Night Festival so much!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……What is this?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's an advent calendar.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Try opening this window labeled '20'.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A-Ah.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ta-daaa! Out comes a whole roast turkey~~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ooh……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sure we'll get to eat delicious food at the Holy Night Festival too!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yaaay!! I wanna eat yummy food!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You count down the days until the Holy Night Festival by opening one of the windows on this calendar every day.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. So there are 6 days left.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It makes you wanna open the next one right away, doesn't it~? Like, 'I wish tomorrow would hurry up and get here~'」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Heh…… At this rate, the time until the Holy Night Festival will fly by in the blink of an eye.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……! Please look forward to it!! The Holy Night Festival!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yeah, I'm looking forward to it.」"
+  },
+  {
+    "message": "The final event we'll spend with Azel…… No matter what it takes, we have to make this a huge success!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alriiight. Well then, I'm gonna head home and quickly finish up the rest of the costumes!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes♪ Leave Azel to me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah! Call me if anything happens. I'll come running right away.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you so much, President!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How affectionate.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「They're lovers, after all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You two always look so happy~. I'm jealous!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So, when is the Prez going home?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, angel. If you keep grabbing the hem of his uniform, the Demon Lord's never gonna get to go home.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Urk!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyway, save the lovey―dovey stuff until after the Holy Night Festival! I get that you don't want to part, but―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You'll see each other again.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「See each other... again...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right. Ahaha!\\s01 Well then, Lolotte, see you later!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Welcome back, Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. We aren't home just yet.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「How was... Azel's condition?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「About that, I... have to apologize to you, Amyrina.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh, huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm thinking of returning to Heaven.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Whaaaat?!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「W-Why would you suddenly do that?! Even though you'd made up your mind so firmly...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So... I'm sorry. For doing something that betrays your feelings, Amyrina...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It really is... about Azel, isn't it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Letting Azel go back to Heaven all alone... I'm just worried about him」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If it's in the Human World, the Chairman and the others can be there by his side. However--」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Then I'll... I'll stay by Azel's side! That way, you can stay together with the Chairman and everyone else, Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you, Amyrina... but I couldn't possibly push that responsibility onto you」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「But you do understand, don't you? Heading to the Human World without permission is tantamount to a grave crime...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Not only me, even you, Lolotte... will be held accountable for that crime just like Azel!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll be fine. I'm a dropout from Heaven, after all, so nobody really pays me much mind」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「No! That's not what I mean!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「What if the way to atone for that crime...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「What will you do if it means never being allowed to set foot in the Human World again!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The truth is...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The truth is... I don't know...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What I'm supposed to do... I don't know...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even after learning so much, and experiencing so much...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When it comes to parting ways with someone... I... I don't know... what to do...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「In that case, why not try speaking with Master Synn about it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「That is what you have always done up until now, my lady. If so, I believe that would be the best course of action」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「With the Chairman...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Grandpa! Are you truly alright with never being able to see Lolotte again...?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「That is for my lady to decide. Whatever path my lady chooses, I shall simply support her with everything I have」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then, right this way. Please get in. Acting rather than worrying is one of your most wonderful qualities, milady」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey! Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sorry to have kept you waiting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, I'm happy. Coming to see me even at this hour」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...? What's wrong? You seem kind of spaced out today...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be about Azel... Are you still worried about something!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Lolotte? Don't tell me it's about you... Did something happen?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am going back to Heaven」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I will return to Heaven together with Azel-san and Amyrina」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why...? Even though you said before that you wouldn't go back...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's something I've been thinking about for a little while now...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Re-Crea is different from what I knew in Heaven... It was something completely different from the knowledge widely known there」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In particular, if I don't properly report what happened during this Re-Crea, someone else like Azel-san will appear again...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We must never... allow such a situation to happen again. To prevent that, I need to convey the truth in Heaven myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides, I'm... still worried about Azel-san after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Atoning for his sins in such an exhausted state... He must actually feel very lonely and anxious」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even if he tells them what actually happened, there's no telling whether they'll believe him. There is no angel in Heaven who would understand Azel-san's side of the story」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Other than Amyrina and me, who witnessed the scene firsthand, there is no one who can protect Azel-san」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I had you, President, everyone in the Student Council, and so many friends... And Jiiya, Grandfather, and Grandmother were always by my side」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why I want to be there by Azel-san's side in the exact same way!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm going back... to Heaven」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once you make up your mind, Lolotte, you charge straight ahead... And I love that about you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So if that's what you want to do, then doing it is for the best」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "message": "In truth, I want to be together forever. I don't want to part."
+  },
+  {
+    "message": "Yet Lolotte's resolve is far too immense."
+  },
+  {
+    "message": "It shows just how much she has grown up."
+  },
+  {
+    "message": "Even though that's something to be so, so happy about."
+  },
+  {
+    "message": "I'm so sad that I can't even say \"See you later\" in a loud voice."
+  },
+  {
+    "message": "So lonely."
+  },
+  {
+    "message": "Surely, it's because there are no guarantees."
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, it's not like we'll never see each other again」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "message": "It's probably because we can't promise to meet again that Lolotte looks so helpless right now."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I... am hesitating. Even if my heart is set, my feelings haven't caught up...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is considered taboo for an angel to set foot in the Human World. I, too, will likely be held accountable for this sin」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And there is a possibility that I will be forbidden from ever going to the Human World again...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I might never... be able to see you, President, or everyone else ever again!!」"
+  },
+  {
+    "message": "That must be why Lolotte can't take the plunge."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uu... *sniff*... That one year in the Human World... Jiiya, Grandfather, Grandmother...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「School life living with everyone in the Student Council... KiraFes, the Holy Night Festival... The fun times and the painful times... Everything, everything...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All of those precious memories might truly end... as nothing more than memories...」"
+  },
+  {
+    "message": "The time Lolotte spent flowing in the Human World will come to a stop."
+  },
+  {
+    "message": "The price called growth is far too steep, clashing against her young heart."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't know... what to do... Oh, I... *hic*... *sniff*... uu...」"
+  },
+  {
+    "message": "Even so, hanging her head overwhelmed by sorrow isn't like Lolotte at all."
+  },
+  {
+    "message": "Especially since she's volunteering for such a monumental role herself."
+  },
+  {
+    "name": "Synn",
+    "message": "「Puff out your chest more! Lift your head!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wipe away your tears, Lolotte...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Remember. Up until now, you've always done nothing but reckless things」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I know we'll meet again... with you staying the same cheerful, reckless Lolotte you've always been...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I... I've always believed that. I believe without a doubt that we'll see each other again!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you don't need to worry... It'll be okay...」"
+  },
+  {
+    "message": "Unable to hold back my own tears, I pulled Lolotte into an embrace as if to hide them."
+  },
+  {
+    "name": "Synn",
+    "message": "「Come back anytime... And let's make lots more fun memories together with everyone...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President... Presideeeent...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uu... *sniff*... *snivel*... *hic*...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're... right... It only feels sad because I think of it as something sad... doesn't it...」"
+  },
+  {
+    "message": "That's right."
+  },
+  {
+    "message": "This isn't goodbye. As long as we believe that, it isn't really sad at all."
+  },
+  {
+    "message": "I want to wholeheartedly bless Lolotte's departure."
+  },
+  {
+    "message": "As if holding down my sorrow, I hug Lolotte tighter and tighter."
+  },
+  {
+    "message": "Because if we exchange words, the tears will surely overflow and never stop."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Hic*... *sniff*, *snivel*... President...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I can feel... so much of your kindness...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So I... shouldn't just keep crying... either, right...」"
+  },
+  {
+    "message": "The strength in the arms clinging to me gradually fades away."
+  },
+  {
+    "message": "She can't keep relying on others forever. She will carve out her own future for herself."
+  },
+  {
+    "message": "Even as Lolotte's body pulls away, our hearts remain connected."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President... No matter what happens, I--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I promise I'll come back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... yeah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So please, cast a good-luck charm on me so that we'll see each other again」"
+  },
+  {
+    "message": "Lolotte stands right in front of me and slowly closes her eyes."
+  },
+  {
+    "message": "Such a small body."
+  },
+  {
+    "message": "Yet right now, she looks so much bigger than when we first met."
+  },
+  {
+    "name": "Synn",
+    "message": "「I love you, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I love you too...\\s04」"
+  },
+  {
+    "message": "And then, I put my arms around Lolotte's shoulders and press my lips to hers."
+  },
+  {
+    "message": "A kiss sealed with a vow to meet again."
+  },
+  {
+    "message": "And with a wish that Lolotte stays safe and well in Heaven--."
+  }
+]

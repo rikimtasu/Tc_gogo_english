@@ -1,0 +1,476 @@
+[
+  {
+    "message": "ロロット沼編"
+  },
+  {
+    "message": "Since it was the day before the event, students and participants were all mixed together preparing, and the place was gradually getting livelier."
+  },
+  {
+    "name": "Synn",
+    "message": "「That about does it for the setup, I guess」"
+  },
+  {
+    "message": "As for me, I'd finished up the heavy lifting and was taking a break, drinking the tea Ria-senpai had brewed for me."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Preside~~nt!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Lolotte. How's it going?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, everything is going very smoothly. How are things on your end?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just finished up right now」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, would you mind helping me out from here on~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, sounds good. So, what are we doing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The single most important thing a food stall has to be careful about. Do you know what it is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whether they're making good, cheap food properly」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Bzzzt. It's hygiene. We are going to put our own bodies on the line to verify whether each stall's food is safe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Put our bodies on the line--you mean you and me?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes♪ What you'd call guinea pigs. So, let's go around doing taste tests together right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Taste tests... wait, does that mean all-you-can-eat for free!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is indeed the case♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoooa, long live the Student Council Preside~nt」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's get going right away\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The okonomiyaki stall. Double circle--full marks\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hey. You've got sauce on your face」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmh... *lick*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not very proper for a young lady~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe. Keep it a secret from Jiiya, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, everywhere you look...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It really is. I feel like I could keep eating forever」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mhm, mhm!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, the next shop is--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Welcome, thanks for coming!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're here for the Yuugiri-an tasting~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please give us a massive, extra-large serving」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Coming right up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This gets a gold star! Thank you for the meal~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hope it was to your liking. And with that, switching out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet you're planning to go do a tasting at the cake shop」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you're going anyway, let's go together. The next stop is a sweet shop, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Welcome」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thank you for the meal」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha...\\s01」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「People who like Western sweets are truly pitiful, aren't they」"
+  },
+  {
+    "message": "If I remember right, this is the president of the Wagashi Club--Ria-senpai's friend, Misasagi-senpai."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So the Wagashi Club is lending a hand at Prier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... I'm starting to get full, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you saying? This is a proper duty too, so we have to do a thorough tasting」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria gives it her stamp of approval too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you're full, you don't have to force yourself」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Lia will eat it instead. Right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's not what I meant...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. You just can't help wanting to eat them, Senpai.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's not true! You're making me sound like a glutton\\s01」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Nobody went so far as to call you a glutton, you know?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, unfortunately, that duty belongs to the President and me! And so--」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Here are Prier's special Japanese sweets. Eat up plenty, alright?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you for the food~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the food...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmmm~ So sweet and delicious~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nom, nom... It's good... but I'm stuffed...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, it can't be helped. I'll eat it for you, chomp♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here, have some tea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, thank you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you for the meal!\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urp...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What a hearty appetite. Don't you think, Lia?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Thanks to that, there's none left for Lia to sample. Sorry about that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wha...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, President. Let's head to the next one!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wai... my tea...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Come back soon, y'hear?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, thank you for the meal. Just a little more to go, Mr. President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-We're still eating...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. Giving up on a mission halfway through is completely out of the question.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S... Somebody take my place...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hello~ We've come for a tasting.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Welco~me\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin, that means--」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yep! I'm helping out at the cake shop~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... Nanakaa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Takahashi-san. We aren't finished talking over here yet, are we?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, Madam Vice President. What are you doing here?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「He's being interrogated~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't make it sound so terrible. It's a meeting, a meeting.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Here for a tasting, right~? Wait just a sec~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, hey! Hmph, honestly!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Munch, munch... How exciting~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, you're eating something again!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's the cream anmitsu we received as a souvenir from the sweets shop earlier.\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「More sweets?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There is always a separate stomach for sweet and delicious things.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A girl's body is way too mysterious... I can't take any more...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You just overate without thinking ahead anyway, didn't you? You really have zero sense of planning.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... Lolotte has been eating way more than me everywhere we go.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sorry to keep you waiting--here's an impromptu cake buffet~♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Please enjoy these many masterpieces our pastry chef poured their heart into--」"
+  },
+  {
+    "message": "Plates of cake are brought out one after another. Each individual piece is bite-sized and dainty, yet countless more assassins lie in wait behind Sacchin."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I can't... eat all of this... Especially heavy stuff like chocolate...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't this way too much, even for you? You'll get fat if you eat that much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll get a stomachache before that happens...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just leave the leftovers to us in the Sweets Club」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nanaka! You're a lifesaver...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I came running the second I heard about new chocolate creations」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. Please don't underestimate me. This much is nothing at all. Right, Mr. President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, let the party begin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you for the meal!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't even tell what anything tastes like anymore...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「M-My cakes... *slump*」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This much is a total piece of cake and pickled veggies, you know」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Amazing, isn't it? Where does it all go in that tiny body of hers--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll have to get her to tell me her secret to not gaining weight later...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, Mr. President. Let's move on to the next round!」"
+  },
+  {
+    "message": "Lolotte's stomach is a bottomless pit..."
+  }
+]

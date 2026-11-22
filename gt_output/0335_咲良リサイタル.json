@@ -1,0 +1,827 @@
+[
+  {
+    "message": "咲良リサイタル"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun, about these documents」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Oh, these are--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz, zzz, zzz~」"
+  },
+  {
+    "message": "The Student Council room after school."
+  },
+  {
+    "message": "Attendance today is optional. Each of us is wrapping up leftover work at our own pace."
+  },
+  {
+    "message": "Even though there's no meeting about the Holy Night Festival, Misa opened up the Student Council room just like always."
+  },
+  {
+    "name": "Synn",
+    "message": "「You really are dutiful, aren't you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right back at you, Sakura-kun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What was that exchange just now? Acting like we totally understand each other...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It was a coincidence! I haven't accepted you at all!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was... I-I was, right! I was deep in thought about meat buns. I wasn't thinking about the Student Council or the Holy Night Festival even a tiny bit!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, yes it is!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, why meat buns all of a sudden?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh...!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Means she was so flustered she blurted out a totally unrelated word」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz, zzz, zzz... Hueh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Uh-oh, you went and said the name of food, so she woke right up」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sniff, sniff, sniff... The smell of sweets is getting closer」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could it be Misa-senpai? That's strange, Sister isn't here today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it's Nanaka? Wouldn't that be the logical guess?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Shut up. I was just throwing a guess out there」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heya! I came to hang out, Prez」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Both of those are misses, y'know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, I brought beef bowl coupons as a souvenir~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sniff-sniff, snuffle-snuffle」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ahyahahahaha! Roro-chi's sniffing me all over, it tickles~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「H-How could this be」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though you are Miss Bonus, you don't have the main sweets with you. How negligent!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I-I'm sorry... wait, huh? Why am I getting scolded?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawah!? Sniff-sniff-sniff, I was fooled by Miss Bonus. The scent of sweets is still rapidly approaching」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good work, everyone! Sorry I'm late」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sniff-sniff!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Snuffle-snuffle」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ubyaaah!? What do you two think you're doing, pressing right up against me!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Treasurer, you brought sweets as a treat, didn't you? In my estimation, it is sweet bread」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, I got a whole bunch of pretzels from Touka... wait a sec, are you a dog, Roro-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am not a doggy, I am an angel」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I knew it...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawawah, I am not an angel. I am just your run-of-the-mill human!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Munch, munch, munch ♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! You can have some, just make sure you ask permission before you eat」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I refuse. Nom, nom, nom\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not that kind of 'refuse'!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm saying don't just start stuffing your faces out of nowhere--let's make some tea and eat them together!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No sneaking bites! Pretzels for the two of you are temporarily confiscated!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aaaah~~!? G-Grrr! Woof woof woof, grrrrrrr!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awoo, awoo, woof woof woof!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-Now there are two dogs」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Misa",
+    "message": "「Here, I'm almost done brewing everyone's tea」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay, thanks, grumpy Misa-Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How rude. I can smile properly too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right, Sally-chan. Misa's smiling face is very lovely」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nnah!? Wh-wh-wh-what are you saying, Sakura-kun!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gulp…… haah~. The black tea brewed by the Vice President is exquisite」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you know? Even over-steeped tea leaves have a connoisseur's wabi-sabi to them」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They do not」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh……!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Misa, you forgot to brew a cup for one person」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, I'm fine. I have choir practice starting soon」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is that so? Sorry for making you brew tea when you're busy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's fine, doing this calms my mind. Thanks to that, I feel like I'll be able to sing with a good voice」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well then, excuse me for leaving first」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, good work--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have a good practice」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm off」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hm……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Munch munch munch♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nom, nom, nom\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gulp...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Glug, glug, glug」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You two are eating way too much. Let's save some for Misa too, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why? Misa didn't say she was coming back, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-well, yeah, that's true, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was thinking of going to observe the choir. While I'm there, I can hand over the pretzels too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Even though you've never had any interest in hymns, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, they're going to sing at the Holy Night Festival, aren't they? As Student Council President, I need to check in on how the choir is doing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't have to do that today, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I don't do what I can today, things will just get sloppy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「D-don't you have some kind of meeting with Lolo-chan and Sally-chan--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz, zzz, zzz~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Zzz, zzz, zzz」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「T-these girls...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Eat, then sleep! Man, I wanna live like them too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright then, I'm heading over to the church」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I'm coming too! As the Student Council treasurer! That's fine, right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I never said you couldn't come in the first place, did I?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「R-right, you didn't. Tehee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「???」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why'd you go quiet, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Haha, hahahahaha... Can I ask you one thing? Synn, could it be that you've got a thing for Misa?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, uh, let's see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, since Shio-chan is an exorcist shrine maiden of 'Ki', Misa might have 'Ki' too, seeing as she's related to the Asukai family」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with that half-baked evasion! Whenever I asked you this kind of question before, you always flat-out denied it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the one acting weird, Nanaka. Getting mad over something like this is a first for you. What's gotten into you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nothing's gotten into me! And it's not a first either!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I've always been like this since way back when, today's just the first time I'm getting all huffy about it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're contradicting yourself because you're mad, aren't you? That's why I'm always nagging you to drink your milk...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not a calcium deficiency!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, if it isn't Synn-dono and Nanaka-dono. Where might the two of you be headed together?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're going to the church to see the choir」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh, what a coincidence. As am I」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, that's unexpected」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I was influenced by my elder sister, you see」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When feeling down or lost on the path one should take... listening to the choir's singing calms the heart and makes for a splendid change of pace」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that right? Let's hurry up and get going then, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up, you culprit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you saying I even did?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I'm so ticked off! I'm as super-duper ticked off as when I realize the decorations on sweets aren't edible!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What did you say!? To think she is in such a towering rage!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really get that comparison, though...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「There is no time to explain! Let us convey Nanaka-dono to the church at once!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Alright, you're on, Nanaka. Let's race to see who gets to the church first」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat, a race?! Don't go mistaking me for someone else!」"
+  },
+  {
+    "message": "While soothing an angry Nanaka, we head to the church--"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz, zzz, zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listening to the hymns put Paqy right to sleep.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What a peaceful sleeping face. It is no wonder.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It really did calm me down. Staying mad is starting to feel silly.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I don't know what happened, but just forget about trivial stuff like that.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not trivial at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-She's mad again...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sorry to keep you waiting.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I never expected everyone to come listen.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's nothing you need to thank us for.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, thanks to you all, the choir kids had just the right amount of nerves and sang better than usual.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Here you go, Misa.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz, zzz, zzz...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're giving me Paqy? I'll gladly accept!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sister, even for a misunderstanding, that is stretching things a bit far...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, I'm only joking. You brought sweets, didn't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you had emailed me, I would have gone back to the Student Council room to get them.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still... *munch, munch, munch*」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Sister!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, why are you so surprised?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「This is the first time I have ever seen Sister eating while standing.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's fine every once in a while! I sang a lot, so I'm hungry. *Munch, munch, munch*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, sorry I didn't think of that! I should've brought some black tea in a thermos.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, they're delicious just as they are」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Everyone, eat up too. It's more delicious that way, and they do say there's good fortune in leftovers, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, these are sweets left over from Chocolat l'Or, and then left over again in the Student Council room. They must be packed full of happiness and good luck.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't make 'em sound like table scraps! Pretzels were originally made from leftovers, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Back in the day, churches used to make bread and wine, and it all started when a priest made a treat out of the leftover bread dough, I'm telling ya」"
+  },
+  {
+    "name": "Shio",
+    "message": "「You are quite knowledgeable, Lady Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When it comes to sweets, just leave it to me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Chomp, chomp, nom, nom. Huaa~ So this is the taste of good fortune, is it? Though I can't really tell the difference」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Lolotte, why are you here?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Listen to this, Mr. President! Miss Omake is fast asleep snoring away in the Student Council room. She really is hopeless」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, no, no? Munch, munch, munch」"
+  },
+  {
+    "message": "Chatting happily together, everyone polishes off the pretzels."
+  },
+  {
+    "name": "Shio",
+    "message": "「I have made a new discovery」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eating sweets together after listening to a hymn soothes the soul even more than usual」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, I can't really put it into words either, but it feels really nice」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's weird... Even when I listen to hymns on CD or TV, it never feels like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it's because we got to hear her singing voice live?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez, even if you flatter me, I'm not going to give you anything!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「So close... Sir Synn, that is a remarkably close deduction」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The true answer is precisely because it was my elder sister, you see?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My sister has submitted numerous poems to magazines and received high praise from various esteemed teachers」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Putting heartfelt emotion into lyrics while singing is an effortless feat for her」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--waa--waaaah! Shio, don't go blabbing unnecessary things!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun and Nanaka-san, forget what you just heard right now!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why? I think it's amazing. Nothing to be embarrassed about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa submitting poetry? Oh, I get it, salaryman senryu, right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey! Just what kind of girl do you think I am, Sakura-kun!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see, to me, Misa is--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-Don't say it!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey Synn, what about me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Soba」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-She hit me. With a fist...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is only natural」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, I'm jealous of the relationship between you and Nanaka-san, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your relationship with Shio-chan is wonderful too, Misa. You two are sisters, master and disciple, and best friends, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not what she means. Just how dense can this guy get」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Anyway, I get that Misa has a really pretty singing voice」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd like to try singing too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahahaha, there's no way you can do it, Synn」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's true... Though if I could sing with a boy, it would make the ideal tone...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「M-Misa...? You're not actually serious, are you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun wishes for it, after all. Having the drive to improve oneself is a wonderful thing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, hmm... Even if we can play the melody, the lyrics are difficult」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, hymns do have a stiff image」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H―Hey, Synn! Misa's the captain, so talking like that is―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, it's a valuable opinion」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For our―for everyone's true selves, I want to make it a song that not just Sally―san of the demons, but all kinds of people can sing across races」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, I'll try singing it by ear as a total amateur, picturing Misa while I do」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, let me hear it. I'll use it as a reference」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahem…… 」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hogeh～～～♪　Boeh～～～♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How rude!　I didn't sing anything like that!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Whoa…… Despite excelling in academics, it seems true that heaven does not grant two gifts to one person」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I already knew, but to think it had gotten this bad…… 」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hogeeh～～～♪　Boeh～～～♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You too, Lolotte, don't imitate it while looking so happy!!」"
+  }
+]

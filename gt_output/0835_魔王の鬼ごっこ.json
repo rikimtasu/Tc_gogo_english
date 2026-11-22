@@ -1,0 +1,827 @@
+[
+  {
+    "message": "魔王の鬼ごっこ"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, looks like everyone's here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's the big idea, calling us in the middle of Student Council duties?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Actually, we just got a report from a student that a demon was spotted on campus」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It was big and black! Floating all fluffy-like and going 'eee-eee-eee'!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, there's no mistaking that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So it's time for the Crusaders to step in, then!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With that said, let's start searching!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!」"
+  },
+  {
+    "message": "Splitting into two groups, we patrol the campus."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Yawn*~ This is so boring~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We literally just started」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm starting to get sleepy, so why don't we call it a day around here?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Where did all that enthusiasm from a minute ago go?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, she did work hard on her secretary duties today, too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right~?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even so, don't spoil her, Sakura-kun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's one thing and this is another--both of them are important」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When you put it like that, you're completely right, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. Though I suppose I should say, 'Big Sister is completely right'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What, so you're just parroting her too, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I genuinely think so myself, too!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz~......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't fall asleep!」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It appeared!」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aah, it's going to get away!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's chase it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...U-Um, hold on a second」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it's fine if we just let it go like that」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haa!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It didn't look like it was doing anything bad...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure it was just sleeping and got startled awake by your loud voice, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sorry for being so loud!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, as the President says, a merciful heart may also be necessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, having a demon on the academy grounds is already a big enough problem, isn't it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If we leave it alone, there's no telling when the students might be put in danger」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then we have no choice but to punish it! Let's go!」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haa, haa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's pretty nimble...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How far are we going to chase it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How should I know! Go ask it yourself!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huff, haa...」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're gonna get outside the academy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, if that's the case, isn't that convenient?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huff, puff......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, are you okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「P-President, Vice President, you both run so fast~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, the Demon is flying, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It can't be helped. Sakura-kun and I will chase after them from here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san, please go inform the upperclassmen」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「R-Roger that~」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold it right there!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait up!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Kyaa!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, Sakura-kun!? What are you doing, are you alright?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Ugh......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ow-ow-ow!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Oh my? Isn't that Macaron-san?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey there, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nngh, geez, Big Brother! What are you doing in a place like this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, well, a lot's going on...... What about you, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm on my way back from my part-time job」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wait a second, you guys were bullying a Demon again, weren't you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-um, it wasn't bullying...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Muuu--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... S-sorry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun, pull yourself together! You're the Student Council President, aren't you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, I'm so ashamed...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「R~eally, I can't believe the Student Council President broke his promise」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh? Well, yes」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I must admit there are somewhat problematic aspects to Sakura-kun's qualifications as Student Council President」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Bullying is totally uncool, right~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, completely」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Macaron-san, you actually understand things quite well」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, yeah!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun really ought to taste a setback for once」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Inciting Demon bullying is totally unforgivable, right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "What is with this hostile atmosphere."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, you're such a hopeless big brother. Nihihi!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-hey, Macaron, stop poking me...」"
+  },
+  {
+    "message": "And with the tip of a sword, no less!"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's been obvious for a while now, but you really are a hopeless Student Council President, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow, ow! Stop pinching me, Misa!」"
+  },
+  {
+    "message": "Is this really my fault?"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? Ah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's gone! It's gone! The milk I had in my pocket!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That kid took it!」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-When did that happen...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Maybe you dropped it when you bumped into each other earlier...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez! This is all your fault, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Sorry.」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, hold on a second!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, Big Brother, chase after it too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah. Stop right there!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, Sakura-kun!? Where are you going!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Grrr! Give it back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Stop!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother! Chase it more seriously!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes, ma'am!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Stop right there! If you don't stop, I-I'll punish you!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, we're not playing around here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is it saying?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uh... um...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It says they've been playing tag for a while now...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And since nobody was catching it, it decided to pull a prank...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so it just thought we were playing.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Sorry, Big Brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What for?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You weren't bullying that kid after all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, yeah, well」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe. No good, a great Demon Lord shouldn't be jumping to conclusions like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think everyone makes mistakes sometimes」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even you, Big Brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pretty often, actually?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nothing, really. Just thinking you're not all that impressive either, Big Brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's definitely not nothing...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, hurry up, or it's gonna get away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, hey, don't push!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huff, huff, finally, caught you!」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Ee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, give Macaron back her milk」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Ee」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You drank it all while running away...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How dexterous can you get!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Grrr! Drinking the great Macaron's milk without permission!」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Ee...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Listen up! You know, even with pranks, there are ones that are okay to pull and ones that aren't, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pranks that are... okay to pull...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uh, well... like putting ice down someone's back, or giving them a jack-in-the-box」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So stuff like that is okay, huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「See, nothing goes missing or anything, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Plus, if you say you're sorry, they'll forgive you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you've done it before」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wha--!? No, no! I've never done it! Something so childish!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, so even Macaron has a surprising side」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ngh~ geez!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Anyway! You mustn't do things that bother other people, got it?」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Ee」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Good, as long as you understand」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Here, you can go now」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Next time, play somewhere safer, okay~」"
+  },
+  {
+    "name": "Zetton",
+    "message": "「Ee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I wonder if they really understood?」"
+  },
+  {
+    "message": "I'd really prefer it if they played somewhere less conspicuous, though."
+  },
+  {
+    "name": "Macaron",
+    "message": "「What a mischievous kid」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Though chasing after them might've been a waste of effort」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Awh... I wonder if I still don't have enough charisma...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Worrying about things like that is the same for both humans and Demons."
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh... this is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can have it. I still have plenty left for today」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Th-thank you, Big Brother!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It'd be rude to your kindness if I held back, so I'll gladly accept it for you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, thanks」"
+  },
+  {
+    "message": "Somehow, this feels weird."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Looks like... I owe you another favor, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine, don't worry about it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No way!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I don't settle these things properly, I won't be able to save face as the Demon Lord!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Really?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, but this and bullying demons are two completely separate things, got it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'll be careful...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah. Well then, I'm heading home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Take care」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You too, big brother. Bye-bye!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bye-bye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Come to think of it, where does Macaron even live?"
+  },
+  {
+    "message": "Maybe I'll ask her next time."
+  },
+  {
+    "name": "Misa",
+    "message": "「Heyy! Sakura-kuun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... I totally forgot about everyone...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kuun! Are you okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bring it on! Where'd the demons go?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hwah, hyaah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Peace really is better than fighting, isn't it."
+  }
+]

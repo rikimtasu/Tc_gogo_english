@@ -1,0 +1,571 @@
+[
+  {
+    "message": "発足!! 流星生徒会"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did we beat it... or did it just run away?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They're getting stronger and stronger... If this is also because of Re-Crea...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could this actually be a massive victory?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder what would have happened if you weren't here, Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「President, we won!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As expected of the Student Council President... Being able to transform and fight like that, you really are amazing...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aha... Ahaha~~\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「President, what on earth is going on here?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh. Right to the point...\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You called them 'Demons' and all that, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And you were listening carefully, too...\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It doesn't seem like today was your first time doing this, President.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Yeah. Demons come over to the Human World like this every now and then to cause trouble.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Human... World?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh dear\\s01」"
+  },
+  {
+    "message": "She spoke as if there were other worlds out there."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you fighting those Demons, President...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Umm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And what about this Rosary?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh... Mmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I'm sorry! Was that something I shouldn't have asked...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn... Are you angry by any chance?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all!! You're the Student Council President, so a little mishap like this is only natural!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...I'm sorry.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll explain everything tomorrow.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「For today... I'm really sorry.」"
+  },
+  {
+    "message": "In the end, I wasn't able to ask her anything after that."
+  },
+  {
+    "message": "There was no way I could press her when she looked so serious."
+  },
+  {
+    "message": "Besides, her house is right next to the academy. Before I knew it, we were saying goodbye."
+  },
+  {
+    "message": "Still, Senpai... was so cool. She's usually so laid-back, but when she fights, she's so dignified."
+  },
+  {
+    "message": "Compared to her, I was just moving my body like she told me to--it couldn't be more uncool."
+  },
+  {
+    "message": "I guess as Student Council President, you really have to fight people who disrupt the academy's peace like that."
+  },
+  {
+    "message": "Is this the gap between me and the former President? Phew... the path of a Student Council President is steep indeed."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Ah... h-huh...?」"
+  },
+  {
+    "message": "Now that the relief is setting in, my legs are shaking."
+  },
+  {
+    "message": "Of course I'm not okay after fighting a monster like that."
+  },
+  {
+    "message": "Even a grown man would be terrified! Ahahaha..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!」"
+  },
+  {
+    "message": "A chill went straight down my spine! Don't tell me... is it another one of those demon things?!"
+  },
+  {
+    "message": "I have a really, really bad feeling about this!\\s01"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, no way! I definitely can't handle this alone!」"
+  },
+  {
+    "message": "I bolted like a scared rabbit."
+  },
+  {
+    "name": "Girl",
+    "message": "「～～♪　～～♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Ahhhh!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Ouch!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Ow-ow-ow... Where do you think you're flying around to?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I'm so sorry, I'm so sorry, I'm truly very sorry!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Geez, look where you're flying around next time!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Huh... Is this a wallet?」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Could this be filled with meal vouchers?!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Yeehaw! Gyudon♪ Gyudon♪ All-you-can-eat--」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Mmm... mmm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa...」"
+  },
+  {
+    "message": "We should be safe here. Probably."
+  },
+  {
+    "name": "Girl",
+    "message": "「Hey!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeeek!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Why is this wallet completely empty?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hiii, I'm sorry! I'm so sorry! I'm still a rookie Student Council President, so please forgive me!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「I thought they were meal vouchers, but it's just scraps of paper!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have a bad habit of keeping all my receipts, I'm really sorry!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Gosh! Make sure you put real meal vouchers or something tasty in there next time! Here!」"
+  },
+  {
+    "message": "Huh... is this my wallet? Did I drop it when we bumped into each other earlier?"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... you came all this way to return it to me. Thank you.」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Bye-byee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Her little wings on her back moved... and she's flying in the sky?"
+  },
+  {
+    "message": "I rub my eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's amazing... A girl is flying just like a bird.」"
+  },
+  {
+    "message": "Aerodynamics would be turning pale."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, why did she get mad at me anyway?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm home--」"
+  },
+  {
+    "message": "I quickly lay out my futon and collapse forward onto it."
+  },
+  {
+    "message": "While there were fun moments in their own right, the day was mostly filled with unexpected mishaps."
+  },
+  {
+    "message": "But I'm sure even better things will happen starting tomorrow. After all, I'm the Student Council President."
+  },
+  {
+    "name": "Synn",
+    "message": "「Student Council President... huh.」"
+  },
+  {
+    "message": "I pick up the Rosary, the proof of my role, and gaze at it."
+  },
+  {
+    "message": "The words to summon the angel don't come to mind. It seems it's not something you can just transform with out of mere curiosity."
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if I'll get to see Senpai's transformed state again...」"
+  },
+  {
+    "message": "Like I said, that's no good!"
+  },
+  {
+    "message": "　That's not where the fun of being Student Council President lies!"
+  },
+  {
+    "message": "Ah, thinking about weird stuff like this must mean I'm tired."
+  },
+  {
+    "message": "Now that I'm Student Council President, I guess I don't need to prep or review for class anymore..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Good job today, self.」"
+  },
+  {
+    "message": "Dreaming of a rosy life, I close my eyes."
+  },
+  {
+    "message": "Fufufu... Being able to go to sleep early, long live the Student Council President... zzz."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... Who is it at this hour...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Coming~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who is it~?」"
+  },
+  {
+    "message": "Huh, there's no one here. I don't think anyone would play a prank like this, though."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh?」"
+  },
+  {
+    "message": "There's quite a fancy package sitting right at my feet. It's even neatly gift-wrapped."
+  },
+  {
+    "name": "Synn",
+    "message": "「Could this be... a present for the Student Council President?」"
+  },
+  {
+    "message": "Since it was left right in front of my room, no doubt about it!"
+  },
+  {
+    "message": "Unable to contain my impatience, I open it right then and there."
+  },
+  {
+    "name": "Plushie",
+    "message": "「Don't play with meee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, the plushie talked!」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「*gasp* *gasp*... Ruining someone's big grand entrance, you really are the Demon Lord...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Someone'? No matter how you look at it, aren't you a plushie?」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「Yeah, I'm a plushie. And even though a plushie is talkin', you didn't even let out a single 'Gaaah!' As expected of the Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... Normally I might have been surprised, but something even more surprising happened to me today.」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「Oho, like what?」"
+  },
+  {
+    "message": "I try giving a brief summary."
+  },
+  {
+    "name": "Plushie",
+    "message": "「Kukuku... As expected of the Demon Lord. You're already attractin' angels and demons.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've been wondering for a while now... Who is this 'Demon Lord'?」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「The Demon Lord is the Demon Lord. The king of demons is obvious--it's you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Angels and demons. And I'm the king of demons? That's ridiculous.」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「I mean, look at what's been happening around you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Angel wings. Fighting demons. Flying girls."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Good point.」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「See? Just like I said. As expected of the Demon King!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And who are you supposed to be? I doubt you're just an ordinary plushie.」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「As expected of the Demon King! Looks like you've already seen right through me and realized I'm a venerable familiar.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A familiar? Who on earth are you?」"
+  },
+  {
+    "name": "Plushie",
+    "message": "「I am the supreme familiar who has served the Demon King for generations--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The Great Sage Paqy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get it!　"
+  },
+  {
+    "name": "Synn",
+    "message": "This is a dream!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't start saying it's a dream now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait a second. If this is a dream, then me becoming the Student Council President is also a dream.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that mean my rosy academy life is just a dream, too?! I will never accept that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa, whoa. Calm down, Demon King.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I became the Student Council President starting today, and on top of that, I'm a Demon King...? Me, the King of Demons?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bwahaha! I am the Demon King!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eek! I'm gonna be eaten up in a fun and delicious way!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Echoing through north, south, east, west, the four seasons, and the five elements! Evil spirits, begone!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In this battle... I'll stop you, even if it costs me my life!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I... feel so super thrilled and excited all of a sudden!\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no way that's happening...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heheh... To plunge into such evil delusions just at the mention of being a Demon King--as expected of the Demon King! You've truly inherited the Demon King's blood.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?! Are you saying my dad is the Demon King?!」"
+  },
+  {
+    "name": "PA / Announcement",
+    "message": "「The number you have dialed is currently unavailable due to the subscriber's circumstances.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, I haven't paid my phone bill.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Refusing to believe a single word anyone says... Heh heh heh, as expected of the Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't you just a plushie?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's from Dad.」"
+  },
+  {
+    "name": "Kyuu-chan",
+    "message": "「Squeak, squeak!」"
+  },
+  {
+    "message": "Kyuu-chan, the carrier bat, flies in through the window. Shin takes off its leg band and reads the letter."
+  },
+  {
+    "message": "『Starting today, you are the Demon Lord. I sent you a familiar, so I'll leave the rest to you. From Dad.』"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way... Me being the Demon Lord was actually true...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Student Council President who protects the peace of the academy is the King of Demons who disrupts the peace of the academy...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What should I...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What on earth am I supposed to do~~~~!」"
+  }
+]

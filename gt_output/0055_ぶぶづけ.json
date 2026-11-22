@@ -1,0 +1,1432 @@
+[
+  {
+    "message": "ぶぶづけ"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. I had no idea there were this many clubs.」"
+  },
+  {
+    "message": "Piles of ledgers, receipts, and bankbooks stacked on the desk."
+  },
+  {
+    "name": "Misa",
+    "message": "「...What on earth does the 'Thick Roots Society' do?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「These are all the sorry remnants of cash. In other words, this is what you call 'the aftermath of warriors' dreams.'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, audit time, audit time!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are we supposed to do with these?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We cross-check them against each club's activities to see if there are any inappropriate expenses.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Got it! Alright, let's do this. My hands are itching to start.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai. What sort of expenses count as inappropriate?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How ignorant of you, Madam Vice President. Accounting is packed to the brim with the essence of a unique culture humanity has built up over thousands of years--things like double-entry books and slush-fund ledgers.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This one looks fine... Next is this one...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This actually happened before, but the karate club once bought tons of movie DVDs and manga using club funds, claiming they were reference materials.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a tough call. Stuff like that might actually be a little useful as reference.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But if we allowed that, then we'd have to approve every music-related movie for music clubs, and the same goes for sports clubs, as valid uses of club funds.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. You're a hundred years too early to be nitpicking what my dear sister says.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Also, if there's any club that hasn't submitted its accounting records...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If there is?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's a fundamental violation of the rules, so we'll immediately freeze their club funding without question and summon them right away to hear their explanation.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, no club has ever done that so far, so I don't think you need to worry too much about it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san. You seem awfully fired up, though wasn't yours the Sweets Appreciation Society? Don't tell me you forgot to submit your own group's accounts.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The Sweeets Appreciation Society! Not 'sweets'--'sweeets'!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Does that tiny nuance really matter?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, we're not an official club, so we don't get a single cent. I'd take it if we could, though. Sweeets are expensive, you know...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「All you ever do is eat, so of course you don't get any」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There are clubs doing the exact same thing that still get club funding, so it's totally unfair!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「To start off, I think it's best if you get a general grasp of Student Council activities, so let's go through them together」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you have any questions at all, just ask, okay?\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oka~y\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, look. I think this is kinda fishy. Actually, scratch that, it's definitely fishy」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let me see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Manga Research Club... Artist's mannequin. Those dolls you can pose in all sorts of ways, right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa. It's one of those naughty dolls that men use!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte, be quiet for a second」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't it totally normal? Even for manga, you know... you still need to practice figure drawing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like what?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shoujo man--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Never mind about that!\\s09」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If it's an artist's mannequin, we approved one last year too, so I don't think there's any issue」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The issue is the store they bought it from. It says 'Ponpoko,' right? They don't carry any art supplies there, that's the thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. Even if they carry a little bit of everything, it's still a toy shop」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「C-Could this be one of those adult toy shops famous for saying, 'No good boys and girls allowed. Wait until your Coming-of-Age Day'?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. They just stock whatever's trendy at the moment, right? And speaking of things around this price that they started stocking recently...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Wait a second. Is this that ridiculously expensive thing displayed in their front window?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The very one that made your jaw drop when you saw the price tag」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's what it was!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Going by the price, this isn't an artist's mannequin--what'd they call it, a figure? Looks like one of those cute girl dolls around thirty centimeters tall」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it definitely cost around that much」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If that's the case, this is an improper expense. I wonder if it was like this last year too... That's a bit of a shock」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They didn't sell stuff like that until last year, so I think it's fine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's confiscate it, make them return the club funds, and demote them to a hobby group. And in exchange--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How exciting. This is somehow amazing. I sense the aura of justice. I'm going to uncover some fraud too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's nothing amazing. You're just familiar with the shopping district, aren't you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... That's what you'd call the howling of a sore loser」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Urgh. Even though you look so cute...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Our job is to support everyone so they can enjoy their club activities, right? I don't think we need to be so authoritarian」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, let's have them pay back the embezzled club funds. Then we can evaluate their activities at the upcoming cultural festival and decide on their final punishment」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That sounds about right. They have a lot of members, so plenty of people would be in trouble if they lost their clubroom」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mgh... Well, if Senpai says so...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「True, that clubroom would be way too big for us anyway...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No problem here... none here... ah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is it an adult toy this time?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look at this. Right here under the Light Music Club's instrument expenses」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're quite ignorant, Treasurer. That's read as 'Yamaba Musical Instrument Store'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can read at least that much!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Old Lady Yamanba's place, huh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I know this shop, though. 'Yamaba Musical Instrument Store' is a secondhand instrument shop, right? I don't think it's strange for them to sell instruments」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Our school's music-related clubs always rely on them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, look at this amount for the instrument they bought the day before yesterday」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa. F-Five hundred thou--?! Amazing, there's so many zeros?! With this much, I could live for ten, no, dozens of years...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... You won't survive if you're getting dizzy over this much」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Since this is so expensive, it's a 5% subsidy instead of a full reimbursement, huh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Are musical instruments really this expensive? It certainly is strange」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. You're all so ignorant~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Humans are creatures who revere secondhand instruments used by rock stars and buy them at ridiculously high prices」"
+  },
+  {
+    "name": "Misa",
+    "message": "「From your guidebook again...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For once, I think she's actually right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ms. Treasurer, you're casually quite rude, aren't you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whether a rock star actually used it or not, just being the same model they played makes it 'vintage' and shoots the price way up. You see them displayed behind the register all the time, right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The souls of rock stars dwell within those instruments, causing them to play all on their own」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-Is that so...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There really is something skewed about her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can't be helped. She lived abroad for a long time, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is that really the issue?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Abroad, yes, abroad. Definitely not Heaven」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I don't think you need to go out of your way to say that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if it's only a 5% subsidy, I can't approve this. Confiscation. Club suspension. Demotion to a society」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What do we usually do in cases like this?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Normally we'd confiscate it, but--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We really ought to shut down insolent clubs like this and redirect the funds to societies that are actually working hard」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's pretty extreme. Sure, there was an issue with how they spent it, but I think that's way too harsh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Out of 500,000 yen, they paid 475,000 out of their own pocket, so it was probably really tough for them to save up that money」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why do you assume they earned it themselves? It could be counterfeit bills, fake promissory notes, or counterfeit dollars, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because even if you look at the Light Music Club's entire budget, they don't have anywhere near 470,000 yen」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The president of the Light Music Club is actually in my class... Until recently, she was working a part-time job at a nearby convenience store. Could it be...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She must have been working hard to save up money」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How has she been acting lately?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's been strangely giddy and restless, and it seems she heads straight to club activities as soon as classes end」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She must have been really happy about it. I bet she's playing it every day at club」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now that you mention it... it looks like she switched her part-time shifts to the weekends」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Probably because she's going to club on weekdays... Even if we'd left her alone, I'm sure she would have paid back the 25,000 yen」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why do you think she'd pay it back, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, she went out of her way to spend a huge sum of nearly 500,000 yen to buy it, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If there were even a tiny bit of fraud mixed in, it'd be like a single little dark cloud in a clear blue sky--you wouldn't be able to enjoy it from the bottom of your heart, and that'd ruin it, wouldn't it? Though maybe that's naive of me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even so, embezzlement is embezzlement」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since she submitted the financial report like this, I think she already expects us to find out about the discrepancy. So just being summoned by the Student Council will be enough for her to realize what it's about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why... when we summon them, how about we give the Light Music Club a grace period of about a week?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You intend to watch how she takes responsibility for the shortfall during that time, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. I believe she'll take responsibility by returning the missing amount, stepping down as club president, or something along those lines」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If she doesn't understand the gravity of what she's done and tries to play dumb, then confiscating it, suspending the club, or demoting them to a hobby society will be unavoidable」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. That sounds good」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Well, if Synn says so」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Impressive, Lord Synn. Showing off what a capable dictator you are, aren't ya?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I found one too! This is totally fraud!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's see」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right here, right here! Even though they're the Track Club, they've been guzzling juice like crazy. And they have the nerve to pay for it out of club funds」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, that's not fraud」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, pass the ones you're done checking over to me. Everyone else too」"
+  },
+  {
+    "message": "Nanaka's amazing. She's still checking them even while talking."
+  },
+  {
+    "message": "Whoa. Her hands are flipping through the documents so fast!"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, yeah. Here you go. Still, what's going on here? Buying juice for the Track Club is bad, right? Even if it is an energy drink」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's got a name like juice and it's technically a liquid, yeah, but it's not juice. Apparently it's some kind of protein drink that promotes muscle growth」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, Nanaka. These are the ones I finished checking」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How do you know about that stuff, though?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eddie's in the Baseball Club, right? Well, he said they drink the exact same thing as the Track Club」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He said it's thick and sticky, leaves a nasty aftertaste that lingers forever, and makes your mouth feel all scratchy and gross」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. That would be what you call 'doping,' which always accompanies human sports」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And that's the last one. Check complete」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So fast!? Are you really done?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph. Don't underestimate the great Nanaka, who checks her shop's accounts every single day!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Making Nanaka-chan the treasurer really was the right call」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I wasn't the one who made her treasurer」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan became treasurer because you ran for Student Council president, right, Synn-kun?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's, um... you know! Just one of those inescapable bonds?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn's so unreliable you just can't leave him alone, right?\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I mean, none of that matters anyway. Now, this is the last suspicious item」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Gardening Club?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I looked at that one, though... I don't think there was anything strange about it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Looking at each expense individually, sure. There's nothing unrelated to gardening」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then there shouldn't be any problem... Still, there must be a reason you're bringing this up, Nanaka-chan.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes. When I total up the expenses on the receipts, it's higher than what's recorded in the ledger.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Time for secret ledgers and double-entry bookkeeping to take the stage!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean they're embezzling... No, that's not it. How does the ledger look?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That part's fine. They're spending strictly within budget.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So... when they got the receipts issued, they had them made out to the Gardening Club, meaning receipts they never billed to us got mixed in?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Still, if they're paying out of their own pockets, I don't see the problem.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Have any of you ever seen where the Gardening Club actually operates?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All I really remember is a bunch of vinyl greenhouses lined up...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I did a three-day trial membership, and that place is amazing. The temperatures inside all ten greenhouses are completely automated by computers.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Um, there's even a research lab you can't enter unless you sanitize your body, and I also got to eat grapes and peaches grown in the greenhouses. They were delicious.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It sounds like you had quite a lot of fun... so why didn't you join?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because taking care of plants and stuff looked like too much work.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Amazing you ever felt like joining the Student Council, then.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm always raring to join anything that looks interesting. In other words, nothing ventured, no \\{orphan|\\s12\\s12} gained.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ten greenhouses? I'm pretty sure there were only three last year... And there wasn't any research lab like that either.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I knew it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Knew what?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Vinyl greenhouses and a research lab you have to sterilize yourself to enter--I think that costs a ton of money. Way more than we could ever cover just working part-time jobs.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So they're securing funds through some other means besides their club budget...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「More like, I think they're spending huge sums that don't even compare to the club budget.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because among all these receipts, there wasn't anything that looked related to vinyl greenhouses or a research lab.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though they were supposedly built this year, isn't it weird there's nothing here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like we're going to need to call them in.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But I wonder if this actually counts as fraud? It's not like they're causing any harm to the academy. Nor are they overclaiming their club budget」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Club activities are part of academy life, after all. Even the club budgets come out of our tuition, so having large sums of unaccounted-for money moving around like this isn't good」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, if they can move that much money around so easily, there might not even be a need for the academy to give them a club budget at all. We could redirect that money to other clubs……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no point getting ahead of ourselves. For now, we investigate where the money came from」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pretty sharp there, Soba. Guess swiping loose change from the soba shop register ain't just for show」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyone who spouts baseless nonsense like that gets this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You already did it before you even said that」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……It finished faster than expected」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though there was so much of it, it was over in the blink of an eye」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Unlike a certain someone, it seems the treasurer is actually competent」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Vice President. I don't think there's any need to put yourself down like that」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I never said I was talking about myself!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「All that's left is to summon the clubs suspected of misconduct. At this rate, I can safely leave the accounting to you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, though Synn-kun, I'm going to step out for a bit to look back through the Gardening Club's past accounts. Come to the next room if anything comes up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes, understood」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I shall assist you as well♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank you. But sorry. If there was a mistake last year, the previous Student Council has to take responsibility for it」"
+  },
+  {
+    "message": "Now that it's been entrusted to me, I have to stay sharp."
+  },
+  {
+    "name": "Synn",
+    "message": "「The ones with issues were the Manga Research Society, the Light Music Club, and the Gardening Club…… We're good with the plan we just discussed for the Light Music Club, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't really understand it all, but I think it's best if things can be settled amicably」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister agreed to it too, so there's no problem」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about you, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……Seems fine to me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're looking over the documents again…… Is something bothering you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, I don't think there's any problem with just calling in those three clubs...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, wait a second!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A classic reaction right as we're about to wrap up. So this is what they call a great detective」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't talk like Helena-san」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I knew it... I knew it... It's not here. Not here at all. Hehe」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hehe?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did a club fail to submit their documents?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The 'Wagashi Club' is missing! Not here! Account books, receipts, bankbooks, none of it was submitted!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why do you look so happy about it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-An ally of justice naturally rejoices when they uncover corruption!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We need to summon them immediately for interrogation, torture, confession, trial, and punishment! Freeze their club funds, confiscate their clubroom, and demote them to a society!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, you really do look happy...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Even if it's just the tiny authority of a Student Council, power is a seductive demon. Madam Treasurer is drunk on the euphoria of wielding her authority」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Am not! It just proves what I've suspected all along」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They're always stuffing their faces with expensive wagashi, looking ridiculously well-off, and their president is a nasty piece of work who acts all high and mighty」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Meanwhile, we're over here scraping by on our measly pocket money doing the same sweets-related activities, so I've been wondering for ages why things are so unfair, and now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「To think they were cooking the books so badly they couldn't even submit them to the Student Council--I bet they were embezzling club funds for those sweets all along. I've finally caught them red-handed!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...That's a personal grudge」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Definitely a personal grudge」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That sounds like nothing but a personal grudge, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「M-My heart is simply burning with justice! We ought to demote those guys to a society and promote a hardworking sweets-related society to full club status in their place」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like the Sweets Society, for example?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Exactly」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I mean, it's just that there aren't any other sweets-related societies, okay? There's no ulterior motive here, none at all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「'A heart of justice,' huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It sounds like nothing more than personal greed to me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Buy your own damn sweets with your own money, soba」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-They definitely haven't submitted their financial report, so it's obvious they're committing fraud!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「To begin with, I always thought it was weird they got full club status without even having a clubroom, and the way they're always showing off by stuffing their faces with expensive-looking wagashi at Prier is so obnoxious」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And all that 'yer welcome' and 'is that so'--sure, it might've been the capital in the old days, but I couldn't stand that attitude of talking deliberately slow to look down on people either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, she's already retired and probably isn't the president anymore, so it's a tiny bit disappointing I can't string her up for it, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's the big deal about wagashi anyway? Sure, some of them are good, they are, okay, but Western sweets are delicious too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...It really is just a personal grudge」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It really is just a personal grudge, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It really does sound like nothing but a personal grudge, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up! I might not entirely refuse to admit there's a tiny bit of a personal grudge mixed in, maybe, but fraud is fraud, and justice is justice!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And that does it for the paperwork to freeze the Wagashi Club's funding」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was fast!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, I'm going to summon them!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Nanaka!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And she's already gone...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are we supposed to do now?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, fraud is fraud, and justice is justice. Render unto Kasael the things that are Kasael's」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You mean \\{frog|\\s12\\s12}」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. Regardless of the circumstances, it's a fact that they haven't submitted it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Will the representative of the Wagashi Club, or their proxy, please report to the Student Council room immediately」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I repeat. Will the representative of the Wagashi Club, or their proxy, please report to the Student Council room immediately」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was fast」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So she's competent when personal grudges are involved……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think she's competent as treasurer even when personal grudges aren't involved, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Summoning someone! It's kinda like the KGB, so cool!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't lump her in with the secret police. I do think she's competent, but personal grudges are definitely involved in this case. Without a doubt」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I don't think there's any problem with calling them in. We have to hear what the situation is, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What do you mean you summoned the Wagashi Club's representative!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heh heh heh. I went right ahead and called them over!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai. The Wagashi Club is……」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「Wagashi Club, at your service」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was fast…… It's open, so come on in」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「Excuse me for intruding」"
+  },
+  {
+    "message": "The person who appeared was an upperclassman one year above us whom I had seen a few times before."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why is Bubuzuke here!」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「Well, well, if it isn't the president of the Sweets Society. It's been quite a while」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not that I wanted to see you, though」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「Oh, what a cold person you are」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Too bad. Weren't you supposed to have retired?」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「My post-graduation path is already decided, you see, so I haven't retired just yet」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……Well, whatever. You're actually more convenient for me」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「Now, now, there's no need to welcome me so warmly」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not welcoming you」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「Well, isn't that just fine in its own way?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You two know each other?」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「We are acquaintances who know each other terribly, deeply well, right down to our very cores.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't say gross things! You and I are enemies, enemies!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's just Japanese sweets versus Western sweets anyway, isn't it?」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「My, you're quite the troublesome person too, aren't you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Troublesome?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, let's see. If I remember right, it means a complicated or difficult person, I think?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See what I mean? I hate how she uses this roundabout way of talking to secretly talk behind your back even when she's standing right in front of you.」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「I'm an honest person, you know.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In what world!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um. Thank you for going out of your way to come here. For now, please have a seat right there.」"
+  },
+  {
+    "name": "Female Student",
+    "message": "「How very polite of you, thank you kindly. I was starting to think we'd be carrying on this whole conversation standing up. Well then, I won't hold back and will gladly take a seat.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the president of the 'Wagashi Club'」"
+  },
+  {
+    "message": "The woman in front of us brushed back her long hair before answering."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ayane Misasagi is me. I heard you had some business with the 'Wagashi Club', though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misasagi, as in...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, that Misasagi.」"
+  },
+  {
+    "message": "If she's a Misasagi, does that mean she lives in that massive mansion!"
+  },
+  {
+    "message": "When that mansion was built about three years ago, my milk delivery route had to take a big detour, and it was tough getting used to it..."
+  },
+  {
+    "message": "Paying no mind to us being surprised and lost in our own thoughts, Nanaka――"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Your club is doing fraudulent accounting, isn't it!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now let's see... whatever could you mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I've thought it was weird for a while now. Stuffing your faces with expensive Japanese sweets day after day after day--I wondered where on earth all that money was coming from, and now I get it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Couldn't she just be getting a huge allowance...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The mystery is completely solved! If you're embezzling club funds, then there's nothing strange about it at all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, hey, Nanaka-chan\\s01」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You're free to jump to all sorts of complicated misunderstandings all by yourself, dear, however...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Having baseless rumors spread around in public is a nuisance to all our club members, so you won't mind if I set the record straight, will you」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Those expenses all came straight out of our own pockets」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't lie at this late stage, quit lying--even I know how expensive wagashi are」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They're so tiny, yet you can buy several sweets for the price. There's no way that's just pocket money」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nana--」"
+  },
+  {
+    "message": "Misasagi-senpai hid her mouth behind her folding fan and let out a soft chuckle."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, we would never do anything so underhanded」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Besides, to truly savor sweets from the bottom of your heart, it has to hurt your own wallet a little」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Precisely because it hurts your wallet, you can savor the sweets from the bottom of your heart」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Free or paid, the taste is the same! Or rather, I'd much prefer something easy on my wallet!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Saying you can't properly critique the taste without paying for it disqualifies you as president of a sweets-related club」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Isn't that perfectly fine in its own way? We are us, and others are others, after all」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Though I did hear that when you eat sweets, you also make it a principle to hurt your own wallet」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, yeah, that's true, but」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Then, since we've reached a nice punchline, shall we call it a day?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Hey, you. You haven't answered properly at all」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... You're only noticing now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Weren't you noticing and just enjoying the show?!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Indeed. Perhaps you're right. Even so, when someone says something so absurdly careless to me, I haven't the faintest idea how I ought to respond」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then brace yourself, 'cause I'm gonna lay it out so flat you won't have a single word to say back! Neither the account books, the bankbook, nor the receipts have been submitted from the 'Wagashi Club'!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, of course. Naturally. Since we haven't submitted them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you don't submit them, there's immediate suspension of club funds...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know full well there are penalties like demotion from a full club to a society, yet you still don't submit them--that means you've got something shady you can't possibly hide!」"
+  },
+  {
+    "message": "Misasagi-senpai held her opened folding fan to her mouth and pondered for a moment, before."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I wonder what sort of undeniably shady things you mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Obviously, taking advantage of your club budget to stuff your faces with Japanese sweets! Come on, spill it!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh, scary. We aren't doing anything of the sort, though--is that what you're planning to do once your Sweets Society gets promoted to a full club?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, we're us and others are others, so I suppose that's fine in its own way.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-wh-wh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As if I'd ever think of doing something like that!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You might not know this, but the Student Council has a super important position called Treasurer, and apparently they make sure nobody can pull off such \\{greedy|あこぎ} stunts.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It's a waste of time even thinking about it, so give it up.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I AM the Treasurer!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Really!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Haaah. Well, well... is that so? Do your very best, then.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan. Listen, um...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Besides, I'm terribly sorry to say, since we don't receive any club budget, we don't even have any account books, receipts, or bankbooks to submit in the first place.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh... No way. I mean, you guys are an official club, aren't you!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We're a society.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai. Is that true?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. It's been like that for ages, I think...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「From what I hear, way back when, we had an exchange with another academy's Tea Ceremony Club.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「The board chairman at the time thought it wouldn't look good if the two sides weren't on equal footing, so they granted us official club status in name only.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ever since then, we've been treated as an official club.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I tried to tell her so many times... and you kept cutting me off every single time. That's so mean, Ayanishiki-chan\\s06」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Forgive me, Ria. It's just so fun teasing this one, I couldn't help myself. I really do run my mouth too much.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That concludes our business, yes... Now then, might I take my leave?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. I understand completely. Sorry for calling you out all this way.」"
+  },
+  {
+    "message": "Senpai Misasagi snapped her folding fan shut with a crisp sound--"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Think nothing of it, as that is your duty, after all. My apologies to you as well, Miss Treasurer. Pardon the intrusion.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's why I can't stand that woman. She's seriously nasty.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's because you don't listen to what people are saying.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, she was subtly cutting her off, so it couldn't be helped.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I feel like I lost...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Being Japanese sweets versus Western sweets, they naturally don't get along. Is this what they call 'getting along like fish and water'?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No... If anything, wouldn't it be 'a clash between a dragon and a tiger'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't know, so it couldn't be helped. Besides, I think you did a splendid job as treasurer.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-You think so? Ehehe」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Impressive as always, Lord Synn. Following up to lock down even a girl you've already bagged--you've got her wrapped right around your finger.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It was my fault too for not mentioning there were exceptions for club activities.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We still have to call in the other clubs. I'm counting on you, Nanaka.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you sure? Counting on me, I mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course I am.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, leave the accounting to me!」"
+  },
+  {
+    "message": "Yeah. Nanaka really is best when she's full of energy."
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "message": "歩こう"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I've been waiting for you, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for having me again today.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes.」"
+  },
+  {
+    "message": "Over the past week, I'd been getting special training from Melilot-san while juggling my Student Council and library duties."
+  },
+  {
+    "message": "As for today, our day off, one thing led to another and we ended up doing a one-on-one training session."
+  },
+  {
+    "message": "Truth be told, I'd been thinking about asking her out somewhere together, though."
+  },
+  {
+    "message": "Well, we still get to spend time alone together either way..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「What's the matter, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your concentration is slipping.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, sorry...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...There's no point in pushing yourself too hard, either.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Shall we take a short break?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Here you go.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thanks...」"
+  },
+  {
+    "message": "And so, somehow or other, I'm being treated to tea in Melilot-san's room."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Still, you've improved considerably.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Compared to when you first started, you're like a whole different person.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's because you're such a good teacher, Melilot-san.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Can you really tell?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's just a hunch.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Goodness, what is that supposed to mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Knowing you, Melilot-san, I figured that had to be the reason.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're just saying whatever comes to mind...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really do trust you, Melilot-san.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh, what a way to put it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, it's true……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「*Giggle*……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Still, it really seems like you didn't even need to push yourself to do private practice」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, though I certainly don't mind keeping you company for your practice, Sakura-kun……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad to hear that, then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if things turned out a little differently from what I originally had in mind……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What do you mean……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um, it's really no big deal, so……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Keeping secrets isn't very admirable, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's nothing like that……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then please tell me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What were you dissatisfied with about today's special training?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If there was some shortcoming on my part, please point it out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not that, it's just……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then what is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Come now, hiding things won't do you any good, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh……」"
+  },
+  {
+    "message": "It's not like telling her will cost me anything, though……."
+  },
+  {
+    "name": "Synn",
+    "message": "「……I was actually planning to ask you out, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ask me out……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um…… I just realized we only ever see each other inside the academy……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, I thought it would be nice if we could go out somewhere together...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Does that mean...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've never really done anything like that, after all...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「W-What are you saying!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That sounds just like...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A date... is what I was hoping for, actually...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「S-Sakura-kun!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You shouldn't tease your elders! That's in very poor taste!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not teasing you at all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm serious about you, Melilot-san...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「T-Therefore, really...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Y-You won't get anything good out of making me embarrassed, you know...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm the one who's embarrassed here...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd never say something like this if we weren't alone together...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Saying things like that so casually...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "This delicate silence feels a little awkward, yet kind of ticklish, or rather..."
+  },
+  {
+    "message": "It's agonizing and I can't bring myself to move, yet strangely enough, it doesn't feel bad at all."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...W-Why...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There's nothing to be gained from inviting someone like me out, you know...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, it's not about gaining anything or anything like that...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Still...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm doing it because I want to」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I come to see you because I want to be by your side, Melilot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I talk with you because I want to know more about you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even my resolve to become the Demon Lord and drive back Re-Crea...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's all because you're here with me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I couldn't possibly...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it wrong for me to fight Re-Crea for your sake?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "message": "These are my true, honest, and earnest feelings."
+  },
+  {
+    "message": "The shape of the emotions I want to convey."
+  },
+  {
+    "name": "Melilot",
+    "message": "「For my sake...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Honestly, I'm struggling with how to answer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't really understand it myself...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is the first time anyone has ever said something like that to me...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're the first person to ever hold feelings like that for me, Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I honestly don't know what I should do, or what I want to do」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Nothing like this was written in any of my books...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The answer isn't recorded anywhere in my knowledge...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...In that case」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's search for it together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The two of us, for that answer」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The two of us...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I--no, we will definitely overcome Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We'll have all the time in the world to look for that answer afterward, won't we!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Do you think the two of us will be able to find it...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because two people are much more reliable than one」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Pfft」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Melilot-san...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Fufu... Ah, I'm sorry...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's just that your words were so vague, despite how proudly you puffed out your chest...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Do I seem unreliable...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, not at all...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's very reassuring」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Ahaha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's kind of embarrassing...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I think I'll try believing in you, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'll believe in you, and we'll search for the answer together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot...」"
+  },
+  {
+    "message": "A translucent, radiant smile blossoms, soft and dewy like moonlight."
+  },
+  {
+    "message": "Down that sweetly blushing cheek, a single clear drop slides like a shooting star..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Eh...?」"
+  },
+  {
+    "message": "Melilot-san's tears, seen for the very first time."
+  },
+  {
+    "name": "Melilot",
+    "message": "「A-Ah... I'm sorry...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How strange... I just felt so happy...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot...」"
+  },
+  {
+    "message": "My fingertips move on their own, wiping away her warm, wet cheek."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... Aah, I'm sorry, I just...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...You don't have to sit so far away, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's fine if you come closer...」"
+  },
+  {
+    "message": "Drawn in without even a moment to think by the words slipping from her glossy lips..."
+  },
+  {
+    "message": "The distance between the two of them shrinks, with nothing to stop it..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Would you care for another cup of tea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I'm good, thanks. Looks like I've stayed quite a while, huh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, I don't mind at all.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「More importantly, I'm the one who should apologize, since you went out of your way to come all the way here.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If only I could have gotten ready to go out right away...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, don't worry about it. It's not like today's our only chance or anything.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... we can go on a date whenever...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Y-Yes, that's true...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's a relief to hear you say that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can work around your schedule, so you don't need to worry.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're usually pretty busy too, Melilot-san.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is true...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course, being busy with my mission is part of it, but...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Um... I'm just not very used to going out into crowds, so...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I need to mentally prepare myself, and things like that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Come to think of it, she was like that during KiraFes too..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, I'm not trying to force you into anything.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No! It's not that I don't want to go at all!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If I'm with you, Sakura-kun, um, I think I'll be okay, and...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, I'll definitely be okay, so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then... let's take it little by little and get used to it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Starting with somewhere close. Gradually moving to places further away」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes... that sounds good」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You really are dependable, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That suggestion... I think it's really wonderful」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Someday, when I'm finally freed from this duty...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'd love to go on a trip somewhere far away, to a place I've never been...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just the two of us, of course?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "message": "For that to happen, I have to do my best and drive back the Re-Crea!"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Oh, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We can't go on a trip somewhere far away, but we can at least go for a walk, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Easy enough. I'd be happy to keep you company」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though it would only be on the academy grounds...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's totally fine. Let's go」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you usually take walks around here?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is true...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「When I grow tired of my books and want to get some fresh air, and things like that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「After all, I can't really go too far away anyway...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you don't mind having me along, I'll gladly join you anytime」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, I'll look forward to it」"
+  },
+  {
+    "message": "Her demeanor felt completely different from the impression Melilot-san usually gave."
+  },
+  {
+    "message": "While I stood captivated by the bright, cheerful smile that suddenly blossomed on her face--"
+  },
+  {
+    "message": "Slender, pale fingers gently intertwined with mine."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Miss Melilot...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Aren't you... cold?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... Oh, right...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This way is warmer, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Just like that, the two of us choose to remain silent."
+  },
+  {
+    "message": "Conversing through our joined hands..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Finis Tower...」"
+  },
+  {
+    "message": "This might be the first time I've ever looked up at it so intently."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Whenever I come here, I'm reminded of the past.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Would it be better if I didn't ask?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, not at all.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I've already come to terms with the unpleasant memories...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And the fond memories are mostly all about Helena, anyway.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Helena?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It was back when I still lived in this tower...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「When we first met, Helena was still just a little child.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even so, her natural vitality was as strong as ever, and she often took me out of the tower.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I did get glared at by the clan elders because of it, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haha, that sounds just like Miss Helena.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, meeting her saved me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I was able to question the clan's stubborn stance...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And I got to learn about the outside world, including studying abroad and meeting Riesling.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena led me out of the darkness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "That was something I couldn't do."
+  },
+  {
+    "message": "Saving the Melilot of the past."
+  },
+  {
+    "message": "If so……."
+  },
+  {
+    "message": "Saving the Melilot of the future――"
+  },
+  {
+    "message": "That's what I can do right now."
+  },
+  {
+    "name": "Melilot",
+    "message": "「And today……」"
+  },
+  {
+    "message": "Into their joined hands, gently yet firmly, both of their hearts are poured."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I took the hand of someone precious who will walk that path ahead with me」"
+  },
+  {
+    "message": "Melilot's eyes, which had been looking up at the tower, turn toward me……."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Where, I wonder, will you take me, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "That's already decided."
+  },
+  {
+    "message": "Anywhere at all, as far as we want!"
+  },
+  {
+    "message": "Just as the two of us desire……."
+  }
+]

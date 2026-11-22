@@ -1,0 +1,724 @@
+[
+  {
+    "message": "スーパーハッカーナナカ！"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The paperwork, the paperwork won't go down! Please do something!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. Pass some over to me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Take it all and run, right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't dump all of it on him, okay?\\s02」"
+  },
+  {
+    "message": "General attendance doubled compared to last year."
+  },
+  {
+    "message": "A venue setup completely different from last year."
+  },
+  {
+    "message": "Between this and that, the workload has doubled."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Send some of that my way too, won't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry about this. You're not even an officer……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Don't mind it at all. I helped out a little last year too, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My side's all wrapped up! All that's left is having Helena-san check it over」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Jangara!」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Ee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Take this over to Helena-san, and here, a little treat for your trouble」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Ee!」"
+  },
+  {
+    "message": "Following up from KiraFes, we also have the Delicious Food Squad helping us out, and"
+  },
+  {
+    "message": "seeing how swamped we were, even Misasagi-senpai volunteered to lend a hand."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Going by this, aren't we short on stoves?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's see…… one, two, three--you're right. Even though they're properly accounted for in the budget……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um…… could it be this? This number right here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, a 3 got turned into an 8--that's what threw it off」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As expected of my best friend. I'm so proud of you」"
+  },
+  {
+    "message": "Even someone like her got roped into this."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for pulling you in so suddenly」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's fine. I don't get much experience with this sort of thing, so it's fun」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Everyone, keep at it~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa, that's a ton! Good luck!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You guys are so irresponsible.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You two help out with something, too!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Leave it to me~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll take on any challenge from anyone!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Never mind. You two just stay over there and cheer us on」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Smart move.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, I know! I'll treat everyone to some juice I got from Demon World Mail-Order! 'Gush-Drip-Oozing-Blood'」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sounds kinda amazing~ Like blood's gonna come gushing and dripping right out~.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「They say it's so good that blood'll spray out of your whole body! Not that I'm gonna drink any!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'll go make some tea\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something wrong, Nanaka?」"
+  },
+  {
+    "message": "Nanaka turned the laptop toward me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel's already finished taking photos of all the students, and he's even finished picking out the ones for the display」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...You're right.」"
+  },
+  {
+    "message": "The contents were sorted into folders by class, and each individual file was labeled with the student's grade, class, and name."
+  },
+  {
+    "message": "The KiraFes data was stored all together in a separate folder."
+  },
+  {
+    "message": "And in a folder titled \"Daily Life,\" snapshots of casual moments from school life had been collected."
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait... wasn't that password-protected?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh, well, I was fiddling around with it a bit and it just opened」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So Miss Treasurer was a villain all along!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whaaat?! Nana-chan was a bad guy~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey... have some faith in your friend!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's a dine-and-dash!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Look who's talking.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte, it is rude to jump to conclusions before any evidence turns up.」"
+  },
+  {
+    "message": "Could it be."
+  },
+  {
+    "message": "Did Azel intend to hide herself from the very beginning."
+  },
+  {
+    "message": "Is that why she was taking photos in such a hurry?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Someone who steals passwords is an arsonist! They start fires!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Don'tcha mean a hacker?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, since you went to the trouble of stealing it, please tell us.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, no, well, Azel might get embarrassed if people find out, so everyone just pretend you didn't see it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm-hmm. So it is an embarrassing word.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「At least tell Master Synn.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I... might not be able to tell Synn.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Really? Why?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Umm... no comment.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, I wonder how she figured it out?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Maybe the password was her birthday or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, when is Azel's birthday, anyway?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't even know!? *Sigh*, this is why dense guys are hopeless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Come to think of it... I don't know her birthday or her blood type."
+  },
+  {
+    "message": "I don't even know what kind of life she lived before coming here."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「On a birthday, one simply must gaze at the night view from the top-floor suite of a luxury hotel.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How romantic...\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wait, how shameless! That's completely inappropriate!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The rooftop of some tall building around here is probably the best I could do...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That'd be freezing at this time of year\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, did you know Azel's birthday?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I didn't」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then how did you figure it out? You wouldn't know just by typing things in at random, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Uhm... woman's intuition, maybe?」"
+  },
+  {
+    "message": "Nanaka looked over at me."
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, Azel's gonna come back anyway, so it was totally unnecessary!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Back to work, back to work!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She hasn't come in」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, and I also have one favor to ask today」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What might that be?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could you let me see Azel's library card?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I cannot simply show you records pertaining to an individual's privacy without permission」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're aware that Azel is missing, aren't you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am aware」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why I want any kind of clue I can get」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please wait a moment」"
+  },
+  {
+    "message": "Melilot-san flipped through the library cards."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It isn't here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Could it be that she secretly took it out and disposed of it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right under your nose, Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "message": "It's unlike her."
+  },
+  {
+    "message": "It's unlike Melilot-san, who is the master of the library and said to keep track of every single book."
+  },
+  {
+    "name": "Synn",
+    "message": "「When do you think he took it out?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well... I'm afraid I wouldn't know.」"
+  },
+  {
+    "message": "I couldn't read anything from her expression."
+  },
+  {
+    "name": "Synn",
+    "message": "「What about the computer records?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Go right ahead.」"
+  },
+  {
+    "message": "Melilot-san turned the monitor toward me."
+  },
+  {
+    "message": "There are no records after his disappearance."
+  },
+  {
+    "message": "However."
+  },
+  {
+    "message": "A library card is filled out before borrowing--meaning before it's entered into the computer."
+  },
+  {
+    "message": "Knowing how overly earnest and inflexible Azel is, he would have forgotten his current situation and dutifully gone through the procedure."
+  },
+  {
+    "message": "If that's the case, she couldn't afford to show me a card with a date written on it from after his disappearance."
+  },
+  {
+    "message": "It's pure speculation, but if I'm right, it means Azel came here after he vanished."
+  },
+  {
+    "message": "And Melilot-san is hiding that fact."
+  },
+  {
+    "message": "Probably because she believes keeping it hidden is for Azel's sake."
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'm a little relieved.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「About what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if the card was lost, as long as the records remain on the computer, you can easily make a new one, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Perhaps I carelessly put it away somewhere else. I'll look for it. If that's what happened, I think it should turn up by the Holy Night Festival.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll leave it to you.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You've gotten quite efficient at this.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Y-You think so?」"
+  },
+  {
+    "message": "Melilot handed a library card to Azel, who had been organizing books."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please hold onto this.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What's this about?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just a moment ago, Sakura-kun asked me to show him this.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You should have shown him. There's no problem.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san, you press down very hard when you write. Even after erasing it, what you wrote the day before yesterday is still clearly visible.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For the time being, I told them it was lost, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Synn is no fool」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, I'm coming in」"
+  },
+  {
+    "message": "I unlock the door with the spare key."
+  },
+  {
+    "message": "It was my second time entering Azel's room."
+  },
+  {
+    "name": "Synn",
+    "message": "「There really isn't anything here...」"
+  },
+  {
+    "message": "A bleak, bare room, just as before."
+  },
+  {
+    "message": "From the looks of it, his uniform was still there, but his everyday clothes were gone."
+  },
+  {
+    "name": "Synn",
+    "message": "「For all he said about it... he actually liked it」"
+  },
+  {
+    "message": "In the corner of the room sat his Leica and several rolls of spare film."
+  },
+  {
+    "name": "Synn",
+    "message": "「He even left his Leica behind」"
+  },
+  {
+    "message": "His futon was neatly put away, too."
+  },
+  {
+    "message": "I only took a quick glance, but it seemed like his underwear had dwindled as well."
+  },
+  {
+    "message": "He'd walked out taking only his everyday clothes and underwear."
+  },
+  {
+    "message": "The premonition that Azel wouldn't come back grew stronger. I couldn't shake it."
+  },
+  {
+    "message": "I tried looking for anything that might tell me where he went, but the trash can was empty."
+  },
+  {
+    "message": "The small desk drawer was empty too. Even if I wanted to look for books, there wasn't a bookshelf."
+  },
+  {
+    "message": "With no furniture, there wasn't anything lying behind a cabinet or table either."
+  },
+  {
+    "message": "There wasn't a single clue pointing to his destination."
+  },
+  {
+    "message": "If this were one of those TV suspense dramas Nanaka gives me the synopses for,"
+  },
+  {
+    "name": "Synn",
+    "message": "「There'd be a timetable, a map, or a train ticket lying around--casually, yet conspicuously」"
+  },
+  {
+    "message": "The handful of photos taped to the wall hadn't changed since last time either."
+  },
+  {
+    "message": "They were everyday snapshots of the academy and Ryuusei Town."
+  },
+  {
+    "message": "I hadn't looked closely enough last time to notice, but I could feel Azel's warm gaze through these photos."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? This photo...」"
+  },
+  {
+    "message": "This wasn't here last time."
+  },
+  {
+    "message": "No, maybe it was, and I just hadn't noticed."
+  },
+  {
+    "message": "It was a photograph of cat-like Demons."
+  },
+  {
+    "message": "Though they were squinting against the flash, they were captured in the frame without a hint of tension."
+  },
+  {
+    "message": "One was facing the camera and winking, and there was even one looking straight into the lens."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It didn't look like the flash had been fired to drive them away."
+  },
+  {
+    "message": "They were properly photographed as subjects."
+  },
+  {
+    "message": "Once before, Demons had fled in fright at the burst of a camera flash."
+  },
+  {
+    "message": "Yet here, they hadn't run away."
+  },
+  {
+    "message": "Which meant this had to have been taken after that night."
+  },
+  {
+    "message": "A candid shot?"
+  },
+  {
+    "message": "No. That's not it."
+  },
+  {
+    "message": "Firing a flash would give away his location immediately."
+  },
+  {
+    "message": "And on top of that, the Demons weren't in a panic."
+  },
+  {
+    "message": "If they had been targeting Azel, they would have attacked right away."
+  },
+  {
+    "message": "However, I've never heard Azel say anything about being attacked."
+  },
+  {
+    "message": "In the first place, even if these were taken secretly..."
+  },
+  {
+    "message": "It's weird that some of them are winking or even looking straight at the camera."
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think Azel... was actually on good terms with those Demons?」"
+  },
+  {
+    "message": "Did we just misunderstand things when we thought Azel was being attacked?"
+  },
+  {
+    "name": "Synn",
+    "message": "「...No, it's dangerous to jump to conclusions from just a single photo...」"
+  },
+  {
+    "message": "I took another close look at the photos."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh... this is」"
+  },
+  {
+    "message": "It was a photo of Pasta."
+  },
+  {
+    "message": "With dark trees at night in the background, Pasta is flashing a V-sign with a huge smile."
+  },
+  {
+    "message": "Something feels off."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I'd seen Azel and Pasta talking at Prier a few times before."
+  },
+  {
+    "message": "So if the background were the academy during the day or evening, it wouldn't be strange."
+  },
+  {
+    "message": "But this is at night."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "On top of that, Pasta isn't wearing the clothes from working at Prier."
+  },
+  {
+    "message": "It's the outfit from when we were fighting."
+  },
+  {
+    "message": "Did they just happen to run into each other late at night and take this?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  }
+]

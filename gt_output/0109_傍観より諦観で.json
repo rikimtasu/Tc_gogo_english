@@ -1,0 +1,837 @@
+[
+  {
+    "message": "傍観より諦観で"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Agh, I'm so busy! Agh, I'm so busy!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haste makes waste, you know, Madam Treasurer.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You could at least try pretending to be busy, Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, I see! That is a brilliant idea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, put together a list of these pending issues for me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, next up is--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go, some tea ♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thank you very much.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Sip, sip*... Haaa--that hits the spot!」"
+  },
+  {
+    "message": "The Student Council room was in a frantic rush with KiraFes preparations."
+  },
+  {
+    "message": "Even though Ria-senpai had her own work to do, she still looked out for everyone like this and served us tea."
+  },
+  {
+    "message": "So this is the kind of thoughtfulness you'd expect from a true president. I need to become more attentive to the people around me, too."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright! Then have some milk while you're at it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't need it!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Matcha milk...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank you for calling. Ryuusei Student Council--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What!? A Demon!?」"
+  },
+  {
+    "message": "Despite the report, the shopping district was bustling peacefully as usual."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To show up at a busy time like this--what an utterly cowardly Demon!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You sure seem pumped up for someone complaining about it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This too is the power of justice at work.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, where's the Demon that we're actually looking for?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I heard it's at a secondhand bookstore around here.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A demon doing bad things in a bookstore...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... I bet they're reading dirty books or something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hoho~. So by 'dirty books,' you mean perverted books, correct?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan. That's literally the exact same thing\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's what you'd call a man's romance. Right, Lord Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stop with the obvious setups!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Muu~~\\s09」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's just as my sister says. Honestly, boys are so lewd and filthy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I haven't even said anything yet!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, I understand that you're interested in that kind of thing, too, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, well... if you're a healthy boy, it can't be helped... right?\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah! That's right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey~ now, don't get carried away!\\s09」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What a terrible false accusation...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Shall I just go ahead and drench you soaking wet, body and soul?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And then I'll dry you right up in an instant\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What a picture of hell!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... The nuisance is gone. Now, Ria―chan's heart belongs to yours truly―」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zueeeeeeh!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's your own fault to begin with」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bad!」"
+  },
+  {
+    "message": "He had sized things up properly."
+  },
+  {
+    "message": "Looking over at the shop that had been reported―the secondhand bookstore \"Kindai Kosho\"―a Demon was sitting right at the entrance."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Blocking the entrance? Interfering with business?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No. It looks like they're letting customers in just fine」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And neither side seems bothered by the other at all, do they」"
+  },
+  {
+    "message": "There is no sign of it causing any overt trouble."
+  },
+  {
+    "name": "Misa",
+    "message": "「You'd think they wouldn't go out of their way to read a book in a place like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there. What are you doing here?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn, honestly!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa~~!」"
+  },
+  {
+    "message": "My arm is grabbed and I'm pulled back."
+  },
+  {
+    "name": "Ria",
+    "message": "「It's dangerous to walk up so carelessly! You don't know what it might do……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not going to do anything」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You can't let your guard down~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If anything, it's the one completely wide open. Besides, it's not getting in anyone's way」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And besides, suddenly pointing a weapon and yelling 'Freeze!' just isn't something I could ever……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It really wouldn't suit you~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, forcing yourself isn't good!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You shouldn't say things that are completely out of character」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're all so mean!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no, it's true I was careless, so…… sorry for making you worry」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No. You might be right, Synn. I'm the one who should be sorry」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so, the two of them safely made up~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey!! What are you saying!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way, that's unacceptable!! Their relationship ends right here!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It hasn't even started in the first place!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez! Everyone's just saying whatever they want~~!!」"
+  },
+  {
+    "message": "Left completely alone, the demon is engrossed in reading without paying us any mind."
+  },
+  {
+    "name": "Synn",
+    "message": "「So. About what you were saying earlier... mind letting us hear the rest?」"
+  },
+  {
+    "name": "Jirou",
+    "message": "「Eee」"
+  },
+  {
+    "message": "From what I hear, there aren't any decent books in the Demon World."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see... So it really is nothing but dirty books!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Enough about that already!!」"
+  },
+  {
+    "message": "Not satisfied with just the imports obtained through Demon World Mail-Order, he apparently came all the way to the Human World like this."
+  },
+  {
+    "name": "Synn",
+    "message": "「And because he doesn't have any money, he's standing around reading for free」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No wonder. I thought he was awfully quiet, so that's what's going on」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So the one who called it in was the shop owner, huh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If it's just browsing without buying, there are plenty of others doing that too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone, please look closely. He is sitting down quite properly, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's how it is~」"
+  },
+  {
+    "message": "Not standing and reading, but sitting and reading."
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder how long he's been here~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is obvious at a single glance at the snow piled atop his head!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No. It's not even snowing」"
+  },
+  {
+    "name": "Jirou",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since opening? Well, that's... A short while is one thing, but if you stick around that long, of course you're gonna get yelled at」"
+  },
+  {
+    "message": "Moreover, it wasn't just today--apparently he was here yesterday and the day before that, too."
+  },
+  {
+    "name": "Misa",
+    "message": "「So the owner finally lost patience, is that it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If he just had money, there wouldn't be a problem, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Money, huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, you. Do you happen to have any books you're already tired of reading?」"
+  },
+  {
+    "message": "I borrow one of his books."
+  },
+  {
+    "name": "Misa",
+    "message": "「What is this, I can't read a word of it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What terrible handwriting~」"
+  },
+  {
+    "name": "Jirou",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Easy now. If you let every little thing Lolo-chan says get to you, you lose」"
+  },
+  {
+    "message": "My ear gets tugged hard repeatedly."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa, hold on. Isn't this an out-of-print specialist book on Three-Realm Topology?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know about it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's an absolute gem that experts in that field would die for」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmph~~. I don't really get it, but it sounds expensive」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah. If someone in the Human World wanted this, it might fetch a pretty high price...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...*Gulp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We might not be able to barter this book―not quite, anyway―but we might be able to sell it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, I see!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is a secondhand bookstore, after all. If you sell the book you have here, you'll get money for it. And if you use that money, you'll be able to buy the new books you wanted to read」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you want, I can go talk to the shopkeeper...」"
+  },
+  {
+    "name": "Jirou",
+    "message": "「Eee!」"
+  },
+  {
+    "message": "I got an immediate okay."
+  },
+  {
+    "name": "Ria",
+    "message": "「Well then, shall we go talk to the shopkeeper?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, while I'm at it, I might as well bring up KiraFes too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Amazing... To think it'd sell for this much...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh! How much did you get?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hideyo-senseiiiiii!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes, thank you for that completely predictable reaction. So, looks like he can buy the books he's after?」"
+  },
+  {
+    "message": "Apparently, he wants to buy outdated gossip books. Since they're a flat 50 yen each, he can stretch it up to 20 volumes."
+  },
+  {
+    "name": "Ria",
+    "message": "「Good for you\\s04」"
+  },
+  {
+    "name": "Jirou",
+    "message": "「Eee♪」"
+  },
+  {
+    "message": "And so, without ever trading blows with the demon, the incident was resolved effortlessly."
+  },
+  {
+    "name": "Ria",
+    "message": "「To think he loves reading... Demons really come in all types, don't they~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There weren't any until now?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... So I end up getting on guard out of habit\\s01」"
+  },
+  {
+    "message": "From the perspective of a senior who has been fighting demons all this time, my actions must seem incomprehensible."
+  },
+  {
+    "message": "Because I know there are demons like Paqy, I don't get worked up over every little thing."
+  },
+  {
+    "message": "Even if I don't really feel like it, I'm a demon myself, after all."
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, what surprised me most was today's judgment」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Up until now, it always turned into a fight. They wouldn't listen to a single word I said」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I thought all demons were just like that. Maybe I'd given up」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And yet, today the demon actually listened. You settled things without a fight, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think it would've been better if I'd properly driven them back to the Demon World...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, not at all! Even I... honestly think getting them to agree peacefully like this is for the best」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's just that if we let them do whatever they want, a lot of people end up in trouble, so...」"
+  },
+  {
+    "message": "In battles against demons, Ria-senpai almost always carries herself with a dignified sense of tension."
+  },
+  {
+    "message": "It's such a drastic change that you couldn't imagine it from the gentle, heartwarming expression she usually shows."
+  },
+  {
+    "message": "That just goes to show how seriously she takes her duties as a Crusader."
+  },
+  {
+    "name": "Ria",
+    "message": "「I didn't know any way to resolve things other than force. But you taught me how, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um... I just figured if I kept at it patiently and didn't give up, things might work out...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You really are amazing, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A... Thank you very much\\s03」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stop grinning like an idiot! It was just a fluke!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I can play the part of a negotiator too, you know!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're both being unsightly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, hoping we can resolve things peacefully like this next time too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, it's creepy seeing a demon become this obedient」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Didn't you use hypnosis or something on them?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't say things that make me sound shady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, I've figured it out!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President is definitely the king of the Demons!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Obeying what the king says is just a natural rule, you know.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, a king?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When you think of a king, they're all dressed up with a crown like on a playing card, with a mustache and...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aha, ta-hahaha!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's rude to laugh, Nanaka... pfft, heehee. Ending his sentences with 'forsooth' or something... heehee.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hold on. Demons do whatever the hell they want, right? Just 'cause he's the Demon King doesn't mean they'll listen to him.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「True. If they did, there wouldn't be any point to us Crusaders.」"
+  },
+  {
+    "message": "Nice save, Paqy! Though I don't think a king would say 'forsooth.'"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Man, sorry, sorry. Once I pictured it, I couldn't stop. Well, Student Council President suits Synn best anyway.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll gift you the title of 'Vice' as your crown.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No thanks, I'll pass.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, it really does bother me~ Demons have such a strong image of being arrogant and unruly, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The one today wasn't aggressive or rowdy, and didn't have any motivation at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it didn't have the will to fight in the first place.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「More like it didn't even have the strength to fight, don't ya think?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy. What do you mean by that...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even a Demon that pathetically weak is able to make its way over to the Human World now.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A Demon with no magic power appearing is something that's never happened before!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An abnormal situation. The possibility of the impossible happening...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even for a Demon with huge amounts of magic power, coming to the Human World is supposed to be super hard. And yet...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If they can come to the Human World even without magic power, a huge number of Demons might come flooding in!」"
+  },
+  {
+    "message": "Have things fallen into a more serious state than we thought...?"
+  },
+  {
+    "name": "Ria",
+    "message": "「This really is the influence of Re-Crea too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... Maybe I have to do something about this?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are you phrasing it like a question?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey now. At a time like that, you're supposed to say something like, 'Leave it to me, I'll handle it!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it works」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right. Because that's what the leader of the Ryuusei Student Council and the Crusaders is all about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. So that's how it is... A-All right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'll handle this!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, yeah. That's the spirit, that's the spirit」"
+  },
+  {
+    "message": "She played me like a fiddle."
+  },
+  {
+    "name": "Ria",
+    "message": "「Now then! Shall we head back and continue」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah. Things wrapped up faster than expected, too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If it was going to be like this, Sakura-kun should have just gone alone」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're all quite useless, aren't you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Same goes for you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hau!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun is today's MVP. You even properly promoted the KiraFes, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It seemed like we could hold a used book fair or something there」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Congrats~~. Good for you♪ Well then, time for the usual\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, aah!? Senpai, not there--」"
+  },
+  {
+    "message": "She suddenly shoves her hand into my pocket and starts rummaging around."
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey now, don't be shy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, even if you say that--ah, aah...! Not there, stop!」"
+  },
+  {
+    "message": "On top of that, her chest is pressing against my hip."
+  },
+  {
+    "name": "Ria",
+    "message": "「Found it~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa...」"
+  },
+  {
+    "message": "I'm glad I didn't put it in my pants pocket."
+  },
+  {
+    "name": "Ria",
+    "message": "「All done, you worked really hard♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much……」"
+  },
+  {
+    "message": "The fact that he even gropes people's bodies unconsciously is a real problem."
+  },
+  {
+    "name": "Ria",
+    "message": "「It's filled up quite a bit, hasn't it. Just a little more to go, so keep it up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y……Yes!」"
+  },
+  {
+    "message": "If even a fraction of that sparkling school life comes true when this is completely filled, it'll be worth celebrating."
+  }
+]

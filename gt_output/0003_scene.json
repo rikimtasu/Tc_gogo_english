@@ -1,36 +1,104 @@
 [
-  {"message": "September 10. Late at night."},
-  {"message": "Tonight's observations finally recorded an hourly rate of over 180 meteors."},
-  {"message": "That far exceeds the peak rates of even the most famous meteor showers."},
-  {"message": "In this town, known for its frequent shooting stars, that is not especially unusual."},
-  {"message": "Re-Crea must be approaching once again."},
-  {"message": "After twenty-five years of silence, it seems to have finally begun stirring."},
-  {"message": "No previous Re-Crea has ever followed such a long interval."},
-  {"message": "What does that span of twenty-five years mean?"},
-  {"message": "The records indicate that its influence grows in proportion to the length of the interval."},
-  {"message": "And then there is the number of shooting stars."},
-  {"message": "With each passing day, it continues to rise without any sign of slowing."},
-  {"message": "We now face a development unlike anything I have witnessed, or anything described in the records."},
-  {"message": "We have been preparing ways to respond since we noticed the vicious cycle twelve years ago."},
-  {"message": "But Re-Crea is not something we can see."},
-  {"message": "We cannot even predict what, exactly, will happen."},
-  {"message": "In the past, all we have seen are people taking advantage of the confusion to disturb the peace."},
-  {"message": "Preventing further disasters. That is what we have done to preserve the world."},
-  {"message": "Surely this time will be no different."},
-  {"message": "If we deal with those threats properly, then once Re-Crea passes, life will return to normal."},
-  {"message": "Yes... if only this were an ordinary Re-Crea."},
-  {"message": "The shooting stars, my unease, and the records handed down through the generations will not let me believe that."},
-  {"message": "Perhaps..."},
-  {"message": "The largest Re-Crea in recorded history is approaching."},
-  {"message": "Without a doubt."},
-  {"message": "With every passing moment."},
-  {"message": "And we have yet to find even a single clue to a solution."},
-  {"message": "\"Even if I'm powerless, I'll never give up.\""},
-  {"message": "\"What is it that gives you such determination?\""},
-  {"message": "\"I suppose... it's faith.\""},
-  {"message": "\"Faith...?\""},
-  {"message": "\"In that dependable daredevil who appears out of nowhere during Re-Crea...\""},
-  {"message": "\"Ah... you still believe that story?\\S10\""},
-  {"message": "\"Of course! After all, we have...\""},
-  {"message": "\"We have the Demon Lord!!\""}
+  {
+    "message": "September 10th, late at night."
+  },
+  {
+    "message": "In today's observations, the Hourly Rate ― the number of meteors per hour ― finally reached 180+."
+  },
+  {
+    "message": "This is a figure far exceeding the peak of any well-known meteor shower."
+  },
+  {
+    "message": "In this town, famous for its frequent shooting stars, it is not particularly unusual."
+  },
+  {
+    "message": "Once again, Re-Crea must be drawing near."
+  },
+  {
+    "message": "Breaking twenty-five years of silence, it seems to have finally begun to move."
+  },
+  {
+    "message": "Even in past instances of Re-Crea, there has never been such a long cycle."
+  },
+  {
+    "message": "The significance of this twenty-five-year duration."
+  },
+  {
+    "message": "Past records indicate that its impact is proportional to the duration of its cycle."
+  },
+  {
+    "message": "And the volume of shooting stars."
+  },
+  {
+    "message": "Day by day, it increases without stopping."
+  },
+  {
+    "message": "Events are unfolding in a way never spoken of in my lifetime, nor in any records."
+  },
+  {
+    "message": "Measures to handle the situation have been taken ever since we noticed the vicious cycle twelve years ago."
+  },
+  {
+    "message": "However, Re-Crea is not something visible to the eye."
+  },
+  {
+    "message": "It is impossible to predict what will specifically happen."
+  },
+  {
+    "message": "So far, the only thing that ever happened was that people took advantage of the chaos to disrupt public order."
+  },
+  {
+    "message": "Preventing secondary disasters -- that is what we have done to preserve our world."
+  },
+  {
+    "message": "Surely, this time should be no different."
+  },
+  {
+    "message": "If we handle those properly and Re-Crea passes, we will return to our usual daily lives once more."
+  },
+  {
+    "message": "Yes, if only it were just the usual Re-Crea."
+  },
+  {
+    "message": "The shooting stars, the bad feeling in my chest, and the backing of records handed down for generations refuse to allow that thought."
+  },
+  {
+    "message": "In all probability..."
+  },
+  {
+    "message": "The largest Re-Crea in history is drawing near."
+  },
+  {
+    "message": "Without a doubt."
+  },
+  {
+    "message": "With every passing moment."
+  },
+  {
+    "message": "Without having found a single clue toward a solution."
+  },
+  {
+    "message": "「Even if I'm powerless, I will never give up.」"
+  },
+  {
+    "message": "「Just what is it that inspires you to such an extent?」"
+  },
+  {
+    "message": "「Believing... I suppose.」"
+  },
+  {
+    "message": "「Believing...?」"
+  },
+  {
+    "message": "「In that reliable, elusive, fearless daredevil said to appear during Re―Crea―」"
+  },
+  {
+    "message": "「Ah... do you still believe in that story?\\S10」"
+  },
+  {
+    "message": "「Yes! Because we have--」"
+  },
+  {
+    "message": "「Because we have the Demon King!!」"
+  }
 ]

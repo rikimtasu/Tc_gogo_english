@@ -1,0 +1,608 @@
+[
+  {
+    "message": "学園四不思議"
+  },
+  {
+    "message": "Now that exams are over, we can openly resume our Crusaders patrols, or so I thought."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If we're going to do it anyway, let's make it way more fun!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're really just going for a stroll, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well? We have been studying nonstop. I suppose we could afford to be a little lenient!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「True. Turning everything into something fun is a wonderful idea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure about this, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why do you ask?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No... I just have a bad feeling about this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It'll be fine. If anything happens, I'll properly back everyone up as your upperclassman. Ahem!」"
+  },
+  {
+    "message": "Or so we laughed--until the moment passed."
+  },
+  {
+    "name": "Ria",
+    "message": "「A-A-A test of courage~?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes! While searching for demons, let's solve the academy's Seven Wonders at the same time!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, so that's why it's a test of courage. Sounds fun! So, what are the academy's Seven Wonders--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I made sure to borrow this from the library. Behold, 'The 7 Wonders of Ryuusei Academy: 1300 Edition'!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The year 1300... meaning last year's was different? And what's more, the author and supervisor is Helena Kujo...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, sounds super half-baked!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sis... what kind of book did you write...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's the latest issue, at least. Let's see here...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Are we really doing a test of courage~? That kind of thing is a little...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're gonna back us up good, right, Ria-senpai♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To be protected by Big Sister...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Uuu~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, everyone. Let's transform right away and let's go!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「One of the academy's Seven Wonders...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gulp...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually, there are only three mysteries」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, now that's a mystery!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then why are we at the pool?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Apparently, one of the three happens right here in this pool」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A pool that's supposed to be completely empty. Yet every now and then, the sound of splashing echoes through it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh, s... so that's why we're at the pool?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-We're here right now, though, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, but none of us are in the water, so weird splashing sounds--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I just heard something...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No way, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Aaaah, over there...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A figure!!」"
+  },
+  {
+    "name": "???",
+    "message": "「...Who's there?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Kyaaaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, e-everyone...!?」"
+  },
+  {
+    "message": "I tried to run away with them, but something grabbed me and I couldn't move a muscle."
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way, a ghost...!? Ugyaaa!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm sorry... My legs... won't move...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Ria-senpai...?」"
+  },
+  {
+    "message": "There's no way I can just leave Ria-senpai behind like this."
+  },
+  {
+    "message": "Still, taking on a ghost is tough even for the Demon Lord... wait, that's so weak!!"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you doing there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「O-oh, it's just you, Azel... Phew, you scared me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why...? How were you able to get in here...? Could it be...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're just doing a normal patrol, though... What about you, Azel? What are you doing?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...taking a walk」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A walk...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-jeez! You shouldn't be taking a walk around the pool this late at night!」"
+  },
+  {
+    "message": "No, it feels like there's something way more important to point out than that."
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-what is it!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Your legs are shaking」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wha--!?」"
+  },
+  {
+    "message": "Saying that, Azel walked away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay, Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm fine... Thanks, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone ran away, too... What should we do about this?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「At the very least, this means one of the Seven Wonders is solved, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's only one left anyway」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I can't help thinking she prepared this book just to put me through something like this...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-well, it is Helena-san we're talking about...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn!! Let's solve the last mystery, too. Once we do, my big sister's prank will finally be over!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure about this, though?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm not scared at all! You're the one who's scared, Synn!」"
+  },
+  {
+    "message": "Geesh, she really can't be honest with herself..."
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Maybe we really should call it off...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What if it's a Demon? That'd be a huge problem.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, well, if it's a ghost, that'd be an even bigger problem!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It'll be fine!」"
+  },
+  {
+    "message": "Look at Ria-senpai, getting all worked up..."
+  },
+  {
+    "message": "Don't blame me if your legs give out on you again."
+  },
+  {
+    "name": "Synn",
+    "message": "「When night falls, Finis Tower is shrouded in truly terrifying, bizarre shadows.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sure it's Sally this time, I just know it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just because it was Azel earlier doesn't mean it'll be her now.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No means no!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not making any sense anymore...」"
+  },
+  {
+    "message": "This area is creepy enough on its own, so adding ghost stories on top of it just makes the dread pile up even more."
+  },
+  {
+    "message": "Honestly, with an atmosphere like this, it wouldn't be weird at all if a ghost popped out..."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Ria-senpai's tough act is only on her face--her body is trembling in tiny shivers."
+  },
+  {
+    "message": "She was only supposed to be pinching the hem of my clothes, yet before I knew it, she had grabbed onto my arm."
+  },
+  {
+    "message": "And then--"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-Nobody's here, right...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's what this patrol is for... Urgh.」"
+  },
+  {
+    "message": "Ria-senpai clung tightly to my arm!"
+  },
+  {
+    "message": "Unlike when we're in our uniforms, today she's pressed up against me in her combat outfit."
+  },
+  {
+    "message": "If I turn toward Ria-senpai even a little, I end up catching sight of her pale, swelling skin."
+  },
+  {
+    "message": "--No, stop it, stop it!"
+  },
+  {
+    "message": "Still, if the cloth covering her chest were to flip right down like this..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Shh!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...I sense... a presence...」"
+  },
+  {
+    "message": "Ria-senpai puts on a serious expression."
+  },
+  {
+    "message": "Even so, I can't help being way more preoccupied with Ria-senpai's chest."
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'll go take a quick look.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... S-Synn-kun! Please... don't leave me behind...」"
+  },
+  {
+    "message": "When I shook off Ria-senpai's arm, she stopped me."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right, I got it.」"
+  },
+  {
+    "message": "While looking away, I tried to slip my arm back between Ria―senpai's arms, when―"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Squish. A soft sensation pressed against my arm."
+  },
+  {
+    "name": "Ria",
+    "message": "「Kya... Kyaaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm sorry!!」"
+  },
+  {
+    "message": "Ria-senpai frantically covered her chest with both arms, right where I had accidentally touched her."
+  },
+  {
+    "message": "Pushed up like that, they look even bigger!"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez! What are you doing all of a sudden?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No! It was just so dark I couldn't see well...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You pervert, Synn-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Ah, Ria-senpai hates me now..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Even if you are a boy, if you do things like this, girls are going to hate you, you know.」"
+  },
+  {
+    "message": "She gave my forehead a light poke."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry, I was careless...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, it's fine. Just promise you'll never do it again. Got it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "message": "Even as I nodded, my eyes drifted toward Senpai's chest as she struck a scolding pose..."
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "message": "Just then, a shadow suddenly blocked my view."
+  },
+  {
+    "name": "Synn",
+    "message": "「Mist...?」"
+  },
+  {
+    "message": "Aw, that incredible view just got swallowed up by black smoke!"
+  },
+  {
+    "message": "Wait, no, snap out of it!"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Ria-senpai... u-um...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-So the school's Seven Mysteries really are...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No way... I knew it, a gh-ghost!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!?」"
+  },
+  {
+    "message": "Suddenly losing her composure, Ria-senpai lunges at me without a moment's hesitation."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "message": "And pressed against my arm is an indescribably soft twin-peaked mountain!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, man...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sh-Synn-kun!?」"
+  },
+  {
+    "message": "The tighter Senpai clings to me, the further my consciousness slips away."
+  },
+  {
+    "message": "Search the entire world over, and you wouldn't find hills surpassing these peaks."
+  },
+  {
+    "message": "This truly is the highest summit!"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, that's not it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, um, could you back up just a little bit?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's just, y-y-your ch-chest, uh, umm!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, we don't have time for that right now! We have to hurry and run or we'll get cursed!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, if we don't do something about this, I'm the one who's gonna lose it!」"
+  },
+  {
+    "name": "?????",
+    "message": "「Who's there!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaaaa!!」"
+  },
+  {
+    "message": "Whoever that voice belongs to, getting caught like this would be really bad!"
+  },
+  {
+    "message": "Still pressed tightly together, we bolted at full speed."
+  },
+  {
+    "message": "In the end, almost all of the Seven Mysteries remained mysteries."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, what happened to that red handprint on your face?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's one of the Seven Mysteries.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmph, I don't care anymore!」"
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "message": "さあ、生徒会活動の始まりだ！"
+  },
+  {
+    "name": "Synn",
+    "message": "「All right! Since everyone's gathered, let's get the meeting started right away」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aside from Azel-san, we have a mountain of regular agenda items. Now that the handover is finished, it's finally time for the real thing」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm so excited. I'm really looking forward to it~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's do our best and aim for a sparkling, shining school life!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, let's get right to it and decide what we're going to do from here on--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Me, me! Let's put together the budget!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, Nanaka. It's rare to see you so eager about something difficult」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, yeah」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aren't you scheming something?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「C-Could it be an evil plot... My heart's pounding\\s05」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm~. I'm curious what kind of evil plot it is~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, all of you!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even I think properly and seriously about the Student Council, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your cheeks are relaxing into a grin」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, no way!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So you really are aware of it\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Our treasurer being loose and relaxed is the usual thing, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ho-ho~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll just have to punish Lolo-chan's naughty mouth, won't I~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, playtime is over. Starting today, we're going to do things seriously and properly. As long as I'm in this Student Council, I will never tolerate any fooling around!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In that case, let's do the budget together♪ Financial audits and house searches♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan. You do understand what Student Council activities are supposed to be about, right...\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does anyone else have any ideas?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since we're part of the Student Council, I'd love to try doing things that can be of even greater help to everyone」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My, that's quite a lovely idea」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Unlike a certain someone'--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is that what you're tryna say!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, you're jumping way ahead of yourself」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Do you mean something like volunteer work?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If it means helping people in trouble, I'm willing to do anything」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I got it! How about we call it the 'Helping Hands Brigade'!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, that's way too simplistic」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Madam Treasurer. That's a wonderful name and very close, actually, but I have already come up with a name for our organization」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Amazing. You really came prepared, Lolotte-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Its name is 'Angelic Agent'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Angelic... Agent... I see\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And mine was the simplistic one?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A―Any other ideas―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on a second. New ideas are all well and good, but you're forgetting our most important annual event」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You mean the yearly Charity Bazaar, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! R-Right, that's coming up...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You really ought to keep track of basic things like this. You're the Student Council President, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... S-Sorry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As the student council president, you're supposed to be more reliable than me. Make sure you're properly aware of that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, got it. Then let's review the annual events first」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're a first-year, Lolo-chan, so this is your first time, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, I don't understand any of it at all! But I'm really looking forward to it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, that's a super refreshing and great smile!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Though we've only done it once ourselves, so we actually don't really get it either!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's hardly something to brag about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see, there's the entrance ceremony, the graduation ceremony... um, and after that--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn-kun. Isn't thinking about a whole year's worth of events all at once a little tough?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good point」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's just as Senpai says. Ryuusei Academy's biggest event is waiting for us in December, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The Holy Night Festival, huh. Last year we were participants, so this year we're gonna be the organizers, huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A festival on Christmas... I have a feeling it's going to be wonderful!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Though I also have a feeling it's going to be terribly exhausting in return」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If we get too greedy our heads'll explode, so shall we narrow it down?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He who chases two hares wins first prize, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. For now, let's plan out the schedule up until the school festival」"
+  },
+  {
+    "name": "Ria",
+    "message": "「On October 27th, there's the Charity Bazaar」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And then... November 19th and 20th are second-term midterms」"
+  },
+  {
+    "name": "Ria",
+    "message": "「On November 30th, the first regular student general assembly」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And then on Christmas Eve, December 24th, is the Holy Night Festival, I think」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Impressive as expected, Senpai-san」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem!　"
+  },
+  {
+    "name": "Ria",
+    "message": "I have been properly attending this school for three years, after all」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's totally normal stuff, though--Ria-chan, you're the best!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Annual events, Student Council duties... Everything's a first for us, so let's just jump in and try doing something!」"
+  }
+]

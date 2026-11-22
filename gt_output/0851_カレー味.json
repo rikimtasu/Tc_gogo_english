@@ -1,0 +1,791 @@
+[
+  {
+    "message": "カレー味"
+  },
+  {
+    "name": "Synn",
+    "message": "「Brrr, it's chilly this morning~」"
+  },
+  {
+    "message": "Guess it's just about the season when autumn shifts into winter."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Deliv~ery~……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, good morning. Thanks for the hard work this morning too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uwah~…… morning……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're a bit late today. Everything okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm fine…… I just overslept a little」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll do my deliveries properly, so don't worry about me weirdly!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「*Sniffle*……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You look like you're having a rough time though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, I am not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah, wait right there a second」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for waiting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here's some special hot milk」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「O-Ohh……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I made sure to keep it lukewarm for you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「H-Hmph. Nobody asked you to!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'll go make it piping hot instead」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-It's fine, I don't have time!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go, then」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ugh…… well, it'd be a waste, so I'll take it!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……*Phew*, *phew*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you it's fine」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Gulp, gulp, gulp」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Haaa...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How is it?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Glad to hear it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I feel a bit more energized now. Thanks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't mention it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, I'm off to finish my route」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Thanks for the hot milk」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good luck」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Does the cold throw her off her game?」"
+  },
+  {
+    "message": "Living in a tent in this season has got to be rough, after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「I do have a spare room, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, morning, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That was Mako-chan just now, wasn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Looks like she's working hard on her milk deliveries」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And so you're waking up early because you want to see Mako-chan, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wonder about that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lately, you've been waking up before I even get here, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I am worried about Macaron, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha-what!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-You say you're worried, don't tell me you……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, she looked super cold this morning too……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sleeping outdoors really must be rough……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Oh, that's what you meant……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just his usual good-natured self, huh……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right, of course. There's no way Synn of all people would ever…… 」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aah! It's nothing, nothing at all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aaalright, let's hurry up and get breakfast going!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew, finally done, finally done」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Well, I'm heading off to Prier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See ya~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan~, let's go get lunch~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sure thing. You've got a packed lunch, right, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I'll just eat wherever」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gotcha」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're really going out of your way to eat outside? Ain't it cold?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The sun's still warm around noon, so it's fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, we have Professor Sengenin's class next. I figured I'd get some fresh air outside to wake myself up」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Makes sense」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nooow then, where should I eat?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmm...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord. What's that over there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Paqy's sleeping」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm right here, damn it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, don't you think you kinda look alike?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ahh, hmm, I guess the pose does feel somewhat nostalgic...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, jokes aside...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, wake up, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nnh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wha? Ahh... Big Brother...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sunbathing again?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mmh~...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gasp!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「B-Big Brother! Why are you here!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I am the Student Council President」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's got nothing to do with it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, hello to you too, Mr. Panda」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, hey」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get that it's warm here, but you're gonna catch a cold if you let your guard down, you know?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, what?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You didn't do anything weird while I was asleep, did you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What do you mean, 'something weird'?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wah, you're really gonna make me say it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, no...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Playing dumb to cover up your own sins--as expected of Lord Synn!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You really did do something!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? I didn't do anything!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Creeping your body up close enough to smell their very breath...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Licking them all over with a hot, lust-filled gaze...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And even using ten writhing, vulgar fingers to reach for their clothes--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hieeee!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Kyaaaa! Big brother, you pervert!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「--is what I'd sure love to do to Ria!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a nasty joke!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Buster!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Panda-chan, you don't even have ten fingers!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Fair enough...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, that scared me」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, big brother, you're gross!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is it my fault?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's your fault because you didn't discipline him properly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it is?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, um...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I did figure you wouldn't actually do something like that, big brother, so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then could you please take your hand off Alzard already!\\s01」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? Aah, sorry, sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew. Now I can finally relax and have lunch」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Lunch...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aww... is it that late already...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Want some too, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What's that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Special curry bento!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Everything's 'special' with you, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's good」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well... I guess I could at least give it a taste」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Go right ahead~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, save some for the great me too!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Little Panda, say aah~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A-Aah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not giving you any! Nom」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nga!? You little shrimp!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You too, Big Brother, here, say aah~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, I'm good...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just do it, say aah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, like I said...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuu, sniff...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, you hate me, don't you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh!? A-No, I'll eat it, I'll eat it!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Okay, here, say ahh~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahh~……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hup!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmph!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, is it good?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, it'sh delishush……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, don't talk with your mouth full. That's gross, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh…… That's an indirect kiss」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Haaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, spit it out, get it out right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmph--!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nooo!　That's so embarrassing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ngulp!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wah, you swallowed it!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's too late anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why I tried to hold back……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You should've said so from the start!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-Because, it's embarrassing, isn't it……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, it's only because you went and said that……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Ahaha…… Shall we eat the rest」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm good. I'm leaving now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, but」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I have a part-time shift this afternoon」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I see. Good luck」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah... see ya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... how did it taste, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it tasted like curry」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm, is that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if Azel finally decided to take class seriously」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Who knows」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel. Asking the teacher a question?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What do you want」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing in particular, I just thought it was admirable that you're actually asking questions」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're wrong」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stay away from me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, we're in the same class」"
+  },
+  {
+    "name": "Azel",
+    "message": "「…………」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, wait, what about class?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「She says she isn't feeling well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, is that right...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Now then, hurry along and get into the classroom」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, what an obnoxious teacher」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He's just serious」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I wonder about that...」"
+  }
+]

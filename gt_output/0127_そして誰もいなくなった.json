@@ -1,0 +1,569 @@
+[
+  {
+    "message": "そして誰もいなくなった"
+  },
+  {
+    "message": "KiraFes is finally tomorrow!"
+  },
+  {
+    "message": "Still, there's no time to get all sentimental!"
+  },
+  {
+    "name": "Misa",
+    "message": "「KiraFes is finally tomorrow!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heeere you go, Synn. This is the accounting report」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks. Approved. Stamp」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey. Can I eat these biscuits?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is our first major event since these Student Council members were elected. We must make it a success no matter what!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That is our sacred duty!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is the final version of the exhibitor list. A labor of love」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We shall unite as one, never letting our guard down until KiraFes concludes, and fulfill the responsibilities entrusted to us」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And thus, we shall exalt the name of the Ryuusei Academy Student Council--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm gonna eat the biscuits, okay? Time to dig iiin」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mustn't eat them all by yourself」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mmmm, delicious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ummm, what about the security roster--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's been done for ages」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-oh, thanks」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's no need to thank me. It's only natural」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just like Misa said, we definitely have to make this a success. For everyone's sparkling, shining school life」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something wrong?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Sigh*... Sakura-kun, you really are an airhead」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your heart just skipped a beat for Synn-sama, didn't it. Hey, come on」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Did not!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Omake-san, please exercise a little restraint」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ehh~~, come on, it's fine, it's fine」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Working hard is great and all, but relax a little more♪ If you don't loosen up your shoulders, you won't last until the end of KiraFes, ya know~?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Onee-sama...... I am deeply moved that you care so much about me\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan cares about everybody, man. You ain't the only special one, Hisu」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now. I believe the fair thing to do here is to verify which one of you she cares about more」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come! Vice President-san shall take Senpai-san's right hand, and President-san shall take his left----」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Pardon the intrusion while you are busy」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Big trouble, big trouble. Apparently they're short on materials for the stage~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was requested should have already been prepared, though」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Multiple scoundrels have been spotted taking more than their allotted share」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say. I cannot forgive anyone who disrupts order!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Other patrol committee members are currently conducting an inspection, so we should know the details by the time I return to the guardhouse」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We must retrieve them before they use them to set up their exhibits...... I'm heading out immediately」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I shall accompany you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Keep it peaceful, okay...... and they're gone」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Vice President-san's family is always charging recklessly ahead, aren't they. Nom」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aw man, the fun's over...... *sigh*」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, and also, Nana-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hm? What? Actually, why did you come along too, Sacchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「We arranged the buffet layout just like the plan said, but now that we're actually doing it, it looks like all sorts of problems are popping up~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just figure something out on your end」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Haha~. Just what are you expecting out of me, I wonder~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh... Yeah, that's just the kind of girl you are」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's my bestie. You really get me, don't ya~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Synn. I'm stepping out for a bit, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, have a good one」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know you'll feel lonely without me around, so hold onto this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A good luck charm. Alright, I'm off!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, 'Inviting Financial Fortune,' is it? Ah, the classic 'if you pity me, give me money' approach」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think that's slightly off the mark」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, I've always, always wondered about this. What even is money, anyway?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks like she still hasn't figured it out」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Omake truly lacks wisdom. You see, money is--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. We've got more important things to do right now than talk about money」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hello there. Looks like y'all are mighty busy」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? Ayane-chan, what brings you here?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It ain't much, just a little somethin' to keep your spirits up」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If it isn't much, please don't bother bringing it」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then. Allow me to take this back」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa. Looks yummy! Gonna eat it, gonna eat it!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What an honest little dear. Ria, mind if I take this one home with me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No~pe\\s04」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh, how mean」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gonna eat it, gonna eat it, gonna eat it right now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way. Wait until everyone gets back. Hold on, when did biscuits appear!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The little tagalong ate it all. I saw the whole thing from start to finish.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Stop her instead of just watching」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It wasn't just me! Angel-face over here was eating it too!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was roughly one to ten.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No way, you ate at least seven」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My, how lively. Watching the two of you frolic so innocently like little children warms my heart.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is 'heartwarming' really the word」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There wasn't much left anyway, so it's fine, isn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then let me correct myself. Seven to seventy.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, yeah, that's better」"
+  },
+  {
+    "name": "Sally",
+    "message": "「--Wait, don't mess with me! That's the exact same ratio!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. I made sure it stayed the same.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Grrr, you little angel!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I am not an angel! I am merely as cute and pure as one!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Angel, angel, angel, angel, angel, angel!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Guhhh. You have quite an attitude for a mere tagalong!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What lovely wings. They're as graceful as a celestial maiden's robes. Truly, they feel wonderful to touch」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I don't have any wings!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayane-chan, didn't you need something?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I just finished arranging the Japanese sweets corner, so I thought I'd have you take a look. You seem busy, though, so never mind.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Klutz can't even hide her own wings!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't want to hear that from a tagalong who's always floating around lazily!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, Ria-senpai. I'll handle things here, so could you go take a look?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, got it. I'll be right back」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Much obliged. I'll be borrowin' Ria for a bit. I'll return her as soon as I can, so bear with me」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm an intellectual worker, you know! Looking all fluffy and lazy is just on the outside!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What Omake-san thinks about is hardly impressive. It's all just beef bowls, sweets, and evil schemes anyway.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I don't think about beef bowls or sweets! If I think about them, I'll just get even hungrier!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not denying the evil schemes...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then you're barely thinking about anything at all, aren't you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「An intellectual worker who doesn't think about anything... Pfft.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「G-Grrr, you're pissing me off, angel! Today's the day I show you who's on top!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You've got quite the nerve saying that to me, the one who defeated Omake-san's boss with ease! I'll teach you your place!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on, you two! We're in the middle of Student Council activities--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Acting all high and mighty when you didn't even beat him by yourself! I'm the one who's gonna teach you your place!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You asked for it... Don't blame me when you regret this.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Who's gonna regret anything! Take it outside!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gladly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte! Sally-chan! ...They left...」"
+  },
+  {
+    "message": "...It suddenly went quiet."
+  },
+  {
+    "message": "Amid the bustle of everyone preparing for KiraFes, only the Student Council room was silent."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Sure got quiet.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It really did get quiet.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeeh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel!? Where did you come from, why, and how!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What's all this commotion?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me... you didn't know KiraFes is tomorrow?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Kirafes?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah……」"
+  },
+  {
+    "message": "I dropped to my knees in defeat."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait--hold on, don't leave just yet!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Let go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then at least tell me why you suddenly popped up」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It was noisy, so I went to the next room. I came out because it got quiet」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Were you in the reference room since this morning?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Apparently so."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. If you've got that much free time, help us prep for Kirafes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, huh? Azel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "He left."
+  },
+  {
+    "message": "Everyone left."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Only I remained."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I suddenly need to use the bathroom……."
+  },
+  {
+    "message": "And then there were none, huh."
+  }
+]

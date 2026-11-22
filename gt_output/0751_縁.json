@@ -1,0 +1,614 @@
+[
+  {
+    "message": "縁"
+  },
+  {
+    "name": "Helena",
+    "message": "「Anyway, Nanaka-chan was so cool」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If she were a rugged guy, I would've fallen for her」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that so」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So, Azel-chan didn't come here, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tamiko-chan's work is flawless」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed it is」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Though, she didn't point out the one possibility that someone might be sheltering Azel-chan」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I think she'll be found within two or three days」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I suppose so」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, let me know if Azel-chan shows up」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I understand」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "As closing time arrives, Melilot locks the door."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Has your fever gone down?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It went down after I stayed put and read the book I borrowed yesterday」"
+  },
+  {
+    "message": "The two walk between the bookshelves, returning books that had been placed in the wrong spots back to where they belong."
+  },
+  {
+    "message": "Melilot explains how Riesling conducts her work,"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems my friend's work is flawless」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It also appears she has already deduced that you are here」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Aside from Synn, you're the only person I'm close to, after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm not one to talk, but you really should have built up a wider network of connections」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you tell me to leave, I'll leave」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't want to be a burden」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As long as one is alive, one is bound to be a burden to others」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, you're no burden at all. I'm sheltering you here of my own free will」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Heh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No, I was just thinking how strange it is」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「When we first met, I thought you were an unpleasant person」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You mean me, right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I thought you were quite the impudent transfer student myself」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And yet, here we are now, sorting through books together like this. And not because I was ordered to, either--I'm doing it voluntarily」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I assumed it was because you were afraid of me」"
+  },
+  {
+    "message": "Azel's hands stopped."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「For some reason, that made me feel sad」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Did you just remember something about Sakura」"
+  },
+  {
+    "name": "Azel",
+    "message": "「N-No. Well, I think about that all the time, though」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Let's pretend I didn't hear that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「T-That's not what I meant just now! It really isn't!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then what did you mean?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I meant the fact that you thought of me that way, Melilot」"
+  },
+  {
+    "message": "Melilot stopped what he was doing as well."
+  },
+  {
+    "name": "Melilot",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "message": "Azel looked up at Melilot."
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm doing this not because I'm afraid of you, but because I'm fond of you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It saddens me that you mistook it for fear」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Being with you is fun, Melilot. It's a different kind of fun from being with Synn, or the Student Council and the people around them...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「With my poor vocabulary, I can't put it into words well, but... I think... perhaps this is what it's like when a younger sister adores an older sister she's close to」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「F-forget I said that! This is just a one-sided, irrational feeling」"
+  },
+  {
+    "message": "Azel turned her face away and resumed organizing the bookshelf."
+  },
+  {
+    "name": "Azel",
+    "message": "「How shameless of me. Even though we've only known each other for a few months and I rely on you so much, I keep dodging the most important things」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I keep saying I'll tell you, yet I don't even try to, putting it off over and over. You must hate being looked up to by someone like that. So forget it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...You're mistaken」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Melilot's hand reached out and rearranged the book Azel had just put away."
+  },
+  {
+    "name": "Azel",
+    "message": "「Sorry...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm only joking」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-what is?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I feel the same way」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Thinking, so this is what having a younger sister is like」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Forget it... You don't have to force yourself to say things like that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even I have things I'm torn about whether I should tell you. So you don't need to worry about it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You do...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let's set aside the generalization that everyone has secrets for now」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Knowing that I'm hiding something from you, have your feelings changed?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel silently shook her head."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then that settles it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, a friend of mine once told me, 'You have to cherish what you feel. Killing or ignoring it with logic is the worst! You've got to enjoy life!'」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...That's a good friend」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I won't say it in front of them since it would go to their heads, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I... actually like those guys in the Student Council quite a bit, too」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I won't tell a soul」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And what about Sakura-kun?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That man and I are...」"
+  },
+  {
+    "message": "Tears suddenly welled up and overflowed from Azel's eyes."
+  },
+  {
+    "message": "Melilot casually averted her gaze."
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's rough, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well. I get how you feel, Demon Lord, though」"
+  },
+  {
+    "message": "If I leave it to Riesling-san, she might be able to find Azel."
+  },
+  {
+    "message": "Besides, I didn't really think coming to look would tell me anything, yet I couldn't stop myself from coming to see it anyway."
+  },
+  {
+    "message": "Right here, I fought Sengenin-sensei to protect Azel..."
+  },
+  {
+    "message": "Awakened as the Demon Lord... and Azel found out I was the Demon Lord..."
+  },
+  {
+    "name": "Melphas",
+    "message": "「She was crying right over there, you know」"
+  },
+  {
+    "message": "When I turned around--"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Good evening, young Student Council President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When... was that?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Two days ago, so it was late at night on December 16th」"
+  },
+  {
+    "message": "That's earlier than when Eauderourke saw Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「She was crying...?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Lovers' quarrels are all part of romance, and being played by crocodile tears is part of the game of love, too, yet you must never make a girl cry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't understand」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「A woman's heart is difficult to fathom. Though, regardless of whether one is a man or a woman, the depths of one's own heart are hard enough to understand even for oneself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't understand why Azel was crying」"
+  },
+  {
+    "message": "Why was she crying beside me while I slept?"
+  },
+  {
+    "message": "And after leaving me, why was she crying in this place?"
+  },
+  {
+    "name": "Melphas",
+    "message": "「In my humble opinion, if it was neither out of joy nor from dust or some irritant getting in her eyes, then it must have been because she was sad」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's genuinely a stupid thought」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「There is no point in shedding crocodile tears where no one else is watching, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Azel isn't clever enough to fake cry like that」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Indeed, I would imagine so. Had she been so clever, she likely would not have taken on such heavy karma」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Karma?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「All I can say is that she stood rooted to the spot there, weeping without making a sound」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel had slumped down here, watching the battle between me and Soltia."
+  },
+  {
+    "message": "So her crying and her disappearing have to be connected."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Is it because I'm the Demon Lord after all?"
+  },
+  {
+    "message": "Nanaka told me I wasn't, and everyone else accepted me too... yet it always comes back to that."
+  },
+  {
+    "name": "Melphas",
+    "message": "「If I may add one personal impression, when she was crying, she looked every bit like an ordinary girl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「She looked nothing at all like someone who would destroy the world--just a fragile, fleeting girl who seemed as though she might break at the slightest touch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Destroy the world... Please stop making weird jokes」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「'As if she were the legendary Demon Lord,' is that what you're thinking?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Does this person know?"
+  },
+  {
+    "message": "Just like Virus knew--that I'm the Demon Lord."
+  },
+  {
+    "name": "Synn",
+    "message": "「The Demon Lord doesn't destroy the world」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I am well aware. After all, I have heard that the Demon Lord saves the world」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Saves the world...? The Demon Lord...?」"
+  },
+  {
+    "message": "That was news to me."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Is that not the case, Great Sage Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, so you figured me out, huh」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Unexpected truths often lurk within words whispered in bed, mingled with seductive sighs and damp pillow talk」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that true, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It wasn't just sighs and pillow talk, man. There were boobs too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not that part! Does the Demon Lord actually save the world?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It ain't an obligation or anything. You don't have to save it. Just do whatever you want.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the first place, save it from what?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you forget?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I think I'll remember eventually.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Have you, the Student Council President, been on a date with her yet?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What are you saying all of a sudden?!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「If the world perishes, there can be no sweet, luscious confessions, no bittersweet, heart-throbbing dates, and no bashful yet innocent whispers of love. Wouldn't you agree?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「It would be splendid if you could magnificently save the world while indulging in a bittersweet romance with her. After all, that is the very definition of a perfect happy ending that wrings tears of blood from the masses.」"
+  }
+]

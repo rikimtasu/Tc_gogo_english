@@ -1,0 +1,522 @@
+[
+  {
+    "message": "特別な調味料"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...」"
+  },
+  {
+    "message": "A blue sky that just screams farm weather. Today, I'm transplanting komatsuna seedlings."
+  },
+  {
+    "message": "Once the transplanting is done, making covers for the crops to prepare for dead winter."
+  },
+  {
+    "name": "Paqy",
+    "message": "「You sure are diligent, Lord Synn. It's a rare Sunday, so don't you ever feel like sleeping in?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That'd be such a waste when the weather's this nice.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So you'd sleep in if the weather was bad?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I have to check the apartment for roof leaks, and once I'm up, there's plenty to do.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So in the end, you're an early riser no matter what.」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-dooooo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why do you assume it's not Soba? Is that wishful thinking?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not it at all.」"
+  },
+  {
+    "message": "Suddenly marched into the kitchen, what was thrust right under my nose was a plastic shopping bag from \"Inamiya Shopping Center.\""
+  },
+  {
+    "name": "Azel",
+    "message": "「Make it.」"
+  },
+  {
+    "message": "Saying that bluntly while keeping her face turned away, Azel sat down at the table."
+  },
+  {
+    "message": "Peeking inside, there were three packs of \"China 2000 Sichuan-Shanghai-Beijing-Style Ramen.\""
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... some for me too?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I just happened to bring three packs.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. So you're eating three packs' worth, Azel. Isn't that a bit much, though?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If it's too much to eat, yours truly will take care of the leftovers.」"
+  },
+  {
+    "message": "With her face still turned away, Azel said,"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm only eating one pack's worth.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do whatever you want with the rest.」"
+  },
+  {
+    "message": "Ah, so that's how it is."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Got it.」"
+  },
+  {
+    "message": "Quickly chopping up some green onions,"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, Azel. Did you get to see the Leica?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The library starts tomorrow.」"
+  },
+  {
+    "message": "I quickly beat the egg,"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then you're going to the library tomorrow. If it gets late, I'll come pick you up.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you sure?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah.」"
+  },
+  {
+    "message": "Even though it's just that he didn't tell me not to come or that he didn't need me to, it still makes me happy."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn. Your hands stopped moving.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oops.」"
+  },
+  {
+    "message": "I add the beaten egg and green onions to the finished instant ramen to round out the flavor."
+  },
+  {
+    "message": "Add just a dash of secret-ingredient dashi to make it extra tasty, transfer it to a bowl, and it's done."
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go, sorry for the wait.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks delicious.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's eat.」"
+  },
+  {
+    "message": "Azel deliberately pulls out a digital camera and snaps a picture of the ramen before,"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you for the meal.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Digging in!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Delicious!」"
+  },
+  {
+    "message": "As I slurp my ramen, I'm thinking about how Azel wears his uniform even on Sundays, though I'd like to see him in casual clothes once in a while, when suddenly."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why what?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I've eaten this exact ramen for every meal this past week, yet it's never been this good.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A whole week means... twenty-one packs?! Five packs cost a hundred yen, so... a whole four hundred yen?!」"
+  },
+  {
+    "message": "So Azel is richer than me..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Did you put green onions and egg in it? It's kinda meh if you don't, ya know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I did.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You shouldn't put too much in.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I tried varying the amounts. However, none tasted better than this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm.」"
+  },
+  {
+    "message": "Azel started slurping his ramen again."
+  },
+  {
+    "message": "He kept tilting his head in puzzlement."
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. You are using eggs from that mysterious creature.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sasami is a boy, so he doesn't lay eggs.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then, are you buying expensive eggs?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You won't find any eggs cheaper than the ones Master Synn buys!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, a pack of twelve is only 45 yen.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not understand. I have been making and eating nothing but ramen since last week, adjusting the ratios and cooking times...」"
+  },
+  {
+    "message": "Tilting his head, Azel drank down the rest of the broth."
+  },
+  {
+    "name": "Synn",
+    "message": "「Once you get the hang of it, you'll be able to make it taste good.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So it is you, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have tested various ratios, and the eggs I used were of higher quality. That being the case, it would not be strange if I had produced something tastier than this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I guess that's true.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yet, eating it here tastes better.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Whether you are with me or not. That is the difference.」"
+  },
+  {
+    "message": "Azel looked straight at me with an earnest gaze."
+  },
+  {
+    "name": "Azel",
+    "message": "「In other words, it tastes delicious because I am eating it with you.」"
+  },
+  {
+    "message": "My heart skipped a beat."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... well, they do say food tastes better when you eat together rather than alone.」"
+  },
+  {
+    "message": "What am I getting all flustered over?!"
+  },
+  {
+    "name": "Azel",
+    "message": "「Chemical substances emitted into the air from your breath or pores must be making the ramen taste better. It is only logical.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Am I an air freshener or MSG to you? That's kind of depressing."
+  },
+  {
+    "name": "Azel",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's so moved by Aze-ko's brilliant deduction that he's lost for words」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It was merely a rational inference. If I had an analyzer, I could determine what it is. It's a shame」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You find it a shame too, I see」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wrong kind of shame, man」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Smells so good~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah! Prez is eating ramen! I wanna eat some~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. It's all gone」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Boo-hoo」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh? Azel, why are you here?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm the one who wants to ask that」"
+  },
+  {
+    "name": "Sally",
+    "message": "「'Cause this is my roost~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Y-You two are living together?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's not like we're living together」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Under the exact same roof, man」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez sure is big-hearted, huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...So that's how it is. A male and a female sharing a single nest. Mated with a Demon, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Mated?! No way! I'm on the first floor, and Sally's upstairs!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I-I see. Right, of course」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Good for you, Aze-ko」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I was merely confirming the facts」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Do you wanna live here too, Azel? If you do, I can lend you a room or something」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not really... It's not like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey there!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hello」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. We already finished eating」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In a situation like this, is 'Hello.' not the proper greeting?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nanakaaa! Kaicho's being mean! He's eating ramen behind my back. Oh, soba! Gimme some soba」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Why is Azel here?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm taking it! Thanks for the fooood!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I came to have him make me ramen」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...That's it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She went out of her way to bring instant ramen with her, y'know」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Slurp, slurp, slurp! Yummy, yummy! So yummyyy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm. Is that right...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There couldn't possibly be any other reason」"
+  },
+  {
+    "message": "She didn't come over just because she wanted to eat with me, after all."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, as long as nothing happened, I guess it's fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What exactly do you think would happen」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yours truly thinks the biggest reason nothing happened is Synn-sama himself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that supposed to mean?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. You came here to have a meal with him too, didn't you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's not like that, his parents just asked me to look after him, that's all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, you too?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Apparently, the chemical substances emitted from this guy make food taste better」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the heck is that!?」"
+  }
+]

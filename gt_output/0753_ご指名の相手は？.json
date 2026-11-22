@@ -1,0 +1,676 @@
+[
+  {
+    "message": "ご指名の相手は？"
+  },
+  {
+    "name": "Synn",
+    "message": "「When you actually mark off the space like this, it looks pretty small, doesn't it」"
+  },
+  {
+    "message": "In the plaza, the setup area was already marked out with duct tape, and the materials had been brought in."
+  },
+  {
+    "message": "All that was left was to assemble everything the day before."
+  },
+  {
+    "name": "Ria",
+    "message": "「It'll be fine. We actually secured a space a size larger than last year's for the wind ensemble's performance area」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The lineup hasn't even changed. Besides, you looked at the floor plan and gave the OK yourself, didn't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just pictured it being a lot wider」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, it's like that thing, you know. When you look at a lot where a house got torn down, it looks surprisingly small, right? When there's nothing there, it looks smaller」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So everyone's going to dance right here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're gonna dance with yours truly, Ria-chan」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm, sorry. I already have someone in mind」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're gonna betray the promise you made with yours truly before we were even born!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't make a promise before you're born」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Before even worrying about whether you'll dance or not, you don't even have the height for it, do you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-hitting right where it hurts……」"
+  },
+  {
+    "message": "I didn't want to dance with anyone other than Azel."
+  },
+  {
+    "message": "Still, would Azel actually accept my invitation?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If Sakura-kun asks you, will you dance with him?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Impossible」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun will surely be disappointed」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is there someone else you wish to dance with?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There's no way there would be」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I believe Sakura-kun feels the exact same way」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-in the first place, I'm not even going to see him」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Besides, Synn has Nanaka」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Listen to what the other person has to say. That is the first duty of love」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is that so?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Who knows. It's merely a quote, after all. Did you hear it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nanaka is in love with Synn. She has been for a long time」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And so... Nanaka will probably dance with Synn」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun won't dance. Not unless it's with you, Azel-san. I have no proof, yet I just know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...That's irrational」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is irrational, isn't it. Still, I just know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is it really fine for me to go out?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You must feel suffocated cooped up inside, don't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, haven't they deployed a search net to track down my whereabouts?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The academy grounds are not under surveillance」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "message": "Melilot let out a long sigh."
+  },
+  {
+    "name": "Azel",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, it's just that I'm not used to this sort of thing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This sort of thing...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「By nature, I'm quite bad at socializing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that right? As a librarian, wouldn't you be dealing with people constantly?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Dealing with people and socializing with them are two different things, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is that how it works」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is how it works」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm bad at it too」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. I'm sure you are」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So things like persuading someone, or acting as a go-between, are the absolute hardest of hard tasks. It's completely unprecedented」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That sounds... rough. You have my sympathy」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Normally, I wouldn't do such a thing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then don't」"
+  },
+  {
+    "message": "Melilot gave a wry smile."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can't just leave it alone. Because I want her to be happy」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't quite follow, but who is this woman?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If I'm good enough, I'll listen to you about this problem」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Or is it something you can't tell me? Certainly, I'm bad at socializing too, and I don't have that kind of experience, but I can at least listen」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's you, Azel-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Me!?」"
+  },
+  {
+    "message": "Azel stopped in her tracks and looked at Melilot beside her."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I thought a lot about how to bring it up, but I'll just get straight to the point」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-Is this about Synn!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Ugh... I'm the one who said I'd listen. I'll listen」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is the reason you can't dance with Sakura-kun because the world will end?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「!」"
+  },
+  {
+    "message": "Azel's eyes widened for a moment, before she awkwardly turned her face away,"
+  },
+  {
+    "name": "Azel",
+    "message": "「Th-That was just a stupid joke of mine」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Or is it because Sakura-kun is a Demon Lord, and you are an angel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-W-What are you talking about... Angels and Demon Lords, that's ridiculous」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is not ridiculous. Because they actually exist.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As a member of the Re-Crea investigation team dispatched to this world, you should know that best of all, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「H-How do you know that!」"
+  },
+  {
+    "message": "A cold winter wind blows between the two as they stare at each other."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Through data-based deduction, as well as investigation and observation of facts to corroborate that deduction.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「After all, my job is to investigate and record as well.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A human investigating Re-Crea... Melilot, are you from Kujou!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No.」"
+  },
+  {
+    "message": "Melilot hesitated slightly before continuing."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I am a Demon. Perhaps you have heard the name Nive?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nive!?」"
+  },
+  {
+    "message": "Melilot pointed at the ground by their feet."
+  },
+  {
+    "name": "Melilot",
+    "message": "「What a beautiful seal. This is something only an angel of great power could create.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You can see it!? No, if you can, then you shouldn't be a Demon!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia should have been able to sense it as well. Though I cannot say whether she could read it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You know Soltia!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You are the one who wove this, aren't you, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Since when」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I only learned about the angel's seal very recently.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...And when did you find out I was an angel?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ever since you transferred in, I suspected that might be the case.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then... becoming friends with me, and sheltering me, it was all」"
+  },
+  {
+    "message": "Azel involuntarily staggered and stepped back."
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is not true.」"
+  },
+  {
+    "message": "Melilot stepped forward by that exact same distance."
+  },
+  {
+    "name": "Azel",
+    "message": "「Otherwise, there's no way he'd be so kind to someone as antisocial as me!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's not true. I understand why you might think that, but it isn't true」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But」"
+  },
+  {
+    "message": "Melilot took hold of Azel's hand."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel, you didn't get close to Sakura with any ulterior motive either, did you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No! That's not it! Anything but that!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's the same for me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can't offer any rational proof, but it's true」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Me too!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I believe you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "After a brief moment, Azel gave a small nod."
+  },
+  {
+    "name": "Azel",
+    "message": "「I... believe you too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do I have to call you Nibe?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please call me Melilot. That is simply the name of my clan」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Melilot」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you going to tell... Synn and the others about this?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is for you to decide, Azel. I won't say a word」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Why? Because I」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're running away from Sakura because you helped the Virus gang by placing a seal to protect the magic circle from destruction, aren't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, you simply need to undo the seal in secret」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Undo... the seal?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Only Helena and I know of the seal and the magic circle's existence. Sakura and the others don't know anything」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Once the seal is undone, destroying the magic circle will be easy. We'll make it as if none of it ever happened」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel. You didn't do anything. You never cooperated with Virus and the others.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's all we have to make the story.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As for why you went into hiding, we can just say you had urgent business back in your hometown.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It came up so suddenly that you didn't have time to let anyone know beforehand. Won't that work just fine?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There's no need to worry about a thing.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...That's not all of it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Maybe it isn't. Still, nobody else knows about it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Aren't you going to ask... why I sealed it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you feel you should tell me, Azel, then please do.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Even you will end up keeping secrets from everyone, Melilot.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone has things they can't tell others.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「First, let's undo the seal on the magic circle inside the academy tonight. I'll take care of destroying it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Than--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A-Aah, aaghaaaaaaaaah!」"
+  },
+  {
+    "message": "Azel suddenly clutched his chest and began writhing in pain"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel?!」"
+  },
+  {
+    "message": "Twisting in agony, Azel slapped Melilot's hand away."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No... Don't touch me with such warm hands.」"
+  },
+  {
+    "message": "Azel staggered backward."
+  },
+  {
+    "message": "Despair--and a faint trace of relief--crossed his pale face."
+  },
+  {
+    "name": "Azel",
+    "message": "「Tell Synn... goodbye... for me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There's no need for that! Because none of it ever happened!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If only we could do as you say, Melilot... how wonderful that would be... I truly mean that...」"
+  },
+  {
+    "message": "Azel wrapped both arms tightly around his own shoulders."
+  },
+  {
+    "message": "He looked as though he were trying to hold back something threatening to spill out from within him."
+  },
+  {
+    "name": "Azel",
+    "message": "「It won't even let me deny it...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's no use... I... I even tried to kill Synn with my own hands」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm... nothing more than my master's weapon... Betraying my master is impossible...」"
+  }
+]

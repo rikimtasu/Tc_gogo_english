@@ -1,0 +1,181 @@
+[
+  {
+    "message": "そういうもの"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's going on?」"
+  },
+  {
+    "message": "Along the roadside, kids are making a lively ruckus."
+  },
+  {
+    "message": "That sight in itself is pretty ordinary, except every single one of them is running in the exact same direction. From that alley over there, and from this alley right here."
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go check it out!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch! Eyes sparkling like a freakin' angel--what are you, a kid too, Synn-sama?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't help it if I wanna go.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I ended up coming all the way to Asukai Shrine...」"
+  },
+  {
+    "message": "Inside the shrine grounds are plenty of early arrivals--all children. Some are running around playing shadow tag, others are playing hide-and-seek, and a few are sitting on the stage chatting happily."
+  },
+  {
+    "message": "Autumn has deepened and the temperature has dropped, leaving everyone's cheeks rosy red. Still, there's probably no worry of anyone catching a cold."
+  },
+  {
+    "message": "A folding table has been set up in front of the worship hall, and a huge stockpot sitting on a portable stove is sending up billows of steam and a piping-hot, sweet aroma."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there, good work.」"
+  },
+  {
+    "message": "Drawn in by the smell, I walk right over. Holding a ladle in one hand while keeping an eye on the heat is, of course, the shrine maiden--"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, Synn-dono. Welcome, thank you for coming.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Come, come, please partake of some zenzai... rather, oshiruko. There is salted kelp on the side as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, thanks.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you're making oshiruko at the shrine and handing it out to the kids?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, this hospitality is not limited to the young. Though at this hour on a weekday, most of those gathered happen to be children.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't know Asukai Shrine had an event like this.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Humble as it may look, this is a proper Shinto ritual, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is a ritual meal originally called 'Kagiwatashi,' though regrettably its detailed origins have been lost to time.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Because copper soup bowls are used, learned scholars have put forth all manner of theories... yet opinions remain divided, with no established consensus.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, isn't it just so the bowls won't break if a kid trips while eating?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Truth be told, I happen to think the very same thing... hup.」"
+  },
+  {
+    "message": "There must be very little left, as Shio-chan tilts the deep stockpot to ladle out the oshiruko."
+  },
+  {
+    "message": "Just how many kids did she serve this to? My eyes follow the children dashing energetically around the shrine grounds."
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh?!」"
+  },
+  {
+    "message": "The number of kids playing shadow tag doesn't match the number of their shadows. Flustered and thinking my eyes are playing tricks on me, I check again and again, yet no matter how many times I count, there is one shadow too many."
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shio-chan... that shadow--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My word, can you see it as well, Sir Synn?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Have no fear, that is simply how it is, you see? It merely plays alongside us and causes no harm」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Back when Elder Sister and I used to play house on the shrine grounds, that thing was already there」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, wait. Please keep that matter a secret from Elder Sister, all right? She would surely faint from fright」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah... Come to think of it, Misa isn't here today?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「She has studying to do for her exams, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, there's a test tomorrow too. Are you preparing properly for it, Shio-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I-I-I was making oshiruko precisely for the sake of my exam studies, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「T-T-T-To learn things efficiently, is it not necessary to supply the brain with sugar?」"
+  },
+  {
+    "message": "...Is it just my imagination, or does that sound terribly like an excuse?"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hup... Thank you for waiting, here is your oshiruko, Sir Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...That's the last of it, isn't it?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. Good fortune lies in the last helping. Please accept it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's none left for you, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ngggh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's share it between the two of us. Even if we split it in half, the power of good fortune remains whole and just as strong」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What a wonderful idea. Then, I shall gladly partake without hesitation」"
+  },
+  {
+    "message": "I don't know what the Shinto ritual signifies, yet Shio-chan and I share a single bowl of oshiruko."
+  },
+  {
+    "message": "Glancing over, I saw that the little shadow had started playing tag."
+  }
+]

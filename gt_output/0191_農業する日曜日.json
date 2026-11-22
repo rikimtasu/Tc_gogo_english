@@ -1,0 +1,355 @@
+[
+  {
+    "message": "農業する日曜日"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, time to do my best today too and aim for that sparkling academy life!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hate to rain on your parade when you're all fired up and already in your uniform, Demon Lord, but」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Today's Sunday, ya know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh」"
+  },
+  {
+    "message": "I guess I've been pretty busy lately with all the stuff for KiraFes."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wanna go back to sleep?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I went through the trouble of waking up early, so that'd be a waste」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then how 'bout we do some knitting to get ready for winter? Yours truly wants a belly warmer!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know! Today I'll--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's the last of the onions! Next up is spinach, huh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Someone's here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sasamiii, how ya doing? Synn hasn't eaten you or anything, has he?」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cluck-cluck, bawk, bawk」"
+  },
+  {
+    "message": "It's Nanaka."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Always full of energy, aren't you. Wish you'd lay a ton of eggs at this rate... though you're a boy, so no luck there. Ah, hey, stop, that tickles」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Bawk, bawk, cock-a-doodle-doo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mornin'! Working the fields on your day off--you sure are dedicated」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I finally got some free time, so I'm transplanting seedlings」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, so the seedlings turned out okay」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, since they were inside the house」"
+  },
+  {
+    "message": "Nanaka pulled a pair of work gloves from her pocket and slipped them on."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the help」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't mention it, don't mention it. Besides, we don't have a yard at my place. How are the seedlings looking?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The onions and spinach are looking good」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Glad to hear it. Should I transplant these?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In this planter over here, please」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Got it!」"
+  },
+  {
+    "message": "We line up side by side and get to work."
+  },
+  {
+    "message": "Moving the spinach sprouting tiny leaves from the seedbed into the planter."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This year's batch is super lively. Nice color and sheen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Putting those sliced plastic bottle rings into the seedbed seems to have worked well. The roots didn't get tangled up either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess helping you collect all those plastic bottles paid off after all」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You two are totally in sync」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We do this every year」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder how many years it's been now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Around twelve or thirteen years」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey Synn-sama, why don't you just tear down this rundown apartment and take up farming? Nobody lives here anyway. Apparently suburban farming near a big city brings in pretty good money」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, I've heard about that from Aunt Shina. She said the old ladies who haul veggies in on trucks to sell are actually pretty loaded」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A sparkling, glamorous farming life for me too! Ah, wait, no good. I'd lose my place to live」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just crash at Soba's place」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, that might actually be a great idea!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... What you'd call living together, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-L-Living--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Living together!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Napuru!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't phrase it like that, people'll get the wrong idea!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Simply renting a room would be one thing, but... l-living together...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, totally. At most, call it being a freeloader or something」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-yeah, yeah! That's it, that's it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh, ahh. R-right, hey, it was really too bad this year, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... I think the yield's pretty good, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, the autumn harvest is small, right? Since the Demons trashed the place」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Though the taro and daikon were fine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, because they're underground?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the daikon you planted, Nanaka--I think we can harvest those today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Awesome! That's 'cause I'm always such a good girl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In what universe」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that?!」"
+  },
+  {
+    "message": "Transplanting the spinach. Sowing green peas and komatsuna in the seedbed. Direct-seeding rapeseed into the planter."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Kyaaaaa」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「E-earthworms are so scary~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That act doesn't suit you, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha. I thought so too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, Sasami. For you」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Bawk!」"
+  },
+  {
+    "message": "And then, harvesting the daikon."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heave-ho! Whoa, it's thick!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Looks just like Soba's legs」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Chogori!」"
+  },
+  {
+    "message": "And so, a day spent working hard at farm labor came to an end."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whew. Worked up a good sweat」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sure did」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Want to use the bath?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, hey, don't go offering *that* to a girl」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You sure I can go first?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's taking it completely in stride!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I want to clean up and take care of my gear anyway」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll help」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, don't worry about it. You already helped me out plenty today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then I'll go ahead and make some soba in the meantime」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn, couldn't you be a little more, how do I put it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, it's nothing. Well, I guess this kind of dynamic works too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "message": "And so, after enjoying Nanaka's soba, a fun day came to an end."
+  },
+  {
+    "message": "The soba was most delicious."
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "message": "二人だから、魔王"
+  },
+  {
+    "name": "Soltia",
+    "message": "「No... It can't be...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You mean to tell me... this is the power of the Demon Lord...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eheheh, how do you like that!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「And this little girl, too...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「To think she possesses this much latent potential...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shall we continue」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hmph... I'll pass」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「For today, let's leave it at a mere warm-up」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Look forward to the next time we meet」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, wait up!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Fufufu...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's gone...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Maybe I went a little too easy on punishing her...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. No matter how many times she comes at us, we'll never lose」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mm... yeah, you're right」"
+  },
+  {
+    "message": "As long as I'm with Macaron, I know we can overcome anything."
+  },
+  {
+    "message": "Right now, I just can't help feeling that way."
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-heyyy... My Demon Lord...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Paqy. Did you swell up from the dampness?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「My body feels so heavy, it's gross...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come to think of it, me too... My coat is heavy...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's hurry back and dry off... Bwah-choo!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「At this rate, you might catch another cold before we even get home...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh... *sniff*」"
+  },
+  {
+    "message": "Either way, we have no choice but to hurry home."
+  },
+  {
+    "message": "I really might catch a cold……."
+  },
+  {
+    "message": "----Just as we were about ready to give up, a kind-hearted savior noticed our plight."
+  },
+  {
+    "message": "The owner of the bathhouse Macaron always visits called out to us as we passed by the storefront."
+  },
+  {
+    "message": "It was right before opening hours, and we tried turning down the offer since we felt bad about dirtying the water, though."
+  },
+  {
+    "message": "Seeing the sorry state we were in, the bathhouse owner graciously let us use the men's bath, which had just finished being prepared."
+  },
+  {
+    "message": "…………。"
+  },
+  {
+    "message": "Which was all well and good, except……."
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Macaron…… how's the water temperature……?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mm…… just right, I think……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What about you, big brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Oh, yeah, maybe a little hot……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then should I cool it down?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah! Actually, I'm fine! It's just right!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah……」"
+  },
+  {
+    "message": "If Macaron started wandering around in a situation like this, I wouldn't know where to look……."
+  },
+  {
+    "message": "Just the two of us in a spacious tub."
+  },
+  {
+    "message": "Back-to-back, soaking up to our shoulders."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Phew~…… I feel revived~……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Feels so good~, doesn't it~……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah……」"
+  },
+  {
+    "message": "Well, I'm too worked up to relax."
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey. I really think I should wait outside……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No way!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If you do that, you'll catch a cold while I'm still in here, big brother.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe the women's bath is ready by now too……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It wouldn't be right to dirty any more of their bathwater, would it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ngh, good point……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Could it be, big brother……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You don't wanna take a bath with me……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Th-Th-That's not it at all!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Thought so~. We're always together, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe」"
+  },
+  {
+    "message": "With a soft bump."
+  },
+  {
+    "message": "Macaron's small back presses right up against mine."
+  },
+  {
+    "message": "As if mirroring my flustered heart, ripples slowly spread across the water……."
+  },
+  {
+    "message": "My chilled body gradually regains its warmth."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, we got really lucky that the bathhouse owner is such a nice person」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've always been helping out with cleaning and stuff, right? That's all thanks to you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, well, yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「The only reason you get to be all warm and cozy like this, big brother, is thanks to me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……And the only reason I was able to get back on my feet like this…… is thanks to you, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……You're welcome」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nothing, really」"
+  },
+  {
+    "message": "Macaron presses her back even closer against mine."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see……」"
+  },
+  {
+    "message": "I can feel our heartbeats overlapping, beating faster and faster."
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Whose heart is pounding harder blurs together until I can't even tell."
+  },
+  {
+    "message": "Just staying still like this feels like it's going to make both of us dizzy from the heat."
+  },
+  {
+    "message": "And yet, this feeling."
+  },
+  {
+    "message": "This hot, breathless feeling, with my head completely full of Macaron."
+  },
+  {
+    "message": "It makes me hopelessly happy."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, listen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm just... kind of happy」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I've always looked up to a Demon Lord like Master...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And unrelated to all that, I started thinking you were really wonderful, Big Brother...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So when I think about becoming the Demon Lord I've always admired together with you, Big Brother...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Nfheheh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I can't help grinning no matter what!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I think I get that feeling」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Do you think I'm creepy too, after all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're cute」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nyaaah, geez! You only ever say things like that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hyaah!? Hey, don't push me down! I'm sinking, blub-blub-blub!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ahaha! You're so funny, Big Brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bwah, haah, listen...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Being with you is fun, Big Brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ever since coming to the Human World, the time I've spent with you has been the most fun of all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And I think it'll probably stay that way forever from now on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I wish I'd told you about the Demon Lord stuff sooner, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Seriously」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I kept quiet the whole time because I didn't want you to hate me, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right now, I'm just proud that I can be of help to you, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even though it's a little frustrating」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's not bring that up again...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, I'm just kidding」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, you little--」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Take this--kaboom!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bwaaah?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, stop splashing around in the bath」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're the one doing it, Macaron……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, look, my towel came off……\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?!」"
+  },
+  {
+    "message": "When I turned around, there stood Macaron, without a stitch of clothing on!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bubah?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hya?! What's wrong?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ababa……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Wait a second, big brother! A nosebleed, you've got a nosebleed!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Blub-blub-blub……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Kyaaa! Don't you die on me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bgoh……」"
+  },
+  {
+    "message": "In the end, I wound up getting dizzy from the heat and passing out right then and there."
+  },
+  {
+    "message": "I ended up causing a huge amount of trouble for both the bathhouse and Macaron."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, you're such a handful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm so ashamed……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, big brother…… looking like that……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Everything was in plain sight……\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hiiyaaa~! Stahp it~!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, dummy\\s10」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I can never be a bride anymore……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You mean a groom」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Macaron's?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wha--!? H-Hey, stop it already, kyaa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gyaaaah--!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Phew, that surprised me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seriously!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Hey... don't shake me around so much...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Paqy, you okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, Great Sage」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「The dryer was super comfy, wasn't it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「As if it would be!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Getting spun round and round like that... urp, I still feel like I'm gonna puke...」"
+  },
+  {
+    "message": "I can't even bear to imagine it."
+  },
+  {
+    "message": "Well, I guess it's better than being soaked to the bone."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Taking a bath made me kinda hungry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's hurry home and get some food」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How about we cook together today?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm, what should I do~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, it wouldn't hurt」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ehehe~ You're hopeless, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's do our best~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...What is with these guys」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Jeez, after making me worry so much...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, have fun getting along... urp...」"
+  }
+]

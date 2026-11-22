@@ -1,0 +1,520 @@
+[
+  {
+    "message": "必要な物と人"
+  },
+  {
+    "message": "Suddenly, my left hand was grabbed tightly."
+  },
+  {
+    "name": "Azel",
+    "message": "「Come.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa, so passionate first thing in the morning! You've gotta step up your game too, Nana-chan!」"
+  },
+  {
+    "message": "Dragged out into the hallway"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you run out of storage space or something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes. I used up all the film, so transfer it for me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Film?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hooold it right there, you two! Homeroom starts in two minutes!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Be quiet. It's an emergency.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's no excuse to skip homeroom!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sigh, you're totally hopeless, Nana-chan.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「In a situation like this, you have to compete with Azel-chan by grabbing Synn-kun's right hand and pulling him back!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I see!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No. I am taking this man with me.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like hell you are!」"
+  },
+  {
+    "message": "My right hand was grabbed with a firm grip."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Now, let the battle of the women begin! Split left and right, heigh-ho, heigh-ho!」"
+  },
+  {
+    "message": "I somehow feel completely mortified"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And then! Whichever one feels sorry for Synn-kun being in pain and lets go first is the real mother!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not trying to become Synn's mom or anything!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I will pass as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The mom I already have is more than enough for me.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Damn straight.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, before the battle starts, there's one thing I want to ask Azel, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What you used up was film, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's why I said to transfer it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't transfer film to a computer, you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You have to get it developed at a photo shop, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「O-Of course I know that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Is this!? Knowing Synn's personality, a really bad turn of events!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel, you still don't know your way around Ryuusei Town well, right? Once Student Council activities are over, I'll take you to the photo shop!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, nice suggestion~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, Nanaka. You have patrol today, don't you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know! Azel, once Student Council activities are over, let's go to the photo shop together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And hey, I saved up enough shopping district points, so on the way back I'll treat you to that ramen I promised」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ramen! Understood! By all means, take me with you!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Auu...... Worst possible outcome」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, what's been wrong with you for a while now?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「IT'S NOTHING AT ALL」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How pitiful」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That totally backfired on you, huh~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up! Take this, Sacchin!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No, not the pickled plum face~ It totally backfired on me~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn Sakura」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The day after tomorrow... is Sunday, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it is」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Could it not come a little sooner?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's impossible」"
+  },
+  {
+    "name": "Azel",
+    "message": "「True. Even I know that is unreasonable」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Still... I wish Sunday would get here faster...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you really that excited for the photos to be ready?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No--」"
+  },
+  {
+    "message": "Azel started to deny it, swallowed her words, and"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes. I am excited」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hope we got some good shots」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not know about that, but... I am looking forward to it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I think I will be excited the whole time from now until Sunday」"
+  },
+  {
+    "message": "She wouldn't say something like that if she were just taking photos for an investigation."
+  },
+  {
+    "message": "Azel really does love photography."
+  },
+  {
+    "name": "Synn",
+    "message": "「Once they're ready, we'll have to go show Melilot-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That goes without saying. However, I will show them to you before anyone else」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see」"
+  },
+  {
+    "message": "There's probably no deeper meaning to it."
+  },
+  {
+    "message": "It just means she'll meet up with me before going to see Melilot-san."
+  },
+  {
+    "name": "Synn",
+    "message": "「You've really come to love photography, haven't you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes. I love it. I am glad I came to love it. It makes me feel this excited」"
+  },
+  {
+    "message": "Azel smiled earnestly."
+  },
+  {
+    "message": "She really is a cute girl after all."
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn Sakura. It is all thanks to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "My hand was squeezed tight."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel.」"
+  },
+  {
+    "message": "It was a small hand, and a little cold. Even so, it felt comfortable and ticklish."
+  },
+  {
+    "name": "Azel",
+    "message": "「I have been meaning to tell you this for a long time.」"
+  },
+  {
+    "message": "Her clear eyes look straight up at me."
+  },
+  {
+    "message": "I feel like I could get drawn right into them."
+  },
+  {
+    "name": "Azel",
+    "message": "「Even though I treated you so harshly, you kept reaching out to me, and because of that, I discovered the library, photo books, and cameras.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I even became friends with Melilot, and she lent me a digital camera.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You would've found all that even without me.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is not true.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What I did wasn't really a big deal.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「To you, it may not have been a big deal. However--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「To me, it was a very big deal.」"
+  },
+  {
+    "message": "With one thing leading to another, we also went to eat ramen."
+  },
+  {
+    "message": "The walk to the dorm as I saw Azel home felt terribly short."
+  },
+  {
+    "name": "Azel",
+    "message": "「This is... perhaps a bit late to be saying, but--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you... for walking me home today as well.」"
+  },
+  {
+    "message": "You're being awfully honest today."
+  },
+  {
+    "message": "Even I know that saying that out loud would be poking a hornet's nest."
+  },
+  {
+    "name": "Synn",
+    "message": "「No problem. I just can't leave you alone, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not the sort of person you need to worry about. You are far more reckless than I am.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do. You ought to reflect on your actions a little.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... Nothing really comes to mind.」"
+  },
+  {
+    "message": "Azel gave a small laugh."
+  },
+  {
+    "name": "Azel",
+    "message": "「You are always looking forward, so I suppose you have no time to reflect on the past.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, even I reflect on things sometimes.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Did you not just say nothing came to mind?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right」"
+  },
+  {
+    "message": "Suddenly, the conversation trails off."
+  },
+  {
+    "message": "Azel has to go back to the dorm, and I have to go home."
+  },
+  {
+    "message": "Still, just a little longer."
+  },
+  {
+    "message": "For some reason, feeling that way,"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... have you decided on a new place yet?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I haven't heard anything from Helena yet」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Still, you should get ready for the move」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm already done」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll help you out on the day of」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you... though I don't have enough luggage to need help」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about furniture and stuff?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nothing at all. My only personal belongings are this Leica and my clothes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Those clothes. You really treasure them, huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's not it. It would just be a waste otherwise」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Really?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Really! It's not because they're cute or anything like that!」"
+  },
+  {
+    "message": "It seemed she liked them because they were cute."
+  },
+  {
+    "name": "Azel",
+    "message": "「Stop grinning!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once you move, you should at least buy a refrigerator」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A refrigerator?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「O-Of course I know what that is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If there's anything you want to buy, I'll show you around the shopping district」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you... I'll take you up on that when the time comes」"
+  }
+]

@@ -1,0 +1,1360 @@
+[
+  {
+    "message": "夕暮れの横顔"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hehehe... Just as expected of you, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got the wrong idea」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Using Student Council activities as an excuse to scout out peeping spots and spy on the school's girls--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just documenting the current state of the planned setup area before we start setting up. Especially the layout of the trees」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'd appreciate an explanation before the chop」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You bounce back fast」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's the big deal? Don't be so stingy over a tree or two. You'll never become a great Demon Lord acting like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not how it works. Nature is important, and besides, it'd cost money if we ended up cutting them down」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hehehe... Just as expected, Demon Lord. Funneling those saved expenses into the wealth of your totalitarian state--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got the wrong idea about that too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So your scheme is to doctor the photos you took, use 'em as proof later to make up a bunch of lies, and extort money out of 'em」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just taking precautions beforehand」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's the mysterious transfer student」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder what he's looking at?」"
+  },
+  {
+    "message": "Azel was sitting on the courtyard lawn, intently gazing at something resting on his lap."
+  },
+  {
+    "message": "I quietly approached and peeked over his shoulder from behind."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Eh!?」"
+  },
+  {
+    "message": "Azel spun around as if startled by a jolt."
+  },
+  {
+    "message": "Spread open on his lap was the mountain photo book, \"Fleeting Moments of the Mountains.\""
+  },
+  {
+    "name": "Synn",
+    "message": "「So you borrowed that photo book」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I did no such thing as borrow it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then... did you take it without permission?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「D-Don't say things that give the wrong impression. T-This is, well...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It just happened to be in my hands」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You borrowed it, didn't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Books are pointless. I didn't borrow it. It was lying on the ground」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were totally engrossed in reading it, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're mistaken」"
+  },
+  {
+    "message": "Azel closed the book and set it curtly beside himself, feigning indifference. Man, he's stubborn."
+  },
+  {
+    "name": "Synn",
+    "message": "「Then we have to return it to the library」"
+  },
+  {
+    "message": "With a slight touch of mischief, when I reached out for the book."
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you doing!」"
+  },
+  {
+    "message": "Azel swiftly clutched the book to himself."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well... you're not going to read it, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「T-That's... true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll go return it for you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There's no need to do it right this second」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be scary if Melilot-san thinks you took it out without permission」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Scary?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For some reason, she apparently knows the exact location of every single book in the library's collection」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you have an overdue book or took one without checking it out, she suddenly appears every break period and politely tells you to return it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Ngh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Apparently, there was even a student whose hair turned pure white the day after being made to return a book」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're scared of Melilot-san, I'll go return it for you, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I am not scared in the slightest」"
+  },
+  {
+    "message": "So he is scared."
+  },
+  {
+    "name": "Azel",
+    "message": "「Besides... that's impossible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There's no way she's keeping track of that huge number」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What's with that look, like you're staring at someone who doesn't know anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I didn't think it was possible either, and I thought it was just a rumor, though」"
+  },
+  {
+    "message": "That was..."
+  },
+  {
+    "name": "Azel",
+    "message": "「...What on earth happened?」"
+  },
+  {
+    "message": "That was terrifying..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry... I can't remember... I feel like something unimaginably terrifying happened, but... when I try to remember, I get the shakes and a headache...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even being overdue is that terrifying, so if she thinks it was taken without permission, what kind of hell would she put us through...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What kind?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nobody's had a death wish like that for the past ten years, so I don't know... b-but」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I followed the proper procedures to borrow it, so there's no need to be afraid」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. So you did borrow it after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She is pretty, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It was just a whim」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even you act on a whim sometimes, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "message": "Now then, guess I'll get back to work."
+  },
+  {
+    "message": "At this rate, Azel won't be able to read the photo book either."
+  },
+  {
+    "name": "Azel",
+    "message": "「What is that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, this. It's a digicam」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is a digicam?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A camera. A digital camera」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Camera?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait... do you not know what a camera is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I know. A camera, yes, a camera」"
+  },
+  {
+    "message": "Just what kind of country is Azel from..."
+  },
+  {
+    "name": "Synn",
+    "message": "「I know you know, but just in case. A camera is a machine for taking photos」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Taking photos?」"
+  },
+  {
+    "message": "I knew it. Azel doesn't even know what a photo is."
+  },
+  {
+    "message": "I operated the digicam in front of Azel to show him."
+  },
+  {
+    "name": "Synn",
+    "message": "「You point this part at the scene you want to capture. And then, when you press this button」"
+  },
+  {
+    "message": "Then I loaded the image I had just taken from the memory."
+  },
+  {
+    "name": "Synn",
+    "message": "「The scene from just now is recorded, see?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ooh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The scenes in that photobook were also taken with a camera, though the operating principle is different from this one」"
+  },
+  {
+    "message": "Azel stared intently at the cover of the photobook."
+  },
+  {
+    "name": "Azel",
+    "message": "「...S-So it's what creates things like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though, I'm not a professional photographer, so I can't take pretty photos like those」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Photographer?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「People who make a living taking photos like these that move people's hearts」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Unbelievable」"
+  },
+  {
+    "message": "Perhaps suddenly noticing my gaze, Azel turned away."
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What a pointless existence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "He doesn't have to force himself to say things like that."
+  },
+  {
+    "name": "Azel",
+    "message": "「You don't need them to live. They're pointless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if you put it like that, most things are.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ridiculous. Nothing but a waste.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're pretty, though.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not impressed!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah, yeah.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no interest in them either.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gotcha.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, I know.」"
+  },
+  {
+    "message": "Holding back a smile, I stepped away from Azel."
+  },
+  {
+    "message": "Back to work. I'd like to get the data sorted out today if I can."
+  },
+  {
+    "message": "Yeah. Going smoothly."
+  },
+  {
+    "message": "At this rate, I should be able to get back to the Student Council room before it's time to leave school, transfer the data to the computer, and organize it."
+  },
+  {
+    "message": "I glanced over at Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Completely absorbed. Guess he really likes it after all."
+  },
+  {
+    "message": "Photos were a bit of a surprise, though."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Oh, looks like he finished looking through it."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "He's starting over from the beginning again."
+  },
+  {
+    "message": "Oops. If I stare too much, he'll notice. Come on, work, work."
+  },
+  {
+    "message": "Almost done taking pictures..."
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa.」"
+  },
+  {
+    "message": "Before I knew it, Azel was standing right next to me."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's you, Azel... You scared me.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, this. It's a digicam」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A digicam?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... a camera. It's a digital camera.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Camera?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait... do you not know what a camera is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I know. A camera, yes, a camera」"
+  },
+  {
+    "message": "Not even having cameras--just what kind of place is Azel's homeland?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... I'm sure you know this, but a camera is a machine for taking photos.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Photos?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "You don't even know what photos are, huh."
+  },
+  {
+    "name": "Azel",
+    "message": "「O-Of course I know. Photos, yes, photos.」"
+  },
+  {
+    "message": "I operated the digicam in front of Azel to show him."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure you know this too, but... you point this part at the scenery you want to capture. And then, when you press this button--」"
+  },
+  {
+    "message": "Then I loaded the image I had just taken from the memory."
+  },
+  {
+    "name": "Synn",
+    "message": "「The scene from just now is recorded, see?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel stood stunned for a while."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「To think you possessed such a transcendent skill!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just an amateur.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yet you can create something of this caliber.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...There are plenty of much more amazing photos out there, though.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is that true?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Want to go see them?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no interest.」"
+  },
+  {
+    "message": "Then why are you following me?"
+  },
+  {
+    "message": "I'd come to understand Azel well enough not to say that out loud."
+  },
+  {
+    "name": "Synn",
+    "message": "「Keep quiet in the library, okay? There's someone scary here.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not scared.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Who might you be calling scary?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「!?」"
+  },
+  {
+    "message": "Turning around, I saw Melilot-san standing there."
+  },
+  {
+    "message": "She's the librarian, a figure steeped in countless legends."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Synn Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Were you not the Student Council President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I am, but...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「With the Charity Bazaar just around the corner, the Student Council ought to be busy. Why, then, are you here?」"
+  },
+  {
+    "message": "Cold sweat trickled down my back. Somehow, I had a really bad feeling about this."
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, now, Melilot. Let's keep things peaceful here, okay?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And you say that as the chairwoman? That sets a terrible example.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan just showed that girl the way here.」"
+  },
+  {
+    "message": "Melilot-san turned toward Azel."
+  },
+  {
+    "name": "Melilot",
+    "message": "「So this is the rumored transfer student?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's right. Azel-chan.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Pleased to meet you. I am Melilot, and I have the honor of serving as the librarian at Ryuusei Academy.」"
+  },
+  {
+    "message": "Melilot-san gave a polite bow, however."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel was looking the other way."
+  },
+  {
+    "name": "Helena",
+    "message": "「Hehe. Acting all aloof like that is pretty cute too, isn't it? Like a complicated maiden's heart in adolescence.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not true.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Pleased to meet you, I am Melilot, and I have the honor of serving as the librarian at Ryuusei Academy.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel tried to walk away, looking annoyed, but"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you doing!」"
+  },
+  {
+    "message": "Melilot-san's arm shot out gracefully and swiftly, her slender fingers grabbing Azel's shoulder."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Pleased to meet you, I am Melilot, and I have the honor of serving as the librarian at Ryuusei Academy.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Let go!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Quiet in the library, please.」"
+  },
+  {
+    "message": "She was still smiling... S-scary."
+  },
+  {
+    "message": "For a split second, Azel shot me a look pleading for help..."
+  },
+  {
+    "message": "And immediately looked away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Manners and etiquette are important, after all.」"
+  },
+  {
+    "message": "She had a point. I glanced over at Helena-san."
+  },
+  {
+    "message": "She looked like she was enjoying this."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Pleased to meet you, I am Melilot, and I have the honor of serving as the librarian at Ryuusei Academy.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel didn't greet Melilot-san properly last time either, after all."
+  },
+  {
+    "message": "That's probably why she got singled out today. Saying 'Pleased to meet you' even though it wasn't their first time."
+  },
+  {
+    "message": "Azel tried resisting in silence for a good while, until finally."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Azel.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san, is it? I have committed it firmly to memory. Now, right this way.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「L-let go!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Quiet, please」"
+  },
+  {
+    "message": "Without letting go of Azel, Melilot marched him over to the checkout counter."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you know the checkout procedure?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I won't use it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems you do not. Then I shall teach you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Whether you need it or not is irrelevant. Anyone who might possibly use the library will learn it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... don't be so stubborn, just learn it for now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If in the east there is one making noise in the library, she appears from nowhere, gently, yet endlessly lecturing until they quiet down,」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's with you all of a sudden?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If in the west there is one who knows not how to check out books, she appears from nowhere, thoroughly and politely explaining until they learn,」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If in the south there is an insolent soul with an overdue book, she appears from nowhere, demanding its return,」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If in the north there is a fool who takes a book without permission, she appears from nowhere, inflicting a punishment that remains as eternal trauma...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wouldn't go against such a super-competent librarian if I were you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't know who you're referring to, but I wouldn't go against someone like that either」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, right, I just had a great idea\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I happen to have a book right here that I came to return, so borrow this」"
+  },
+  {
+    "message": "Saying so, Helena placed a book on the counter."
+  },
+  {
+    "message": "It was a photo book of the Alps titled \"Fleeting Moments of the Mountains.\""
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Didn't you just borrow this yesterday? Was it not to your liking?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No, that's not it. I was so moved by it that I was like, 'I want it, I want it, I want it, I want it,' and ordered it online」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So I really want other people to read it too」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you enjoyed it that much, it was worth recommending」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Seriously. Your book recommendations never miss」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I've been doing this a long time, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I refuse」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No way. It's the chairwoman's orders. If you don't borrow it, you'll be in big trouble\\s04」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. Rather than just memorizing the steps, it's actually easier to remember the procedure if you borrow something」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, this is the one I was talking about earlier. The one with photos even more amazing than the ones I took. Look」"
+  },
+  {
+    "message": "I opened the photo book so Azel could see it."
+  },
+  {
+    "message": "Peaks covered in pure white snow leapt into view."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Tch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well?」"
+  },
+  {
+    "message": "Azel turned away with a huff."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Not interested」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, just take a look for now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not interested」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then would you like to switch to a different book?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not borrowing anything」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Would you like to switch to a different book?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...This one is fine」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then, using 'Fleeting Moments of the Mountains' as an example, I will explain this library's lending procedure」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. That is correct」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That concludes the lecture on this library's lending procedure. Thank you for your attention」"
+  },
+  {
+    "message": "Melilot-san's fingers left Azel's shoulder."
+  },
+  {
+    "message": "That's definitely going to leave a mark... It did on me, too."
+  },
+  {
+    "message": "As if he had been waiting for this moment, Azel swiftly picked up the photo book and clutched it to his chest."
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my~. Azel-chan, do you really want to read that so badly? You've been stealing glances at it the whole time」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's not really like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right. Azel doesn't have the slightest interest in something like this, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「R-Right. I have no interest whatsoever」"
+  },
+  {
+    "message": "He's really forcing himself."
+  },
+  {
+    "name": "Helena",
+    "message": "「What, not interested? How boring~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Over in that section of the library, they've got tons of photo books like that, you know.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah!」"
+  },
+  {
+    "message": "Azel looked toward the photo book corner Helena-san was pointing at, his eyes sparkling for a brief moment, before quickly looking away."
+  },
+  {
+    "name": "Azel",
+    "message": "「...I have no interest.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, how cold.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As far as this library is concerned, as long as books are returned by the due date without damage, that is all that matters.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Whether or not you actually read the contents is of no concern to me.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What a lie. Even though you love books so much.」"
+  },
+  {
+    "message": "Melilot-san cleared her throat once."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ahem... However, speaking personally, I do hope that the encounter between the borrower and the borrowed book becomes something wonderful and irreplaceable.」"
+  },
+  {
+    "message": "Clutching the photo book to his chest, Azel was looking around restlessly."
+  },
+  {
+    "name": "Synn",
+    "message": "「At this hour, there shouldn't be anyone in that courtyard from earlier.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's not like I want to read it as soon as possible or anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "message": "Returning to the courtyard from earlier, I resumed my work."
+  },
+  {
+    "message": "Yeah. Going smoothly."
+  },
+  {
+    "message": "At this rate, I should be able to get back to the Student Council room before it's time to leave school, transfer the data to the computer, and organize it."
+  },
+  {
+    "message": "I glanced over at Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "He's completely absorbed. Maybe he actually liked it?"
+  },
+  {
+    "message": "Even earlier, when he saw the cover, he looked deeply impressed, so that's probably it."
+  },
+  {
+    "message": "A photo book was a bit unexpected, though."
+  },
+  {
+    "message": "He's really staring at it intently..."
+  },
+  {
+    "message": "Oh, looks like he finished reading it."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Hugging the photo book to his chest with such a happy look on his face..."
+  },
+  {
+    "message": "It must have really moved him."
+  },
+  {
+    "name": "Azel",
+    "message": "「Haaah...」"
+  },
+  {
+    "message": "He's kinda cute..."
+  },
+  {
+    "name": "Azel",
+    "message": "「……!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I'm not moved at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Oops, back to work, back to work.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I said I'm not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, I know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I guess that's about good.」"
+  },
+  {
+    "message": "It's starting to get a little cold, so maybe I should call it a day."
+  },
+  {
+    "message": "I took quite a lot, but... how many photos did I end up taking?"
+  },
+  {
+    "message": "Whoa. There's only enough memory left for two more shots. Just barely made it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. It's getting cold, so maybe we should head back soon--」"
+  },
+  {
+    "message": "I called out, or at least I tried to."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "My voice didn't seem to reach Azel, who was completely absorbed in the scenery inside the photo book."
+  },
+  {
+    "message": "Bathed in the setting sun, that short hair shone like bundles of golden straw."
+  },
+  {
+    "message": "Specks of light sparkled on the eyelashes framing those slightly upturned eyes."
+  },
+  {
+    "message": "Those lips, usually pressed tightly shut, were parted just a fraction as if in sheer awe, looking soft."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Two shots left. It feels like a waste not to take them, doesn't it?"
+  },
+  {
+    "message": "I quietly crept closer."
+  },
+  {
+    "message": "I had a feeling that if I got noticed, the Azel right in front of me would vanish."
+  },
+  {
+    "message": "Even when I walked right up close, Azel still didn't notice."
+  },
+  {
+    "message": "Holding my breath, I readied my digital camera, and--"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh-Wha?!」"
+  },
+  {
+    "message": "Azel looked up with a start."
+  },
+  {
+    "message": "That face was terribly flustered and completely defenseless."
+  },
+  {
+    "message": "It was cute."
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What did you just do!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I took a picture of your face, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "A bewildered expression asking, \"Why?\""
+  },
+  {
+    "message": "Why, indeed?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... I just wanted to take it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wanted to take it?」"
+  },
+  {
+    "message": "I nodded."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Your actions make no sense to me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... How should I put it? I wanted to preserve the look on your face just now.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Preserve it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I wanted to keep it forever.」"
+  },
+  {
+    "message": "So that I can remember the feelings and the atmosphere of this moment."
+  },
+  {
+    "name": "Azel",
+    "message": "「Forever...?」"
+  },
+  {
+    "message": "Having Azel stare at me like that felt ticklish, so I looked away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, even if I say forever, it's only as long as the data and printouts don't disappear, so maybe around a hundred years?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, at the very least, it'll be fine for as long as I'm alive」"
+  },
+  {
+    "message": "Ugh, what am I even saying. I sound like an idiot."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel abruptly stood up and turned his back to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nothing will remain」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Did I upset you because I took the picture so suddenly?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Without saying a word, Azel walked briskly away."
+  },
+  {
+    "message": "A cold wind blew past my feet."
+  }
+]

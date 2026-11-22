@@ -1,0 +1,636 @@
+[
+  {
+    "message": "覚醒"
+  },
+  {
+    "message": "I positioned myself to shield Azel and faced off against the Female Demon."
+  },
+  {
+    "name": "Synn",
+    "message": "「Who are you!」"
+  },
+  {
+    "message": "The woman lightly bit the pinky of her right hand. A few drops of blood splattered at her feet."
+  },
+  {
+    "message": "A chilling voice was spun from her blood-wet lips."
+  },
+  {
+    "name": "Female Demon",
+    "message": "「Does it really matter who I am? You're going to die soon anyway」"
+  },
+  {
+    "message": "She looked somehow familiar."
+  },
+  {
+    "message": "And when it came to a female demon who, judging by her figure, wasn't Pasta......"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sengen'in-sensei!?」"
+  },
+  {
+    "name": "Female Demon",
+    "message": "「O circle of my dominion, pour the chaos flowing within thee into me!」"
+  },
+  {
+    "message": "The splattered fresh blood burst into flames,"
+  },
+  {
+    "message": "Flames raced around the woman's feet, and an eerie pattern emerged."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She appeared?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "message": "Helena set down her pool cue and picked up her cell phone."
+  },
+  {
+    "name": "Helena",
+    "message": "「It won't connect」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The magic circles placed throughout Ryuusei Town have likely activated all at once. To think she would go this far......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Should I call Tamiko-chan?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She is not an opponent a human can match」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wonder if Virus will show up too?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That I do not know. However, I must go」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No running away while losing, okay?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is no such thing as running away while losing. We will continue later」"
+  },
+  {
+    "message": "Just as three dazzling points of light appeared behind the woman, they turned into three pale-blue beams hurtling straight toward me!"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "I readied my weapon on reflex and deflected them away!"
+  },
+  {
+    "message": "The deflected beams struck all across the park, setting the trees ablaze."
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh......」"
+  },
+  {
+    "message": "My arms go numb. It's a heavy attack that feels like it could strip away all my strength."
+  },
+  {
+    "name": "Female Demon",
+    "message": "「You really have grown, haven't you? However」"
+  },
+  {
+    "name": "Female Demon",
+    "message": "「How will you handle this?」"
+  },
+  {
+    "message": "Over ten points of light rose up behind the woman."
+  },
+  {
+    "message": "Can I withstand it?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Even so, I can't afford to back down."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel is right behind me. He seems unable to move, likely frozen from sheer shock."
+  },
+  {
+    "message": "I won't let Azel get hurt, no matter what."
+  },
+  {
+    "message": "Countless arrows made of light come hurtling toward me."
+  },
+  {
+    "message": "Calm down! Remember your special training!"
+  },
+  {
+    "message": "I barely managed to weather it! Using magic should require replenishing mana."
+  },
+  {
+    "message": "Now it's my turn--"
+  },
+  {
+    "message": "She can fire in rapid succession!?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I've been waiting for you, witch.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「You won't reach the Demon King unless you defeat me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「So it is as I thought.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Care to dance with me, witch?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I have no time to dance with you.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「How cold. Still, I don't mind taking things by force.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I have no time to indulge in your nonsense.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Interesting!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kh...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Acceleration magic, huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You can still keep up even with this!?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Once your intentions are clear, predicting you is easy」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then I will simply surpass them!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I should be moving faster than your eyes can track... What a monster」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Being praised by a witch makes me proud」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Persistent men are disliked, you know」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Because I want to dance with you at all costs」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ugh!」"
+  },
+  {
+    "message": "Melilot's body was blown away!"
+  },
+  {
+    "name": "Virus",
+    "message": "「Repeating the same steps gets boring」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Persistent and easily bored--that makes you quite a hopeless man」"
+  },
+  {
+    "message": "The two kept their distance, facing off."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huff, huff, huff...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Now, what will you do next?」"
+  },
+  {
+    "message": "Melilot's right hand rose smoothly."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Bind!」"
+  },
+  {
+    "message": "Red light turned into ropes and bound Virus tightly"
+  },
+  {
+    "name": "Virus",
+    "message": "「I see. Those movements that seemed pointless earlier were to weave this」"
+  },
+  {
+    "name": "Virus",
+    "message": "「However, a barrier of this level」"
+  },
+  {
+    "message": "With a completely natural gesture, Melilot slipped her hand into her skirt pocket and pulled out a penlight."
+  },
+  {
+    "name": "Virus",
+    "message": "「……?」"
+  },
+  {
+    "message": "Caught off guard, Virus's gaze was drawn to the tip of the penlight as it began to glow."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Look」"
+  },
+  {
+    "message": "The hand holding the penlight danced."
+  },
+  {
+    "message": "The glowing tip etched a sharp afterimage into Virus's vision."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Burn」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Aghhhhhhhhh」"
+  },
+  {
+    "message": "Virus burst into flames."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I hate persistent men」"
+  },
+  {
+    "message": "The flames of Virus, now like a human torch, illuminated Melilot as she walked away."
+  },
+  {
+    "message": "The flames erupting from his entire body were destroying the physical vessel he needed to remain in the Human World."
+  },
+  {
+    "name": "Virus",
+    "message": "「Hahaha! Yes, yes! Now this is more like it!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "Melilot stopped in her tracks."
+  },
+  {
+    "name": "Virus",
+    "message": "「Koooooooooh!」"
+  },
+  {
+    "message": "The flames gushing from Virus's body rapidly subsided."
+  },
+  {
+    "message": "The color drained from Melilot's face."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Impossible?!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Using the afterimages of penlights to draw a magic circle inside your opponent's mind, activating it, and detonating the magic power stored inside their body, huh...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「After all, a magic circle will activate as long as it forms a complete image, even for an instant」"
+  },
+  {
+    "name": "Virus",
+    "message": "「And the larger the target's mana pool, the more effective it is」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Are you saying you suppressed it through sheer brute force?!」"
+  },
+  {
+    "message": "Virus's arm flashed."
+  },
+  {
+    "message": "The barrier restraining him shattered effortlessly."
+  },
+  {
+    "name": "Virus",
+    "message": "「If it had formed a complete image, I wouldn't have been able to hold it back」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To figure out the principle behind it and shift your position in that brief instant...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I didn't figure anything out. Shifting out of alignment was pure reflex」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...You berserker」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Now then, I wonder if the Demon Lord has been killed yet?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As if I would let that happen!」"
+  },
+  {
+    "message": "Without answering Melilot's cry, Virus muttered."
+  },
+  {
+    "name": "Virus",
+    "message": "「If he has, what a boring curtain call」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I have no need for a Demon Lord who would lose to the likes of Soltia」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gwaaaaaaah!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah... ah...」"
+  },
+  {
+    "message": "I heard Azel's anguished murmur from behind me."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm... fine...」"
+  },
+  {
+    "message": "I used my weapon as a crutch and pushed myself to my feet."
+  },
+  {
+    "message": "Was that my own blood dripping down along my weapon?"
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「Impressive that you're still alive」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something like this... won't bring me down.」"
+  },
+  {
+    "message": "I can't feel about half of my body."
+  },
+  {
+    "message": "The taste of blood is spreading inside my mouth, too."
+  },
+  {
+    "message": "This isn't from biting the inside of my mouth. It feels like one of my internal organs got hit."
+  },
+  {
+    "message": "My pants are sticking to my legs with blood, feeling both cold and hot."
+  },
+  {
+    "name": "Azel",
+    "message": "「Stop... already...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, can you move yet?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Stop it... please stop...」"
+  },
+  {
+    "message": "Doesn't look like it yet."
+  },
+  {
+    "message": "If I move out of the way, the beams will hit Azel."
+  },
+  {
+    "message": "I have to buy time until Azel can move."
+  },
+  {
+    "message": "Behind the Female Demon, a sickening number of points of light floated into view."
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「If you're going to hate someone, hate God. In other words, the woman behind you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "Countless pale-blue spears of light are closing in!"
+  },
+  {
+    "message": "My arms and legs could barely move anymore."
+  },
+  {
+    "message": "So there was only one thing I could do."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah... aah...」"
+  },
+  {
+    "message": "I couldn't stay standing."
+  },
+  {
+    "message": "There wasn't any pain or anything. Or maybe it hurt so much that all sensation just vanished."
+  },
+  {
+    "message": "Both of my knees hit the ground on their own."
+  },
+  {
+    "message": "I couldn't keep my head up, and when I looked down, for some reason I could see Azel."
+  },
+  {
+    "message": "Even though I hadn't turned around, I could see Azel, who was supposed to be behind me."
+  },
+  {
+    "message": "Huh, that's weird. That's weird."
+  },
+  {
+    "message": "Still, it looks like Azel is okay. Becoming a shield wasn't in vain."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah... ah... Synn... Synn...」"
+  },
+  {
+    "message": "I tried to say something, but blood welled up in my mouth and I couldn't speak."
+  },
+  {
+    "message": "Ah, I see."
+  },
+  {
+    "message": "I figured out why I could see Azel without even turning around."
+  },
+  {
+    "message": "There's a huge hole blown through my chest"
+  },
+  {
+    "name": "Azel",
+    "message": "「No! No! Not like this, nooooooooo!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This phenomenon! This surge! Re-Crea?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Gah!」"
+  },
+  {
+    "message": "Melilot was blown away by the raging force, and Virus laughed amidst the frenzied world."
+  },
+  {
+    "name": "Virus",
+    "message": "「Hahahaha! I see! So that's how it is! Indeed, the world is both cruel and comical.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't want this! No, no, noooo!」"
+  },
+  {
+    "message": "All five senses suddenly came rushing back to me."
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「W-Why... why are you coming back to life?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You made Azel cry!」"
+  },
+  {
+    "message": "Was the heat surging through my body rage, or was it power?"
+  },
+  {
+    "message": "Surely, it was both."
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn! Synn!」"
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「You've awakened?! No... it can't be!」"
+  },
+  {
+    "message": "Even without looking, I could tell Azel had collapsed on the ground."
+  },
+  {
+    "message": "I could tell the Female Demon in front of me was terrified."
+  },
+  {
+    "message": "I could even tell every single tree in the park that had fallen and every single one that was burning."
+  },
+  {
+    "message": "I could also tell there was another demon possessing immense power in the park."
+  },
+  {
+    "message": "I picked up my weapon and stood up."
+  },
+  {
+    "name": "Synn",
+    "message": "「Keep your hands off Azel!」"
+  },
+  {
+    "message": "The heat blazing inside me swelled up."
+  },
+  {
+    "message": "It expanded, spilling past the confines of my physical body."
+  },
+  {
+    "message": "With my entire body burning hot from that power, I broke into a run."
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「Still, in that form... kh!」"
+  },
+  {
+    "message": "Twenty-four points of light materialized behind the Female Demon."
+  },
+  {
+    "message": "It was a power so feeble that pity welled up even within my rage-dominated heart."
+  },
+  {
+    "message": "With my weapon, I batted away the spears of light creeping toward me so sluggishly a fly could have landed on them."
+  },
+  {
+    "message": "I even had the composure to deflect them skyward so the park wouldn't suffer any further damage."
+  },
+  {
+    "message": "View the battle tutorial \"Scroll of Barriers\"?"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ４９_EASY"
+  },
+  {
+    "message": "ステージ４９_HARD"
+  },
+  {
+    "message": "ステージ４９_NORMAL"
+  }
+]

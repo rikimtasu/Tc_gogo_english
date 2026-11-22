@@ -1,0 +1,403 @@
+[
+  {
+    "message": "魔王が来たりて悪徳商法"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, a shooting star」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ta-ma-ya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what that's for」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is a 'Tamaya'?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Long ago, at a big festival, two firework makers named Tamaya and Kagiya launched fireworks in turns, and Tamaya's were so spectacular that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「the spectators couldn't help shouting 'Tamaya!', or so the story goes」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Fireworks, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There was a photo book of fireworks in the library」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's not like I'm interested or anything」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I spotted one too! Tamaya~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is also because of Re-Crea, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is going to happen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you are interested?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san is an officer of the Student Council too, so she probably ought to know at least the basics」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even we don't know the details, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just that Demons will start appearing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You know a bit more than that, don't you, Senpai?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh, more stuff is going to happen? That's so exciting~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Exciting, huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There's just one thing that's certain」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What is it, what is it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's something exciting, isn't it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone, gather closer」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, I smell a secret」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Being this close to Senpai... My heart is pounding」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn! Don't press up against Senpai!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan belongs to yours truly!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sarang-kott!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...When Re-Crea gets closer, you see」"
+  },
+  {
+    "name": "Misa & Nanaka",
+    "message": "「When it gets closer?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ba-dump...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The Demon King will come!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeeeek!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hyoh!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, come on, you're just trying to scare us like that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-san can be quite playful sometimes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Muu. It's true! I heard that's what happened during the last Re-Crea too」"
+  },
+  {
+    "message": "The last one means... Dad?"
+  },
+  {
+    "name": "Misa",
+    "message": "「How can we repel the Demon King?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W―Why jump to that right away. We could talk things out―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you saying, Sakura-kun! When you say Demon King, you mean the king of the Demons. His strength, ferocity, and pervertedness must surely be on a whole other level compared to the Demons we've faced so far」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Breathing fire from his mouth is practically a given, isn't it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And of course, its dorsal fins glow when it breathes fire」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Its tough hide is strong enough to deflect even missiles」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It flies through the sky on shining golden wings. Mmm. Having wings when you're not even an angel is simply unforgivable」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I hear it has like seven heads, too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Those sharp claws could surely tear a building apart in a single blow! What a terrifying foe! However, we will not lose!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone, um, calm down, the Demon Lord is--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「H-How scary. That's not a movie, that's a real kaiju!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I bet it crunches right through people and eats them. And since it's a million times more perverted than Synn, it kidnaps tons of girls to build a harem too. Total scumbag!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For once, I agree with Nanaka-san's opinion. The Demon Lord is still a man, after all. Human scum」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, that's not...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Vice President, that is incorrect. Mr. Demon Lord is not human scum」"
+  },
+  {
+    "message": "Lolotte is defending me!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. You're all being awful when you don't even know anything」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do you know something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I―It's not like that, it's just that talking so badly about someone you don't even know is―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, you are mistaken as well. Since the Demon Lord is not human, he cannot be called human scum」"
+  },
+  {
+    "name": "Misa",
+    "message": "「True. To include him among humans--I still have much to learn」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're all being awful! The Demon Lord isn't that bad of a person!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehh? Is that so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though he's the Demon Lord?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mother said so herself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, Ria-senpai, did your mother meet the Demon Lord during the last Re-Crea?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. She said he saved her several times」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't that weird? Even though he's the Demon Lord?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I mean no disrespect to your mother, Ria-senpai, but was he really the Demon King?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Apparently, he went out of his way to introduce himself as one」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds shady as hell!」"
+  },
+  {
+    "message": "What on earth are you doing, Dad."
+  },
+  {
+    "name": "Misa",
+    "message": "「Could it be... that's your only basis for it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's not true! He was super strong and cool, so it has to be him」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...At least, that's what Mother said」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was almost certainly all staged」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It was not!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Having underlings attack a target only to purposely rescue them and earn their trust. My guidebook says that's a classic scammer tactic」"
+  },
+  {
+    "message": "No, there's no way. Dad wouldn't even have the imagination to pull off a con."
+  },
+  {
+    "message": "Though he falls for them all the time."
+  },
+  {
+    "name": "Misa",
+    "message": "「H-How utterly despicable! Still, what could he possibly have been planning once he gained her trust?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Listen, just because he's called the Demon King, you're all jumping to--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You are quite ignorant, Vice President」"
+  },
+  {
+    "name": "Misa",
+    "message": "「From the guidebook again?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gaining someone's trust is the go-to move for criminals--especially con artists」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. Guess that thing actually has some decent info once in a while」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He was undoubtedly trying to hawk something to Senpai's mother. Like Demon King toothpaste, a Demon King urn, Demon King candy, or a Demon King encyclopedia」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How cheap」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not cheap!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister! We swear we shall avenge you against these shady business practices!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Down with the Demon King!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!」"
+  },
+  {
+    "message": "Urgh. Am I going to be overthrown too...?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even though it's not a shady business... *sob*」"
+  }
+]

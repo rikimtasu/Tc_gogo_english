@@ -1,0 +1,741 @@
+[
+  {
+    "message": "みんなの心をつなぐため"
+  },
+  {
+    "name": "????",
+    "message": "「Fidget, fidget...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, it's that girl from the other day」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's here again. I wonder what she's doing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This time, make sure you actually talk to her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I thought I did last time...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Letting your ulterior motives spill out so you can't even hide them--that's Master Synn for ya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Was it really showing that much...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good morning~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, morning, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is something the matter in a place like this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Actually, it's about that girl from the other day」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mean that suspicious person?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We were just wondering how to get her to talk」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. So, where is this person?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Over there」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my, is that...」"
+  },
+  {
+    "name": "????",
+    "message": "「Ah...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gasp!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do you know her, Lolo-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I don't know her」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't know anyone like that! Hmph!」"
+  },
+  {
+    "name": "？？？？",
+    "message": "「…………」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aww, she ran off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seriously, what's going on, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「…………」"
+  },
+  {
+    "name": "????",
+    "message": "「...Sigh」"
+  },
+  {
+    "name": "????",
+    "message": "「What am I even doing...」"
+  },
+  {
+    "name": "????",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "????",
+    "message": "「I'm in trouble...」"
+  },
+  {
+    "name": "????",
+    "message": "「What should I do from here on...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, what's wrong?」"
+  },
+  {
+    "name": "????",
+    "message": "「Hyaaaah!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whoa, you startled me!」"
+  },
+  {
+    "name": "????",
+    "message": "「S-S-Sorry! I thought nobody was here, so I just!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihaha, it's fine, it's fine」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「More importantly, did something happen? Are you hungry?」"
+  },
+  {
+    "name": "????",
+    "message": "「N-No, it's not that...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then, is something bothering you?」"
+  },
+  {
+    "name": "????",
+    "message": "「Huh? Oh, yes, well...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If you want, I can hear you out」"
+  },
+  {
+    "name": "????",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I can't just leave someone in trouble alone, after all」"
+  },
+  {
+    "name": "？？？？",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What's your name?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I-It's Amyrina...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm Macaron. Nice to meet you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan, could you pass me those documents over there?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「…………」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, dear」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Hey. Did something happen to Lolotte-san?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, apparently she's been like this all morning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if it really has something to do with that girl...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That girl?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She seemed like an acquaintance of Lolotte's, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Both of them looked pretty awkward, didn't they」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aren't they just having a fight or something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's it! Way to go, Misa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't that a bit simplistic?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I meant Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't make a fool out of me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, it really does make you curious...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me is curious about Ria-chan's big apples!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, Pa-chan, bad boy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lightning bolt!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you notice anything, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh? Like I'd know anything about angels」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I keep telling you, I'm not an angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haaah!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-It's nothing at all...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well, work's settled down a bit, so how about we take a break?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes, let's」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see. So things are kinda awkward between you and that Lolotte girl」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You two are friends, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「......Yes, we are」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then it'll be fine! Just leave it to the great Lady Macaron」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eh, um, where are we going......?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Follow me and you'll find out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yoohoo, big bro」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What brings you here today?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I just had a little something I wanted to ask you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, who's that girl......」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hyah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's okay. My big bro is the Student Council President, so he's that Lolotte girl's boss」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「He's harmless despite how he looks, so don't worry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just how do I look to people......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And if he tries anything funny, I'll slice him right in half for you♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mr. President......?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you really were Lolotte's friend after all」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um, I'm Amyrina......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm Synn Sakura. Nice to meet you」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well then, let's hear the details inside」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You act just like this is your own house」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's cold outside, isn't it. Come on, get inside, get inside」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes, excuse me……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's nothing special, but please, have some tea」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're right, it really is plain」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「*Sip*……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um, well, I think its astringency is rather nice」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「More importantly, let's hear your story?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte and I are, um, childhood friends, but……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh-ho」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, sorry. Which girl in the Student Council was Lolotte again」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, the angel-like girl」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, I see. You mean Angel-chan」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hawaa!?　A-Angel!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm?　If you're childhood friends, could it be that you're also, Amyrina……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-N-No, I'm not!　I'm not an angel!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Angels always say that, don't they--」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「M-M-M-More importantly!　Please listen to what I came to talk about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um, so, you see...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I came here to tell Lolotte something really important」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「When Lolotte was leaving to come here, we ended up getting into a fight right as we parted ways...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...So you didn't get to say a proper goodbye, huh」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes......」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「And I haven't been able to get in touch with her at all since then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Lolotte was acting pretty weird today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet Lolotte's been beating herself up over it too」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You want to make up and have a proper talk with her, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「All righty then! Leave it to the great Macaron to lend a helping hand」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get the gist of what happened, but why are you getting involved, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're really one to talk, Big Brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's so everyone can be happy, duh. Fighting and leaving people out is no good, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, it doesn't feel good to just leave someone in trouble alone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, that's my Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, even you have a few things worth learning from, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hehehe, you really think so...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ugh, geez! Stop laughing like a creep!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Buh-heh!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Anyway! Just leave the rest to the great Demon Lord Macaron!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Demon Lord...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh, didn't I tell you?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, I'm still kind of, sorta in training, though!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, you're amazing, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? Ah, hehe...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, you're not gonna get anything out of me by flattering me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um, what do you mean by 'Demon Lord'... ?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! Macaron isn't plotting world domination or anything like that at all!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What is that, the imagination of a water flea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's a good Demon Lord who makes everyone happy. There's nothing wrong with having a Demon Lord like that!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「H-Huh...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't call me 'like that'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry, sorry!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I don't really understand, but... she sounds like a wonderful person」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, exactly」"
+  },
+  {
+    "message": "Does Amyrina not know anything about Demon Lords...?"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright, let's go make up tomorrow right away!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh? T-Tomorrow...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「With this kind of thing, the sooner the better, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes, that's true!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm counting on you too, big brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Go summon that little angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Make yourself useful for once」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll burn into those eyes of yours that I'm a magnificent Demon Lord!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, yeah... got it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright, tomorrow we're gonna make up nice and clean!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah~!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No good, no good, not like that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Neither you, big brother, nor Miss Angel has enough spirit!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「L-Like I said, I told you I'm not an angel~!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaaalright! I'm all fired up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Well, whatever」"
+  },
+  {
+    "message": "Macaron mediating between people who aren't Demons, huh."
+  },
+  {
+    "message": "Somehow, I feel like her vibe has changed just a little from when we first met."
+  },
+  {
+    "message": "That's probably a good thing, right..."
+  }
+]

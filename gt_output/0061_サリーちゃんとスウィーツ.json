@@ -1,0 +1,762 @@
+[
+  {
+    "message": "サリーちゃんとスウィーツ"
+  },
+  {
+    "name": "Synn",
+    "message": "「How are the class location assignments coming along?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You still haven't looked through them? I left them right there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? No, they weren't there」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way... huh? I'm sure they were right here」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. Here you go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. Isn't this super neat and easy to read」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa! It's all rendered in Mincho font!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're gonna say that, you mean lettering」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Figuring something like this might happen, I made a clean copy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm the one who made the original」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's what you call the howling of a sore loser」"
+  },
+  {
+    "name": "Misa",
+    "message": "「G-grrr」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone knows you made the original, Misa-chan」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As long as you understand, Big Sister, that is more than enough\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Putting aside who made it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-t w-a-s m-e!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There are still five classes that haven't submitted their school subsidy applications. Let's confiscate their budgets and redirect them elsewhere. And then lower the price of the sweets buffet...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「More importantly, first we summon them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you mean, 'more importantly'! Sweets are serious business!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Get your mind off sweets for once!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're forgetting her name is Soba, aren't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We still have time, so why not wait a little longer」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Time is precious」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh... Hiss really loves throwing her weight around, huh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What a terrible way to put it. Isn't it their fault for not turning them in」"
+  },
+  {
+    "name": "Ria",
+    "message": "「At times like that, you just have the teacher mention it during homeroom」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, that way it won't ruffle any feathers」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As expected of you, Sister. How thoughtful」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though you were just saying 'summon them, summon them' a second ago」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Admitting one's mistakes is important too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm. A classic weathervane, I see」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san. It seems you and I need to have a thorough talk sometime」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I will politely decline. A wise person neither enters the tiger's den nor seeks its cubs」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, what's everyone doing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ms. Tag-Along, this is a meaningful endeavor known as Student Council work, something beyond your imagination」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I feel like I'm being made fun of」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You don't just feel like it, you are being made fun of」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Talking behind my back--how very angelic of you!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Was that... behind your back?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It was right to her face」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You're just a low-ranking angel writing things down nonstop anyway」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Making clean copies of submission documents is meaningful work」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well, you couldn't stand being a grunt unless you convinced yourself of that, right? Kushishi」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ngh. Besides, I am not an angel, so please remember that. Though I suppose that's asking too much of Ms. Tag-Along's memory」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Come on, you're totally an angel」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I am not!」"
+  },
+  {
+    "message": "Whoa, someone who can't read the room has appeared!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahem, well. Are you interested in today's activity too, Sally?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uh-huh. I am!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why don't we give it a try together?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about?! She's a demon, a demon!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But is it actually bad if people find out what KiraFes is about?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'The Earth will be destroyed.'」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「W-Whaaat?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-We can't leave such a critical mission to you, Sakura-kun. Shouldn't someone more capable be president at a time like this?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even with annihilation right before their eyes, humans still struggle for power.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And then only Ria and yours truly survive as the Adam and Eve of the new world\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm kidding. I'm sorry\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That kinda hurt my feelings!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So anyway, shall we give it a try?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm, I changed my mind. Sounds like a pain, so I'll pass.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's a problem even before we get to the whole demon thing...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, doesn't it feel like everyone's losing focus?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, no. There is no need for concern.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're the one I'm most worried about, Lolotte-san.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I had no focus to begin with, so there is no need to worry about losing it.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You shouldn't puff your chest out and say something like that. Bad.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And with that, break time! I brought snacks.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh. Good thinking, Nanaka.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Leave it to me\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If the treasurer brought it... it must be soba noodles!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-N-A-C-K-S!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is hardly the time to be eating snacks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A little nibble won't hurt, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You can move your hands while you chew, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you say so, Big Sister\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then I'll go make some tea」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll help as well. Oh, by the way, does anyone want black tea?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Me!」"
+  },
+  {
+    "message": "Then I'll get the plates."
+  },
+  {
+    "name": "Synn",
+    "message": "「Does some of the cost for this come out of the Student Council budget?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The tea for guests came from council funds, but everyone brought snacks from home, or got them as gifts from friends」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Watching everyone bustle about so eagerly just to feed me sweets is quite thrilling」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. You're helping too, Lolotte」"
+  },
+  {
+    "name": "Ria",
+    "message": "「All right, everyone, the tea is ready」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Tea brewed by Big Sister's very own hands... Aah...\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heeey, Misa. Come back to earth」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, what's starting?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Snack time」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Can you eat that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't eat snack time itself, but there'll be food」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I don't know what it is, but I'm starting to like snack time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You should take a look before deciding」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ta-da! Sorry to keep you waiting!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Cookies, chocolate bars, candies, and sweets! Plus Mont Blanc from 'Cafe Rose Blanche'!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa~~\\s07 Looks so good~\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Cookies aside, wasn't that cake pretty expensive? Are you sure about this...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A true Edoite never goes back on their word!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though you're a born-and-bred Ryusei local」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, isn't it a bit much...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How much was it, by the way?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If I recall... around 400 yen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Four hu--!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Are you okay!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, I just got a little dizzy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Toppling over chair and all--how sloppy. That's proof you're getting soft」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is delicious. I'd love to see the pastry chef's face」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, what do you think you're doing casually helping yourself, young lady!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yum-yum, chomp-chomp, nom-nom, munch-munch」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah, you little demon brat! Don't eat sweets with your bare hands!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So the Demon World has no concept of table manners. How barbaric」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Coming from Lolotte, who started digging in without asking...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's six of one, half a dozen of the other」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So good! What is this! It's sweet and delicious! I've never eaten anything like this before! Delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is it good?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, it's the best! Seriously the best! The absolute best!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is because it is free. Look, it says right there that nothing tastes better than free food」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh, really~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not 'cause it's free! It's 'cause they're *sweets*!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sweets?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Sweets*! The pinnacle clan of the world's confections!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think Japanese sweets are delicious too, though……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「They're called sweets? They really are super tasty!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heh-heh-heh. And so, you too should join the Sweets Appreciation Club----」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aah, this is just as delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……J-Just as delicious?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah! Sweet and yummy! What's this, what's this?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just as delicious……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's called a chocolate bar」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is Nanaka so shocked? They're both delicious」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's with that pitying look, like you're staring at a guy who can't tell the difference?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Listen. When someone says something four times cheaper tastes just as good, from the perspective of the person who bought them, well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Expecting Mr. Tagalong to know the difference is a waste of effort, you know」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You shouldn't be sneakily reaching for your fourth one while saying that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sleeping children grow up big and strong, you know!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「This one's amazing too! Sweet and delicious! Humans are weaklings, sure, but the Human World is amazing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Amazing…… you say……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That one is a strawberry candy」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mmm, delicious! Ow, when I chew it, it sticks to my teeth and feels weird」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're not supposed to chew candy. You lick it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Candy... isn't the price difference way more than four times?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa, this is delicious too! So sweet and tasty!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's nibbling on a sugar cube... I wonder if Nanaka-san can recover from this...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, that's just how it is in Omake-san's homeland」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The Demon World sure is impoverished...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, she's already reaching for my slice of cake before I even noticed!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't get so mad, Hiss. An angel's homeland is impoverished too, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I am not an angel! I'm merely as adorable as one!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Over a mere sugar cube...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you trembling like that, Nanaka? Do you have a fever or something?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, the gap between when you're dense and when you're perceptive is way too huge」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, you little demon girl! Don't you dare put a mere sugar cube in the same league as sweets!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't understand the value of things at all! Not at all, completely clueless! You'll never survive in modern society like that!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eek! Why, why am I getting yelled at!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's got a calcium deficiency」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Calcium is found in high amounts in milk, eggshells, and the like」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When Sasami lays an egg, I'll give the shell to Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wrong! It's not a calcium deficiency!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You know, sugar cubes actually are pretty tasty though~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uh-huh, yum-yum」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I used to lick them a lot when I was a kid too~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Me too~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister as a little girl, innocently licking a sugar cube... Oh, how utterly adorable!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, Satchin, when did you sneak in here?! And you're eating sugar cubes too!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, I smelled sweets. Call me the shining example of a Sweets Club member~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're taking the Way of Sweets way too lightly!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah, Nana-chan got mad~ You need more calcium~\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, everyone, you do know we're in the middle of Student Council activities right now, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, is that so! Before I knew it, I thought this had turned into an event for feeding sweets to Miss Extra. That's a real eye-opener.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「O-Of course I knew that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's right. Don't look as if you're the only one who knows.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Education!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no choice but to educate!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh. Nanaka's actually saying something sensible.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm always sensible!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's already too late to educate Sakura-kun at this point.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sally-chan! I'm gonna drill into you what sweets are all about!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ehh, sounds like a pain, so no.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll let you stuff yourself full of sweets.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Then drill it into me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Look, everyone, let's do Student Council work, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's right! We've gotta do Student Council work \\{too|\\s12}!」"
+  },
+  {
+    "message": "『Too,' huh..."
+  }
+]

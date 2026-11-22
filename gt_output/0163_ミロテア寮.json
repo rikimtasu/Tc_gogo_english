@@ -1,0 +1,303 @@
+[
+  {
+    "message": "ミロテア寮"
+  },
+  {
+    "message": "Huh? There's a crowd gathered in front of the dorm."
+  },
+  {
+    "name": "Helena",
+    "message": "「Haaai, Shio-chan\\s04 Next up are carrot rounds~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「L-Lady Helena, I did not come here to perform such acrobatics!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmph, I'm not listening! Toss~♪」"
+  },
+  {
+    "message": "The ingredients Helena tosses trace a parabola through the air."
+  },
+  {
+    "name": "Shio",
+    "message": "「Guh... Raging Slash!」"
+  },
+  {
+    "message": "Shio-chan's naginata roars fiercely, and the ingredients are prepped mid-air."
+  },
+  {
+    "name": "Sally",
+    "message": "「Coming through, coming through, excuse me!」"
+  },
+  {
+    "message": "Sally-chan flies just above the ground holding a large platter, catching every single falling ingredient. It's a well-coordinated team effort."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, what are you even doing, Helena-san?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, Synn-chan.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Did you know? Back when I was a student here, Miroteia Dormitory had a small cafeteria exclusively for dorm residents.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Pardon the interruption while you converse. I shall take my leave now--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Daikon radish, julienned! Toss~♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Thundering Strike!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hyaaaah, keeping all this from falling is super tough!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were you a dorm resident, Helena-san?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No, I wasn't. A friend of mine lived there, though.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She always went on and on about how delicious the dorm meals were... but since I wasn't a resident, I wasn't allowed to eat there.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Stealthily, stealthily...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Cabbage, finely minced! Toss~♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Quaking Cleave!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Awawawah! Isn't catching all this getting harder and harder?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did old dorm residents really get three square meals and afternoon naps?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Unfortunately, the year before I became chairwoman, demand dried up and the cafeteria was shut down.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, there's Prier too, and anyone who cooks for themselves probably just handles it on their own……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sneak, sneak……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「How naive, little one! Did you think you could escape my wicked eye!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah, Lady Helena! This humble one merely came from Asukai Shrine to donate ingredients to the student dorms!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Is prepping the food not the duty of the dorm residents!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「On the day of the actual event, yes, but today is just a test run」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Fohoho, and so…… potatoes, diced! Ups-a-daisy♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Aah, if they drop, the ingredients will bruise……! In that case, Gust!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa-oa-oa. Yay, that made things super easy!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan, do you know what kind of attraction the dorm is putting on for KiraFes?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Umm. A cafe, I think……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, could it be!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes. Just for KiraFes, they decided to recreate the dorm's old meals」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Today is an early taste-testing session. I'll finally get to savor that long-awaited menu」"
+  },
+  {
+    "name": "Helena",
+    "message": "「On the 27th, former dorm residents who catch wind of the rumor might even drop by to visit. I'm truly looking forward to it」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Helena! While elders ought to be respected, please spare a thought for current students like this humble one as well!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Allow me to say one word on the matter! A demon-slaying blade is not meant for chopping vegetables!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A first-year who speaks her mind right to the chairwoman's face without flinching, huh. I look forward to seeing how you grow」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And with that said, one more round\\s04 Turnips, rotary-peeled! Ups-a-daisy♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「With what said!? Flash!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nnn…… nnn? Awright\\s07 Sally-chan nailed it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I love Shio-chii for having a 'waste-not heart' way bigger than her 'demon-slaying miko pride'♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is hardly defending me……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were the dorm meals mostly vegetarian?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No way. There are tons of growing kids with big appetites here, you know?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then, Shio-chan, I'll have you fillet the fish into three pieces」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I have always been taught to grill fish whole and eat it as is……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Stop being so soft! Do you think you'll make it to Nationals with that attitude!? Don't you want the crimson championship banner you've dreamed of!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan is in the Naginata Club, you know?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「One, two, toss~♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Wha, wha-wha!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Butler!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Leave the rescue of my young lady's schoolmate to this butler, Riesling Toyama」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo! The fish that got shot bang-bang came raining down as pretty sashimi. Catch, catch♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No, no, no! Impossible, impossible, impossible!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Pfft! That concludes the prep work. Now, I truly must take my leave!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, good work」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Next up is the cooking and tasting party. Since you're already here, Shio-chan, why don't you stay and eat?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I decline!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Jeez, Tamiko-chan, please」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Lady Shio, replenishing nutrients after training is entirely logical」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If Sir Butler says so, then I shall gladly partake in the meal」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan, you come along too」"
+  },
+  {
+    "name": "Helena",
+    "message": "「As president, learning about how the dorm used to be will be a good study experience for you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Helena",
+    "message": "「By the way…… ufufu, Shio-chan, you were pretty into it back there, weren't you?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gasp!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Me too, me too! I wanna eat something delicious♪」"
+  },
+  {
+    "message": "Thanks to Helena's kindness, I enjoyed a meal at the restored dormitory."
+  },
+  {
+    "message": "It had a somehow nostalgic, warm, home-cooked flavor."
+  }
+]

@@ -1,0 +1,480 @@
+[
+  {
+    "message": "ライヴァルは誰だ!?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey... Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For this upcoming exam, you and I are in the same boat, right? Your scholarship status is on the line, and I'm on the verge of failing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now that you mention it, we're kindred spirits」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, you know, I was thinking maybe we could band together and get through this crisis--or something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll lend you my class notes like always」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not banding together at all! I'm saying let's have a study session together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, I figured... I'd just hold you back, huh... ahaha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not it. I already promised to study with Azel」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ehhh, with Azel!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not with Ria-senpai!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why Ria-senpai?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh, well, um, you know, she doesn't have tests so she's free」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Studying with Senpai would be way too intimidating」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right, ahaha... Even though I thought my rival was Ria-senpai...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm, is something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, if it's Azel, against a total boob guy like Synn, I should still have the advantage... But, but even so, he specifically chose Azel!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heeeey, Nanaka!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-What's the big idea! You startled me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something the matter?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-Nothing at all. Ahahahaha」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're a pitiful one too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up!」"
+  },
+  {
+    "message": "Did Azel already go ahead to the library?"
+  },
+  {
+    "message": "Ah."
+  },
+  {
+    "message": "Huh?"
+  },
+  {
+    "message": "Over there is Azel and..."
+  },
+  {
+    "name": "Pasta",
+    "message": "「Sigh... I don't even want to talk to someone like that, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then don't」"
+  },
+  {
+    "message": "An unusual pair."
+  },
+  {
+    "name": "Pasta",
+    "message": "「Just as I thought, consulting you was a total waste of time, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then stop doing it. Get back to work」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'm going back without you telling me to, nya... sigh」"
+  },
+  {
+    "message": "Looks like their talk is over for now."
+  },
+  {
+    "name": "Synn",
+    "message": "「Heeey, Azel!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Gah. S-See ya, nya!」"
+  },
+  {
+    "message": "It's a bit of a shock when someone runs away from me."
+  },
+  {
+    "message": "Well, I guess it can't be helped, though."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel, are you close with Pasta--the Waitress?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, you guys looked pretty friendly」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're imagining things」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But... wait, where are you going, Azel!? That's not the way to the library」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At least learn how to transfer data」"
+  },
+  {
+    "message": "Transferring the photo data filling up the digital camera's memory to the PC."
+  },
+  {
+    "name": "Azel",
+    "message": "「You're here, so it's not a problem」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's better if you can do it yourself--you can organize the data too, you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You'll do it, so it's not a problem」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Transferring data from a digital camera and saving it to a PC is easy, yet he refuses to learn how to do it."
+  },
+  {
+    "name": "Synn",
+    "message": "「There. All done. You sure take a lot of pictures, though.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is not enough.」"
+  },
+  {
+    "message": "Looking back, Azel was gazing at the monitor with a lonely expression."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have not captured enough.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even with all these?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This world is overflowing with precious moments.」"
+  },
+  {
+    "message": "Azel's words carried a faint warmth."
+  },
+  {
+    "name": "Azel",
+    "message": "「However, the instant I point my camera, that jewel-like moment has already passed. Only the trace of the jewel remains in the photograph. It is frustrating.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There must be a way to capture it. After all, photographers certainly succeed in capturing those moments. Is it technique? Sensibility? Equipment? Most likely, I lack all of them.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've really changed since you discovered photography, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is that so.」"
+  },
+  {
+    "message": "An ambiguous reply, neither affirming nor denying."
+  },
+  {
+    "message": "It would have been unthinkable for the old Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't get me wrong. I don't mean it in a bad way.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel, do you remember the very first photo you took at Kirafes? The one of the Lost Boy.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have a good memory.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I mean. Um, back then, how were you able to take that photo? Before you took a picture of that kid, you couldn't take any at all.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I feared waste.」"
+  },
+  {
+    "message": "\"It is pointless.\" That used to be one of Azel's favorite catchphrases."
+  },
+  {
+    "name": "Azel",
+    "message": "「Time is finite.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sounds kind of complicated.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Furthermore, the number of photos one can take is also finite.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True. The memory card really did fill up like this, after all.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If I photograph something pointless, I might miss a scene I truly ought to capture. Yet, every scene holds a captivating moment, and everything begins to look like something that must be photographed.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I didn't know what I should photograph. As a result, I was afraid of taking pointless action. While I hesitated, the scenes I wanted to capture vanished」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why that kid?」"
+  },
+  {
+    "message": "Azel gave a small laugh."
+  },
+  {
+    "name": "Azel",
+    "message": "「The moment I saw the smile that child directed my way, I pressed the shutter. And I understood just one thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Everything is fleeting. If you don't capture it the instant you feel the urge, it disappears. Because beauty only manifests in this single, present moment」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's why I take photos. I can't help but take them」"
+  },
+  {
+    "message": "A lively voice."
+  },
+  {
+    "name": "Azel",
+    "message": "「Did you know? That this world is full of beautiful moments」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A shopping district with its shutters closed early in the morning, an empty school building, wispy clouds drifting across the winter sky, a blue sky crisp in the cold air」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Students running around the field, students chatting in the courtyard, the side profiles of the Student Council members when they're making idle chatter--」"
+  },
+  {
+    "message": "His voice abruptly cut off."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay!?」"
+  },
+  {
+    "message": "Crouching down while clutching his chest, Azel clearly looked unwell, so I rushed over, but--"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm fine」"
+  },
+  {
+    "message": "he said, brusquely swatting my hand away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, you look like you're in pain」"
+  },
+  {
+    "message": "When I placed my hand on his forehead, it felt a little hot......"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you doing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry. I thought you might have a fever」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Of course I do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I meant. Do you normally run a higher body temperature, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not interested. I wouldn't know」"
+  },
+  {
+    "message": "Saying that, Azel braced his hand against the desk and stood up."
+  },
+  {
+    "message": "He's staggering a little."
+  },
+  {
+    "name": "Synn",
+    "message": "「You should go home. I'll walk you back」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I made a promise to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't even study when you're feeling sick.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm fine... for the sake of ramen.」"
+  },
+  {
+    "message": "So that's what it's about."
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not feeling well today, so we won't count it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even if we don't do it today, you'll still treat me to ramen, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Then I'm going home.」"
+  },
+  {
+    "message": "Is this really okay? Studying for tests just being a bonus for ramen."
+  },
+  {
+    "name": "Mysterious Man",
+    "message": "「F-From Pasta-chan!? From Pasta-chan to me!?」"
+  },
+  {
+    "name": "Mysterious Man",
+    "message": "「Ooooooh! My charm has finally gotten through to her!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「It's Ardin. Pasta-chaaan♪」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「What is it, what is it? If it's a favor from you, I'll do anything, y'know?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「...W-Whaaat!? You're being bullied!?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「You're being bullied by those Student Council guys!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Got it! I'll beat them up for you!」"
+  }
+]

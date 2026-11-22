@@ -1,0 +1,421 @@
+[
+  {
+    "message": "意味"
+  },
+  {
+    "message": "The Demons have been growing in number and steadily getting stronger. On top of that, they've been showing up at Ryuusei Academy with alarming frequency."
+  },
+  {
+    "message": "What could the reason be? If I look out over the academy from the hill, I might find some kind of clue."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san, say cheese」"
+  },
+  {
+    "name": "Azel",
+    "message": "「'Cheese' is the name of a dairy product. I am not cheese.」"
+  },
+  {
+    "message": "In the plaza on the hill, Melilot-san had her camera ready and was trying to take a picture of Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「In this case, 'cheese' just means to give a big smile.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hello, Sakura-kun. It's a lovely day for a photoshoot, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so you're teaming up with Melilot-san for a photo session, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Incorrect」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This woman merely appeared uninvited, carrying a contraption that takes pictures.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Does having your picture taken make you uncomfortable?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not dislike it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, while I understand the concept of 'cheese,' I cannot agree to it. If I were to put on a fake smile, the photograph would fail to capture the truth.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You do have a point there.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well then, here I go.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel's eyes darted around. Caught off guard, he must have been at a loss for where to look."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ready」"
+  },
+  {
+    "message": "The instant Melilot―san pressed the shutter button―"
+  },
+  {
+    "message": "The lens popped off and a toy mouse sprang out, bonking Azel right on the forehead."
+  },
+  {
+    "name": "Azel",
+    "message": "「……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is the meaning of this?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's a joke.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is not a joke」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pfft! Hahaha... ahahahahaha!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you laugh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san, do you know what a joke is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I understand it. A joke is a jest, idle chatter, frivolous talk, a playful anecdote, or a comical matter」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not understanding, that's just the definition. Ahahahahaha」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They are the same」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, they're not. Ahh, that's hilarious」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This woman's series of actions does not qualify as a joke. Even so, why do you laugh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was just so funny seeing Melilot-san miss the mark, the weird silence after the mouse hit and fell to the ground, and your back-and-forth with her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahh, analyzing it killed the laugh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's definitely a lie」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am telling you that I understood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heh... Melilot-san, did you follow Azel all the way here just to pull that off?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No good. Picturing how that went is making me laugh all over again... pfft, hahaha」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Something like that. Helena foisted a prank camera onto me, and I was at a loss for how to deal with it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And so why come to me? You wish to be in the library, do you not?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because you are fascinating」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Go home」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san, why did you come here?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Because I wished to come」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In order to do as you please whenever you please, you need someone to whom you can entrust your affairs, do you not?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do you have such a person?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I do」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's that chairwoman, isn't it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why are you getting mad?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Whatever you try to do with that woman, it's pointless」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「On the surface, that is correct」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, Helena and I share a bond like the soul and heart of a single body. We were originally one, so parting has no bearing on us」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「All that fills my heart is concern for Helena. I am ashamed of myself for possessing only such a narrow love」"
+  },
+  {
+    "name": "Azel",
+    "message": "「For all your preaching to me, aren't you nothing more than that woman's shadow guard in the end!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is enough. Only with Helena am I truly fulfilled」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What about you, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In my own way, I am quite fond of you as well」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel looks at my face. I want to say something to him as a friend."
+  },
+  {
+    "message": "However, their conversation leaves out some huge subject, and I have no clue what it could be."
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's a joke.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I still cannot smile」"
+  },
+  {
+    "message": "Melilot takes another picture of Azel with the prank camera."
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not understand. That joke is no joke at all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey, you. Tell a joke」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh!? A-All of a sudden?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「People are always laughing around you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Smiles aren't expressions that only come from jokes, though... uhh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'How many cans of juice did you get?' 'Just ten, man'」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see, I understand」"
+  },
+  {
+    "name": "Azel",
+    "message": "「'The balance beam is scary, isn't it?' 'I'm totally balanced'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why are you not laughing?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You laughed」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san. You and Sakura-kun may be running parallel right now, but I'm sure your paths will cross someday」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't understand」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee, well then, I shall heed your warning and return to the library」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Did you come to bother me too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah, I just wanted to look at the scenery for a bit」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Same as me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should I come back later if I'm in the way?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't worry about it」"
+  },
+  {
+    "message": "I look out over Ryuusei Academy from the hill. Rather than looking at the wharf or Finis Tower, Azel shifts his gaze to match mine."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, look, look! Sacchin just came out of Prier. He has a really distinctive walk, so I can tell right away」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You can see people clearly from up here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, though you can't make out their expressions」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'm fine right here. If I climb any higher, it'll be too blinding to see anyone or anything at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean the glare of the sun?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Incorrect」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What do you see that brightness as? An evil light that destroys everything, or the hand of God that purifies all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I don't know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't know either」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "For a while, I stand side by side with Azel, looking down at the academy after school."
+  },
+  {
+    "message": "In the end, I couldn't get a read on the Demon's movements."
+  }
+]

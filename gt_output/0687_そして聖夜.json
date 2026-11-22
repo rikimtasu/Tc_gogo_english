@@ -1,0 +1,475 @@
+[
+  {
+    "message": "そして聖夜"
+  },
+  {
+    "message": "Lively crowds and sacred melodies can be heard echoing from all across the academy."
+  },
+  {
+    "message": "For now, each event is being overseen by its respective coordinator, while we officers are on standby in the Student Council room in case an emergency arises that they can't handle on their own."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, we really have nothing to do right now, huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You are the big boss of Ryuusei Academy, after all. You ought to carry yourself with a bit more composure.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, she's asleep. Lolotte's a real big shot.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahahaha! That settles it--Lolo-chan is gonna be the next Student Council President!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Indeed, completely unfazed by anything... They call that maintaining divine composure, don't they?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Divine? No, she is an angel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-A-A-An... You can't eat Mr. Ladybug...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What kind of dream is she having?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz~~ zzz~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...The Student Council room is quiet today. You can hear Lolotte-san's soft breathing so clearly.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, the Crusaders have become a huge group lately. Back at the beginning, it was just this many of us, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Including Azel, there are only five of us here...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san... are you worried about Re-Crea?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is not it. It is simply that I am no longer of any use.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true at all! You've been researching Re-Crea all this time, haven't you? You're helping us out plenty!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come now, don't make such a gloomy face! That's right, Azel-san! Let's use this waiting time to review the song!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The song... you say?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You haven't been participating in practice at all, have you? It's not too late to start even now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't push yourself too hard or you'll lose your voice, so keep it in moderation, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I know that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The dance party's starting in just a bit. And then it's a big sing-along with Misa's song」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Dancing, huh... Senpai seems like she'd be good at it, so I was hoping to learn some tips from her」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She's probably over at the Wagashi Club or something, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Most likely. Shio is helping out with her club's event, too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why don't you go show your face at the Sweets Club as well, Nanaka-san?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks. But I'll wait until Ria-senpai gets here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are your song preparations all set?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course! I haven't missed a single detail」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-The final boss has arrived」"
+  },
+  {
+    "name": "Ria",
+    "message": "「O-Onee-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, well? Ria-senpai's with her too」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Sorry to keep you waiting, members of the Student Council」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A Virus has appeared」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yep. Right around Finis Tower, going 'shuwacchi'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And then, and then! Apparently a Re-Crea showed up too, all like 'gyupaaa'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Helena-san! That's not something to joke around about!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, you're right. It looks like Melilot is fighting them off, so let's hurry and go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone! Crusaders, move out!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okey-dokey」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And meanwhile, I will automatically--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Run, everyone! Big Sis is gonna explode!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Automatically teach Azel how to make pork miso soup.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Azel, I'm counting on you for the soup kitchen. Let's all eat together once the decisive battle is over.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「M-Me...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's right. It's a festival for the entire academy to take part in, after all. I won't let you sit around with nothing to do♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「We're counting on you, Crusaders. I wish you all the best of luck!」"
+  },
+  {
+    "name": "Synn & Misa",
+    "message": "「Yes, ma'am!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Haa, haa... Foolishness. I haven't been consumed by Re-Crea.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A power that caused even Soltia's body to crumble... Yet you succeeded in suppressing it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, what a display of madness... Do you also desire the rebirth of the world?!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「My resolve... was set long ago. Even poisoned by Re-Crea... I will never lose sight of my cherished ambition...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What an incomplete fusion... Magic power and Spirit Power are clashing against each other...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You haven't brought Re-Crea under control at all! At this rate, it's too dangerous!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph... The Demon Lord is still inexperienced. To fight him... haa, haa... it makes for a good handicap.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For what purpose...? What ambition could you possibly wish to achieve by going so far as to defeat the Demon Lord...?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「...I refuse to shoulder pointless burdens. Unlike you... or Soltia.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It isn't a matter of sanity or insanity. From the very beginning, you were driven toward obsession, weren't you?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Haa, haa... I won't deny it... Ghh!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just as I thought, the runaway power is eating away at your body... To fight in such a condition--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Meliloooot!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「...The Demon Lord is an existence drawn to Re-Crea. Hehehe... Just as the legends say.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus... You did all of this just for that...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you alright, Miss Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone in Crusaders! Please defeat that man... defeat Virus!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Impressive. You catch on quick.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're Virus...!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...W-What is this sensation...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「L-Lolotte...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-This is bad... I can feel an ominous pressure coming from this Demon...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Urgh... Uwaaah... Calm down!! My own will... Urgh, guwaaaaah!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm okay!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Crap... This is seriously bad.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's generating the same force field as the very first Re-Crea... the largest Re-Crea in history!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Me, taken over by Re―Crea... Rebirth of the world... Tch, I don't care about―!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus is on the verge of losing his consciousness to Re-Crea. Fortunately, his mind is clashing against it, weakening its influence.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If we're going to stop Re-Crea from running wild, now is our only chance!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura... what are we going to do?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't it obvious...!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's right, Demon Lord. That power of yours exists for moments just like this.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, it's unbelievable. The entire Re-Crea is contained inside that bastard alone.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Though the power's so ridiculously massive he can't hold it all in, so it's overflowing.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Rebirth of the world... If it lets me fight the Demon Lord...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Fine by me!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Now, come at me, Demon Lord!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's okay, Misa...... This power...... We've worked so hard for this exact moment」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes...... You're right!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I believe in everyone...... So, everyone, believe in me too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes!! Let's go, Sakura-kun!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not Heaven--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not the Demon World--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And not the Human World--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We won't let Re-Crea have its way!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「......A supremely cool-headed resolve, utterly devoid of anger or fear」"
+  },
+  {
+    "name": "Virus",
+    "message": "「A quietly burning Demon Lord...... Hehehe, hahahahaha!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「This moment! I have been waiting for this very instant!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With everyone's power......! We'll blast Re-Crea right out of Virus!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ４５_EASY"
+  },
+  {
+    "message": "ステージ４５_HARD"
+  },
+  {
+    "message": "ステージ４５_NORMAL"
+  }
+]

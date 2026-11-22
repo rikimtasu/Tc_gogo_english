@@ -1,0 +1,634 @@
+[
+  {
+    "message": "見えないもの"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yo, Demon Lord, whip us up some breakfast already. Yours truly is starving here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh right, today's Sunday, isn't it. No wonder Nanaka isn't coming to pick me up」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Jeez... hurry up and wolf down some grub, then go wander around outside」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If a guy who just got shot down in flames stays cooped up alone in his room, his mind's gonna rot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, you're right. It's just like you say, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Damn straight! Go for a stroll up to the overlook, take a jog around Ryuusei Town, do some people―watching in the Shiokumi Shopping District―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Check if 'Ponpoko' still has any usable heaters, go fishing off the jetty at Tsukinowo Park, or pick wild mountain vegetables in the sacred grove at Asukai Shrine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your ideas are so painfully domestic it's making me wanna cry」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, once it's decided, let's head out right away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since we're passing right by, we might as well stop and make a wish」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Fine by me, but do ya even have any offering money?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-If I pray with genuine sincerity, shouldn't that be enough? You know how they say smiles are zero yen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Clap, clap*...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Hmm, what a dilemma. What should I even wish for?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You didn't even think about it first?! Just wish for whatever pops straight into your head. That's your true feelings, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, in that case...」"
+  },
+  {
+    "message": "--Please let Misa find happiness--"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You've got a good look on your face, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so? I don't really think I do, though」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, it is just as the spirit says. It has been quite some time since I have met a worshipper bearing such a serene countenance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha?! S-Shio-chan, when did you get here...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmph, I managed to approach without being noticed. This too is the fruit of emulating my respected lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Today, I have taken yet another step closer to the realm of mastery. Only 65,535 steps remain until I reach Sir Butler's level.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see. I'm rooting for you.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「By the way, Lord Synn. I was just about to take a short tea break--would you care to join me?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Of course, I have sweets to go with the tea as well.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Today, I was gifted some sweet potato yokan and pumpkin manju. I cannot possibly finish them all by myself.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sounds delicious, I'll gladly take you up on that.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am humbled.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're tryin' to imitate the butler with that line, aren't ya, but you're usin' it in the wrong place?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nngh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Feels like there's way too many sweets for tea...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gulp... Hah~ Tea truly is wonderful, it soothes the soul.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... Yeah, it's good!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Bit late to ask, but don't you got any other way to describe it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Slurp... Yeah, it's deep!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Makes zero sense to me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not flattering you, I'm saying it's genuinely good.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn, if Japanese tea is to your liking, I would be happy to brew it for you anytime...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, however, you do have your elder sister, Lord Synn. Even my Japanese tea cannot hold a candle to her black tea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Because if it is for your sake, Lord Synn, your elder sister would gladly brew black tea for you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The black tea I brew tastes so awful that she only does it because she has no choice.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm? If she truly felt she had no choice in her heart, I do not believe she would brew it at all...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Teatime is a relaxing occasion where one can catch a glimpse of my dear sister unguarded.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... Whether it's teatime or not, Misa looks pretty much the same to me?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is because my dear sister has opened her heart to you, Sir Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way! When Misa's always challenging me to contests at every turn? That's proof she's keeping a line drawn between us.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is understandable that you would feel she is drawing a boundary, however...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What my dear sister draws is not a straight line, but a circle.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Its radius expands or shrinks depending on whom she interacts with... And you, Sir Synn, are most certainly included within that circle.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so? I don't really get it.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mm... So because you stand too close to my dear sister, you cannot perceive the circle itself.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Not only while enjoying tea, lately my dear sister speaks of nothing but you, Sir Synn, at every opportunity.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The sheer joy on her face is such that it lifts even my own spirits.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Though if one points this out, she forces a scowl onto her face.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I can totally picture that.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My word, perhaps my little lecture was rather meddlesome of me.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...Um, while I am already speaking out of turn, may I ask one thing...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Are you and my dear sister... d-d-d-d-dating?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat?! W-Why would you think that?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have never before witnessed my dear sister speak so candidly and earnestly about someone, radiating such unconcealed happiness.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Somehow, it comes across clearly to me.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Could what my dear sister feels be, well... what people call love...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio―chan―」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gasp?! Oh, no! Have I presumptuously spoken on my dear sister's behalf?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's fine. Knowing Misa, there's no way she thinks of me like that.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Why do you assert that so firmly?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "message": "The cheerful atmosphere Shio-chan's chattering had created turned awkward because of my careless slip of the tongue."
+  },
+  {
+    "message": "Should I really tell her the truth?"
+  },
+  {
+    "message": "If it's Shio-chan, maybe I can confide in her... Yes, just like the bond between my childhood friend Nanaka and me, she has to know Misa inside and out."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Synn...?」"
+  },
+  {
+    "message": "Should I try telling her...?"
+  },
+  {
+    "message": "No, I'd better not."
+  },
+  {
+    "message": "If someone tried to use Nanaka just for their own convenience, I'd definitely be furious. And if that person hadn't even put in any real effort themselves, I'd despise them all the more."
+  },
+  {
+    "message": "I haven't even put in any effort when it comes to Misa, let alone struggled desperately. What good would dragging Shio-chan into this do when I'm in such a pathetic state?"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heya! I'm here again today, Shio-chi!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh, Lady Sally. I have grown weary of waiting for you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Do you two meet up often?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Every single day! Wait, Prez is here too. Yoohoo!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hm... hmm?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yippee! Some yummy-looking manjuu and some kinda sweet square thingies. Time to dig in~♪」"
+  },
+  {
+    "message": "Whether the timing was good or bad, because Sally-chan popped out of nowhere, my conversation with Shio-chan ended up cut off mid-air."
+  },
+  {
+    "name": "Shio",
+    "message": "「That is forbidden!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa-oa-oa. Oopsie-daisy, can't do that. That was my promise with Shio-chi.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed! Please refrain from enjoying tea until after you have finished training with me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Training? Don't tell me you do it every day with Sally-chan as your opponent?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yessir!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If I can land even a single blow upon Lady Sally, victory is mine.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「And if I keep dodging until time's up, I win and get all-you-can-eat tea snacks!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Today shall be the day I strike you!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, naginata brat. Tracing back those words of yours, does that mean you haven't landed a single hit so far?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nngh...! As long as I win before Re-Crea arrives, that is sufficient!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Didn't you literally just say 'today shall be the day'?!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...Hmph, secular folk always fuss over such trivial matters.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, I have no clue what's going on anymore...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh? Re-crea? What was that again? Was it something yummy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「'Re-crea' is a brand-new kind of potato made by crossbreeding plums and chestnuts, ya know」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa, nice, so nice, I wanna eat it! Shio-chi, roast that up into a baked sweet potato for me tomorrow, pleeease♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Save such demands until after you have won today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, a potato like that doesn't even exis--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Bow!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Welcome in! *Bow*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Did her part-time gig at the beef bowl joint make her think that's how you're supposed to bow? That naginata pipsqueak oughta just tell her already」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not giving that away easily is what makes her Misa's little sister. She probably thinks it's her trump card」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pretty pathetic ace up her sleeve」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah, always, always darting around like a pest!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ufufu-no-fu, you're just way too slow, Shio-chi!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's too fast for me, I can't even follow the path of her blade」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't sweat it. Even my mighty eyes can't see a darn thing」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Grrrr, how impudent! Vanish like dew upon my naginata. Hah, yah!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No way, booo♪ *Afu*, *fwaaaawn*...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gnnnnnh!! What is the meaning of a huge yawn in the middle of a match!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's whiffing every single strike. Was Sally always this strong?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She ain't particularly strong, is she? She hasn't even counterattacked once」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, but it doesn't look like she's struggling to dodge either. She's totally relaxed」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, Shio-chi. I'm boooored, so let's chat!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I shall lend no ear to such nonsense!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You know, Boss's way of fighting is suuuper sloppy~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So so I wouldn't get caught in the crossfire, I ended up only learning how to dodge」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am not one to be deceived by Lady Sally's bluffing! Prepare yourself!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Boss's attacks kinda feel yellow. You're the same, Shio-chi~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Whaaat did you say--?! That I shall grow as portly as him in the future!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's not what I meant!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's not like I actually see a yellow color. But from hands and stuff, this invisible yellow light goes pyah and hits me」"
+  },
+  {
+    "name": "Sally",
+    "message": "「And then, KA-BOOOOM! Before you even blink, that spot really gets attacked!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「From you, Shio-chi, something cold and pale blue comes out and hits me~ So it's totally obvious, pffft-pfft-pfft~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I shall not be toyed with by such falsehoods! Hyaaah!!」"
+  },
+  {
+    "message": "She's really giving it her all, Shio-chan……"
+  },
+  {
+    "message": "I should head off to my magic training soon too."
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, I know you're in the middle of practice, but I'm heading out now. I'll come hang out again!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Zzz, zzz, mumble-mumble…… ugh, I can't eat another bite…… zzzzz~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gaaah--! Why will none of them strike--!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You can do it~\\s02」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let us call it a night here. The magic circle is still unstable, but there is no need to rush」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good work tonight. Though, aren't we finishing earlier than last night?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……If we do not take proper breaks, that groper will come attacking again--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Calling me a boob-groper, how meaaan!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I did not say that!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Truly, how are you even getting inside a barrier that ordinary people cannot perceive!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Hmph, it's a miracle brought about by love'」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Chairwoman though I may be, I am still a frail woman. So terrified am I of Re-Crea that I cannot help seeking solace in the Boob Diet Building」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There's no such building in the Human World!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, isn't it right here♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tickle, tickle, tickle\\s04」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-Not this again……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Uh, well……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「C'mon, let's head back and get some shut-eye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, good idea!」"
+  }
+]

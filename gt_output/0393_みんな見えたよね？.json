@@ -1,0 +1,414 @@
+[
+  {
+    "message": "みんな見えたよね？"
+  },
+  {
+    "name": "Synn",
+    "message": "「This was the centerpiece of the Holy Night Festival last year, wasn't it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. The church isn't big enough to fit the entire student body.」"
+  },
+  {
+    "message": "Our voices echo through the empty auditorium."
+  },
+  {
+    "message": "Club activities don't resume until tomorrow."
+  },
+  {
+    "name": "Misa",
+    "message": "「After all, since you were the one who planned it, Big Sister, it was a magnificent, deeply sacred event brimming with joy...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It wasn't that amazing\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A communion service, a candlelight service, and a super fancy dance party. It felt just like a mission school--lots of first-time experiences for me.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan, it didn't just 'feel' like one, we literally are one.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「By candlelight service, you mean that exciting event where you swing around a giant lit crimson candle to light a row of other candles, right!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, it's nothing that fun--ahem, I mean, nothing that extreme.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To begin with, getting a permit to use open flames indoors is a huge hassle. Even holding the candlelight service must have been tough, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It wasn't that big of a deal. The candlelight service is a tradition, after all.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is this the only venue?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「For the main events, yeah.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Filming will be easy--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The open-entry events for regular students take place in the classrooms too, though.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The Sweets Club is doing a maid cafe, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm gonna give it my all, yeah!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I feel like that doesn't quite fit the atmosphere of the Holy Night Festival, which values tradition.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, if we keep saying things like that, won't it feel too intimidating for regular students to join in?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So that's why there were so few participants in the open-entry division.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Memorizing hymns and stuff is super hard, you know? Cool as they are.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's just the kind of event it is, so it can't be helped.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If this was the main venue, that means you had to clean up every single time the event changed, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. The schedule was tight, so it was tough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've got it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh. Did you think of something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you think about splitting up the venues?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We certainly wouldn't be pressed for time that way, but there aren't any suitable venues, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How about using classrooms for the open-participation events, and using the outdoors too?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Being outside at the end of December is rough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not for all the events. For example, the dance party」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The dance party, huh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How about dancing in the plaza beneath Finis Tower?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It goes without saying, but it's wider than the auditorium!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we make this the venue, everyone will be able to dance even with the brass band included」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Found it!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What is it, soba? Did someone drop some money or something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Light-up equipment! Wouldn't it be nice to dance under a lit-up Finis Tower?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan's boob-- bouncing and jiggling around while she dances--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Go to sleep for a bit」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, there's the fundamental problem of the cold」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We can just light a fire!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's pretty extreme」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Permission... Oh, right. It's easier to get permission for outdoors than for the auditorium」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's it... a campfire!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Blazing away right in the middle of the plaza?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. Under the lit-up Finis Tower, everyone dances happily around a huge campfire to the brass band's music!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got any thoughts too, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You guys sure look like you're having fun for being on the job」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a sparkling academy life, so it wouldn't be right if we didn't have fun」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Holy Night Festival will be fun too, you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If we move a few events out of the auditorium, it'll free up time slots there, making it easier for clubs like the drama club and light music club to participate」"
+  },
+  {
+    "name": "Misa",
+    "message": "「True, noisy clubs would probably rather perform in the auditorium than in a classroom」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds like it's gonna get pretty hyped!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone. Are you prepared for this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Prepared...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Changing one major event will ripple out everywhere and fundamentally change the entire Holy Night Festival from last year, you know? Are you sure?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister is right. Doing something new means taking on a fair amount of risk, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True. We might fail. Still, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone saw it, right? The sight of the academy students dancing happily around a huge campfire beneath the lit-up Finis Tower」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I saw it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Loud and clear」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If Sakura-kun could see it, there's no way I wouldn't!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... I saw it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If there's even a chance that happy sight can become real, I think it's worth trying」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't say something so spineless like 'maybe.' We're going to make it happen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, for this year's Holy Night Festival... does that mean we're going all out again with all sorts of things, just like KiraFes?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「No objections!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You people will surely pull it off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. Let's do our best」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right. You're a member of the Student Council too, Azel-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yeah... I suppose so」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "message": "I instinctively caught Azel's body."
+  },
+  {
+    "message": "So small. The breath exhaled was hot. Trembling faintly."
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm fine... I can stand」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san. You look pale」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's nothing... I'm going home」"
+  },
+  {
+    "message": "The strength used to brush my arm away was feeble."
+  },
+  {
+    "name": "Synn",
+    "message": "「We'll start the concrete planning the day after tomorrow, once exam break is over. Let's call it a day here」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sounds good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll walk you home」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need!」"
+  },
+  {
+    "message": "Once again, Azel tried to brush my arm away."
+  },
+  {
+    "message": "The strength behind it was chillingly weak, and I involuntarily let go."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Sorry」"
+  },
+  {
+    "message": "With a speed unimaginable from that frailty just moments ago, Azel bolted down from the plaza."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Me too...」"
+  },
+  {
+    "message": "We chased after Azel."
+  },
+  {
+    "message": "Even though we ran all the way to the dorms, we couldn't catch up."
+  },
+  {
+    "message": "It was as if he had hidden himself somewhere."
+  }
+]

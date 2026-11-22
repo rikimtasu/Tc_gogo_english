@@ -1,0 +1,412 @@
+[
+  {
+    "message": "潜伏"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Isn't it about time we disposed of the Student Council--no, the Crusaders?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Virus languidly opened his mouth."
+  },
+  {
+    "name": "Virus",
+    "message": "「It has only been about ten days since we judged them to be no major threat, however.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「In just over ten days, they've grown strong enough to defeat Pasta... If that isn't a threat, what would you call a threat?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I was just caught off guard yesterday, nya! One more time--」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You mobilized that many subordinates and still suffered defeat... Anything further would be pointless.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Don't order Pasta around, nya!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Pasta. Just as you say, you might win if you tried again.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Then Lord Virus, nya, please give me one more chance, nya!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「However, if your subordinates are reduced any further, it will hinder the construction of the magic circle. Therefore, I cannot let you and your subordinates fight right now.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「...No way, nyaa」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I will step in.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Those guys are Pasta's prey, nya! Don't get in the way, nya!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Aren't you the one who's their prey?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Th-That's...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Azel... you don't object, do you? You must have felt their growth firsthand, after all.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Could there be a reason to object?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "After a silence tinged with hesitation, Azel spoke."
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no reason to object.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You have no reason, yet you want to object? How terribly irrational.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You look rather pale, too.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...If it's you, you will likely defeat them. Once they taste defeat, they will realize the folly of resistance, and their interference will stop.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「They won't realize anything」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you saying even you would lose?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Realize or not, they're all going to die anyway」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wha...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「B-But they saved Pasta, nya! Even the part-time job can keep going, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There's no need to go that far. Scaring them off should be enough」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「To completely reduce the threat to zero, this is the best way, isn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It's not like the academy is disappearing, so you can keep doing your part-time job」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Well... that's true, nya...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Are you okay? You look really pale, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's nothing」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It seems there are no objections. Then tomorrow at the earliest--」"
+  },
+  {
+    "message": "Virus cuts in concisely."
+  },
+  {
+    "name": "Virus",
+    "message": "「I object」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I'd like to hear your reason」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Right now, what must be prioritized above all else is completing the magic circle. Am I wrong?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That's precisely why I'm stepping in, not Pasta」"
+  },
+  {
+    "name": "Virus",
+    "message": "「You have the role of supervising the magic circle's placement. With only Pasta and his subordinates, it's doubtful they could build a magic circle that actually works」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Besides, how would we deal with enemies other than the Student Council? Right now, we cannot afford to lose you, Pasta, or his subordinates」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「When that happens, you can just step in yourself, can't you?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Having you attack the Student Council might be the enemy's exact goal」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「...Are you trying to say the Student Council is bait to lure us out?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「That possibility cannot be denied」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「So you're saying no hostile actions against the Student Council until the magic circle is complete?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「That's right. Once the magic circle is finished, we'll have plenty of combat strength to spare.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「But what do we do if the Student Council interferes with building the magic circle?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「We just need to get information on the Student Council's patrol times and routes so we can work while avoiding encounters. Fortunately, we even have a Student Council member right here.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Are you ordering me?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「It's not an order, it's a suggestion. You shouldn't have any reason to object.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Understood.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Pasta. Make sure everyone knows to retreat without fighting if they happen to run into the Student Council.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「If we do that, everyone's morale will drop, nya...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「It won't drop any lower than it would from losing over and over. Besides, there's no need for your subordinates to get hurt needlessly anymore.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「...Got it, nya.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Then what are you going to do? Just leave them alone?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「No, I'll throw someone convenient at them.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Who?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I'll use Ardin.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「He certainly has the potential to defeat the Student Council. But how? He'd never listen to a request from--」"
+  },
+  {
+    "message": "Soltia looked at Pasta."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Ah, I see.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「W-What is it, nya?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Pasta. You can get that man to move, can't you?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I don't wanna see him, nya...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「You're the only one I can ask to do this, Pasta.」"
+  },
+  {
+    "message": "Pasta's face lit up as if a lamp had been switched on."
+  },
+  {
+    "name": "Pasta",
+    "message": "「It's for Master Virus, nya! I'll do my best, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Wait, nya!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why did you call me?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I want you to tell me the Student Council's patrol routes and times, nya.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I won't know until tomorrow, and even then, only roughly.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That's fine, nya.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll let you know once I find out.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Got it, nya.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Is there something on Pasta's face, nya?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're just being used.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「...That's not true, nya! Lord Virus is...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So you do realize it. It's irrational.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Shut up, nya. It's Pasta's choice, nya. Besides,」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「When Lord Virus says things like 'I'm counting on you' or 'You're the only one I can ask,' nya, my heart just lights right up, nya. That alone makes me happy, nya.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Foolish.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Shut up, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Still, you actually worry about others, nya. My opinion of you went up a little, nya.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I merely found it puzzling.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Are you doing okay, nya?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「About what?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You looked pale earlier, nya. Did you catch a cold or something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Then you ate too much, nya.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No.」"
+  }
+]

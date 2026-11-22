@@ -1,0 +1,213 @@
+[
+  {
+    "message": "人と魔族"
+  },
+  {
+    "message": "Behind the hectic preparations for KiraFes and the lingering afterglow of its huge success, a shift had begun to appear in the movements of the demons."
+  },
+  {
+    "message": "Rumors said that mysterious demons--of a different sort from Sally-chan and the Delicious Food Squad--were gathering at Ryuusei Academy."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, let's see...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So, investigating the academy is one thing, but why are we coming to the shopping district?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Sally-chan and Eauderourke are around here a lot, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sure, 'cause Flat-Chest and Ode-ko work part-time at that beef bowl joint.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even outside of work, I see them around this area. Don't you think demons like places where lots of people gather?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why they're drawn to the shopping district and the academy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, maybe demons get lonely more easily than you'd expect... I'm kind of like that myself.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hold up. That's way too optimistic. There are plenty of lone wolves among 'em, y'know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then that makes demons even more no different from humans, doesn't it?」"
+  },
+  {
+    "message": "The door to Five-Star Restaurant opens, and Kimura-san appears carrying a plate piled high with steamed Chinese buns."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Kimura-san.」"
+  },
+  {
+    "message": "Being right in front of the food, Kimura-san refrains from speaking and instead sends a smile my way with his eyes."
+  },
+  {
+    "message": "Using tongs, he transfers the piping-hot buns prepared beforehand in the kitchen into the steamer out front."
+  },
+  {
+    "message": "Students heading home from the academy and kids out shopping with their moms love buying snacks to eat on the go, so he wouldn't be able to keep up otherwise."
+  },
+  {
+    "name": "Synn",
+    "message": "「Kimura-san, thank you for all your help at KiraFes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...!?」"
+  },
+  {
+    "message": "It must have been because I spoke to him. His hand slips, and one of the steamed buns drops right onto Kimura-san's palm."
+  },
+  {
+    "message": "Kimura-san reflexively waves his hand, sending the steamed bun flying through the air in an arc."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh no, what a waste!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Chomp♪」"
+  },
+  {
+    "message": "Sally-chan swoops in and bites into the steamed bun midair."
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Nice catch, yes」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Munch, munch... Phew, this pork bun is so good♪」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「I was about to drop that one anyway, so no need to pay, neh」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo! Kim-san, toss more of 'em over」"
+  },
+  {
+    "name": "Sally",
+    "message": "「And if I catch 'em in my mouth like chomp-chomp, it'll be great advertising for your shop!」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「It's like a street performance, looks like it'll draw in customers. But playing with food is no good, aru」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Okaaay」"
+  },
+  {
+    "message": "Having apparently hit it off already, Sally-chan and Kimura-san are deep in friendly conversation. I completely missed my chance to chime in."
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Sally-chan, switch」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eeeh~~. Is it that time already?」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Eaude, eat, meat bun」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah, okay, okay. I'll get the money out right now~」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「It's fine, it's fine. On the house」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So Sally-chan is the Ministry of Finance for the Delicious Food Squad」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Min-is-try of Fi-nance?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It means the person who manages the wallet」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yep. 'Cause when Oyabin gets hungry, he'll eat literally anything」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Eaude, eat, money」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So usually, I'm the one in charge of handling the money like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Flat-chest here has been secretly embezzling it behind their backs」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I have not! This is money the Delicious Food Squad earned through sweat and tears!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Eaude, trust, Sally-chan」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ufufu. That's why I love you, Oyabin\\s07」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Though I actually do have a tiny secret stash\\s07」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well, I'm off to my part-time job!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have a good shiiift」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's really changed...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, totally」"
+  },
+  {
+    "message": "I chatted with Eauderourke for a while. It was the exact same kind of comfort I feel when I'm with everyone from the Student Council."
+  },
+  {
+    "message": "At the very least, the demons in the Shiokumi Shopping District pose no danger. I became completely convinced of that."
+  }
+]

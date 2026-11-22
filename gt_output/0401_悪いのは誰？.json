@@ -1,0 +1,283 @@
+[
+  {
+    "message": "悪いのは誰？"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, that's why Azel is in a pinch」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel! Put the camera away!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Got it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do something about this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel! Watch how you phrase things......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nothing can be done」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You are the chairwoman. The highest authority in this academy. You should be able to do whatever you want」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Azel-chan. I think you should imagine what I might think of you when you address me so rudely」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The meaning gets across」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It has been posted up continuously since Monday of last week. Nothing can be done about it now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you telling me to bow my head」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, I didn't say anything of the sort」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Everyone except Azel-chan has already completed the procedure. I cannot bend the rules that everyone else follows for a single violator」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's my fault!」"
+  },
+  {
+    "message": "I bowed my head deeply."
+  },
+  {
+    "name": "Azel",
+    "message": "「W-Why are you apologizing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I hadn't dragged Azel into Student Council activities, this wouldn't have happened! It's my fault!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No, you're wrong, Sakura Synn isn't at fault! I simply--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She didn't look like she was participating very enthusiastically, though?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true! For the upcoming Holy Night Festival, Azel is carrying out a big project to take photos of every student in the academy and put them on display!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's participating actively!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's not like I'm being active about it or anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel was the one who stepped up and suggested this kind of project!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's been sorting through all the photos she's taken so far to pick the best ones, checking out photo books in the library for inspiration--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And walking all over the academy looking for even better photo ops--she's been super busy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So it couldn't be helped that she forgot to check the bulletin board!」"
+  },
+  {
+    "message": "I looked straight at Helena-san."
+  },
+  {
+    "name": "Helena",
+    "message": "「In other words, it's Synn-chan's fault, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, it is.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Then I'll just have to make Synn―chan take responsibility. Let's see―」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am at fault. It is because I failed to look at the bulletin board. Synn Sakura is not to blame.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In other words, it's Azel-chan's fault, isn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is correct.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Enough. I know you are trying to look out for me. However, this is my fault. Therefore, I must be the one to take responsibility.」"
+  },
+  {
+    "message": "Azel bowed deeply to Helena-san."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ch... Chairwoman. My carelessness is the sole cause of all this. I-I am sorry.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, I'll be looking forward to the photo exhibition at the Holy Night Festival.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You got so absorbed in your Student Council activities that you missed the notice, didn't you? In that case, see it through to the very end. That's how you should take responsibility.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll see what I can do about getting you a room on my end.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How are you finding it to use?」"
+  },
+  {
+    "message": "Melilot-san asked as she served us black tea."
+  },
+  {
+    "name": "Azel",
+    "message": "「A trivial matter.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though you stayed up all night reading the reference manuals the night you got the camera.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe. Best of luck.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's not like--」"
+  },
+  {
+    "message": "Azel started to say something, only to end up muttering bashfully."
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's hard.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. Though it seems some people say that's the charm of it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel's been so excited since yesterday, it's been a handful.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... Don't tell her that.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, well, that certainly makes giving it to you worthwhile.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Did you have it repaired before giving it to me?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you really sure about this?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course. I don't use it anymore, after all.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Cameras like this stop working if they aren't well cared for, right? This one works properly. That means it was cherished.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is it really okay for me to have it?」"
+  },
+  {
+    "message": "Taking the seat across from Azel, Melilot spoke in a gentle voice,"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Photography isn't really a hobby of mine. To me, it's merely a recording device, and lately I've been using digital cameras almost exclusively.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Therefore, I think the Leica would be happier being used by someone who loves it as a camera.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'll take good care of it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is keeping records a hobby of yours?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Rather than a hobby... I suppose you could say I come from a long line of people who love recording things.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  }
+]

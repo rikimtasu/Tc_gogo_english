@@ -1,0 +1,282 @@
+[
+  {
+    "message": "企画会議は戦いだ"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, hold on. Are you awake?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What did you have for breakfast this morning?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Curry rice...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He's a lost cause」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh no, I oversle--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「--pt!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ow, ow, ow, ow... I'm sorry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「―Wait, it's you again, Sakura―kun!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Morning, Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「G-Good morning」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're full of energy right from the morning」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Like heck I am\\s10」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Compared to that, look at this guy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He hasn't even flinched!?」"
+  },
+  {
+    "message": "Aah, there's static in my vision..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「At a 45-degree angle, keeping the core steady, snap your wrist and bring your arm down swiftly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fixed」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He's not an old TV」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're early again today, Misa~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right back at you, hmph! Sorry, but I'll be heading on ahead!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Have a good day~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「--Wait, heyyy! Why are you running too, Synn!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-My body just moved on its own」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!? Like I'd ever lose!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huff... puff... We weren't even going to be late...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huff, puff. Come on, time for the meeting...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W―wait a second. Something to drink―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go, some tea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp, gulp, gulp. Phew~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hot!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, no, Synn-kun. You shouldn't chug it all at once~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hiss, hiss」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please have this water packed with plenty of mustard」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-what a blatant trap...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp, gulp, gulp. Phew~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He drank it!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is it milk or something?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, no, it's spicy!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I thought it would wake you right up, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What an idiot...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, quit fooling around. We don't have much time, so let's get started already」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'How cruel! So it was all just a game to you...'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um. We're talking about the new project, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right. I've summarized the main points, so take a look at this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, while you're at it, check mine too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Amazing. Even though we just talked about it yesterday, you both put together solid summaries」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Sakura-kun. What do you mean, 'while you're at it'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Did you only write something half-hearted on the side?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I―It's not like that, but―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then submit it with confidence!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No matter when or where, it's always a serious match between us. Don't you forget that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right. I put my heart and soul into this, so please read it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's the spirit♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really care about winning, don't you, Vice President~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's what she lives for」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How youthful~」"
+  },
+  {
+    "message": "Reading through both proposals, what they had each written was almost identical."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If I had to point out a difference, it's that Misa's is three and a half pages, while Synn's is three pages flat」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, I win♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, keeping writing short and concise is actually harder, you know~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Quality over quantity, right? Though I don't think Misa-chan's is bad quality either」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Anyway, that makes this match a draw!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How do you figure that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then how about we try blending both of ours together?」"
+  },
+  {
+    "message": "Their banter continued until the warning bell rang."
+  }
+]

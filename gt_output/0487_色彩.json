@@ -1,0 +1,345 @@
+[
+  {
+    "message": "色彩"
+  },
+  {
+    "name": "Azel",
+    "message": "「What a strange color.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is sepia-toned.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is that?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That photograph was taken using film invented during the transition from black-and-white to today's full natural color.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood.」"
+  },
+  {
+    "message": "Whoa, that's unusual."
+  },
+  {
+    "message": "Coming to the library to look up things about Christmas, I stumble upon an unexpected sight."
+  },
+  {
+    "message": "Azel and Melilot-san were sitting side by side in the reading room. Stacks of photo books are piled up on the table."
+  },
+  {
+    "name": "Melilot",
+    "message": "「As you can tell from the colors of the photographs, this world progresses step by step.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I didn't ask for all that.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee, my apologies.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-huh?! There's stuff other than photo books too, huh?」"
+  },
+  {
+    "message": "Giving the two of them a nod, I take a seat with them."
+  },
+  {
+    "message": "Several photo books placed on the desk. Unadorned and unpretentious, capturing ordinary townscapes and people's daily lives. Yet, mixed in among them is a single illustrated reference book."
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is the Great Encyclopedia of Cameras. Since Azel-san seemed to have an interest in photographs, I brought it along.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no interest in the machines that take the photographs themselves.」"
+  },
+  {
+    "message": "Saying that, Azel picks up the Great Encyclopedia of Cameras and begins flipping through the pages."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Heh.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They photographed a camera with a camera. Pointless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, could it be that actually hit your funny bone, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I wouldn't know!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There are too many types. Which one is the best camera?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It depends on the intended use, though in terms of performance, a single-lens reflex would be the safest choice.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Which one is that?」"
+  },
+  {
+    "message": "Oh, right. Azel just arrived as an exchange student, so he still can't read this country's script very well."
+  },
+  {
+    "message": "Is that why he's drawn to photo books?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Here it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, that looks expensive」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't care about the price. What's so good about this camera?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It can take photographs that are closest to the scene captured by the naked eye」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, due to a structural flaw, the image vanishes from the viewfinder at the exact moment the photo is taken, making the subject invisible」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You take pictures of things you can't see?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You can see them right before and right after」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Still, you can't see it at the very moment you want to shoot, right? So in the end, you just end up with a counterfeit photograph?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if it turns out different from what you expected, it's better than nothing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Incomprehensible」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then how about this photo book? Every single shot in it was taken using an SLR camera」"
+  },
+  {
+    "message": "Melilot hands Azel a particularly thin booklet from a tall pile of books."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, that cover is――」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Beautiful」"
+  },
+  {
+    "message": "On the page Azel opened to is a photograph of a stone bed and a room painted the exact same vermilion as Azel's hair."
+  },
+  {
+    "name": "Azel",
+    "message": "「Where is this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's Ryuusei Town」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Near here!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It actually exists right next to Asukai Shrine」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I want to go there!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's impossible. It no longer exists」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're contradicting yourself」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Gorgeous」"
+  },
+  {
+    "message": "Azel gazes intently at the photo on the next page. A young man and woman dressed in dazzling attire are sleeping peacefully, snuggled close together on the stone bed."
+  },
+  {
+    "name": "Azel",
+    "message": "「So serene. I'd like to try sleeping like that too」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Those two are dead」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't lie to me. They look completely alive」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「They had turned into adipocere」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is 'shirou'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen, Azel, that place is a minor ruin--」"
+  },
+  {
+    "message": "I tell Azel everything I know about it."
+  },
+  {
+    "message": "A few years before I was born, a weekend photographer stumbled across it by chance while walking along a mountain trail beside Asukai Shrine."
+  },
+  {
+    "message": "A mountainside collapsed by long rains. A stone door with its gaps carefully sealed with clay."
+  },
+  {
+    "message": "I can't blame him for opening it. I'm sure I would have done the exact same thing."
+  },
+  {
+    "message": "It was an untouched ruin, a stone chamber with its entire interior painted vermilion."
+  },
+  {
+    "message": "It could only be called a miracle."
+  },
+  {
+    "message": "Enshrined in ancient times, the remains of the king and queen had turned into adipocere by a whim of nature, preserving their exact appearance from when they were alive."
+  },
+  {
+    "message": "After snapping several photos with trembling hands, he hurried down the mountain and called the police."
+  },
+  {
+    "message": "And when he returned to the ruin with the officers who had received his report--"
+  },
+  {
+    "message": "Everything was gone."
+  },
+  {
+    "message": "It hadn't been looted by grave robbers."
+  },
+  {
+    "message": "The colors that had been preserved by the airtight seal faded and vanished in an instant upon touching the fresh air that rushed inside."
+  },
+  {
+    "message": "In the spot where the lifelike king and queen had been laid to rest, only two lumps of earth remained."
+  },
+  {
+    "name": "Melilot",
+    "message": "「There may have been other burial goods as well, though we will never know now」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And only a handful of photographs remain」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone who grew up in Ryuusei Town always goes to visit those ruins on a school field trip」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the standard route after that is the museum. Nanaka and I went too, and Misa and Shio-chan must have seen it as well」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, if you don't mind reproductions, they are on permanent display at the museum. The likenesses of those two are also recreated just as they appear in those photographs」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, and if you show your Ryuusei Academy student ID at the entrance, you can get in for free」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's free!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see, let's go right now」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, they are ultimately imitations, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「B-Better than nothing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No time like the present. That was certainly a worthwhile viewing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, it somehow feels pretty good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, time to head to the Student Council room! I've got a feeling I'll come up with some good ideas today」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Before you do that, please put all of the photobooks back on the bookshelf」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Me?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san has already left the building. And you are her classmate, Sakura-kun. Isn't what that connection implies obvious?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee」"
+  }
+]

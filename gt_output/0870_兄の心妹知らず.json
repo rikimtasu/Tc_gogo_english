@@ -1,0 +1,429 @@
+[
+  {
+    "message": "兄の心妹知らず"
+  },
+  {
+    "name": "Synn",
+    "message": "「--And so, that's what happened yesterday」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd like to submit an application for patrol duty, though」"
+  },
+  {
+    "name": "Helena",
+    "message": "「There's really no need for that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm personally granting my approval, so there's no problem at all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then what about Ms. Sengenin yesterday...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's just the thing」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She wasn't even on night duty yesterday, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could it be that the teacher was also conducting patrols voluntarily?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Getting yelled at by her over that makes zero sense, seriously」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's probably just a really strict and earnest teacher」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You mean she spoke harshly on purpose?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That doesn't make me happy in the slightest」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Either way, it bothers me...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll look into that matter on my end」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please do」"
+  },
+  {
+    "name": "Helena",
+    "message": "「By the way...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Isn't little Macaron with you today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's probably at her part-time job or doing solo training, I think」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, is that so. What a shame, I was thinking of inviting her to another tea party」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, please don't treat Macaron like a toy too much...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, I get it already!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「As her big brother, you just don't like having your adorable little sister stolen away, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I-I told you, it's nothing like that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Saying that with a bright red face isn't exactly convincing, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You do adore your little sister very much, President」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, how jealous I am」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, isn't it totally normal to be worried……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, since it can't be helped, I suppose I'll go get Melilot to comfort me instead\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Please do your work properly」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Boo-hoo! I am doing it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh……. Well then, excuse me」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「♪～……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Maybe I'll go for around two thousand practice swings today～」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I love youuu! Pasta-chaaan!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I hate you, nya! Knock it off already, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hm? What's going on……」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I'm dead serious here!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「And I'm saying you're a nuisance, nya! Pasta has zero interest in the likes of you, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Just what could possibly be lacking in a guy as overly perfect as me, Pasta-chan!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Everything, nya. Your very existence is defective, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Gahaaah!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What are you two fighting about?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unya, Macaron……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「This stalker won't leave me alone, nya」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I'm not a stalker! I just wanted to get these feelings across!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Your creepiness got across loud and clear, nya. Just go home already, nya」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uooooh, Pasta-chaaan……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Now, now, both of you calm down first」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just leave it to the great Macaron and talk it out with me real quick」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「There's nothing to talk about, nya」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Nugah!? You're that little shit from the other day!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「So you came back to get in the way of my romance again, huh!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Before anyone could even get in the way, that romance didn't exist in the first place, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Romance……?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「In that case, I'll actually cheer you on」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「What?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya!? What are you saying, nya, Macaron!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I mean, Ardin-san likes Pasta-chan, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Falling for someone is a wonderful thing」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Right?!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Man! You're a pretty understanding squirt after all!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aahn, geez, hey, stop grinding your knuckles into my head!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Grr…… Betrayal at a time like this, nya……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm not betraying you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Pasta-chan, do you hate Ardin-san?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I HATE him, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Like I've said over and over, I despise him from the bottom of my heart, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, really…… That's a problem……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Listen up, nya, the one Pasta holds feelings for is Lord Virus-nyama and him alone, nya!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh, Virus……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Compared to the strong and handsome Lord Virus-nya, an idiot like Ardin might as well not even exist, nya」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Guoooh! Virus again, dammit!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「But! No matter how many times you dump me, I won't give up!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Pasta-chaaan! I love youuu!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「What are you blabbering about while running away with your tail between your legs, nya……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, I think Ardin-san is amazing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Being able to tell the person you love that you love them so honestly」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「He's just stupid, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, that might be true too」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「……Do you have someone you like too, Macaron, nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ueh!? I-I don't really have anyone like that……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Hmm…… Is that so, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, more importantly, Pasta-chan」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You mentioned Lord Virus earlier, right……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya? Did something happen to my beloved Lord Virus-nya, nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Could it be that you happen to know where he is?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Of course, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I can't tell you, though, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Lord Virus-nya is currently gathering his strength to prepare for his showdown with the Demon Lord, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I won't let anyone get in his way, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yes, that's it!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I want to have a showdown with Virus-san!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unya? But you're not even a proper Demon Lord yet, nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Well, yeah, but...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I can't move forward unless I have a match with Virus-san」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I know for sure that doing so will bring me closer to the true Demon Lord」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Is that how it works, nya?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yep. The Demon Lord doesn't lie!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「...Got it, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'll try asking Master Virus-nya once, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Thanks, Pasta-chan」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「But... Master Virus-nya is really strong, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta won't take responsibility no matter what happens, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's fine, it's fine! Things'll work out somehow!」"
+  }
+]

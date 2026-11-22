@@ -1,0 +1,843 @@
+[
+  {
+    "message": "見ている方が恥ずかしい"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right, Professor Sengenin...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you weren't just letting her run loose like you did with Pasta...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I hate to admit it, but she got the better of me.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's got both magic and Spirit Power, plus a sharp mind, huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That makes her a real pain to deal with.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, it is clear that Soltia's objective is the completion of Re-Crea.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And that she infiltrated the academy for some reason toward that end...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be that the power of Re-Crea dwells within Soltia?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If that were the case, there's no way you and the others would have walked away unscathed.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「When considering the connection between Re-Crea and the academy, Finis Tower is the only plausible link.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「At present, we can only speculate that she was plotting to make use of it.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though perhaps she had another objective altogether...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now that she's shown her true colors, we'll need to be even more on guard.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will look a little further into Soltia's movements on my end.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, please do.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「By the way...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Someone seems to be in a good mood.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really? I'm just normal.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's been glued to the Demon King since this morning.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Is that weird?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「After all, the two of us are the Demon Lord together」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Right!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Were you two like that during class, too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haha... sorry about that」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, getting along is a good thing, so maybe I'll let it slide」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If it interferes with your studies, I cannot condone it, however...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wasn't getting in the way at all! Right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, I'll be more careful from now on...」"
+  },
+  {
+    "message": "As Student Council President, I suppose I should give a warning."
+  },
+  {
+    "message": "Well, I don't think Macaron is a nuisance at all, though."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Very well, then...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nfufu, you just want to be with Synn-chan, don't you? It can't be helped」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe... somehow, if we're not together all the time, I just can't settle down...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like I'm going to just disappear on my own」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even so, I still get a little bit anxious!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You two are completely lovey-dovey, aren't you?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I guess so♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So this is what they call youth...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Indeed. It's the very thing we're starting to run low on!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Mind your own business!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't worry, though」"
+  },
+  {
+    "name": "Helena",
+    "message": "「To make up for it, we have a terrifying weapon called mature charm\\s07」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「M-Mature charm...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What on earth is that...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah! He's already being seduced!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, no, no! This is just, you know, pure intellectual curiosity or whatever」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Into both big and small, huh? Expect nothing less from the Demon Lord!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not a compliment……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「For example, yeah, like this!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kyaa!? H-Hey, Helena! Where are you touching--ahn, no!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ababa……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Fuhihihi! There's also this!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Nooo, i-in front of a student, aaahn…… you mustn't do this……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And like this! Flip♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hyaa!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pffft!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Admittedly, going up against that kind of volume might put me at a disadvantage……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa, that's bad for my heart……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Stop panting like that, you creep!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gwaaah!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Looks like that was a bit too stimulating for little Synn after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's not the issue here!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, I wouldn't mind at all if you paid me back in kind, you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Urk…… h-how shameless……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nfufu~♪」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aah, I wanna lick Ria-chan all over from head to toe……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Shoo!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zibang!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Do you wanna try flipping it up too, Big Brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Flipping what?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You mustn't, Sakura-kun?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Macaron-chan, you still have plenty of wholesome ways to show off your appeal, don't you?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then I'll drink some milk for now......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm~, that's got its own charm too, nice!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What is with that thumbs-up......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「By the way, if you pinch it between your index and middle fingers, lo and behold......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Stop that at once!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Even Daikoku-sama does it! If a god gets a pass, then so should the chairwoman!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「*Sigh*, honestly......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In the first place, adult charm is not about things like that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's more about, how should I put it, a subtle air of composure, or an overflowing sense of grace......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Or oozing sex appeal!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I told you, that's not it!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm~......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「L-Like this, maybe......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh my, Sakura-kun. Good day to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Oh, yes」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That won't do, Sakura-kun. You must greet me more politely」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A very fine day to you......?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, your collar is all messy... There, that's better」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Make sure you're more careful from now on, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes, ma'am!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Good, very good」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Study hard again today, alright? Mmm~... smooch\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, well, did I seem grown-up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm~... kind of shady」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Pffft, dummy!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Limbo!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Jeez, Synn-chan just doesn't understand a maiden's heart」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I get the feeling that's not quite what it is, though...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph! I don't care about you anymore, Big Brother!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I hope you get overwhelmed by grown-up charm and shrivel right up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think Macaron is best just the way she is, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh, awawa...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're cutest just being yourself, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「U-Uuuugh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「O-Of course I am!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I love the Macaron you are right now」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Save things like that for when it's just the two of us! Aah, that's so embarrassing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Still, say it one more time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Macaron, I love you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Fuhe」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Fuheehehe……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, they're certainly all lovey-dovey…… 」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Could spring be here already……?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a bunch of people with too much time on their hands」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, it's not like I have free time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I left the Holy Night Festival preparations up to everyone」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Maybe they were being considerate so the two of you could be alone?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I don't think it's anything like that, though……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, can I help out with the festival preparations too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course, you're more than welcome」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Then hurry on back to them. It won't do having the president away, after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You may leave the matter we were just discussing to us」"
+  },
+  {
+    "name": "Helena",
+    "message": "「For now, just make sure to report back to everyone, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Understood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, shall we go?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Will it really be alright entrusting Re-Crea to those two……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「There's no need to worry」"
+  },
+  {
+    "name": "Helena",
+    "message": "「They said it themselves, didn't they? That together, the two of them are the Demon Lord」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Supporting each other and overcoming hardships together……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Re-Crea or whatever else comes at them, I know for a fact they'll blow it all away!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「They get along so well, after all!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well... that much, at least, I have no choice but to admit.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I suppose I will allow myself to expect just a little bit from them...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alri~ght, is everyone here?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ye~s!」"
+  },
+  {
+    "name": "Yasubee",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why is Mako-chan calling the shots here?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There are some unfamiliar faces mixed in here too...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Were we not scheduled to blend into the darkness and conduct our patrol as usual?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Actually, starting today, the members of the Warusaders will be helping us out too~\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ho-ho.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Warusaders is just a temporary name, okay! Make sure you remember that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If Ria-chan says so, then we ain't got much choice.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Student Council has its hands full too, yet we still need to step up our patrols, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, I went ahead and asked them for a little favor.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's surprisingly thoughtful of you, Sakura-kun.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Uuu, why did even Pasta have to get roped into this, nya...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're one of our friends too, Pasta-chan, right?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「It's not really like that, nya.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「If anything happened to the Demon Lord, Viru-nyama would be disappointed, nya.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「So Pasta is only cooperating because there's no choice, nya.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, we're friends.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「...Say whatever you want, nya.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Also, I called in one more helper」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who might that be?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「None other than yours truly! The hottest guy among the Seven Demon Generals, the great Ardin!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Gyanyaa!? He's here, nya!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't you mean 'suffocating' instead?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah, another weirdo……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha……」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「My bosom buddy! Looks like things are going pretty well on your end!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, well enough」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Damn it! I can't let myself lose either!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I'll definitely use this chance to shoot right through Pasta-chan's heart!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「P-Pasta suddenly isn't feeling so good, so please excuse me for the day, nya……」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Nuoooh! That's serious trouble!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Unyaaa!? Your face is the serious trouble, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Alright! Let's go to the infirmary at night right now, just the two of us!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Somebody help me, nyaaa!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, why did you bring a pervert like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I thought having another guy around would be reassuring」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're a guy too, aren't you!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, it's true that having extra hands is better……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm~, I don't think he's a bad guy though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though I faintly get the feeling his head is rather bad」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Whaaat was that, you shitty angel!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hieeeeh!? His mouth is bad too!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey now, no fighting!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We're all comrades gathered under the same cause, so we have to get along. Okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes! Your little sister is completely right!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Urgh... A-All right, I got it」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「While you're at it, I wish you'd hurry up and banish this idiot, nya」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Get along!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I-I know, nya...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Good!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, way to go, Macaron. Keeping everyone in line, huh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you standing there admiring her for?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's supposed to be your job too, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right, it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's all pull together and survive Re-Crea!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Sweeping everyone up into one unit in the heat of the moment--just what I'd expect from the Demon Lord」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This is the trust from everyone that Synn-kun and Macaron-chan have built up」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I see, if Ria-chan says so, then that's gotta be it!」"
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "message": "初仕事"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, I'm gonna give it everything I've got today!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, should you really be yelling like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We aren't open yet, so nobody's here anyway.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is that really how this works...?」"
+  },
+  {
+    "message": "For today, I'm serving as the acting librarian."
+  },
+  {
+    "message": "It's my very first job, officially entrusted to me by Melilot."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, it's almost time to open...」"
+  },
+  {
+    "message": "My job today is to supervise the library and make sure no trouble breaks out."
+  },
+  {
+    "message": "On holidays, it's open to the general public as well, and dorm students also come by to study on their own."
+  },
+  {
+    "message": "Even if I can't handle things as well as Melilot does, there's still plenty for me to do."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well then, I think I'll treat myself to a nice little nap.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't talk in your sleep, okay?」"
+  },
+  {
+    "message": "I have Paqy sit at the reception desk."
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Oh, Prez」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning, Tennoji-san」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Sorry for making you cover for Melilot-san」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't worry about it. I'm doing it because I want to.」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Huh, impressive. It's a hassle for me, so it really helps.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Glad to hear it」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Well, I'll be over there organizing the library cards.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I'll be doing the rounds.」"
+  },
+  {
+    "message": "Well, Melilot-san already organized the bookshelves before leaving, so there isn't really much to check on."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「O-Oh, if it isn't Synn-dono... What a coincidence.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Rare to see you in the library. Looking for a martial arts book or something?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ah, no, well, how should I put it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, or are you studying on your own? Somehow, studying in the library just feels more productive, doesn't it?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Haha... y-yes, quite so...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hyaaah!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Found you」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I've been found out...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's up, are you studying on your own too, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He said he was worried about the next test, so I was helping Shio with his studies」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And yet, he went and slipped away right in the middle of it」"
+  },
+  {
+    "name": "Shio",
+    "message": "「B-But I couldn't possibly trouble you any further, Elder Sister...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you really feel that way, then just behave and study」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-Yes... I am terribly sorry...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine. If you study here, I think you'll be more efficient, too」"
+  },
+  {
+    "name": "Shio",
+    "message": "「D-Do you really think so...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, just trust me and give it a try」"
+  },
+  {
+    "message": "Even just getting into that mindset makes a world of difference."
+  },
+  {
+    "name": "Misa",
+    "message": "「...I hear you're acting as Miss Melilot's proxy, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmm... well, don't push yourself too hard」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Hmph」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come along, Shio」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Understood. Well then, Lord Synn, please excuse me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, Synn-kun spotted♪」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good day to you, President. How are things faring?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, hello. Doing so-so, I suppose」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Why, that is splendid to hear」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let me know if you run into any trouble. I'll help you out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, are you two looking for some books?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. For our Wagashi Club activities」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Might you know whereabouts the books on making wagashi are kept?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that's what you need, they're all gathered in that section over there」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Is that so. You have been a tremendous help, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all」"
+  },
+  {
+    "message": "It's all thanks to Melilot-san teaching me how the books are arranged."
+  },
+  {
+    "name": "Ria",
+    "message": "「Well then, keep up the good work」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, there he is! That's the President!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ooh, fidget, fidget……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte…… Please keep quiet inside the library」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oops, how careless of me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I suppose even monkeys get distracted, as they say」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that girl a friend of yours? I don't recognize her face……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, right! Let me introduce her」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is my childhood friend and bestie, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「H-H-Hello, my name is Amyrina……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm the Student Council President, Synn Sakura. Well, I'm just filling in as librarian today, though--nice to meet you」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes! Pleased to meet you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Exploring the library today?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since Amyrina isn't used to things here yet, I've been showing her around town」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, Amyrina, let's head to the next spot!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Aah, please wait for me, Lolotte~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No running either~」"
+  },
+  {
+    "message": "...What did they even come here for."
+  },
+  {
+    "name": "Azel",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello. Didn't know you read too, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You're noisy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Oh, you were looking for a quiet place, huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, my expectations were misplaced」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why? I think it's pretty quiet here, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, sorry. I'll go over there, so...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You're noisy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, he left...」"
+  },
+  {
+    "message": "I wonder how Melilot-san would handle a situation like this."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, hard at work, I see」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, it's Synn-kun. Yahoo~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Somehow, I'm running into everyone a lot today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? What are you talking about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing, just talking to myself」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're amazing, Synn-kun. Being able to do librarian work too~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's questionable whether this even counts as doing a good job」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I couldn't do it. Cooped up in a place like this all day long, I mean.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Me too~. Looking at nothing but books makes me sleepy~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aren't you bored?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, I'm actually pretty fine with it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, really. Well, I'm truly envious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Bored, huh."
+  },
+  {
+    "message": "Come to think of it, that's true."
+  },
+  {
+    "message": "Up until now, Melilot-san had been handling the librarian duties all by herself, every single day."
+  },
+  {
+    "message": "I wonder how that must have felt......"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There aren't any problems in particular, and it's so peaceful......」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz...... snore......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "I guess there's nothing to be done about the snoring."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Pardon the intrusion」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, if I recall, you're Melphas-san」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I am honored that you remember me, my lord President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「However, thank you very much for introducing me to Lady Reiko the other day」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Thanks to you, I was able to indulge in a sweet conversation with a wonderful madame」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no...... I'm glad if you enjoyed yourself......」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「My only regret is wishing we could have met thirty years sooner......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "He's even more formidable than I thought."
+  },
+  {
+    "name": "Melphas",
+    "message": "「By the way, I would like to inquire......」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I have heard that in this library, a most lovely librarian loses herself in thought while admiring the books」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, do you mean Melilot-san?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Lady Melilot... Truly, a name both clever and lovely...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Where is she right now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's off today, though」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh, what a shock...!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「She is not here today... How could this be...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, are you okay...?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Ah, yes, please pay it no mind」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Regrettably, it seems today was simply not an auspicious day」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I shall call again at a later date, so for the time being, please give these to Lady Melilot」"
+  },
+  {
+    "message": "I receive a magnificent bouquet of roses."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Farewell」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Better put them in a vase」"
+  },
+  {
+    "message": "I wonder if there's a vase around……?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, that should do it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, Synn-chan, aren't those lovely roses」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Helena-san」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Being acting librarian seems to be going smoothly」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Thank you for your hard work, Synn-sama. Please have some cheddar cheese chocolate as a refreshment」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-thanks…… Even you, Riesling-san, what brings you here?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I was granted a day off by my lady today」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「In exchange, I am currently keeping an eye on Helena」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, you make it sound like I'll cause trouble if left alone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So, are you having any trouble with anything?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. For now, I think things are going fine.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see. That's wonderful to hear.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Knowing Melilot, I'm sure her advance briefing was thoroughly prepared.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「And given that you were the one receiving it, Lord Synn, worrying unnecessarily would be quite tactless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's giving me too much credit...」"
+  },
+  {
+    "message": "The two of them really trust Melilot, huh."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, by the way, you two and Melilot are really close, aren't you?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes. Everyone--ourselves included--agrees we're best friends.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Though whether Melilot would admit it honestly is questionable.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ah, the memory of exchanging cups beneath the peach tree feels so nostalgic...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Just which banquet are you remembering, I wonder?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be that you're all graduates of our school...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I am, though the other two aren't.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot and I go way back, from even before I enrolled at the academy...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I first met Tamiko when Melilot and I were studying abroad at an overseas university.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, studying abroad!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「That time remains a fond memory even now.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Indeed it does.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That sounds really nice, having a history like that...」"
+  },
+  {
+    "message": "For Helena and the others, it must be a wonderful chapter of their youth."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Before or since, that was the first time I ever failed a mission. It was a good learning experience.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Mission?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, trying to abduct and confine someone like me was a million years too early for you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "That wonderful image of youth was suddenly shrouded in dark clouds."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, what are you talking about...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Back in the day, Tamiko-chan was a top-notch hitman sent by the organization to take me out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah......」"
+  },
+  {
+    "message": "I find myself nodding involuntarily."
+  },
+  {
+    "name": "Helena",
+    "message": "「Before we knew it, though, a friendship had blossomed between us as we communicated with our fists」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「How nostalgic......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Reenactment VTR! Tamiko-chan's sniper rifle roars!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Prepare yourself......!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Samurai Gun!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Such kinetic vision......!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Projectiles are so uncouth, don't you think? Let's settle this fair and square with our fists!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Very well. I shall finish you in a single blow!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Too slow! Chickenwing Facelock!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Impossible!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Submissions are the true techniques of a champion!」"
+  },
+  {
+    "message": "What happened to fists......?"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I-I yield......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Phew, that was a pretty good match」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hmph, likewise」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu. Come on, a handshake of friendship」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "They sure get along well......"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Ever since then, I have been deeply indebted to Helena and Melilot」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Setting Tamiko-chan up as the Rosenkreuz family's butler was actually kind of fun♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「As a measure to secure backing after leaving the organization, it was the best possible choice」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Thanks to that, I was also able to cross paths with Milady......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And ever since we came back here, Melilot has become a fine librarian, too」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「That was an incident that truly symbolized our relationship」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sounds like... you've both been through a lot...」"
+  },
+  {
+    "message": "After that, they continued sharing dramatic stories from their past that felt very true to Helena-san and the others."
+  },
+  {
+    "message": "Maybe I've gotten acquainted with some pretty amazing people."
+  },
+  {
+    "name": "Helena",
+    "message": "「Phew」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, we ended up getting completely carried away talking, didn't we」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Could it be nearly closing time?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Sorry about that, Synn-chan. Seems like we got in your way」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, not at all, the pleasure was mine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I got to hear stories I don't normally get to hear, so it was fun」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my. Synn-chan, could it be you're dying to know the secrets of a mature woman?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-What are you saying!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「This humble servant does not possess any personal information worth keeping secret, however」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Whoa♪ Laying it all bare, are we\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek! Please stop it already!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What are you all making such a commotion about...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, if it isn't Melilot」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Welcome back」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Good grief」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Teaming up to tease Sakura-kun like that is quite immature of you both」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What's that for, stingy!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Just because your favorite Synn-chan got stolen away doesn't mean you have to get all worked up」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wh-Wh-Who, whose favorite are you talking about!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My apologies. It is nearly time for me to go pick up the young lady」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right, I still have work left to do too\\s07」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, hey, wait!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「See yaa~. Bye-bye-boon!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good grief, those two……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "When the three of them are together, Melilot-san makes that kind of face too……."
+  },
+  {
+    "message": "I feel like I've gained a little something again."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Melilot-san……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, excuse me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, thank you for your hard work today. I imagine it was quite rough in many ways, though……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it was fulfilling」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I even got to see things I wouldn't normally get to see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, if you say so, Sakura-kun, then I suppose it's fine」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, I have business at the archive storage from here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That book…… are you going to carry it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Borrowing this was my errand for today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll help you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, that's quite alright. You must be tired too, Sakura-kun……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Is it because of the rules?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It helps that you're quick on the uptake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Understood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I'll leave the rest to you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Truly, thank you for your hard work today」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「From what I can see, it seems you handled the job admirably……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Thanks to you, Sakura-kun, you were a tremendous help」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's only because you're such a good teacher, Miss Melilot」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're quite skilled yourself, Sakura」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-ahaha...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, excuse me!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. Goodbye」"
+  },
+  {
+    "message": "My heart leaps at the thought that I've earned another bit of Miss Melilot's trust."
+  },
+  {
+    "message": "When did I start feeling like this?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, come to think of it...」"
+  },
+  {
+    "message": "I heard all sorts of stories about the past from Miss Helena and the others, yet..."
+  },
+  {
+    "message": "When it comes to Miss Melilot, the one I want to know about the most, I still don't know a single thing..."
+  }
+]

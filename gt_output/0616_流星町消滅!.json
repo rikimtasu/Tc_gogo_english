@@ -1,0 +1,1294 @@
+[
+  {
+    "message": "流星町消滅!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「!? W-What is that sound!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Look at that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is that thing?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Over there too! And over there!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That giant magic circle covering Ryuusei Town that Helena mentioned yesterday must be activating」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What for!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Could it be Re-Crea!? W-Way too soon!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's impossible」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This magic circle only accelerates and amplifies Re-Crea; it's not something that can trigger Re-Crea whenever someone wants」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then what on earth is going on!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, let's head to the academy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To the academy!」"
+  },
+  {
+    "message": "The sensation of magical power leaking from the magic circle."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I've got a bad feeling」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's no mere feeling, it's a certainty」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I caught up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan! What are you doing here!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I am an important member of the Student Council! Besides, something feels weird today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right, you're a Demon, after all. So you can see it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you know what that is?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ahem. I do! That is something no good!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Anyone can tell that much!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai! Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good morning!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could it be you guys saw it too, Synn!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We saw it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you know what's happening?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No. Since Melilot isn't here, it seems even my sister doesn't know」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Could this possibly be……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you have an idea what this is, Paqy!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria. Contact Helena. Tell her I want to see the layout diagram of the magic circles if she has one」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I've been waiting for you, members of the Student Cou――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly! Sakura is so hopeless, not even arriving yet in an emergency like this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm right here, though」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kh…… I only lost because my house is farther away!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pffft. Total loser--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ahem. Members of the Student Council! Quiet down!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big sis. What about the thing I asked for?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Here it is」"
+  },
+  {
+    "message": "Helena spread a map of Ryuusei Town across the desk."
+  },
+  {
+    "message": "Numerous red dots were plotted on the map, connecting into lines that formed a red pentagram covering the academy."
+  },
+  {
+    "message": "And, as if surrounding the academy, a massive double circle across Ryuusei Town as well."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmm」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To think he drew such huge graffiti... Azel-san really is a delinquent」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are these red dots?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Each and every one of them is a magic circle」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's quite a number...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then, the ones we saw on our way here are these?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I suppose so.」"
+  },
+  {
+    "message": "The entire academy grounds are shaking."
+  },
+  {
+    "message": "Something invisible yet palpable fills the air, raging like a blizzard."
+  },
+  {
+    "name": "Paqy",
+    "message": "「I see... This is definitely a magic circle that amplifies Re-Crea.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Doesn't look like that's all it does, though. Didn't that shut-in at the library say anything?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She said it can control the flow of magical energy existing in Ryuusei Town.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So if you redirect the flow to yourself, you can spam powerful magic without worrying about running out of juice...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy-san is making a serious face... If only he were always like this\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Not just anyone can activate that magic circle. If that's the case」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Besides Re-Crea reaching criticality, the only one who can activate the circle is its designer, Soltia.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean Soltia is trying to do something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Coming from a cold-blooded jerk who makes assignments like that, it can't be anything good!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Preparing for battle? To cast some grand magic... No, judging by this circle's accumulation efficiency and the time passed, the amount of magical energy should already be dangerous for the caster.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For Panda-san to be serious--it will surely rain fish from the sky tomorrow.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's a limit to how much magical energy any Demon can handle. Too much stored up is dangerous... Even if it were a forbidden spell, she should've had enough for the spark ages ago...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, I don't think anyone outside the Nive Clan could handle that... Yet if that's true, why hasn't anything happened yet?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Something's weird about Paqy!? He looks smart!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm always smart! If I look sharper than usual, it's 'cause Re-Crea is getting closer.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is there some connection between you and Re-Crea, Paqy-san?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「More importantly, figuring out what's going on comes first... Accumulating magical energy knowing full well the danger... What comes after that...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I've got it! Wait, no way! Don't tell me she's a fanatic too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you figure it out?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Soltia might be planning to blow herself up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Blow herself up!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Blow herself uuuup!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「How strong is it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not as bad as a forbidden spell, but it'll blow Ryuusei Town away without a trace.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaat?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hyoeeeeeh! The Subaru house is gonna disappear!」"
+  },
+  {
+    "message": "Is this what Virus warned me to watch out for?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Self-destructing, huh. They got us good. Starting now, it's already...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They haven't gotten us yet! We're still alive.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's the Master Synn I know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy! What should we do?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's probably in the Finis Tower plaza! Our only choice is to take her down before she blows.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Members of the Crusaders, move out! Eliminate anyone who interferes with carrying out tomorrow's Holy Night Festival!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yes, ma'am!」"
+  },
+  {
+    "message": "We sprint through the air thick with magic."
+  },
+  {
+    "message": "The fate of the world depends on our speed!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why would Soltia self-destruct」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Probably to make sure the Crusaders are wiped out for good.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Us?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Right now, the Crusaders are the only ones with a shot at stopping Re-Crea, after all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Times like this are when I really wish the Demon King would show up...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Finis Tower is drawing closer."
+  },
+  {
+    "message": "I have to steel my resolve."
+  },
+  {
+    "message": "I'm sure we won't be able to beat the enemy waiting ahead unless I use the Demon King's full power."
+  },
+  {
+    "message": "Even if everyone calls me a traitor afterward."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Even if Nanaka looks at me with fear in her eyes."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm fine! I told you I won't mess up!」"
+  },
+  {
+    "message": "I'm scared. I don't want Nanaka to hate me, nor do I want her to be afraid of me."
+  },
+  {
+    "message": "If there's one person I don't want hating me, it's Nanaka."
+  },
+  {
+    "message": "Even so. I have no choice but to do it."
+  },
+  {
+    "name": "Synn",
+    "message": "「...I don't think that at all. I'm counting on you.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You betcha!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides... I've got things to do at the Holy Night Festival.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I get it! Today is Sunday! That's why Sensei couldn't be certain whether we'd be at the academy or not.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why didn't she come on a weekday, then?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Demons act the second an idea pops into their heads, ya know. Planning is such a pain!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even if she's a Demon General, she's still an idiot, isn't she?」"
+  },
+  {
+    "message": "That was probably because Virus was around until this morning."
+  },
+  {
+    "name": "Misa",
+    "message": "「Even so, I would think powerful magic would be enough?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's a good chance she can't use magic strong enough to blow away a whole town, though.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The more powerful the magic, the more time and effort it takes to cast. If she gets attacked mid-cast and the sequence is interrupted, worst-case scenario, she has to start all over from scratch.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Self-destruction that triggers automatically once she hits her limit is different. All she has to do is store it up.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Meaning it's hard to interrupt?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's packing tons of magic power, so she can spam spells all she wants. A time bomb with built-in defenses is gonna be a tough customer.」"
+  },
+  {
+    "message": "We fall into formation while running."
+  },
+  {
+    "message": "Through countless battles, it's become second nature to us."
+  },
+  {
+    "message": "Long-range attacker Misa and healer Lolotte take the rear guard."
+  },
+  {
+    "message": "Our defensive linchpin Leah-senpai, along with Nanaka and me as the offensive core, take the vanguard."
+  },
+  {
+    "message": "And Sally-chan acts as a flying reserve unit in the air."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Found her! The flow of magic power is most stable and abundant right at the center of the magic circle, after all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sengenin-sensei...!?」"
+  },
+  {
+    "message": "Sengenin-sensei--no, Soltia--was standing in the center of the plaza, floating roughly thirty centimeters off the ground."
+  },
+  {
+    "message": "The faint light radiating from beneath her skin was likely from the magic power built up near critical levels."
+  },
+  {
+    "message": "There's no time."
+  },
+  {
+    "message": "I resolved myself. At least, I thought I had."
+  },
+  {
+    "message": "I glanced over at my comrades."
+  },
+  {
+    "message": "At Leah-senpai, at Misa, at Lolotte, at Sally-chan,"
+  },
+  {
+    "message": "And at Nanaka."
+  },
+  {
+    "message": "Nanaka, who might be afraid of demons."
+  },
+  {
+    "message": "Nanaka, who might come to fear me if she found out I was a demon--and the Demon King, at that."
+  },
+  {
+    "message": "That glance might have been hesitation. No, it was hesitation."
+  },
+  {
+    "message": "That's why."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-A-No, no, nooo! I was fine this morning, so why?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?!」"
+  },
+  {
+    "message": "It was a split second too late, before Soltia could do anything."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Here of all places?! This is bad!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aaaaaaaaaaaah! No! Stop it!」"
+  },
+  {
+    "message": "Soltia's arm was pointing straight at Nanaka."
+  },
+  {
+    "message": "Nanaka covered her face with her hands, curling in on herself and trembling violently."
+  },
+  {
+    "message": "Her appearance had reverted to normal, too."
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is this the presence of a new demon?! Where are they?!」"
+  },
+  {
+    "message": "Why is Nanaka covering her face--no, around her eyes?"
+  },
+  {
+    "message": "She did the same thing last time. Maybe the time before that, too."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I hate being like this! Synn--Synn is gonna hate me, no, why?!」"
+  },
+  {
+    "message": "Suddenly. I remembered it completely out of the blue."
+  },
+  {
+    "message": "If I recall, it was at the beginning of this month."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'So there's a mirror, right, and my reflection is in it.'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Ahaha. Yeah, right. And, well, it looks just like me, except it's not my face.'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Umm... it's somewhere on the face. It's just a tiny difference, but it completely changes the whole impression... Hmm.'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Not bad, exactly, more like... seeing a version of myself that isn't me feels off, or creepy, I guess--'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Noooooo!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka―chan, you should step back―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I can't! I―I have to―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Get a hold of yourself, Nanaka-san! Nanaka-san!」"
+  },
+  {
+    "message": "Misa tries to pull away the hands covering Nanaka's face."
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, don't--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh... Nanaka-san, those eyes...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah, Nanaka was a Demon! The same eyes as me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, no, no! I'm--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, I smell a Demon, sniff-sniff」"
+  },
+  {
+    "message": "Nanaka's glowing red eyes looked at me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...」"
+  },
+  {
+    "message": "What was I supposed to say?"
+  },
+  {
+    "message": "I couldn't think of anything."
+  },
+  {
+    "message": "Even though it must have been something simple."
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san... you... were a Demon...?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That's right. She's been keeping quiet about it from all of you the whole time」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-That's... Even for me... It hasn't even been a week since I became like this... It's not like I was hiding it...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「A Demon snuck into the Student Council. Moreover, she deliberately didn't participate in battle. You understand what that means, don't you?」"
+  },
+  {
+    "message": "Nanaka's frightened eyes looked at me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm... No, that's not it, it's not like I was lying to you, Synn, it's just, something like this, like this! I couldn't say it!」"
+  },
+  {
+    "message": "I saw the corner of her glowing red eye glisten."
+  },
+  {
+    "message": "Tears? Yes, tears."
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... Is this... your secret...?」"
+  },
+  {
+    "message": "No. What I should be saying, what I should be saying is."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No! Don't look, don't look, I hate being like this myself! Don't look! No!」"
+  },
+  {
+    "message": "Before I could utter my next words, Nanaka had already bolted."
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nanaka!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, wai--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Here she comes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "Tremendous pressure and speed closed in from behind, riding on killing intent."
+  },
+  {
+    "message": "Soltia came charging in, having half-solidified the surrounding space with dense magical power."
+  },
+  {
+    "message": "Soltia came to a dead stop in the center of where we had scattered."
+  },
+  {
+    "name": "Paqy",
+    "message": "「She forced an emergency brake using magical power!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Damn it!」"
+  },
+  {
+    "message": "We were split up into Ria-senpai and Lolotte, and Misa and me."
+  },
+  {
+    "message": "Taking out Nanaka, splitting the remaining four into offense and defense\\nand--"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Heavenly Net of Cursed Power! Bind even their souls!」"
+  },
+  {
+    "message": "No sooner did blood-colored vines spring up from beneath my feet than they coiled all around my body."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President! Vice President!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is this!? I can't move!」"
+  },
+  {
+    "message": "Misa had been bound up just like me."
+  },
+  {
+    "message": "Without giving the immobilized us a second glance, Soltia turned her spearhead toward Lolotte."
+  },
+  {
+    "message": "As her faintly glowing arm shone even brighter, a lance of flashing light sniped at Lolotte!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeek!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan!」"
+  },
+  {
+    "message": "The instant purple lightning burst from the tip of Ria-senpai's spear, Fortel Piercing, scoring a direct hit on the lance of light and obliterating it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaaaah!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Kyaaaaah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A blinding flash!? Was that her plan from the very beginning!?」"
+  },
+  {
+    "message": "Within the spreading white light, the presence of a massive magical power shifted direction!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai! Block it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh, aaaah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai!」"
+  },
+  {
+    "message": "Ria-senpai was tackled by the witch, who possessed massive pseudo-mass, and sent flying."
+  },
+  {
+    "message": "Her weapon slipped from her hand, dancing through the air."
+  },
+  {
+    "message": "My warning was a step too late. Our opponent was one move ahead."
+  },
+  {
+    "message": "Ria-senpai intercepting the magic was all within the witch's calculations."
+  },
+  {
+    "message": "A scheme to wipe us out while keeping the consumption of her accumulated magical power to a minimum."
+  },
+  {
+    "message": "So her true aim was to strike Ria-senpai--left defenseless after canceling out the spell--with her own physical mass without using magic, temporarily incapacitating her!"
+  },
+  {
+    "message": "The witch charges toward Lolotte."
+  },
+  {
+    "message": "Both of her arms are already glowing as a precursor to activation."
+  },
+  {
+    "message": "The radiance intensifies, shining in seven colors."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I won't lose!」"
+  },
+  {
+    "message": "Lolotte bravely stands her ground alone against the witch."
+  },
+  {
+    "message": "But this isn't an opponent she can face on her own!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan! Nooo! Run!」"
+  },
+  {
+    "message": "Ria-senpai, having collapsed, crawls across the ground trying to reach her weapon, but it doesn't look like she'll make it in time."
+  },
+  {
+    "message": "I thrash my arms to break free of my restraints too. Yet the binding curse only tightens around me."
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun! Do something! At this rate, Lolotte-san will--!」"
+  },
+  {
+    "message": "At this rate, everyone's going to be taken out one by one."
+  },
+  {
+    "message": "Even so, with my power, I can't even break these bindings."
+  },
+  {
+    "message": "Not with the power I have now. Not with the incomplete power of the Demon King."
+  },
+  {
+    "message": "What would Nanaka think if she found out we were defeated in a place like this?"
+  },
+  {
+    "message": "She'd surely keep blaming herself."
+  },
+  {
+    "message": "Even if the world were destroyed before she found out, she'd keep regretting that she ran away."
+  },
+  {
+    "message": "Even though it's not Nanaka's fault."
+  },
+  {
+    "message": "Even though it's not because Nanaka was hiding things."
+  },
+  {
+    "message": "Even though Nanaka wasn't the only one hiding things."
+  },
+  {
+    "message": "Nanaka may have kept quiet."
+  },
+  {
+    "message": "But I'm the one who kept quiet for far longer."
+  },
+  {
+    "message": "If I had told her first that I was the Demon King, Nanaka would have been able to open up about herself too."
+  },
+  {
+    "message": "Nanaka is probably blaming herself for her own cowardice."
+  },
+  {
+    "message": "But I'm the exact same."
+  },
+  {
+    "message": "Because Nanaka said she'd talk to me at the Holy Night Festival,"
+  },
+  {
+    "message": "I used that as an excuse to keep putting it off."
+  },
+  {
+    "message": "I know everyone on the Student Council."
+  },
+  {
+    "message": "I can't say I know everything about them, but I know them."
+  },
+  {
+    "message": "I should have known they aren't the kind of people to change how they treat me, even if I am the Demon King."
+  },
+  {
+    "message": "And yet I couldn't say it."
+  },
+  {
+    "message": "Because I was scared of losing them."
+  },
+  {
+    "message": "I just assumed on my own that Nanaka was afraid of Demons and the Demon King."
+  },
+  {
+    "message": "That was just an excuse for my own cowardice."
+  },
+  {
+    "message": "Because I was scared to tell Nanaka."
+  },
+  {
+    "message": "I was the scared one. More than anyone else, I was terrified of Nanaka finding out."
+  },
+  {
+    "message": "Nanaka isn't to blame. I want to tell her that she didn't do anything wrong."
+  },
+  {
+    "message": "For that, I'll do anything."
+  },
+  {
+    "message": "I'll accept anything."
+  },
+  {
+    "message": "Suddenly."
+  },
+  {
+    "message": "Suddenly, my arm moved."
+  },
+  {
+    "message": "The binding curse snaps effortlessly, as if it were made of paper."
+  },
+  {
+    "message": "What fills my body is power."
+  },
+  {
+    "message": "Hot, as if the sun were shining inside my body. Like life itself"
+  },
+  {
+    "message": "Is this the power of the Guardian Angel?"
+  },
+  {
+    "message": "That's part of it. Not just that."
+  },
+  {
+    "message": "The complete power of the Demon King?"
+  },
+  {
+    "message": "That's part of it. Not just that."
+  },
+  {
+    "message": "The powers of the Demon King and the Angel become one inside me."
+  },
+  {
+    "message": "What fills my body is the power of life."
+  },
+  {
+    "message": "The will to protect this world"
+  },
+  {
+    "message": "I break into a run."
+  },
+  {
+    "message": "Toward Soltia's back"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uoooooh!」"
+  },
+  {
+    "message": "The thrust-out weapon shines with a pale blue glow."
+  },
+  {
+    "message": "Carrying the will to sever everything."
+  },
+  {
+    "name": "Soltia",
+    "message": "「!」"
+  },
+  {
+    "message": "Astonishment fills the face of the witch as she turns around."
+  },
+  {
+    "message": "The pale blue blade swings down diagonally toward her back."
+  },
+  {
+    "message": "In that instant, the witch leaps."
+  },
+  {
+    "message": "Likely through controlling her magic power, she evades at a speed and distance impossible for mere muscle movement."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch. She even dodged that?! Because she's storing up magic power past her limit, her abilities are getting boosted!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President... san?」"
+  },
+  {
+    "message": "To Lolotte, who stood frozen in a daze--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Back up Ria-senpai」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eh, ah, yes!」"
+  },
+  {
+    "message": "I spoke to her as I dashed right past her side, then helped Ria-senpai to her feet."
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you alright?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun... That form... Could it be?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please break Misa's curse. With your power to nullify magic, Ria-senpai, you should be able to dispel it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, yeah, got it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Look out!」"
+  },
+  {
+    "message": "The witch sends a dazzling lance of flame hurtling toward the back of Ria-senpai as she runs!"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't let you!」"
+  },
+  {
+    "message": "My weapon intercepts the lance of flame and knocks it away!"
+  },
+  {
+    "name": "Soltia",
+    "message": "「...So you've awakened, it seems」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All thanks to the dirty trick you pulled on Nanaka!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Then I'll just crush you head-on!」"
+  },
+  {
+    "message": "Dancing through the air, the witch unleashes countless spells like bursting fireworks!"
+  },
+  {
+    "message": "Heat rays, fireballs, lightning, freezing blasts, blades."
+  },
+  {
+    "message": "Some fly straight, some curve, and some home in on me, converging on me from every angle!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Watch out, Synn-sama! She's fighting past her limits, fully prepared to destroy herself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, I'll block it!」"
+  },
+  {
+    "message": "I feel the will of the guardian angel. It guides me."
+  },
+  {
+    "message": "The trajectories of every single attack flash through my mind. There are 32 of them."
+  },
+  {
+    "message": "I just need to dodge the linear ones and shoot down the homing ones."
+  },
+  {
+    "message": "Even so, I can't handle them all."
+  },
+  {
+    "message": "In that case, I'll prioritize the ones that could harm my friends behind me."
+  },
+  {
+    "message": "I swing my blade, pouring my will into it."
+  },
+  {
+    "message": "A rain of magic deflected, absorbed, and detonated by the shining weapon."
+  },
+  {
+    "message": "I can't shoot them all down, and threats slip past my guard, closing in!"
+  },
+  {
+    "message": "A heat ray springing up from my feet toward me."
+  },
+  {
+    "message": "Lightning spiraling straight down from directly above."
+  },
+  {
+    "message": "Closing in from behind is the homing magic I failed to shoot down."
+  },
+  {
+    "message": "The enemy's will, aiming squarely for my brain and heart."
+  },
+  {
+    "name": "Ria",
+    "message": "「I won't let you!」"
+  },
+  {
+    "message": "Purple lightning surges forth, neutralizing the thunderbolt!"
+  },
+  {
+    "message": "A glowing arrow shatters the heat ray and the homing magic!"
+  },
+  {
+    "name": "Misa",
+    "message": "「You really are a handful!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai! Misa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Watch out!」"
+  },
+  {
+    "message": "A mirror materializes in midair and deflects the fireball closing in on Ria-senpai!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How dare you give me such a fright earlier, Mr. Demon!」"
+  },
+  {
+    "message": "The witch unleashes another volley of magic--no, even more than before!"
+  },
+  {
+    "message": "Bursting like massive fireworks blooming in midair, they streak toward us."
+  },
+  {
+    "message": "Yet not a single one of them harms us."
+  },
+  {
+    "message": "The guardian angels are linked."
+  },
+  {
+    "message": "My senses expand. I perceive all 360 degrees around me."
+  },
+  {
+    "message": "I can see every attack. I block them all."
+  },
+  {
+    "message": "Not only do I block them--my blade thrusts forward, and Misa's Spirit Arts arrows fly straight at the witch!"
+  },
+  {
+    "message": "A shining shield appears in front of the witch to repel us, followed by a cry of astonishment."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even I've shattered the theoretical limits, yet you're surpassing even that!?」"
+  },
+  {
+    "message": "Through countless battles, we acquired this instinct naturally."
+  },
+  {
+    "message": "Our defensive linchpin Leah-senpai, along with Nanaka and me as the offensive core, take the vanguard."
+  },
+  {
+    "message": "Long-range attacker Misa and healer Lolotte take the rear guard."
+  },
+  {
+    "message": "And Melilot-san's teachings made us even stronger."
+  },
+  {
+    "name": "Sally",
+    "message": "「Sorry, I lost sight of Nanaka! Huh, Prez went delinquent!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Your Student Council President is the Demon Lord, you know. How does it feel to be betrayed by two of your comrades?」"
+  },
+  {
+    "message": "Her venomous words assail us."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun is Synn-kun. Besides, I never hated the Demon Lord in the first place.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if he dyes his hair and plays delinquent, Sakura-kun is still the same hopeless president who can't do anything without me!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「With the final boss on our side from the very beginning, we've practically won already.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez was the Demon Lord?! Awesome!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone...」"
+  },
+  {
+    "message": "I should have told them sooner."
+  },
+  {
+    "message": "What was I so afraid of?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, you being the Demon Lord is a huge surprise, Synn.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It couldn't be helped that Nanaka couldn't tell us since she's a girl, but Sakura owes us an apology.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really ought to trust people a little more.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Big talk coming from someone who couldn't even admit she's an angel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's that, and this is this.」"
+  },
+  {
+    "message": "The witch retreats back to her original position."
+  },
+  {
+    "name": "Soltia",
+    "message": "「...I will eliminate all who stand in God's way. Even at the cost of my own life.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「We'd better finish this quick. That barrage just now bought us a little time, but only God knows when she's gonna blow.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know! Let's go, everyone!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ms. Sengen'in! You're going to pay for what you did to Nanaka!」"
+  },
+  {
+    "message": "View the battle tutorial \"Scroll of Barriers\"?"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ４０_EASY"
+  },
+  {
+    "message": "ステージ４０_HARD"
+  },
+  {
+    "message": "ステージ４０_NORMAL"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "message": "復習の手段"
+  },
+  {
+    "message": "The test results have been announced. There's about a month left until the Holy Night Festival. The draft plans are mostly solidified, so from here on out, all we have to do as the Student Council is pour everything into preparations."
+  },
+  {
+    "message": "However......"
+  },
+  {
+    "name": "Synn",
+    "message": "「Starting from now, it'll be over 12 hours」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What will?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My sleep time, of course」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Our answer sheets haven't been handed back yet. To make the Holy Night Festival sparkle, I'm going straight to bed as soon as I get home today and give my brain a proper rest」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No wonder you didn't put your futon away this morning...... hm?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Hey, hold on, Master Synn. What're we gonna do about dinner?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll eat beefsteak in my dreams, so it'll be fine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me can't pull off a trick like that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Is that Riesling-san's car?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Excuse me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hauh......!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Area, 7-0-2, clear」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......Mm......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......Eh? When did I get home?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yay, a futoo~~n♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You must not」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I have zero clue what's going on. I was supposed to be on my way home from school, yet somehow I'm slumped over the low table in my own room."
+  },
+  {
+    "message": "And even though it isn't a Student Council gathering, Lolotte is sitting across from me, and even more unbelievably, Riesling-san of all people is scolding the young lady."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, please stop Jeeves! He's trying to make me take revenge」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nothing is born from revenge. I learned that when I made up with a friend I had a fight with」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hatred is wiped away through forgiveness. However, one cannot forget」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...... Those are really profound words, but they don't fit the current situation at all」"
+  },
+  {
+    "message": "A first-year textbook lies on top of the low table, with sticky notes tucked into the pages that appear to cover this test's material."
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, Lolotte, aren't you mixing up 'review' and 'revenge' on purpose?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gah!!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「This is a request from the Master, the Mistress, and your friends. Please review the parts you did not understand on the test」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hic……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um…… did you kidnap me just to have me tutor Lolotte?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am deeply obliged」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't drag me away by force--just ask properly!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「To save time, it was unavoidable」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Considering Student Council activities, the Crusaders, and the crisis of Re-Crea…… now is the only time Milady can do self-study」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And what's the real reason?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Silence!!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I, Riesling Tohyama, am capable of drilling survival methods in deserts, frigid zones, and tropical rainforests, however……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yay, a cushion~~♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You must not」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「J-Jiiya is scary today…… tremble, tremble!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, give it up and let's study」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For the sake of your family who worries about you, let's review thoroughly and get good results on the next test」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek, me getting a good score on a test is ninety-nine percent impossible」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「In other words, it is point-one percent possible, is it not? I shall report that to the Master, the Mistress, and Lady Amyrina」"
+  },
+  {
+    "message": "No wonder she's Helena-san's friend."
+  },
+  {
+    "message": "If Riesling-san ever got serious, not only me, even Misa and Ria-senpai wouldn't stand a chance against her in an argument."
+  },
+  {
+    "message": "While keeping the attention of Lolotte, whose focus tends to drift, I begin reviewing the test. It feels a bit like being a private tutor."
+  }
+]

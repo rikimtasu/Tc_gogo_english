@@ -1,0 +1,644 @@
+[
+  {
+    "message": "親密に親睦会"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Caaaake...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, your eyes have turned into yen signs~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All-you-can-eat cake...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, stop throwing a fit. We're going to the Student Council room.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「CAAAAKE---!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Have fun~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's going on, Synn?! This isn't what you said at ALL!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I never said anything like that.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, it's not like I can defy her.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She'd chop us into three fillets with that hand-blade of hers. Speaking of sashimi, it's time for the wasabi to shine.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr---! What good is the Student Council then---?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It can't be helped, it's not like it's a regular event. Besides, cake has nothing to do with this.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not cake, sweets!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were calling it cake yourself until just now...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know! We just have to make it a Student Council rule. Allocate budget for the social gathering!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way. You're the only one who'd be happy with that.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You'd be happy too! Since you wouldn't have to spend your own money!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can manage fine even without money.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, right, you *would* be that kind of gentleman.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Which means you actually have a brilliant idea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nope. Isn't that what Everyone's getting together to figure out right now?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For once, why don't you shock the school with one of your clever ideas?」"
+  },
+  {
+    "message": "It's a special social gathering. It'd be great if we had something to help us get even closer with Everyone..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello--wait, huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, well that's rare.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz...」"
+  },
+  {
+    "message": "Lolotte was the first to arrive."
+  },
+  {
+    "message": "Using her chair like a cradle, she was gracefully nodding off."
+  },
+  {
+    "message": "A cute pig ornament was sitting on her lap."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now I wanna eat tonkatsu.」"
+  },
+  {
+    "message": "She really is obsessed with food."
+  },
+  {
+    "name": "Synn",
+    "message": "「Should we wake her up?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No one else is here yet, so why not just let her sleep?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Haa, haa*... This time for sure!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello there.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Again--?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lively as ever, I see.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why is it ALWAYS, ALWAYS...!!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, well, our class doesn't have homeroom.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So it can't be helped that you're always behind us.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Besides, running in the hallway is dangerous.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wasn't running! I was power-walking!!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. I don't even care anymore.」"
+  },
+  {
+    "message": "Lolotte really is soothing to be around."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai is late.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Unlike a certain someone, she's busy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She is a third-year, after all. I'm sure she has a lot on her plate.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't forget the preface!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are we doing today? Is it canceled after all?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「After pushing that motion through, there's no way we can just cancel it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course. Once we've decided to do it, we have to see it through.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look at you talking big, Mr. Student Council President. Don't tell me you came up with a brilliant idea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm thinking of one right now...\\S01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Pathetic. Surely there are things we can do even without a budget.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're saying the exact same thing Synn said.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That was just a joke.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, I wish some money would just tumble out from somewhere...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Money--?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Waaaaaaah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No way! Tontoro is absolutely off-limits!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't have to be that startled, jeez.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was utterly earth-shattering!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not bad, Nanaka.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Shaking the world with pure greed--as expected of Master Synn's childhood friend.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Leave me out of this.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That piggy...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That pig-shaped ornament. You always carry it with you, but what on earth is it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's Tontoro.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, sounds delicious.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're drooling, you're drooling.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If there's money inside... could it be a piggy bank?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, exactly.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't you carry a wallet?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nope. I don't need one.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like Lolotte and I would get along great.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Pretty sure your reasons are in completely opposite directions, though.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, I'm not giving you Tontoro! This is extremely precious to me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What do you mean 'even so'--\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan. Forget the money, just give us a great idea to liven up the welcome party.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So Senpai is our only hope, huh?」"
+  },
+  {
+    "message": "Man, we're so useless."
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san. You're the treasurer, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, we haven't heard Nanaka's idea yet.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-Who, me?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I won't force you if you don't have one...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, you could show a little faith in me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'd certainly love to hear it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do your best, Nanaka!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, fine. If you're gonna go that far, I'll show you what I've got!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ohh!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll bring some soba from my family's shop!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bring... Wait, I get it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Waaaah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ouch!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Careful, careful! You'll break the piggy bank!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's fine. It's much sturdier than it looks.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Than it looks...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I just mean I won't step into pathetic traps like the rest of you.」"
+  },
+  {
+    "message": "Lolotte shrugs her shoulders exasperatedly."
+  },
+  {
+    "name": "Misa",
+    "message": "「Using both hands to look exasperated... Is that really wise?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawaaaa!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, don't look!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-This expensive-sounding noise is--!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh... I did it again.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「See, you did break it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, I didn't! I meant I wouldn't break it for a foolish reason like stumbling, slipping, or falling!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now, now, let's just pick up the pieces, hurry!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Luckily, the fragments are big. Let's just put adhesive bandages on them for now.」"
+  },
+  {
+    "message": "I see. Since she's broken it so many times, she's surprisingly used to this."
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry I'm late.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Senpai. Hello--wait, what is that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My sister told me to bring this...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is that... a clay pot?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She said if it's a party, there's no other choice.」"
+  },
+  {
+    "message": "Did a young lady from a prestigious family just run all the way here holding a clay pot in her hands?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hot, hot, hot! Move, move! The pot's gonna boil over! Hot, hot, hot!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry. There's nothing inside.」"
+  },
+  {
+    "message": "Well, that's a shame."
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's wonderful, Ria-chan. You truly are the Princess of Hot Pot... daze!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A pot, huh. I guess it means we should throw a hot pot party.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What about the ingredients? What are we gonna put in it?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's where 'bringing stuff' comes in.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bring what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If everyone brings something, it won't cost much money and it'll be super cheap.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Could it be, is that what they commonly call--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That sounds like fun!」"
+  },
+  {
+    "message": "Oh, she's recovered already."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um, a Dark--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. Anybody looking at that pot would think the same thing.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Will this pot be useful?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, it's super useful, daze!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you think, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wahahaha! Sounds great, in for a penny, in for a pound!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I said it's not set in stone that it's poison yet.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A hot pot party! Just thinking about what kind of food we'll make gets me so excited!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aren't you lively. You were asleep until just a moment ago.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why I'm so full of energy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You must've really been looking forward to it. You were the first one here, after all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, everyone gathers their own ingredients and meets at the school gate. Is that okay, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's my first time visiting your house. Please show us the way.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, right.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm itching to get started!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You only got soba anyway」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hehehe, that's way too naive, like putting mayonnaise on melon soda. Do you really think Nanaka-chan here would pull such a 'cliche stunt'?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What--!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could this be--!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No way--!?」"
+  },
+  {
+    "message": "An unspoken agreement that normal ingredients are off―limits―!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, just one warning. Anything inedible is against the rules, okay? Like a plushie or something」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Okaaay」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hehehe……"
+  },
+  {
+    "name": "Paqy",
+    "message": "Wait, hey!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then, let's go!」"
+  }
+]

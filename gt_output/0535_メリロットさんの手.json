@@ -1,0 +1,237 @@
+[
+  {
+    "message": "メリロットさんの手"
+  },
+  {
+    "message": "Unrelated to KiraFes or the Holy Night Festival. Neither a letter to the Student Council nor a request for \"Angelic Agent\"--just a small matter of concern."
+  },
+  {
+    "message": "During biology class, a single hamster escaped from its cage in the science room. At Ryuusei Academy, surrounded by lush greenery, searching for it would prove extremely difficult."
+  },
+  {
+    "message": "I would only search for this one day. Having decided that, I check the buildings one by one. Since it's cold out, it's sure to be hiding indoors."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's dead, isn't it.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, if it's alive, it's bound to die eventually.」"
+  },
+  {
+    "message": "The place on campus most likely to have food after Prier. First and foremost, I visited the Kujou family mansion."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!? W-Was I too late...」"
+  },
+  {
+    "message": "Melilot holds the hamster cupped in both palms, as if trying to warm it."
+  },
+  {
+    "name": "Helena",
+    "message": "「Hii, Synn-chan\\s04」"
+  },
+  {
+    "message": "In stark contrast to Helena's cheerful greeting, the sleek-furred creature resting in Melilot's hands doesn't twitch a muscle."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's the hamster that got out of the science room... Did it freeze? It did get pretty chilly today.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There are no external injuries. It was likely either hypothermia or a heart attack.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Getting to leap out of its cage and see the outside world... Maybe little Hammy was just overwhelmed with emotion?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're being far too sentimental, Helena? Every living thing should be permitted to die.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, that's a sound argument.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...What if I were able to live forever?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you're going to claim eternity, Melilot, you'd have to know what the end of time is like.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I do not know.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, geez, then you're no different from me, Melilot.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe, so it would seem.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um...」"
+  },
+  {
+    "message": "I want to take the hamster back and bury it. However, I have no idea what words to use to chime in on their conversation."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Sakura-kun, how old were you when you first became aware of death?」"
+  },
+  {
+    "message": "Melilot speaks to me while keeping the hamster cradled in both hands."
+  },
+  {
+    "name": "Synn",
+    "message": "「Around three or four years old, I think. I got scared at night and couldn't fall asleep.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can sleep normally now, though……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm about the same. I actually ran an experiment to see what happens when things die.」"
+  },
+  {
+    "message": "I-I'd expect nothing less from Helena-san. Something like that never even crossed my mind."
+  },
+  {
+    "name": "Melilot",
+    "message": "「How fascinating. What sort of results did you get?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「First, I gathered dead little birds, fish, and bugs, along with some rotten fruit, and secretly lined them all up under my bed.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "H-has this person had a bird's-eye perspective on life ever since she was a kid?"
+  },
+  {
+    "name": "Helena",
+    "message": "「In the end, their states just changed--not a single thing actually vanished. That was my conclusion.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is a meaningful experiment.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Also, the state of my head changed too. My parents found out about my experiment, and Mother smacked me across the head with all her might.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is an even more meaningful outcome.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kya……!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha…… whaaat!?」"
+  },
+  {
+    "message": "Inside Melilot-san's hands, the hamster suddenly begins to move."
+  },
+  {
+    "name": "Melilot",
+    "message": "「N-no, that's absurd……!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da! It came back to life! Way to go, Melilot~, woo-hoo♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Impossible!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-but it really did come back to life, didn't it! Things like that happen sometimes, you know.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I despise miracles and coincidences!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ho-ho-ho, it was inevitable, my dear Melilot.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Did you know? Hamsters go into hibernation when they're somewhere cold. When that happens, if you share your body warmth with them, they wake right up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, so that means it was alive from the very beginning.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Th-thank goodness……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wait, aaaah!? That's why you ordered me to warm up the hamster! Couldn't you have just done it yourself!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because~ Melilot's little hands are way warmer and cozieri♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that really the reason...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Still, they say people with cold hands have warm hearts, so I--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's not how it goes, Melilot. People with warm hands have even warmer hearts」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, to tell you the truth, it was just too much trouble to go return it to the biology lab」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So anyway, I'm counting on you!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, w-wait a second, Helena--!」"
+  },
+  {
+    "message": "In the end, Melilot-san is completely wrapped around Helena-san's little finger."
+  }
+]

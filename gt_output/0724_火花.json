@@ -1,0 +1,711 @@
+[
+  {
+    "message": "火花"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nice weather, isn't it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh... me?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you come pick him up every day?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Uh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because my house is on the way from Yuugiri-an to the academy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah! It's just on the way」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's a detour」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, now that you mention it...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You didn't even notice?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's good exercise, ya know!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't tell me. Does this man get lost if you don't guide him?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You thought of me like that?! Have a little more faith in me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As if!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then why」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My mom and dad asked Nanaka to look after me while they're away」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So it's an order」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is not!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then, why?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-Because we're childhood friends! Got a problem with that?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Illogical.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why're you even asking about that anyway, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I was simply curious.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why'd you suddenly start wondering about that?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am illogical.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「People aren't things you can divide neatly like that. Even I often wonder why I get hungry, you know?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「That's totally different!」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Well, I'm gonna head over to Prier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good luck!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, Synn's side dish looks pretty fancy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just leftover tomato omelet from last night! It's easy, cheap, and delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I had some too.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha-?! Synn made it for you?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「He did. It was delicious.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's 'cause it was packed with love~ Pro~bably~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mmph...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Azel eats instant ramen every single night.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Oh, I see. So that's why.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, is that all~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn just can't leave something like that alone, can he?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sparks are flying here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun, you're quite the big shot~」"
+  },
+  {
+    "message": "Today's patrol is over!"
+  },
+  {
+    "name": "Ria",
+    "message": "「The demons have stopped showing up, haven't they?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They must've gotten scared of us.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm. Isn't it a bit too soon to assume that after only about a week?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, really. I just hope things stay quiet like this.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Are you going to pick up Azel-chan again today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Be careful, okay? As a boy, you have to be reliable.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course! I'll make sure to walk her all the way home!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm going too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... I can handle it on my own, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well then, you be careful too, Nanaka-chan.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why are you here?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What a way to greet someone right off the bat.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone, please keep quiet in the library.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That includes you too, Azel-san.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mgh.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Before you head home, why don't you calm down a bit?」"
+  },
+  {
+    "message": "Three teacups filled with amber-colored black tea were placed in front of us."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Why did the two of you come today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told her I'd be fine on my own, though.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you talking about? If it were just you, Synn, it'd be too much for you to handle if you ran into any demons, wouldn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka」"
+  },
+  {
+    "message": "I glanced over at Melilot."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah... um...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't mind me. I've already heard plenty from Azel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Uh... well...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Still... Melilot will be fine.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, it's just... I didn't think you were the type to say stuff like that, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't know how strong our opponents might be, but thinking two people can ensure safety better than one is entirely rational.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They won't attack. This guy alone is plenty to escort her.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「\"Escort,\" huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, you can't say that for sure, can you?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You say that like you have proof.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They haven't been attacking lately, have they?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We don't know what'd happen if someone was walking alone, though!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd be glad if they stopped their attacks too, but as long as we don't know what they're thinking, we can't be certain.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In the first place, if they're definitely not going to attack, then Synn wouldn't even need to come here.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's true, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whether the Demons are around or not, walking alone after it gets late is dangerous.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then what if it were me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'd be fine, Nanaka.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm a delicate maiden too, you know!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you're delicate, you'd just get in this guy's way--you wouldn't be any help in a fight.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Listen. You're the one who's actually being targeted, aren't you?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. So that's how it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sigh... You just don't get it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For today, I think it would be best if the three of you went home together nicely」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We do get along well」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...There is no reason for us not to get along」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmh...?」"
+  },
+  {
+    "message": "Did I just hear a noise?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "I'm not imagining it."
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's wrong, Master Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shh!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Not again」"
+  },
+  {
+    "message": "I jump out of bed. Something I can use as a weapon..."
+  },
+  {
+    "message": "Huh?"
+  },
+  {
+    "message": "I could've sworn there was something nicely vicious-looking to hit someone with around here."
+  },
+  {
+    "message": "Thieves are scary, but if I don't do it, who will!"
+  },
+  {
+    "message": "Even without a weapon, I still have my fists!"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm gonna take 'em down」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shh. The thief will notice us」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, whatever」"
+  },
+  {
+    "name": "Azel",
+    "message": "「!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What are you doing?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What are you doing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I sensed a burglar」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A bandit? Evil! Where!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is what I thought, turns out it was you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「H-How rude! Someone as aligned with the divine will as I――」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……*sigh*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is something wrong?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks like she realized it first」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Being around you only makes me more irrational」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, what were you doing?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nothing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Going outside at this hour is dangerous. You just got back, didn't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Uh. I-I was」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Blatantly suspicious」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not suspicious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you like taking night walks?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「As if that's tr――」"
+  },
+  {
+    "name": "Azel",
+    "message": "「R-Right! I love taking night walks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see! The night breeze sure is nice」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed! The night breeze is quite nice」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's just cold」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I can't help worrying. Let me know when you leave the house」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Because of the Demon?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's that too, yeah. Though if I had to say……」"
+  },
+  {
+    "message": "I searched for the right words for a moment."
+  },
+  {
+    "name": "Synn",
+    "message": "「With you, Azel, I just can't leave you alone. So being a Demon or whatever doesn't really matter」"
+  },
+  {
+    "message": "Right after saying it, I felt kind of embarrassed."
+  },
+  {
+    "message": "I wasn't really sure why, though."
+  },
+  {
+    "name": "Azel",
+    "message": "「I... I see. So you cannot leave me alone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Um... What if it were Nanaka?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No, forget I said that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She knows this area pretty well, and she's reliable, so」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not that I'm saying you aren't reliable, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「O-of course. I am very reliable」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……Poor Soba, honestly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right! Can I go on walks with you from now on?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-whaaat?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Would that be bad?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-well, if it's only once in a while…… fine……」"
+  }
+]

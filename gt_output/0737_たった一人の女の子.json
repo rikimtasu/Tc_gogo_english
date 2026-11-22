@@ -1,0 +1,630 @@
+[
+  {
+    "message": "たった一人の女の子"
+  },
+  {
+    "name": "Sally",
+    "message": "「She said she had filming again today, so she went on ahead」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Apparently, she's searching for the elusive Tennoji-san」"
+  },
+  {
+    "message": "Suddenly, I felt like I wanted to see Azel."
+  },
+  {
+    "name": "Sally",
+    "message": "「Something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, I see. Got it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't look so down. I'll let Master Synn bang me anyti--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「The President's slapstick comebacks are always intense, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Only toward Paqy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And you know, 'Kirara' was just so amazing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka was acting strangely hyper."
+  },
+  {
+    "message": "Seeing her like that made me feel awful."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Kirara finally ended up becoming the cult leader」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Still, the reason Nanaka was acting like this was my fault."
+  },
+  {
+    "message": "That's why I have to put an end to it."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Man, you really wouldn't expect it to suddenly turn into a drama about internal strife in a new religion, right」"
+  },
+  {
+    "message": "I took a deep breath and let it out."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Out of nowhere?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No, wait, maybe that 'sorry' is for something else!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think it's just what you're guessing, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Hey, don't you think you could think it over a little more?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Back then, I couldn't accept your confession, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's just because it came out of the blue and surprised you, right?」"
+  },
+  {
+    "message": "I'm sure Nanaka already knows."
+  },
+  {
+    "message": "Or maybe she already knew."
+  },
+  {
+    "name": "Synn",
+    "message": "「There was a bit of that too, but... that's not it」"
+  },
+  {
+    "message": "Searching carefully for the right words,"
+  },
+  {
+    "name": "Synn",
+    "message": "「I do like you, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stop phrasing it like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know what you mean, but right now, it's just a bit much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't need to apologize」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh. I just can't accept it. Something's holding me back」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's wrong with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not that anything's wrong with you, Nanaka--it's strictly an issue on my end」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My heart is already completely full of one girl」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I knew it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You knew?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Listen here. You might not have realized it yourself, but it was totally obvious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It was?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on! Ever since around the end of Kirafes, you've been fussing over Azel at every single opportunity!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And on top of that, you eagerly go pick her up, have one-on-one study sessions, start living together, cook every meal for her, and go on cozy outings together!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You do this, you do that, you do everything! If that's not blatantly obvious, then what the heck is?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Living together... We just happen to live in the same apartment building. And what's with 'this, that, and everything'...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut your trap! I won't recognize anything other than your right to remain silent!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Got it? You have a duty to sit there and let me complain at you all I want!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's totally absurd. Still, I get how she feels.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the heck, what the heck! I've been with you since we were born, and our parents are close,」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Plus we live in the same neighborhood, caused mischief together, played around nonstop, and God even blessed our good everyday behavior by always putting us in the same school and the same class,」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I diligently fed you, even got the ultimate mandate from your parents telling me to take care of you, and even chased after you to join the Student Council!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It was?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are you acting surprised now, you squash-headed pumpkin of an eccentric blockhead, you dirty rat! Normally anyone would notice!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me noticed, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh no! I was a carrot?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Carrot or burdock root, either way you're definitely not sharp, you!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, because you were such a blockhead, I totally let my guard down, and carelessness is the greatest enemy--up in flames! Some newcomer who showed up three months ago brilliantly snatched the prize right out from under me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Agh, jeez, jeez! Nothing could be more frustrating! Got it?! You blockheaded nitwit!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Haa, haa, wheeze, wheeze...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka suddenly clapped her hands together twice."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All done, all done」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whew. Saying everything I wanted to say made me feel so refreshed!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Listen up! You dumped me, so you'd better pull your weight to make up for it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good then. See ya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait... Nanaka! Where are you going?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Today, I'm gonna stuff my face with sweets all day long! People call this stress-eating!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my? Two people are absent today?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, noo, Sis! Stop iiit!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'm Nana-chan's substitute~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Can you do math?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoooa! Getting squeezed out that much! Truly rocket tits! Ria-chan is the best!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「As long as it's within what I can count on my fingers, I've got it covered~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haah...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan, make sure you pass this along to Azel-chan and Sally-chan for me.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, no, auuun! Ah, kufuu! Stop it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel seems busy, though I should be able to catch her at the apartment."
+  },
+  {
+    "message": "Or rather, I'm sure I can catch her."
+  },
+  {
+    "name": "Synn",
+    "message": "「Understood.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, why even Sally-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haah... It is troublesome without the treasurer. Our straight-man power is diminished.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Why the heck would ya say that!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Throwing in a retort for no reason doesn't help, you know.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「G-Give it a rest already!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then, regarding the matter I need to inform you all about--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Effective immediately today, the school patrol duties carried out by the Crusaders are hereby terminated.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is that!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「With less than half a month left until the Holy Night Festival, I need all of you in the Student Council to devote your full efforts to festival preparations.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aww, man. Guess going around eating sweets with Nana-chan is a no-go, huh.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're awfully carefree. Isn't the Sweets Club running a maid cafe too?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh! Now that you mention it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, just last night--」"
+  },
+  {
+    "message": "Helena-san placed a single sealed envelope on the desk."
+  },
+  {
+    "message": "Written in neat, if somewhat high―strung handwriting―"
+  },
+  {
+    "name": "Misa",
+    "message": "「A letter of resignation?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The chairwoman is resigning from being the chairwoman! Vice President, it is your time to shine!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, what grand ambitions you have.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No, that's not it! Besides, it clearly says Seira Sengenin on it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sengenin-sensei is...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It was sitting on my desk in the faculty room this morning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Could it be that Professor Sengen'in was a Demon too?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about! She's strict, sure, but she's a wonderful teacher!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan is right. What's more, she's one of the Seven Demon Generals」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No way」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Newcomers really are suspicious after all~ As a rule of thumb~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's just a coincidence」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She and Pasta-chan infiltrated the academy and were commanding those Demons. Now that the two of them have vanished, it's safe to assume large-scale Demon activity at this academy is over」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel isn't here... I thought I'd find him if I looked here, though."
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you know what book this cover belongs to?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hmm... I'm afraid I couldn't say. However, it does not appear to be from this library's collection, at least」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It looks burned, though--where did you find it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was lying in the courtyard. It looked like the cover of an expensive book, so I thought it'd be bad if it belonged to the library」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you're looking for Azel-san, he hasn't come in today either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is... that so...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Has something happened?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I can just see him back at the apartment."
+  },
+  {
+    "message": "There's no way he wouldn't come home, after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「...No」"
+  },
+  {
+    "message": "The past few days were just a coincidence."
+  },
+  {
+    "name": "Melilot",
+    "message": "「May I hold onto this here? If you don't mind, I can look into it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please do」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He's gone home」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Th-Thank you. For, uh... not telling him I was here」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What happened?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There's nothing going on between Synn and me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It doesn't look that way to me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Shut up」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san. Can't I be of help?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh... what do you mean?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm neither a student nor directly involved in whatever is going on between you and him. That's why I simply thought it wouldn't hurt for you to talk to me about your problems」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Talking to someone won't necessarily solve things, of course, but it can lighten the load on your heart」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I know it may be presumptuous of me, so please just keep it in mind」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. We need to talk」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Did he fall asleep?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. Azel」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Oh well. I'll do it tomorrow morning."
+  },
+  {
+    "message": "If I wake up a little early, I should be able to catch him."
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "message": "死亡フラグ回避"
+  },
+  {
+    "name": "Synn",
+    "message": "「...And that's what happened.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry... We didn't know anything about it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, it couldn't be helped. We really should've called everyone too, but we didn't even have the leeway for that...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Virus showed up as well. And Sengenin-sensei turned out to be a demon named Soltia.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Speaking of Soltia, she's one of the Seven Demon Generals.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah. I don't really know what kind of person she is, though. Still, I hear both of them are super strong.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Are they stronger than you, Miss Tag-along?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Obviously I'm way stronger!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then they're no big deal.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What did you say―!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't talk stupid. Their strength isn't even comparable to Flat-chest's boss, let alone Pasta.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So he says.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I wasn't even brought up for comparison!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun. Is what Paqy-san is saying true?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... They were strong. Really strong.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And you two were actually okay taking them on by yourselves...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the end, we were okay... though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with that half-hearted way of putting it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Synn-kun saved me!! That's why we both made it out safe!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President took on opponents that strong!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Way to go, Synn!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As expected of my rival」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well, I'm still stronger though--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not a lie, right?\\s07」"
+  },
+  {
+    "message": "Still, we only escaped a tight spot--nothing has actually been resolved. If they attack us again..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, um... I really don't understand what Virus-san and Soltia-san are after at all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The one thing we do know is that neither Virus nor Soltia is on our side.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But Virus let us get away, didn't he?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... Plus, those two didn't seem to be on very good terms.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That makes it even harder to understand~~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「All demons are pretty careless like that.」"
+  },
+  {
+    "message": "I feel like it's a bit unfair to compare them to Sally-chan."
+  },
+  {
+    "name": "Helena",
+    "message": "「Good morning, members of the Student Council.」"
+  },
+  {
+    "message": "Her words are the same as usual, yet her tone is unusually serious."
+  },
+  {
+    "name": "Helena",
+    "message": "「Today, Sengenin-sensei resigned.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「She... really was a Demon after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You knew!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I had no concrete proof, so I couldn't confide in you... though I thought it would be best to let her roam free for a while.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think she realized what you were doing?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Probably. Still, it was convenient for her too. If she wanted to do 'something' at the academy without causing a commotion... right?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「However, I never imagined she would reveal her true identity right in front of you all...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And because of that, I put you all in danger... I'm truly sorry.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big sis...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The foremost among the Seven Demon Generals have begun showing themselves... Not only Soltia, but even Virus.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There won't be some twist like there were actually eight of them all along, right?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wonder... There's no guarantee that the Seven Demon Generals are our only enemies.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I mean there might be other shady characters out there trying to take advantage of Re-Crea to pull something off.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aah~ If only the Demon King were around at a time like this~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wh--?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「N-N-No way!! If even the Demon King were to show up...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even though we already have our hands full with the Seven Demon Generals...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A third faction out of nowhere right now?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, knock it off with the bad jokes!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No~body ever said the Demon King was an enemy, did they? Well, I don't know if he'd be an ally either, though... right, Ria?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wh-Why are you asking me...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because whenever the Demon King comes up, you're always so desperate to defend him.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Urgh... ugh...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And yet, you're not acting like yourself today. You aren't hiding something from me, are you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's not...」"
+  },
+  {
+    "message": "Ria-senpai is shaken too..."
+  },
+  {
+    "message": "Just as I thought, she hasn't told anyone that I'm the Demon King."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-What should we do?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Who's behind this, and for what purpose... Why would they do something like this...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Honestly... I really don't want us to have any more enemies than we already do...」"
+  },
+  {
+    "message": "Still, everyone is feeling anxious..."
+  },
+  {
+    "message": "Should I just come clean and tell them the truth here..."
+  },
+  {
+    "name": "Helena",
+    "message": "「Anyway. We can't just sit around spacing out like this. Alright」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No matter what, we have no choice but to call in that helper!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A helper...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could it be the Demon Lord!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, that's a liiittle off, though there's no doubt they're someone we can count on」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'I won't do you wrong. Leave the rest to me'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, wait...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She took off...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A helper... huh. Who could possibly show up at this late stage, I wonder」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Does anyone come to mind, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ria-senpai...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh... Eeeh!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sorry... um... what were we talking about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you okay, Senpai? Aren't you still exhausted?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's not true at all! Look, I'm totally full of energy♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Please don't push yourself too hard...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm not pushing myself at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Now, now\\s02 Um... well then, for now, let's talk about what to do going forward...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What you'd call a strategy meeting, right!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Enemies on a completely different level from the demons we've fought up until now have appeared」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Which means if we don't figure out a way to beat them, we're the ones who'll get wiped out」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, haven't we already done tons of special training and stuff up until now?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A way for us to get even stronger than this...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine. As long as everyone's together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Back then, it was just me and Ria-senpai. As long as everyone's here, I'm sure we'll be fine. We'll figure something out, right, Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah! You're right!」"
+  },
+  {
+    "message": "There is no end to things to worry about, yet just being together with everyone feels reassuring."
+  },
+  {
+    "message": "If you lose confidence, you lose. Let's always stay positive!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. Like in suspense stories, you know? There's always someone who immediately wants to split up when a crisis hits. That totally backfires.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is what is known as raising a death flag.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then for the time being, we're all in agreement that all of the Crusaders will act together?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, that sounds good.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-But, the bathroom is an exception!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I get it already\\s02」"
+  }
+]

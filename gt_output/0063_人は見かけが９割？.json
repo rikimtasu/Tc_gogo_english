@@ -1,0 +1,934 @@
+[
+  {
+    "message": "人は見かけが９割？"
+  },
+  {
+    "name": "Aikawa-san",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Flinch*」"
+  },
+  {
+    "message": "Why do all the clerks at this shop have crew cuts, wear sunglasses, look weirdly muscular, or have dragon tattoos peeking out from their sleeves... S-Scary."
+  },
+  {
+    "name": "Aikawa-san",
+    "message": "「Much obliged as always, Boss. We look forward to your continued patronage」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah! I'm counting on you for some delicious cakes!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe. We even got souvenirs~」"
+  },
+  {
+    "message": "Well, that's fine and all. The cake was delicious, too. Still."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Sans Souci' is setting up a booth at KiraFes, too. With that, we've completely conquered all three cake shops on our list outside the shopping district!」"
+  },
+  {
+    "message": "Nanaka draws a sharp red line across the cake shop list written in her notepad."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that shop... really okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The cheesecake was delicious, wasn't it?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It was super yummy~」"
+  },
+  {
+    "message": "Sacchin, who is tagging along for some reason."
+  },
+  {
+    "name": "Paqy",
+    "message": "「It was tasty」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true. Even so...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The flavor's around 69 points, easily top one or two in this town」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah. If we're talking food tour... ahem, getting booths for KiraFes, you can't leave that shop out~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「69 points doesn't feel like a very high score to me」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I've never seen Nana-chan give anything over 75 points~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your standards are too harsh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, duh! The God of Sweets has discerning taste, so I have to devote myself wholeheartedly and help elevate the sweets of this world!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan's nonsense aside, 69 points is high~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it really...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you mean, 'nonsense'? *Grind, grind*」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Stop with the knuckle-rubs~ My brain, which is as delicate as whipped cream inside a head as soft as sponge cake, is gonna pop right out~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you can talk back like that, there's no need to hold back」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, you mustn't bully the turtle」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you, Urashima Taro?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I had no idea there was a shop like this right in the middle of a residential area」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Can't blame you for not knowing, Synn. It only just opened at the end of last year」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's just a regular house they fixed up a bit, so it's pretty easy to miss」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It certainly is plain」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Plus, the staff are all middle-aged guys--none of the super-cute girls you like, Synn」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zero appeal for Master Synn, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My character is being pretty heavily distorted here」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So you're that kind of guy, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, don't believe that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It might not be up your alley, Synn, but it can't be helped」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Apparently, that place was opened by a trio of guys who washed their hands of the *akuza and poured all their savings into their cake-making hobby to carve out a rosy new life」"
+  },
+  {
+    "message": "So that's why they have buzz cuts, wear sunglasses, look weirdly bulky, and have dragon tattoos peeking out from their sleeves."
+  },
+  {
+    "message": "Still..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Carve out a rosy new life, huh...」"
+  },
+  {
+    "message": "I actually kind of relate to that part. They put it differently, sure, but those guys were yearning for a sparkling, exciting life too."
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if the food is good, can they really turn a profit in the middle of a residential neighborhood?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds like it's pretty tough, yeah. They're away from the shopping district, and they all have scary faces」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And that's exactly why they agreed to set up a booth at KiraFes! It'll be good publicity for them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We'll have to make sure it pays off for them too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, I don't want that shop going under either」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah, delicious sweets shops are a treasure to the world. Plus, if we get them to open a stall, they might even let us eat at a special Sweets Club discount--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Don't spill the secret!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's your real motive」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You guys are always faithful to your desires」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you talking about? Now then, to the shopping district we go」"
+  },
+  {
+    "message": "At the entrance to the shopping district, a girl who had been alternating bites between a crepe in her right hand and one in her left raised a hand toward us."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yumil, sorry to keep you waiting」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yo! Yuugiri-senpai. Sacchin-senpai.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aah! You're already eating!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Expected nothing less from the Sweets Club's promising rookie. We really need to learn from that aggressive, always-eating attitude.」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Nah, I just got super hungry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hearty as ever, huh」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Long time no see too, President Sakura. Yo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yo」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Ngulp, gulp」"
+  },
+  {
+    "message": "The two crepes were swallowed down in an instant."
+  },
+  {
+    "name": "Yumil",
+    "message": "「Haaah... Soo good!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「So, how'd things go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Smoothly」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'Sans Souci' said they'll open a stall」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Now that's something to look forward to. So, where are we starting our food crawl? Wanna carpet-bomb the shopping district from one end to the other? Khh, I'm trembling with excitement」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... how on earth did you explain this to her?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I told her it was our first club activity in a while」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wrong!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Come on, Nana-chan. It's not a food crawl. We're helping out the Student Council. As the treasurer, you shouldn't be saying stuff like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look who's talking, Mr. All-I-Do-Is-Eat」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe~ You're just imagining things~\\s05」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Besides, I was a squirrel in my past life, so I have to be eating all the time~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yep. Just decided right now~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「To really liven up Kirafes, we've got to get all the delicious cake shops in Ryuusei Town to participate, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, setting up a stall doesn't necessarily mean they'll turn a profit, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「On that front, we'll just have to convince them that it'll be good publicity, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It'll be fine~ If Nana-chan asks, everyone'll say okay~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Ain't no shop gonna say no when Yuugiri-senpai asks 'em」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Right~」"
+  },
+  {
+    "message": "There's no way things will go that smoothly."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As long as we get them to see that Kirafes will draw a crowd, it'll be fine. Well, I'm leaving that whole persuasion part to you, Mr. President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, you bet」"
+  },
+  {
+    "message": "That's a huge responsibility."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat?! You'll really open a stall for us?」"
+  },
+  {
+    "message": "Even though I haven't even explained the details yet……."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We did it, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So good, so good, so goood! Pure blisss~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Nom nom, munch munch, chomp chomp」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stop stuffing your faces and move on to the next one!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much for agreeing on such short notice」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thank you so much」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We did it, Synn. Easier done than worried over, just like they say」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "message": "Something feels off..."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So good, so good, so gooood!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Nom nom, munch munch, chomp chomp」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on! Next stop, next stop!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then, we'll follow up with the details later. Let's go, Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right.」"
+  },
+  {
+    "message": "Weird... things are going too smoothly."
+  },
+  {
+    "message": "Why is everyone agreeing without even opening the pamphlets we hand them?"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「This is so good~ Haaah. This cream is just exquisite~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Nom nom, munch munch, chomp chomp」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Today isn't a club activity! We're moving on!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much.」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Munch munch, nom nom.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, let's go!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aah. I haven't ordered the Mont Blanc yet~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Save that for next time! Up you go, up you go.」"
+  },
+  {
+    "message": "It feels like every clerk and store manager agreed to set up a booth the instant they saw Nanaka... or is it just my imagination...?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「With that, the only one left is Chocolat l'Or.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「When are we going there to eat~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「I'm down to go right now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You two, we're not out on a food tour today, you know.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah! Besides, you guys have to be stuffed already.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Busted~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「I could still eat, though scarfing down more would look pretty uncool. Plus, Chocolat is right about to hit its rush hour.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「True. Let's save Chocolat for another day!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still... you're amazing, Nanaka.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, even so, I probably can't eat as much as Yumil」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I mean--it seemed like almost every shop knew who you were, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heheh. After all, I am the Belle of the Ryusei Shopping District!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's a tiny territory」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey. Could it be... you have dirt on the shops or something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How rude of you. As if that's true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. It's just that things went a little too smoothly」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's all thanks to my everyday good character」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah. It's the fruit of the Sweets Club's everyday activities~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since we're so active, I wonder if we could get promoted to an official club」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if you look at me with those begging eyes, it's a no」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stingy」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well then, let's call it a day for today~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Later then, Senpai. Farewell!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, shall we head home too?」"
+  },
+  {
+    "message": "Oh?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, this place is a cake shop, right?」"
+  },
+  {
+    "message": "I point at the dingy sign that reads 'Peace Tanimura Patisserie'."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ohh, they swapped out the sign~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Swapped it out?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...They changed it back」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Before, it had some kind of fancy \\{French-sounding|\\s12\\s12\\s12\\s12\\s12} name~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder why they changed it back?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Too late for that now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not there. The food's awful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Writing them off just like that!?」"
+  },
+  {
+    "message": "True enough, there aren't any customers inside, and the guy who looks like the owner is sighing with a face like he's about to hang himself. It's obvious at a glance that business is dead."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm... Well, a lot happened, you know... Plus, it really doesn't taste good~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Nanaka. Is it really that bad?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't even want to talk about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't that going a bit too far...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Buuut, even Yumil said it was gross~」"
+  },
+  {
+    "message": "And that girl looks like she'd eat just about anything..."
+  },
+  {
+    "name": "Synn",
+    "message": "「What about Sally-chan, then?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She'd say it's gross~ ...If it's still the same as before」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When was 'before'?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You really don't get it, Synn-kun~ Asking me about stuff that far back is totally pointless~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Six months ago」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then maybe it's gotten better since then」"
+  },
+  {
+    "message": "Looking at the state of the shop, though, that seems pretty hopeless."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not a chance. This owner is rotten to the core」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Come on, isn't that a little harsh? Aren't you just prejudiced because the shop is dirty?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The shop's appearance has nothing to do with it. Not at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because back in the previous owner's day, it was way, way dirtier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? It used to be even dirtier than this?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Anyway, I refuse to deal with this shop」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "However, and yet! Variety is the lifeblood of a cake buffet."
+  },
+  {
+    "message": "I want to get as many shops to participate as possible"
+  },
+  {
+    "message": "Besides, if we promote places like this and bring in customers, it'll also help revitalize the shopping district."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll go negotiate with them!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...There's no need for that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, come on. Don't you think it'd be unfair to leave out just one cake shop in the shopping district?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. I'll go negotiate by myself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And that's why it's such a meaningful event」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, we'd really love for you to participate in KiraFes. Please」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「It does sound like a meaningful event, yeah. We just don't really have the leeway for it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Is that so」"
+  },
+  {
+    "message": "Well, since it's for charity, I guess not making a profit is tough."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「! Y-You!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Who is that girl waiting outside to you?」"
+  },
+  {
+    "message": "His trembling finger points toward Nanaka."
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, um, she's our Student Council treasurer, why?」"
+  },
+  {
+    "message": "For some reason, the shop manager's face suddenly brimmed with life."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「That means if I set up a stall, there's a chance my cakes might actually make it into her mouth?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder... I think she'd eat it if you put out a new cake, though」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Is that right! Then, if you accept just one condition, I'll gladly set up a stall」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A condition...?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I'll bring a brand-new cake to KiraFes, so you have to make sure she eats it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... is that really all you want?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「If she'll eat it, I'll do anything! I'll even lick your shoes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I―I don't need that kind of service. If there's a new cake, I'm sure she'll eat it without even being ask―」"
+  },
+  {
+    "message": "Wait, would she really?"
+  },
+  {
+    "message": "Because for some reason, Nanaka seems to hate this shop."
+  },
+  {
+    "message": "The manager smiled a little sadly."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「If she finds out it's from my place, she probably won't eat it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「If possible... when you have her try it, I don't want you to mention my shop's name at first」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Hmm. Well, I can manage that much, at least」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Really?! Then I'll open a stall! Thank you! Thank you so much!」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He agreed to open a stall」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...I just hope it doesn't ruin the buffet's reputation」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, look, it's been half a year, so maybe things have changed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way. That place is the worst-tasting restaurant in all of Ryuusei Town. And it never got any better, either」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Totallly. Plus, that guy gets mad when people say his food tastes bad. And then he goes on a whole speech about how things are done in France~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He didn't seem like that kind of person to me, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I never want to eat anything from there again. Actually, no thanks from me altogether」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you hate it so much...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry, Synn, but that's the one place I'm passing on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "No wonder he asked me to hide the shop's name."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, Synn-kun. Could it be that the manager made getting Nana-chan to eat his food a condition or something~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, it's nothing like that\\s01」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm. Surprising. I totally thought that was it~」"
+  },
+  {
+    "message": "Why is Sacchin always so sharp about stuff like this?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I am never, ever eating it again, not in a million years!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, alright. Is it really that bad?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It. Is. Awful!」"
+  },
+  {
+    "message": "If she finds out, I might be in danger. Still... I already promised..."
+  },
+  {
+    "message": "Even so, why is the manager so fixated on Nanaka..."
+  }
+]

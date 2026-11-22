@@ -1,0 +1,686 @@
+[
+  {
+    "message": "咲良シンという魔王"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, everyone. What do you think about my convictions?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They're extremely... vague」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, thanks」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I understand you're shaken by how suddenly things took a turn, but losing sight of your goal isn't a good trend」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Try calming down and thinking it over a bit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmmgh...」"
+  },
+  {
+    "message": "Man, just sitting around thinking really makes me restless."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. Then let's get to preparing for the Holy Night Festival!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, talk about out of nowhere!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I figured if I get my body moving, something's bound to come to me eventually」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee... That is much more like you, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, let's give it our all today too!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!!」"
+  },
+  {
+    "message": "And so, until special training began, we threw ourselves into our usual Student Council duties."
+  },
+  {
+    "message": "In anticipation of the Holy Night Festival, the academy begins taking on a Christmas look."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmmmm~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's wrong, Synn-kun」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Don't tell me you're thinking of going to see Azel-san, are you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no! I couldn't possibly do that behind Melilot-san's back. It's not that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The North Wind and the Sun... no, what was it again...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just wondering if Azel might get curious and come out if we do something fun right here」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah. You mean the story of Ama-no-Iwato? Where they threw a big festive commotion to coax the sun out...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, yes, that's the one! And the tactic is to sweep her right in the moment she peeks out out of curiosity」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait, Synn-kun. Did you anticipate that and choose this place as the venue?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that were true, I'd be the one falling out of my chair.」"
+  },
+  {
+    "message": "Azel's resolve is probably something far beyond anything I could ever imagine."
+  },
+  {
+    "message": "I can't possibly expect this to reach her heart, yet this is about the only thing I'm capable of doing."
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, I think being able to come up with something like that on the spot is what makes you amazing, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way...\\s03 I'm literally just saying whatever pops into my head.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even if it's just off the cuff, it comes out of you so naturally.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Earlier, when Melilot-san was talking about Azel-san...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Seeing how she was acting, no matter how I looked at it, I couldn't see Azel-san as anything other than an enemy.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And yet, you just treated her like a friend as if it were the most natural thing in the world.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You know, Synn-kun, when you talked to that demon, I was super surprised.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean when we all ate meat buns together?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, yeah. When I let out that squeaky, frantic yelp. It was just completely unthinkable to me back then.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But you know, after watching you all this time, I feel like I can understand why you'd do that.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because whether someone is an angel, a demon, or anyone else, you treat everyone without any prejudice.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that... really true?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. I'm sure of it. That's why I think you were chosen to be the Demon Lord, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's hereditary, you know?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even so, it's because there are things only you can do, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ginyaaa!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「What's going on, nya... I can't do a single thing against them, nya...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, you're...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya-what, Crusaders!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「However, I do not have the time to be dealing with you lot today, nyan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why the polite speech?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Finis Tower... Don't tell me you went to see Azel!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That guy is a total villain who put Virus-nyama through hell, nya!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「So I set out on a retaliatory mission to avenge Virus-nyama's grudge, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How reckless... Even Virus isn't a match for him, you know?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Even so, I still wanted to land at least one blow on him, nya!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「But the atmosphere was so weird I couldn't even get close, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "So Azel is still stubbornly trying to stick to his convictions."
+  },
+  {
+    "name": "Synn",
+    "message": "「So. What about Virus...?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「He got blown all the way back to the Demon World and can't move a muscle, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Well, that's a relief」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「It's not a relief at all, nya!! We were supposed to spend a lovey-dovey Christmas together with Pasta...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Besides, what a horrible thing to say, nya!! Rejoicing in someone else's misfortune--the Demon Lord really is a villain, nya!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I meant! I just meant I'm glad he's alive」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「With his wish unfulfilled, Virus-nyama has become an empty shell--he might as well be dead, nya...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Someone as strong as him wouldn't get depressed over something like that」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You think so, nya?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think you, who loves Virus, would understand that far, far better than I would」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You guys... are going to fight that Azel too, nya?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It might just come to that, yeah」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Then I'll help you out, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I won't be satisfied until I get at least one payback hit on that woman Azel, nya!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ha... haha...」"
+  },
+  {
+    "message": "Vengeful Pasta has joined the party!!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I wonder if I should just be happy about this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee... but you get it now, right? What I was talking about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like I'm aiming for that, though...\\s02」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone is drawn to your character, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone is lending me their strength. That makes me really happy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But with everyone's help, what is it that I want to do?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's surely the answer to the conviction you hold, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My conviction...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Remember. What you've always wanted to do, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-thanks for the meal~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm glad you liked it\\s04」"
+  },
+  {
+    "message": "I see. So this is what a Kujou family dinner is like."
+  },
+  {
+    "message": "If you thoroughly cover this many dishes, no wonder you grow breasts that big."
+  },
+  {
+    "message": "It'd be nice if this made me grow taller too, so Ria-senpai would always be looking up at me."
+  },
+  {
+    "name": "Ria",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, uh, n-nothing!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Suspicious. Where were you looking, I wonder?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-that's...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu\\s04」"
+  },
+  {
+    "message": "Ria-senpai presses her soft body close and whispers into my ear."
+  },
+  {
+    "name": "Ria",
+    "message": "「You were looking... somewhere naughty, weren't you...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-no, I...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I can see right through everything you're thinking, Synn」"
+  },
+  {
+    "message": "Gah... how does she always take control of the conversation so easily."
+  },
+  {
+    "name": "Synn",
+    "message": "「Teasing me like that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though it's because you're always tempting me, Ria-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「M-My fault!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not just going to let you tease me forever. E-Even I...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh...!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Right there!! Get 'em!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-What are you talking about」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's an RPG. It's on auto-battle, so they won't listen to a word I say」"
+  },
+  {
+    "message": "A chaotic game living up to its title where you have no choice but to multiply your money at the casino, huh. If it's that developer, I'd also recommend Touhou Ken●roku."
+  },
+  {
+    "name": "Ria",
+    "message": "「...\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sorry. I-If I stay out too late, Mother will get mad at me, so...\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're right. Then, I'll walk you home」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Have a nice tri~~p」"
+  },
+  {
+    "message": "Grr~~, damn it."
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn... your hands are really big, aren't they」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what's this all of a sudden」"
+  },
+  {
+    "message": "Grabbing my hand with both of hers, she runs her fingers over it as if checking something."
+  },
+  {
+    "message": "Ria-senpai really does have a girl's hands, too. They're a whole size smaller than mine and cute."
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So what if they are\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It just really hits home that you're a guy after all. Deeply」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're teasing me again like that, aren't you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm no~~t. Even though I'm complimenting you~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's because you sulk like that that makes me want to tease you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You gotta act like a real man. For starters, try calling me just 'Ria'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Go on, let's hear it--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh…… R-Ria-san」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That completely defeats the purpose!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh…… Ri……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's actually kind of embarrassing……\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm way more embarrassed than you are!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「While we're at it, why don't we ban polite speech too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Anything but that…… After all this time, there's no way I can just talk casually to Ria-senp-- I mean, Ria, sir!」"
+  },
+  {
+    "message": "And why did I suddenly sound like a jock?"
+  },
+  {
+    "name": "Ria",
+    "message": "「It is embarrassing. Though, maybe it makes me a little happy too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is that……?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because it feels like Synn-kun is taking the lead」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I really never take the lead normally, huh……\\s06」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, of course! I'm the big sister here, after all. Hmph!」"
+  },
+  {
+    "message": "Hrmph…… Still, someday even I'll--!"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on, let's go!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-See you tomorrow」"
+  },
+  {
+    "name": "Ria",
+    "message": "「See ya. Get home safe now~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Goodnight, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Goodnight…… Ria」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah♪ Goodnight\\s04」"
+  },
+  {
+    "message": "No good, I really can't get used to it."
+  },
+  {
+    "message": "Both now and in the past, to me, she's Ria-senpai."
+  },
+  {
+    "message": "Still, I'm her boyfriend now, so..."
+  },
+  {
+    "message": "I-I'll try my best starting tomorrow!"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Haaah... Ria-senpai's hand was so soft and warm..."
+  },
+  {
+    "message": "Even being apart for just a moment like this feels lonely."
+  },
+  {
+    "message": "I miss Ria-senpai's soft palm. If only I could keep holding it forever."
+  },
+  {
+    "message": "Yet even more than her hand, I--"
+  },
+  {
+    "message": "Uwaah, no, no!"
+  },
+  {
+    "message": "How low can I get..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Daaah. Daaah.」"
+  },
+  {
+    "message": "I stomp my feet on the spot, reprimanding my own heart."
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwah, that's bright.」"
+  },
+  {
+    "message": "A light is flickering in one specific spot."
+  },
+  {
+    "message": "It's coming from Ria-senpai's house."
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "message": "Ria-senpai is waving her hand from the balcony."
+  },
+  {
+    "message": "Even though she doesn't know if I'm still here, she went out of her way to..."
+  },
+  {
+    "message": "Overjoyed, I swung my arms around using my whole body."
+  },
+  {
+    "message": "Seeing that, Ria-senpai laughed so hard."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "I really am just a kid, aren't I..."
+  },
+  {
+    "message": "Still, Ria-senpai's smile was the absolute best."
+  }
+]

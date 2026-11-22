@@ -1,0 +1,725 @@
+[
+  {
+    "message": "ゆずれない願い"
+  },
+  {
+    "name": "Synn",
+    "message": "「How's the decorating coming along at the main gate?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, going great!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Waaah! Lady Sacchin, you must not let go just yet!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh? Oh, sorry about that!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That decoration nearly struck Lord Synn directly!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe, my bad, my bad!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh... everything going smoothly?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-Yes, well, more or less...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for making you guys help out like this」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Not at all, something like this is a trifling matter!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Honestly, the Student Council is supposed to be supervising on-site, though...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, but you and the others are super busy with other tasks, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You can just leave things here to us!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah... you're right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'll come by to check in every now and then」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am most grateful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No problem. I want us all to work hard and make this a fun festival, after all」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Totally!」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, there's an unfamiliar face...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hyaaah!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah, a fiend has appeared!」"
+  },
+  {
+    "name": "Synn",
+    "message": "W-Why is there a Demon here!"
+  },
+  {
+    "name": "Nagahama",
+    "message": "Eee!"
+  },
+  {
+    "name": "Sacchin",
+    "message": "Aah! Don't touch the decorations! I worked so hard to make them!"
+  },
+  {
+    "name": "Shio",
+    "message": "Stand back, Lady Sacchin! I shall vanquish this fiend myself!"
+  },
+  {
+    "name": "Synn",
+    "message": "Ah, it's too dangerous to go alone, Shio-chan!"
+  },
+  {
+    "name": "Shio",
+    "message": "There is no need for concern"
+  },
+  {
+    "name": "Shio",
+    "message": "For today, I, Shio Asukai, shall finish it off for good!"
+  },
+  {
+    "name": "Synn",
+    "message": "Eh, but……"
+  },
+  {
+    "name": "Shio",
+    "message": "Now then, foul spirit…… pre-pare to di-e!"
+  },
+  {
+    "name": "Shio",
+    "message": "What!?"
+  },
+  {
+    "name": "Macaron",
+    "message": "Too slow!"
+  },
+  {
+    "name": "Shio",
+    "message": "Whoa!?"
+  },
+  {
+    "name": "Macaron",
+    "message": "Nufufu, your training is still way too lacking"
+  },
+  {
+    "name": "Shio",
+    "message": "I-Impossible…… to block my strike……!"
+  },
+  {
+    "name": "Macaron",
+    "message": "With swordsmanship like that, you'll never defeat the great Macaron"
+  },
+  {
+    "name": "Shio",
+    "message": "Grrrr……"
+  },
+  {
+    "name": "Macaron",
+    "message": "Hey, are you hurt?"
+  },
+  {
+    "name": "Nagahama",
+    "message": "Eee!"
+  },
+  {
+    "name": "Macaron",
+    "message": "Yeah, there, there"
+  },
+  {
+    "name": "Synn",
+    "message": "Shio-chan, are you okay!?"
+  },
+  {
+    "name": "Shio",
+    "message": "I am completely unharmed. However, who is this person……?"
+  },
+  {
+    "name": "Sacchin",
+    "message": "Ah! It's the kid from the other day"
+  },
+  {
+    "name": "Macaron",
+    "message": "Hey, what's the big idea, slashing at someone out of nowhere?"
+  },
+  {
+    "name": "Shio",
+    "message": "I did announce my name beforehand"
+  },
+  {
+    "name": "Macaron",
+    "message": "What do you think would've happened if I'd been even a second later!"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Well, Shio-chan probably would've been the one taking the damage, though."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Bro, you're bullying Demons again without learning your lesson!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, I did try to stop it, you know」"
+  },
+  {
+    "name": "Shio",
+    "message": "「'Big Bro,' you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, well, um, it's kind of like the relationship between Misa and you, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I see. Come to think of it, I have heard tell from my elder sister」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That a bizarre little girl posing as a Demon Lord has been appearing around the academy lately...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't say 'posing as,' that makes it sound shady!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, you're plenty of a little girl yourself!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What did you say?! I am still very much in the middle of growing!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm gonna shoot right up soon too and be all va-va-voom!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In my estimation, Lady Macaron has already reached her limit」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Grrrah! Don't talk nonsense! Aren't you the one who's stopped growing?!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah! Y-You've spoken the unspeakable...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What do you think, Big Bro?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, about what?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Between myself and Lady Macaron, who do you believe has more room to grow?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeeh?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Shio",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Shio",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, it seems like Macaron drinks milk every day... so Macaron, maybe?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? Drinking milk makes you grow taller?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, on rare occasions, yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really?! Yaaay! Woohoo!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ugh, how cruel of you, Lord Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no, I'm sure you will eventually too, Shio-chan!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, no way, no way~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ngggh...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn! Might you spare a bottle of milk for me as well!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't mind, though...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「At the very least, I must reach the same level as Lord Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whaaat~? Are you trying to compete with me?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed I am!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm. Well then, if someone challenges me, I have to accept it fair and square!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ho-ho. It seems you understand proper etiquette」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Obviously!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, you guys really shouldn't fight」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Do not stop us! This is a serious duel between women with our pride on the line!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Onii-chan, be the referee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Well then... ready, go」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hiyah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph!」"
+  },
+  {
+    "message": "At the exact same time, the two pop the caps off their milk bottles!"
+  },
+  {
+    "name": "Shio & Macaron",
+    "message": "「Gulp, gulp, gulp, gulp」"
+  },
+  {
+    "name": "Shio & Macaron",
+    "message": "「Pwah!」"
+  },
+  {
+    "name": "Shio & Macaron",
+    "message": "「What's the verdict?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? A-At the same time?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, yeah」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Then there is no helping it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I won't hold back, okay!」"
+  },
+  {
+    "message": "The two of them ready their weapons at the same time!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa! Stop, stop!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now then, let us duel fair and square!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Too slow, too slow!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't start sword-fighting in a place like this!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay! This is no mere play!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm just the type who can't half-ass anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That makes it even worse!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Heh, you're better than I thought……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still got a long way to go, though!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「M-My true potential is far greater than this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah! You don't need to show us that!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I cannot allow that!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nufufu, then let's see what you've got!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, I have to do something fast……」"
+  },
+  {
+    "message": "There's no time to worry about appearances."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Here I come!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Sh-Shio-chan!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「P-P...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your panties are showing!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-What did you say--?!」"
+  },
+  {
+    "message": "She leaves herself completely wide open!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, naginata confiscated!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Aah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, Big Bro! Don't get in the way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, Macaron, if you keep thrashing around, I'll confiscate yours too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hyaaa! Not that! Definitely not that! You coward!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Call me whatever names you want...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn... um, not only are you shameless, you are tyrannical as well...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, we won't get any work done if things stay like this」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ugh, but still...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look, everyone's troubled by this too」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah! How long is this kid gonna stay here--!」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "Eee!"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ah! M-My sincerest apologies for this!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「For one such as myself to act so disgracefully, how utterly shameful...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh... When you put it like that, I guess I don't have a choice, but...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「In the first place, it's your fault for picking on that kid, Big Bro」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? What is it, what is it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What'd they say?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Um... 'It sounded really lively and fun, so I just came over to take a peek,' they say」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see! So this excitement really does get through to a Demon too!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Um, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...If you weren't bullying them, then, uh, sorry」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Regarding that matter, I too am deeply reflecting on my actions...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, don't worry about it, don't worry about it. Miraculously, nobody even got hurt」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, having a strong sense of justice is a good thing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ugh... are you praising me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see... ehehe」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You seem to be pretty into this stuff, so if you'd like, wanna tag along and watch?」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "Eee!"
+  },
+  {
+    "name": "Macaron",
+    "message": "「They say they want to see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright! Well then, just be careful not to make too much noise, okay?」"
+  },
+  {
+    "name": "Nagahama",
+    "message": "Eee!"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm... For Sir Synn's sake, I shall let this slide...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm... Looking closely, maybe it's kinda cute?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about you, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not in the middle of a part-time shift, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Fine. I'm worried about this kid, so I'm coming with」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't get the wrong idea! I'm just this kid's guardian, that's all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, I know」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez...」"
+  },
+  {
+    "message": "Bringing along the grumbling Macaron and her merry companions, I patrol the school grounds ahead of KiraFes."
+  },
+  {
+    "message": "Everyone seems like they can barely wait for tomorrow's main event."
+  },
+  {
+    "name": "Synn",
+    "message": "「Counting on you tomorrow!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not my problem! Bye-bye!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bye-bye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Alright, now it's finally time for the final push!"
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "message": "魔王の資質"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It will be difficult」"
+  },
+  {
+    "message": "Melilot returned a book to the shelf just as she always did, speaking in her usual cool voice."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Is that so」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hold on. Can't Azel suppress Re-Crea's power to some extent?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, no matter how extraordinarily large Azel's vessel of Spirit Power may be, he is still not a god」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Completely suppressing Re-Crea once it reaches criticality would be quite difficult」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Making the impossible possible is what the Student Council does!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Had we realized sooner that he was the vessel for Re-Crea, there might have been a way」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of way?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is merely crying over spilt milk now and only theoretically possible, though」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel is not a god」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Since divine power has been poured into him, you can see how unnatural and unstable that state is, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Anything forcibly pieced together comes apart easily」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if it comes apart easily, I likely could not have done it alone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And if it came apart?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Beings with the capacity to house Re-Crea are rare in both Heaven and the Demon World. It is no exaggeration to say they are practically nonexistent」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So basically, you're saying it'd have nowhere to stay and vanish?」"
+  },
+  {
+    "message": "Melilot nodded."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Had that happened, just like with a usual Re-Crea, we would have only needed to resolve Re-Crea as a natural phenomenon and its accompanying issues」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Has Re-Crea ever resided inside someone before?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Upon re-examining the records, I confirmed that aside from the Demon Lord, beings with abnormal power have appeared alongside Re-Crea several times」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though none appeared to be as powerful as Azel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... that the Demon Lord defeated them?」"
+  },
+  {
+    "message": "Paqy might have known."
+  },
+  {
+    "message": "Perhaps there had been a Demon Lord and a Re-Crea just like me and Azel."
+  },
+  {
+    "message": "Maybe that's the exact reason he didn't tell me."
+  },
+  {
+    "name": "Melilot",
+    "message": "「As far as I could confirm, there were only a few such cases. It seems the vast majority vanished before anyone knew it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before anyone knew it... you say?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Judging from the cases where records of their final moments remain, their vessels likely couldn't withstand Re-Crea's power and self-destructed」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「According to the records, they melted from the inside out while emitting a seven-colored light at the end」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, there were guys like that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Presumably, attacks weakened their strength as vessels until they collapsed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel is the strongest vessel in history, so he won't collapse. Everything will be fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank goodness...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ahem. Though it is strange for us to be worrying about Re-Crea's host」"
+  },
+  {
+    "message": "Truthfully, it might be better for the world if Azel ended up just like the previous hosts."
+  },
+  {
+    "message": "Still, it seemed Melilot and I felt the same way."
+  },
+  {
+    "name": "Melilot",
+    "message": "「A-Anyway. At this point in time, it is impossible to forcibly tear Re-Crea away from the outside」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, even with the method the Student Council chose... the odds of saving the world are roughly the same as if you attacked him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The force field Re-Crea generates is powerful, after all. Even landing an attack in the first place is doubtful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if the odds are roughly the same, there is actual precedent of a Demon Lord defeating the host」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even without a track record, if the chances of success are the same, I'll choose the path that saves both the world and Azel」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "Melilot averted her gaze from me."
+  },
+  {
+    "name": "Melilot",
+    "message": "「This Re-Crea is the worst yet. Even as a mere natural phenomenon, it rivals the Re-Crea from the time of the first Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The first Demon Lord's?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is also the first time Demons and angels have joined forces to scheme behind the scenes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that true!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Schemes happen all the time, sure, but angels and demons don't get along, so they never joined hands」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There was even a Demon Lord who was dirt-weak, yet prevented a crisis by making their factions tear each other apart」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「On top of that, the strongest Vessel... the being we call God may truly be intending to destroy the world」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I have one big question」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What could Virus's goal be?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In the past. It would be the ambition that possessed countless mighty demons」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An invasion of Heaven?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There were plenty of fools like that. The stronger a demon is, the more they crave battle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So he needed to trigger Re-Crea...?」"
+  },
+  {
+    "message": "Melilot nodded."
+  },
+  {
+    "name": "Melilot",
+    "message": "「As the most heinous and ruthless warrior, all he desires is battle. That is what it means」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though given that everything will be destroyed, such a grand war could never possibly happen」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's nothing rare in history. Just a pathetic battle maniac dancing to God's tune」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In other words... Virus either doesn't know that Re-Crea means total destruction, or doesn't believe it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I believe that is the case」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Maniacs only ever believe what they want to believe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Is that really true?"
+  },
+  {
+    "message": "Would a man like that come up with an unconventional scheme like joining forces with angels?"
+  },
+  {
+    "message": "Though maybe he's simply throwing all caution to the wind."
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to find out」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Find out... what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「His true intentions」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Like I said, the guy's just a battle maniac」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who confirmed that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...I see. That's just the kind of guy you are, Lord Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If he doesn't know, I think we should tell him.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That Re-Crea means destruction, you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If he finds that out, he might change his mind.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...And what if he already knows?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I want to know why he's trying to trigger Re-Crea. If I don't know, I can't do anything.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not even grant his wish.」"
+  },
+  {
+    "message": "After staring intently at my face, Melilot murmured."
+  },
+  {
+    "name": "Melilot",
+    "message": "「To you, Sakura-kun, Virus is no different from the Demons who come to this world to play around, cause trouble, or end up in a bind.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that weird?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No. You may seem unsuited to be a Demon King, Sakura-kun, yet you are a truly splendid one.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Was that a compliment?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is recorded that even the First Demon King, the greatest Demon King in history, always sought to learn his opponent's wish before fighting, and always avoided any battle that could be avoided.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn's old man was the exact same way.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Dad was...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It may be possible to get in touch with him. I have a lead.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please do.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To be honest, I'm rather reluctant... but it can't be helped.」"
+  }
+]

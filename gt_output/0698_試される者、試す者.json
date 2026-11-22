@@ -1,0 +1,531 @@
+[
+  {
+    "message": "試される者、試す者"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if we're actually getting stronger.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's that all of a sudden?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It just doesn't really feel real to me. Thinking about going into the real thing without a chance to test ourselves makes me a little worried.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why don't you try dueling Misa? She'd gladly take you on.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. That's an option.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, don't take a joke seriously, it'll just cause trouble.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was a joke...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「To begin with, do you honestly think any of us are a match for you, the Demon King?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Didn't Melilot-san say it too? That maybe we're getting stronger together.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if you ask me that, I wouldn't know.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「When you don't know something, I think you should just ask someone who does~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thank you for that utterly reasonable and completely obvious opinion.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So it really has to be Melilot-san, huh.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, Sacchin?! Just now... h-how much of that did you hear?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Right from the part where Nana-chan promised to treat me to cake~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I never said that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the part about me being whatever...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're the Demon King, right~? That's amazing~ Maybe I should get your autograph~\\s05」"
+  },
+  {
+    "message": "I'm lucky to be surrounded by so many people like this."
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone is gathered here together--what is the matter?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, doing special training this early in the morning? How dedicated!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What are you here for yourself, Helena?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, today isn't about special training, it's just...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How much stronger do you think we've gotten compared to before?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What would you do with that information if I told you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well... I thought it might serve as some kind of benchmark...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Strength is something one naturally gauges for oneself」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Isn't he asking precisely because he can't tell?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「An attitude of relying on others for every answer is not a good habit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, fair enough...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If only we could visualize it even a little bit...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Visualize it... like a stronger version of the President...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Of Synn-kun, of Synn-kun...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Scribble, scribble~~ Something like this?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I tried drawing what I was picturing in my head, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I guess you can't really tell from this, huh\\s02」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, this is actually quite a nice drawing!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah! Sis! Don't just grab it without asking!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Ho-ho. He is depicted here in a rather rugged yet gentlemanly, and fiercely courageous manner」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「His features are captured quite well too. However, I feel the toughness and gallantry might be just a tad excessive...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right? Synn-chan is a bit cuter than this, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well, that's...\\s03」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So this is supposed to be Synn\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「From what possible angle does this look like him...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I hate myself for not being able to understand my sister!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, Melphas-san!?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Good day to you, Student Council President. The wintry wind chilled me to the bone and filled me with melancholy, so I inadvertently wandered indoors」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Trespasser spotted!!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Perhaps I was drawn in by a voice reminiscent of a babbling brook」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's this guy even talking about?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「A passion as fierce as flames is the badge of honor for a lovesick maiden」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--!? He really is a suspicious person!!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Please rest assured. I have not broken the law in any way」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right. The library is open to the general public on weekends only. So it's completely fine for him to come in」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh... is that so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. You know how the church is open on Sundays too, right? On Saturdays, people are free to come and go from the library starting in the afternoon」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, I had no idea」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is something you would naturally know if you made good use of the library on a regular basis, you know?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Y-You are...!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, I am currently on duty. Please excuse me」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Please wait, Lady Melilot!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Ah, you have grown so big and beautiful...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「H-How do you know my name...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Presumptuous as it may be, I have had the pleasure of meeting you once before」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, Melilot~ How did a shut-in like you get acquainted with this person~?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-I don't know him!\\s01 I have no idea who he is!\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa~~, this is a first. Seeing Miss Melilot so flustered」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Indeed it is」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「It is only natural that you do not recall. After all, we met in the Demon World, when you were still very small」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「My past...!?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Beloved descendant of Nibe」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wh... How do you know about that...!?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I would very much like to be counted among those relatives myself」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Guh... ugh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-I refuse! Furthermore, if you continue this conversation any further, I'll have you thrown out for obstructing official business!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「That is unfortunate. However, I am sure time will eventually resolve the matter between us」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Enough already!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hey, you」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「My, my. To be addressed by yet another lovely lady--I feel as though I might faint from sheer bliss today」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Never mind all that. So, you know about when Melilot was little, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you tell her, I'll never forgive you!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's not like I'm gonna ask about bed-wetting stories or anything~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You've lived even longer than Melilot... which means you're a demon, aren't you?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Yes. Just as you say」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And I can tell you're packing some serious power, too!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Before love, I am always a powerless man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I'm not mistaken, Sir Melphas is also one of the Seven Demon Generals」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Embarrassing as it is to admit」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, isn't that super convenient!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「This is a great chance to gauge his strength. Go ahead and keep him company for a bit!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Keep company……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's right! You're going to fight until you're battered and bruised! Against these girls--the Crusaders!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「What……!! Courtship would be one thing, but raising a hand against a woman is completely out of the question!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What's that? Are you saying you won't listen to what I tell you--?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Rather than scatter the blossoms of maidenhood by my own hand, I would sooner return to dust」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tch. Then let's do this. A one-on-one duel with Synn-chan! You shouldn't have any complaints with that」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Like I said, against a woman--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm a guy!!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Ah, my apologies. However……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is it, staring at me like that……」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「For a young man, knowing when to back down is also crucial」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You're hardly at an age to be calling someone a 'young man'」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Besides, it appears that you, the Student Council President, are an opponent against whom even Lady Melilot would struggle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh…… i-is that true?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even Melilot-san would struggle……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't tell me, because you knew that……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why you wouldn't tell us!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is not true at all!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now, please keep quiet in the library\\s01」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kuh……. I-If you believe the words of such a suspicious and rude person, you'll end up paying dearly for it\\s09」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, this person…… can look at Ria's paintings and properly appreciate them, you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What does that even matter\\s09」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It means he has a keen eye for discerning true value. After all, Ria's paintings are genuinely acclaimed all over the world」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Winning prizes at prestigious competitions is practically routine for her, you know? To the point where we're running out of space to put all the trophies and certificates.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's only because you keep entering me without asking, Sis!\\s09」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I had no idea... I never knew...」"
+  },
+  {
+    "message": "Ria-senpai really is on a whole different level than I thought..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't worry about it, Synn. No matter what anyone says, I only draw because I love it.\\s01」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It carries far more credibility than a certain someone who has no interest in--excuse me, no eye for--that brilliance--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Very well. If you insist on going that far, allow me to teach you.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The sheer gap in our abilities!!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ４６_EASY"
+  },
+  {
+    "message": "ステージ４６_HARD"
+  },
+  {
+    "message": "ステージ４６_NORMAL"
+  }
+]

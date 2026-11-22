@@ -1,0 +1,269 @@
+[
+  {
+    "message": "いい歌だった"
+  },
+  {
+    "message": "I head toward the church."
+  },
+  {
+    "message": "Since I'm attending Ryuusei Academy and borrowing the power of a guardian angel as part of the Crusaders, I ought to worship every now and then."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah......」"
+  },
+  {
+    "message": "In the center of the empty chapel stood Azel, wearing a serene expression he had never shown everyone."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "T-This is bad. I don't want to disturb Azel while he looks so calm and composed."
+  },
+  {
+    "message": "Doing this here must be his best way to relax. How can I slip out quietly without staring curiously or letting him notice me?"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't make such an openly disgusted face」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, I just came to worship」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for getting in your way, Azel. I'll head right out」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you intend to bow before God, I have no reason to stop you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Life here demands much fortitude, yet the silence of the church is agreeable」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, sure, nobody talks during worship, but......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But what?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My voice is warmed up and ready! Come on, let's get started」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Practicing on your own initiative--truly worthy of you, Sister. I shall strive to follow your admirable example」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are those?」"
+  },
+  {
+    "message": "Looking at Misa and Shio-chan coming over from the entrance, Azel asks with overt weariness."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's Misa and Shio-chan」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, maybe they're going to practice hymns?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Those things are going to sing?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「'Th-Those things,' you say?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me! Please don't refer to people with demonstrative pronouns!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Believe it or not, Misa is the captain of the choir, you know, Azel?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「'Believe it or not'? And what exactly is that supposed to mean?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then, let me hear it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh? W-Well, sure, I don't mind? That is the kind of song it is, after all」"
+  },
+  {
+    "message": "True to the choir's reputation, Misa sings a hymn out loud and clear, with Shio-chan harmonizing alongside her."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel is listening intently, looking completely at ease. That just goes to show how wonderful Misa's singing is."
+  },
+  {
+    "name": "Misa",
+    "message": "「How was that, Azel-san? Oh, and Sakura-kun too, I suppose」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was delicious!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'd rather you not describe it the exact same way you talk about food!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, she truly is quite skilled, is she not?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You bet! You felt that way too, right, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I wouldn't know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Faith is something to be buried deep within one's heart. Therefore, um...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. Elder Sister worked twice as hard as anyone else to earn her position as captain」"
+  },
+  {
+    "name": "Shio",
+    "message": "「And so, she sings of a faith forged through endurance, with poignant and exquisite beauty」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Oh, honestly, Shio」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Something like that is...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nothing more than a frivolous song!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ggaaaahhhhhhhhh!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sister!? Please, stay with me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Move!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, wait!」"
+  },
+  {
+    "message": "Chasing after Azel, who has run off, I dash out of the church."
+  },
+  {
+    "name": "Azel",
+    "message": "「Stay back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go apologize together」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It wasn't bad. Tell that captain I said so.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's something you have to tell them yourself, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Tch.」"
+  },
+  {
+    "message": "Azel didn't answer and walked inside the school building."
+  },
+  {
+    "message": "I do a 180 and head back toward the church. The sooner I explain the situation, the better."
+  },
+  {
+    "message": "I'm only covering for you this once, Azel!!"
+  }
+]

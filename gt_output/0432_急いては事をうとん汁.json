@@ -1,0 +1,242 @@
+[
+  {
+    "message": "急いては事をうとん汁"
+  },
+  {
+    "name": "Synn",
+    "message": "「Only one more day until the exam, huh.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yo, Master Synn, ain't it a little early for the markdown sale?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nope, today I'm splurging and spending a whole hundred yen.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks to last night's study session, my engine's finally warmed up, even if it's a bit late. Now all I need to do is refuel with some quality gas.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...On a hundred yen?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With this much, I can live like a king. Like clearance bean sprouts, or clearance fish scraps, or clearance ground meat, or clearance bananas.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You keep eatin' stuff like that and your engine's gonna misfire, y'know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, I know just the dish for a time like this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa?!」"
+  },
+  {
+    "message": "Lolotte appears out of nowhere and starts tugging me along with surprising force."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, which shop serves 'Utonjiru'? Please tell me♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...? What did you say?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~! As expected of you, Mr. President. To partake of such a precious celebratory dish, one must have a fitting reason, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you simply must know...」"
+  },
+  {
+    "message": "I didn't even ask, though... Maybe she just wants someone to talk to?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a little embarrassing, but just for you, I'll make a confession.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A confession?! Ba-dump, ba-dump!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The truth is, I...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For a little while now, I've been having a fight with a friend who has absolutely no connection to you whatsoever, Mr. President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She was being so stubborn and wouldn't listen to a word I said...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But the one who was really being hard-headed and failing to understand her friend was actually me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After a lot happened, she and I finally made up. And it's all thanks to everyone on the Student Council and Jeeves♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Riesling-san aside, I didn't really do anything, you know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Being in the Crusaders teaches me so much. Thank you very much.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... You're welcome.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, this is where 'uton-jiru' makes its grand entrance!!」"
+  },
+  {
+    "message": "W-Why!?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You think so too, don't you, President? Then let us go slurp up some 'uton-jiru' together to commemorate making up♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What kind of food is that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is completely unknown! Therefore, there is no doubt that it is a legendary delicious dish!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I had my eye on the Treasurer's family place, thinking they might have it, but they didn't sell it...」"
+  },
+  {
+    "message": "Well, of course it wouldn't be on the menu."
+  },
+  {
+    "message": "More importantly, damn it, Nanaka--you didn't correct Lolotte just because it was too much trouble, did you?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In my imagination, it's a soup with a sweet-and-savory Japanese dashi broth, a sharp kick of sansho pepper, and thickened with potato starch.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「On top of that, I imagine it has noodles similar to soba, yet with a crisp, fibrous bite, piled high with plenty of chicken toppings.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That actually sounds delicious...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Synn-sama, get a hold of yourself!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!? N―No, wait... Listen closely, Lolotte, okay? To 'shun'―」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hmph.」"
+  },
+  {
+    "message": "Leaping gracefully from the window of a nearby shop, Riesling-san lands right in front of Lolotte."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Leave the charging of Milady's cellphone to this butler, Riesling Toyama.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You have a call from Amyrina-sama.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you kindly, Jiiya.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hello, yes?」"
+  },
+  {
+    "message": "Lolotte looks flustered. I can't make out the words coming from the other end of the phone, but from the faint tone of voice leaking through, I can tell it's a girl."
+  },
+  {
+    "message": "Is this girl named Amyrina a friend of hers?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Save the celebratory make-up dinner until after exams are over? I've prepared reference books and practice problems, so come back and study'?」"
+  },
+  {
+    "message": "S-She's a friend who really cares about Lolotte!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why are you being so mean to me!? That's it, we're done! Our friendship is over!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you not to hang up the phone!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-Where am I supposed to vent this pent-up anger? Rumble, rumble, rumble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just take it out on studying for your tests」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Lolotte, could you take me to your mansion? That way, we can look into 'Uton Soup'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Does the Rosenkreuz family hold the key to unlocking the secret?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, or rather, it'll become clear once we study modern Japanese」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Understood. Let us go. And then I shall brag all about it to that heartless Amyrina. Exciting, exciting」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The car is ready. This way, please」"
+  },
+  {
+    "message": "In the end, I wound up helping Lolotte make up for the second time and study for her tests."
+  },
+  {
+    "message": "Even though we're in different grades, it's a good opportunity to review the basics."
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "message": "ガンスでゴンス"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "In the morning, standing under the eaves of Yuugiri-an, my shoulders slump."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no, it's not like we had plans or anything... Sorry for dropping by unannounced.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll head on ahead, then. Tell Nanaka I said hi.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's been a while since I walked to school alone.」"
+  },
+  {
+    "message": "I pass through Shiokumi Shopping District and head onto the route to school. I'm running a bit later than usual today."
+  },
+  {
+    "message": "This morning, Nanaka didn't come to my room."
+  },
+  {
+    "message": "Still, worried about how things went with Misa, I couldn't wait around and went all the way to Yuugiri-an to pick her up."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank goodness you're okay. I was worried you might've gotten hurt on the way over.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wouldn't that have been better than this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not true.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「From the looks of things, Soba didn't pull it off.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "message": "She overslept and just jumped out of bed. She wants me to go on ahead without worrying about her. That's what her old man told me."
+  },
+  {
+    "message": "I didn't see Nanaka herself. Strangely enough, I didn't sense any frantic rushing coming from her room on the second floor either."
+  },
+  {
+    "message": "I tried to wait until Nanaka finished getting ready, only for her dad to start worrying about me being late instead."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Are you really okay with this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If she says to go on ahead, I'll trust Nanaka and do just that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I'd stayed there waiting, I would've made her dad worry unnecessarily--thinking something might've happened between Nanaka and me.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Something practically did happen, didn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, about Misa--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not that. Before trusting Soba, Your Majesty the Demon Lord ought to trust yourself first.」"
+  },
+  {
+    "message": "Paqy doesn't say another word after that, and perhaps thanks to it, my pace quickens."
+  },
+  {
+    "name": "Ria",
+    "message": "「...Y-You two...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawawa. Whatever is going on here?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why can't you scrape together the budget to allocate to the drama club?! Do your job as treasurer properly!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I already admitted my mistake, didn't I?! How long are you gonna keep nitpicking and picking a fight with me?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm telling you to fulfill your bare minimum responsibility. Redo the budget allocations for every single club and society participating in the Holy Night Festival」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We don't gotta go that far! You seriously think we'll make it in time for Christmas if we start a retake right now!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This only happened because you handed out funds so recklessly, Nanaka!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're the one who's narrow-minded and arrogant, Misa! Do something about that thick skull of yours」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All you ever think about is playing it safe. That's not our 'real deal' at all. If you can't make the big calls, then just quit being Vice President already」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What did you just say--!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's going too far, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No it's not!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Instead of trusting everyone to handle things on their own, you can't stand it unless you butt in and boss them around on everything. Doesn't that just mean you don't trust a single person!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Running the Holy Night Festival like that won't be any fun at all. Fact is, working as Treasurer under you, I don't feel any joy in being part of the Student Council」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're the one trying to please everyone, Nanaka! All you do is watch everyone's expressions so you won't be disliked!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's why people took advantage of your softness and the budget is on the verge of collapse, isn't it!? You completely lack the sense of responsibility required of someone in a leadership position」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you don't have the courage to play the bad guy, you should hand the Treasurer's seat over to someone else!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey……! That's going too far, Misa」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, stop it, both of you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, Nanaka! What good does it do tearing each other apart when we're fellow members of the Student Council!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right! If you keep acting like this, there's no way the Holy Night Festival will go well!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What on earth happened? Try talking to me about it, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, that is……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh, well……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, Nanaka……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see. Understood. So it's something you can't even tell me, your advisor.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Onee-sama...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's all for today's Student Council. I think both of you should cool your heads a bit.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...I'm going home!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph, I'm going home too!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They both left. Come on, we're going after them, Synn-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes! Huh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Vice President and the Treasurer split off cleanly to the left and right, didn't they?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, listen closely.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Both Misa-chan and Nanaka-chan are dutiful, so there's no way they'd talk while the Student Council is in session.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「However, if they start ignoring each other, things will become irreparable!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, please take care of Misa-chan. I'll go after Nanaka-chan!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!?」"
+  },
+  {
+    "message": "I catch up right away. Misa is leaning against the wall, trembling, having stopped walking."
+  },
+  {
+    "name": "Synn",
+    "message": "「I got lucky--usually I can't catch up to you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Why did you come after me... You should be chasing after Nanaka-san!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, I--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't come any closer! If you take even one more step toward me, I... I'll hate you, Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Then...」"
+  },
+  {
+    "message": "Then how do you feel about me right now?"
+  },
+  {
+    "message": "I want to ask that, but I can't. Repairing the relationship between Misa and Nanaka takes top priority over me."
+  },
+  {
+    "name": "Misa",
+    "message": "「Hurry up, turn right around and go to Nanaka-san!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why can't you understand something even this simple, Sakura-kun!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Who do you think it's thanks to that we're even able to talk like this now, when things used to be so awkward between us?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm... fine now, okay... Just leave me alone...!」"
+  },
+  {
+    "message": "Still leaning against the wall, Misa staggers awkwardly toward the stairs as if struggling just to move."
+  },
+  {
+    "message": "All I could do was stand rooted right where I was."
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sorry, Synn-kun. I couldn't get Nanaka-chan to talk to me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'll figure something out for the two of them. It's my responsibility to fix this.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yes, hellooo」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hello, Sacchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa, you sound pretty serious. Did something happen?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, well, the thing is--」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「--and that's how it ended up. I talked all big in front of Synn, and it totally backfired on me...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh... How did things turn out like this?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nooo idea~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin, come on...!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, it's between a guy and a girl who like each other, right? As an outsider, I'm just gonna kick back and enjoy the show~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-You're acting like it's none of your business!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehehe, well, come on--you wouldn't actually be happy if I took your side, right, Nana-chan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aaaand if I took the vice president's side, you wouldn't be happy about that either... Right? Am I right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...I'm sure blessed with a great best friend.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But Misa...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know how Misa always puts her guard up a little around everyone, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Which means... she probably doesn't have a friend like you, Sacchin, does she?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Thinking about your love rival again--just how good-natured can you get?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Is there something wrong with being too nice?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nope, nothing's wrong with that. What's bad is how you hate that part of yourself, Nana-chan」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So please, learn to love them. Both yourself and the vice president」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Got it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks, Sacchin. For listening to all my stuff. Think I'll actually be able to sleep tonight thanks to you」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehehe, what are besties like us for, Nana-chan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, night. Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Goodnight, Nana-chan」"
+  }
+]

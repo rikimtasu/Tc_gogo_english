@@ -1,0 +1,421 @@
+[
+  {
+    "message": "酌み取り合戦"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Heya, Synn-kun~~」"
+  },
+  {
+    "message": "While I was checking that everything was completely packed up, Sacchin called out to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, hey. The Sweets Club did a cake buffet, right? Did you guys finish cleaning up properly?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Forget about that--Azel-chan didn't show up today either, you know~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「F-Forget about that...? Hmm, I wonder if Azel is sick? Should we go visit her?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're way too nice for your own good, boss~ She's totally skipping class, y'know~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She's a delinquent~, a delinquent~ I wish I had the courage to skip class too~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not what you call courage」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I wish I had the recklessness to skip class too~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, you just phrased it differently」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, it's Helena\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Azel-chan, Azel-chan, report to the chairwoman's office at once. That is an order~♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Honyara~!? Oh no, she's being summoned by High Command~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa... She's definitely gonna get scolded about her attendance days. I have to go help Azel!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「See ya~, bye-by~e」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me for not knocking. Helena―san, um―」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, Synn-chan\\s04 I figured you'd show up soon.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That concludes the explanation of this board game. Did you understand the rules?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Understood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Melilot-san was also in the chairwoman's office, and on the table sat a complex sugoroku-like board and a small roulette wheel."
+  },
+  {
+    "name": "Helena",
+    "message": "「Normally, the punishment assignment for an unexcused absence is cleaning this room...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hahaha. But this time, you're gonna play a game with me, alright?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I said I accept.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you defeat Helena, any future absences will be treated as excused, even if you take every day off.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh... Whaaat!?」"
+  },
+  {
+    "message": "Aren't those extraordinarily generous terms? ...In short, does that mean Azel has almost zero chance of winning?"
+  },
+  {
+    "message": "Why would Helena-san do something like this?"
+  },
+  {
+    "name": "Azel",
+    "message": "「What did you come here for?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wanted to help you out, Azel. We're classmates, after all.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, why not? Azel-chan needs a reliable strategist, you know~?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Just as the Chairwoman has that librarian?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe, that's precisely right.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then... ta-daaa! Let the battle begin♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Wait a second, please!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No, I shan't wait!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... I'll read through the rulebook right away!」"
+  },
+  {
+    "message": "I pick up the booklet sitting beside the roulette wheel and skim through it."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll help out too, okay, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph, do as you please.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, basically it's a territory-conquering game.」"
+  },
+  {
+    "message": "In practice, it's quite an advanced game. Players split into three factions--Country A, Country B, and Country C--and aim for world domination."
+  },
+  {
+    "message": "Helena-san vs. Melilot-san vs. Azel and me."
+  },
+  {
+    "message": "Surprisingly, there is extremely little written explanation."
+  },
+  {
+    "message": "Instead, it's packed with visually intuitive diagrams, illustrations, and monochrome photographs of real-world scenery that likely served as the inspiration for the setting."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel stretches up on tiptoe to peek into the manual I'm holding open. Could it be he doesn't actually understand the rules?"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hehe.」"
+  },
+  {
+    "message": "Huh? Is he looking at the photos?"
+  },
+  {
+    "name": "Azel",
+    "message": "「Every single photograph is so peaceful. How delightful...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What colors are these countries in reality? Do you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unfortunately, I cannot tell. There are two types of black-and-white photographic film: one where yellow develops as black, and one where it develops as white.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see, so you don't know...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel, the game has already begun. Please concentrate.」"
+  },
+  {
+    "message": "Melilot spins the roulette and advances her piece by the number rolled."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Rather than gazing at the scenes in the manual, please look at the board. And not only that, look at this world as well.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As long as you keep your eyes open, the sights will come pouring right in.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They are open. All sorts of things are coming into view. Everything I never paid attention to before.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's wonderful. It must be trying to teach you something, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's certainly suggesting something. But I can't quite grasp what it is.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if you do not understand, you need only not forget. As long as you do not forget, you will surely become it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...? Become what?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, we don't know either, so don't ask!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right.」"
+  },
+  {
+    "message": "What a weird conversation, I can't focus..."
+  },
+  {
+    "name": "Synn",
+    "message": "「In this game, do you win by capturing the opposing country's king?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No. As long as something exists to take the place of the king or the royal capital, the battle will never end.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Realistic, isn't it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If there is no end, the world will endure, and though it will be in the far, distant future, humanity will eventually surpass the angels.」"
+  },
+  {
+    "message": "Didn't that suddenly stop being realistic...?"
+  },
+  {
+    "name": "Azel",
+    "message": "「Humans do nothing but fight.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, what a gloomy way to put it. You're making the Chairwoman sad, you know?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I won't deny what you said, Azel, but the driving force that has changed the human world is a wonderfully energetic optimism that says, 'where there's a will, there's a way.'」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Foolish.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that so? Why not try turning your spirit of denial into a spirit of affirmation and look at things that way?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is nothing more than sentimentality. Do not mistake such a thing for dogma.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee, rather than spitting at the heavens, I would much rather dream.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not interested.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Ummm...」"
+  },
+  {
+    "message": "I'm in trouble. I don't get it."
+  },
+  {
+    "message": "A conversation is somehow happening between Azel, Helena-san, and Melilot-san, yet I can't keep up at all."
+  },
+  {
+    "name": "Helena",
+    "message": "「Then be intoxicated, child of heaven. For now, simply be intoxicated, until your desires seep through you to your heart's content.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nonsense. I don't see the necessity in doing so without weighing right and wrong.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That being said, allowing whimsical illusions to force sacrifices upon others also goes against reason, wouldn't you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hrmm, hrmm, hrmm.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah!? Oh... Could it be that Melilot-san is the type of person who throws her opponent off with a shamisen during a match?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe, that would be Helena.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「How mean! If anything, rather than a shamisen, I'm the type who prefers plucking at girls' boobs~」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wha...! Y―You wouldn't―」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And a-one, and a-two~♪ Squeeze, squeeze, squeeze, squeeze, squeeze, squeeze!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Where do you think you're touching?! Please stop!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A-Ahn... ngh, doing something like this right in front of a student...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I don't know where to look...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Pointless.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, meaning is something you find with your own strength.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Azel-chan, you've been sneaking around in the middle of the night, haven't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You were a delinquent!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Even on academy grounds, a night road is the road to the underworld, you know? If you aren't careful, you'll end up in a situation just like this~♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「U-Uuu~... ngh, can you not give advice in a more decent manner?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Understood.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Very well! Now, let's continue our match.」"
+  },
+  {
+    "message": "...Despite my support, Azel suffered a crushing defeat. Helena-san isn't the type of person to throw a match on purpose."
+  },
+  {
+    "message": "Taking into account that he's an exchange student and comes from a country with different customs, his absences up until now would be wiped clean. In return, he must attend school properly starting tomorrow."
+  },
+  {
+    "message": "As a chairwoman who looks out for her students, it was a ruling brimming with leniency."
+  },
+  {
+    "message": "And I'm the witness... Starting tomorrow, I've really got to keep a closer eye on Azel!"
+  }
+]

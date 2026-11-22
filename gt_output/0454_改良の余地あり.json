@@ -1,0 +1,185 @@
+[
+  {
+    "message": "改良の余地あり"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry to drag you along, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't mind at all. If it's related to the Crusaders, I want to see it too」"
+  },
+  {
+    "message": "After school, Ria-senpai invited me out, and we came down to the wharf."
+  },
+  {
+    "name": "Ria",
+    "message": "「My big sister built a mothership for us」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean like a mobile base from a kids' sentai hero show?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Uh, umm... She told me to wait here, so I think it's just a normal cruiser, though...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Knowing my big sister, right? Today, you're my knight, Synn-kun\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes, I'll do my best」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm jealous. I'm strictly the Great Sage... It's gotta be Sir Synn as the knight, y'know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Something's coming from across the sea...」"
+  },
+  {
+    "message": "A pink dot appears on the horizon."
+  },
+  {
+    "message": "Kicking up a spray of water, the dot rapidly expands into a familiar shape... that of Tontoro, though on a completely different scale."
+  },
+  {
+    "message": "Its underbelly somewhat resembles a hovercraft, and the roar of high-speed propellers can be heard, so it seems to obey the laws of physics, at least on paper."
+  },
+  {
+    "name": "Ria",
+    "message": "「Aha, ahahaha... That's gotta be it, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, that's some insane tech, but isn't its movement looking kinda sketchy?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it can't seem to kill its momentum and looks like it's wobbling」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-Is my sister going to be okay?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaa!? It ran aground」"
+  },
+  {
+    "message": "Tilting slightly to one side, the giant Tontoro runs up onto the jetty and comes to a complete stop."
+  },
+  {
+    "message": "Almost at the same time, its mouth opens, and Helena-san and Riesling-san step out from inside."
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, it's your mischievous Chairwoman Helena\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big sister, you're going way too wild!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am humbled」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nobody was complimenting you, y'know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Synn-kun? Don't tell me you actually want to ride it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B―But I've never seen a hovercraft before, so I just―」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No, it is not a hovercraft, it is an Ojoucraft. Please do not mistake the two」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, Synn-chan. I understand your excitement, but it's off-limits. Today is just the unveiling」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「We managed to dock somehow, yet there are issues with the braking, rendering it unfit for delivery」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The noise is also severe, making it unsuitable for covert operations... There is an abundance of room for improvement」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, Tamiko-chan. You don't have to say it so bluntly, you know」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, we're going to keep researching. With the Kujou and Rosenkreuz families forming a technical alliance, nothing is impossible」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Yes. By utilizing its near-zero coefficient of friction, taking off with an extremely short runway in the future is no mere dream」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An all-purpose Tontoro for land, sea, and air?! T-That's amazing!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Synn-kun, your eyes are starting to look just like Lolotte-chan's?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Excuse me, a phone call from the Master...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hello, this is the young lady's butler, Riesling Tooyama, speaking」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Fried rice vermicelli? I shall hasten there at once」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Helena. Urgent official business has arisen, so I shall take my leave here」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tamiko-chan, bye-bye♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then, since the unveiling ceremony is over, let's go have some tea」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis... is it really okay to just leave the big Tontoro-chan here like this?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The young guys from the Second-Generation Takahashi Group are coming to pick it up, so no need to worry about that! Come on, you two, I'll show you a great place」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...? 'Young guys'?」"
+  },
+  {
+    "message": "Led along by Helena-san, Ria-senpai and I drank Japanese tea at a strange restaurant."
+  },
+  {
+    "message": "When we stopped by Tsukinowo Park on the way home, the Ojoucraft had vanished without a trace."
+  }
+]

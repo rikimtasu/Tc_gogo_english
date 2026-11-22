@@ -1,0 +1,710 @@
+[
+  {
+    "message": "サリーちゃんの逆襲"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, this is the Ryuusei Student Council. Amakawa Dairy, thank you as always for your business. Milk, you say? You'll need electrical wiring for a refrigerator, understood.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Treasurer-san. They say they'd like to know how the delivery route is set up.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If it's the vendors handling each booth, hand trucks are fine. If they don't have enough, we'll go help.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This shop goes in this section, and this shop uses open flames, so it goes over here...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here, have some tea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah. Thank you very much. *Sip*... Haa, delicious!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now then, just one more push, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Let's push through and finish it up--is what I'd like to say, however...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「President! I really don't think this is a workload we can finish today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmm... Yeah, that's true.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wonder if we should do some work tomorrow as well.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No can do~\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You say that, Senpai-san, but time passes far too quickly in the Human World! We simply lack the time!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Getting proper rest is part of the job too. If you push yourself too hard and collapse, who's going to take your place?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ask Sacchin... nah, impossible.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai is right. We have no choice but to do everything we possibly can today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's give it our all until the time limit.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Good work, everyone. They're going to lock the school gates soon, you know.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A time bomb without a fuse!」"
+  },
+  {
+    "message": "They all slump their heads in defeat at once, yet not a single one of them makes a move to pack up their things."
+  },
+  {
+    "name": "Helena",
+    "message": "「Come on, head home already. It'll be a huge problem if the Student Council officers get caught by security.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You can still do Student Council activities even if you're not in the Student Council room, can't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Besides, if you're taking tomorrow off anyway, pushing yourself for just one night wouldn't hurt, right? The night is still young, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see. You're right! Then--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In that case, I know just the place. Right, boss!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Ah! Yeah! That's right, yeah」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, too bad. You beat me to it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, it's good you didn't say it. Because I definitely think that place is the absolute best」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright! Let's all head over to my place right now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A-A-A sleepover--hiiih!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Your voice is cracking--what are you getting all chicken about now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's bad. Having girls stay overnight and all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Making them go home late at night is way more dangerous!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But boys and girls our age under the same roof!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph. Even though you never say a word when I stay over\\s09」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, my heart is pounding...\\s03 I have to make sure nobody notices how I'm feeling」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Fidgeting around like that is creepy」"
+  },
+  {
+    "message": "I couldn't take it anymore."
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing, I just felt a chill」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, zip up your front and keep warm」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Thanks」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sorry to keep you waiting~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Haa... haa... sorry to keep you waiting~♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san, and even Senpai. You're both in an awfully good mood」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because it's a sleepover, a sleepover!! It's her very first time staying overnight anywhere other than her own home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hoho~. Just as expected of a young lady」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-th-that's right! Got it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even today, she was only granted special permission because her butler is accompanying her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Riesling-san?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please, by all means――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Take good care of the young lady」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yes, sir」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Excuse me, then」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh. He wandered off somewhere. Is it really okay for her bodyguard to leave?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「He's just being considerate, I'm sure」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And what about the other young lady――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「C-could you mean me……?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you going to be okay, Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Of course, I am the oldest sister, after all. I've gotta be a pro~per guardian for everyone♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just as expected of you, big sister……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem!」"
+  },
+  {
+    "message": "Ria-senpai puffs out her chest proudly. Is it just my imagination, or does the guardian look more excited than anyone else?"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you try anything perverted with my Ria, I won't forgive you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeek!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez! I'm not a kid anymore, you know!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm worried precisely because you're not a kid anymore~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It'll be fine, I tell you. After all, I'm right here with her!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Am I really that untrustworthy?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't they say that boys are beasts in human skin?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, though I doubt Sakura-kun has that kind of nerve」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-M-M... I-I can do it too... when it counts!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not what you should be trying to prove!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now then, this is no time to be playing around. Let's hurry up and finish our shopping」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Around this time of day, they have flash sales, so it's a great deal」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh-ho~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is that so~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah. Is this that age where even a falling chopstick makes them giggle?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san. Haven't you started sounding a bit like Lolotte-san?」"
+  },
+  {
+    "message": "Hm? Something's noisy over there."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oh, perfect timing, Student Council」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Auntie Shinagawa. Are you closing up shop for the day already?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Listen to this. Apparently, a dine-and-dash incident is about to go down at the gyudon place. A clear and present danger, right here and now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha, seriously!? We gotta go check it out!!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Hey, Nanaka-chan! I won't let you leave me behind and get a head start!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Those two are as nosy as ever~」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oh, hush, you. Call me a seeker of truth」"
+  },
+  {
+    "message": "Auntie Shinagawa ran off after Nanaka as well."
+  },
+  {
+    "name": "Misa",
+    "message": "「Gyudon, dine-and-dash... Something about that rings a bell」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I feel like we recently met someone who said those exact words quite often」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I wanna eat gyudon!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If I recall, the one saying that was Sally-chan, wasn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!! No, no way. Sally-chan wouldn't dine and dash anymore」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But I think the connection is way too strong」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She eats delicious curry at my house every single day, you know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Curry!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If it's curry, she ought to be completely satisfied」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why's that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because it's delicious--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, what are you making me say!\\s03」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She definitely got tired of that curry and gave in to a moment of weakness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I believe in Sally... or rather, I want to believe in her」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Otherwise, all that curry you fed her was a total waste.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't think everything's gonna go the way you want!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I wanna eat curry~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Me too--wait, this isn't the time for that, is it!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Anyway, we can't just leave her alone. Let's go, everyone.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, Prez!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sally...」"
+  },
+  {
+    "message": "A shock hits me on par with being tricked into thinking tobiko was salmon roe."
+  },
+  {
+    "name": "Sally",
+    "message": "「I was hungry, so I figured I'd go do the grocery shopping for you, y'know~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... *shiver, shiver*」"
+  },
+  {
+    "name": "Sally",
+    "message": "「But I didn't have any money!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Still, you'll give me credit for the thought of trying to go shopping, right?! So hurry up and make some yummy food today too, pleeeeease!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... so that's what happened...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ufufunofu~ Today's work is officially all done~~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haaaaah...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's a relief, Synn-kun\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you believed in me, you wouldn't be looking so relieved, would you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really are a worrywart, President」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, if that's the case, I wonder who the culprit is」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn-Synn-Shiiin! Big trouble, huuuge trouble!!」"
+  },
+  {
+    "message": "Heading over to the beef bowl shop with Sally―chan in tow, what awaited us there\\nwas―."
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-This is...」"
+  },
+  {
+    "message": "Just from one look."
+  },
+  {
+    "message": "He was impossibly, unmistakably oozing with demon aura!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, you! What's the big idea wining and dining when you ain't even got any money!!」"
+  },
+  {
+    "message": "Not flinching in the slightest against someone like that--truly befitting the shopping district's idol."
+  },
+  {
+    "name": "Demon",
+    "message": "「Me, still, hungry. Extra-large, feed me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Can't you see the manager's in a bind here!? Hurry up and let yourself get tied up already!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, what's going on here?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, this big lug went and ordered a beef bowl, only to have no wallet and no cash, so it's a total mess」"
+  },
+  {
+    "name": "Demon",
+    "message": "「Extra-large, feed me more」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And yet he's acting all high and mighty like this. Don't you dare look down on us just 'cause we're in the service industry!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Honestly, I think he was way too suspicious the moment he walked into the shop...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You can't judge a book by its cover, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. That doesn't work as a defense」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Boss!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!? Boss!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, Boss!! Why are you eating a beef bowl?!\\s09」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, give him a piece of your mind!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Not fair, not fair, not fair!! I wanna eaaaat too!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is hopeless...」"
+  },
+  {
+    "name": "Boss / Oyabin",
+    "message": "「Student Council, beat up」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Boss / Oyabin",
+    "message": "「Payback, counterattack, beat up」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah, ahhhhh~~~~!! That's right, I totally forgot!! You're right, Boss. These guys are that rotten Student Council!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat!? After how friendly we were just getting!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's that, and this is this! Time to settle the score from back then!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so comes the betrayal~♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Tsk, tsk, tsk. Watch how you phrase things, Roro-chi. I'm grateful you treated me to a meal, sure, but that's a completely separate matter!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Easy, easy--just calm down first, Sally-chan」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oops, my bad. Anyway, hurry up, Boss!」"
+  },
+  {
+    "name": "Boss / Oyabin",
+    "message": "「Wait. Beef bowl, eat」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Come on, Boss, you can't eat that! We don't have any money~. Jeez, forget about food, we've gotta beat up the Student Council!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She understood what I said, yet she's still completely raring for a fight...\\s02」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmph, scared stiff, huh? Listen up--Boss is so strong, people call her one of the Seven Demon Generals~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Seven lemon genitals?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sev... One of the Seven Demon Generals...!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Senpai, you know what that is?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Yeah. I've heard about them from my big sister. Rumor has it they're demons whose power is second only to the Demon King's...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-The Demon King!?　"
+  },
+  {
+    "name": "Misa",
+    "message": "If they're the ruler of all demons... they must possess... incredible power...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, I see! If she's only second to the Demon King, we'll be fine--right, Lord Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Flinch*」"
+  },
+  {
+    "message": "However, he looks even stronger than any Demon we've faced so far... and by extension, stronger than Sally-chan, too."
+  },
+  {
+    "message": "More than anything, he's huge. So HUGE that it makes me straighten my back and put on a brave front. What an overwhelming presence!"
+  },
+  {
+    "message": "In terms of mammals, he's like a whale. Canned ones aren't half bad, either."
+  },
+  {
+    "name": "Sally",
+    "message": "「Of course, I'm gonna fight too\\s07」"
+  },
+  {
+    "message": "I-I've got a feeling this is gonna be a tough opponent...!"
+  },
+  {
+    "message": "View the battle tutorial \"Attacking with EX Attacks\"?"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ１３_EASY"
+  },
+  {
+    "message": "ステージ１３_HARD"
+  },
+  {
+    "message": "ステージ１３_NORMAL"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "message": "守るべき世界"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fwaaaah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihaha, what a huge yawn. You look totally goofy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aren't you just tired from all the patrolling?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My sleep schedule hasn't really changed, so I'm fine on that front」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then you're probably tired from preparing for the Holy Night Festival」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, maybe so」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, speaking of patrols」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「The whole time we're making our rounds, don't you feel like someone's watching us?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Watching us...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Could it be that Demon General we heard about, waiting for a chance to ambush us?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If that were the case, we'd have lost two or three of our guys by now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't say scary stuff like that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm... If it's just my imagination, then that's fine, I guess...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, let's keep a closer eye out from now on」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Got it, roger that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Oh, hey Azel. You actually showed up today」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That doesn't matter」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I think it kinda does matter」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What have you lot been sniffing around for lately?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what are you talking about?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You roam the academy grounds in large numbers at night」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, we're on patrol」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You could say it's a Student Council volunteer thing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Volunteer...? Ridiculous」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, how do you know about that, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It was a coincidence... I merely heard rumors」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, really」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you do such a thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, because we want to protect everyone's safety. Plus, we got permission from Helena too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Protect, you say...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yep. The world's a dangerous place, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And what exactly are you protecting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh, well, I think there's a lot of things...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Can you not put it into words」"
+  },
+  {
+    "name": "Synn",
+    "message": "「P-Peace, happiness, stuff like that...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Far too abstract」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Specifically... hmmm...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hmph. How absurd」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In this world, there is nothing worth protecting」"
+  },
+  {
+    "name": "Azel",
+    "message": "「To me, this world means nothing at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone has something precious to them, so isn't it only natural to want to protect it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even you have something you want to protect, don't you, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...There isn't」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, that's not true」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There isn't」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In this world, anything precious to me is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What you people are doing is pointless」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pull out immediately」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if you tell me that...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up. Anyway, I've warned you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't do anything unnecessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, hey, Azel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Skipping out again, huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up, Synn」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You've got a pretty serious look on your face~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A little bit, yeah. I was just wondering if Azel gets lonely being by herself all the time」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun, are you aiming for Azel-chan too~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaat?! You're still pulling that same crap?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just worried she doesn't have any friends」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan~, wanna try wrapping some sarashi around your chest~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's not like I need that...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「L-Later, in secret...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Okay♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--And that's what happened」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Azel is that mysterious-seeming person, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's right」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Shouldn't you be the one to become friends with her, big brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not that simple, you know」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, she does seem super tough to crack」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about you, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Me?! Even though you couldn't do it, big brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It might be easier to talk girl-to-girl, you know」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mmm...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Good point! Maybe I'll try making friends with her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, that's my Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Having someone left out would ruin our sparkling school life, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You read me like a book」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi! Leave it to me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm counting on you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yep, count on me!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We're friends starting today, right?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nonsense. Go home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「She's a tough nut to crack!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So even Macaron can't breach that fortress, huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, it's not decided yet that we can't become friends」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「No matter how tough she acts, being all alone has gotta be lonely」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We can just become better friends little by little from now on, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's right」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, it really did feel strange, though……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not human, not a demon, and not an angel--just a weird aura……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What on earth could it be……」"
+  }
+]

@@ -1,0 +1,728 @@
+[
+  {
+    "message": "代行者"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, you mustn't let your guard down just because you've finished attacking!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, ma'am!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please pay attention to all directions!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, ma'am!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you expect your opponent to wait for you, you'll pay a painful price!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, ma'am!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Those two are really going at it again today, huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Though, they look like they're having fun somehow」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You think so...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Niheaa, I'm hungry...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I can't move anymore~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uwaaahn! I wanna eat sweets~\\s06」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha, and we're totally beat over here\\s02」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, shall we wrap things up soon...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I can still keep going!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then... I won't hold back!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're gonna head back first, okay~」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The Demon Lord...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「He seems to have grown stronger than I expected...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「He's like a completely different person from when he was in the Demon World...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「...Heh」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Still, right now, taking his back would be effortless...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even the Witch of Nibe looks somewhat worn out, after all」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Sorry, but right here, right now......」"
+  },
+  {
+    "name": "Virus",
+    "message": "「A surprise attack? Hardly admirable」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Tch!?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「If you too are one who seeks power, why not face each other fair and square」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Virus......」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Would you mind not lumping me in with a brute like you」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph...... If you're not inclined, then so be it」"
+  },
+  {
+    "name": "Virus",
+    "message": "「However, the Demon Lord is my opponent」"
+  },
+  {
+    "name": "Virus",
+    "message": "「See that you remember that much」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Opponent......?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Fufu...... How foolish of you」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「If you two tear each other apart, that suits me just fine」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「So long as the Demon Lord is disposed of, nothing else matters」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Then you have miscalculated」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I will defeat the Demon Lord. However, now is not yet the time」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You truly are incomprehensible......」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Still, whatever plans you two have are of no concern to me」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「After all...... everything is going to vanish into nothingness anyway!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph......!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「So you intend to stand in my way to the very end」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That goes both ways, doesn't it?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I'll erase you first!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "message": "Just now, for a split second, did massive powers just clash nearby......?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um, well...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...So you felt it too, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just now, I sensed a massive release of magical power.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It doesn't seem to be very far... though I can't pinpoint the exact location.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...It looks like it was only for a split second just now, though.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. However, there is no doubt they are a considerable wielder.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be Virus again...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Testing you like before, Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's not unthinkable, but if that's the case, there's no need to rise to such provocation.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Either way, he likely wouldn't challenge us to a match at this stage.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, if it wasn't Virus...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For example, Soltia, perhaps...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If it were, there's no reason they wouldn't have ambushed us just a moment ago.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And I can't feel anything anymore now...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For the time being, it's safe to assume there's no immediate danger.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just to be safe, though, it would be best to wrap up our special training here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "message": "If Melilot-san says so, it probably isn't an urgent situation."
+  },
+  {
+    "message": "Still, it would be a lie to say that the sensation from just now doesn't bother me at all."
+  },
+  {
+    "message": "If I just let a threat roam free and it causes trouble later, I won't be the only one who suffers."
+  },
+  {
+    "name": "Synn",
+    "message": "「U... Um, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shouldn't we at least do a patrol around town, just in case?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What just happened is still bothering me, after all...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I see.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're right. If that's the case, we have no choice.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Shall we get going, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "message": "Besides, I want to spend a little more time alone with Melilot-san..."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Ngh...!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Tch!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「What's the matter? Your aim is sloppy!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Shut up...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I thought you'd have a bit more backbone... Is this all you've got?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Keep barking...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I have absolute protection...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The unwavering protection of a god...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「A god, you say...?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph... Clinging to such an uncertain existence is laughable」"
+  },
+  {
+    "name": "Virus",
+    "message": "「The only thing you can trust in this world is your own strength」"
+  },
+  {
+    "name": "Virus",
+    "message": "「There is no victory for someone who has forgotten that」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Victory...?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Fufufu... Ahahaha!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Victory to me is the fulfillment of Re-Crea and rebirth into a new world!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「My ideals are on a completely different level from a petty existence like you!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「What is this, at a time like this......」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Ngh!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「This power is......!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Heh heh heh......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Art thou the one who mocks the Lord?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「What is this...... This overwhelming power......」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「This is none other than the ultimate vessel graced by God's favor......」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The true form of the one who acts as proxy for Re-Crea!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Unbelievable......」"
+  },
+  {
+    "name": "Virus",
+    "message": "「This latent potential, surpassing even me and the Demon Lord......」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Are you telling me this is the power of God...... of Re-Crea......!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Begone. O truly foolish one.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The Lord's will shall not be hindered by any being.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Though this power has yet to reach its zenith, its energy is far too immense......」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even someone like you must realize it, no? That there is nothing you can do anymore.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Your power alone amounts to little more than this, after all!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「......Hmph」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hm......?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Haha...... Hahaha!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Interesting, how interesting, Re-Crea!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Interesting, you say......?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「To think there would be an opponent even more worth fighting than the Demon Lord!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「The Demon Lord is amassing ample strength, and as if in answer, a divine envoy who surpasses even him has appeared!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「How fortunate I am!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「...Has he truly gone mad, I wonder」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even though we are trying to purify everything in this world...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Yeah, that's right. Because that would be boring!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「So...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I'm taking you down right here and now!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Foolish」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Here I gooooo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...In the end, I haven't sensed anything at all since then」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. However, having things remain peaceful is a good thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though it ended up feeling just like an ordinary walk...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, every now and then...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Something like this isn't so bad, wouldn't you say...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...You're right. If you say so, Miss Melilot」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Geez...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Sure, that strange feeling from earlier is still on my mind, though..."
+  },
+  {
+    "message": "If nothing actually happened, then all the better."
+  },
+  {
+    "message": "No matter how strong Melilot-san is, I still don't want her running into danger."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You were spacing out again. Are you all right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah, I'm fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just thinking about you, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「J-Jeez, Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what is it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please stop teasing me like that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm not teasing you or anything……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then what is it, um, well……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Y-You weren't thinking about something dirty, were you\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat! That's a misunderstanding! Just a little bit!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So you ARE thinking about it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah! I said I'm not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, you're dressed pretty lightly, so I was just worried you might be cold!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「H-Hmph. I wonder about that……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please believe me……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't care」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh……」"
+  },
+  {
+    "message": "Well, it is true that I was worried, though……."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, are you really not cold, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I'm fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry... for dragging you all the way out to a place like this...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh, no, it's quite alright」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A little walk around town is no trouble at all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, being with you makes it feel much more fun than usual, Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's quite lively tonight, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Christmas is just around the corner, after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I've heard the Student Council has its hands full preparing for the Holy Night Festival, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, things are going smoothly enough, so we're hanging in there」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「With all the special training overlapping too……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I want to spend a wonderful Holy Night Festival with you, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Teasing me again……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm serious, though」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……\\s03」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Geez, don't get carried away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yes……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Come on, let's go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, wait up!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I won't wait」"
+  }
+]

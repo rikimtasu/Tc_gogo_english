@@ -1,0 +1,966 @@
+[
+  {
+    "message": "先輩の自重"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If there aren't any additions to the pamphlet draft, I'm going to go ahead and print it~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I already gave you the precautions, prohibited items, and safety guidelines, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, I have them right here.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did my fun little column make the cut?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Due to page constraints, it was unfortunately scrapped.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gabyo~n」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You probably wrote nothing but nonsense anyway.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my, isn't it missing a greeting from the Student Council President?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, about that. The President said he was embarrassed and didn't want to write one--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaah, waaah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then in its place, a greeting from the Treasurer--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fine, I'll write it! I'll write it right now!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tch. And I was so close!」"
+  },
+  {
+    "message": "What does she want to assert so badly?"
+  },
+  {
+    "name": "Synn",
+    "message": "「You really didn't have to go out of your way to make a page like that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're the representative of the Student Council, you know. You've got to puff out your chest and go 'Bam!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I guess so... Even Ria-senpai wrote one last year. Alright, I'm gonna give a big 'Bam!' greeting!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's the spirit♪ That's the spirit♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There wasn't even a greeting page in last year's pamphlet, though.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Shhhh!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh? The guide map page is missing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Did you actually submit it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I did, I did」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're just making excuses. You probably forgot, didn't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I submitted them, right, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Bringing up Senpai to back you up is playing dirty!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sure I received them, though, they aren't here~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Loro-chan, don't tell me you slipped up and lost them?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I haven't fallen so low as to be told that by the treasurer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm~~. Where could they have gone」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Lolotte-chan. Did you take the pamphlets anywhere?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Only to the Student Council room and the Chairwoman's office, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Chairwoman's office?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To see Helena-san?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. I thought that if we got the Chairwoman on our side, we could steamroll the teachers even if they complained」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, rather than complaints, let's call it having her check if there are any issues, okay」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So that means you handed them over to Helena-san once before」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, just as you say」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I've got a bad feeling about this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go check with Helena-san」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Come in, it's unlocked」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Phew... A drink while working hits different, too. Go on, have some'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that alcohol!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's coffee, coffee. So, what business does the Student Council President who's staring at me uncrossing my legs have with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wasn't staring\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Don't fall for her teasing\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, I believe Lolotte had you look over the pamphlet draft--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I gave it right back. There was one odd page mixed in, so I pulled it out for you, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I knew it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could that be the one that looks like an ukiyo-e print?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, yes. That's one of Ria's doodles, isn't it? Going through all that trouble just because you wanted to show me, oh my」"
+  },
+  {
+    "name": "Ria",
+    "message": "「*Smack*」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, what a cold reaction\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually, you see, that drawing was supposed to be the map for the Kirafes venue」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ehhh?! Really? I had no idea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, um... we'd like that drawing back」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, that's a problem... I'm terribly sorry, but I don't have it on hand anymore」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaaat!! Did you throw it away or something?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I would never do that. What a waste that would be for such a fine work of art, wouldn't it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「D-Don't tell me...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Bingo! I went ahead and entered it into a contest\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Again?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Again'? Has this happened before?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Big Sis is always submitting my stuff without asking...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huhhh~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Make sure you withdraw it, okay? I didn't draw it for a contest!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see~ If it was meant to be a map, I really should have given it a proper thumbs-down. I'm sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「To put it bluntly, as a map and as part of a pamphlet, that drawing has zero value」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!?」"
+  },
+  {
+    "message": "Helena-san is probably the only person who can speak her mind so bluntly."
+  },
+  {
+    "message": "Ria-senpai wilts like salted mizuna greens."
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san. You don't have to go that far...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Too soft! You're as overly sweet as a fukume sweet, Synn-chan!」"
+  },
+  {
+    "message": "Helena-san sips her coffee while eating a monaka wafer generously dusted with sugar."
+  },
+  {
+    "name": "Helena",
+    "message": "「Ria. Your art is truly wonderful. However, nobody is asking for that kind of talent on this guide map」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Be aware of your position. You're a senpai. If you make something with full confidence, nobody is going to be able to reject it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I understand getting absorbed in it, though. Act properly like an advisor, and like a member of the Student Council」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't forget. The Student Council isn't just you. You have plenty of other reliable comrades you can count on」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see... So that's how it is... Sorry, Synn-kun. It looks like I made you walk on eggshells around me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... no, I did think that version might be fine too, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You don't need to hold back... Please tell me clearly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aha~ I bet you kept quiet because you didn't want Ria to dislike you, didn't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Hmph. I just don't want to hurt Ria, that's all'」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Acting tough like that!? Gee~~z, how adorable~\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh--!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「D-Does that mean...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, that's not it!! I was just captivated by Ria-senpai--I mean, by Ria-senpai's art--!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, Sis! You're troubling Synn-kun, you know\\s01」"
+  },
+  {
+    "name": "Helena",
+    "message": "「O~h my, how scary, how scary\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Being like that is why everyone immediately leans on Ria. The Student Council President who left it all to her is equally guilty」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And you too, big sis, for submitting it without asking」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Guh... Just as expected of my little sister, you're pretty sharp」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My bad for jumping to conclusions. I'm really sorry」"
+  },
+  {
+    "name": "Helena",
+    "message": "「However, even if I withdraw the submission, it'll take quite a while for the artwork to be returned」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It can't be helped... Let's make it all over again」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's for the best」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Sweetness is meant to be washed away by bitterness. Isn't that right?'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder? Come on, Synn-kun. Let's hurry back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big sis. Thank you for helping me realize something important」"
+  },
+  {
+    "message": "At those words, Helena-san gave a light wave of her hand."
+  },
+  {
+    "name": "Synn",
+    "message": "「And so, I'd like to borrow everyone's strength!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry about this...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't sweat it, don't sweat it. If everyone pitches in, we'll be done in no time」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't be a stranger, Senpai-san」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For Senpai's sake, I shall gladly assist you through fire and water」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone, thank you...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, what's our time limit?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We'd like to have it printed by the end of today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's get started right away. Notebook, notebook... where did it go?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Don't worry about the layout locations, I remember them all. Could you give out the instructions?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yes. Okay, Nanaka, you take the entrance」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You got it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, you take the courtyard, and Lolotte, please handle Prier」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Understood」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Got it~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll take the area in front of the school building」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The entrance only has the reception desk, so that'll be easy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Piece of cake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All the more reason to make it really elaborate」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. All right, let's start with the courtyard. HQ is in the center, surrounded by 1-A, 1-B, and 1-C」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Doing okay? Next is 2-C, 2-B, 2-A. Then the stage goes in between, and across from it are 3-A, 3-B, and 3-C」"
+  },
+  {
+    "name": "Misa",
+    "message": "「2-A, 2-B... umm」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Watch out--the second-years are lined up in reverse order. Should I repeat that part?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I can handle this much, thank you!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jot down a rough sketch before you forget」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In front of the school building, we have the okonomiyaki stall, Yuugiri―an, the used book fair, and in the cake buffet corner, Chocolat l'Or and―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek--my hand can't keep up!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't panic. I'll repeat it from partway through」"
+  },
+  {
+    "name": "Ria",
+    "message": "「For the cake buffet: Chocolat l'Or, Sans Souci, Cafe Rose Blanche」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Winter der Linden, Burgstadt, Tricolore, Konigsberg」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How's that for a lineup?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's way too many」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Finish it off with Shinagawa Produce and Ponpoko, and that's everything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Next is Lolotte. Prier has the Wagashi Club and Five-Star Chinese Restaurant, and the rest are last-minute entries, so...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's make it a fun corner.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. That sounds great♪」"
+  },
+  {
+    "message": "Thanks to Ria-senpai reading it all off smoothly, the base layout came together just as effortlessly as last time."
+  },
+  {
+    "message": "I double-checked it against the notebook just in case, and there wasn't a single mistake."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, man, I'm amazed you remember all this so accurately~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem. I am your senpai, after all.」"
+  },
+  {
+    "message": "It's probably less because she's a senpai and more because she's \"Ria-senpai.\""
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's move on to the finishing touches!」"
+  },
+  {
+    "message": "While staring hard at the academy's floor plan, we add scenery and illustrations to give it a lively feel."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How about something like this?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's Mr. Panda!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Nanaka. Draw it a little cuter, okay? Like this--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll sneak a little doodle in too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And line up some international flags--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stop, that's so tacky!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's put antennae on Mr. Panda.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't turn him into a bug!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa! There's some kind of creature right here!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... That's actually Paa-chan, though\\s01」"
+  },
+  {
+    "message": "And just like that, the blank white spaces rapidly get filled up."
+  },
+  {
+    "name": "Ria",
+    "message": "「Making things together with everyone really is more fun, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, totally.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Seeing it come together really makes it sink in that the festival's almost here, doesn't it? It's getting me all excited.」"
+  },
+  {
+    "message": "It ended up having a pretty casual, freewheeling vibe."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It looks like it'll make you happy just looking at it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「All you guys did was doodle pranks all over Blackuma!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So colorful!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll end up in monochrome, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder if Big Sis will be satisfied with this」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, you've made something quite nice」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Talk about good timing」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Of course, because I was waiting until you finished. Just kidding, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not even an opening for a comeback」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, yes. This is just what I was hoping for. Now this really feels like this year's Student Council」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still--pfft... hehe. At this rate, it's practically 'Where's Paqy!!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Some of them are something else entirely, though」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you include the ones Ria drew, the difficulty level looks pretty high」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I drew them to look really cool, though~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, is it really alright for us to play around this much...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Compared to last year's pamphlet, it does feel like we went a bit overboard」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's kind of all over the place, too」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Why not? There's nothing wrong with having an unconventional Student Council like this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right. That's why I wanted to keep doing the Student Council together with everyone, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Cutting loose and making it together with everyone turns out better. That's what you wanted to say, right, Big Sis?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Who knows? You all made it this way because you thought it was better yourselves, didn't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, stop getting so shy♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I envy how you can see it that way, Ria. If you don't praise the Student Council President who took the lead more than me, he'll start sulking」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't sulk!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, there's still a blank page left, isn't there?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Isn't that the part we asked the President to handle?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Cutting loose and making it together with everyone... huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And so, the Student Council President's greeting page has been changed to a greeting from the entire Student Council!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My time has finally come!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good grief, there's no helping you.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. That was a nice way to dodge it, wasn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course, I'm going to have you write a part too, Ria-senpai.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Go ahead and write to your heart's content to make up for not getting to last year!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez!!」"
+  },
+  {
+    "message": "Everyone finished writing it in no time."
+  },
+  {
+    "name": "Synn",
+    "message": "「All done!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Congrats~!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good work~!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come now, Lolotte-san. Let's hurry.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm off to get it printed~!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whew~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well then, Synn-kun. Here's your stamp card back~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah. When did you--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee, it's a secret. You worked really hard!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh. I'm only one stamp away now!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I won't give you the final one so easily, you know\\s04」"
+  },
+  {
+    "message": "So that's the punchline after all, huh."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, what's that!? Give me one too!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, since such a splendid pamphlet has been completed, allow me to celebrate with you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's the Nika Exhibition?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, Synn, you don't even know that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry about that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Though I don't know either」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's a small art exhibition」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, I just remembered. Big Sis... you did cancel it properly, right?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「By the way, you two, what did you think after seeing Ria's painting?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey--!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean Ria-senpai's painting?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "message": "What do I even say..."
+  },
+  {
+    "message": "Aah, Ria-senpai is staring at me. I'd better just be honest about this."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry. Um... I don't really get it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Really? I have no idea what genre it is, but it feels like a stylish painting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She definitely has a rich range of styles. You're really versatile, Ria-senpai」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right, right?! She's my pride and joy of a little sister~~!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-stop it already...\\s03」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's why, you know, a sudden impulse gets the better of me and I end up submitting it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't ever draw them with that intention--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Fine, fine. You just want me to cancel it, right, cancel it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it might surprisingly get good reviews」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right! Right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha...\\s02」"
+  }
+]

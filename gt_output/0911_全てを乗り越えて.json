@@ -1,0 +1,1110 @@
+[
+  {
+    "message": "全てを乗り越えて"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Preparations for the Holy Night Festival seem to be going smoothly.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, thanks to everyone's help.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Are you having any trouble?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone is working hard, so I think we're fine for now.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep, yep! Make sure you pull your weight too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, I know.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sebastian, I don't know how to read this layout map.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave the tasks assigned to my lady to me, Riesling Toyama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "It seems some committee members are relying entirely on others, but oh well."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn, we're all done preparing~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Everything's perfect on our end too. How's it going over there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd say all that's left is the final inspection.」"
+  },
+  {
+    "message": "The other tasks seem to be going smoothly for the most part as well."
+  },
+  {
+    "name": "Sally",
+    "message": "「Yoo-hoo♪」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I have arrived!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there, Macaron and Sally.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? Big brother, what are you guys doing? What about special training?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're getting ready for the Holy Night Festival. Today's our once-a-year festival, after all.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A festival...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, I get it! That's why there are so many sparkly decorations up today!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Does that mean we get to eat tons of yummy food too!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Food stalls are being set up, and they're planning to serve Christmas cake too\\s07」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay! All-you-can-eat!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Not that we can, though...\\s02」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, getting excited is fine and all, but don't forget we have a huge job waiting for us before that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Re-Crea, right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We must not overlook Soltia and Azel's movements」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「According to observation data, Re-Crea's energy will reach its peak tonight」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「They will undoubtedly make their move then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So things will be settled by the end of today...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So it's finally time for the decisive battle」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A decisive battle! Gwaaah, I'm getting all fired up!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Your eyes are literally on fire...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Shall I put in some eye drops?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Guess tasty treats are on hold until then~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I feel like there's a weird lack of tension here, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine. I'm sure we can pull it off」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We know better than anyone just how diligently all of you have completed your special training」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Don't worry, we'll get through Re-Crea without a hitch\\s07」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let's enjoy the Holy Night Festival at our leisure afterward」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then, shall we all get pumped up and head to our posts」"
+  },
+  {
+    "name": "Helena",
+    "message": "「We're on patrol, if I recall?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, let us tighten security around Finis Tower as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guarding the tower?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Finis Tower sits on the border of the Three Realms, making it the most spatially unstable location」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Meaning it's the prime spot to trigger Re-Crea and collapse the world」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's safe to say there is a very high chance that Azel and his group will appear」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「To think the main venue of the Holy Night Festival would be the biggest danger zone……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course, we also need to pay attention to other areas」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Therefore, I will take charge of security around the tower」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll go too, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Very well」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then the two of us will guard the venue grounds around Finis Tower」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll leave patrolling inside the academy to the rest of you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gotcha, loud and clear」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, so it's a contest to see who can catch more suspicious characters!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sounds good, you're on!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's kinda right, yet kinda off……\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sebastian, have all preparations been made without oversight?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The surveillance cameras are completely ready, my lady」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For the time being, it looks like we'll manage somehow」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now all that's left is him……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's Bairus, he'll come」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I believe he's the type of person who never breaks a promise」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, if Synn-chan says so, I suppose I'll keep my hopes up」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone, please take your positions now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……It's gotten a bit chilly, hasn't it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san, aren't you cold?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am fine. What about you, Sakura-kun--aren't you cold?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just having you by my side, Melilot-san, kind of raises my body temperature」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「W-What do you mean by that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? I mean it literally, though...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Geez, you have terrible taste, as always...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true at all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, I suppose I'm in no position to talk either...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-It's nothing!」"
+  },
+  {
+    "message": "Somehow, it feels peaceful and just like any other day."
+  },
+  {
+    "message": "It's hard to believe the end of the world is right around the corner."
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...If only nothing would happen, just like this...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...That might be a wonderful thing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, that is impossible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「My very presence here...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It means standing against Re-Crea」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「After all, driving back Re-Crea is my sole reason for existing...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Please don't say things like that」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't talk as if you only live for Re-Crea」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think you're properly living your own life, one that you chose for yourself, Melilot-san」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At least, from the time I've spent with you up until now, that's how I feel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't say something so lonely as that you only live for your mission...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I'm sorry, that was thoughtless of me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want you to smile more, Melilot--out of happiness, fun, and all sorts of things……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want you to cherish yourself」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes…… your feelings are getting through to me…… clearly, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I've always wanted…… to do that too……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because if I'm with you, Sakura-kun, that wish can come true……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Nothing could make me happier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……I'm going to fight Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that I can keep living alongside you, Melilot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, I want you to as well……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Yes, that's right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Rather than fighting out of a sense of duty……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I want to stay with you forever, Sakura-kun――」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'll fight to make that wish come true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……That's okay, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course. Please, have confidence」"
+  },
+  {
+    "message": "Those were the words that had once guided me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I believe in you, Melilot」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……I believe in you too, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "message": "We trust each other, and rely on one another……."
+  },
+  {
+    "message": "That's why the two of us can walk forward together."
+  },
+  {
+    "name": "Melilot",
+    "message": "「……*Giggle*」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Somehow, I feel like a weight has been lifted off my shoulders」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even you were nervous after all, Melilot……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If anything, I suppose I was anxious……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Anxious...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I've always been anxious about what lies ahead for me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't want future generations to walk the arduous path of the Nibe's duty...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, there's no guarantee whatsoever that Re-Crea will end in my generation...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Nor had I found the resolve to endure all that hardship on my own」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yet, that changed」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Someone precious who will walk beside me...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun. Meeting you allowed me to change」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I never once imagined fulfilling this duty by working together with someone else...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...We aren't just walking together until Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We'll keep walking together forever after that, too」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's a promise」"
+  },
+  {
+    "message": "Gently and hesitantly, we link our outstretched pinky fingers together."
+  },
+  {
+    "message": "Our bond deepens."
+  },
+  {
+    "name": "Synn",
+    "message": "「Doing something like this... is a little embarrassing, isn't it...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It would have felt natural if you hadn't pointed it out...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, sorry...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, I don't mind. It's very much like you, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And forgiving me like that is very much like you too, Melilot-san--I like that about you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't tease me. Honestly...」"
+  },
+  {
+    "message": "Still, I find myself thinking that moments like this are nice, too."
+  },
+  {
+    "name": "Synn",
+    "message": "「--!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This wave of power...」"
+  },
+  {
+    "message": "A steady shockwave of power that shakes the very core of the body."
+  },
+  {
+    "message": "It has been felt before."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Most likely...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But it's coming from the plaza!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes... Did he turn our expectations against us and shift his position...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Certainly, with enough power to easily brush aside Virus, it can be activated even without being directly beneath the tower...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The power... is getting stronger and stronger!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Anyway, let's go!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Y-yes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel--!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Oh my...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hehe... Looks like you've all arrived...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Soltia...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Where is Azel...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He's not here...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Only Soltia!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So this side was the diversion...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I can't have you underestimating me when I'm serious」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I haven't lived as a high-ranking Demon governing both Spirit Power and magic for nothing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, luring us here won't accomplish anything」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hehe... I wonder about that...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ngh!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「W-What is this?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san?!」"
+  },
+  {
+    "message": "Bands of light surging up from beneath her feet entangle Melilot-san's body!"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Heh heh heh……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I can't move... my body……!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It's a binding barrier. I hope it's to your liking?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Guh……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san, hang in there!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How could I... let my guard down……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What a pathetic sight」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even the noble Nive Clan is no better than a newborn babe like this……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Burying you will be child's play!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kgh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The Demon Lord can still move, can he……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You're an eyesore!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gwaaah!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Yes... you've always been an eyesore……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Born into the Nive Clan, possessing high spiritual quality despite being a Demon……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「And yet, you made no effort to grow closer to the angels, devoting yourself solely to a pointless mission!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is not... pointless……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Do you have any idea how much I coveted that bloodline……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「How much I cursed my own bloodline!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You wouldn't understand, would you……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unfortunately not……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……However, that suffering ends today」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The world will be purified by Re-Crea, and I shall be reborn as an angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like hell…… I'd let you do that!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「'Do that,' you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacrificing everyone's happiness just for your own sake……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll never, ever let you do that!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Keep barking!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaah!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You can't do a single thing on your own…… so please stop talking so big」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ngh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if I'm not strong enough on my own……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We have our friends!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We have comrades who trust each other!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone will definitely come for us……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……I wonder about that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Do you really think I infiltrated the academy without a plan?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No way……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hehe…… that's right」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「By now, they're just like you……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Caught in the barrier I've stretched all across the academy, completely unable to move」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No……!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To think you'd calculated even that far...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I told you, didn't I? That I was serious...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Right about now at the tower, Azel should be refining the energy of Re-Crea」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You lot can stay right there, drowned in despair, and bear witness to the end of the world!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Guh……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Heh heh...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Soon, the world will be reborn into the form it was meant to take!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hoooold it right theeere!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What!?」"
+  },
+  {
+    "message": "The bands of light shatter to pieces!"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yaaay, huge success~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn! Melilot! Are you okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We've arrived to rescue you, yes we have!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Are the two of you uninjured?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How did you...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha, well, you see...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We were immobilized too, until...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「...Leaving such an eyesore of a magic circle alone simply rubbed me the wrong way」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Just something I did along the way. Pay it no mind」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And just like that, he saved us out of nowhere」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Don't let something of this level hold you back, Demon Lord」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Our real opponents lie elsewhere」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... yes!」"
+  },
+  {
+    "message": "Right. Our goal is Re-Crea!"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Tch... Virus...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Did you really think a barrier of that level would hold me back?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「...To think you would lend a hand to the likes of them.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「You stood in the path I chose to walk. That is all.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Spout whatever nonsense you like...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「However, no matter what you do, it's already too late.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「After all, Azel is about to activate Re-Crea at Finis Tower!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, we can still make it in time!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we head out to stop Azel right now!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「And you think I'm going to allow that?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「In seeking the light too much, it seems your eyes have grown terribly clouded.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Go on, Synn!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Leave things here to us!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Lord Synn, Melilot, hurry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We owe you our gratitude!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Be careful, you two!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you mess this up, I won't forgive you, got it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stay safe, everyone!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hmph... Such a pointless charade...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「We'll soon see whether it's pointless or not.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Every last one of you...!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Either way, the only difference is whether you vanish sooner or later!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Writhe in despair and grovel before the power of Re-Crea!!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ６７_EASY"
+  },
+  {
+    "message": "ステージ６７_HARD"
+  },
+  {
+    "message": "ステージ６７_NORMAL"
+  }
+]

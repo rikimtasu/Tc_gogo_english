@@ -1,0 +1,625 @@
+[
+  {
+    "message": "知的労働者の優雅な生活"
+  },
+  {
+    "name": "Misa",
+    "message": "「Here you go, Nanaka-san. Check these over」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gyaaaah! Why is there so much paperwork?! This has got to be a conspiracy by the evil secret society Bubuzuke!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There's definitely more than last year, yeah. It's on a bigger scale this time, so it can't be helped」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My eyes are starting to feel kinda blurry... Still, this is all so everyone can enjoy Kirafes, so I'll push through」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Things are only going to get tougher from here, so if you're already forcing yourself now, you won't last」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here. These eye drops work wonders♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew. So refreshing~\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...O-Onee-sama. I feel like my eyes are getting tired too, actually...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ahh, Onee-sama's eye drops... they work so well... haaah...\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Y'know, my eyes are feelin' kinda tired too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sure, but where am I supposed to put the drops?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「First, you give me a lap pillow, Ria―chan, and―」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Manas!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ignore the idiot... *sigh*, guess I'll get back to it. Even Lolo―chan is quietly working away―」"
+  },
+  {
+    "message": "Indeed, Lolotte even had her eyes closed as she quietly worked..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... snore... snuffle...」"
+  },
+  {
+    "name": "Nanaka & Misa",
+    "message": "「She's asleep!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gasp!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-Who is the audacious ruffian sleeping during Student Council duties!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That'd be you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now. It can't be helped. Even Lolotte-chan gets tired, you know.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. However, daily studying is still indispensable.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, that sounds tough.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Last night, the leader of the Tomato Gang made an appearance. There was simply no way I could miss that!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is that... on TV?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is studying the Human World!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just record your late-night dramas!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sigh... And here I am, so busy I could use all the help I can get...」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Welcome back~」"
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go. Thanks.」"
+  },
+  {
+    "message": "I handed the two of them the strawberry candies I had kept in my pocket."
+  },
+  {
+    "name": "Sally",
+    "message": "「Aww, no fair, I want some too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, these are a thank-you for helping me out.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Stingy~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, Sakura-kun! What are you scheming with demons for!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I had them deliver some documents that needed Helena-san's approval to the chairwoman's office.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh. Then these need approval too. Take care of it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay. Could you deliver these next?」"
+  },
+  {
+    "name": "Jangara",
+    "message": "「Eee!」"
+  },
+  {
+    "message": "Taking the documents, they flew out the window and disappeared."
+  },
+  {
+    "name": "Misa",
+    "message": "「...Somehow, those two seem more diligent than Lolotte-san.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is a remark I cannot ignore. I am quite diligent myself. Just earlier, I was not sleeping; I was merely closing my eyes to focus my mind.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though you were literally snoring.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Well, at least he's doing something. Sally isn't even trying to lift a finger」"
+  },
+  {
+    "name": "Sally",
+    "message": "「How rude!? I'm doing way more work than Mochimochi!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mochimochi... Which of the working kids is that?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That thing sleeping on top of the locker. At least I'm awake, you know. Better than an angel who was just napping」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Tag-Along. What matters is the volume of work one accomplishes. Whether one is asleep or awake isn't the issue here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, that's pretty much an issue too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, it's definitely true that Sally hasn't done a single thing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally isn't a Student Council officer anyway, so expecting anything from her in the first place is... well, you know?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You could at least expect something from me!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yet you can't actually do anything anyway, correct?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Grr, how humiliating!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Just you wait, though--the Boss will sort everything out eventually!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Boss?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Awawa, it's nothing\\s01」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Anyway, I'm an intellectual laborer. Give me work suited for my talents and I'll do as much as you want!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Do you even know what intellectual labor means?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Don't treat me like an idiot! Intellectual labor is intellectual labor. Sitting in a chair and spacing out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not called labor」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you wanna force that definition through, it's 'idiotic labor'」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm an intellectual, okay? My brains are practically gushing out of my earholes」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's a subtly grotesque way to put it...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though your head would have to not be empty before anything could gush out」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmph! I'm an overflowing fountain of wisdom!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, intellectual or target shooting or whatever, I don't care--as long as you actually work!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Sally-chan. I have a favor to ask you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Starting right this second, I'm not free anymore. Oh, so busy, so busy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. That's a shame. I only asked because I heard you were great at intellectual work」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you'd done it, everyone would've been convinced that Sally-chan is intellectual...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Y-You actually believed I was intellectual?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I believe Sally-chan is intellectual too」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If it's something simple that doesn't require using my head or tiring out my body, I might do it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Isn't that just mmph―mmph―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good grief, read the room a little」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See, I want you to find out what Azel's doing when she skips class」"
+  },
+  {
+    "message": "Honestly, it's been bothering me for a while."
+  },
+  {
+    "message": "Lately, Azel hasn't even been showing up to homeroom."
+  },
+  {
+    "message": "Even today, I haven't seen hide nor hair of her since homeroom."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jeez, Synn, are you really that worried about that girl?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Helena-san did ask me to look out for her」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, that's true, I guess...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides... I want Azel to have a more sparkling school life too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm worried about her too, though I can't exactly skip class myself just to tag along with Azel-san...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But with Sally-chan, being outside during class doesn't count as skipping, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey. Could we ask this of you?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「...Azel. You mean the girl who showed up after the Student Council ambushed me with dirty tricks?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Calling it an ambush is a terrible accusation when we fought fair and square and you simply lost to sheer numbers」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...You say one word too many too, Lolotte」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uhh, Azel. You mean that flat-chested girl who's always alone?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Ugh. It kinda sounds right, though it's phrased in a way that makes it hard to say \"yes.\""
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. That gloomy transfer student with no chest at all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. Straight to the point」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's not off the mark, though」"
+  },
+  {
+    "name": "Sally",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah, hard pass on that girl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For all her excuses, she just doesn't want to work」"
+  },
+  {
+    "name": "Sally",
+    "message": "「T-That's part of it too, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So it IS part of it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I trusted you, so being betrayed makes me sad...\\s06」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Making Big Sister look so dejected is unforgivable!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「W-Whoa. L-Listen. Um, I'm telling you that's not all!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's just, like, I don't wanna get near her, or rather. I get a nasty vibe from her. Like a thick, suffocating aura」"
+  },
+  {
+    "message": "I whispered quietly."
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, you've been avoiding Azel too, haven't you, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it because she's put up a barrier or something?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Maybe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is that」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just a hunch, that's all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's a pretty strained excuse」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sure is」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now, you two. Maybe there's something going on that we don't understand? Like her having a constitution that makes it hard for demons to get close to her」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Taking even an excuse this strained seriously... Big Sister is as big-hearted as ever... How wonderful\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just as a hypothetical, though...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You know how there are people who just don't get along, even if you don't know why? Like angels and demons, for example」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm. At least it's not because she's an angel. If she's an angel, I can walk right up to her no problem」"
+  },
+  {
+    "message": "Sally suddenly hugged Lolotte!"
+  },
+  {
+    "name": "Sally",
+    "message": "「See, just like this」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-What do you think you're doing!」"
+  },
+  {
+    "message": "Wings burst out dramatically from Lolotte's back."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aah. Tontoroooo!」"
+  },
+  {
+    "message": "500-yen coins spilled out of the broken piggy bank, glittering."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yikes. Total disaster」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Waaah, soooorry!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Geez, we're already busy enough as it is!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Anyway, we have to help pick them up」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What are these round, shiny things?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's money」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Does that mean with these, I can get beef bowls!」"
+  },
+  {
+    "message": "S-So many of them! Just how much is this!? Maybe I could live off this without working for the rest of my life."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not a chance」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I doubt that's even enough for an average household's single month」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... Just staying alive is incredible...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「With this much, even if one coin goes missing...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I will not allow it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eek. I-I won't pocket any, I swear\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The money goes without saying, of course, but if even a single shard of Tontoro is missing, divine punishment is scheduled to fall upon you, Omake-san」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Her eyes are dead serious...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll fix it for you once we gather everything, so don't make such a scary face, okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please do~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, Lolo-chan. I hate to say it, but isn't it about time you put your wings away?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawawawa. W-Wings? There's no such thing!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Right. There aren't any. Even though they're pretty...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Exactly. They don't exist. If you're seeing them, it's just an optical illusion. After all, humans don't have wings!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You got that right」"
+  }
+]

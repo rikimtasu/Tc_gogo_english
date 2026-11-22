@@ -1,0 +1,478 @@
+[
+  {
+    "message": "頼りにしてる"
+  },
+  {
+    "name": "Sally",
+    "message": "「Puhyaa~! Everyone's so strong~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like I've kind of got the hang of it...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good work out there, Sakura-kun.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How is your physical condition?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm a little tired, but... I think I'll be fine.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Truly? You aren't pushing yourself too hard?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine, see?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If that is the case, then it is alright, however...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Melilot-san, you're surprisingly a worrywart, aren't you?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Th-That is not true at all!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I always act in accordance with calm and collected judgment.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is just... because it is you, Sakura-kun, I end up worrying a bit more than usual...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, Melilot-san...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What's this, what's this? Did Big Brother get caught cheating?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Cheating!? That definitely doesn't sound tasty!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now, playing favorites with only the President isn't right. Please be gentle with me, too.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, no, I wasn't particularly...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha... Yeah, yeah, it's nothing at all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The way you're playing dumb makes it seem kinda suspicious, though.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's probably just Sakura-kun acting all spoiled around Melilot-san anyway.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aren't you two getting a liiittle too close~... just kidding\\s07」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Th-That's why I'm telling you, it's nothing like that!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I only have to train Synn-kun so we can avert Re-Crea, that's all...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And before you knew it, you two started getting all conscious of each other, right!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hyaah!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, is everyone working hard? I brought some refreshments for you♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yaaay, snacks~\\s04」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hey, Helena...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, Melilot. It's totally obvious even if you try to hide it. Mufufu...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「W-What are you saying I'm hiding!\\s03」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, where are the yummy snacks~?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ah, sorry to disappoint, but it's not snacks~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's the Kujou family's secret pit viper drink\\s05」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's news to me...\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's looking... The snake is looking right at me...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whoa... How do I put it, creepy-cute?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oho, creepy-pitiful, you say? It does indeed look quite pitiful.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, you're telling us to drink this?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Apparently it gives you a huge boost of energy?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Apparently,' she says...\\s02」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kinda looks like honey color though, so it looks yummy!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「This'll get Synn-chan all perked right up too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Perked up what!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Come now, gulp down a cup!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Snakes are creepy-cute, sure, but I'm not gonna lose!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Me too! Bottoms up!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gulp, gulp...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Glug-glug!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Macaron & Sally",
+    "message": "「Gross!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well then, let's end today's special training here」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good work today, everyone」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah! I'm beat!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm totally wiped out...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm so hungry I could die...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, seriously. You guys are so pathetic right from day one」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? So you're gonna keep joining us from now on, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「H-Hmph. Only if I feel like it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, I'm heading home for today. Bye-bye!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's still got plenty of energy...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You look like you still have some energy to spare yourself, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haha, well, I can't exactly collapse in front of you, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh my, I didn't think I was being quite that Spartan with my training?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, that's not what I meant...」"
+  },
+  {
+    "message": "I mean, how do I put it--I just can't let her see me looking uncool..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, please don't push yourself too hard, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes. I don't want to cause you any trouble, Melilot-san.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, well...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I wouldn't mind if it's just a little, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, no, it's nothing...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Does that mean it's okay to rely on her just a little bit."
+  },
+  {
+    "message": "Melilot-san has started responding when I call out to her!!"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, are we gonna keep doing this every single day?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek! My body won't be able to take it at all!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Look, I'm shaking like a newborn piglet!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, even I wouldn't go so far as to say every day.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We will take weekends off, so please use that time to recharge your energy.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It would be troublesome if it interfered with the next special training session, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, what a slave driver...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's fine. Before long, it'll start feeling good\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, that's a little...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Feeling good with Onee-sama... haaah\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's do our best to protect the world!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sure must be nice being so carefree~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Melilot-san.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, what is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「On the days off from special training, what about the library...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let's see.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As long as there's no particular reason to close, the schedule will proceed as usual, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see……」"
+  },
+  {
+    "message": "So if there is a reason, that means she'll make time for it, right……."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is there something on your mind?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, well……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Would it be alright if you kept a little time open for me……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't mind, but…… why do you ask?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if you don't mind……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd like you to keep me company……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh my, is it for individual practice or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? No, uh……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How dedicated. I think that's a wonderful attitude」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-ahaha…… *sigh*……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, well…… something like that……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Very well, I shall gladly accompany you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks……」"
+  },
+  {
+    "message": "Once it gets to this point, it's already too late."
+  },
+  {
+    "message": "It's pretty hard to correct myself and say I wanted to go out somewhere together."
+  },
+  {
+    "message": "Especially since I've finally gotten closer to Melilot-san than before……."
+  },
+  {
+    "message": "I was thinking I wanted to spend more time with Melilot-san and close that distance even further, though."
+  },
+  {
+    "message": "Becoming conscious of that all over again makes me feel kind of embarrassed."
+  },
+  {
+    "message": "Still, today's promise……."
+  },
+  {
+    "message": "I guess I can count this as having secured a promise to spend time together alone, more or less……."
+  }
+]

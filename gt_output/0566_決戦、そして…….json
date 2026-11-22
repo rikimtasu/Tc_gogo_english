@@ -1,0 +1,309 @@
+[
+  {
+    "message": "決戦、そして……"
+  },
+  {
+    "message": "After today's Student Council activities ended--"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Are you sure? Really?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Leave it to me! I know this shop like the back of my hand. Ahahaha!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Synn has been taking time between Student Council duties to assist me with my training. This is the very least I can do to show my gratitude.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see. Well then, I won't hold back...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Welcome. Welcome to Chocolat l'Or!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello. Thanks for having me again.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Oh my, Mr. Student Council President. It's been a while.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Um, is this person with you... a first-time visitor?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「*Gulp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Is that true, Shio-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hahahaha. I-It appears I... mistook this establishment for another.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, I see.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, we cannot simply leave after merely browsing. Come, let us proceed inside.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Please, take your time♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Come, come, please make yourself comfortable and take a seat.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah.」"
+  },
+  {
+    "message": "Shio-chan has seemed restless for a while now... and she keeps sneaking glances at a piece of paper hidden in her hand."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「What would you like to order?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Two choco-late cakes. And some tea as well, if you would be so kind.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Certainly, would gateau chocolat and Darjeeling tea be alright?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I leave it to your judgment.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Ahaha...\\s02」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Come to think of it, isn't Nanaka-san with you today?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, right. Today I'm actually the one being treated.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「My, is that so? Please continue to grace us with your patronage.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shion-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn... Have you been here with Lady Nanaka before?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I have.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn... Y-You went on a date with someone other than me...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「No! Today was meant to be my way of thanking Lord Synn... A-And yet...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Why is this hazy, restless feeling welling up inside me like this...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Just being together with Lord Synn used to fill me with joy...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Why does my chest ache so painfully now...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I'll leave the payment right here...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I... am not feeling quite well, so I shall take my leave.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Wait, the cake hasn't even arrived yet?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Excuse me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, wait up, Shion-chan!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「T―This feeling... I knew it, I have fallen for Lord Synn―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on, Shion-chan!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Unhand me, please!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's gotten into you all of a sudden?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-You and Lady Nanaka... are lovers... Had you told me from the start, I could have spared us this impertinence!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaaat?!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Did the shopkeeper not just say so?! That the two of you often show your faces at the shop together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got it wrong, Shio―chan. That was―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T―This presence―!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Farewell!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, a Demon!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What did you say?!」"
+  },
+  {
+    "message": "In a corner of the shopping district, a Cat Demon is on a rampage."
+  },
+  {
+    "message": "As Crusaders, we can't just leave it like this."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a good chance to show the results of our training... but fighting when you're not in top condition is way too dangerous」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「P-Please wait!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What happened just now was, um... I merely lost my temper a little」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're like that in a real fight, it'll be even more dangerous」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Th-That is because Sir Synn...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Because I heard that Sir Synn was going on a date with another girl, I j-just...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, that's not it! I went with Nanaka to scout her during Kirafes」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Wh-What...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, she's not my girlfriend or anything like that」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What a blunder. To think I jumped to conclusions!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can you really do this?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Leave it to me. My preparations are complete」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll focus purely on pinning down its movements, so... I'm counting on you!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As you command!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ３６_EASY"
+  },
+  {
+    "message": "ステージ３６_HARD"
+  },
+  {
+    "message": "ステージ３６_NORMAL"
+  }
+]

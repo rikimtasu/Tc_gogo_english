@@ -1,0 +1,537 @@
+[
+  {
+    "message": "乙女の舞いにてんてこ舞い"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, wait right there!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister! Pursuing any further is perilous!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because that girl isn't remorseful at all! Let go of me, Shio!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To defy one's lord for their own benefit. I do this out of concern for your safety, Elder Sister!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Good grief, your bushido spirit really is a handful.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, that ain't bushido.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Showed yourself, have you, foul spirit! I shall cut you down!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh no, stop it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy is just a talking panda, so he's harmless.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I see. My apologies.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man... it's already too late for me.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, are you and Shio-chan sisters, Misa? Japanese and Western--no matter how I look at it, you don't seem related by blood...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Forgive my tardiness in introducing myself. I am Shio Asukai of Ryuusei Academy, Class 1-I. Though I am but a green youth, I humbly ask for your acquaintance.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's Class A, not Class \\{I|\\s12}.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm Synn Sakura. Nice to meet you.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am already aware of you, Lord President.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm Nanaka! Nanaka Yuugiri!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A pleasure to meet you for the first time, Lady Treasurer.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, can't you do something about the way you address us?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Then how would Lord Synn and Lady Nanaka fare?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not what I meant...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio isn't my younger sister; she's my cousin.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And why was Shio-chan fighting a Demon, then?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now that you have witnessed the scene, there is no helping it. Since ancient times, the Asukai family has made its living fighting spirits.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whaaat?! Shio, your family has been doing stuff like that?!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Because it is a dangerous family trade, you were the one person I did not wish to find out, Elder Sister.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is the first I'm hearing of anything like that...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I myself had no idea at all that you and the others had formed a band.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I guess we're even on this matter, then.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Ria alone would be one thing, but to think even the members of the Student Council had thrown themselves into this battle.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know about Senpai!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. Lord Ria is a skilled spirit slayer. His exploits on the battlefield are truly remarkable.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yet, though I psyched myself up thinking, 'This time, I shall be the one!', to expose such a blunder... How careless of me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You've got it wrong, Shio. What Senpai and we are doing isn't hunting youkai--our enemies are called Demons, which are... um, um...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun and Nanaka-san! What even are Demons in the first place?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I dunno!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Umm, umm, ummmmm, how should I explain this...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmph!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「\\{Resolute and simple|ごうきぼくとつ} is close to benevolence. I too must further...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I must train even harder!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Training, training... So this is what you were training for...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn. Next time, I shall surely pin down those spirits with my own hands.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now then, as I have club practice, I shall take my leave.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoaaa. Well, that sure blew me away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I never imagined there was someone else out there hunting Demons besides us」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Seriously, Shio, keeping something this important a secret……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now, now, it's not like she meant any harm by it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't she a sweet kid who cares about her big sister?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's that look? You look like you're itching to say, 'Unlike a certain someone'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a terrible misunderstanding! I was just thinking how nice it is to have sisters……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku…… Hoping to deliciously devour a sister sandwich if the chance arises, truly――」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Magyi!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Actually, aren't you two pretty similar? Like how you both hate losing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Compared to Shio, I'm nothing」"
+  },
+  {
+    "message": "No, I think it's a pretty close match."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, the way she was going, there's no way she can beat a Demon all by herself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah…… I hate to say it about Shio, but the Demon was treating her like a toy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-A toy!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She was being played with however it pleased」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H…… How awful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'd be great if she'd team up with us like she did earlier, though～」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She seems dead set on defeating them all on her own, no matter what」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Misa, do you think you could somehow talk her into it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmmmm……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can't just leave her like this. There's no telling when she'll go through something awful again」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……Fine. I'll try asking Shio to cooperate. It seems more reliable than just telling her not to do anything reckless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm strictly doing this for Shio's sake, okay」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「By the way, Shio-chan knew about Ria-senpai, didn't she?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. I thought they were just casual acquaintances, but judging from what we heard today, it seems there's some kind of close connection between them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's ask her after school or something」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mornin'~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh my」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai! Just what is your relationship with Shio-chan?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huuuh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Behind my back, what sort of vow have the two of you shared!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wh-What's with you guys all of a sudden~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yada yada, so-and-so. And that's what happened」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I~ see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what's the real story here?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「『This family trade is the pride of the Asukai house, passed down through generations. Even if this one's strength falls short, I must continue to fight』」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Senpai...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「『Hmph!』」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even before I asked everyone for help, Shio-chan and I were each exterminating demons in our own different ways」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Different ways...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What Shio-chan calls mononoke--youkai--might actually be referring to demons」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So they're the exact same beings」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Probably, yeah. She... has strong spiritual sensitivity, so maybe she ends up getting drawn toward unnatural beings. She's happened to be at the scene of demon exterminations several times before」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Meaning Shio was drawn to the demon today as well」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, everyone. Did you see the way Shio-chan fought?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. That's something I'll never forget」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Shio―chan can wield an extraordinary power―'qi'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-How utterly unrealistic...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bit late to be saying that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Unfortunately, though, that power has no effect on Demons...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She always picks reckless fights, gets hurt, wears herself out, and in the end--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The Demons just get bored of playing around and leave, ending the battle right there」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, that girl... Does she mistakenly think she actually defeated them...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Strictly speaking, she hasn't defeated them. Still, she does end up averting the immediate crisis」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Every single time, she drags it into a war of attrition and fights a harsh, grueling battle」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yet she still believes in her own strength, trains diligently, and stands up to them」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sounds noble and all, but it's wasted effort」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-How pitiful...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't say that out loud」"
+  },
+  {
+    "message": "Riesling tumbled out of the driver's seat. Then, after checking her surroundings, she opened the back door as if nothing had happened."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fwaah... Good morning」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, Lolo-chan. Morning!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning, Lolotte. You have a classmate named Shio Asukai, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Asukai, Asukai... Um,"
+  },
+  {
+    "name": "Lolotte",
+    "message": "Ah! The shrine maiden, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A shrine maiden?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio's family runs a shrine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aha, so that's how it ties into monster extermination」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that right...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We're in different classes, but I'm sure we were together at the Naginata Club's trial session」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, really? Was she strong?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She was by far the strongest among the freshmen. She was a dedicated hard worker, and everyone was saying she'd be the club's rising ace」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You didn't stick with it, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, because the uniform and the naginata were too heavy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, I see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Having a strong sense of justice is fine and all, but I really don't want her being too reckless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In that case! How about we make her one of us!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way! I can't let Shio get caught up in anything dangerous!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She doesn't seem to have any sense of danger whatsoever, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... There aren't any Rosaries left anymore... and without the power to fight...」"
+  },
+  {
+    "message": "Actually, I think she was at least a little helpful in that last fight."
+  },
+  {
+    "message": "Does Shio not realize she has that extraordinary power?"
+  }
+]

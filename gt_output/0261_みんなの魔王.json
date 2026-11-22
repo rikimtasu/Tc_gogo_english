@@ -1,0 +1,796 @@
+[
+  {
+    "message": "みんなの魔王"
+  },
+  {
+    "message": "Time-sale bargains secured. Once I fill my stomach, special training begins."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-ku~~n!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huff, huff... I finally found you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai. What's wrong?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You just went home without saying anything~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry about that. I was in a bit of a hurry...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What were you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shopping for dinner. When you're aiming for the best deals, you just can't miss a time sale」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. Honestly, Synn-kun, you're just like a housewife」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My livelihood depends on it. Anyway, did you need something from me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Didn't you have some business with me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-What was it again~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me you forgot?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehhh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're surprisingly scatterbrained, aren't you, Ria-senpai~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wha!? N-No I'm not! I remembered it clearly right up until a second ago!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you forgot, I guess it wasn't anything important」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Gee~~z. Anyone who says mean things gets a bag che~~ck」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't have anything to hide, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So pushy...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, there's nothing in here except cabbage...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, tonight's dinner is cabbage rice bowl, after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How do you make that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You sprinkle salt and pepper on cabbage and stir-fry it. Then you put it over rice, mix it with sauce and mayonnaise, and it's done」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...And that's it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez!! There's no way a growing boy can get big on a diet like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's really good, though!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whether it tastes good or bad isn't the issue」"
+  },
+  {
+    "message": "Ria-senpai tugs me along forcefully."
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Senpai? Where are we...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「As your senpai, I cannot overlook this grave situation. I will make dinner for you tonight」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on. We're going back to the supermarket~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The flash sale is already over, I tell you!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you're going to stir-fry, you can't just have cabbage--you need other vegetables and meat too」"
+  },
+  {
+    "message": "Aside from those, Ria-senpai bought various other things as well."
+  },
+  {
+    "name": "Synn",
+    "message": "「Meat and vegetable stir-fry... Senpai, do you know how to make it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone's always teasing me and calling me an 'ojousama,' right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think they're teasing you, though...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm gonna prove to you that I'm really not like that~」"
+  },
+  {
+    "message": "Saying that, Ria-senpai rolls up her sleeves and steps into the kitchen."
+  },
+  {
+    "name": "Synn",
+    "message": "「Should I help out with something too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Please just sit back and watch TV or something\\s04'」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Getting to eat Ria-chan's home cooking feels like a dream!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What are you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thinking about watching TV」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Analog broadcasting already ended, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Come to think of it, my TV is strictly for games」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's up with you? You're not acting like yourself?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... It's Ria-senpai today. She's different from usual--something's weird」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The Demon Lord is plenty weird too, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey! Ria-senpai is right nearby, so shh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Who cares if she finds out? Ria-chan doesn't hate the Demon Lord that much, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Only the Kujo family's Demon Lord. Even so, confessing it now of all times--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Where's the salt and pepper~~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm, thanks♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should I at least set out the plates?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's fine, leave it to me. So, do you want a bath first? Or dinner?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Dinner」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Got it♪ Just wait a little longer, okay\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's weird. She really is weird」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey. Insult Ria-chan any further and my pupils are gonna shoot fire」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, the bath is right in the kitchen, yet she's asking things like, 'Bath first? Or dinner?'」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What the heck is that? Sounds just like a line from a newlywed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, no way」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Barging into your room with no real business just to cook dinner--she's practically a self-invited bride, isn't she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's almost like she has feelings for me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, that wouldn't happen even if heaven and earth mashed together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You really have the nerve to say that with this mouth, huh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hyah, st-stop iiit!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyaaa!!」"
+  },
+  {
+    "message": "The wok erupts into massive flames!! Ria-senpai is sitting flat on her rear, clutching her hand."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah……」"
+  },
+  {
+    "message": "I grab Ria-senpai's hand and thrust it into the sink."
+  },
+  {
+    "message": "Then, with my other hand, I place a lid over the wok to put out the fire for the time being. It didn't turn into a total disaster."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai. Does your hand hurt?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm okay. It startled me, so I pulled my hand back right away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Thank goodness for that」"
+  },
+  {
+    "message": "I lift the lid and check the contents of the wok."
+  },
+  {
+    "name": "Ria",
+    "message": "「Oops…… It got a little burnt, didn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did that even happen?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I tried adding some wine for extra aroma, you see…… and the flames flared up way higher than I expected\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wine…… in stir-fried vegetables?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-yeah. Since I was going through the trouble, I wondered if I could make it even more delicious. Guess I messed up\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-what…… I'm already happy enough just having you cook for me, Senpai, and to think you put that much thought into it……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, stop it--. You're way too good at flattering people--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean it! I mean, you came all the way to my house, cooked a meal for me, and even looked out for my health」"
+  },
+  {
+    "name": "Ria",
+    "message": "「M-my health, you say……\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Having someone go that far for me makes me a lucky guy」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe it's because it's you, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because it's you, Synn-kun, I just find myself wanting to do these things for you, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Senpai... does that mean...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I mean, I just can't leave you alone\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "So she really does see herself as my guardian, huh..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Though lately... that's started to change a little」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank you for saving me earlier... okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Honestly, I might have gotten burned a little\\s02 But you got water ready right away, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's serious!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm totally fine. Look, see? Not even a mark, right?」"
+  },
+  {
+    "message": "Ria-senpai holds out her hand and brings her fingers close to my face."
+  },
+  {
+    "message": "And just like that, she goes to touch my cheek with her palm--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sen... pai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...!!」"
+  },
+  {
+    "message": "She hurriedly pulls her hand back."
+  },
+  {
+    "name": "Ria",
+    "message": "「W-What am I... doing right now...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sorry. I didn't mean to startle you」"
+  },
+  {
+    "message": "Her face had gotten close enough that I could feel her warm breath."
+  },
+  {
+    "message": "What would have happened if I hadn't spoken up right then?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah!! Back to making dinner. I won't push myself this time, so just wait a tiny bit longer, okay♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes...」"
+  },
+  {
+    "message": "The Pocky I reflexively threw is stuck in the wall. Since Ria-senpai is safe, I'm sure the Pocky has no regrets."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I guess I'll get some studying done」"
+  },
+  {
+    "message": "If I slack off, I'll just end up panicking during exams again."
+  },
+  {
+    "message": "And I can't keep relying on Ria-senpai's help all over again."
+  },
+  {
+    "message": "Senpai is going to graduate next year, after all."
+  },
+  {
+    "message": "Senpai..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my~? Studying, are we? How admirable♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, is it all done?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here's some super nutritious, carotene-packed meat and veggie stir-fry!」"
+  },
+  {
+    "message": "And so, the two of us sit down around the table."
+  },
+  {
+    "name": "Synn & Ria",
+    "message": "「Thanks for the food!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, this is delicious!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmph-hmph!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is the secret ingredient of wine what ties it together?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez! We agreed not to talk about that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha」"
+  },
+  {
+    "message": "We fill our stomachs with a much more lavish meal than cabbage bowls."
+  },
+  {
+    "message": "I made sure to leave a portion for Paqy too, of course."
+  },
+  {
+    "name": "Paqy",
+    "message": "「De... Demon... L... ord...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pepsi!!」"
+  },
+  {
+    "message": "I really can't let my guard down for even a second."
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh... Demon Lord...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahahaha. Just because Ria-senpai admires him doesn't mean you have to get so competitive, Paqy, you silly bird」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You still remembered that story...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, it's come up in conversation a few times」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No way... Jeez, just forget about it already...\\s03」"
+  },
+  {
+    "message": "Phew. Looks like I managed to keep my cover from blowing."
+  },
+  {
+    "name": "Ria",
+    "message": "「Are you curious about the Demon Lord too, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, to a degree. After all, he's connected to Re-Crea, right? Ahaha」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder... if that's really true...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Dangerous Demons are increasing, and there are even rumors of stronger Demons. Even though things are still far from safe...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No matter how long we wait, the Demon Lord never shows up」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lately, I've even started thinking that maybe the Demon Lord doesn't actually exist...」"
+  },
+  {
+    "message": "The Demon Lord does exist!"
+  },
+  {
+    "message": "I wanted to shout it out loud, but without any solid proof, there was no way she'd believe me."
+  },
+  {
+    "message": "Mere words wouldn't even offer any comfort."
+  },
+  {
+    "message": "And even if I confessed that I'm Ria-senpai's Demon Lord, she'd be even less likely to believe that."
+  },
+  {
+    "message": "The Demon Lord Ria-senpai envisions might be a far cry from who I am, yet..."
+  },
+  {
+    "message": "I've always wanted to become that very Demon Lord."
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Then I'll...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll become your Demon Lord, Senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that no good...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「*Giggle*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh--!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu, oh, Synn-kun... Did I really look that down in the dumps?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, no... Well, how should I put it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Getting cheered up by my underclassman... I totally fail as a senpai~~」"
+  },
+  {
+    "message": "More like comforting her than cheering her up, really."
+  },
+  {
+    "message": "When I tried to cram all sorts of feelings--like 'Sorry I'm the Demon Lord' and 'I'll prove I can be a splendid Demon Lord'--into words, that's what came out."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, haven't you always said you looked up to the Demon Lord? Like a hero who'd save the world. And then you go and say they might not even exist...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh dear, seems I gave you the wrong idea. Sorry about that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It might have sounded like I gave up on Re-Crea, but that's not it at all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Finding the Demon Lord I admired--that's the only thing I gave up on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, after admiring the Demon Lord so much...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm~~ Maybe I don't look up to them quite so much anymore.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-Whaaat--!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because they might not even exist, right? I can't just keep relying on someone like that forever.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But then what's going to happen with Re-Crea?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, I've got someone right by my side who's just as dependable as the Demon Lord. So I'll be fine\\s04」"
+  },
+  {
+    "message": "W-Who is it……?"
+  },
+  {
+    "name": "Ria",
+    "message": "「That person, you see, puts his heart into all sorts of things and works really, really hard」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Normally he's a soothing type of guy with a gentle face, but when it counts he pulls through in a flash, so he's super reliable」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's more, he doesn't just do it for himself--he can give it his all for someone else's sake」"
+  },
+  {
+    "name": "Ria",
+    "message": "「For example, someone who wants everyone to have a sparkling, shining school life…… or something like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If I say this much, you already know who I'm talking about…… right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What am I even supposed to say to that……\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, you see. If you're going to become one, Synn-kun, you can't just be my Demon King--you have to become everyone's Demon King……\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh…… I-I'm sorry」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. You don't need to apologize」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just…… I didn't really mean it like that, so when you say it's for other people's sake…… I feel guilty」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even for the upcoming Holy Night Festival, you're totally fired up to make sure everyone has fun, aren't you? That's why everyone agreed to go along with it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that really how it is……?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Being able to do that naturally is what's so great about you, Synn-kun\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So hang in there. You've got to become everyone's Demon King, okay♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Enough with the Demon King talk already!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not just me, you know. Even Big Sis looks up to that Demon King~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The students at the academy, the people of Ryuusei Town, humans, angels, and demons--you have to become a Demon King that eeeveryone acknowledges」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yikes~~! Give me a break already~~!\\s06」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. I'm counting on you♪ Do your best~~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The reason I don't look up to the Demon King anymore, you see… is because I found someone I care about even more than him……\\s04」"
+  }
+]

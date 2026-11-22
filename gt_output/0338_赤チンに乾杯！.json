@@ -1,0 +1,598 @@
+[
+  {
+    "message": "赤チンに乾杯！"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sorry for making you tag along.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine, I was just wanting to go out for a walk anyway.」"
+  },
+  {
+    "message": "Misa and I are heading to Asukai Shrine together."
+  },
+  {
+    "message": "Apparently, Shio-chan got her hands on a valuable book and asked Misa to appraise it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, I know you're a bookworm and all, Misa, but wouldn't it be better to ask Melilot-san about books?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, that's, um...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you blushing?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngggh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, why do you always ask things so bluntly!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are those cheeks, like the finest marshmallows, dyeing crimson like apples just beginning to ripen?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「R-Rephrasing it with metaphors doesn't make it okay!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, what a hopeless guy. Still, this is a golden opportunity!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you read the rare book Shio acquired, even you might understand a maiden's heart and learn some delicacy, Sakura-kun.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, Big Sister and Synn-dono. I have been awaiting your arrival.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I came to hang out, Shio.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It has been quite some time since you last graced our household with your presence.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh come on, I literally just stayed the night the other day.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I would have you stay for many nights, Big Sister. Why not take up lodging at our residence altogether?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Umm. That's a tempting offer, but... I'm sorry.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you come here often, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course. My family and Shio's family have been close for generations.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. Thanks to Big Sister, I am able to preserve my maiden's heart even amidst my grueling training.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In particular, 'Rainbow Love Rhapsody' and 'Cheers to a Cherry Kiss,' which I received from Big Sister, are my greatest treasures.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, Shio! What are you saying in front of Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really get it...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's fine that you don't!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I've seen a rainbow before so I know what that is, right? It's just that I can't picture a cherry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's a pretty major fruit, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no. Doesn't the word 'fruit' basically just mean bananas?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bananas when splurging, pineapples for an extravagant stretch, and grapes when taking the ultimate plunge. Only those three kinds of fruit exist in my world」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-Boys living on their own are...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gah!? No, no, I didn't come here to talk about such domestic things... Shio!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Understood! You mean that matter, correct?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Allow me to apologize in advance. The rare book was merely a pretext to summon you here, Elder Sister. In truth, I have another personal errand to attend to...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For Shio-chan to pull a stunt like that, what on earth happened?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We're practically sisters. Please, talk to me about anything」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Well... embarrassing as it is to admit...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Spit it out!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「V-Very well... I shall take the plunge and say it」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister! Sir Butler is... nay, Big Sister Riesling belongs to me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister is supposed to be devoted solely to Sir Senpai. I humbly implore you to refrain from making any moves on Sir Riesling!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmph, the blood of yuri, eh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Umm... just who is Shio talking about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know, Lolotte's butler and bodyguard--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, Mr. Rodriguez Sato」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am Riesling Tooyama.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Riesling-san, what are you doing here?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I was purchasing magic bullets at the junk shop in the sacred grove.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Such a blatantly suspicious shop at Asukai Shrine!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then, excuse me. Please continue to take good care of my lady.」"
+  },
+  {
+    "message": "Riesling-san gives a light bow and walks away down the shrine approach."
+  },
+  {
+    "name": "Shio",
+    "message": "「Ahh, completely erasing her presence to close in behind Elder Sister... Movements without a single opening. I am utterly enchanted!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, Riesling-san doesn't make any footsteps, does she?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kuhin♪ She even bows properly beneath the torii gate. What a magnificent person she is\\s04」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When I gaze upon Big Sister Riesling, my heart won't stop pounding, and my cheeks grow hot as if with a slight fever\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This girl is your little sister, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...She's your junior.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I, too, wish to reach the same realm of mastery as Big Sister. First, starting with training to silence my footsteps--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ugh... How pathetic, how unsightly!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mio, stop right there!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Stay still right there and roll up the right leg of your hakama!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Careless of me! To think she saw right through it...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong, Shio?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mio hurt her right leg. Her gait was different from usual, wasn't it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa, good eye catching that. Even though she was walkin' all weird so she wouldn't make footsteps.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Ummm... Since it's a girl's thigh, I shouldn't be looking, right? I'll go pray at the Inari shrine or something」"
+  },
+  {
+    "name": "Shio",
+    "message": "「No, 'tis merely a scrape on my right knee. I care not if such a thing is seen」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-S-S-Sakura-kun, you pervert! Why are you specifically narrowing it down to thighs?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... W-Well, that's...」"
+  },
+  {
+    "message": "While I was at a loss for an answer, Misa pulled a small first-aid kit from her pocket and deftly began tending to Shio-chan."
+  },
+  {
+    "message": "A scraped kneecap. An injury everyone gets at least once as a kid."
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn, did you know? My elder sister also keeps a sewing kit in her pocket at all times」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Such is how a maiden ought to be, wouldn't you say」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez, don't change the subject!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, hey now! What is this wound, you just lazily rinsed it with water, didn't you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's no good at all. I'm always telling you to disinfect your injuries when you get hurt, aren't I!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I have no excuse to offer」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio isn't afraid of getting hurt, but she's terrible at actually looking at her wounds. Honestly, she's such a child」"
+  },
+  {
+    "name": "Shio",
+    "message": "「P-Please do not expose my secret~...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now then, brace yourself, because I'm disinfecting it」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kuhii... Even I possess a sense of shame befitting my age. Anything but the mercurochrome!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heeh, so I actually get to witness the rare sight of Misa being caring」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph! The 'rare' part was completely unnecessary」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, Lord Synn, it seems you still do not truly understand my elder sister」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Despite how she looks, she possesses a ruthless side as merciless as a Demon Lord, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa as a Demon Lord, huh... Doesn't sound too bad」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's the absolute worst!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed, it was truly awful!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When I left a wound unattended because I hated disinfecting it, my elder sister snapped」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lo and behold, she doodled Blackuma on my skin using mercurochrome! There are limits to cruelty!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a pathetic Demon Lord……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That's all in the past! Don't go running your mouth in front of Sakura-kun!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mmph-mmph!」"
+  },
+  {
+    "message": "Misa covers Shio-chan's mouth."
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh?」"
+  },
+  {
+    "message": "Misa tilts her head slightly and moves her hand to Shio-chan's forehead."
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, you're burning up with a fever!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm? I cannot say I feel any different…… *cough, hack*!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I have just now become aware of it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're coming down with a cold! You've been out hunting Demons late every single night, haven't you!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If such is the pride of the Asukai house! Even should this body crumble to dust, I shall halt the rampage of those fiends」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N―No, you can't do that―」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Or so I believed, right up until yesterday」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Late last night, when I had collapsed from exhaustion, Lady Riesling happened to pass by and tended to me……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「At that time, she bestowed upon me some words of wisdom」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That I ought first to devote myself to reaching a state where I can accurately gauge the limits of my own strength. Demonstrating a spirit of self―sacrifice can wait until after that―」"
+  },
+  {
+    "name": "Shio",
+    "message": "「She is a truly noble soul」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As I gazed upon Lady Riesling, my heart began to pound, my cheeks flushed red, my head grew dizzy, and my throat became parched」"
+  },
+  {
+    "name": "Shio",
+    "message": "「This must undoubtedly be my first love!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Aren't those literally just the early symptoms of a cold?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Wh-Whaaaat did you say!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, don't tell me…… you met Riesling-san in that condition and mistook your fever for falling in love?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Th-That cannot possibly be! Sister, would you truly deny my first love!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, naginata squirt. Do you feel anything when you look at yours truly?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When I stare closely at a monster…… my heart rate does indeed quicken」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, what about me?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My head feels all fuzzy, and I cannot gather my thoughts」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Try looking into my eyes」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When I look at you, Sister…… m-my face starts burning up……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nnggh……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-How careless! To think that someone of my caliber would jump to such a conclusion!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Phew, good grief」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, take the day off from your duties today. Do you have cold medicine at home? Make sure you go to bed early tonight. Understood?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-Your will be done」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It feels somewhat disappointing, but from now on, I shall respect Sir Jiiya as a fellow martial artist」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To be honest, I am relieved to find out it was merely a cold」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I was quite bewildered, thinking I had fallen for someone of the same sex. Confusing romance with admiration and harboring feelings for a senior walking the same path--the height of folly!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-How rude! The love between my big sister and me is far purer than that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, nobody asked about that, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, we still haven't disinfected your wound. Brace yourself!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gyaaaah. ……I-It stings～!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, how many years has it been since Shio got an injury like this?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The cold was part of it, yes, but my mind was in turmoil during training…… It seems I am still quite green」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The contents of that book were simply too shocking……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh? Wha? You actually got your hands on that!? That out-of-print 『Everything About Kissing』, right!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Girls love kissing, after all. I don't have any experience myself, but did reading it give you that bittersweet, fluttering feeling?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It was a book about sushi. *Drip*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, a tear fell」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……*Drip, drip, drip*」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What is up with this cousin of ours!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't ask me」"
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "message": "しあわせの味"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mnya... I can't eat another bite~ ...My dessert stomach's gonna burst~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's classic sleep-talking」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Umyu~. Kashiwamochi~?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh~, it's Synn-kun~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Wait, was I sleeping~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sound asleep」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mmm~. It's the central heating's fault~. Ahaha~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「About 5% of it, yeah」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh~. Nana-chan isn't with you~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. When I said I was stopping by the classroom to grab my dictionary, she said she'd head home first」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's rare~. For her to go home first and leave Synn-kun behind~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now that you mention it...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun probably doesn't know~, but to put it bluntly, Nana-chan got a boyfriend~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh...?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Right about now, they're probably gorging on sweets at the shopping district~. All lovey-dovey~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Curious~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka is a girl, after all... and she's at the age where she'd be interested in that stuff」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah. That's a good sign」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, right. Nanaka is cute, so if anything, it's weird it took this long for a guy to notice her charm」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I see~ So Synn-kun thinks Nana-chan is cute~」"
+  },
+  {
+    "message": "Huh?"
+  },
+  {
+    "message": "Just now, did I... call Nanaka cute..."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Buuut, Nana-chan's got that losing heroine trait~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Losing heroine trait?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well said」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Because Nana-chan always runs away from the fight right when it matters most~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I think Synn-kun knows that better than anyone, though~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Even though we're childhood friends, nothing came to mind at all."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, right~ I bet Nana-chan went over there~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Don't go barging in on their date and beating the guy up, okay~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not planning on getting in the way or anything. I'm just gonna size the guy up with the eyes of a protective father」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm-hmm~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Geez~ You two are such a handful~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahaha~ It's nothing~」"
+  },
+  {
+    "message": "Doing just as Sacchin told me, I head toward Peace Tanimura Patisserie."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, it's Synn. What's up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, ah, no, I was just passing by」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm. Well, whatever」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right. Wanna eat a little before you go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know the previous owner's flavors too, Synn, so」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure about this, though?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you're worried about money, don't be. It's just a tasting.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Doesn't really feel like she's out with a boyfriend..."
+  },
+  {
+    "message": "Then again, Nanaka's always been super casual, so maybe this is just how she acts."
+  },
+  {
+    "name": "Paqy",
+    "message": "「I can't pass up a chance to pack in some calories!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you guys really that desperate?」"
+  },
+  {
+    "message": "Could it be that Nanaka's boyfriend is actually inside the shop!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, I guess I'll take you up on that.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Welcome.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Give him a sample too, please. Synn knows how the previous owner's tasted, too.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Understood.」"
+  },
+  {
+    "message": "Aside from Nanaka and me, there's nobody else in the shop."
+  },
+  {
+    "message": "Which means... this guy is her boyfriend...?"
+  },
+  {
+    "message": "No way. Though. No. Still."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's wrong? You've been acting weird for a while now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have... I?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Relax. Eating it won't kill you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I'm worried about.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Here you go. I'm still nowhere near my father's level, but please, enjoy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thank you.」"
+  },
+  {
+    "message": "A familiar-looking eclair"
+  },
+  {
+    "message": "It looks just like the one I ate with Nanaka a long, long time ago."
+  },
+  {
+    "message": "An eclair stuffed so full of whipped cream it looks ready to burst at any second"
+  },
+  {
+    "message": "Inside the whipped cream, chunks of chocolate are packed in tight."
+  },
+  {
+    "message": "It's sloppy and rough around the edges at first glance."
+  },
+  {
+    "message": "Yet the one preserved in my memory was delicious beyond comparison."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's good...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You'll yell 'It's good!' at literally anything as long as it's sweet.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... but...」"
+  },
+  {
+    "message": "It's completely different from the old one. Like a whole other pastry."
+  },
+  {
+    "name": "Synn",
+    "message": "「The old one was... just as sweet and rich, but... how do I put it, the cream melted right in your mouth... or maybe the texture was smoother...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The aftertaste, too... it wasn't heavy or sticky... rich, yet somehow refreshing...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「The appearance has gotten pretty close, though... still a long way to go. Even she gave it 31 points」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, she said it's gotten tastier than at Kirafes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... are the ingredients and everything the same?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I've kept them the same as far as what I could find out and get my hands on, anyway」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if they're the same, when the maker gets older or a successor takes over, the result ends up changing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that how it works...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Something seemed off with the cream, so when I looked into the farm, turns out they'd switched to compound feed. Changed the flavor, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's subtle, huh」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I'll just have to rely on my palate and keep trying different things. Thanks for today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all. All I did was eat」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「No, your feedback was valuable. Come by again whenever you feel like it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, thank you.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, listen」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know I'm one to talk after tearing it apart however I pleased, but doesn't it bother you getting picked apart like that? Doesn't it make you hate baking?」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Honestly, I do wish I'd get praised once in a while」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Still, that's just where my skill is at right now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「No matter what they say, I'm grateful to anyone who eats my food. That's the truth」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Besides, if I don't bake it first, nobody can even eat it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see... yeah, you're right」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Thank you very much! We look forward to your next visit」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「First, if I don't make it, he won't be able to eat it, huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, your phone」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What? Synn? Sure, I don't mind」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, Sacchin says she wants to talk to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What could it be? Hello」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sooorry. That thing about Nana-chan getting a boyfriend was a liiie」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it waaas」"
+  },
+  {
+    "message": "I had been beside myself with worry. In that case, that means Nanaka was simply going there to learn how to make delicious eclairs!"
+  },
+  {
+    "message": "The taste of the eclair we ate together..."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I thought it might be fuuun if a misunderstanding turned into a whole dramatic scene」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the only one who'd find that fun!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, I don't need the bitter melon candy anymore, I changed my miiind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kuuun, you went to the shopping district because I asked you to buy bitter melon candy, okaay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you ask me?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's the story we're going wiiith. Got iiit?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really get it, but alright」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Now, put Nana-chan back on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What were you talking about? Bitter melon candy? What's that? Hmm. Oh well. Anyway, talk to you later」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Where do they even sell bitter melon candy?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... I don't know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She asked you to get it, didn't she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, well, you know, it's Sacchin after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well... fair enough」"
+  },
+  {
+    "message": "Seems like she's convinced. Is it really okay to treat my best friend like that?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, bitter melon candy, huh? You really will eat anything……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe its taste buds are right on par with yours, thinking anything sweet is delicious.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's harsh.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Toward which one of us?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, though. Even you can tell when something's genuinely delicious, right, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pretty much anything sweet tastes good to me, though.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even sugar cubes.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The sweets from that old shop back then were really delicious, weren't they?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "The taste of those eclairs vividly comes back to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You were eating them like they were the best thing ever.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Your cheeks are softening.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can't help it--they really were that good.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「True. You looked super happy.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I still remember that happy look on your face like it was yesterday.」"
+  }
+]

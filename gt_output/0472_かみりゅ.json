@@ -1,0 +1,312 @@
+[
+  {
+    "message": "かみりゅ"
+  },
+  {
+    "message": "The breeze blowing down from the autumn-tinted blue sky feels refreshing."
+  },
+  {
+    "message": "Thanks to the cooperation of all the students and the people living in Ryuusei Town, KiraFes ended in huge success."
+  },
+  {
+    "message": "Still, a part of me feels a bit uneasy. Did Azel truly enjoy herself from the bottom of her heart?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just leave her be. Aze-ko hates noisy crowds, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's exactly why I'm looking for her. I want to hear her thoughts on the Holy Night Festival. You know? Christmas has a quiet vibe to it, doesn't it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, well, she wasn't at the church or the overlook, and she ain't at any of the other deserted spots either.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Bet she's holed up in the girls' dorm. Just give it up already.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not like you, Paqy. You're always pushing me forward, so why are you saying things like that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-How should I know!」"
+  },
+  {
+    "message": "Puzzled by Paqy's attitude, I head toward Asukai Shrine. The odds of running into Azel there are probably low, but it's another quiet, peaceful place."
+  },
+  {
+    "name": "Synn",
+    "message": "「There you are!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「He is here!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This place is magnificent. Just like the church, it overflows with a wise and deeply affectionate presence.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yet I cannot see the Lord's form. Is this merely an afterglow, or is He truly here as you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Umm... All I can tell is that you're here, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...A foolish question.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The neighborhood kids are playing in the shrine grounds... I-Is it too noisy for you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is not unpleasant.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, if it isn't Lord Synn and Lady Azel. Welcome to our shrine.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...? Are you a priest as well as a student?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yes, though I am still a novice.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The academy's church enshrines God, and a deity is worshipped at this shrine as well. Which one is the false idol?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Both are genuine. Though faiths may be many, in the end they are all one and the same.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Have you ever laid eyes upon the Lord's form?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have not.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then why assert it with such confidence? How could you possibly know without having seen it?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm... Lord Azel, is this earth upon which I stand round?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is round.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「And you have beheld that with your very own eyes?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have. I saw it in a photograph. Therefore, I have captured it with my own eyes.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Then I am in the exact same position as you, Lord Azel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You guys are way over my head with this topic.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, it is simplicity itself!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is so simple about it? If a god truly resides here, then how do you explain the current state of this world?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If things continue as they are, ruin is certain. Is that the will of the god you serve?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Insofar as the deity enshrined at our shrine is concerned, destruction is indeed possible.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Fool. You are a priest, yet what nonsense are you spouting?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The god worshiped by the Asukai is a life born from the condensed breath of nature; thus, the decline of nature's spirit reflects directly upon their very being.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The state of the god merely mirrors the vitality of the world in this present moment.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Absurd. Then why is this place so remarkably pure?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Because the hearts of those who visit to worship--starting with the children playing in the shrine grounds--are clear and pure.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wrong. It is because breathing the clean air here naturally puts one's mind at ease.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, aren't you two basically saying the same thing?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「We are not.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Granted, this place is not bad, but the trees are too overgrown and cast too much shadow. If everything were reduced to nothing and reborn, it would be far better.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「You speak almost as though a god were passing away from this world.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Then, supposing you were to recreate the sacred grounds of Asukai... Hmm, what would you plant first for the shrine grove?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I looked through a botanical encyclopedia at the library. I can understand the trees here. If it were me, I would plant oak, chinquapin, and konara oak. That will become a forest」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is not enough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel, no good」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, Ryuusei Town gets hit directly by the sea breeze, right? Even more so since Asukai Shrine is on a hill, so it's basically taking the brunt of it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Without trees like machilus, Japanese fig, or privet to act as a windbreak, the forest will wither away, I'm telling you」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is my way no good? Yet the priestess said it was simple」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan doesn't lie. It's just that you aren't a simple person, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. I understand」"
+  },
+  {
+    "message": "R-Really?"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am glad I came here. I shall ponder in order to understand」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It was a fine visit」"
+  },
+  {
+    "message": "True to her word, Azel heads down the main approach with a deeply pensive look on her face. The atmosphere makes it impossible to call out to her."
+  },
+  {
+    "message": "I'll ask her about the Holy Night Festival another day."
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Azel possesses quite a mysterious aura, does she not?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't have the power to sense that. Though I can tell that both you and Azel are amazing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You two were having a really difficult back-and-forth that I couldn't wrap my head around at all」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Truth be told, this humble one did not understand a single bit of it either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-S-S-Shio-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Everything I spoke during that exchange with Lady Azel was merely parroting my mother. Goodness, had she pressed me just a little further, I would have been at a complete loss for words」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, the part about the trees that Lord Synn mentioned at the end... that much, I understood myself」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, anyone who lives in this town would know as much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel is a transfer student. By Christmas, he'll be much more settled into Ryuusei Town」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In that case, I shall listen to even more stories from Mother in preparation for Hatsumode」"
+  },
+  {
+    "message": "A few minutes after Azel, I leave the shrine as well."
+  },
+  {
+    "message": "Looking at the blue of the sky and the sea, a thought suddenly crosses my mind. I wonder if they look the same color to Azel's eyes too?"
+  }
+]

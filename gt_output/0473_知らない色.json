@@ -1,0 +1,324 @@
+[
+  {
+    "message": "知らない色"
+  },
+  {
+    "message": "Now then, I wonder how Sally and Eauderourke are doing? Let's go check on them."
+  },
+  {
+    "message": "Thinking that, I started heading out toward the Shiokumi Shopping District, only to stop in my tracks halfway."
+  },
+  {
+    "message": "It hasn't even been half a day since those two started working hard at it. No matter how you look at it, I'm worrying way too much--let's try another time. I need to have a little more faith in them."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Oh?"
+  },
+  {
+    "message": "Just as I was about to turn back home, I ran into Azel, who was walking with the same strange pace as me. I gave a light nod, but his gaze was off in another direction, and he hadn't noticed me yet."
+  },
+  {
+    "name": "Azel",
+    "message": "「……?」"
+  },
+  {
+    "message": "Azel would walk, stop, and after a short while, start walking again."
+  },
+  {
+    "message": "Or so it seemed--before he suddenly spun 180 degrees. Then he walked a few meters and came to a halt once more. For a casual stroll, he was acting pretty strange."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's the matter?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What about you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was just thinking of going to see Sally and Eauderourke. Though I've decided to hold off for today.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is that woman doing?」"
+  },
+  {
+    "message": "Azel looks away from me toward a random direction... no, toward Kenseizaka Park right next to us, and tilts his head."
+  },
+  {
+    "message": "Misa is standing there alone with a serene expression, doing something."
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh my? Azel-san and Sakura-kun, good day to you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. So by 'that woman,' you meant Misa?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wha--!? I can't let that slide. Just who are you calling 'that woman'?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're the Student Council President, aren't you? How dare you use such vulgar language! Hmph, if you can't even address someone by their name, you're unfit to be president!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're completely right, except I wasn't the one who said it--Azel did!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My, Azel-san did?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I know nothing of this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whaaat!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on just a moment, Sakura-kun!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A pointless argument.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「More importantly than such trivial matters... what are you doing?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Me? I'm just picking up fallen leaves?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even though the autumn colors have only just begun, the impatient leaves are already blowing in the wind and scattering down」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so you were cleaning up. I'll help out too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Cleaning, is it. Understood」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse meee!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How rude! I am trying to make pressed leaves!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmm... it'll be faster if I just show you」"
+  },
+  {
+    "message": "Misa takes a paperback book out of her pocket and opens its pages. Pressed between them is a single ginkgo leaf, looking as though yellow is melting into green."
+  },
+  {
+    "name": "Azel",
+    "message": "「...May I touch it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, of course」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You can have it if you'd like? I made that one last year. I've enjoyed it plenty already」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel picks up the pressed leaf and flutters it between his fingertips."
+  },
+  {
+    "name": "Azel",
+    "message": "「It's stiff. Why is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because it's a pressed leaf. I make them sometimes too. Going out of your way to buy a bookmark is just a waste of money, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!? Please do not lump me in with you!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Every year, I gather fallen autumn leaves and carefully select the very best ones!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do it here? If you want plants that have changed color, there are plenty at the academy. The leaves in this park are halfway done」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I was thinking the same thing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's true... certainly, places at higher elevations like Ryuusei Academy and Asukai Shrine turn yellow much sooner. In the blink of an eye, really」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's surely thanks to how the wind hits them. Every leaf turns a gorgeous, solid red or solid yellow」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In comparison, the leaves at Miseizaka Park turn yellow slowly...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, I like this kind better」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why is that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because the colors are so interesting」"
+  },
+  {
+    "message": "As she says this, Misa picks up fallen leaves from the ground and hands them to Azel and me."
+  },
+  {
+    "message": "Retaining the deep green of late summer while shifting from green to yellow with the arrival of autumn, the leaves have an exquisite blend of hues. A variety of colors appear on just a single fallen leaf."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-What color... should I even call this?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unidentifiable. A curious color」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Just as Misa did, Azel picks up a fallen leaf himself to examine it."
+  },
+  {
+    "name": "Azel",
+    "message": "「No two leaves have the exact same hue. Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, I can't really answer that. That's just how it is」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have never experienced the four seasons. Is this what they are?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Not just this, I'd say... though this is part of it, yes」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Birds singing, plants budding, scents drifting through the air with each change. All of those things together are the four seasons」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understoo--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. Why don't you try pressing some of this year's autumn leaves too, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I do not know the method」"
+  },
+  {
+    "name": "Misa",
+    "message": "「All you have to do is slip them inside a thick book, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you can, it's even better to stack several books on top and press them down nice and tight」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hold on. Does that mean the books cannot be read during the manufacturing process?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hmph, how contradictory」"
+  },
+  {
+    "message": "Azel lets out a wry smile and gathers up several fallen leaves, and I follow his lead."
+  },
+  {
+    "message": "Misa doesn't seem interested in competing with Azel, instead sharing all sorts of tips on how to press leaves."
+  },
+  {
+    "message": "They'll probably be finished around the middle of this month."
+  }
+]

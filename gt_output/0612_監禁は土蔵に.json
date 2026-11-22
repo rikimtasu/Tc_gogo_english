@@ -1,0 +1,262 @@
+[
+  {
+    "message": "監禁は土蔵に"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I looked at Nanaka's seat."
+  },
+  {
+    "message": "Today, Nanaka is absent. Apparently she's feeling unwell."
+  },
+  {
+    "message": "For Nanaka, the picture of good health, to be absent..."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's fine~ It's just lack of sleep~ Probably~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Even though Melilot-san said Nanaka was already fine."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan will be back to her energetic self by Sunday~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka told me not to ask until after the Holy Night Festival ends."
+  },
+  {
+    "message": "So I decided not to ask either."
+  },
+  {
+    "message": "Still, is that really okay?"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Trust me~ Look, look, clear eyes~」"
+  },
+  {
+    "message": "Is the reason I can't bring myself to fully trust her despite how clear they look because my own heart is tainted?"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Synn! I managed to score some yakisoba bread! A whole two of 'em!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Good for you」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「I'll give you one!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeeh!?」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Don't hold back! Eat this and cheer up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Am I looking so down that even you can tell, Eddie?」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Something about the way you put that rubs me the wrong way, but I think anyone could tell.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "I'm worried about Nanaka. I'm worried about Nanaka. I'm worried about Nanaka."
+  },
+  {
+    "name": "Synn",
+    "message": "「I've got it!」"
+  },
+  {
+    "message": "I'll go visit her on the way home! Yes, I'll do that!"
+  },
+  {
+    "name": "Eddie",
+    "message": "「W-What's got into you!?」"
+  },
+  {
+    "message": "Even though I can't buy a muskmelon, and we don't have canned peaches at home either."
+  },
+  {
+    "message": "I'll bring some produce harvested from our home vegetable garden."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Synn-sama ain't eatin' it!? Then yours truly will gladly help himself!」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「That's a token of friendship. Aaaah, our friendship is getting eaten!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Where's Nanaka-han!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Misasagi-senpai, are you still half-asleep~? You're the one who slipped Nana-chan sleeping pills and put her to sleep, Senpai~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sleeping pills!? W-What is the meaning of this!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「She looked terribly unwell, so I merely slipped her a little dose.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Unwell--is Nanaka okay?! And what do you mean you 'slipped her a dose'!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I just got word that she snuck out of the house, you see. It seems she hasn't returned to Yuugiri-an either.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehhhhh~!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Snuck out!?」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「In short, confinement.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't tell me you were holding Nanaka captive! Why!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Would you kindly refrain from making it sound so scandalous? She was staying over at my place, so I simply slipped her a dose while I was at it and let her sleep.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She stayed at Misasagi-senpai's house?!」"
+  },
+  {
+    "message": "W-What happened to you, Nanaka!?"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's a super huge mansion, you know~. Amazing that Nana-chan managed to sneak out~. If it were me, I'd get lost just trying to find the bathroom~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You actually did get lost, didn't you.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe. When it comes to confinement, a storehouse and ropes really are the way to go~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mornin'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nanaka!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「N-Nana-chan!? Are you okay~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If a certain someone hadn't drugged me, I'd have been full of energy since morning!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you really okay!?」"
+  },
+  {
+    "message": "I placed my hand on Nanaka's forehead. Doesn't seem like she has a fever or anything."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What're you doin'!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with you guys, looking like you've seen a ghost. You're making way too big a fuss! Besides, having you worry about me throws me off!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-what are you doing, Bubuzuke!? H-hey, hold on」"
+  },
+  {
+    "message": "Misasagi-senpai grabbed Nanaka's hand and headed out into the hallway."
+  },
+  {
+    "name": "Synn",
+    "message": "「……What's going on here」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Umm, well--. There's a lot going on--. Basically, they're super close--?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jeez, I told you it's fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nothing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Don't worry, Synn-kun--. Misasagi-senpai is rich, so--she's not gonna shakedown Nana-chan or anything--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wasn't worried about that」"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "message": "滑りＤＩＥ"
+  },
+  {
+    "message": "Now then, where should I study for the tests? Should I go back to my room, use the library, or head to the Student Council room--"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, hiya!」"
+  },
+  {
+    "message": "As I'm thinking over my after-school plans in the entrance hall, Sally suddenly calls out a greeting from the second floor."
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo, wheeeee~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!? S-Sally, sliding down the banister is dangerous!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm totally fine! Boing!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Landing's a 9.95~ Nicely done~」"
+  },
+  {
+    "message": "As students head home in small groups, Sacchin--who showed up at some point without me noticing--lavishes praise on Sally."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, her athleticism is impressive, sure, but instead of that, warn her--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hm... hmm? Not a 10.0?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「To get a perfect score, you need a whole panel of judges~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yessir! Fellow students, watch my technique!」"
+  },
+  {
+    "message": "Sally dashes up the stairs and slides down the banister once more."
+  },
+  {
+    "name": "Sally",
+    "message": "「Yoo-hoo♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nyohho~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why are even you sliding down it to play around, Sacchin!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's uncalled for~ I was just so worried, so terribly worried about Sally that I'm sticking right by her side~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Liar, you just wanted to play around!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, what's my score?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Halt, Lady Sally! What outrageous conduct within the academy! This is no playground!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Jeez! But this is super fun! You should do it too, Shio-chi!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Agh, where are you going!? Heed my admonition!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ufufunofu~♪」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Honyaranrara~\\s07」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Wheee~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shio-chan...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay! I was merely pursuing Lady Sally and slipped as a result」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hii, it's Helena, casually patrolling the campus\\s04」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heya, Chairwoman! Be a judge for us!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Zero points!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What do you think you're doing, you little brats! You'll get seriously hurt if you fall. Stop that right now!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Lariat, lariat, lariat」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gah!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hwah!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kgh!」"
+  },
+  {
+    "message": "Helena forcefully swats everyone down toward the stairs."
+  },
+  {
+    "name": "Helena",
+    "message": "「Only one left. And for Synn―chan, our scholarship student and Student Council President―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Leg lariat!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guhah!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「N-Next time we'll do it on the Prez's stairs at home. Thud, swirl~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please, st-op... it... *thud*」"
+  }
+]

@@ -1,0 +1,661 @@
+[
+  {
+    "message": "ポスター貼りは高等技能"
+  },
+  {
+    "message": "While slapping posters up along the hallway."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Heeey. So the Charity Bazaar ended up being called the 'Ryuusei Academy Sparkle Festival'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yep, I came to help out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what do you think? Of the name」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I think it's pretty good. Sounds like a department store bargain sale」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That sounds kinda backhanded as a compliment」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're imagining things. Still, this looks rough. You still have this whole pile left」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we want it approved at the student assembly, we have to get everyone to know about it first」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Student Council work is surprisingly physical labor, nothing like I imagined」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Are the posters all you're doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once we're done putting up posters, we're going to go around to each class and give a quick explanation」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hehehe. In that case, you'd better be super grateful to me too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, my best friend is working so hard, so I'm pitching in too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa. Those suspicious eyes. How insulting. I've been telling people all over how hard everyone in the Student Council is working. In other words, I'm the Student Council's fifth column」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fifth column?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I don't really get it, but apparently it means a detached force」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Even if I say so myself, I'm doing amazing work. Ahem. I'm gonna keep helping out more and more」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then hey. Could you hand out these flyers at the school gate?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Eeeh, handing flyers to people while they're walking? Asking me to do something that fast is totally impossible」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then when we go around to the classes, write stuff on the blackboard」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「B-But my... handwriting is messy. Your demands are way too advanced」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「True...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, what can you even do anyway?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm, nothing for now, I guess. Oh, I know! I'll cheer you on!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you messing with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, she's offering out of the goodness of her heart」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, what he said!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That doesn't even count as an offer!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I can't argue with that."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Help me put up these posters. You can at least do that, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehh, I'm just too clumsy for that~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's an old joke」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, I see. I'll be more careful from now on~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The shelf life of the joke doesn't matter right now. Just put up a poster!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If you insist that much, I guess I have no choice. Don't be disappointed, okay~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Heave-ho, heave-ho. Alley-oop, alley-oop. Phew... and there we go!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「See, I put it up. Whew. Worked up a good sweat~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hate to interrupt your refreshing smile, but this is a bit...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Right? It's crooked, isn't it~ Ahem!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't act proud! Put it up straight!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, Nanaka. She did put it up, after all. And you can still read it just fine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not a handwritten poster, of course you can read it! Besides, if it's tilted over 45 degrees, that doesn't count as putting it up!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's impossible. I'm clumsy, you know. I don't have the arm strength to hold the paper in place~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're way too weak!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I've decided it's my loss if I ever carry anything heavier than sweets--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... you've already lost then, Sacchin. Besides, something like a dense, packed chocolate cake is heavier than a poster」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sh-Synn!　Where did you ever carry a chocolate cake?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I carried them when I helped out at a cake shop」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, sweets are measured separately. If it's sweets, any weight is a piece of cake. Ahem」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin, just pretend this poster is a cake!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No way. I can't eat it--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's paper, so you can eat it if you force yourself. Look, roll it up like this and it's a crepe」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「...I wouldn't line up to buy a crepe that looks this gross--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't have to buy it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin... I hate to say it, but you're way too hopeless」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Gasp」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「B-But it's fine. As long as a girl has charm, things work out somehow. It'll definitely maybe kinda-sorta be fine--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. Zero basis for that!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Still, living life really is tough, isn't it. I'm lacking in all sorts of ways, like I can only eat sweets and can't make them...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that right... You look more domestic than Nanaka, though, Sacchin」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just an illusion. Wait, what do you mean 'than me'!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, that's the same as Nana-chan. We really are besties, two peas in a pod--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It might be true, and I do sometimes think of Sacchin as a best friend, but don't call us besties over something like that!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Eeeh, I thought we were besties, so hearing it's only 'sometimes' is such a shock. A bolt from the blue. Et tu, Brute--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're just spouting random nonsense, aren't you」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun, it's awful. Nana-chan is calling me her enemy--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jumping straight to enemy now?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's harsh, Nanaka. Even if it is Sacchin. Calling her your enemy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When did I suddenly become the bad guy!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're both kinda mean~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My head hurts... Gah, I'll put them up myself!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Do my share too~ Hooray, hooray, fight, fight~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-b-b-b-b-b-b-bam, bam, b-b-b-b-b-b-b-bam!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa! In no time at all, posters are going up all over the hallway!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, you're amazing~ Clap, clap, clap」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's really getting into it」"
+  },
+  {
+    "message": "Posters for the \"Sparkle Festival\" are filling up one whole wall of the hallway!"
+  },
+  {
+    "message": "I have to do my best too."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, look~, over there~」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way, Nanaka! You can't put up a 'Tenants Wanted' poster for my place!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There are so many of them, nobody's gonna notice if I mix just one in」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even Sacchin noticed it, so no way」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no point unless I put it up where even Sacchin can notice it, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're both so mean~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Anyway, no!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just one is fine, isn't it? Stingy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not the issue here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. Fine, I'll peel this off... Now, onwards we GO!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-b-b-b-b-b-b-bam, bam, b-b-b-b-b-b-b-bam!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Could it be~ that Nana-chan is actually pretty suited for the Student Council~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. She's fast and accurate with math, and since she helps keep the ledgers at home, auditing accounts is a piece of cake for her too」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooh. She's that capable? As her best friend, I'm so proud~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mhm. As her childhood friend, I might be pretty proud too. Still, Sacchin, you should at least be able to put up posters」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe. Sorry~. Still, the power of love really is amazing~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The power of love?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, though the power of friendship isn't losing either~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Like I said earlier, I've been secretly and openly spreading the word that this year's Charity Bazaar is going to be amazing~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Secretly and openly... Your Japanese sounds kind of broken...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「For example, like: 'Hey, a cute new general store opened up in front of the station, right? Let's totally go sometime~'」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「'And on a completely different note, I hear this year's Charity Bazaar is going to be pretty amazing~'」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I casually tack that onto the end of every single conversation~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's insanely unnatural, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I also mention on the side that the Student Council is aiming for a glitzy, thump-thumping, pound-pounding, squelchy-squelchy school life~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...It's a sparkling, shining school life」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Still, there's just a tiny little problem~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why's that?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I've been promoting it and all, but just having more items from 'Ponpoko' and 'Raffine' doesn't have enough impact to make it seem way more amazing than usual~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. Now that you mention it, maybe so」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I want something catchier that really tugs at a maiden's heartstrings~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Man, this girl sure loves to talk big--take this, grind, grind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So fast! You're already done!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heheh. Leave it to me」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Stop it, Nana-chan! No knuckle-grinding~, it hurts~, I'm gonna die~\\s06」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like hell you'll die!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「My head is super soft so it'll get squished right away~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is your head made of tofu?! From now on I'm calling you Tofu Girl. Definitely calling you that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, tofu is called something-cake in English, isn't it」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Never mind that, make her stop~, whoa~, I'm dying~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You sound like you've got plenty of energy to spare, though」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're imagining things. Still, I can't die just yet. Apparently, Sans Souci is putting out a new cheesecake soon. So until I eat it--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh! It's finally out?! As the Sweets Club, we must mobilize! Alright, let's head out right now」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ow, that hurt. Okay, I'll let Yumil know too--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka-san. It seems you're forgetting something important」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nothing is more important than Sans Souci's new cheesecake!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah!」"
+  },
+  {
+    "message": "I silently pointed at the poster."
+  },
+  {
+    "name": "Synn",
+    "message": "「Madam Treasurer. Any objections?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「None. Sorry, Synn. The Sweets Club is important, and Sans Souci's new cheesecake is important too, but that's important as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Sounds kinda like an afterthought」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Haaah... Well, when you're up against delicious sweets, you can't help it--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe so, but I've got my position to think about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So if you didn't have your position, sweets would be more important?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If the bazaar had sweets too, it'd be super fun--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's it! That's it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin, you're a genius. That's the ticket! How about a cake buffet for Kirafes?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see! Pay a set fee for all-you-can-eat or something!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Just imagining it makes me feel all happy--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You actually say something smart once in a while, Sacchin! Alright, we gotta go recruit in the shopping district right away」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe. Am I amazing--?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amazing, amazing」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Of course I am. I'm Nana-chan's best friend, after all--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah. Right now, I really feel like Sacchin is my best friend. My best friend!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin」"
+  },
+  {
+    "message": "The two of them hug each other tightly in the hallway."
+  },
+  {
+    "name": "Synn",
+    "message": "「Mm-hmm. Isn't getting along a wonderful thing」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「All right! I'm gonna go advertise like crazy that the upcoming Charity Bazaar has all-you-can-eat sweets」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'll do my best for the sake of sweets! No time to lose!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin ran off even though nothing's been decided yet... Actually, that's the first time I've ever seen her run」"
+  },
+  {
+    "message": "So she can run, that girl."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, even if Sacchin's a little slow on the uptake, of course she can run」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fair enough」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She's actually pretty fast when she runs. Thing is, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, she tripped」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ow-ow-ow, but... for the sake of sweets!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... She can run, she just trips a lot...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well... yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we incorporate this idea, things are gonna get super lively! We have to get everyone's approval to hold 'KiraFes' no matter what!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh! Everything for the sake of sweets!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not it...」"
+  }
+]

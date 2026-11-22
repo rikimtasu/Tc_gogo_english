@@ -1,0 +1,423 @@
+[
+  {
+    "message": "唇が触れそうな距離"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So Azel didn't end up coming to school after all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He wasn't acting like his usual self at all, either...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could it be some kind of ill effect from when he descended to the Human World...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I checked the dorms too, but he wasn't there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Azel-san... don't you think he's hiding something from us?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Most likely. That wasn't the first time Azel and Virus had met.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You mean they already knew each other?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Probably, yes. And they understand each other's goals.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In that case, Virus attacked him to stop Azel-san from achieving his goal.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Unforgivable! Targeting Azel-san, of all people!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We have to find Azel as soon as possible and protect him.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It would be terrible if he got attacked again.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wonder about that.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, Big Sis.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Do you really think enemies would get the chance to talk over each other's goals?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「This is purely hypothetical, of course, but right now we're unconditionally assuming Azel-chan is on our side.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you saying Azel is an enemy?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「At the very least, his goal is heading in a different direction from ours.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And in that man, Virus, I sense a deep conviction.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sorry. It pains me to make you all doubt a friend, but...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It means the possibility has arisen that Azel was cooperating with Virus.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, with Virus...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-That can't be true!! Azel would never...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Why can you say that with such certainty?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, um...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Lolotte. This is strictly a hypothetical. Let's calm down and think this through.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, even if they were allies, I don't see why he'd attack Azel.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus abandoned even his own ally, Soltia. Assuming he would save her was a miscalculation on my part.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If I had to guess, Virus and his kind never had the kind of camaraderie we feel every day in the first place--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It was a friendly alliance formed merely to achieve a goal. The sort of relationship where betrayal wouldn't be surprising at any moment.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How could...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To think I was cowering in the face of a power like that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot. I can't lose to Virus... I don't want to lose!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You wish to become stronger. Even to the point of surpassing me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course. Because--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And Ria」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not fighting Virus with my strength alone.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if you surpass me, there is no guarantee you will win. Knowing that, you still intend to challenge Virus?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if the odds are only 1%, it's definitely worth a try.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, looks like someone copied me\\s07」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Everything up to this point was merely a warm-up. I will accept no whining from here on out.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yes, ma'am!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, shoot!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hmm... What's wrong, Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I forgot to give Helena-san the budget plan.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your head's been full of stuff like the Virus. Can't be helped.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't really want to use that as an excuse, though. A student's primary duty is Student Council activities, after all.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, true.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wait, hey!!」"
+  },
+  {
+    "message": "When I called their home, I was told both sisters were still at the academy."
+  },
+  {
+    "message": "I dash at full speed toward the chairwoman's office."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...?」"
+  },
+  {
+    "message": "Faintly, some unusually moody and rhythmic music is playing."
+  },
+  {
+    "message": "C-Could this be one of the academy's seven mysteries...?"
+  },
+  {
+    "message": "E-Eek, I need to get to the chairwoman's office fast\\s01"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-E-Excuse me\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Welco~me♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-Wh-What are you two doing at this hour, holding hands and hugging each other like that\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be forbidden sisterly love...!?」"
+  },
+  {
+    "message": "No way... So Ria―senpai really is just like how Misa drew her―"
+  },
+  {
+    "name": "Ria",
+    "message": "「You've got it wrong, Synn-kun! Don't jump to weird conclusions!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then what were you doing?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's... This is, um...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Hey, do you have the goods yet?'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Aah! Sorry, I'm so sorry」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, good work♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis. So you knew Synn-kun was coming」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, that's right. Mother contacted me about it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then you should've told me from the start, geez!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, Senpai, what were you and Helena-san doing?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, Synn-chan. Since it's cold, you should finish off that Stolichnaya over there before heading back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, thank you very much. Gulp, gulp」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Heeey, hold on a sec--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pwaaah--!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So good――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is Stolichnaya?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's vodka…… I was only joking……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hebuh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Alright, with this, Ria's secret is safe」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't give me 'alright', geez!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, I'll leave the rest to you!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Hey, hold it. Don't run away--!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……Geez…… Big Sis really……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, are you okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Zzz…… zzz……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank goodness…… looks like he's just asleep……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mm... nnh... Leah-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...! Even when he's asleep, he's thinking about me...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just on the cheek should be fine, right...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I brought a stretcher~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aaaaah, w-w-w-w-waaah!」"
+  }
+]

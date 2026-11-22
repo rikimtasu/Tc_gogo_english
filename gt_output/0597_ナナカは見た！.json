@@ -1,0 +1,487 @@
+[
+  {
+    "message": "ナナカは見た！"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fwaaaah...」"
+  },
+  {
+    "message": "She looks sleepy again today."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn. You've got something prepared, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right! Here, take this」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Uhh... w-what is this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...W-well, this is, um, you see」"
+  },
+  {
+    "message": "Hey, Synn, what are you getting all flustered for."
+  },
+  {
+    "message": "You're just handing Nanaka a little something!"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-use this!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-whaaaaat! Shiiiiin is giving me a p-p-present!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-it's really not a big enough deal to call a present」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I'm happy, really, but I can't accept it! I know all about how tight your wallet is, Synn! So I can't just happily take it, or rather」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine, I grew this myself!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You did?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's herbal tea made from chamomile I raised in the garden. If you drink this before bed, it'll calm your nerves and help you get plenty of sleep」"
+  },
+  {
+    "message": "Ah, man, I'm talking way too fast."
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-you know, you've been yawning a lot lately, Nanaka, so, um」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Synn. Thank you」"
+  },
+  {
+    "message": "I-I'm getting embarrassed!"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-uhh, r-really, it's nothing special!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not true! Thanks!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Use this to sleep tight over the weekend, okay」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This is the first time you've ever given me anything, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Is... it? Oh, maybe it is...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm gonna treasure it! I'll put it on display on the family altar! Since it's my very first present from you, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I didn't know it would make her this happy..."
+  },
+  {
+    "message": "And seeing Nanaka so happy makes me feel just as glad..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, s-sorry. Did I get a little too excited and creep you out?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-umm, well, rather than just treasuring it, I'd really like you to use it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-yeah, you're right. Herbal tea is meant to be drunk, after all. Ahaha」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, what did you want to talk about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai and Misaki-senpai are really close, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just between you and me, though... actually, we're not」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? Really!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There's a lot going on between the Kujo and Misaki families, you see. We have to act like we get along for appearances' sake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-there were dark circumstances like that behind it all?! What am I supposed to believe in anymore!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just kidding~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What if--just hypothetically--Misaki-senpai was keeping a secret from you, Ria-senpai? How would you feel?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Do you think friends shouldn't have any secrets from each other, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, no, I wouldn't say that, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If someone is keeping a secret from you, does that mean you can't be friends with them anymore?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, no, not necessarily」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Right? Everybody has a secret or two. Me included, and Ayashiki-chan too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Or rather, the longer and deeper you get to know someone, the more things you don't know about them--or secrets, I guess you could say--start piling up」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think being friends means accepting each other, secrets and all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What if it's an unforgivable secret that they kept quiet about?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sure... there's no such thing as an unforgivable secret」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is... that so?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「There are plenty of other things too, but to give you one example--Ayashiki-chan never talks about her family at all. Not about her parents, or any siblings either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think there's probably something going on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't you want to know? Doesn't it bother you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It does bother me, sure, but I don't feel like prying into it myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that because you're scared?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm not scared. How should I put it... I just think that someday, Ayashiki will tell me on her own」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It might be something really heavy, and there might not be anything I can do about it. Even so, I'm not scared」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because I believe that after listening to her whole story, I'll be able to say 'thank you'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Thank you for telling me'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah! Those words are way too good for that black-stockinged chick! Yours truly wants to spill a secret to Ria and have her sweetly and gently say 'thank you' too!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That said, I don't have any basis for it, I might not even be able to hear her out to the end, and if it actually happens, I might end up cutting ties with her」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, it's true that this is how I feel right now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn, do you hate that Nanaka is keeping a secret from you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not that I hate it, but... wait, how did you know?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I can tell. Lately, you've been constantly worrying about Nanaka, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't mean to act like that, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even if you didn't mean to, that's how it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I can tell. Your eyes follow her. Always」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Is that really true..."
+  },
+  {
+    "name": "Synn",
+    "message": "「I know even Nanaka has a secret or two. Even so, I just can't help letting it bother me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What about before now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is the first time Nanaka has ever kept a secret from me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The first time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think that's true. She has at least one secret.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I bet it's a secret she's been keeping for a really long time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How do you know something like that?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe because I'm a girl too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it no good for me because I'm a boy?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sure you just didn't notice because Nanaka-chan has always been way too close to you, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Maybe you're right.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How should I put it... Even when we were physically apart, it felt like we were always together. Completely naturally.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You've even been in the same class the whole time, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But lately, it feels like that's not the case... Like Nanaka is Nanaka, and I'm me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like we weren't actually together at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it weird for me to only realize something like this now?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think it's a good thing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But... wanting to know something the other person is trying to keep secret...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It just means you've started looking at Nanaka-chan properly, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "...Have I not been looking at Nanaka...?"
+  },
+  {
+    "message": "Maybe so. No, that must have been the case."
+  },
+  {
+    "name": "Ria",
+    "message": "「Because you're looking at her properly, you realized she's her own girl, so you can't just feel at ease anymore. You end up worrying about her.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Took you long enough. You have to make sure you watch over her properly, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What were you talking about with Ria-senpai?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I saw you two when I passed by the field earlier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just talking things over」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Am I not good enough?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah, kind of」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I am just an unreliable Crusaders after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I meant」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then what did you mean!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, I was just asking for some advice」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I already know you have a thing for Senior Ria, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's with that, acting all innocent!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like that at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka. What's wrong? You're acting weird」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Ah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-If it's just for advice, that's fine. Just advice」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Sorry... I don't know what got into me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm being weird... Even though I knew you and Senior Ria were just talking for a bit... why...」"
+  }
+]

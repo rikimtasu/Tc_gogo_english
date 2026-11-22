@@ -10,7 +10,7 @@
 
 ## 1. Executive Summary & Source Baseline
 
-The intended deliverable is a complete English xdelta3 patch for the PSP visual novel *Twinkle Crusaders GoGo!* (v1.01). Currently, Batch 1 (6 scenes, 914 changed rows / 908 checked dialogue rows), a **Barlow Semi Condensed Medium** font pipeline, a `1.5x` EBOOT slot-expansion fix, and save-load/backlog EBOOT fixes (including the `0x0887F924` speaker capture clamp) have been built into `build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso`, with `13/13` consolidated unit tests passing (`0.19s`). Scope is restricted to Disc 1 (*GoGo!* main game); the *STARLIT BRAVE!!* bonus UMD is deferred.
+The intended deliverable is a complete English xdelta3 patch for the PSP visual novel *Twinkle Crusaders GoGo!* (v1.01). Currently, all 931 scenario scripts (`97,274` rows in `gt_output/`), a **Barlow Semi Condensed Medium** dialogue font pipeline, **`1.5x` EBOOT slot-expansion + save-load/backlog fixes + `0x0894552c` `™`-inserter fix**, all **73 EBOOT system strings** ([`glossary/eboot_strings.json`](file:///d:/Documents/Twinkle_Crusaders_GoGo/glossary/eboot_strings.json)), and **176 localized UI & Title Screen logo textures** across `GAMEINIT.CPK` (`14`), `BATTLE.CPK` (`145`), and `GRAPHIC.CPK` (`17`) have been merged into `build/master_v5/Twinkle_Crusaders_GoGo_EN.iso` and `build/master_v5/Twinkle_Crusaders_GoGo_EN.xdelta` (generated and round-trip verified with `xdelta3` v3.2.2), with `14/14` consolidated unit tests passing (`0.22s`). Scope is restricted to Disc 1 (*GoGo!* main game); the *STARLIT BRAVE!!* bonus UMD is deferred.
 
 ### Cryptographic Baseline Hashes
 All patches and re-imports must strictly target and match the following clean baseline dumps (see `reports/source.md`):
@@ -111,9 +111,9 @@ ISO9660 (.iso)
 | **P0** | Environment Setup & Hashes | **Complete** | [`reports/source.md`](file:///d:/Documents/Twinkle_Crusaders_GoGo/reports/source.md) |
 | **P1** | Extraction & Rebuild Toolchain | **Complete** | `tools/cpk/`, `tools/pjadv/`, `gt_input/` (931 scenes) |
 | **P2** | EBOOT Word Wrap & Font Replacement | **Barlow + 1.5x slotfix + save-load/backlog EBOOT fixes built (`13/13` tests pass); PPSSPP re-check pending** | `tools/build_p2.py`, `tools/eboot/patch_eboot.py`, `BarlowSemiCondensed/`, `build/p3_batch1_backlogfix2/`; remaining checks in [P2 report](reports/p2-proof-of-concept.md) |
-| **P3** | Text Translation & Editing | **Batch 1 translated & packed (0 overflows)** | 6 scenes in `gt_output/` (prologue `0003`, tutorial `0002`, opening arc `0001`/`0004`/`0005`/`0006`; 914 changed rows / 908 dialogue rows); editorial review pending |
-| **P4** | Graphic & UI Localization | **Deferred** | Textures in `GRAPHIC.CPK` and `BATTLE.CPK` |
-| **P5** | Master Build & xdelta3 Release | **Deferred** | Verified patch against clean v1.01 ISO |
+| **P3** | Text Translation & Editing | **Complete (931/931 scenes, 97,274 rows)** | Full script in `gt_output/` (`95,890` changed rows; `1,268` `label`/`scene_title` engine keys preserved; CP932 & ASCII `!`/`?` normalized; `195` 4-line rows flagged for editorial tightening) |
+| **P4** | Graphic & UI Localization | **Complete (73 EBOOT strings + 176 UI/Logo textures)** | `glossary/eboot_strings.json` (`73/73`), CSM1 8bpp `tools/cpk/tim2.py`, 4x-supersampled `tools/p4/*` (`14` `GAMEINIT`, `145` `BATTLE`, `17` `GRAPHIC` including English Title Screen logos) |
+| **P5** | Master Build & xdelta3 Release | **Built & round-trip verified (`build/master_v5/`)** | `tools/build_master.py`, `build/master_v5/Twinkle_Crusaders_GoGo_EN.iso` & `.xdelta` (`xdelta3` v3.2.2, `10,811,736` bytes, SHA-256 round-trip verified) |
 
 ---
 
@@ -169,30 +169,58 @@ All tools are located in the [`tools/`](file:///d:/Documents/Twinkle_Crusaders_G
 ### 6. `tools/eboot/mips_asm.py` (MIPS32 Assembler)
 - Lightweight assembler for compiling inline MIPS assembly snippets and generating binary patches for `EBOOT.BIN`.
 
-### 7. `tools/eboot/patch_eboot.py` (Version-Pinned Wrapping PoC)
+### 7. `tools/eboot/patch_eboot.py` (Version-Pinned Wrapping & String Patcher)
 ```powershell
-python tools/eboot/patch_eboot.py --src work/eboot/EBOOT_decrypted.bin --out work/eboot/EBOOT_next_trial.bin
+python tools/eboot/patch_eboot.py --src work/eboot/EBOOT_decrypted.bin --out work/eboot/EBOOT_next_trial.bin --strings glossary/eboot_strings.json
 ```
-Output must be a new file. GPU rendering and PSP loader compatibility remain unverified.
+Output must be a new file. `--strings` patches all 73 translated CP932 strings from `glossary/eboot_strings.json` in-place within their `slot_capacity` and patches `0x0894552c` (`move s6, t1` -> `move s6, zero`) in `0x089454ec` (`sceUtilityMsgDialog` wrapper) to disable hardcoded Japanese byte-offset `U+2122` (`™`) insertions.
 
-### 8. `tools/pjadv/check_widths.py` (Dialogue Box Budget Check)
+### 8. `tools/p4/` & `tools/cpk/tim2.py` (P4 UI Texture & Title Logo Localization)
+```powershell
+python tools/p4/loc_battle_banners.py
+python tools/p4/loc_battle_hud.py
+python tools/p4/loc_systemzip.py
+python tools/p4/loc_tutorial.py
+python tools/p4/loc_graphic_menus.py
+python tools/p4/loc_title_logo.py
+python tools/p4/pack_textures.py
+```
+`tools/cpk/tim2.py` decodes/encodes 4bpp and 8bpp indexed RGBA32 `TIM2` textures (`.zip` zlib wrappers, raw `TIM2`, and zeroed-magic `CRILAYLA`), including PS2/PSP **CSM1 8bpp CLUT swizzling** (`_csm1_swizzle_palette` when `img_type == 5` and `(clut_type & 0x80) == 0`). `tools/cpk/cpk.py` supports TOC-after-content rebuilding (`BATTLE.CPK` and `GRAPHIC.CPK`, byte-identical `verify-roundtrip`). `tools/p4/render_helpers.py` provides 4x-supersampled Segoe UI Bold text rendering and parity-preserving vertical dither inpainting (`inpaint_vertical_dither`). Together, the P4 scripts localize **176** textures (`14` in `GAMEINIT.CPK/SystemZip`, `145` in `BATTLE.CPK`, and `17` in `GRAPHIC.CPK/AdvGraphic` including 1:1 template-matched English Title Screen logos `sys_ti_logo.zip`, `sys_ti_logo02.zip`, and `sys_ti_files02.zip`).
+
+### 9. `tools/pjadv/check_widths.py` (Dialogue Box Budget Check)
 ```powershell
 python tools/pjadv/check_widths.py --trans gt_output
 ```
 Measures translated rows with the built `sulakyapi12` metrics (`a + b + c` signed bearings for ASCII, `14px` for 2-byte Shift-JIS) and simulates the EBOOT's greedy word wrap against the 364px-per-line, three-line message window. Any row needing a fourth line is clipped in game, so this must report zero overflows before a build. `tools/build_p2.py` runs the same check and fails on overflow.
 
-### 9. `tools/build_p2.py` (Validated Test ISO Builder)
+### 10. `tools/build_p2.py` (P2 Test ISO Builder)
 ```powershell
 python tools/build_p2.py --tight-dialogue --out build/p2_next_trial
 python -m unittest discover -s tests -v
 ```
 Choose a new output directory. The builder checks source identity, generates fonts, rebuilds and re-extracts the scripts, verifies every CPK member, and reads both replacements back from the separate ISO copy.
 
+### 11. `tools/build_master.py` (P5 Merged Master ISO & xdelta3 v3.2.2 Builder)
+```powershell
+python tools/build_master.py --out build/master_next --fonts build/p3_batch1_backlogfix2/fonts
+```
+Merges P2 (Barlow font + EBOOT wrapping/backlog fixes), P3 (`gt_output/` 931 scenes, with full re-extraction verification), and P4 (`73` EBOOT strings + `176` localized UI/Logo textures across `GAMEINIT.CPK`, `BATTLE.CPK`, and `GRAPHIC.CPK`), patches all four files into the master ISO with readback verification, and generates `Twinkle_Crusaders_GoGo_EN.xdelta` using `xdelta3` v3.2.2.
+
 ---
 
 ## 6. Current Checkpoint and Next Steps
 
-- **Latest Built ISO on Disk:** `build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` (`1,819,779,072` bytes) — **Barlow Semi Condensed Medium** (`14px`, `ws=1.00`, `space_w=3`, smooth gamma AA shades `2..12` + `15`, uniform `baseline_row=11`, 4x rounded serif `I`), **`1.5x` EBOOT slotfix + save-load/backlog fixes** (`6e3995e38115c3cc`, `1,912`-byte payload, `78 * 3 = 234 <= 248 = 0xF8`, plus `0xF8` serializer clamp), `abc.w_abc` record counts unchanged (`302 / 2956 / 177`), `456/456` CPK members verified, `914` changed rows across 6 scenes, `0` width overflows, `BarlowSemiCondensed/OFL.txt` included, and `13/13` consolidated unit tests passing (`0.19s`).
+- **Latest Merged Master Build (`build/master_v5/`, 2026-11-22):**
+  - **Merged ISO:** `build/master_v5/Twinkle_Crusaders_GoGo_EN.iso` (`1,820,000,256` bytes, SHA-256: `d45e7cc6ff080c4ddaa3f5879b1d490254973e57b225444fb2b26bae14efe138`)
+  - **xdelta3 v3.2.2 Patch:** `build/master_v5/Twinkle_Crusaders_GoGo_EN.xdelta` (`10,811,736` bytes) — round-trip `-d` verified bit-for-bit against clean Japan v1.01 ISO (`XDELTA round-trip match: True`).
+  - **P3 Script (`gt_output/`):** All `931 / 931` scene JSONs (`97,274` entries, `95,890` changed rows, `88,284` pool strings, `0` control-code warnings) packed and re-extraction verified. Restored `1,268` modified internal engine lookup keys (`label` and `scene_title` across `856` files), normalized `9` non-CP932 characters (`—` -> `--`, accented Latin letters across `746` files), and normalized fullwidth `！`/`？` -> ASCII `!`/`?` across `24,229` dialogue rows (`914` files). (`195` of `93,396` checked dialogue rows exceed the `364px x 3` line budget and are logged in `build/master_v5/validation.json` for editorial tightening.)
+  - **P4 EBOOT & UI Textures:**
+    - `EBOOT.BIN`: All `73 / 73` strings from `glossary/eboot_strings.json` patched in-place (`eboot_006_date_time` `日` -> `"  "` for clean Save/Load timestamp spacing), plus `0x0894552c` (`move s6, zero`) disabling stray `™` insertions in PSP system dialogs.
+    - `GAMEINIT.CPK` (`14` P4 textures, `456/456` members verified): 4x-supersampled Segoe UI Bold `SystemZip` menus (`sys_o_files01..08` including uniform `BGM` and `16x16` digit grid `0..9/%/./s`, `sys_sl_files04`, `sys_sl_lbase`, `sys_sl_sbase`, `sys_sw`, `sys_tm_files01`, `sys_mn_files01`, `sys_k_files01`, `sys_k_files02`).
+    - `BATTLE.CPK` (`145` P4 textures, `1,426/1,426` members verified): `68` `res_title` banners, `19` `EXName` plates, `18` `btl_nld_*_name*` banners, `4` `res`/`etc` sheets, `5` `btl_files*` HUD sheets, and `31` `tutorial` sheets.
+    - `GRAPHIC.CPK` (`17` P4 textures, `4,109/4,109` members verified): 1:1 template-matched English Title Screen logos (`sys_ti_logo.zip`, `sys_ti_logo02.zip`, `sys_ti_files02.zip`), Title Screen menu (`sys_ti_files01.zip`), Data Install screens (`sys_media_base.zip`, `sys_media_files01..03.zip`, `sys_memory_files01.zip`), Gallery bottom bars (`sys_gc/gm/gs_base.zip`), Free Battle & Tutorial Select (`sys_hrbs_base1/2.zip`), Controls (`sys_sousa.zip`, `sys_sousa_02.zip`), and Trophy Gallery (`hetr_pack01.zip`).
+  - **Unit Tests:** `python -m unittest discover -s tests` — **14/14 passing** (`0.220s`).
+- **Earlier P2 Baseline ISO:** `build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` (`1,819,779,072` bytes) — **Barlow Semi Condensed Medium** (`14px`, `ws=1.00`, `space_w=3`, smooth gamma AA shades `2..12` + `15`, uniform `baseline_row=11`, 4x rounded serif `I`), **`1.5x` EBOOT slotfix + save-load/backlog fixes** (`6e3995e38115c3cc`, `1,912`-byte payload, `78 * 3 = 234 <= 248 = 0xF8`, plus `0xF8` serializer clamp), `abc.w_abc` record counts unchanged (`302 / 2956 / 177`), `456/456` CPK members verified, `914` changed rows across 6 scenes, `0` width overflows, `BarlowSemiCondensed/OFL.txt` included.
   - **Old-save load crash fix** (`_free_r` heap corruption at `0x08812970` when loading saves created under earlier `SLOT_FACTOR = 4` builds): added `fade_add_checked` capacity guard at `0x0887E500`, `guard_load_ctx` at `0x0887F774` (skips corrupted `> 0xF8` old-save text records), and fixed `0x0887F880` (`jal 0x0887b97c` -> `jal 0x0887bfd4`) so ASCII restores through `emit_ascii`.
   - **Backlog proportional spacing, word wrap & speaker capture clamp** (`0x0887FE40`, `0x0887F924`): refactored `advance` into shared `advance_by_font`, added `backlog_speaker_adv` (`0x0888052C`), `backlog_body_wrap` (`0x088809FC`), and `backlog_body_adv` (`0x08880B08`), preserved `0x20` in `ctx->text_buf` on `check_space` wraps so backlog does not join words across wrapped lines, and added `clamp_backlog_copy` (`0x0887FA74`/`0x0887FA88`/`0x0887FA94`) clamping `ctx->0x18` to caller `max_bytes` (`$a3`: `0x40` speaker / `0xF8` body) so `1.5x`-expanded speaker contexts cannot overflow the `0x58`-byte speaker backlog record into the adjacent `body_rec` header (which leaked `0x096Fxxxx` bytes as `X`/`x`/`o` inside speaker brackets).
   - Visual artifacts: `build/p3_batch1_barlow/barlow_preview.png` and 7-font comparison sheet `work/font_candidates/font_comparison_sheet.png` (made with `work/font_candidates/make_sheet.py`).

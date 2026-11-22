@@ -1,0 +1,231 @@
+[
+  {
+    "message": "仲魔"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon King」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You handled yourself pretty well with Aze earlier today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder what the previous Demon Kings used to do?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What they used to do about what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, when you say 'Demon King,' normally they're supposed to lead the demons, rule or invade the Human World, fight angels, stuff like that, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Truth be told, a few of the past Demon Kings actually tried to conquer the Three Realms and fought angels and demons alike」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What happened to those Demon Kings?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「None of 'em ever pulled off world conquest」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though they were super strong?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Their bodies are still human at the base, so they age, and they're only absurdly strong during Re-Crea anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... So even if they're strong, they aren't strong all the time. That's a relief」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh? Why's that? I'm tellin' you they couldn't conquer the world」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I always wondered why Dad had me succeed him as Demon King」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't have the slightest desire to be a typical Demon King, and Dad must've known that too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「As if that softie would ever throw his own son into a world of blood and violence, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He'd go out of his way to help anyone, whether they were demon, human, or angel. Had me on edge wondering when he'd get conned」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I figured as much」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He actually got conned plenty of times, too. Who knows what would've happened without yours truly backing him up」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even if the scale of Re-Crea back then was smaller than this time, he saved the world without hurting friend or foe right to the very end--that was pretty damn admirable」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Dad really was amazing after all."
+  },
+  {
+    "name": "Sally",
+    "message": "「Good evening--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, sorry, you're supposed to knock before entering a room, right」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Knocking after you've already entered the room--and from the inside, no less--is completely pointless, y'know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true. Before, she didn't even realize it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, that's right! I'm sure in 100 years, I'll only forget to knock every once in a while!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That progress is way too slow」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, did you already eat dinner?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I haven't eaten yet today」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Lucky us! Believe it or not, today Boss and I are gonna treat you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Prez. Brought. Care package」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. Where'd you get so many of these?」"
+  },
+  {
+    "message": "The bag Eauderourke carried on his back was packed full of beef bowls."
+  },
+  {
+    "message": "One, two, three--tons of them!"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Me, work. Get, reward」"
+  },
+  {
+    "message": "With Eauderourke in it, the room looked super cramped."
+  },
+  {
+    "message": "Actually, how did he even fit in here... Maybe Eauderourke is surprisingly flexible."
+  },
+  {
+    "name": "Sally",
+    "message": "「I've been working hard too, y'know! Ahem」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Eat, beef bowl. Prez, thanks. Repay, favor」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So yeah! Eat up, Prez」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Yup, yup. Don't, hold back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Well then, I won't hold back. Thanks for the meal!」"
+  },
+  {
+    "message": "It was a really delicious beef bowl."
+  },
+  {
+    "message": "It had cooled down a bit, but it tasted better than any beef bowl I'd ever eaten."
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Thanks, not enough」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Our gratitude is as huge as the moon!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Prez, friend. Help, friends」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You two...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What are we gonna do when Master Synn is fighting Demons or something?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That doesn't even matter! I owe you for the beef bowl!」"
+  },
+  {
+    "message": "It was a truly happy night."
+  },
+  {
+    "message": "Sally joined the party!"
+  },
+  {
+    "message": "Eauderourke joined the party!"
+  }
+]

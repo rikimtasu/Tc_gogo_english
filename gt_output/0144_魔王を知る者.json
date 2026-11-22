@@ -1,0 +1,921 @@
+[
+  {
+    "message": "魔王を知る者"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right clear, left clear. All clear. Nobody's here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, duh, it's Sunday」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even on my day off, I can't help worrying about the Student Council. There's still plenty left to do, after all」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So you're one of those Student Council fanatics, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Say whatever you want」"
+  },
+  {
+    "message": "There doesn't seem to be anyone in the Student Council room either. Now's my chance!"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sneaking up behind me like that--not bad at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are *you* doing hiding your presence like that, Misa……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Today is your day off, isn't it!? You're supposed to be resting at home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look who's talking, Misa! Ria-senpai told you too, didn't she?! 'At least take today off'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shall we just pretend we never saw each other」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yeah. Just for today, I'll agree with you」"
+  },
+  {
+    "message": "Misa gathered up the documents and put them into her bag."
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm just going to head over to the shopping district for a bit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have a good trip」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah~~ That scared me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh…… Now we've got dirt on her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, we're in the same boat here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not the Demon Lord--*this* lord, yours truly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If I snitch about what just happened, Ria-chan's definitely gonna love me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you really think Ria-senpai would be happy if you did that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Even the Demon Lord had better bow down to yours truly while they still can.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How underhanded can you get?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeeeek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hic...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, if you're here, please say something~~. I was totally sure you'd gone home after that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry about that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, no, it's quite alright. My heart is even broader than my forehead, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think there was some glue in the toolbox...」"
+  },
+  {
+    "message": "We pick up the broken pieces together."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What brings you here, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? I'm--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've got it!! You were put up to this by Senpai, weren't you~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no! I haven't even said anything yet!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawa... You're going to team up with Senpai and punish me after this, aren't you?! That's it, isn't it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you, I'm not!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Discretion is the better part of valor here!」"
+  },
+  {
+    "message": "She bolted away, clutching the promotional posters tightly in her arms."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Geesh, nothing but idiots around here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And I went to the trouble of finding the glue, too...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a hopeless Student Council President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone really does have a guilty conscience, huh. Now even my heart's starting to pound.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, you're pathetic. Take a page out of Soba's book for once」"
+  },
+  {
+    "message": "When Nanaka heard we had the day off, she said she'd help out at home since she's been neglecting it lately. Refreshingly straightforward as always."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright... guess I'll get started too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And what might you be getting started on?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Student Council work, of course--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-W-Wha--!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's the matter? Even though today's supposed to be a day off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Umm... I-I-I came to grab something I forgot...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm~ Would that happen to be this half-finished list of shops? Or perhaps this cardboard for making donation boxes」"
+  },
+  {
+    "message": "What is this, the Gold Axe and the Silver Axe? In that case, there's only one answer."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's neither of those」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then could it be this Abekawa mochi~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, that's it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bzzzt, wrong! These are my snacks~」"
+  },
+  {
+    "message": "So much for getting the whole set."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez! Even though I told you to get some proper rest」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nobody said I wasn't resting, okay?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No trying to use 'I just came to hang out in the Student Council room' as an excuse, got it?」"
+  },
+  {
+    "message": "She saw right through me."
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan, Lolotte-chan... none of you ever listen to me~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk. Senpai... you knew?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem. Your senpai sees right through everything♪」"
+  },
+  {
+    "message": "Come to think of it, I didn't even hear the door open."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, have you been there the whole time--!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on, come on. Never mind that, let's finish filling out this shop list」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll put the donation boxes together in the meantime. Once that's done, let's decorate them together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Can't be helped since you're already here. So let's finish up quickly and take it easy\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here, have some tea too♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, thank you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And some sweets to go with it\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, the Abekawa mochi from earlier~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Gotta give a reward to a hard worker, right\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hm? What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry, I... didn't listen to what you told me, so I'm a really bad junior, aren't I」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez. Don't worry about it♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If I were in your shoes, Synn-kun, I'm sure I would've done the exact same thing. So don't worry, I'm not mad anymore」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you feel that way, why did you tell me to rest?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, of course. Because I'm your senpai」"
+  },
+  {
+    "message": "Being a senpai really comes with a lot to juggle."
+  },
+  {
+    "message": "Noticing all the little things around you and being thoughtful, and looking out so your juniors don't fret or beat themselves up over things."
+  },
+  {
+    "message": "Even though I didn't follow her instructions, I never expected her to be this kind to me."
+  },
+  {
+    "message": "There's still way too much I need to learn from Ria-senpai."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, all done!」"
+  },
+  {
+    "message": "I've got to finish what I need to do right now and keep absorbing everything I can from Senpai."
+  },
+  {
+    "name": "Ria",
+    "message": "「Then let's get to decorating the donation boxes~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's do it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmmm, good work today~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha, it ended up taking longer than I thought\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, we were taking things nice and slow, so it can't be helped. Here you go.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my. Thanks~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't know if it's as good as yours, Senpai, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. Any tea someone else brews for you is delicious\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True enough」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A~h. It's already starting to get dark early too~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before you know it, winter will be here in the blink of an eye.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oooo~~spooky. Schools at night are actually pretty scary, you know~~」"
+  },
+  {
+    "message": "Is she trying to scare me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's nobody else here, after all. Especially today.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But I feel safe because you're here with me, Synn-kun\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, well, I'm not exactly great with this stuff either, though……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So you ARE scared!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--. I'm not scared at all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see~. Well then! Wanna go outside together for a bit?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wandering around the school building at night, singing as we go~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's go for a walk\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If a security guard spots us, we'll get chewed out big time!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Doesn't that sound thrilling and fun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Senpai……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, could it be that you're actually scared of dark roads at night~? E-ven though you're a boy\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not scared at all! Fine, let's go」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, it's settled!」"
+  },
+  {
+    "message": "Urgh, even so, being somewhere with no one around really is scary."
+  },
+  {
+    "message": "More than that, getting spotted by someone right now is even scarier."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai... by the way, where are we going?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm not scared at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nobody asked you that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on, Synn-kun. If you don't stay a little closer, we'll get separated」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like we're in a crowd or anything」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Listen carefully to what your senpai says!」"
+  },
+  {
+    "message": "Saying that, she grabbed my wrist."
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Okay, I got it」"
+  },
+  {
+    "message": "Senpai's arm is trembling slightly."
+  },
+  {
+    "message": "After calling me a scaredy-cat so much, it looks like she's the one who's actually more scared."
+  },
+  {
+    "message": "Come to think of it, when she mistook a demon for a ghost before, she secretly fell right on her butt, too."
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, if you're scared, should we head back?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're the one who's scared, Synn-kun」"
+  },
+  {
+    "message": "What a stubborn person."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, when it's this quiet, even I get scared」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's why I'm saying your senpai will stay right beside you so you won't be scared」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, you don't believe me at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, where are we going」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Over there, over there!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's only going to get darker that way」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I know that! Still, I want to go there today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Geez, don't blame me no matter what happens」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll be fine as long as I'm with you, Synn-kun」"
+  },
+  {
+    "message": "Why would she want to go to 'that place' so badly."
+  },
+  {
+    "message": "Could there be something driving Senpai forward."
+  },
+  {
+    "message": "Where we headed was the academy's famous landmark on the hill. Finis Tower."
+  },
+  {
+    "message": "The view opened up, revealing stars twinkling across the vast night sky."
+  },
+  {
+    "message": "If that were all, it would be no different from any ordinary scenery."
+  },
+  {
+    "message": "However, there is a moment that can only be seen here in Ryuusei Town."
+  },
+  {
+    "message": "Fleeting sparkles poured down like a gentle, drizzling rain."
+  },
+  {
+    "message": "A fantastical world, visible only from this spot in Ryuusei Town, spread out before my eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We're here~~♪」"
+  },
+  {
+    "message": "It illuminated the ground even more brightly than the light of the moon."
+  },
+  {
+    "message": "The instant the darkness cleared and gave way to light, Ria-senpai's expression also changed into a bright smile."
+  },
+  {
+    "name": "Ria",
+    "message": "「Look, look, look~. Pretty, isn't it. This is what I wanted to see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... You can see it so clearly from up here...」"
+  },
+  {
+    "message": "With no lights nearby, in a place as close to the sky as possible, Ria-senpai and I looked up at the heavens."
+  },
+  {
+    "name": "Synn",
+    "message": "「Have you already seen this here a few times, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. With my big sister. Back then, they weren't falling nearly this much, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see~. To think this is also thanks to Re-Crea... It feels kind of strange when I put it like that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because even though it might be a threat to us, it still shows us something this beautiful」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, yeah... That's true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since it's really an anomaly, it should be 'because of' Re-Crea, yet I end up saying 'thanks to' without thinking」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Being able to think like that is one of your good points, don't you think, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「One of my...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everything you've done up until now as a Crusader and as Student Council President, too. When I think about it being because of the kind of person you are, Synn-kun, it all makes sense」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I still haven't caught up with a lot of things at all. It's so frustrating...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think you need to rush so much. You just need to move forward slowly at your own pace」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. First, I want to focus on doing a solid job with what's right in front of me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah! Let's definitely make KiraFes a success」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides these shooting stars, are there any other effects caused by Re-Crea?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm... In truth, we don't really understand it well, but there is one thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh-ho」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The Demon King appears」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whenever Re-Crea draws near, the Demon King--the king of the Demons--has always appeared without fail」"
+  },
+  {
+    "message": "So the Demon King really is seen as a threat to the world."
+  },
+  {
+    "message": "If that's the reason they fear Re-Crea, there's no doubt I'll end up becoming an enemy of the Crusaders!!"
+  },
+  {
+    "message": "Macaron seemed to have slightly different circumstances, though..."
+  },
+  {
+    "message": "Wait a second? If that's the case, then there's nothing to worry about at all."
+  },
+  {
+    "message": "Because as long as I don't do anything, everything will stay peaceful."
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder... when the Demon King will come...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Who knows. Maybe every once in a while he doesn't even show up, right~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That would be a problem in its own way!!」"
+  },
+  {
+    "message": "So evil has to be eradicated after all~~!! Are Ria-senpai and I fated to fight!?"
+  },
+  {
+    "message": "I can't imagine it at all, and I don't even have a reason to fight, though..."
+  },
+  {
+    "message": "Actually, Dad. It's a miracle you managed to survive."
+  },
+  {
+    "name": "Helena",
+    "message": "「Hey, what do you think you're doing~\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sis」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, my, you're quite the smooth operator, Synn-chan. Bringing Ria all the way out here--what kind of naughty things are you planning?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--we're just taking a walk」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'A mistake of youth... huh. Not a line meant for some brat who doesn't even know the meaning of limits'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, stop teasing Synn-kun. He's telling the truth, you know」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I know, I know~\\s04 You came here because you wanted to see the shooting stars, right」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, to think you went out of your way to make Synn-chan your bodyguard just because you were too scared to go alone」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sis!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, did I hit the nail on the head?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-It's not like that wasn't part of it, but... that's not the only reason! I wanted to show it to Synn-kun!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right, right, uh-huh. Ria is such a kind senior who cares so much about her junior~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai... thank you very much」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-But because you keep teasing me, Sis, I've completely lost face as his senior」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. To me, you're still the senior I respect, no matter what」"
+  },
+  {
+    "name": "Ria",
+    "message": "「E-Even if you say that... jeez, I don't care anymore」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aaaah! You're getting all shy, you're just SO cute~~!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Honestly, Sis!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Stop pinching me~」"
+  },
+  {
+    "message": "It doesn't look like it's working at all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Speaking of which, Helena-san, what are you doing in a place like this?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm, just a little something with Melilot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With Melilot-san...?」"
+  },
+  {
+    "message": "Coming to look at the stars with another woman--could they be in that kind of relationship?"
+  },
+  {
+    "name": "Helena",
+    "message": "「What kind of naughty things are you imagining?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not imagining anything!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's fine, you're young, so go ahead and fantasize lots and lots more」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Alright, that's enough. It's one thing if it's just me, but please stop teasing Synn-kun too」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Lucky you~. Having such a great senior by your side\\s07」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Flattering me now is way too late. Hmph」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm done with my business, and you two have had your fun too, right? Let's head back before it gets too late」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why don't you just walk home by yourself, Sis~?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, my. Since it seems she wants to be alone, let's walk home together, Synn-chan♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, wha--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Bye-bye, Ria~~. Be careful out there~~. Walking alone at night is super scary and dangerous, you know~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're so mean, Sis~~!」"
+  },
+  {
+    "message": "In the end, the three of them headed home together noisily."
+  }
+]

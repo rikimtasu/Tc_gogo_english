@@ -1,0 +1,799 @@
+[
+  {
+    "message": "知らぬ者は痴れた者"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ignorance is a manifestation of sin」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's gotten into you all of a sudden」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「KiraFes is right around the corner, and yet there are people who don't even know about it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yep, don't know. Peace!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't act so proud about it, Ms. Extra. You are a sinner」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I am?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. And absolving you of that sin is our duty as the Student Council」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huuuh~. I don't really get it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Which is it?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In short, you want to get more people to know about KiraFes, right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, yes! That's it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's KiraFes? Is it tasty?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a sparkly, super-special, gorgeous festival held at Ryuusei Academy」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I-It's that amazing~~!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Plus, tons of stalls with delicious food are going to be there」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really!? I wanna eat!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since you are quite literally the Student Council's extra, Ms. Extra, your participation is mandatory」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No way, lucky me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, in that case, would you mind helping us out?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, yeah, I will, I will! I totally will, super will! I'll help like crazy!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a wonderful attitude. Now then, let's do our best together!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm not gonna lose to you, Loro-chi!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It won't even be a contest」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Seriously, Lolo-chi, are you really that weak?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's the exact opposite, the opposite!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, how about we start by making some flyers, and try handing them out or putting them up?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nice idea, President!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Chirashi sushi!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sounds delicious~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A flier, F-L-I-E-R!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides flyers, I'd also like to make things like signboards.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, that's a brilliant idea.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hardtack!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then let's get started right away.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Don't ignore me!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「People won't know what it is unless we clearly show the text 'Kirafes'!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm telling you, we have to make the drawing bigger so it stands out more!」"
+  },
+  {
+    "message": "On the surface it looks like their usual lovers' quarrel, yet both of them are bringing up solid points that are hard to dismiss."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright then, let's do this. If we combine both of your ideas--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If I cannot have the best, then I choose nothing!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whose side are you on anyway, Prez!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... Whose side, well, that's... uh, hmmm~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-The side of justice... maybe?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If we use this color, wouldn't it look nice and flashy?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If we make the letters big and small, it'll look way more fun~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Well, since they seem to be getting along, I'll go ahead and make a signboard to stick the flyers on."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hammer the nails, tap-tap♪ Hit the mark, tap-tap♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, what're you doing?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Isn't it obvious just by looking? I am practicing my singing.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Not fair! Playing around all by yourself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look closer! I'm making a sign!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kyaa!! Please don't point that hammer this way!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pork cutlet!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, no, Tontoro! We simply don't get along well with hammers...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, they're often used to smash piggy banks, after all.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please don't say it so bluntly! If you do that, I'll panic\\s01」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aw, come on. Even I wouldn't do something that wicked and cruel!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hyaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, watch out!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You're such a scaredy-cat, Lolo-chi. Keep that up and you'll drop your pork cutlet again.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I told you, it's Tontoro!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So Prez, what are you doing with that hammer?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tap, tap, tap.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pig, pig, pig.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See? The nail goes into the sign and holds it in place.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oooh~~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That looks kinda fun! Let me try too~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure you'll be okay?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Easy-peasy, lemon squeezy\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you still scared, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I'm not scared! I'm just watching to see how things go.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's fine. There won't be anything for you to do anyway.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hearing that from the tag-along is a huge shock.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Alright, I'll give it a try!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「First, hold the nail steady with your fingers like this. Then strike this flat part with the hammer.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whaaat, that's super easy. Okay, leave it to me!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thump-thump...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And make sure you aim properly, or else--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aaaalright! Cleave it in twooooo!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, what did I tell you.」"
+  },
+  {
+    "message": "Sally is writhing in silent agony."
+  },
+  {
+    "name": "Synn",
+    "message": "「If you just swing with brute force, you'll hit the fingers holding it like that, so you have to be careful.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uu... roger...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bring it down slowly and straight from directly above. That way, the center won't waver.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Slowly from directly above...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Relax, relax. Your arm is shaking.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Now!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Agaga...」"
+  },
+  {
+    "message": "The impact is subtle, yet packs plenty of power. Letting out a loud scream might actually help ease the pain."
+  },
+  {
+    "name": "Synn",
+    "message": "「That one barely grazed it--so close. Though being close actually makes it easier to hit your fingers.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Wh-what should I do...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Keep your eyes firmly on the target. Right there.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「N-not done yet... This time for sure, carefully... I'm gonna aim right at the mark...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hyaaah!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Owww~~! Owww~~!」"
+  },
+  {
+    "message": "She rolls around on the spot, writhing in pain."
+  },
+  {
+    "message": "In the end, the nail didn't even manage to pierce the board."
+  },
+  {
+    "message": "After witnessing this disaster, surely even Lolotte won't want to try it."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm so excited」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「P-President! Could you hold onto Tontoro for just a little while!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh, this might be heavier than a human life...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hammer, check. Tontoro, check.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told Sally-chan this too, but if your hand shakes, you'll hit your fingers, so be careful, okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To literally drive the nail home like that... You're quite skilled, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't really mean to make a pun, though\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is my first time using a hammer.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've never used one on Tontoro?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That would be completely unthinkable~~!」"
+  },
+  {
+    "message": "Even without using one, it seems like it breaks pretty regularly anyway."
+  },
+  {
+    "name": "Synn",
+    "message": "「Anyway, just relax. If you do it calmly, there's nothing to be afraid of.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll do my best not to end up miserable and pathetic like Omake-san.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huff, huff\\s06」"
+  },
+  {
+    "message": "Her finger is all swollen, leaving her no room to fight back."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here I go. Haaah--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gah... ugh, a dull throb...」"
+  },
+  {
+    "message": "Lolotte crouches down on the spot."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you think something like this will break my spirit, you're dead wrong, Mr. Hammer...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, I told you not to tense up--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haau...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, no, this is nothing. I will step over Miss Extra's corpse and press on!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hyuu...」"
+  },
+  {
+    "message": "She's repeating Sally-chan's exact mistake. At this rate, we won't get anywhere."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... What should I do?」"
+  },
+  {
+    "message": "Doing it myself would be faster, sure, but she's actually motivated. I want to respect that enthusiasm."
+  },
+  {
+    "message": "After all, that curiosity and adventurous spirit are Lolotte's best qualities."
+  },
+  {
+    "name": "Synn",
+    "message": "「I've got it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we use pliers to hold the nail in place...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh! Then my fingers won't be in danger anymore.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa! I did it~~!」"
+  },
+  {
+    "message": "It's super crooked, though the tip isn't poking out, so it's probably fine."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At this rate, I can do plenty more. Thank you very much, Mr. President\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once you get the hang of it, let's try making sure they go in straight. It'll look cleaner too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Straight, right? Gotcha~~」"
+  },
+  {
+    "message": "She gets right into the groove, hammering away. Just as you'd expect from someone with neat handwriting, she's good with her hands. Once she gets used to it, she drives them in cleaner and cleaner."
+  },
+  {
+    "name": "Sally",
+    "message": "「No fair~~! I wanna do it too~~!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Extra can just sit back and suck her thumb while watching.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I've already been sucking on it so long it's all pruned up--!\\s09」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hey! Take turns, take turns.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The signboard is finished, and the flyers are all printed too.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Good work--! Alright, snack time!\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're not done yet. We still have to go around and hand out the flyers to everyone.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Lolo-chi! Let's have a contest to see who can hand out more!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really love turning everything into a competition, don't you? You're just like the Vice President.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ehhh~~. Then I'm not doing it」"
+  },
+  {
+    "message": "And so, the three of us decided to hand them out together."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please come and enjoy the Meteor Sparkle Festival~」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「'Sup」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yorosukou!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yangtze River?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's Sparkle Fest! It's a super yummy, deliciously delicious festival!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Really~? That sounds like fun~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's fun and delicious!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahaha~. This kid is hilarious~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're no slouch yourself, Sacchin」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please be sure to come as well, Miss Shrine Maiden」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh, so this is the notice for the festival I have heard rumors of」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Drawn in by the lively music of the festival, mononoke may appear. Should that occur, leave it all to me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll be fine. After all, we even have a Demon helping us out」"
+  },
+  {
+    "name": "Shio",
+    "message": "「What madness is this!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Look, please take a look over there」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll give one to Principal too!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, thank you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm the one who wrote these letters!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Is that so? You did quite a good job with them」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ehehe~! Pretty amazing, right~~!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Next time, you should pay closer attention to the size of the letters. If you do that, it'll look even more amazing」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, I'll do my best--」"
+  },
+  {
+    "message": "The fact that it says KiraF'e's is just part of the charm."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How is it? There's nothing to worry about like this, right♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Prepare to face judgment!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, calm down!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my!? Azel-san, you showed up at just the right time」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I didn't」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For you too, Azel-san…… Here, a present!」"
+  },
+  {
+    "message": "Saying so, Lolotte handed over a KiraFes flyer."
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now don't say that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no need for it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't need to hold back～～」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not holding back」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now, push it right in」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Push……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Shove it right in!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「With this festival, even you are sure to have a fun time, Azel-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Fun……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a sparkling school life, you know!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Come on, we're moving on to the next one. We'll leave you behind」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aah, please wa～～it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See ya, Azel. Excuse us, Helena-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, you got quite a lot. One, two, three…… thirty sheets?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Utterly unnecessary」"
+  }
+]

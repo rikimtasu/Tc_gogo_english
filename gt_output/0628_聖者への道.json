@@ -1,0 +1,803 @@
+[
+  {
+    "message": "聖者への道"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord. I can't make any progress in this game at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You opened a treasure chest, didn't you? Doing that labels you a thief and lowers your virtue.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Rummaging through dressers and looting treasure chests are RPG staples, aren't they!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because you're not a saint, you're a sage...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A uniform...? Working hard on a perfectly good Sunday, huh.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, we have preparations for the Holy Night Festival.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, you probably just wanna see a certain someone anyway.」"
+  },
+  {
+    "message": "He saw right through me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai might be coming too, you know?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'll pass. Yours truly has a hotline straight to Ria-chan, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Acting like the president when you're just a plushie.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Coming~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hello there~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!! Lolotte\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe, I came over♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Could it be you came to pick me up...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. Before heading to school, I really wanted to talk with you alone, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What... just the two of us!?」"
+  },
+  {
+    "message": "C-Could this possibly be..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, \\{first|\\s12\\s12} I simply must tell you, President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That preface really makes me wonder, b-b-b-but got it! Hold on just a second!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy! A mirror, get me a mirror\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not like you at all, suddenly starting to primp yourself up like that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You could at least cheer me on a little!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me is busy gaming. Now then, should I restart as a Ranger~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though you're a sage!」"
+  },
+  {
+    "message": "Inhale~~, exhale... Deep breath."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. Let's go!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, I've been waiting for you♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hello~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh~~. It was about the other angel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It would be troublesome if it turned into too big of a commotion, after all.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed. It's not something one can confess unless they've steeled their resolve like I have.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see~~. Phew, that surprised me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What did you think it was about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. Your face is bright red.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Have you caught a cold? I've heard it's a nasty condition in the Human World triggered when it gets cold...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-Is that true!? That's terrible!」"
+  },
+  {
+    "message": "Lolotte squeezes my hand tightly."
+  },
+  {
+    "message": "Enveloped by her soft hands, I..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If we stay like this, does it take the chill off a little?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y... Yeah. Quite a bit\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe\\s04  I feel warm and cozy too♪」"
+  },
+  {
+    "message": "To think I'd get to walk holding hands with Lolotte!"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just like love...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No. Sure is nice weather today\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. You're a funny President♪」"
+  },
+  {
+    "message": "B-But doing this in front of Amyrina... really makes my heart pound."
+  },
+  {
+    "message": "Argh, this is kind of frustrating! Like I'm the only one getting embarrassed!"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「You mustn't, Lolotte\\s01 The President's face has turned even brighter red!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauu!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no! I'm totally fine!」"
+  },
+  {
+    "message": "Sigh... Lolotte's hand is so warm..."
+  },
+  {
+    "name": "Synn",
+    "message": "「So, who is this other angel supposed to be, anyway?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please stay calm and listen, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The other angel. It's Azelle.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azelle is...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Azelle...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. It may be hard to believe, but she is actually an angel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see~~ So that's how it is」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Between us being angels and now this, you adapt far too easily, President」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Isn't that simply because the words are coming from you, Lolotte?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「......\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So we're going to ask Azelle to help us with Re-Crea too, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. Having more allies is always reassuring, after all!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「N-No. Anyway, let's head over. Since it's today, Amyrina can get in too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, I'll go call her♪」"
+  },
+  {
+    "message": "Lolotte's hand slips away. Ah, how melancholy."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Azelle...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have you ever met Azel, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-No... However, it's a name I've heard somewhere before, so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're both angels, so aren't you at least acquaintances?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「There aren't all that many angels, after all. I know most of them, yet...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte also said she met him for the first time in the Human World, so...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Perhaps he is a very high-ranking angel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel is?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「A noble existence whom the likes of us cannot meet. If someone like that were to become our ally--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That'd be reassuring! Let's get him on our side no matter what!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uu~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh boy. Judging by that look...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It seems Azel-san isn't in」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Lolotte, what time is it now?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's past noon. I'm hungry~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that's the case, the service is over. Knowing Azel, he's probably over there」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...! You're right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go to Prier for food afterward」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yaaay\\s07」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He really was here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you whispering?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I didn't want to be noticed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are we pulling a prank or something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Leave」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I haven't even said anything yet!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Azel. I actually have some business with you--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have none with you」"
+  },
+  {
+    "message": "As always, there's no opening to get through to her."
+  },
+  {
+    "message": "Just as I was trying to figure out some way to get a conversation going."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-You're...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina. Do you know Azel-san?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y―Yes. If my memory serves me right―」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「An extraordinarily talented angel appointed to an important post at a young age」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Azel-san is one of the group tasked with investigating Re-Crea in the Human World!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Re-Crea...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-Is that so?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Tch」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're so knowledgeable, Amyrina~~. I had no idea at all」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「You're just far too indifferent about matters in Heaven, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll reflect on that. From now on, I'll make sure to study up even on things I'm not interested in」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Trying to fix your flaws right away is so admirable of you, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So heartwarming~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, this isn't the time for that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, that means Azel knows about Re-Crea too...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you came to Ryuusei Academy」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It has nothing to do with you people」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes it does!! Up until now, we've been stopping the harm caused by Re―Crea as Crusaders. And going forward, too―」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha...!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no business with any of you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hoho~~. You're saying that you can face the Re-Crea problem all by yourself, Azel-san. That is what you're claiming, yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's what you meant by that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Which means--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're a Crusader dispatched from Heaven, aren't you, Azel-san!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A Crusader?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I see. So that's what it was. That solves one mystery」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mystery...?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes. Considering the effects of Re-Crea, the investigation team should have already returned to Heaven」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be because of those ill effects...?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes. After all, it's safer for angels to lay low in Heaven」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「However, you stayed behind to do something about it! The riddle is solved!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just as I thought, you came here to protect the Human World, Azel-san!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Protect... the Human World... you say?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Disregarding the danger threatening your own life, bravely and boldly confronting Re-Crea head-on! How admirable, Azel-san!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Protect this world... you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To think we shared the same goal all along--it wouldn't be an exaggeration to call this a once-in-a-lifetime hair-trigger miracle!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now we can protect the Human World without any hesitation! Let's join forces and do our best together!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Power... combine... protect...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, Lolotte. Something seems weird with Azel...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... urgh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wh... why... My own will is...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel...! Could it be, again...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean, 'again,' Lolotte... What's going on?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Gah...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel!」"
+  },
+  {
+    "message": "Lolotte caught Azel's staggering body."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... what's wrong...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Before」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Something similar happened before, too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A time when Azel was suffering like this...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, you don't mean--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm telling you... it's not... ngh」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I-Is this... the effect... of being in the Human World...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina. We should have already made up our minds about that.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You must not be afraid. Because we are the ones who have to stand against Re-Crea.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, let's hurry to the infirmary……!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't touch me!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urgh…… Stop…… clinging to me any further」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san…… Why do you reject us like this?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aren't you hiding something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What are you saying……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How talkative you're being is the proof. We are comrades, so you don't need to keep secrets, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Comrades, you say……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right!! Once you join us, Azel-san, the Crusaders will have the strength of a million men」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Such a thing……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……I can walk on my own now」"
+  },
+  {
+    "message": "Azel coldly pushed Lolotte away and turned his back."
+  },
+  {
+    "name": "Azel",
+    "message": "「Even I myself do not know what is happening here」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why, well, we should all think it over together――」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then tell me the answer」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-That's…… Not right away……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte is worried about you. You don't have to talk to her like that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Comrades…… you say?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no need for useless comrades」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel……!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mind your own business. So……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Never get involved with me again」"
+  }
+]

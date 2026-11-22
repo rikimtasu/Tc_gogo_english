@@ -1,0 +1,260 @@
+[
+  {
+    "message": "肉体を越えるもの"
+  },
+  {
+    "name": "Sally",
+    "message": "「Alright, does everyone have their Magic Training Casts on?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My body feels so heavy...」"
+  },
+  {
+    "message": "Just moving my body slightly sends the sound of creaking metal echoing from head to toe."
+  },
+  {
+    "name": "Misa",
+    "message": "「Gravity really is a heavy thing, isn't it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh, where's Lolotte-chan?」"
+  },
+  {
+    "message": "A voice comes from down by our feet."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am right here. I cannot move. Everyone, please go ahead with the special training without minding me.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pathetic.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san, please put on a cast as well so that you may understand our suffering.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I refuse.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Okay then, I'm gonna come at you guys seriously and attack like crazy, so block 'em!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? Like this?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's no way we can dodge!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um... This is special training for Spirit Arts, so why are we wearing these casts?」"
+  },
+  {
+    "message": "All of us--excluding Sally-chan and Azel--were fitted from head to toe in suspicious casts."
+  },
+  {
+    "message": "They were the kind of thing you'd see in an old-school, melodramatic sports manga from two decades ago."
+  },
+  {
+    "name": "Sally",
+    "message": "「...Uhh.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「W-Wait a sec! Where's the cheat sheet I got from BOSS...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You have a cheat sheet...\\s02」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ah, I accidentally left it in the Student Council room!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well, whatever! That's what was written on the regimen BOSS gave me! Even if it doesn't work, it's not my fault.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa. What an irresponsible statement! My guidebook says that whenever someone says something like that, nothing good ever happens.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So it actually has some sensible things written in it, huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I think there's a point to this training, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You guys have gotten strong. As the Great Sage, I personally guarantee it. But that's precisely why your current methods are reaching their limit.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah, yeah, you're reaching your lim-it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「In short, you're treating Spirit Arts as an extension of moving your physical bodies. You're trying to control Spirit Arts with your bodies.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You can't master Spirit Arts like that, though.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You can't master Spirit Arts like that! Got it?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Being an instructor sure is an easy job.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You guys are subconsciously holding your Spirit Arts back to a level your bodies can control.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Visualization is key to mastering Spirit Arts. That's why restricting your bodies actually removes those physical shackles.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I see. So that's how it works. Man, I'm amazing.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How foolish.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy looking all smart... dreamy\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So... when blocking an attack, instead of picturing a shield held in my hand, it's more like floating a shield in midair to block it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's my Ria-chan for you.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You ruined it at the end, though. Still, I get the gist.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, shall we get started?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaaah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why am I caught up in this toooo?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hieeeeee」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am innocent! Aaaaah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaaaaaaa!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's all for today!」"
+  },
+  {
+    "message": "One hour later."
+  },
+  {
+    "message": "Apparently doing it for too long has no effect, so we wrap things up here."
+  },
+  {
+    "message": "Still, we're completely beat up."
+  },
+  {
+    "message": "Plus, because we couldn't use the methods we're used to, it feels like we've gotten weaker……"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hahaha! You're weak, so weak, Student Council!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Grr. Being laughed at by an extra like you is the absolute worst. This is what they call the pot calling the kettle black, isn't it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, if you use that phrase here, it means we're the kettle too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hau! That was careless of me. To think I'd put myself on the same level as an extra……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hahaha! Same level!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh? Wait, is that weird?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It can't be helped. We couldn't move the way we wanted to.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, everyone managed to block quite a bit toward the end, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Up until now, whenever I defended, I'd thrust my arm out in the direction I pictured a shield, but Spirit Arts actually activate just fine even without doing that.」"
+  },
+  {
+    "message": "The instant Ria-senpai said that, a brightly shining magic circle appeared behind her."
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister has a divine halo shining behind her…… How lovely\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel! Did you get a shot of that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Azel-san isn't here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He was snapping pictures away just a second ago--where could he have gone?」"
+  }
+]

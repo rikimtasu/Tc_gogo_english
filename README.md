@@ -12,7 +12,9 @@ Fan translation project for **Twinkle☆Crusaders GoGo!** (PSP, `ULJS-00316`, `v
 
 ## Repository Structure
 - `docs/` — [Project plan](docs/translation_project_plan.md)
-- `glossary/` — [Character glossary](glossary/characters.md), [GalTransl character dictionary](glossary/gpt_dict_characters.txt), and VNDB source JSON
+- `glossary/` — [Character glossary](glossary/characters.md), [world/battle terms](glossary/terms.md), [EBOOT string manifest](glossary/eboot_strings.json) (73 translated strings), [GalTransl character dictionary](glossary/gpt_dict_characters.txt), and VNDB source JSON
+- `tools/cpk/` — CRI CPK v7 unpacker/rebuilder (`cpk.py`, including TOC-after-content `BATTLE.CPK`), CRILAYLA codec (`crilayla.py`), and TIM2 texture codec (`tim2.py`)
+- `tools/p4/` — P4 non-script UI texture localization (`loc_battle_banners.py`, `loc_battle_hud.py`, `loc_systemzip.py`, `loc_tutorial.py`, `pack_textures.py`)
 - `tools/recon/` — Read-only container inspection utilities (e.g., `cpk_toc.py`)
 - `BarlowSemiCondensed/` — Active Latin font package, licensed under SIL Open Font License 1.1
 - `reports/` — Source baselines, current progress, and build validation results
@@ -51,8 +53,9 @@ python tools/build_p2.py --work work/pjadv_workspace --trans gt_output --tight-d
 ```
 
 The latest local trial, which is not included in git, is
-`build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` (Batch 1: 6 translated scenes, 13/13 consolidated unit tests passing).
-It uses Barlow Semi Condensed Medium at a 14px dialogue raster size, 100% width,
+`build/p3_batch1_backlogfix2/Twinkle_Crusaders_GoGo_P2.iso` (Batch 1: 6 translated scenes).
+Since that build, full P3 script translation (`931/931` scenes, `97,274` rows in `gt_output/`) and P4 non-script asset localization (`73/73` EBOOT strings in `glossary/eboot_strings.json` and `156` UI textures packed into `work/p4_build/GAMEINIT.CPK` and `work/p4_build/BATTLE.CPK`) have been completed, with **14/14** consolidated unit tests passing.
+The P2 build uses Barlow Semi Condensed Medium at a 14px dialogue raster size, 100% width,
 tight spacing and 3px word spaces. Four-times supersampling and grayscale edge
 shades replace binary rendering. Japanese glyphs and their palette colors are unchanged.
 

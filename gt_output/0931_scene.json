@@ -1,0 +1,614 @@
+[
+  {
+    "message": "ステージ１_EASY"
+  },
+  {
+    "message": "ステージ１_HARD"
+  },
+  {
+    "message": "ステージ１_NORMAL"
+  },
+  {
+    "message": "ステージ２_EASY"
+  },
+  {
+    "message": "ステージ２_HARD"
+  },
+  {
+    "message": "ステージ２_NORMAL"
+  },
+  {
+    "message": "ステージ３_EASY"
+  },
+  {
+    "message": "ステージ３_HARD"
+  },
+  {
+    "message": "ステージ３_NORMAL"
+  },
+  {
+    "message": "ステージ４_EASY"
+  },
+  {
+    "message": "ステージ４_HARD"
+  },
+  {
+    "message": "ステージ４_NORMAL"
+  },
+  {
+    "message": "ステージ５_EASY"
+  },
+  {
+    "message": "ステージ５_HARD"
+  },
+  {
+    "message": "ステージ５_NORMAL"
+  },
+  {
+    "message": "ステージ６_EASY"
+  },
+  {
+    "message": "ステージ６_HARD"
+  },
+  {
+    "message": "ステージ６_NORMAL"
+  },
+  {
+    "message": "ステージ７_EASY"
+  },
+  {
+    "message": "ステージ７_HARD"
+  },
+  {
+    "message": "ステージ７_NORMAL"
+  },
+  {
+    "message": "ステージ８_EASY"
+  },
+  {
+    "message": "ステージ８_HARD"
+  },
+  {
+    "message": "ステージ８_NORMAL"
+  },
+  {
+    "message": "ステージ９_EASY"
+  },
+  {
+    "message": "ステージ９_HARD"
+  },
+  {
+    "message": "ステージ９_NORMAL"
+  },
+  {
+    "message": "ステージ１０_EASY"
+  },
+  {
+    "message": "ステージ１０_HARD"
+  },
+  {
+    "message": "ステージ１０_NORMAL"
+  },
+  {
+    "message": "ステージ１１_EASY"
+  },
+  {
+    "message": "ステージ１１_HARD"
+  },
+  {
+    "message": "ステージ１１_NORMAL"
+  },
+  {
+    "message": "ステージ１２_EASY"
+  },
+  {
+    "message": "ステージ１２_HARD"
+  },
+  {
+    "message": "ステージ１２_NORMAL"
+  },
+  {
+    "message": "ステージ１３_EASY"
+  },
+  {
+    "message": "ステージ１３_HARD"
+  },
+  {
+    "message": "ステージ１３_NORMAL"
+  },
+  {
+    "message": "ステージ１４_EASY"
+  },
+  {
+    "message": "ステージ１４_HARD"
+  },
+  {
+    "message": "ステージ１４_NORMAL"
+  },
+  {
+    "message": "ステージ１５_EASY"
+  },
+  {
+    "message": "ステージ１５_HARD"
+  },
+  {
+    "message": "ステージ１５_NORMAL"
+  },
+  {
+    "message": "ステージ１６_EASY"
+  },
+  {
+    "message": "ステージ１６_HARD"
+  },
+  {
+    "message": "ステージ１６_NORMAL"
+  },
+  {
+    "message": "ステージ１７_EASY"
+  },
+  {
+    "message": "ステージ１７_HARD"
+  },
+  {
+    "message": "ステージ１７_NORMAL"
+  },
+  {
+    "message": "ステージ１８_EASY"
+  },
+  {
+    "message": "ステージ１８_HARD"
+  },
+  {
+    "message": "ステージ１８_NORMAL"
+  },
+  {
+    "message": "ステージ１９_EASY"
+  },
+  {
+    "message": "ステージ１９_HARD"
+  },
+  {
+    "message": "ステージ１９_NORMAL"
+  },
+  {
+    "message": "ステージ２０_EASY"
+  },
+  {
+    "message": "ステージ２０_HARD"
+  },
+  {
+    "message": "ステージ２０_NORMAL"
+  },
+  {
+    "message": "ステージ２１_EASY"
+  },
+  {
+    "message": "ステージ２１_HARD"
+  },
+  {
+    "message": "ステージ２１_NORMAL"
+  },
+  {
+    "message": "ステージ２２_EASY"
+  },
+  {
+    "message": "ステージ２２_HARD"
+  },
+  {
+    "message": "ステージ２２_NORMAL"
+  },
+  {
+    "message": "ステージ２３_EASY"
+  },
+  {
+    "message": "ステージ２３_HARD"
+  },
+  {
+    "message": "ステージ２３_NORMAL"
+  },
+  {
+    "message": "ステージ２４_EASY"
+  },
+  {
+    "message": "ステージ２４_HARD"
+  },
+  {
+    "message": "ステージ２４_NORMAL"
+  },
+  {
+    "message": "ステージ２５_EASY"
+  },
+  {
+    "message": "ステージ２５_HARD"
+  },
+  {
+    "message": "ステージ２５_NORMAL"
+  },
+  {
+    "message": "ステージ２６_EASY"
+  },
+  {
+    "message": "ステージ２６_HARD"
+  },
+  {
+    "message": "ステージ２６_NORMAL"
+  },
+  {
+    "message": "ステージ２７_EASY"
+  },
+  {
+    "message": "ステージ２７_HARD"
+  },
+  {
+    "message": "ステージ２７_NORMAL"
+  },
+  {
+    "message": "ステージ２８_EASY"
+  },
+  {
+    "message": "ステージ２８_HARD"
+  },
+  {
+    "message": "ステージ２８_NORMAL"
+  },
+  {
+    "message": "ステージ２９_EASY"
+  },
+  {
+    "message": "ステージ２９_HARD"
+  },
+  {
+    "message": "ステージ２９_NORMAL"
+  },
+  {
+    "message": "ステージ３０_EASY"
+  },
+  {
+    "message": "ステージ３０_HARD"
+  },
+  {
+    "message": "ステージ３０_NORMAL"
+  },
+  {
+    "message": "ステージ３１_EASY"
+  },
+  {
+    "message": "ステージ３１_HARD"
+  },
+  {
+    "message": "ステージ３１_NORMAL"
+  },
+  {
+    "message": "ステージ３２_EASY"
+  },
+  {
+    "message": "ステージ３２_HARD"
+  },
+  {
+    "message": "ステージ３２_NORMAL"
+  },
+  {
+    "message": "ステージ３３_EASY"
+  },
+  {
+    "message": "ステージ３３_HARD"
+  },
+  {
+    "message": "ステージ３３_NORMAL"
+  },
+  {
+    "message": "ステージ３４_EASY"
+  },
+  {
+    "message": "ステージ３４_HARD"
+  },
+  {
+    "message": "ステージ３４_NORMAL"
+  },
+  {
+    "message": "ステージ３５_EASY"
+  },
+  {
+    "message": "ステージ３５_HARD"
+  },
+  {
+    "message": "ステージ３５_NORMAL"
+  },
+  {
+    "message": "ステージ３６_EASY"
+  },
+  {
+    "message": "ステージ３６_HARD"
+  },
+  {
+    "message": "ステージ３６_NORMAL"
+  },
+  {
+    "message": "ステージ３７_EASY"
+  },
+  {
+    "message": "ステージ３７_HARD"
+  },
+  {
+    "message": "ステージ３７_NORMAL"
+  },
+  {
+    "message": "ステージ３８_EASY"
+  },
+  {
+    "message": "ステージ３８_HARD"
+  },
+  {
+    "message": "ステージ３８_NORMAL"
+  },
+  {
+    "message": "ステージ３９_EASY"
+  },
+  {
+    "message": "ステージ３９_HARD"
+  },
+  {
+    "message": "ステージ３９_NORMAL"
+  },
+  {
+    "message": "ステージ４０_EASY"
+  },
+  {
+    "message": "ステージ４０_HARD"
+  },
+  {
+    "message": "ステージ４０_NORMAL"
+  },
+  {
+    "message": "ステージ４１_EASY"
+  },
+  {
+    "message": "ステージ４１_HARD"
+  },
+  {
+    "message": "ステージ４１_NORMAL"
+  },
+  {
+    "message": "ステージ４２_EASY"
+  },
+  {
+    "message": "ステージ４２_HARD"
+  },
+  {
+    "message": "ステージ４２_NORMAL"
+  },
+  {
+    "message": "ステージ４３_EASY"
+  },
+  {
+    "message": "ステージ４３_HARD"
+  },
+  {
+    "message": "ステージ４３_NORMAL"
+  },
+  {
+    "message": "ステージ４４_EASY"
+  },
+  {
+    "message": "ステージ４４_HARD"
+  },
+  {
+    "message": "ステージ４４_NORMAL"
+  },
+  {
+    "message": "ステージ４５_EASY"
+  },
+  {
+    "message": "ステージ４５_HARD"
+  },
+  {
+    "message": "ステージ４５_NORMAL"
+  },
+  {
+    "message": "ステージ４６_EASY"
+  },
+  {
+    "message": "ステージ４６_HARD"
+  },
+  {
+    "message": "ステージ４６_NORMAL"
+  },
+  {
+    "message": "ステージ４７_EASY"
+  },
+  {
+    "message": "ステージ４７_HARD"
+  },
+  {
+    "message": "ステージ４７_NORMAL"
+  },
+  {
+    "message": "ステージ４８_EASY"
+  },
+  {
+    "message": "ステージ４８_HARD"
+  },
+  {
+    "message": "ステージ４８_NORMAL"
+  },
+  {
+    "message": "ステージ４９_EASY"
+  },
+  {
+    "message": "ステージ４９_HARD"
+  },
+  {
+    "message": "ステージ４９_NORMAL"
+  },
+  {
+    "message": "ステージ５０_EASY"
+  },
+  {
+    "message": "ステージ５０_HARD"
+  },
+  {
+    "message": "ステージ５０_NORMAL"
+  },
+  {
+    "message": "ステージ５１_EASY"
+  },
+  {
+    "message": "ステージ５１_HARD"
+  },
+  {
+    "message": "ステージ５１_NORMAL"
+  },
+  {
+    "message": "ステージ５２_EASY"
+  },
+  {
+    "message": "ステージ５２_HARD"
+  },
+  {
+    "message": "ステージ５２_NORMAL"
+  },
+  {
+    "message": "ステージ５３_EASY"
+  },
+  {
+    "message": "ステージ５３_HARD"
+  },
+  {
+    "message": "ステージ５３_NORMAL"
+  },
+  {
+    "message": "ステージ５４_EASY"
+  },
+  {
+    "message": "ステージ５４_HARD"
+  },
+  {
+    "message": "ステージ５４_NORMAL"
+  },
+  {
+    "message": "ステージ５５_EASY"
+  },
+  {
+    "message": "ステージ５５_HARD"
+  },
+  {
+    "message": "ステージ５５_NORMAL"
+  },
+  {
+    "message": "ステージ５６_EASY"
+  },
+  {
+    "message": "ステージ５６_HARD"
+  },
+  {
+    "message": "ステージ５６_NORMAL"
+  },
+  {
+    "message": "ステージ５７_EASY"
+  },
+  {
+    "message": "ステージ５７_HARD"
+  },
+  {
+    "message": "ステージ５７_NORMAL"
+  },
+  {
+    "message": "ステージ５８_EASY"
+  },
+  {
+    "message": "ステージ５８_HARD"
+  },
+  {
+    "message": "ステージ５８_NORMAL"
+  },
+  {
+    "message": "ステージ５９_EASY"
+  },
+  {
+    "message": "ステージ５９_HARD"
+  },
+  {
+    "message": "ステージ５９_NORMAL"
+  },
+  {
+    "message": "ステージ６０_EASY"
+  },
+  {
+    "message": "ステージ６０_HARD"
+  },
+  {
+    "message": "ステージ６０_NORMAL"
+  },
+  {
+    "message": "ステージ６１_EASY"
+  },
+  {
+    "message": "ステージ６１_HARD"
+  },
+  {
+    "message": "ステージ６１_NORMAL"
+  },
+  {
+    "message": "ステージ６２_EASY"
+  },
+  {
+    "message": "ステージ６２_HARD"
+  },
+  {
+    "message": "ステージ６２_NORMAL"
+  },
+  {
+    "message": "ステージ６３_EASY"
+  },
+  {
+    "message": "ステージ６３_HARD"
+  },
+  {
+    "message": "ステージ６３_NORMAL"
+  },
+  {
+    "message": "ステージ６４_EASY"
+  },
+  {
+    "message": "ステージ６４_HARD"
+  },
+  {
+    "message": "ステージ６４_NORMAL"
+  },
+  {
+    "message": "ステージ６５_EASY"
+  },
+  {
+    "message": "ステージ６５_HARD"
+  },
+  {
+    "message": "ステージ６５_NORMAL"
+  },
+  {
+    "message": "ステージ６６_EASY"
+  },
+  {
+    "message": "ステージ６６_HARD"
+  },
+  {
+    "message": "ステージ６６_NORMAL"
+  },
+  {
+    "message": "ステージ６７_EASY"
+  },
+  {
+    "message": "ステージ６７_HARD"
+  },
+  {
+    "message": "ステージ６７_NORMAL"
+  },
+  {
+    "message": "ステージ６８_EASY"
+  },
+  {
+    "message": "ステージ６８_HARD"
+  },
+  {
+    "message": "ステージ６８_NORMAL"
+  }
+]

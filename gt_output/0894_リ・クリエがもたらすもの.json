@@ -1,0 +1,569 @@
+[
+  {
+    "message": "リ・クリエがもたらすもの"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, I've finished organizing the reports」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, Misa」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm all done over here too~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My share's finished too!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Good work, everyone~. Here, have some tea~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay, snacks~♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How shameless of you, considering you didn't do a single thing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guess that wraps up today's work」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh? This document...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm, is something missing?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We need the chairwoman's seal right here, and it looks like we forgot to get it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh-oh」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Then I'll give it a big smooch mark instead~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Cut it out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll head over to Helena-san's place for a bit」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Please do~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, Synn-chan, welcome」"
+  },
+  {
+    "name": "？？？",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, you have a guest. Sorry to intrude...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's fine, don't worry about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, and this person is...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「This is Sengen'in-sensei, who will be joining us as a student teacher starting next week」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I am Seira Sengenin.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, hello. I'm Synn Sakura, the President of the Ryuusei Student Council.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Nice to meet you, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, nice to meet you too.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Well then, I'll be taking my leave.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, please do your best starting next week.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Excuse me, then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "She seemed like a rather intimidating teacher."
+  },
+  {
+    "message": "The sidelong glance she gave as she left involuntarily made me tense up."
+  },
+  {
+    "name": "Helena",
+    "message": "「Now then, what brings Synn-chan here today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Wait! Let me guess.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「--You wanted to see me... am I right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I came to get your stamp on some documents.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Boo, boo! Synn-chan is being so cold!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Um...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now I'm sulking. I'm not going to stamp it for you anymore.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's your punishment for not playing along.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena, stop messing around.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, Melilot.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It isn't cute when you pout.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Whoa, that's so mean! Hey, hey, Synn-chan, what do you think?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, well, er……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aah, even you, Synn-chan! You're all ganging up to bully me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, that's not it!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena. Please don't act like that when you know better」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Becaaause I'm boooored」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're troubling Sakura-kun」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's a breather, a breather」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Having a serious talk with Sengenin-sensei made me all tired out, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's making me tired instead, though……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm terribly sorry for having such a difficult-to-deal-with Chairwoman」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, since I have no choice, I'll get all tangled up wrestling with Melilot instead」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kyaah!? Honestly, stop that!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aaah, to think even Melilot would reject me……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The only healing frontier left to me now is Ria's boobs……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And so, I'm off to mess with the Student Council room for a bit!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, the stamp……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aah, yeah, yeah. Stamp, stamp」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「My business isn't finished yet either」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What might that be?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The book I lent you previously is past its due date」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aah, that one. I've been too busy to find time to return it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's sitting right over there, so go ahead and take it back yourself」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well then, good luck!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good grief……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Um, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, what is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll help you carry those books」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What about your paperwork?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I go back now, it looks like it's going to be a real pain」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then, I'll gladly take you up on your offer」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, are you sure you're alright carrying so many?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. This much is nothing at all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「On second thought, how about we split them half and half?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, I'm fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At least let me look cool at a time like this」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you insist, Sakura-kun, then I'll leave it to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure thing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I suppose that's only to be expected of the Student Council President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like that, really」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How should I put it…… what is it, I wonder」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Regardless of stuff like that, it's more like I just want to…… or something……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee…… you're a funny one, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, I guess I am………」"
+  },
+  {
+    "message": "Even I don't really know what I was trying to say."
+  },
+  {
+    "message": "I really can't manage to look cool, huh."
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, no, it's nothing...」"
+  },
+  {
+    "message": "What was that sensation just now...?"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A Demon...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ms. Melilot, do you know about Demons?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. I've heard about them from Helena」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so...」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ms. Melilot, please step back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This one is a type of Demon I've never seen before」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, wait up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Caught up to you, kitty!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Oh, it's Big Brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you doing?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Punishing it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That kitty bullied my friends」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So I have to teach it a little lesson, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't butt in, Big Brother. This is my job, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, hey, Macaron!」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey! I told you not to run away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I can't see it anymore」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder what that was...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, are you alright?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. What about you, Melilot-san, are you hurt at all?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm completely fine as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, that's a relief」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, even if something had happened, you would have protected me, wouldn't you, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Oh, yes! Of course!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Excuse me. It seems Helena has rubbed off on me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, not at all...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For now, let's report what just happened to Helena later」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, let's」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, shall we hurry to the library?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure thing」"
+  },
+  {
+    "message": "It's a good thing nothing happened this time, though..."
+  },
+  {
+    "message": "The appearance of unprecedented demons must surely be due to the influence of Re-Crea."
+  },
+  {
+    "message": "Perhaps we should all get together once and come up with countermeasures."
+  }
+]

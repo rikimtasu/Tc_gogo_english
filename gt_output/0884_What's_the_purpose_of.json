@@ -1,0 +1,367 @@
+[
+  {
+    "message": "What's the purpose of"
+  },
+  {
+    "name": "Synn",
+    "message": "「Brrr... It's freezing」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then why don't you just hurry on home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I was wondering what to get Macaron for Christmas」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ahh, so that's why she's not with you today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron's at her part-time job, though」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gotcha」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, knowing that little squirt, she'll be happy with whatever she gets if it's from the Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You say that, but...」"
+  },
+  {
+    "message": "Even so, I still want to give her the gift that'll make her the happiest."
+  },
+  {
+    "name": "Synn",
+    "message": "「What would be good...」"
+  },
+  {
+    "message": "I wander aimlessly through the shopping district."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm, what's that...」"
+  },
+  {
+    "message": "Suddenly, my eyes catch the storefront of Ponpoko."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Tame-san」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Oh, if it isn't Synn. What brings you here today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure I can have these lights and tree sets for free?」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Yeah, they're the ones we used in the shopping district up until last year, and getting rid of 'em is a hassle」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, they were replaced with new ones this year」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Take as much as you want, I don't mind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「You gonna decorate your house or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, something like that」"
+  },
+  {
+    "message": "I might have just come up with a good idea."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Hey, it's Synn」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yoohoo, Synn-kun~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, you two. You look like you've got time on your hands」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I told you, that's not true~ I'm super busy~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin and I are just heading over to Chocolat now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Another cake binge?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sweets!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mako-chan said she's working part-time there, you know. Plus it's part of our club activities」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that right?」"
+  },
+  {
+    "message": "Man, Macaron picked up another part-time job?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I was the one who referred her, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that supposed to mean」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「They say it's really busy around this time of year~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, Sacchin aside, you should get a part-time job too, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm busy helping out at home and stuff, you know」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I feel like I just got treated subtly unfairly~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyway, since we're going, why don't you come with us, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, I don't really have any money though~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is that because you bought that piece of junk?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've been broke from the start. Tame-san gave me this. It still works, too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm. Well, just coming into the shop shouldn't be a problem, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. Then I'll just tag along as Great Master Nanaka's attendant」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha. Well then, shall we go?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah~♪」"
+  },
+  {
+    "message": "After that, while watching Macaron work her shift at Chocolat."
+  },
+  {
+    "message": "And letting Nanaka and the others' sweets talk go in one ear and out the other."
+  },
+  {
+    "message": "Before I knew it, it was already time for Macaron's shift to end..."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Macaron-san, thank you for your hard work today」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not at all! Thank you so much for having us!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha... Sorry for sticking around so late like this」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Please don't mind it at all. After all, you are always such regular patrons」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Coming three times a week isn't just for show, huh~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's coming way too often...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Oh, that reminds me, Macaron-san」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Please take this and enjoy it together, everyone」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa, it's a cake~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And a super fancy one at that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A-Are you sure it's really okay for us to accept this?!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes. It's a little early, so think of it as a Christmas present from me」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thank you very muuuch!」"
+  },
+  {
+    "message": "After that, we parted ways with Nanaka and the others in the shopping district."
+  },
+  {
+    "message": "I walk the road home together with Macaron."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe... That was awesome, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. There's enough for Sally-chan and Paqy too, so let's all eat it when we get back」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Scoring a Christmas cake for free--just as expected of the Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't go there intending to do that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Since you insulted big brother, no cake for Paqy-sama!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Daaah, that's cruel! Let the great me have some too!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then I'll give you this chocolate decoration. Lucky you~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That just makes it even more pathetic...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wrapping the Great Sage around your finger--that's our Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, well, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, why did you pick up more shifts all of a sudden?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm... No reason」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'No reason,' she says...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because I heard things were busy」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I just couldn't leave someone in trouble alone. That's all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What about you, big brother? What's with that trash?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh, nothing really」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aah! What's that, no fair!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, shall we hurry home and eat some cake?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, wait up, big brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, if I run, the cake will get ruined」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Dummy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Both of you are terrible at keeping secrets」"
+  }
+]

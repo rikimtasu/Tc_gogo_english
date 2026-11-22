@@ -1,0 +1,964 @@
+[
+  {
+    "message": "大人の階段を登れない"
+  },
+  {
+    "name": "Ria",
+    "message": "「We're really getting the hang of these Angelic Agent activities.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At this rate, conquering the whole academy isn't just a dream anymore!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Rome wasn't built in a day. It's only been three days, you know.」"
+  },
+  {
+    "message": "What is she even planning to conquer in the first place?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Today, we've received requests from the Umbrella Golf Club and the Wagashi Club.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The Wagashi Club?! Rejected!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's got into you all of a sudden?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What a thing to say about a request we were fortunate enough to receive.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if we take it, I'm out. I'll go handle that Umbrella Golf Club or whatever.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does Nanaka have some kind of history with the Wagashi Club?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha...\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have to head over to Prier on another matter, so...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It can't be helped. In that case, I'll go.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We're counting on you, Vice President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll have it wrapped up in no time. Unlike a certain someone.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gotcha~. Good luck, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~Ugh!!」"
+  },
+  {
+    "message": "Why is she upset when I was cheering her on?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, I'll--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Could you go along with Misa-chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think she'll probably feel uneasy going all by herself.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on. Please?」"
+  },
+  {
+    "message": "I-I don't know what to do when she begs me while pressing her chest together like that!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, Misa hates working together with me...\\s03」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think the client from the Wagashi Club is probably my friend--Akane Misasagi.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misasagi... senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. The Wagashi Club has helped me out a lot, too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Or rather, I used to be a member myself.\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh-ho~」"
+  },
+  {
+    "message": "Do people in the Wagashi Club all carry Japanese sweets around with them?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Anyway, when I told her I became an advisor, she got kinda interested in everyone on the Student Council.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Interested... you say?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. She said she's been wanting to meet you all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She could meet us anytime if she just came to the Student Council room, though.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She must be a shy person.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... Understood. Since we have the chance, I'll go greet her properly.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, please do. I'm going to go cheer Nanaka on.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then I'll be heading off too.」"
+  },
+  {
+    "message": "Misasagi-senpai, huh...."
+  },
+  {
+    "message": "Being shy despite being interested--what a strange person."
+  },
+  {
+    "message": "Still, Ria-senpai. You said Misa was \\{feeling lonely|\\s12\\s12\\s12\\s12\\s12} or something, though...."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait up, Misa~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-?! Why is Sakura-kun here?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's Student Council business. There's nothing wrong with doing it together.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm more than enough here on my own. Why don't you go buy a vinyl umbrella or something!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai told us to do it together.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, if that's the case, I suppose I have no choice.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where does the Wagashi Club hold its activities?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A map was enclosed with the request form.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What is this sound...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's like we've wandered into a Japanese garden...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Welcome, both of you. Please, make yourselves at home.」"
+  },
+  {
+    "message": "A single girl stands quietly beneath a crimson-dyed outdoor tea parasol."
+  },
+  {
+    "message": "Perhaps out of shyness, she hides her mouth behind a folding fan."
+  },
+  {
+    "message": "Could she be--"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I am Ayanishiki Misasagi, a third-year and the president of the Wagashi Club. It is a pleasure to make your acquaintance.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Misasagi―senpai―wait, of the Misasagi Zaibatsu?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that who she is...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My, you know quite a bit about us.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course I do! When your mansion was built about three years ago, my milk delivery route turned into a massive detour, so it was a real pain.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh dear, I am terribly sorry about that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's not your fault the mansion is so huge, Senpai.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's hardly the issue! Speaking of the Misasagi Zaibatsu, they're one of the top two wealthiest families in all of Ryuusei Town.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it was a big mansion, but they're really that incredible?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「They run pharmaceutical companies, shipyards, even banks.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Is that so? I wouldn't really know myself.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Were you just thinking, 'A child never knows a parent's heart'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, not at all! I was just stunned speechless.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. What an honest person you are.」"
+  },
+  {
+    "message": "I see. Anyone would feel intimidated facing someone this big."
+  },
+  {
+    "message": "In fact, the extraordinary pressure radiating off her feels just like being glared down by a whole sea bream served head and tail intact."
+  },
+  {
+    "message": "Well, I've only ever seen those in photos, though."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「However, the person standing before you is just an ordinary girl, so please do relax.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U―Um... I'm from the Ryuusei Student Council―」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Vice President Misa B. Christeles, I believe.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「And over there would be the President--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm Synn Sakura. N-nice to meet you!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「How wonderfully energetic. Though you really must let people finish speaking.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「J-jeez! Sakura-kun, that's so rude!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were cutting in just a moment ago too, Misa!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. You two certainly get along well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yeah, we sure do~. Ahaha\\s02」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh--?! Don't just agree on your own!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shh. Let's cooperate for now. We don't stand a chance on our own!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Winning or losing--this isn't a competition!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though you're always treating it like one」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I mean! Misasagi-senpai came to the Student Council with a request. It'd be bad if we made her feel uneasy!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...You mean if we're bickering like this, she might withdraw her request.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Exactly.」"
+  },
+  {
+    "message": "Someone with this much intimidating presence actually took an interest in us."
+  },
+  {
+    "message": "Maybe we're being tested right now."
+  },
+  {
+    "name": "Misa",
+    "message": "「Fine. We can't afford to damage the Student Council's credibility here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay. Let's do our best.」"
+  },
+  {
+    "message": "A temporary truce. Though I didn't intend to fight in the first place."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Please, do help yourselves. It's only humble tea, though.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh... Could it be we're drinking this standing up?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We aren't the Tea Ceremony Club, after all. This is the Wagashi Club.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which means we can look forward to wagashi coming out after this...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey! You've got some nerve」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. Honesty is a wonderful thing, isn't it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Um... never mind the sweets, could you please tell us what today's main topic is?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There's no need to rush so, Vice President. Why don't you have some tea and put yourself at ease?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes... *sip*...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Whatever is the matter?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Nothing...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did it not taste good?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's... not it at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see... *sip*...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, so astringent and delicious!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're kidding me, right...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wakes you right up!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's already after school!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't this a bit too astringent, though?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nngh\\s09 If you say that, everything I endured will have been for nothing」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Forgive me. I always leave making the tea to Lia, so I still have a long way to go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, that was a lovely serving」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's pointless to say anything now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's true that it was good. There are things where you enjoy the astringency, right? Like bitter melon or coffee」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's bitterness!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My, President, you're quite the gourmet. You truly understand mature flavors」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, come on, I'm not all that\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I can handle it too...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you don't like the bitterness, wanna mix it with my milk to make a matcha latte?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, I'm fine! And more importantly, stop saying things like 'my milk' that could be misunderstood!」"
+  },
+  {
+    "message": "Spouting nonsense, Misa took the teacup in one hand--"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gulp, gulp, gulp, gulp~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, all in one go?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My, you certainly know how to drink, Vice President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. I win♪」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Proper adults who understand the finer things in life take their time and savor the flavor, you know.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "message": "Somehow her loss count just keeps piling up."
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Um... perhaps we should get to the main topic soon...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. You had a request for us, didn't you?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I have only one wish」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Please give Ria back to us.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai, you mean?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria withdrew from the Wagashi Club because she was becoming Student Council President. To draw a clean line, as they say.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I sent her off with a smile, saying she'd still be a dear friend even after leaving the club... but the year since then has been like sitting on pins and needles.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why... is that?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Seeing all the club members force a smile while drinking the utterly flavorless tea I brewed, well...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Her term finally came to an end, so I thought, ah, now I'll be able to savor Lia's tea whenever I please, and yet……"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you're saying she didn't come back because she accepted the advisor position.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Like I said earlier, wagashi are meant to accompany tea.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To enjoy wagashi, delicious tea is essential……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The tea Ria-senpai brews sure is delicious!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Didn't you say the exact same thing about the tea Misasagi-senpai brewed?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then that means there's no problem at all!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Mr. President. May I retract what I said about you being a gourmet? Please don't disappoint me too much.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh……?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It was only a matter of time before everyone found out you have no sense of taste.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Compared to Lia's tea, my own is practically like water wrung from a dirty rag.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And so you're saying you want to take back the person who brews such delicious tea.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's right.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「However, I believe Senpai's own wishes should come first in that choice. It's not something for us to decide.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If you're going to say that, then you wouldn't mind if I tried recruiting her again myself, would you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you mean having Ria-senpai decide whether she chooses the Student Council or the Wagashi Club?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You make it sound awfully dramatic, though I suppose it would be best to get things settled clearly while we're at it.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Will the Student Council accept my request?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We cannot. Plain and simple.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「So you're picking and choosing requests based on the personal likes and dislikes of Student Council members. Isn't that an act that betrays the trust placed in the Student Council?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if it costs us that trust, she is someone we must protect.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. You're awfully confident, Madam Vice President. Don't you know Lia loves wagashi even more than her three square meals?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ria-senpai is our guiding star. We didn't ask her to be our advisor because she was last year's Student Council President--we asked because of who Ria-senpai is herself.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The person I admire would never make such a choice! Never!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Vice President,」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You really do love Lia to bits, don't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh!? Th-That's...\\s03」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I get how you feel. I love Lia a whole lot myself, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I love her so much I just wanna hug her and kiss her.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hug Onee-sama and k-k-k-kiss...\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「--Gasp!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I won't... I will never let you do that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A rival in love!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "message": "Misasagi―senpai glanced over at Misa―"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You're not even in the running.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say--!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Calm down, Misa.\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't just stand there quiet--say something too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「At this rate, Onee-sama will... Onee-sama will...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I feel the exact same way about wanting to keep doing Student Council activities with Ria-senpai.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And that's exactly why we have to accept this request.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What...!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misasagi-senpai. Understood. We'll accept that favor.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「However, the idea of 'giving her back' doesn't quite sit right with me. It's not like we're trying to monopolize Ria-senpai in the first place...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I know! If you want the tea Ria-senpai brews, the Wagashi Club members can just come to the Student Council room too!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're always getting treated to things, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「No matter how much the President says that, the Student Council room is off-limits to outsiders, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nobody ever decided a rule like that. Besides, isn't a Student Council room that all the students feel comfortable dropping by way more fun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait a second? Could it be that it still gives off that kind of unapproachable vibe... Hrmm, this is a tough one.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hold on, Sakura-kun. You're missing the point.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? Oh, sorry!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee, isn't this fine in its own way?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I never expected things to turn out like this. The President really got the better of me there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No... I didn't really mean to do that, though\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even I'm not so tactless as to get in the way of Student Council activities. However--」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Because Ria puts so much stock in the Student Council, I grew curious about what sort of people you were, so I put in that request.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could it be that you were testing us!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh, dear me. I'm not that mean-spirited of a woman. It's the honest truth that the tea I brew has neither flavor nor charm to it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you satisfied now?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「With a President who says things like 'Come on by the Student Council room,' it makes total sense why Ria is so devoted to you.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I feel terribly sorry after going out of my way to ask, but... would it be alright if we pretended this request never happened?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes... if you're alright with that.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「In exchange, I'll drop by for a visit myself whenever I get the chance.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-By all means, please do!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'll be looking forward to it, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes! That's great news, Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「～～!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Why are you mad?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why do you always take all the good parts for yourself?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--? I-I didn't mean to... Look, it only went well because you took the lead, Misa--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. That's no consolation at all! On the next request, I'm definitely going to beat you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, I'm not trying to compete...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. My, you two really do get along well.」"
+  },
+  {
+    "message": "How on earth could anyone look at us and think that?!"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'll let Ria-senpai know to drop by the Wagashi Club's clubroom. I'll tell her that you wanted to drink the tea she brews, Misasagi-senpai.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ah, there's no need for that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「First of all, our Wagashi Club doesn't have a clubroom. We always hold our activities at Prier, you see.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then what is this place...?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It's the Tea Ceremony Club's clubroom. I just borrowed it for today.」"
+  },
+  {
+    "message": "A so-called open-air club, huh..."
+  },
+  {
+    "name": "Misa",
+    "message": "「Setting up a whole stage like this... You really were testing us!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. It looks like I'll have plenty more fun until graduation.」"
+  }
+]

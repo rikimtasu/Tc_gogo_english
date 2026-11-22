@@ -1,0 +1,329 @@
+[
+  {
+    "message": "終わりと始まり"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ngh... ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Is it... over...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The power of Re-Crea is fading away...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems the Demon Lord's power won out...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why... did you all... for me...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's easy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It wouldn't be any fun if someone was left out, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because you're a precious friend to us, Azel.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「We could never just leave you behind.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「After all, that's what a sparkling school life is all about!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's silly and just like Sakura-kun, but... still, it's wonderful, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want you to join that circle too, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Over something like... just that alone...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no need to overthink it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Let's take our time and get closer from here on out!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is someone like me really okay...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even someone like me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We welcome you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「…………」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Thank you」"
+  },
+  {
+    "message": "Her cheeks softly relax, and she closes her eyes."
+  },
+  {
+    "message": "I was finally able to see Azel smile from the bottom of her heart."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...It seems she has fallen asleep」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I shall escort her back to her room in the dormitory」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please take care of her, Jeeves」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Everyone accepting Azel, huh. Not bad at all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I guess Synn's stupidity rubbed off on us too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A dummy, huh? That sure is troublesome\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Seriously, it really is. Just what are you going to do about it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, he is my big brother, so it can't be helped!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, that makes me sound pretty bad...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon King...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks like someone's been waiting for you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Heh... hahaha...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Just as I thought, your power is the real deal...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Now, fight me! Demon King!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus, you...」"
+  },
+  {
+    "message": "Do I really have no choice but to fight?"
+  },
+  {
+    "message": "What's even the point of a contest of strength like this..."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hooold it right there!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「...You again」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Begone. I have no business with anyone other than the Demon King」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then neither of us has a problem, right!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「What...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Right now, I'm... we're the Demon Lord together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「On that point alone, I won't back down no matter what you say」"
+  },
+  {
+    "name": "Virus",
+    "message": "「What is the meaning of this... No, wait--this magical power...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Haven't you noticed, Virus?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Witch...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In the short time leading up to Re-Crea, Macaron has grown at an astonishing pace」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Having witnessed the battle just now, you must realize that as well」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I'll admit that much, certainly」"
+  },
+  {
+    "name": "Virus",
+    "message": "「However, that alone is no reason to claim the title of Demon Lord」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Perhaps so」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, what if Sakura isn't the only one of the bloodline entitled to bear the name of Demon Lord...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, what the hell are you talking about…… Don't tell me you……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It caught my interest, so I took the liberty of looking into various things……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, that is beside the point right now」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Above all else, the strength of the two standing right before you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Isn't that the very thing you seek as a Demon Lord?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph……"
+  },
+  {
+    "name": "Virus",
+    "message": "「Indeed, so it was……"
+  },
+  {
+    "name": "Virus",
+    "message": "「As you two are now, you are more than worthy opponents!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You two have no objections either, I presume?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm~…… I don't really get all that complicated stuff, and……"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Anyway, I just can't stand leaving things on a loss!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's to become a proper Demon Lord together with Macaron...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That will be my reason to fight!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Good, so you've finally found your resolve!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「This time, I definitely won't lose!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll finish this right now!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Now come at me! You two Demon Lords!!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ６５_EASY"
+  },
+  {
+    "message": "ステージ６５_HARD"
+  },
+  {
+    "message": "ステージ６５_NORMAL"
+  }
+]

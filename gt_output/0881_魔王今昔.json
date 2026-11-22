@@ -1,0 +1,685 @@
+[
+  {
+    "message": "魔王今昔"
+  },
+  {
+    "name": "Synn & Macaron",
+    "message": "「998......」"
+  },
+  {
+    "name": "Synn & Macaron",
+    "message": "「999......」"
+  },
+  {
+    "name": "Synn & Macaron",
+    "message": "「1000!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whew......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Phew~ That's about it for today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good work~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Good work. I'm thirsty~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which do you want, cold tea or lukewarm milk?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Are you...... messing with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy! The canteen!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't treat me like your errand boy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm counting on you as a top-notch second」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nice way of putting it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, Macaron, have some tea」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Thanks」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gulp, gulp, gulp...... Haaah~, delicious!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, how do you guys keep training every single day without getting sick of it?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I slack off, my body gets out of shape right away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It seems good for our health, too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「\"To become stronger, fight opponents stronger than yourself\"」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「\"Daily training is what you do so you don't get weak before that happens\"」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Lord Paqy said it a long time ago. Don't you remember?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aaaah……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mmm……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Now that you mention it, I sort of feel like I might've said something like that, maybe……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, back when you came to the Kingdom of Ratafia with Master and the others!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hrmmm……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe smacking him will knock it loose」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Brain!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ooh! I remember now!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're that little squirt from back then!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You two already knew each other?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, sort of. Back when I was traveling through the Demon World with the previous Demon Lord to gather allies」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Brings back memories, doesn't it? I've grown up a whole lot too, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Dunno about that. Looks like your chest hasn't changed a bit」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mghhh! Says you, Lord Paqy--you're the one who shrank!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Shut up, it's by design!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Huh……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The previous Demon Lord…… Master……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hm? What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be that Macaron's master is……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My dad?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That'd be right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Is that true!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I met the little squirt back when I was traveling with the previous Demon Lord. No doubt about it.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh, but Master having a kid...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When Dad was young, with Macaron... hmm?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, time flows differently between the Demon World and the Human World, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How convenient!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, why didn't you tell me sooner!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Draft!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Keeping something this important a secret!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I-I just assumed you'd already noticed...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not as experienced as you are, you know.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Muu~... this feels kinda weird.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even if you tell me all of a sudden, it doesn't feel real...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, um, where is Master right now...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. He's overseas with Mom for work.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, really... it's kind of a strange feeling.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Before I knew it, I'd ended up right next to Master...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even though I thought he was so far away...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Hey, what was Dad like back in the day?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Do you wanna know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. If you don't mind, I'd love for you to tell me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About Dad, and about you too, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see, I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Let's see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「This happened back when I still lived in the castle of the Ratafia Kingdom...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「While I was taking a walk in the garden, I happened to find Master collapsed on the ground」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It was quite a shocking first meeting, let me tell you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if someone was collapsed on the ground...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That was the very first time I ever met someone from outside the castle...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Believe it or not, I used to be a sheltered little princess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And you know, it turned out Master had gotten separated from his companions」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「On top of losing his way, he was starving, so he was basically stranded even though he was right in the castle garden」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「All I did at the time was share some snacks I had on me, though...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Master made such a big deal out of it, saying things like, 'I'll definitely repay this debt'」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I guess it started after that...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Master started sneaking in to see me...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And I started meeting up with Master in secret from Papa and Mama too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Master told me all sorts of stories about his adventures, and before long, I started looking forward to them...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「At first, Master would even sneak me out of the castle, but...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eventually, I started sneaking out all on my own」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why would Dad do something like that...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The previous Demon Lord just couldn't stand seeing the little squirt looking so bored all the time」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Honestly, life in the castle just wasn't any fun...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hehehe... How embarrassing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, since you're a princess... were your parents super strict?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「To be honest, they actually didn't pay much attention to me at all...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Not that I even remember anymore!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「By the way, the Great Sage was a pink bear mascot suit! The exact model for this coat!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「He basically doubled as Master's sleeping bag」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I switched over to this body after that Re-Crea wrapped up, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Anyway, one day I got kidnapped by a bad Demon outside the castle」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Things were pretty rough in the Demon World back then because of Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, so that's when Dad swooped in to save you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, yeah, that happened, but...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You won't believe what Mom and Dad did back then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh-huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「They tried to haggle down my ransom!? Unbelievable, right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, well, maybe that's just a different kind of love... No, probably not...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Master was totally different, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「He showed up in a flash and saved me in the coolest way possible!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Angels, Demons, and all his other friends pitched in to help too...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That was all thanks to how much everyone loved and respected Master!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, I figure you already know most of what happened after that, Your Majesty」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She looked up to Dad so much that she started training to become a Demon King」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, that's pretty much the gist of it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Back then, though, I wasn't really thinking that deeply about it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「When we said goodbye, Master told me he was going off to accomplish something huge...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「He meant he was going to stop Re-Crea, didn't he」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The former Demon Lord didn't tell ya the details so he wouldn't make ya worry, shorty」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Dad really tried to act all cool when it's not even his style...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「When he handed Alzard down to me, he was acting super cool!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Now that I have gained true power as the Demon Lord, I no longer have need for this blade」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「However, it shall now guide Macaron, who inherits it, to become the next Demon Lord」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Until the day Macaron becomes a splendid Demon Lord, farewell! Fwa-hahahaha!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I can kinda picture that...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Looking back now, he only did it to keep me from following after him, didn't he...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pretty much. It's just a normal sword he bought at the town weapon shop, anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, really!?」"
+  },
+  {
+    "message": "How totally RPG!"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, it's supported me all this time」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Right up until I met you, Big Brother, it kept me going the whole way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alzard will always be my treasure!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'm sure Dad will come back before too long」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'll definitely see him again. I guarantee it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「When we meet again, I'm gonna greet him properly!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll tell him, 'This time, I'm taking Big Brother for myself'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? That's your greeting!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, just kidding」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't make my heart race like that……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, if we're going to pay our respects, I have to go meet your parents too, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh, that's…… fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not fine」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It is fine. We don't get along, and they think I've gone delinquent anyway……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gone delinquent……」"
+  },
+  {
+    "message": "Well, if a princess suddenly started sleeping outdoors, they might think it's strange, though……."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, my home right now is here」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I get to be with you, Big Brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Master will come back too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I have fun memories from after coming to the Human World」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because right now, this place is my home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Welcome back, Big Brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm back. And also…… welcome home, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, I'm home!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, as usual, what the heck are you guys doing……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aah, I'm getting hungry--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're right. Shall we have lunch?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me is starving too!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Lord Paqy didn't do anything, so you don't need any food, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yep--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Hey, that's harsh!」"
+  },
+  {
+    "message": "About Dad and Macaron…… It feels like we got to share our memories, and that makes me happy."
+  },
+  {
+    "message": "Still, I really wish I could do something to help Macaron's parents...."
+  }
+]

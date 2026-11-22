@@ -1,0 +1,964 @@
+[
+  {
+    "message": "伝わらない"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's morning, wake up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Uuh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on Synn, how long are you gonna sleep」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gasp, Macaron!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wrong person!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Abushi!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jeez, you hopeless horn-dog...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow-ow... Aah, Nanaka, morning...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, morning. Rare to see you still sleeping in. You look exhausted too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... Ah, where's Macaron!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mako-chan? Isn't she at her morning part-time job?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, I need to hurry and find Macaron--ah, ow-ow-ow...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What, sore muscles? How pathetic」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Clutching your lower back like that, you look like an old man. Did you do some intense exercise or... gasp!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Y-You, d-don't tell me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, last night was pretty rough in a lot of ways...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Last night!? You mean at night!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was my first time feeling anything like that...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Awawawa...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something hot welled up from deep inside. Even now, just remembering it gives me chills...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugyaaah! You pervert!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Debeah!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Grief... Making a racket this early in the morning」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey, P-man! Yesterday, Synn and Mako-chan, um, well...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ah, truth is, Lord Synn messed up a little, see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Messed up!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And ended up making the little runt mad」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I see... Well, it was his first time, so it can't be helped...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, is that how it usually goes...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No-no-no, it's nothing, it's just something I heard about!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Oi, what are you talkin' about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, obviously, you know, getting frisky, or lovey-dovey smooching, or going bump-bump in the night...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you making me say--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, I think your explanation just now was a bit lacking」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eek!? You don't need to go into detail!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I have to tell everyone today too...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of humiliation play is this!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Feigning innocence to humiliate his childhood friend--just as expected of the Demon Lord!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahaha... The Demon Lord, huh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Somehow, when it actually comes down to it, it's hard to know how to react」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for keeping quiet about it until now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I mean, that couldn't really be helped」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I mean, I kinda get how you felt... like it was hard to bring up given your position」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, I get why Mako-chan is mad, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even I've been by your side for a pretty long time, Synn...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So I can't help thinking you could've at least talked to me about it a little」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'm hopeless, aren't I...」"
+  },
+  {
+    "message": "No wonder Macaron is angry with me."
+  },
+  {
+    "message": "Even though I claimed I loved her and cared about her...."
+  },
+  {
+    "message": "To think I didn't even consider trying to get her to understand me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, don't beat yourself up like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not like I'm blaming you for it or anything, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And I'm sure Mako-chan doesn't actually hate you either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's just, in Mako-chan's case, she was all fired up about becoming the Demon Lord herself, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So to her, it must've felt like being told right to her face that she was a fake」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's no surprise she took it hard」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaah... What have I done...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey Soba, what're you cornering him for?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, I'm trying to cheer him up here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's because I was so insensitive...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, look, it's not your fault you turned out to be the Demon Lord, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, I don't want the Demon Lord's power...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you talking about!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks to that power, you were able to protect Mako-chan, right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you saying you'd have been fine not saving Mako-chan, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true! There's no way I'd be fine with that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just... that power hurt Macaron, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I'm wondering if it's really okay for me to accept it...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, Demon Lord」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That power is already inside you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It belongs to you, Demon Lord--including the responsibility of wielding it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "This happened because of me."
+  },
+  {
+    "message": "Settling the score is my job. Makes sense, doesn't it..."
+  },
+  {
+    "name": "Synn",
+    "message": "「...I wonder if Macaron will understand」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「As for that, we won't know until we talk to Shorty」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah, you're right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to go look for Macaron right now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey now, what are you gonna do about the academy?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is the Student Council President gonna skip class again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You seem kinda reckless right now, Synn, y'know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why don't we talk it over with everyone first?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mako-chan might actually show up for her part-time shift at Prier, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah」"
+  },
+  {
+    "message": "Or so I hoped, anyway..."
+  },
+  {
+    "message": "Having screamed that she didn't even want to look at my face, there was no way Macaron would conveniently show up at the academy."
+  },
+  {
+    "name": "Synn",
+    "message": "「--And so, that's the situation...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You did well telling us. Thank you, Synn-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've been deceiving everyone this whole time...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. We're not bringing that up anymore, okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whether you're a Demon Lord or a Hero, Mr. President is still Mr. President through and through」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Though I still can't accept that only Sakura-kun has that kind of talent!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See? Told ya nobody'd mind」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, couldn't you have at least relied on us?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Pulling something like this really disqualifies you as president」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're completely right...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, harping on what's already done won't get us anywhere」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. Especially since Synn-kun finally opened up to us about his secret」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「With this, it should be a bit easier to devise countermeasures against Re-Crea」"
+  },
+  {
+    "name": "Helena",
+    "message": "「My, how pragmatic of you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We can't exactly afford to take it easy, can we?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The strongest of the Demon Generals desires Re-Crea. We must make our move early」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could this Virus person be the one who's been pulling the strings behind the scenes all this time?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「At present, it's still hard to say either way」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, judging by his personality, I find it difficult to believe he would resort to such petty tricks」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We would do well to consider the possibility that another mastermind exists」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You seem awfully well-informed about all this, Ms. Librarian」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The sheer volume of my knowledge is on a different level from yours」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. It's that classic saying: with old age--and an older woman--comes wisdom!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wh--...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mfufu, you really get it, don't you, Lolotte-chan」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena, please stop fooling around」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What, it's the truth, isn't it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He-le-na......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, now, calm down」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No matter how much we strategize, if our all-important Demon King is like this, it's completely hopeless, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......Huh? What were we talking about again?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「......Absent-minded would be the right word for it, I suppose」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For Synn, there's something way more on his mind than Re-Crea anyway」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You mean Macaron-chan, right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Haa...... So that's what this is about」"
+  },
+  {
+    "name": "Helena",
+    "message": "「First things first, we have to resolve Synn-chan's little dilemma」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed, it would be troublesome if the Demon King isn't in the right mindset」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If it were that easy, we wouldn't be having any trouble」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Great Sage Paqy......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's frustrating, but even if we butt in, there's nothing we can do about it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, if it's Synn, he'll be fine」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right. If it's the President and his little sister, they'll come to understand each other in no time!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just like during Kirafes, right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The peace of the world is at stake here, so pull yourself together」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Certainly, if he cannot even overcome a difficulty of this caliber, he may be unfit to be the Demon King」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Come on, just cheer him on a little more honestly」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku...... What a high-maintenance Demon King we've got」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone...... thank you. I'll definitely work things out with Macaron」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to try my best to get her to accept that I'm the Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I can just convince Macaron...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, I'm sure...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think I'll finally be able to truly accept that I'm the Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank goodness, it's Macaron's tent」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Doesn't she have anywhere else to go...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, are you there...?」"
+  },
+  {
+    "message": "…………。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, I really want to talk to you」"
+  },
+  {
+    "message": "…………。"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Maybe she's not in?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But she wasn't at the academy or the shopping district either...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then let's take a peek inside the tent」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way, not without asking...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Sometimes you gotta use a little force」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Coming in!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyaaaahhh!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? Oh, Lord Great Sage!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Y-Y-Yeah! You almost gave me a bald spot right there!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-I'm sorry, I thought you were my big brother...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'd ambush me with a slash if it were me...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...You're off from your part-time job today, huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...There's no point trying hard at anything anymore anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...So, what did you come here for, Demon Lord」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even though I told you I didn't want to see you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wanted to make up with you, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's not like we were fighting or anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were we never on good terms to begin with...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mghhh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen to me, Macaron」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Back then, I just wanted to protect you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I never meant to hurt you, and I didn't care at all about the Demon Lord's power」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I know that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can't we go back to the way things used to be...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Why do you want to do that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, why do you feel that way?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm fine with things just the way they are now」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Since I can't become the Demon Lord anymore anyway...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, Macaron...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll leave everything to you, Big Brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Re-Crea, world peace--you can just handle all of it yourself, Big Brother!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Because I don't know anything anymore!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not like you at all, Macaron!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What do you even know about me, Big Brother!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You don't know a single thing about how I feel!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You haven't even noticed how betrayed I feel...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Go home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But, um...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't ever come back! I hate you so much, big brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That was a total defeat, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You talk like it's someone else's problem...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, it's a fact that the Demon Lord's thinking was shallow, man」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just saying 'let's all get along' ain't gonna cut it anymore」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Sigh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you're that dense, no wonder you made her mad」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why I'm asking what you mean」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wouldn't that be pointless if you don't figure it out yourself?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Haaah~...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「In the end, I couldn't even properly tell him I love him, huh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Couldn't become the Demon Lord, and couldn't confess either...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Shutting myself in and moping around just like I used to...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm so pathetic...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Do you truly intend to let things end just like this?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...You were here」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Princess, are you genuinely content leaving things as they are?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What are you trying to say」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「You may take my words at face value」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Of course... I'm not okay with it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I've done nothing but lose to both Virus and big brother, and there are still things I want to say, and things I want to hear...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「In that case...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「But I can't become the Demon Lord!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I don't have any allies. I don't have any power. Like this, there's nothing I can do...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「...Nothing you can do, is it?」"
+  },
+  {
+    "name": "Yasubee",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Right...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I still have you with me...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「...It's a bit late to ask, but are you just going to ignore me?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's super suspicious whether you're actually on my side!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I am interested in watching you grow, Princess, as a woman, and above all, as the Demon Lord...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Is that alone not enough to earn your trust?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Whatever, I don't care.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still... you're right.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「At the very least, I know I can't just stay like this.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I don't know what to do, I just have to think it through.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「About what I should do from here on out...」"
+  }
+]

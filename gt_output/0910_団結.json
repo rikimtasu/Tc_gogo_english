@@ -1,0 +1,541 @@
+[
+  {
+    "message": "団結"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "message": "Just as I thought, I haven't felt that presence from yesterday since then."
+  },
+  {
+    "message": "Maybe I'm just overthinking it..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's the matter, got an upset stomach or somethin'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No. It's just that I had a weird feeling yesterday...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wasn't it a Demon?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It felt kind of different from usual...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What, do Demon Lords come equipped with a monster antenna or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, something like that, I guess」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though yesterday's felt more like a bad premonition than anything」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, your hunches are never reliable anyway, Synn, so it's fine, it's fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I hope you're right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, good morning, Misa」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's the big rush, did something happen?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, it's terrible!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just come this way! Hurry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, hey, Misa!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's all the commotion, is a festival starting or something?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Doesn't look like it's anything that fun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san... Did something happen?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though it might be more accurate to say that something seems to have happened」"
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In any case, let's go inside」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please, be very careful...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is someone... there...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Over there...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「That presence... Is it the Demon Lord...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you in a place like this...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We had morning choir practice today, and I found him then, but...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's pretty damn worn out...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems he's been in this state since around last night...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Last... night...」"
+  },
+  {
+    "message": "Then that presence from back then was...!"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "message": "Melilot-san and I silently exchange glances."
+  },
+  {
+    "message": "I knew it, so that really was him..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus, what on earth happened...?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Heh...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「As you can see, I was merely caught off guard...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why would something like this……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「To think the power of Re-Crea was that immense……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Guh, ugh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus, hang in there!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, don't approach him so carelessly……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Can you stand?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Mgh…… yeah……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What are you planning to do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He's injured. I can't just leave him like this」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you talking about, Synn? Isn't this guy our enemy?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's right, it's dangerous!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Maybe so. But……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That still doesn't make it okay to leave someone who's hurt behind」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh…… That rock-solid confidence and composure--truly worthy of the Demon Lord!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……It can't be helped, then」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We will look after him here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Not at all. That is one of your best qualities, after all, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus. I trust you understand, but……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I have no interest in anything other than a fair, all-out fight……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……You ought to thank Sakura-kun」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph…… To think the day would come when I'd end up in your debt……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「That is everything I can tell you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see... So that's what happened...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「To think Azel-san was the agent of Re-Crea...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No wonder she was always skipping school.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't that unrelated...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And Soltia was supporting her, then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So the two of them really were aiming to bring about Re-Crea...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「With all this information lined up, there's no doubt about it.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「...To think a god actually existed.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I suppose the records weren't entirely lacking in credibility after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Still, it's strange...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel definitely said it was God's will, right?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Unless he was just spouting delirious nonsense out of sheer fanaticism.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then God is making Azel the agent to trigger Re-Crea...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That would mean Melilot-san's hypothesis was right, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That contradicts the whole idea that Re-Crea is a natural phenomenon.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If it's an intentional phenomenon caused by God, it certainly contradicts the existence of the tower.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, there are no flaws in either the records or the facts so far...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「When it comes to God's intention in presenting both survival and rebirth at the same time...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Maybe God is trying to let us choose between them.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Choose...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Building the tower to prepare for Re-Crea, or triggering Re-Crea itself...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Everything is left in the hands of those who live in this world, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So what happens to us... is up to us, then.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That god sounds kinda irresponsible, huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's tyrannical! Please go easier on us!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, it means that if we put in the effort, there's a future waiting for us that's worth it, right」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sure it means God is giving us a chance\\s07」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「While I do think that is a somewhat distasteful conjecture...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It also makes a strange amount of sense」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, what we need to do was decided long ago」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To free Azel from the seat of the Agent, and save the world...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To drive back Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that's what we must do right now...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's overcome Re-Crea together and seize our future!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...If that is the will of the gods, then dancing to their tune is certainly one option」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So, what do you intend to do?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「...What do I intend to do, huh」"
+  },
+  {
+    "name": "Virus",
+    "message": "「If we defeat the Agent, we may even come face-to-face with the god reigning above them...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I can expect as much, correct?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let us just say that the possibility exists」"
+  },
+  {
+    "name": "Virus",
+    "message": "「That's enough」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Besides, it seems the Demon King is trying to gain even more power as well」"
+  },
+  {
+    "name": "Virus",
+    "message": "「If a god shows itself, there's no telling if he won't gain even greater power in response」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Then there's no way I can sit out of this fight」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So I can take that to mean you're willing to fight alongside us?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Only because the obstacle in our path happens to be the same.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, wait--does that mean...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How wonderful that you've found a new sparring partner, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-ahaha...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please go easy on me...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「With that, there's nothing left to hesitate about.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「...I'm counting on you, Synn-chan. Melilot.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Yes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right.」"
+  },
+  {
+    "message": "I wasn't sure if I should simply be happy to have such reassuring backup..."
+  },
+  {
+    "message": "Still, with an unexpected ally added to our ranks."
+  },
+  {
+    "message": "United anew, we pressed forward toward Re-Crea."
+  }
+]

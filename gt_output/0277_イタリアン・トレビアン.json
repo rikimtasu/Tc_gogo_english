@@ -1,0 +1,414 @@
+[
+  {
+    "message": "イタリアン・トレビアン"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh... I'm starving...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, that's my line」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I let my guard down since it's the start of the month. I can't believe I forgot to make curry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Teehee. Failing as Student Council President just because you can't handle a little hunger, are we?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What does that have to do with being president?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Your endurance is being tested. Even I skipped lunch today, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... So you're enduring the hunger pangs too, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No, I'm not! Don't lump me in with you!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At times like this, why don't we all go out for an extravagant meal together?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Were you even listening to what I just said!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, I just felt so sorry for the Vice President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not having any friends to eat lunch with\\s06」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I DO have friends!! Skipping lunch wasn't about that--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then what on earth is going on?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Ugh... Well... Um...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...I-I'm on a diet」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Excuse me, server!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, listen to me!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, Lolotte. Lunch here is self-service with meal tickets」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「Did somebody call, nya?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh?」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「What would you like to order, nyan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nyan?」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「Hurry up and decide, nyan!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whaat!?」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「If you're just window shopping, we'll charge you a fine of a hundred trillion yen, nyan♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「It's only natural when we're this busy, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way. And I just got my allowance for this month, too...」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「Well, what's it gonna be, nyan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... uuugh... then... guh, daikon sprout ramen」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「Daikon sprout ramen? We don't have any food to feed broke losers, nyan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha!!」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「What about that woman over there, nyan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'll...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Something like tonkatsu ramen would suit you quite well!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I couldn't eat something so greasy and fattening...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What a picky eater you are. Very well, I shall have it. Make it a large!」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「Fried stuff is a pain to make, so pick something else off the menu, nya」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How utterly lazy! Have you no sense of hospitality whatsoever?」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「I recommend the daikon sprout ramen since it's super easy to make, nyan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What am I even supposed to pick...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey!! I've been keeping quiet and listening to you this whole time, and now!!」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「I'm under orders to kick out hysterical customers, nya」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Who are you calling hysterical--!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, Misa. I get how you feel, but just calm down」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What a terribly rude waitress.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed. Even if it isn't hand-breaded and fried, surely they could at least whip up some tonkatsu.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How they make it isn't the issue!! This girl is making fools of us!」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「If you don't have any business here, you should hurry up and leave, nya.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Grrr! You there, what is your name? Tell me!」"
+  },
+  {
+    "name": "Waitress",
+    "message": "「There is zero need for me to give you my name, nya.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun! Why are you leisurely ordering food right now?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's written on her name tag.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「You've got a pretty sharp head on your shoulders for someone so scrawny, nya.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「E-Even I noticed that much...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't sweat it, Vice President. For the record, I noticed it too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nngh...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Still, Pasta, is it? What a delicious-sounding name~~ *slurp*」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya-what?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How should I cook you up, I wonder? Should I boil you to an andante?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「W-What are you planning to do to Pasta, nya?! Please spare me any mentaiko-based sauces, that's gross, nya!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's not like I'm actually going to catch you and eat you.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though it seems there's someone else here ready to bite your head off.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Huff, huff*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Where do you think you're touching in the middle of all this chaos, you pervert!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I said it's a misunderstanding!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so, please hurry up and bring out three bowls of tonkatsu ramen」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't need any!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「If you get in Pasta's way any more than this, I'll sue you for interfering with business, nya」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The wonderful Prier is ruined because of you, too. I'm the one who's gonna sue you!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Do whatever you want, nyan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good grief……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sigh…… I wasted so much energy……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't that fine? You'll lose weight」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's pointless unless I'm burning calories!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think they're both the same thing, though……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, my stomach growls for bang bang chicken. It cannot be helped. Allow me to lend a hand here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No way, 'Eat me'……!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Actually, I had a bento with me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eat that from the start then!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eh? Of course, I intended to eat this 'as well'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a tiered bento box……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just how big of an eater are you……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "message": "T-This dream-come-true situation of being offered a tiered bento box!!"
+  },
+  {
+    "message": "It came true so effortlessly……."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is this what they call the Student Council President's privilege……!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for the food~♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please, go ahead and eat. It's Grandpa's homemade special lunch♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh... *gulp*」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. You too, Vice President, please don't hold back and eat plenty♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-thank you for the meal...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "message": "A meal eaten together with everyone tasted happier than the ramen I always eat."
+  }
+]

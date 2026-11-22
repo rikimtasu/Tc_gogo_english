@@ -1,0 +1,436 @@
+[
+  {
+    "message": "発展途上な痴話喧嘩"
+  },
+  {
+    "name": "Synn",
+    "message": "「We were told to come here, but there's nobody around」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Who might our coach be?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm. Nobody's here」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heeey」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wonder what sort of person is knowledgeable about this kind of thing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe someone into ancient martial arts or something like that」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Preconceptions are a scary thing, man」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ahem. Everybody pay attention to meee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what's up, Sally-chan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You mustn't skip out on your part-time job」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Grrr! I'm the coach!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaaaaaat!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Er-hem. Allow me to re-intro-duce myself! I'm Sally-chan, and today I'll be in charge of the stu-dent council's special training」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're the teacher... I'm worried」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What was thaaat」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is a major crisis! The Chairwoman has joined forces with a Demon!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is it really that big of a deal...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「By doing so, she's trying to make us lose, you know!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「T-That's not true\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You guys might've forgotten, but Flat-chest is stronger than any of the Crusaders here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「At least for now, anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Indeed... In a one-on-one fight, we might not be able to beat her」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ahem!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, but in these kinds of sentai shows, isn't it standard for the early monsters to get weaker once they join the good guys?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I used to watch those at your place all the time when we were kids, Nanaka.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You two were already living together when you were that young?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-N-No we weren't!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Somehow that makes me super mad! I'm the teacher here! I won't go easy on you anymore!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Besides, the Chairwoman told me to drill you guys hard. So you'd better be ready!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So, Sally-san. What sort of special training will you be putting us through?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Special training, huh...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hehehe, I'm glad you asked. Why, I, Sally―chan, will―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on a second!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aww~ I was just getting to the good part.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Sally-chan, do you actually know how strong everyone is?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Don't underestimate me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We have fought before, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, but a lot has happened since then, and I think we've gotten stronger too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right, right? So I think it'd be better if you saw what we're capable of right now.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That makes sense.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What's gotten into you, Treasurer!? You're going to give yourself a fever from thinking so hard.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How about we have a mock battle in front of Sally-chan? If we split into 2：2：1 with rock-paper-scissors, that'll be perfect.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You still haven't fixed that habit of yours during rock-paper-scissors, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You always throw the exact same thing first.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it was?! Come to think of it, I feel like I always lose to Nanaka at rock-paper-scissors」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's not like I threw the same thing because I wanted to team up with you, okay? It was just a coincidence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to go out of your way to say that……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pathetic」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut u――」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa, hold on. Right now it's strategy time for fighting Hisu and Ria-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you have some kind of plan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Plan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Personally, I think at the very least we should split roles into offense and defense」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, both Nanaka and I are offense types, right? In that case, maybe we just brute-force it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Get a grip, Nanaka」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa is definitely going to try to stall us, so how do we close the distance…… Should I act as a decoy?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We finally get to be alone together, so……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, ah, yeah, sorry. What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know you're thinking really hard, but there are two of us, so let's think it through together」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, you're right. Ahahaha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you come up with anything?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Um……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ooooh! Ria-chan's transformation scene is starting!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hold on! We're still in the middle of a strategy meeting!」"
+  },
+  {
+    "message": "I almost end up looking where he ran off to, but――"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, no, no, snap out of it!」"
+  },
+  {
+    "message": "I hurriedly looked away and faced Nanaka."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grr, I can't lose to Ria―senpai... Even I―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「M-Maybe I should transform too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "message": "I-Is this Ria-senpai at the front gate and Nanaka at the back!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to go out of your way to transform right in front of me...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I already know that! B-But, still...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're childhood friends, aren't we!! Being naked is no big deal!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Maybe so, but... it's still embarrassing...\\s03」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's so embarrassing even I want to run away. Still, if I don't do at least this much...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If I don't go this far, Synn won't...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here I go, Synn!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't go!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uuh...」"
+  },
+  {
+    "message": "I ended up staring right at her."
+  },
+  {
+    "message": "Compared to when we were kids, her feminine curves were incomparably more defined."
+  },
+  {
+    "message": "No matter how long we've been childhood friends, this isn't something you just get used to."
+  },
+  {
+    "message": "On the contrary, I end up remembering how she looks like this even during normal times, so my heart is always racing."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-How was it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「--Wait, I'm such an idiot!! Why am I asking something so weird!」"
+  },
+  {
+    "message": "Still, Nanaka is holding back her embarrassment and doing her best too."
+  },
+  {
+    "message": "I―I have to―"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to transform too. Nanaka... watch closely, okay!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey!! Synn!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we get embarrassed over transforming, the enemy will wipe us out!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No, stop!! That's not--that's not what I meant at all~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Those two... just what are they doing?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「A married comedy duo?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Both of your faces are bright red」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha...\\s02」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「All that hard work on the soba went right down the drain」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Trans-form!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gaaah, stop it!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You mustn't be afraid to get naked. Sometimes taking off your armor actually makes you stronger!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see! Now that I think about it, even in a game I own, there was a character whose Armor Class number was lower when naked!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Exactly! For noticing such a good point, I'll present you with this trophy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I am NOT a 'kunoichi'!!」"
+  }
+]

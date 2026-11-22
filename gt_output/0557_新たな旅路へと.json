@@ -1,0 +1,855 @@
+[
+  {
+    "message": "新たな旅路へと"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good day to you, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Misasagi-senpai. Hello」"
+  },
+  {
+    "message": "Fancy seeing her in a place like this."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Are you heading out somewhere?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, I was planning to, but... could it be that you have some business with me?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, how perceptive of you. That certainly saves me the trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, well, it just seemed like you were a bit less energetic than usual」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Me?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「...Is that so. If even someone as easygoing as you can tell, then there's no point in beating around the bush」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um, I'm sorry」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now don't make a face like that. I'm complimenting you, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, no, I haven't done anything worth complimenting...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. You really are such a delightful person, President」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Just chatting with you like this puts my heart at ease」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-thank you」"
+  },
+  {
+    "message": "Somehow, it felt like Misasagi-senpai's expression softened just a little."
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what kind of matter did you want to discuss?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yes. Truth be told, I have a favor to ask of you, President, since I know I can count on you」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I would like you to shelter me at your house for a little while」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Go right ahead」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Much obliged」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, um... could you tell me the details?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Of course, I'll tell you everything」"
+  },
+  {
+    "message": "Misasagi-senpai lightly moistens her lips with tea before turning to face me."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Right now, I am... in the middle of running away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Run away? Are you being chased by someone!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well... if you put it that way, I suppose I might be」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's terrible! We have to notify the police right away!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There's no need for that. I didn't mean it in that sense, you see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「From here on, this becomes a personal story about myself, though... would you mind indulging me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course. Anything I can do to help」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「As always... you truly are a kind person, President」"
+  },
+  {
+    "message": "Misasagi-senpai's cheeks soften gently."
+  },
+  {
+    "message": "So she can smile like this too, huh."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now then, to get to the main point... you were already aware that my future path has been decided for me, yes?」"
+  },
+  {
+    "message": "I'd heard rumors about it before. That the young lady of the Misasagi zaibatsu already has a fiance."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Um... you have a betrothed, right」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You may call it a political marriage if you like, I don't mind」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「After all, ever since I was little, I've been made to walk down the tracks my parents laid out for me, whether I liked it or not」"
+  },
+  {
+    "message": "It was a story I'd heard a little bit about before."
+  },
+  {
+    "message": "Though the customs of wealthy families are so distant from my own life that it doesn't feel very real to me."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, living one's entire life at the beck and call of one's parents sounds rather empty, wouldn't you agree?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, certainly... though I can't really imagine it well」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee, how honest of you」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「And so, being human myself, I made a selfish request to my parents and had them grant me just one promise」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Namely, that as long as I remain a student, they would allow me to do as I please」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that... how it was...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Mind you, that promise is only valid within the bounds of Ryuusei Town, where my parents can still keep an eye on me...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「And more than anything, that student life of mine is coming to an end very soon」"
+  },
+  {
+    "message": "I see..."
+  },
+  {
+    "message": "Right after Senpai graduates from the academy, she's going to be married off to her fiance."
+  },
+  {
+    "message": "Once that happens, she won't be able to choose her own path anymore, nor will she have the freedom she's had up until now."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「When I think about how my chances to travel freely and my dreams of seeing more of the wider world are going to be snatched out of my reach, it hurts so much I can't bear it」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, even up till now, it's questionable whether the path I walked was truly one I chose for myself, though」"
+  },
+  {
+    "message": "Does that mean in the end, I have to go back onto the rails someone else laid out for me……."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Senpai, I……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, President, you're looking terribly gloomy. Aren't you taking this a bit too much to heart?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah, I'm sorry. As the one you're confiding in, I shouldn't be acting like this……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Not at all. There's nothing wrong with that in the slightest」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Just having you listen to me so sympathetically like this lifts my spirits」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It made ditching tea with my fiance well worth it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, is that really okay……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Having reality thrust right in front of my eyes started making me feel rather sick, you see」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「On top of that, I felt restless and anxious…… I just couldn't stand it anymore without opening up to someone about how I feel」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, I couldn't possibly unload such rambling complaints onto Ria……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Why is that?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, of course... at first, I was counting on Ria.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「However, Ria's position isn't all that different from my own.」"
+  },
+  {
+    "message": "Even if her marriage hasn't been decided yet, being a young lady from a good family probably puts her in much the same boat."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria has her own future to think about, after all.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I simply cannot be any more selfish and trouble my dearest friend.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's why you haven't gone to Ria-senpai for help.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yes. I do not wish to cause her any unnecessary worry.」"
+  },
+  {
+    "message": "She cares so much for her friend that she's willing to accept her own fate like that."
+  },
+  {
+    "message": "You're one to talk, Senpai--you're way too kind yourself."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Besides, if I were at Ria's estate, my hiding place would be discovered right away.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If the path ahead of me is already decided anyway, I thought I might as well take a detour for as long as I can.」"
+  },
+  {
+    "message": "Ria-senpai does seem like the type who's terrible at keeping secrets, after all."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「And so, well, that is how I came to look for someone else I might rely on」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even I, you know, am still at an age where I want to act selfishly, wouldn't you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "message": "I had always thought she was way more mature than someone like me, yet seeing her like this makes me feel like Senpai is just a normal girl for her age too."
+  },
+  {
+    "message": "Someone I thought lived in a completely different world from me suddenly feels so close."
+  },
+  {
+    "message": "Thinking that isn't rude of me, right..."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「...Mr. President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes, what is it!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Fufu. I was just wondering what might be the matter, seeing you suddenly staring so intently at my chest」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeeh!? I-I-I wasn't staring at it or anything!」"
+  },
+  {
+    "message": "Though I definitely did think she was mature in that way."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Then are you saying you were just stealing little glances at it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's only because I was worried about you, Misasagi-senpai, it's not like I was specifically interested in just your chest--aah...」"
+  },
+  {
+    "message": "A slip of the tongue. Digging my own grave."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. It truly is so entertaining being with you, Mr. President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, uh, thank you very much, I'm honored...」"
+  },
+  {
+    "message": "Still, I started wondering if there wasn't something I could do for Senpai..."
+  },
+  {
+    "message": "And because I wanted to do something for her..."
+  },
+  {
+    "message": "So really, that couldn't be helped."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Senpai」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yes. Whatever is the matter, sounding so formal?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, you still don't want to go back home for a while, right?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Indeed. Given that I brought this up by asking you to shelter me, there is no mistake about that」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Truth be told, I would love nothing more than to travel much farther away, to all sorts of different places, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, since we're already taking a detour, would you like to go somewhere else?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Somewhere else?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Because I have other friends we can consult with!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I see. I understand the situation」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In other words, we just need to derail Misasagi-san from her tracks, right!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not exactly thrilled about helping out Bubuzuke, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone... thank you」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I wondered where you were taking me... so you're saying we're borrowing the Student Council's wisdom, then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Was that a bad idea after all?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Not at all, nothing of the sort. It's very much like you, President」"
+  },
+  {
+    "message": "Hearing Senpai say that is reassuring."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayanishiki-chan, um...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, looks like I ended up dragging Ria into this too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, I can give good advice too, you know...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Forgive me, Ria. It's not that I wasn't counting on you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, don't worry about it. I understand how you feel, Ayanishiki-chan」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria... thank you kindly」"
+  },
+  {
+    "message": "These two really are close."
+  },
+  {
+    "message": "Even if they end up far apart, this bond between them will surely never fade."
+  },
+  {
+    "name": "Misa",
+    "message": "「So, Sakura-kun. Do you actually have any concrete ideas in mind?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh... for starters, I was thinking it'd be nice if we could go on a trip somewhere far away」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is that? That's no different from not thinking at all!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Straying from the path--so-called heresy! What sort of evil deeds should we get our hands dirty with?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, you're the one who's derailing here, Roro-chan」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If we're going on a trip far away, I definitely think a boat or a train would be best」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Then if we get tickets and pack our bags, it's a flawless plan!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What part of that is flawless?! That's not even a plan in the first place!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I wouldn't mind that at all. An aimless journey has its own charm, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph! I couldn't care less what happens, as long as Bubuzuke gets out of my hair」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You say that, even though you're actually going to miss me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As if I ever would!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Is that so? Well, I'll certainly be lonely」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh... h-hey, cut it out, you're throwing me off my rhythm! Just hurry up and scram already!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, you're not very convincing when you're so flustered」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up! If it hadn't been Synn asking, I never would've even listened to you!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, pushing yourself like that...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, how exactly does one go about becoming a delinquent?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't even know how to buy tickets or anything...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「If that is the case, please take these」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sebastian!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「They are unlimited cruising passes, valid anywhere in the world」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「A ship departs from the harbor at Seaside Park, so please make use of them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much, Riesling-san」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then let us commence our delinquency at once!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If anything, this is more like eloping, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Right now?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I mean, they do say strike while the iron is hot, but...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shouldn't you at least decide on a destination first? What about your luggage...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It's no matter. You can travel just fine empty-handed, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If Misasagi-senpai says so, I guess it's fine」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, with that settled, shall we be off?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Me?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Of course. A journey always needs a companion, after all.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「More importantly, just who was it that invited me out like this, I wonder?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh... Well, I did say I'd keep you company if there was anything I could do, but...」"
+  },
+  {
+    "message": "Still, sending Senpai off all by herself now would be irresponsible."
+  },
+  {
+    "name": "Misa",
+    "message": "「If that's what you're worried about, you're fine. There's no problem at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「While Sakura-kun is away, I'll serve as acting Student Council President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Wait, is that really okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm more capable than you anyway, so it's fine.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan and I will keep an eye on the Wagashi Club.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, don't just decide that on your own!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, I'll team up with Jeeves to run a cover-up and erase all traces of you and the President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll pass on that service, thanks.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now then, Mr. President. Are you all prepared?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I'll do, then I'll gladly accompany you!」"
+  },
+  {
+    "message": "Now that we've come this far, I can't just leave her on her own."
+  },
+  {
+    "message": "Let's set off on a journey in search of Misae-senpai's freedom!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then it's settled! Now everyone, let's see the President and his companion off!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「With this, the President's seat will finally be mine♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gasp!? Bubuzuke is one thing, but Synn can't disappear too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I firmly obj--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Kyuu」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Lady Nanaka, please stay asleep for a little while.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayane, we might not be able to see each other for a while, so take care, okay?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You stay strong too, Lia.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Is nobody going to say a word of farewell to me?"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Shall we get going, Prez?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Helena, is it not safe for you to come out now?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Phew. Those kids finally left.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Are you sure this was for the best?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, it looks like you handed over the passes without a hitch. Thank you.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「That is not what I meant--I am asking whether it was wise to let them go...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A little adventure like that is something I'll gladly authorize using my powers as chairwoman.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Besides, I intend to meet her parents in person and explain the situation to them.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You seem rather partial to them.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, when my students are out there searching for their own future, I can't just leave them hanging, can I? ♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Is that how it works?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Besides, what they're doing is still pretty tame.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A youthful indiscretion, you could say? Back in the day, we used to tear things up ourselves!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Well, I have no recollection of that.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, come on, don't be such a tease, Tamiko.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh well. Anyway, here's hoping those kids have a wonderful journey.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misasagi-senpai. It looks like it's almost time to depart.」"
+  },
+  {
+    "message": "I step up beside Senpai, who had been gazing out at the sea from the deck."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you nervous after all?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Does it look that way to you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm not feeling uneasy at all, you know」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「After all, I have a reliable President right here beside me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Come on... You're making me blush」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What about you, President? You're sure you don't have any regrets?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way! As long as I'm with you, Misasagi-senpai, I'll be just fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone saw us off with their blessings, and besides, I figure if it's you, Senpai, it'll be okay even if I ask for one more selfish wish」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「President...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. Trying too hard to sound cool really doesn't suit you, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, no, I wasn't trying to...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, truly, I'm really glad I talked to you, President」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'll be in your care from here on out」"
+  },
+  {
+    "message": "The ship carrying Misasagi-senpai and me slowly begins to move."
+  },
+  {
+    "message": "From here on out, our journey--with no telling how far it will go--begins."
+  }
+]

@@ -1,0 +1,599 @@
+[
+  {
+    "message": "大漁、一本釣り日誌"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa~~! No matter how you look at it, it's the ocean~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, hey, Lolotte! Running is dangerous--whoa」"
+  },
+  {
+    "message": "Why am I the one tripping over?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President. Are you all right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine, probably」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So this is the ocean~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, is this your first time?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No! However, you might say that just being at the ocean makes me feel like a beginner all over again」"
+  },
+  {
+    "message": "Wanting to take in the sea breeze with her whole body, Lolotte spread both arms wide."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmm~~. The wind feels so wonderful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it really does. There's a delicious smell of fish in the air」"
+  },
+  {
+    "message": "Now then, the main event starts from here."
+  },
+  {
+    "message": "Just a little while ago."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President. Forgive me for asking something out of the blue, but what exactly is 'hot pot'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You put food inside a pot, simmer it until it's bubbling, and then everyone picks at it and eats together--wait, you don't know?」"
+  },
+  {
+    "message": "Spoken like a true Western-style young lady."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It sounds like quite a mysterious dish. Incidentally, what sort of food does one put inside?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Usually bounty from the sea and bounty from the mountains, I guess」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The sea, and the mountains?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like fish and vegetables」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, I see. So that is why people say 'a thousand in the sea, a thousand in the mountains'!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's totally different」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have seen vegetables simmered in soups and such. However, fish...!」"
+  },
+  {
+    "message": "Her eyes are sparkling so brightly they're practically dazzling."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A place where fish can be caught... Um...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said earlier, the ocean, probably」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's go to the sea!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look, Lolotte. Surely you don't mean--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, let's catch some fish!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, hold on!」"
+  },
+  {
+    "message": "I hurriedly wrap my arms around her from behind to stop her in her tracks. She looks ready to dive straight into the ocean barehanded."
+  },
+  {
+    "name": "Synn",
+    "message": "「You need at least a fishing rod to catch anything.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A fishing rod?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aha, a tool for catching fish, is it? Something like a long stick... Oh! How about that one over there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, you can't just snap a branch off a park tree.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And here I thought we'd get a bite every cast...」"
+  },
+  {
+    "message": "How does she even know a term like that when she doesn't even know what the ocean is?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm...?」"
+  },
+  {
+    "message": "A luxurious small boat pulls up to the shore."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hup!」"
+  },
+  {
+    "message": "A woman in a tuxedo vaults nimbly over the guardrail, executes about three forward rolls, and sticks the landing."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady. I was informed that you canceled your afternoon schedule today, yet...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've come to procure food for the mixer!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「And so to the sea you came. Milady, when it comes to offshore, deep-sea, or pier fishing, please leave everything to I, Riesling Tooyama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa... How did she know we came here to fish?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nothing ever gets past you, Jiiya.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You flatter me.」"
+  },
+  {
+    "message": "Smiling without a flicker of emotion, she hands a fishing rod to Lolotte."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Since you're here, please make use of this red rod.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So I catch fish with this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, right.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All right. Let's do this!」"
+  },
+  {
+    "message": "Holding the fishing rod in hand, she triumphantly rolls up her sleeves."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fishing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hyaaa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow!!」"
+  },
+  {
+    "message": "Smacked right in the face by the fishing rod, I crouch down on the spot."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aaah! Mr. President, I'm so sorry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A fishing rod isn't something you swing around like that」"
+  },
+  {
+    "message": "I borrow the fishing rod from a frowning Lolotte."
+  },
+  {
+    "name": "Synn",
+    "message": "「Amazing. It actually has a proper lure and reel attached」"
+  },
+  {
+    "message": "It bends nicely even with just a light flick. It's probably a top-notch fishing rod."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. Here goes the first cast」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Lord President. Let us drop the rig as close to the quay wall as possible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah, yes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see! So that's how you do it」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Let us shake the rig in small, vigorous movements. Up and down--」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Like this! Like this!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Just like so」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Understood」"
+  },
+  {
+    "message": "I try mimicking Riesling-san's movements by watching and copying her."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "message": "A bite already. Weight starts pulling on the rod."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-what's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I might have caught one already」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehh, really!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Mr. President, point your rod offshore and reel it in all at once.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Reel it in steadily. Never let the line go slack.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's barely moving though... Am I snagged on something?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No. There is a faint tug. Don't give up and keep pulling with all your strength.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, you can do it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ngh, mmgh... Yah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fight!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All right! I caught something!」"
+  },
+  {
+    "message": "Reeled in onto the shore was an eight-legged mollusk."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-!? Wh-wh-what is this?! It's squirming!」"
+  },
+  {
+    "message": "She was intensely curious about the catch, yet retreated far into the distance. It was certainly scary if it was your first time seeing one."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this... an octopus?」"
+  },
+  {
+    "message": "First, a raw octopus obtained."
+  },
+  {
+    "message": "Y-You can actually catch octopuses here?!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「An octopus... octopus... Um, let's see--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oho! You mean the sausage in bento boxes?」"
+  },
+  {
+    "message": "She wasn't entirely wrong."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's see here, let me take a look at this so-called octopus Master Synn caught.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're pitch black, Mr. Panda.」"
+  },
+  {
+    "message": "He was practically a black bear now."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So this is fish catching! I get it now! I'm all set! Leave the rest to me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, good luck~!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How exciting. I wonder what I'll catch!」"
+  },
+  {
+    "message": "Faithfully following what I had done, she cast her first line."
+  },
+  {
+    "message": "Huh. Come to think of it, I didn't see Riesling anywhere."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, it feels kind of heavy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「S-S-S-S-S-Something's on the line!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Already?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kyaaaah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Lolotte!」"
+  },
+  {
+    "message": "I frantically cling to Lolotte's body as she's being dragged away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaah, sorry!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-At this rate, we're heading straight into the sea...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "message": "You're so soft, Lolotte--no, no, stop that! This is definitely not the time!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let go of it, Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-That is the one thing I absolutely refuse to do!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To make the social gathering a success, I absolutely... cannot let go!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ngh, fine! If you're that determined, then I'll--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaaaah!」"
+  },
+  {
+    "message": "I drop my hips and brace myself over Lolotte, digging my heels in, but it's no use at all!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ngggggh, I won't lose!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, reel it in, quick!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-It's no good~~! It won't budge at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaaah, the sea is right there?!」"
+  },
+  {
+    "message": "The day we return to seafoam has finally come. Just then, however--"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave Milady's safety to me, Riesling Toyama.」"
+  },
+  {
+    "message": "Out of nowhere, Riesling-san appeared, drenched from head to toe."
+  },
+  {
+    "message": "She swiftly drew a rifle from within her coat--"
+  },
+  {
+    "message": "And fired several shots toward the sea."
+  },
+  {
+    "message": "Then came a thick rope she happened to have on hand, with a large harpoon attached to the end."
+  },
+  {
+    "name": "Riesling",
+    "message": "「...!」"
+  },
+  {
+    "message": "Riesling-san powerfully hurled that harpoon toward the buoy."
+  },
+  {
+    "message": "Perhaps feeling a tug, he slowly began pulling the rope. As he did, the strain on our end steadily eased up."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then, Milady」"
+  },
+  {
+    "message": "Matching our breathing, we hauled it up together."
+  },
+  {
+    "name": "Synn",
+    "message": "「Th... This is...?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It appears to be a bluefin tuna」"
+  },
+  {
+    "message": "The harpoon had pierced straight through the giant body's belly. What destructive power."
+  },
+  {
+    "name": "Synn",
+    "message": "「This is a tuna!? H-How huge is this thing」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The damn thing's frozen solid...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Th... This is a fish...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We did it... We did it, President! We actually caught a fish!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank goodness. Thank goodness for real!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Congratulations, Milady」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is amazing! Now the social gathering will go off without a hitch!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a tuna, a tuna! It's my first time seeing one! That settles it--seafood hot pot it is!」"
+  },
+  {
+    "message": "Without caring about the eyes around us, we hugged each other and shared in the joy."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, butler over there. Isn't this a bit...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please call me Riesling Tohyama」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I don't think spoiling them too much is a good idea」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Catching it was purely the result of their own hard work. One can give up at any time」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, fair enough」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What a massive caaatch!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Toro, it's toro! The fatty otoro I've always dreamed oooof!」"
+  }
+]

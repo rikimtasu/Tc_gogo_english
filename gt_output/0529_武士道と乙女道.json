@@ -1,0 +1,344 @@
+[
+  {
+    "message": "武士道と乙女道"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Rie--」"
+  },
+  {
+    "message": "It's rare to see Riesling-san on campus. I start to call out to him, only to hastily shut my mouth."
+  },
+  {
+    "message": "Come to think of it, the library is open to the general public on weekends. He must have come to borrow books on his personal time."
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "message": "Riesling-san walks gracefully, turning the pages of a thick book as he goes."
+  },
+  {
+    "message": "What an unexpected side of him. He can't even wait to move to a proper spot to read at his leisure. I know that feeling all too well."
+  },
+  {
+    "message": "...What a great expression. I wish I could read books with a face like that too."
+  },
+  {
+    "name": "Shio",
+    "message": "「I have found you! I have awaited this encounter as though a single day were a thousand autumns!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Butler, please cross blades with me!!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sh-Shio-chan... You don't have to say things like Misa so out of the blue.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, were you accompanying him as well, Lord Synn?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Even a brushing of sleeves is a lifelong blunder! I beseech you to serve as referee!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a pushy brat. That naginata girl is the spitting image of Hiss.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did she pick up those proverbs from Lolotte?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Riesling-san, closing your book... Don't tell me you actually intend to fight?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Engaging in pointless combat with my young lady's schoolmates is not within the duties of this humble butler, Riesling Toyama.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「P-Pointless, you say?! How outrageous! I merely wish to borrow Lord Butler's strength so that I may reach the realm of true mastery!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Master Synn, Lady Shio, if you will excuse me.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Gah, halt right there!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Do you intend to flee?! You crucian-carp samurai, you potato samurai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Riesling-san isn't a samurai in the first place.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, Shio-chan, what are you doing?! Isn't that a real blade?!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「There is no need for alarm?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The Asukai naginata is a blade forged to subjugate demons. Even if it slashes a human, it is merely a bit dull and stings a little.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Aren't you saying something terribly dangerous?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hah!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Fwoah!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nngh...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You are only the second person to block my surprise attack, Lady Shio」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I acknowledge your natural gift. Now then--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa...」"
+  },
+  {
+    "message": "Holding a library book in one hand, Riesling executes a graceful leap."
+  },
+  {
+    "message": "Then, leaving behind an afterimage, he vanishes in the blink of an eye, completely disappearing from sight."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wait, is the butler actually a 'kunoichi' or something?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, it was likely to evade my pursuit」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I deliberately interrupted his reading to challenge him to a match, yet... it seems he is not a gentleman who falls for such vulgar provocations...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I must train harder so I can stand toe-to-toe with Old Jiiya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. Don't you think it's better to take it easy and pace yourself?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to be in such a rush, you'll be fine. Riesling even acknowledged your talent, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, absolutely not! There are countless souls blessed with natural talent. Without honing oneself through rigorous training, one ends up as nothing more than a pebble by the roadside」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However... what you say also holds great truth, Lord Synn...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh... to drop my beloved blade, Kogitsunemaru--how utterly pathetic...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shio-chan, are you hurt!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ashamed as I am to admit it, I am unharmed」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is merely that, well... both my hands are numb, and my knees are trembling... In this state, I can hardly claim to have blocked Old Jiiya's thrust」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll carry your naginata. I just put it in the bag, right?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「You have my gratitude」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Um... while I am imposing on your kindness, might you also lend me your shoulder? I wish to head to the martial arts hall」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, sure thing」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh? Where are you going, Lord Synn? That is not the direction of the martial arts hall」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Didn't you just say my words had a point? Let's take a break in the courtyard. This time of year, sitting on a bench and looking up at the sky feels amazing」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Synn...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Understood. As soon as I have recovered, I shall immediately challenge you to a rematch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, I didn't say anything like that」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm. What sort of training must I undergo to earn Sir Jeeves's interest...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's not even listening」"
+  },
+  {
+    "message": "Setting aside the current gap in skill between the two of them, Riesling exchanges witty banter with Lolotte and offers polite greetings to the rest of us."
+  },
+  {
+    "message": "However, her behavior toward Shio is the sole exception, falling into neither category."
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh! How careless of me. Sir Synn, I implore you to keep my earlier blunder a secret from Lady Sister!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I promise」"
+  },
+  {
+    "message": "Shio probably hasn't noticed Riesling's attitude toward her."
+  },
+  {
+    "message": "I wasn't entirely sure why myself, but I didn't point it out."
+  },
+  {
+    "name": "Helena",
+    "message": "「Perhaps Shio wants a rival」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena?! Um... because she's Misa's cousin?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That might be part of it... but I think she feels she can't stay as she is if she wants to grow stronger」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, you might be able to offer her emotional support」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me, support Shio...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That girl is bound by her duty as well... It's a shame, especially when she's right at that tender age」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that... include us too?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Who knows~? There might be others as well\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're pretty much allowed to do as we please」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's true. Even so, I believe Shio has dreams of her own」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "For what it's worth, I'm also burdened with the duty of being the Demon Lord."
+  },
+  {
+    "message": "Even so, I have a dream of living a sparkling school life."
+  },
+  {
+    "message": "So far, I think I've managed to balance both. Though it'll all be over if I'm found out."
+  },
+  {
+    "name": "Helena",
+    "message": "「Please teach her how to live without being bound solely by her duty. You can do that, can't you?」"
+  },
+  {
+    "message": "I wonder if Helena has seen right through what my duty actually is."
+  },
+  {
+    "message": "However, if possible, I also want to cooperate with Shio-chan as comrades in the Student Council... the Crusaders."
+  },
+  {
+    "message": "And together, we'll spend a sparkling school life."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Understood. I'll try my best, as much as I can!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Very well! As a reward, I'll give you this trophy.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Also, make sure to teach them not to go wild in the library, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes...」"
+  }
+]

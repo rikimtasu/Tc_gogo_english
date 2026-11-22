@@ -1,0 +1,193 @@
+[
+  {
+    "message": "ドン亀理事長奮戦記"
+  },
+  {
+    "message": "Several days have passed since Kirafes came to a close amid high praise."
+  },
+  {
+    "message": "I make my way down to the pier where the people of Ryuusei Town go to relax."
+  },
+  {
+    "message": "Thanks to the cooperation of everyone in town, starting with the shopping district, Kirafes was a huge success."
+  },
+  {
+    "message": "Even though the people spending time in Tsukinoo Park look just the same as always, it fills me with deep emotion."
+  },
+  {
+    "message": "By the time the Holy Night Festival ends, I wonder if the way I see things will have changed again?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I feel a bit awkward blatantly people-watching. Idly, I shift my gaze out toward the sea."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... was there always a buoy over in that spot?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hii, Synn-chan\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Helena-san. Are you fishing?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Today... all the fish around here have run off, you know?」"
+  },
+  {
+    "message": "Why would she state that with such certainty?"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, noticing that buoy is pretty sharp of you. Make sure you treasure that keen eye for spotting small changes in everyday life, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're giving me too much credit. More importantly, what on earth is that--」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「From Riesling Tohyama to Helena. Preparations are complete. Over.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「All right, let's do this, Tamiko-chan! Emergency surfacing!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-wha?」"
+  },
+  {
+    "message": "The buoy vanished between the waves. No, did it submerge?"
+  },
+  {
+    "name": "Helena",
+    "message": "「３……４……５……」"
+  },
+  {
+    "message": "Suddenly, a wide stretch of the ocean's surface begins foaming white. Then, the white turns pink, and the very instant it swells ever so slightly--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaah!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「...Too slow.」"
+  },
+  {
+    "message": "A giant Tontoro emerges from beneath the sea and moors alongside the jetty. Compared to the piggy bank Lolotte carries around, its size is on a completely different scale."
+  },
+  {
+    "message": "Seawater is being discharged from its nostrils, suggesting that the main ballast tanks are located somewhere around there."
+  },
+  {
+    "message": "Likewise, the tail on its rear is spinning like a propeller, so it seems to be based on naval engineering, at least in theory."
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a complete waste of technology.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Helena, excuse me from the conning tower.」"
+  },
+  {
+    "message": "The giant Tontoro's yellow ribbon opens, and Riesling-san appears from inside. The ribbon seems to function as a hatch."
+  },
+  {
+    "name": "Riesling",
+    "message": "「No malfunctions found in the rigging, starting with the superconducting electromagnetic propulsion system and Tontoro hydrophones.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The eyeball torpedo tubes, rapid-reload system, foaming agents, and other armaments are all operating nominally as well.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I have registered the codes for Helena, myself, and Melilot into the King's Valve.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A T-Tontoro-shaped submarine?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Calling it a mere submarine is akin to calling a dog 'dog.'」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The official designation of this vessel is the Ojousubmarine. Please make no mistake.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, Tamiko-chan, you're getting way ahead of yourself. We're still in the middle of performance tests, aren't we? We're nowhere near the christening ceremony yet!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...Helena, could it be that...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Emergency surfacing in eleven seconds flat! Too slow!! If this were real combat, the crew would be dead.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Cut it down to five seconds.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's a tall order.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Understood.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave the familiarization and operation of Milady's secret weapon to me, her butler, Riesling Tooyama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte's?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's submerging...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, oh, Tamiko-chan♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That ship doesn't just belong to Lolotte-chan--it belongs to you, Ria, and everyone in the Crusaders.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Though a situation where you and the others have to board it isn't exactly desirable. If Re-Crea is smoothly averted, we won't even need the Ojousubmarine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that happens, I bet Lolotte will remodel it into a sightseeing sub and take it out for deep-sea exploration.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Not a bad idea. When that happens, let's go on a deep-sea date together\\s04」"
+  },
+  {
+    "message": "I stayed at the pier for a while, watching the Ojousubmarine's test run. In the end, Riesling-san managed to get the emergency surfacing down to three seconds."
+  },
+  {
+    "message": "Out of sheer curiosity, I kind of want to see the inside of the ship."
+  },
+  {
+    "message": "Still, I need to keep the threat of Re-Crea to a minimum so this vessel never has to be handed over to the Crusaders!"
+  }
+]

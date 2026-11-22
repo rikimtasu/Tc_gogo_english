@@ -1,0 +1,346 @@
+[
+  {
+    "message": "後悔するより走るんだ"
+  },
+  {
+    "name": "Ria",
+    "message": "「I heard from my sister that tomorrow is Synn-kun's birthday.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?! It is?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why are even you surprised, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I completely forgot.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. So it is the day you hatched from an egg.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What kind of reptile do you think he is?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan, don't tell me you didn't know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No, of course I knew! It's just not that big of a deal, right? So I just didn't say anything.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What a cold childhood friend you are.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh... My plans are... No, wait, it's in the middle of exams anyway...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka. You're muttering complaints over there, so is your exam studying not going well?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...W-Well, yeah. Not at all. Ahaha.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't think this is a laughing matter.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This choice is blatantly wrong, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In other words, this looks like four choices, but it's actually three.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a huge help for us, though, since there's one less option.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "What I'm teaching Azel are so-called test-taking techniques."
+  },
+  {
+    "message": "Honestly, you could hardly call it proper exam prep. Still, at this point, there's no helping it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Also, this one and this one are pretty similar choices, right? In that case, there's a high chance the right answer is one of the two.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mixing in confusing choices that are close to the right answer makes it easier to trick people, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So if there are two similar choices mixed into a four- or three-option question, there is a high probability that one of them is the correct answer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You shouldn't be hiding a photobook under your notebook and looking at it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Gah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Next, let's check your kanji」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You put your all into everything, don't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do I?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Putting your all into things while neglecting your own studies. You're an idiot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I might actually be better at studying than you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up. I never needed human studies in the first place」"
+  },
+  {
+    "message": "Could it be that Azel isn't human either?"
+  },
+  {
+    "message": "Even if that's the case, there are both angels and demons on the Student Council, demons working at soba shops and beef bowl restaurants, and even demons hitting on girls around town."
+  },
+  {
+    "message": "Besides, I'm a Demon Lord myself and even have a familiar, so it's a bit late to be surprised now."
+  },
+  {
+    "name": "Synn",
+    "message": "「If I look like I'm putting my all into things, it might just be because there's nothing I can do half-heartedly」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How clumsy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if you cut corners, you end up regretting it, right? I don't want to have any regrets. That's why I do everything I can」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even for the sake of others?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nope. I'm definitely an egoist. When other people look like they're having fun, I have fun too, so in the end, it's all for my own sake」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Idiot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Saying it with such certainty, huh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Here you go」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you」"
+  },
+  {
+    "message": "When Melilot-san served the black tea, a natural word of thanks slipped from Azel's lips."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel's rough edges have really smoothed out, too."
+  },
+  {
+    "name": "Melilot",
+    "message": "「How is your studying for the test coming along?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. So-so.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In most cases, that means 'progress is rather sluggish,' doesn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk.」"
+  },
+  {
+    "message": "I've been studying late into the night after getting home, though... I wonder if I can catch up."
+  },
+  {
+    "name": "Azel",
+    "message": "「Things are going smoothly on my end. I've memorized the kanji I picked out.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is wonderful to hear.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I've reached the point where I can read through the exam questions.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...That is wonderful to hear.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The Leica is mine.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am only lending it to you.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I just made a few mistakes.」"
+  },
+  {
+    "message": "Saying that, Azel took a sip of the black tea."
+  },
+  {
+    "name": "Azel",
+    "message": "「This is good.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I tried out a new blend.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see.」"
+  },
+  {
+    "message": "It has a mysterious taste."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure is different from brewing with a used-up tea bag...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Doesn't it feel as though your fatigue has melted away?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like my sleepiness is fading too」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I changed the blend for the two of you, since you are tired from studying for your tests. It seems to be working.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, what is!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The secret ingredient, of course.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My head feels clear.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-This doesn't have something sketchy in it or anything, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As I said, it's a secret ingredient」"
+  },
+  {
+    "message": "I'd better not ask for the details."
+  },
+  {
+    "name": "Ardin",
+    "message": "「Where are they?! Where the hell are they hiding?!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What are you doing in a place like this?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Hey, you. Where's Ryuusei Academy?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Yes, I know it. That's the place where Pasta is being bullied by the Student Council, right?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Yeah, that's it! Wait, how the hell do you know about Pasta-chan?!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「More importantly, shouldn't you be worried about her safety?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Oh, right. There's not a single moment to lose! Uoooooh!!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hmph... Demons truly are filthy.」"
+  }
+]

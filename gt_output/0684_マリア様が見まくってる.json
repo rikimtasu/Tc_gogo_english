@@ -1,0 +1,720 @@
+[
+  {
+    "message": "マリア様が見まくってる"
+  },
+  {
+    "name": "Riesling",
+    "message": "「If I just adjust the wiring here--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mm-hmm.」"
+  },
+  {
+    "message": "Saturday afternoon, just two days before the Holy Night Festival. Preparations were going smoothly, leaving us with free time from Student Council duties."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Adjustments are complete.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh! Clap, clap ♪」"
+  },
+  {
+    "message": "Let's take turns enjoying our free time. Just as I suggested that, Riesling-san arrived and suddenly started fiddling with an electrical outlet."
+  },
+  {
+    "name": "Misa",
+    "message": "「The library is open on weekends, so it's not strange for Riesling-san to be on campus. Still...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What do you think she did?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could it be a wiretap my big sister planted...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No, it is a Milady Sensor.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「We have them installed at key locations across the academy and Ryuusei Town, but a system malfunction occurred early this morning...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I came by to restore it while bringing you all some refreshments.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, I'm so excited--I bet it's something sweet. That's my hunch.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「They are bell-shaped castella cakes.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yay ♪ Bullseye! Nom, nom.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Munch, munch... Sweet.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan, Azel-san, eating them right after getting them is a no-no!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe I'll brew some Japanese tea today.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll save some for Synn and Misa, so you two go have fun first.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Are you sure we can go first, Nanaka-san?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tehehehe. If you hurry up and go, then come right back, I'll get more free time, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pretty calculating, aren't you? Still, thanks.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「In that case, please take these with you. There are enough for everyone.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Free meat bun vouchers? These are the same ones Helena-san gave us before.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As expected of you, Jeeves. Only having sweet things gets tiring, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Once the President and the others get back, let's go eat meat buns too」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You are too kind」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well then, we're off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really like the atmosphere of the shopping district in winter」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh my? You actually have such lovely sensibilities too, don't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, December has a unique vibe to it, doesn't it? Even I get excited」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, I like the shops around this time of year too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because the Shiokumi Shopping District values its scenery, they don't put much merchandise out in front of the stores」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Instead, they put tons of effort into the interiors, so right before Christmas, they're practically like jack-in-the-boxes」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's true, every time you open a shop door, there's a fun surprise waiting」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, was childhood Sakura-kun the type to open a jack-in-the-box over and over again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How do you know that!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course I know, I am your Vice President and rival, after all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But I never opened my Christmas present boxes until the day itself!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I held myself back desperately too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, Mom and Dad always bought the presents days before Christmas」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And us kids would easily find out where those boxes were hidden」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Deep down I wanted to open them so badly, so every day was a desperate struggle to hold back」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Those really were agonizing days. After all, Mother and Father couldn't find out that we were holding back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because kids who sneak a peek don't get any presents」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes! Santa-san only visits good kids on Christmas night」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And Yonta-san comes to kidnap the bad kids」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, that's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why does talking about Yonta-san make sense to you, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're one to talk--how do you know about him?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My dad always told me that when I was little」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My father told me about him too, right around when I was old enough to remember things」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And I was genuinely terrified of Yonta-san...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I looked forward to Christmas too, yet at the same time, Yonta-san scared me to death...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahahaha」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd love to meet your dad sometime, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「J-Just wait... a little longer... please...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, that's pretty cruel, isn't it? I believed Yonta-san existed all the way until I started elementary school」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because of him, I even bombed a science test」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O2 is 'sanso,' right? So I wrote 'yonso' for O3, and got marked wrong. To think you went through the same thing--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I never wrote a weird answer like that, though?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...? N-No way...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kieee! You betrayed meee!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, you get cranky when you're hungry. Let's go get some meat buns at Five-Star Restaurant」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That just now was self-destruction! I definitely didn't lose to you!!」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Welcome, Synn-kun. Are you on a date today, aru ka?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Grrrrraaaah!!」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「I-I retract my previous statement, aru yo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't worry about us, Mr. Kim. We aren't paying customers. We just came to redeem our free vouchers for meat buns」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「That still makes you fine customers, yes! Now then, which ones will you pick? They're fresh out of the steamer and piping hot!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is a voucher for a meat bun, right?」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Any kind of steamed bun is fine! Pick whichever one you like」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What did you say!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, then I'll have--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Gasp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mumble, mumble... Meat bun, pork bun, teriyaki bun. Pizza bun, red bean bun, curry bun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mutter, mutter... Shrimp bun, crab bun, croquette bun. Miso bun, vegetable bun, cream bun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whisper, whisper... Honey bun, fruit bun, hamburg steak bun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll go with the classic--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Psst, psst... Think, think, you have to think, Misa. Weighing deliciousness against calories, which steamed bun is the most rational choice!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't overthink it, just get whichever one you want to eat most」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shut up, I'm being completely serious here!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The ones that look delicious are that one and that one―n―no, I can only pick one! Either that one or that one...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By 'that one,' you mean... Okay, I've decided! Mr. Kim, one curry bun, please」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Coming right up!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, Sakura-kun, don't copy me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You pick the other one, Misa. Then we can split them in half」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah... T-Then we'll get to enjoy two different flavors, won't we」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me, may I place my order? I'll have that one--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Guh...! To suffer two straight defeats before we even start eating...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You never declared it a competition, Misa, so I don't think you need to worry about it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're being naive. What are you going to do with an attitude like that!? Our competition has already been going on since the very day we first met!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It goes back that far?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, you probably don't remember anyway, do you? That day when we met for the very first time」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, that was...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I went and forgot it, didn't I!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Hysterical...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I prefer the Misa standing right in front of me now over the Misa in my memories」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-D-D-D-Don't just say stuff like that so smoothly」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Getting mad, blushing--she sure is a busy one」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I am not blushing or anything! I'm just out of breath from walking so fast!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've been wondering for a while now, where are you trying to go in such a hurry?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We're going to the bench overlooking the sea at Tsukinoo Park, aren't we? Because we always go there to--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know, steamed buns taste best when you stuff your face with them piping hot while walking」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the food」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wait up, I'm eating too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...At least for today, I have to make it a tie...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's fine. If I act like it's completely natural, nobody will even look at us!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, what's wrong?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-S-S-S-Sakura-kun, let's share half!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, I'll split it in half right now」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Here...!」"
+  },
+  {
+    "message": "Holding the steamed bun carefully with both hands, Misa thrust it out toward my mouth."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, so I just eat it like this? Aah--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wait! Give me... half of yours too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right, sorry. Here!」"
+  },
+  {
+    "message": "Doing the same, I hold my meat bun out to Misa's mouth, and we end up feeding each other."
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch, munch」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nom, nom, nom... C-Could you at least act a little embarrassed?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We agreed from the start to split them half-and-half, didn't we? Everything's going according to plan.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's not what I meant... nom, nom」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oh my! Hey everyone, Synn-chan is doing something fun with a girl as cute as a doll!」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「I didn't know you could eat them like that, how heartwarming-aru」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Oh? Isn't that boy from the KiraFes--」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Hey there, Ryuusei Academy's Student Council President and Vice President! Please continue to favor Chocolat l'Or in the future!!」"
+  },
+  {
+    "name": "Natalie",
+    "message": "「Oh my, so Synn-kun and Misa-chan are in that kind of relationship\\s04 I'll have to bring a congratulatory gift」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hey, Synn! ly became a man, eh? Hahahaha」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-We're being watched... People are totally staring at us...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Nom, nom, n... om...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm so embarrassed I can't even taste it at all! What are you going to do about this?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch, munch... Delicious!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Get a little more flustered! Idiot!!」"
+  },
+  {
+    "message": "Free time ended, and Misa and I returned to the academy."
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sisterrrrr, Lord Shinnnnn」"
+  },
+  {
+    "name": "Shio",
+    "message": "「You have both returned at a most opportune time!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, what happened?!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A pervert has appeared at the church!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「He is punching and kicking the church walls while shouting incomprehensible gibberish!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is bad. If the church gets destroyed, the Holy Night Festival will be ruined」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The regular students have already evacuated. I shall lend my aid as well!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uwooooh, damn yooou~! Son of a bitch! Uwoooon」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, isn't that the suspicious creep from before!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, he looks familiar. What was his name again?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Hmph, who gives a damn about a church! Men and women get married here, don't they!? I'm gonna smash this place to pieces!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I'm finished, I'm totally finished! Letting her see me looking so pathetic~~. Uwoooon」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Stop that right now! I won't forgive you if you wreck the church!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Shut up, I'm venting the pain of a broken heart! Don't get in my way, butt out, you old hag!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Old hag?! How dare you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa is young! She's super fresh! Her skin is pale, smooth, and fine-grained--it even repels water and has great bounce!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, Sakura-kun!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「This is bad! The pervert's herculean strength is shaking the spire. At this rate, it will collapse!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「That sound... a bell? Awright, I'll sell that bell off and make a quick buck! Then I'll buy some booze to drown my sorrows and get wasted!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「No, while I'm at it, maybe I should buy a present for Pasta-chan?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta? Oh, I remember! He's the guy who was peeping at Prier」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aha! That stalker!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Fuhihihihi, what kind of gift would make Pasta-chan happy, I wonder? Like a wedding ring, or a wedding ring, or a wedding ring」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「No, a collar is definitely the move here! Like a wedding collar, or a wedding collar, or a wedding collar」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I remembered! His name was... yeah, that's it, Aderodin, right!?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Hey, you over there! What did you just say!?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I am Ardin, the Demon General of the Blood Gale! Don't you dare fuse me with the likes of Eauderourke!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Don't lump me in with that hippo-Q! It makes my skin crawl, it's revolting! I'm gonna take my rage out on you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here he comes!? Let's go, Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, I know that. Just make sure you don't drag me down!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ４４_EASY"
+  },
+  {
+    "message": "ステージ４４_HARD"
+  },
+  {
+    "message": "ステージ４４_NORMAL"
+  }
+]

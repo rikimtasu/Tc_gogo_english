@@ -1,0 +1,274 @@
+[
+  {
+    "message": "プリンセスくるせいだーす"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez. I'm hungry~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Sally. There's something I've been wondering about for a while」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm? If I answer it, will you make me some food?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, you've got a deal」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your room is right above mine, isn't it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But the room upstairs is still vacant. Which means you're living between the first and second floors, right」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yup, that's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think the space between them is tall enough for a person to actually live in」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'd love to say it's narrow enough for a demon to live in--buuut, buzz! Wrong answer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then is there some kind of trick to it?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yep. I'm using a spatial distortion device I bought from a Demon World goods shop」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh~~. Is that so」"
+  },
+  {
+    "message": "Still, that's one shady piece of merchandise."
+  },
+  {
+    "name": "Synn",
+    "message": "「Mind letting me take a quick peek inside?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Too bad, no prize for you. This device has a magic lock on it. So if it doesn't detect demonic power, you can't even pass through」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "Hold on? In that case, since I'm the Demon Lord, does that mean I can get in?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mind if I try stepping inside for a bit?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I just told you it's impossible~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, it's fine, it's fine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, cut it out. Who knows what's gonna happen?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm the landlord here, so I ought to at least keep proper track of things like this」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sheesh, there's no helping it. Well then, Prez. One quick hop straight to my room♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, it's pitch black!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「H-Huh... Something's wrong with the device...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I-It's reacting to magical power!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Could it be...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「W-W-Whoa!! It's starting to go haywire!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I-It's sending us flying somewhere!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaaaaaah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Where on earth are we...」"
+  },
+  {
+    "name": "Woman",
+    "message": "「--I have been awaiting your arrival.」"
+  },
+  {
+    "message": "I am greeted by a crisp, dignified voice. Slowly, I shift my gaze."
+  },
+  {
+    "message": "With a composed demeanor, a woman stares at me--no, at Sally."
+  },
+  {
+    "message": "She has distinctly intelligent features, brimming with unmistakable confidence."
+  },
+  {
+    "name": "Meivisu",
+    "message": "「My name is Meivisu. I have long awaited your coming.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Me...?」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「Indeed. Our lost hope, who shall guide us.」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「The Lost Princess.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, Prez. What's a 'pwincess'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Doesn't that mean a royal princess...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooh!! So that means I'm a princess? Class chaaange from Demon World idol to princess!!」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「Hmm... Karen is not here... What is the meaning of this?」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「Moreover, why are there two of them... Yet, I sense magical power from both.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's true!! Magic is overflowing from Kaicho!! That means you're not human either, Kaicho!!」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「C-Could it be... two princesses... Are you saying two Dark Princesses have survived!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pffft, they say you're a princess too, Kaicho!!」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「So you are called Kaicho」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N―No. Actually―」"
+  },
+  {
+    "name": "Ririan",
+    "message": "「Senpai! This is a pleasant miscalculation!! Even Ririan is surprised!!」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「Ririan. Are these the princesses you spoke of?」"
+  },
+  {
+    "name": "Ririan",
+    "message": "「Hmmmm. I think they were, or maybe they weren't...」"
+  },
+  {
+    "name": "Ririan",
+    "message": "「I'm pretty sure they were called 'Iincho,' and 'Kaicho' sounds like a higher rank, so they're probably relatives...」"
+  },
+  {
+    "name": "Ririan",
+    "message": "「Yes! There's no mistake, it's definitely them!!」"
+  },
+  {
+    "name": "Chocolier",
+    "message": "「As expected of the boss!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? Hold on!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Things are starting to get interesting」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「I see」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「I want you to save this... Witch World together with us」"
+  },
+  {
+    "message": "And so, for some reason, Sally-chan and I ended up having to save this world--the Witch World--as the twin Dark Princesses."
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... I'm actually a guy, though...」"
+  },
+  {
+    "name": "Meivisu",
+    "message": "「Do you intend to mock me? There is no way someone who isn't a witch could wield magic」"
+  },
+  {
+    "name": "Ririan",
+    "message": "「Besides, no matter how you look at it, aren't you a cute girl♪」"
+  },
+  {
+    "message": "My ordeal has only just begun... *sigh*."
+  }
+]

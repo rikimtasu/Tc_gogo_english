@@ -1,0 +1,923 @@
+[
+  {
+    "message": "本当は、友達"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huff, huff, sorry to keep you waiting--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah. I just got here myself」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so? What a relief」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where's Riesling?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, 'always explore on your own two feet' is her moral♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean motto」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, shall we get going right away?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, sounds good」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big bro, you're grinning again. You pervert」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Am not」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yoohoo, little angel」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am not an angel!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, just kidding, just kidding」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, why is your little sister here?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Could you maybe let me join in on that, uh, exploring thing too?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh! So that's what this is about!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Having lots of companions is a wonderful thing, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, totally」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Today is the perfect weather for exploring, so let's all have fun out there♪」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「She says」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「…………」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawawa!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina can come along too, right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-Today's weather isn't very good, so let's save going out for another time……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Now, now, now, now!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, we're already here, let's go exploring!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I still don't really know much about Ryuusei Town yet」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I want you to teach me all sorts of things, Angel-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm super interested in exploring, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-It can't be helped, then」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As a special favor, I shall guide you along my exploration route」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, knew I could count on you, Angel-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I told you, that's not it!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「…………」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-And that certain someone over there can just tag along if she wants to」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright then, let's head out!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaah! The sea is huge!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The blue sea--in other words, the lotion!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um, if you're going to say that, wouldn't it be the ocean……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmph... Even I make mistakes sometimes, you know!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-You're right...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So, what kind of place is this?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, on a warm day, the sea breeze feels wonderful here.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's just plain cold, though!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How pathetic. Children are supposed to be children of the wind, you know.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Brrr...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You look cold, though?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Th-That's not true at all!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「...Giggle.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmph...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What do you usually do in a cold place like this anyway?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's see...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I gaze out at the distant horizon, or reminisce about how things were before I came here.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ah... Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawawah! L-Let's go to the next place!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is where the shrine maiden lives.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's Shio-chan's shrine, huh.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's a quiet, lovely place.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What's that huge thing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a torii gate.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What's it for?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ummm……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A torii gate is, in essence, a type of gateway marking sacred ground」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, hello there, Miss Shrine Maiden」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Good day to you, Lady Lolotte. Have you all come together to pay your respects?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm tagging along on Angel-chan's little expedition!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hoho, an expedition, you say. How splendid」"
+  },
+  {
+    "name": "Shio",
+    "message": "「And…… who might this be?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's Lolotte's friend, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「H-Hello……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A pleasure to make your acquaintance. I am called Shio Asukai」"
+  },
+  {
+    "name": "Shio",
+    "message": "「This shrine is renowned for its potent blessings, so why not offer a prayer while you are here?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Blessings……」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U-Umm…… would those happen to include blessings for, well, making up with someone……?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A prayer for friendship, indeed. Why, of course」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ah, um……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Go on, go for it!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're worried, you should go with her, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-It's not like I'm worried or anything……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If you leave her alone, she might get lost, you know~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Besides, if you don't hold onto her tight……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You'll stay apart forever」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I wouldn't want that!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then you've gotta go after her」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You have to chase after her and have a proper talk, right!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A torii gate is also the boundary between the living world and the hidden realm, you see」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If left alone, she might just come back to haunt you, you know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeek! Amyrina becoming a ghost--that would be terrible!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My... Have I teased a bit too much?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's fine, it's fine!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「All that's left is for the two of them to talk things out properly and make up!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm, so that is how it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for causing trouble so suddenly」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Not at all. If I can be of service to you all, I do not mind in the slightest」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well then...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm a little worried, so maybe I'll go check on them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Would that not be rather tactless?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「They might end up needing my help, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, let's just stick to watching how things play out」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh. That's what I was planning to do even without you telling me!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「…………」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「…………」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「…………」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuuugh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「How frustrating!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Now, now, there is no need to be so impatient...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh... How long are they planning to just stand there...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They have their own pace, after all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You say that, and they've been stuck in a stalemate this whole time, haven't they」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That's why I thought I'd give them a little push, and yet...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Um... right now, the Human World is very dangerous because of Re-Crea」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I already know that. I've heard it plenty of times.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Then, why...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, the Human World is a wonderful place」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want you to see that too, Amyrina!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides, we have reliable friends who won't lose to something like Re-Crea...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It appears they are discussing something...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Doesn't look like it's going too well」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah, I'm going over」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, it'd be bad to interrupt the two of them」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If you pray, you get blessed, right?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Huh? Well, yes, that is how it works, but...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then I'm gonna go pray!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That those two make up soon!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Are you really okay with that, Lolotte...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What about you, Amyrina, why...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「…………」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hii~ Excuse me for a sec~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hyaa!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-What is it!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Umm...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You put money in here, clap-clap, and then make a wish, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Okay, my part-time pay... toss!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hyaaaaah!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Clap-clap-clap-clap-clap!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Clapping harder doesn't mean you'll get more blessings......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wish for Lil' Angel and Big Angel to make up real soon!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wish for them to honestly tell each other how they feel!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ah......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Friends not being able to smile together is just way too much of a waste!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Little sister......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaalright, that was perfect!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, take your time then~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if doing it like that is really okay......」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is somewhat unconventional, admittedly......」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, I believe Lady Macaron's sincerity got through to them」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina......」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「......Pfft」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Giggle......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's funny, isn't it......」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Why were we being so stubborn......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Always thinking only about each other......」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yet forgetting to actually listen to each other's words......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though we should have understood everything all along......」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sorry, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Will you forgive me?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm the one in the wrong for refusing to listen to what you had to say, Amyrina」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though you were worried about me, I'm sorry」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「No. I'm the one who should apologize, for not checking how you felt either, Lolotte... I'm sorry」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, this means we've made up, right」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haa~ Somehow, I feel so refreshed」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's all thanks to Macaron, isn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「On our own, I'm sure...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「We wouldn't have been able to face each other like this」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Sorry to have kept you waiting」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Lolotte, Lady Amyrina...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you two manage to make up?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you talking about, Mr. President」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We've been good friends right from the start. Right?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes. That's exactly right」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. Looks like the blessing already worked its magic」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mhm, that's the best thing of all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Little sister, thank you very much for today」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It seems we've put you through quite a lot of trouble for our sake」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nah, I didn't really do anything big」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's not true at all」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「We were able to properly face each other with honesty」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's all thanks to you giving us that push, Macaron」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you so very much」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ahh, ehehe, bwaha...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Way to go, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Well, it's only natural」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「As long as I'm around, everyone has to get along」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I won't allow any fighting, got it?」"
+  },
+  {
+    "name": "Lolotte & Amyrina",
+    "message": "「Yesss」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, Big Brother? Have you got a newfound respect for me now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think being able to work hard for everyone's sake is an amazing thing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I see, I see, ehehe...」"
+  },
+  {
+    "message": "Somehow, I feel like the meaning of \"everyone\" that the two of us use is starting to align."
+  },
+  {
+    "message": "Macaron is steadily getting closer to becoming her ideal Demon Lord."
+  },
+  {
+    "name": "Synn",
+    "message": "「As the Student Council President, I can't let myself fall behind either」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ahhh, no fair! I'm not gonna lose either!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, shall we continue our exploration!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, hey, wait up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, Shio」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Not at all, please do visit again anytime」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Next is over here!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte~, wait for me~!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come on, play nice now!」"
+  }
+]

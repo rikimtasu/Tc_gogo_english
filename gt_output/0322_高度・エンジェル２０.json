@@ -1,0 +1,457 @@
+[
+  {
+    "message": "高度・エンジェル２０"
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch, Riesling-san is good at cooking too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ahem, Jiiya can do anything, you know.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. Vice President-san, you have quite the healthy appetite.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, you eat with such a huge smile on your face, I had no idea.」"
+  },
+  {
+    "message": "After the little commotion with the pasta, at Lolotte's suggestion, Misa and I are being treated to a tiered bento box handmade by Riesling-san."
+  },
+  {
+    "name": "Misa",
+    "message": "「......\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sigh...... Watching her devour it like a little piggy really fills my heart.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's weird, though. Misa isn't like this at all when she's eating veggie sticks?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All alone in the Student Council room, looking like she just bit into a bitter bug, furrowing her brow and crunching on carrots--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well duh. Or rather, take a hint, Synn-sama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eating together with everyone makes the food taste even better than usual, doesn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, Lolotte, you're just like me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa! President-san, you feel that way too?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The fact that it's a bento probably helps a lot too. Compared to food plated on dishes, it gives you this bubbly, exciting kind of fun.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooooh, President-san, you're just like me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha. Not just us, everyone feels that way.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, before any of that, it's gotta taste good first, though. If Riesling-san saw Misa right now, I'm sure he'd be thrilled.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed he would♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「......Gulp♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Phew~. ......Thank you for the meal.」"
+  },
+  {
+    "message": "The deafening roar of a rugged area-suppression helicopter hovering in the sky above Ryuusei Academy."
+  },
+  {
+    "message": "At the same time, a hanging banner is lowered outside the windows of Prier. The words written on it in beautiful brush calligraphy read--"
+  },
+  {
+    "message": "『It was a humble offering. Leave the young lady's bento boxes to this butler, Riesling Tooyama.』"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, you were watching」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Old man Riesling is delighted」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Riesling-san...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah, I ate it... Even though I was supposed to be watching what I eat...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No! Starting tomorrow... right, I just have to try hard starting tomorrow!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey Hiss, tomorrow never comes for a guy who can't give it their all today, y'know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmmmm...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「L-Look, Lolotte-san went out of her way to offer me the stacked lunchbox」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I couldn't possibly flat-out refuse a junior's kindness as Vice President and as a comrade, could I? Manners are important」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Manners...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, you really can say 'thank you for the meal' properly, huh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course I can!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't say it when you had the veggie sticks, though?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nggggh... What's your deal, huh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why are you mumbling, Madam Vice President?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Get out-nya~! Scram right now-nya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That kid is causing trouble again」"
+  },
+  {
+    "message": "Just like when she got into an argument with us, Pasta is making a racket at the table over on the other side."
+  },
+  {
+    "name": "Pasta",
+    "message": "「The customer is not a god-nyan, the shop has its own rights too-nya」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed. Merely stepping foot inside an eatery does not make a person a god.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think that's what they're arguing about, though?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Why are you leaving leftovers-nya!? What a waste! If you're gonna leave food behind, don't order it in the first place-nya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh-huh」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I've got no use for poor people, nya, but I hate rich people who leave more than half their food even more, nya! Pay a fine of three hundred quintillion yen, nya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh-huh, uh-huh. *Sniff*...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Why are you crying, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sniff*, *sob*... Because what Pasta is saying is right, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's not wrong, but there's a right way to say things」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you don't properly learn customer service before lecturing people on manners, even a valid argument is meaningless」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyahumph, you poor folk, I'll let you have this, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Isn't this the leftovers from earlier...?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'll let you eat it at the special price of 5,000 yen, nya. Be grateful and clean your plates, nya」"
+  },
+  {
+    "name": "Misa",
+    "message": "「～～～!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't stand this anymore! I'm filing a complaint!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Denied」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!?」"
+  },
+  {
+    "message": "Right in the middle of Misa's direct appeal, Helena flatly brushed the request aside."
+  },
+  {
+    "name": "Misa",
+    "message": "「Why? Isn't Prier a place for everyone to relax? We cannot overlook this waitress's lawlessness」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's right, Helena-san. I believe I already explained the situation」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa there, whoa there, whoa there, good girl, good girl, good girl」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Lolotte-san, what do you think you're doing!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hieee!? The guidebook said doing this would calm you down, yet it's having no effect」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, calm down, Misa. There's no need to raise your voice at Lolotte」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You have a point. I'm sorry, Lolotte-sa--mmph!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek, the Vice President appears to be angry yet again」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's not about you, Lolotte-san, it's Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about me?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...H-How long are you going to keep holding my hand?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh? How did this happen!?」"
+  },
+  {
+    "message": "Actually, wasn't Misa the one who dragged me all the way over here?"
+  },
+  {
+    "name": "Helena",
+    "message": "「I understand the situation」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You understand!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You want to keep holding hands forever, but Synn-chan and Misa-chan are in different classes, after all」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll exercise my authority as chairwoman and put the two of you in the same class. And sit you right next to each other, too!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「U-fu-fu\\s04, even I have to admit that's a thoughtful arrangement」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not what I'm requesting!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauah, the president let go of his hand. So the two of you are finished, then」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nothing has even started yet!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, just for a second, try to calm down. If it's you, you'll notice the change in Helena-san」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just like when she dotes on Ria-senpai, Helena-san is teasing us」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't that just how she always is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, but her reply about Pasta was dead serious and unforgiving」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I have my reasons for letting Pasta-chan roam free for now. Please avoid any unnecessary commotion」"
+  },
+  {
+    "name": "Misa",
+    "message": "「However--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「This is a chairwoman's order, and a strict command from me as a former Crusader」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I see...」"
+  },
+  {
+    "message": "Helena-san is giving off the aura that she can't say much either... Must be what they call adult circumstances."
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa. Since Helena―san puts it that way―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's the big idea, giving up over something like this!? How pathetic for the Student Council president」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my! I was just starting to come around, too, yet Synn-chan hardly pays any attention to Misa-chan at all, does he?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I won't rely on you anymore, Helena-san」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We will tackle Pasta-san's problem as an organization independent of the Student Council and the Crusaders--'Angelic Agent'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oooh! The Angel Corps is moving out, right?! Leave it to me」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Angelic Agent'? If you translate that, it means 'an authorized dealership resembling an unidentified object on radar,' doesn't it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawawa!? I-Is that what it meant?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is terrible. We haven't even gotten ready to open the shop yet. I have to talk to Jeeves right away and stock up on the necessary merchandise~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「W-What are you planning to sell? Personally, I'm super curious」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Please don't make such an outrageous mistranslation on purpose!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufufu, I'm just joking」"
+  },
+  {
+    "name": "Helena",
+    "message": "「However... phew, if we leave things like this, you and the others won't sleep well at night, Misa-chan」"
+  },
+  {
+    "name": "Helena",
+    "message": "「All right. Let's present the Christeles family with a 'slimming mirror,' the same kind supplied to luxury boutiques」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's a wonderful item that Melilot uses herself. Will you lay down your arms if I do that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, understood」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so you're fine with that」"
+  }
+]

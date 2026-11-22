@@ -1,0 +1,293 @@
+[
+  {
+    "message": "謎の転校生ＶＳ謎の実習生"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Any crybabies 'round heeeere? Any bad kids 'round heeeeeere?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san, what are you shouting about?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I heard it's tradition to shout like this when searching for bad kids」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What's all the racket? Dismissal time has passed. Go home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, sorry. Wait, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's just you two」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you doing here yourself, Azel-san?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Making a racket this late at night makes you a delinquent, you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That applies to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were you borrowing books again?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "message": "Hmm. Going to the library isn't a bad thing, though maybe I should subtly ask Melilot-san to send her home a bit earlier?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could it be that the female student wandering around late at night is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Probably」"
+  },
+  {
+    "message": "It's the second time, after all. That settles it."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You two are suspecting Azel-san, aren't you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Suspecting her of what?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't need to spell it out. Mysterious transfer students are classic suspects, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In fact, being a time traveler, an alien, an invader, an extradimensional being, or an esper--they're bursting with suspiciousness」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That was written in your guidebook, wasn't it. Not that I suspected anything in the first place...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However! Azel-san is definitely not one of those! I guarantee it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're awfully confident, so what's your basis?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's because... ahem」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because she's a fellow member of the Student Council. She's as virtuous as an angel」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Like an angel...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is Lolotte saying?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... she's saying that you're a good girl, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Naturally」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no one who walks a more righteous path than I」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Can an academy student who barely attends classes really be called righteous?"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is the meaning of that silence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'll walk you back」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't need an escort」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why are you following me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I have to patrol around the dorms too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Enemies often lurk surprisingly close by, you know. It's quite common for a monster's nest to be right beneath the dorms.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And that was written in the guidebook, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, it was in a horror movie I watched with my butler the day before yesterday」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Do as you please」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Someone's coming」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh, but isn't Azel the rumored female student」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It must be the monster from beneath the dorms!」"
+  },
+  {
+    "name": "Woman's Voice",
+    "message": "「What are you all doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That voice sounds familiar...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ms. Sengenin!」"
+  },
+  {
+    "message": "Emerging in the glow of the lights lining the path was Ms. Sengenin."
+  },
+  {
+    "message": "She was looking at us with cold eyes. It felt uncomfortable."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Misa Brigitta Christeles. And...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm Synn Sakura.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm Lolotte Rosenkreuz.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's A--」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「What am I to make of the Student Council officers taking the lead in breaking school rules?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, you see, rumors have been spreading lately about a suspicious person loitering around after curfew, so the Student Council is conducting an independent investigation.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I have already heard about that from the chairman. In other words--」"
+  },
+  {
+    "message": "The teacher looked at Azel. Her gaze was cold."
+  },
+  {
+    "message": "Yet, I felt like there was an irreverent glint in her eyes, as if she were somehow amused."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Are you saying she is the suspicious person?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I was just going to the library.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Can you prove it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The librarian can.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I see. Do try your best not to give yourself away.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "The teacher disappeared into the darkness."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That teacher gives me a bad feeling.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's strict, isn't she? Her classes are easy to understand, though.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't let your guard down since she calls on people constantly, though.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? How come you don't know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel-san, you haven't been going to class, have you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  }
+]

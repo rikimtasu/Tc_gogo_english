@@ -1,0 +1,985 @@
+[
+  {
+    "message": "このきらきらする世界"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? That kid is...」"
+  },
+  {
+    "message": "It's Azel. They're looking up at the tower, I wonder what's wrong..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「I've got a feeling it's better not to get involved, man.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't do that. Helena-san asked me to look out for them, too.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If the Demon Lord says so, then I guess there's no helping it. Still, the great me is gonna stay quiet.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, is something wrong」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Since there was no reply, I looked in the direction Azel was gazing."
+  },
+  {
+    "message": "It's not the tower. They're looking at an empty spot just a little above the tower."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Blue sky. Wispy white clouds."
+  },
+  {
+    "name": "Synn",
+    "message": "「Clear weather, isn't it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Does no one feel uneasy about there being nothing there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Well, there are clouds.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do you not feel uneasy in the face of that vast emptiness?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's just how it is... The sky is basically empty after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Or... is there... something there?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Nothing」"
+  },
+  {
+    "message": "Azel abruptly turned their face away."
+  },
+  {
+    "message": "Ah, I see--it looks like they're trying to play it off, but they just got here, so they must be lost. Probably."
+  },
+  {
+    "message": "Still, I guess they're too embarrassed to admit they're lost..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Say, Azel, has anyone shown you around the academy facilities yet?」"
+  },
+  {
+    "message": "If I use an academy tour as an excuse, we'll probably reach Azel's destination while walking around, which saves Azel from any embarrassment."
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's not pointless! It's necessary if you're going to etch a precious page of your youth here!」"
+  },
+  {
+    "message": "Mm. Judging by that reaction, they really haven't been given a tour of the academy yet."
+  },
+  {
+    "message": "In that case, showing them around the academy kills two birds with one stone."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Oh, they started walking off looking thoroughly annoyed."
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you know what's over that way?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure you already know, of course, but there's actually a martial arts hall」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Pretty fast walker, huh. Actually, maybe they straight-up think I'm a nuisance."
+  },
+  {
+    "message": "Still, it's normal for a transfer student not to open up at first, so it can't be helped."
+  },
+  {
+    "name": "Synn",
+    "message": "「At our academy, martial arts are pretty popular among the girls. The aikido club, kendo club, naginata club, and spearmanship club all have girls as their captains」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The girls' teams make it to nationals all the time, too. The boys are stuck losing in the regional qualifiers, though......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Barbaric」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Martial arts are methods for killing people」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you want to kill someone, you don't need to go out of your way to learn martial arts. Probably. I don't think many murderers actually practiced martial arts」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, maybe that was true for people practicing martial arts back in the Warring States period, but in a peaceful era like this, people go out of their way to learn it, so it's something completely different now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Because there's no need for it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look, what you see over there is the treasure trove of knowledge, the library. Though I'm sure you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's the best place for broke students to deepen their knowledge. You can't get rowdy in there, though, because there's a strict librarian」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you know how to use it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......No」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll teach you how to use it next time」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You already know about the church, right? Bet you don't know its official name, though?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Its official name is St. Ophelia Church. Not really sure where the name comes from, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's quiet today, but on weekends, people from outside the school come here too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wanna go inside?　......Guess there's no need, huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmph?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no god in a place like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "What floated on Azel's lips was... a cold smile."
+  },
+  {
+    "message": "Likely one of scorn."
+  },
+  {
+    "name": "Synn",
+    "message": "「...I see. So that's what you think, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't know whether they exist or not, but there are people who believe in them, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, are there gods where you were born, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Was he born in some region with taboos surrounding religion?"
+  },
+  {
+    "message": "Or conversely, were there tons of devout believers around him, and this is just him rebelling against that?"
+  },
+  {
+    "name": "Synn",
+    "message": "「You already know this place, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, just to introduce it anyway, the one in front is the new school building. Its official name is Eleret Hall」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even I didn't know it had an official name like that until I became Student Council President」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It might be a bit late for this, but want me to show you around inside too?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. Now, the one you can see in the back is the old school building, and」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Official name」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, the official name, right. What was it again... Oh, right. Oroiaere Hall. This one has the faculty room, the chairman's office, the Student Council room, and...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right. If you ever run into any trouble, come by the Student Council room. I'm always happy to hear you out」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I won't have any trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can never predict that sort of thing. Doesn't hurt to know, right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As for the inside」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll show you around, then」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Then, do you know the Seven Mysteries of the old school building?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Severed wrists playing the piano at night, phantom flowers that bloom in profusion only on February 29th on the rooftop where a greenhouse used to be, a hallway that makes wet squelching sounds when you walk down it at midnight even though it isn't wet...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A computer that starts calculating pi all on its own...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, and then, oh yeah! A cursed clock that suddenly starts spinning backward on the exact date and time the old school building caught fire... Huh? That's only five」"
+  },
+  {
+    "message": "Hmm. He's not biting at all. Is it a bad topic?"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, whatever. Anyway, there are two more left, though did the academy you went to before coming here have things like that?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seven Mysteries are pretty common at academies in this country, though maybe it's different in other countries. Well, they're all just rumors, and I've never actually met anyone who experienced them firsthand」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, huh...」"
+  },
+  {
+    "message": "Ah, he's already so far ahead!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't you thirsty?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on a second, I'll go get us some tea」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't hold back, the tea is free」"
+  },
+  {
+    "name": "Azel",
+    "message": "「!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's free?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait... you didn't know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ahem」"
+  },
+  {
+    "message": "Azel cleared his throat and turned his face away."
+  },
+  {
+    "message": "Well, he did sit down at the table, so I guess that's good enough."
+  },
+  {
+    "message": "I use the automatic tea dispenser to pour tea into cups for the two of us."
+  },
+  {
+    "name": "Synn",
+    "message": "「So, here's your tea」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've walked around quite a bit, so what do you think?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel was slowly turning the cup he held cradled in both hands, when--"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why bother with me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because the Student Council President is supposed to look out for all the students so they can enjoy their time here」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides... you don't look like you're having fun at all, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's how it looks to me」"
+  },
+  {
+    "message": "I see. When Helena asked me to look out for Azel, she must have meant she wanted me to help him loosen up the stiffness he's wrapped himself in from being nervous in an unfamiliar environment!"
+  },
+  {
+    "message": "Maybe the reason we're having trouble communicating is because he doesn't understand the language very well yet."
+  },
+  {
+    "message": "International exchange, globalism, all humanity is one big family. I've got to do my best."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Having fun is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, having fun is important!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even when doing the exact same thing, making it fun versus leaving it boring makes all the difference」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's the same thing either way, it's better if it's fun, right? That's why if you're going to spend time at the academy, it's better to enjoy it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is the same」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true at all. Even with Student Council work, I'm sure you could just handle it mechanically and matter-of-factly, and I think some people actually do」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But for me... how do I put it, basically anything I do for the first time feels fun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like my heart's pounding... or it's exciting, kind of like going on an adventure」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if it starts getting boring, if I can remember how it felt when I first started, it becomes fun again」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can feel that what I'm doing is something enjoyable」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why everything is fun for me. Including the Student Council and this academy, of course」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So because of that, I want to make whatever place I'm in fun, and I want everyone there to have fun too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you start feeling that sense of fun too, Azel, your academy life will become enjoyable as well. It'll be the start of a sparkling academy life!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, it's not an urgent necessity like having to eat or you'll die, but I still think fun is something really important in life」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So it is unnecessary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, even though they're both hydration, tea tastes better than water」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel slowly finished drinking his tea."
+  },
+  {
+    "name": "Azel",
+    "message": "「It is the same」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you know there's going to be a Charity Bazaar on the 27th of this month?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Things like furniture and used books will be put up for sale too, so if your room is missing anything, you should check it out. You might be able to get them cheap」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is a Charity Bazaar?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "To think awareness is this low when it's only half a month away! This might be a problem."
+  },
+  {
+    "message": "Still, rather than worrying about every little thing, I should just do what I can! Do today what can be done today!"
+  },
+  {
+    "name": "Synn",
+    "message": "「A Charity Bazaar is an event where everyone at the academy and people from the shopping district bring things they don't need anymore that someone else might want」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It helps with recycling and deepens everyone's friendship, so it's really worthwhile! This place is scheduled to be one of the venues too. Definitely come join in! It's fun just looking around」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd heard these kinds of events are even more popular in foreign countries, though--isn't that the case in your homeland... the Principality of Sharo-Ma?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Or maybe you just call it something different?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you don't need it, just throw it away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But isn't it better if it ends up in the hands of someone who wants it? That way, it won't go to waste」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, I think there are probably people who'll treat things carelessly if they get them cheap」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, not everyone is like that. A book you pick up at a secondhand bookstore can end up staying in your heart forever, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「On the day of the event, stalls will line up here too, and over in that plaza there's going to be a space for student-run booths」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Student Council is aiming to make it livelier and more fun than usual, so count on us!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...That's all you ever say, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you put it like that, everything is pointless. Anything beyond the bare minimum needed to survive becomes a waste」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait... are you going to say even that bare minimum is pointless?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then what isn't pointless?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nothing」"
+  },
+  {
+    "message": "It was a curt voice. As if stating simple common sense."
+  },
+  {
+    "message": "Is he a nihilist? Though, somehow, it feels like it's not just that..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Everything is pointless. To you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then hey, why are you here, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is you being here pointless too?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See, you being here isn't pointless, right? I think everything starts from there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since you were born into this world, there's definitely something out there for you」"
+  },
+  {
+    "message": "The sun was warm and cozy, the breeze felt pleasant, and the sky stretched endlessly blue."
+  },
+  {
+    "message": "The lively chatter of everyone drifted from all across the academy. From somewhere far away came the sound of a piano."
+  },
+  {
+    "message": "Maybe there was no meaning to it, yet everything was beautiful. Everything was sparkling."
+  },
+  {
+    "name": "Synn",
+    "message": "「I... might be the complete opposite of you, Azel, because I don't think anything is pointless」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Suddenly, Azel stopped in his tracks."
+  },
+  {
+    "name": "Azel",
+    "message": "「You」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What would you do if it were proven that everything was pointless, mistaken, and false?」"
+  },
+  {
+    "message": "That was the longest line I had ever heard Azel speak."
+  },
+  {
+    "name": "Synn",
+    "message": "「That hasn't been proven」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, even you, Azel, saying things like that--you can't deny that you're right here, can you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the first place, I think debating whether things are pointless or not is nonsense in itself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「After all, we're alive」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel started walking again as if nothing had happened."
+  },
+  {
+    "name": "Azel",
+    "message": "「Transient foam.」"
+  },
+  {
+    "message": "I hurried to catch up."
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Life and death are merely ways of seeing. There is no meaning in questioning their value.」"
+  },
+  {
+    "message": "She spoke as if looking down upon the entire world."
+  },
+  {
+    "name": "Synn",
+    "message": "「...If it's merely a way of seeing, then why don't we understand death? It's because thinking about it is terrifying, isn't it」"
+  },
+  {
+    "message": "Azel's small back looked so far away."
+  },
+  {
+    "name": "Azel",
+    "message": "「You will understand eventually」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "No good, Synn! Don't let yourself get swallowed up by this atmosphere!"
+  },
+  {
+    "message": "Nihilistic feelings like this must be that classic puberty thing. I don't really get those myself, so I wouldn't know."
+  },
+  {
+    "message": "For now, I'll try sparkling with youthful energy and saying it cheerfully."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, see you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel looked at my face for a split second, then immediately turned on her heel."
+  },
+  {
+    "message": "A quiet voice."
+  },
+  {
+    "name": "Azel",
+    "message": "「Everything is as God wills it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "Everything is as God wills it? Wait, isn't there no God?"
+  },
+  {
+    "message": "Before I could ask, Azel had already disappeared inside the dorm."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. Complicated」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「See, just like I predicted, there's no point getting involved with her. Or rather, you shouldn't actively get involved. From now on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...What an unusual kid」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's your takeaway after all that? You've got nerves of steel.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Expected nothing less from the Demon Lord, striking out across such a wide zone. Planting seeds anywhere you might make a move. Is this your Academy Harem Pl--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah!!」"
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "message": "熱病の夜"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmh...?」"
+  },
+  {
+    "message": "Someone's at the front door...."
+  },
+  {
+    "message": "Sally wouldn't open the front door and go out, and I'm right here...."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?!」"
+  },
+  {
+    "message": "I bolt upright!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is something the matter, Master Synn?」"
+  },
+  {
+    "message": "I strip off my nightclothes"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Half-naked out of nowhere! Could you be after the great me?!」"
+  },
+  {
+    "message": "and quickly get dressed."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Guh. Being a familiar is rough. Still, I am a man once called a Great Sage! I'm prepared for this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Watch the house while I'm gone!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?!」"
+  },
+  {
+    "message": "Even though I told him to let me know before going out for a night walk."
+  },
+  {
+    "message": "And he's not even in top shape."
+  },
+  {
+    "name": "Synn",
+    "message": "「*Cough, cough*」"
+  },
+  {
+    "message": "Guess I'm in no position to talk."
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "I felt something cold on the tip of my nose."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Rain」"
+  },
+  {
+    "message": "If I don't hurry, it's going to pour."
+  },
+  {
+    "name": "Synn",
+    "message": "「Achoo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "message": "Found him!"
+  },
+  {
+    "name": "Azel",
+    "message": "「!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's hurry back」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Go back. I want to walk alone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No!」"
+  },
+  {
+    "message": "I grabbed Azel's hand."
+  },
+  {
+    "message": "It was a small, smooth hand."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're this cold」"
+  },
+  {
+    "name": "Azel",
+    "message": "「M-My body temperature is just low」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Either way, tonight is no good」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's going to start pouring soon. No matter how much you like night walks, tonight isn't the weather for one」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Any night other than tonight, I'll gladly go with you as much as you want. Just not tonight」"
+  },
+  {
+    "message": "I took Azel's hand and started walking."
+  },
+  {
+    "message": "I thought she might resist a little, but Azel obediently came along with me."
+  },
+  {
+    "name": "Synn",
+    "message": "「*Cough*, *hack, hack*」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You... even though you're not feeling well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be you went out alone because you were worried about me?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「N-No! I just wanted to go out on my own」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's already cold out, so I wouldn't recommend going for a walk when you're not in top shape」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I am fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'm fine too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't lie! I know full well that you're not doing well!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for worrying about me. I'll go straight to sleep once we get back, so I'll be fine」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I―It's not like I'm worried about you or anything―」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel took a deep breath, then murmured as if exhaling a heavy weight."
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes... I am always worried about you」"
+  },
+  {
+    "message": "My hand was squeezed back."
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not know since when. Yet, I am always thinking of you. It is utterly illogical, and I do not even understand myself. Even so, that is how it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "message": "Something stirs deep inside my chest. A strange feeling I've never felt toward anyone before."
+  },
+  {
+    "message": "It makes me want to pull the girl beside me into a tight hug."
+  },
+  {
+    "name": "Azel",
+    "message": "「That's why I'm more worried about you. After all, you care about everyone, don't you? Even if it weren't me, you'd still come to bring them back like this, wouldn't you?」"
+  },
+  {
+    "message": "Of course I would."
+  },
+  {
+    "message": "I was about to answer that, yet for some reason the words wouldn't come out of my mouth."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Right now, the only one I'm worried about is you, Azel.」"
+  },
+  {
+    "message": "Right now, at least for right now."
+  },
+  {
+    "message": "But is it really just right now?"
+  },
+  {
+    "message": "Haven't I been thinking about her constantly lately?"
+  },
+  {
+    "message": "My cheeks felt hot. For some reason, I couldn't look at Azel's face."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, it's--it's pouring! We have to get back fast.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "The strength gripping my hand suddenly slipped away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...?」"
+  },
+  {
+    "message": "When I looked back,"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh! Hah, hah... ngh!」"
+  },
+  {
+    "message": "Azel had crouched down, clutching around her chest."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "message": "Excuse me! Due to an emergency, I'm coming into your room!"
+  },
+  {
+    "message": "First, I'll get Azel off my back and lay her down on the tatami..."
+  },
+  {
+    "name": "Synn",
+    "message": "「*Cough, cough*」"
+  },
+  {
+    "message": "My head feels kind of heavy... This might be bad..."
+  },
+  {
+    "message": "Still, getting Azel laid down comes first right now."
+  },
+  {
+    "message": "A remarkably Spartan room."
+  },
+  {
+    "message": "A single set of casual clothes hanging on the wall, and way too many uniforms."
+  },
+  {
+    "message": "Several photographs taped to the wall."
+  },
+  {
+    "message": "A Leica and a digital camera lined up in the corner of the room, along with a few rolls of spare film."
+  },
+  {
+    "message": "Completely unadorned--"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I think leaving your underwear piled up carelessly is a l-little questionable!」"
+  },
+  {
+    "message": "C-calm down, me."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "There's no heating appliance in sight."
+  },
+  {
+    "message": "And a futon that looks like it's just been left laid out."
+  },
+  {
+    "name": "Azel",
+    "message": "「Hah, hah, hah...」"
+  },
+  {
+    "message": "Azel's body was burning up enough that I could tell without even touching her, and she had gone completely limp."
+  },
+  {
+    "message": "I'll lay her down on the futon..."
+  },
+  {
+    "name": "Synn",
+    "message": "「N-no, before that, a towel?! Warm water? Definitely a towel, right?」"
+  },
+  {
+    "message": "B-but wiping her body down with a towel means..."
+  },
+  {
+    "message": "That means I have to take her clothes off, doesn't it?!"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-whoa. W-whoa, whoa! *Hack, hack*」"
+  },
+  {
+    "message": "I-I'm getting dizzy. In more ways than one."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan, help!」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan!」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "She's not here!? Did she go back to the Demon World to pick up some Demon World Mail-Order goods or something……?"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-does that mean…… I have no choice but to undress her!? *cough, cough*」"
+  },
+  {
+    "message": "My head is spinning. Crap, I'm running a fever. In more ways than one, honestly."
+  },
+  {
+    "message": "Me undress her!? Strip Azel completely naked!? N-no, even if I don't go all the way and just leave her in her underwear. No, wait, how is that any better!?"
+  },
+  {
+    "message": "I mean, I don't have any ulterior motives or anything. Still, is it really okay for someone like me to take a girl's clothes off!?"
+  },
+  {
+    "message": "But this is an emergency, and if I leave her soaked like this, she'll catch a serious cold……."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Looking closely, Azel's clothes seemed completely dry."
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though she was so drenched……?」"
+  },
+  {
+    "message": "I lay Azel down on the futon."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew…… but why?」"
+  },
+  {
+    "message": "A fever? Did they dry from Azel's body heat? If that's the case……."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's bad! *cough, cough*」"
+  },
+  {
+    "message": "There's not a moment to lose!"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Ahem, ahem, hack, cough*」"
+  },
+  {
+    "message": "I need to bring the heater from my room to Azel's room."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gaa-guu……」"
+  },
+  {
+    "message": "The heater is……"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The heater, I have to take it」"
+  },
+  {
+    "message": "Ah, the world is spinning. It's spinning."
+  },
+  {
+    "message": "………………。"
+  },
+  {
+    "message": "…………。"
+  },
+  {
+    "message": "……。"
+  }
+]

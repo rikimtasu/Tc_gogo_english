@@ -1,0 +1,217 @@
+[
+  {
+    "message": "きっと、その頃は……"
+  },
+  {
+    "message": "On my way to the old school building, I caught sight of Misasagi-senpai. Unusually for someone normally so composed, she was heading somewhere at a brisk pace."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Black tights are totally old-ladyish」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You have way too foul a mouth. You're supposed to say Misasagi-senpai is mature」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, man, she was holdin' two walnuts in one hand. Still in the shell, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, old folks do often roll them around in their hands like that, don't they」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh…… Even Master Synn thinks so, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This isn't the time for leading questions. Let's follow after Senpai!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Why the heck for?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because isn't that amazing! I wonder if there's a walnut tree growing on the academy grounds? Let's go gather some too!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You sound like a penny-pinchin' housewife……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Walnuts make great preserved food!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Alright, alright, don't get all worked up explainin' it」"
+  },
+  {
+    "message": "H-Huh? We ended up at the Kujo family mansion."
+  },
+  {
+    "message": "I hadn't given any prior notice of a visit. Peeking quietly from the shadow of the gatepost, I saw Misasagi-senpai and Ria-senpai deep in conversation near the parking area."
+  },
+  {
+    "message": "Could the two of them be making plans to go gather walnuts together?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Give it a rest with the food already, will ya?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayaka-chan, come on inside. I'll brew some tea!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Much obliged. Don't trouble yourself, though. It's nothin' important anyway」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria, would you mind takin' these?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sure, what are they……?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Two almond seeds, they are」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa! Those are rare」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Z-Zzz, zzz」"
+  },
+  {
+    "message": "Perhaps embarrassed at having mistaken almond seeds for walnuts, Paqy starts blatantly faking sleep."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If you don't mind, go ahead and plant 'em in a corner of the Kujo estate's garden or somethin'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm, then maybe next to the fir tree would be good. Should I bury the two seeds side by side?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yes, it might be best not to space them too far apart. You need two trees for almonds to bear fruit, after all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ooh~ I've never seen an almond tree before.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「They're rather unremarkable trees... though their blossoms are quite lovely.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Blooming later than peach trees, yet earlier than cherry blossoms... there is nothing quite so wonderful for enjoying flower-viewing without worrying about crowds.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ayanishiki-chan...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「When that time comes, let's have a flower-viewing party together♪」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yes, I would love to come.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「...Though at the very earliest, it takes five years after sprouting before the flowers bloom.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my, that's a long time.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「--Where the ancient almond tree dwells as if it belongs there,」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Along that dear, nostalgic starry path--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Along the starry path, into the distance.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, Ayanishiki-chan... you shouldn't go imitating Goethe like that\\s07」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, I should have expected no less. You caught me.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hehe, I wonder what kind of poem will come to mind when I see the almond blossoms with my own eyes? I can't wait.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, Ayanishiki-chan, how deep should I bury the seeds?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ahh~~ Apparently, you have to soak the seeds in water overnight to soften the shells first.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha...\\s02 You don't actually know, do you, Ayanishiki-chan?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「F-Forgive me...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, yeah, let's go inside the house after all, okay? Big Sis has tons of books, so we can definitely look up how to grow almonds too!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, I shall gladly accept your invitation.」"
+  },
+  {
+    "message": "Misasagi-senpai and Ria-senpai head toward the mansion's entrance. I step away from the front of the gate."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan really cares about her friends, huh.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misasagi-senpai is the same. Having someone you can make a promise with for five years from now--I'm jealous.」"
+  },
+  {
+    "message": "As I walk along the path toward the Student Council room once more, I'm reminded again of the heavy responsibility of the Crusaders."
+  },
+  {
+    "message": "If we don't stop Re-Crea, there won't be a world five years from now..."
+  }
+]

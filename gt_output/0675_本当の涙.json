@@ -1,0 +1,797 @@
+[
+  {
+    "message": "本当の涙"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin, it's about what I was asking your advice on the other day...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This is just a hypothetical story, okay? Once upon a time, there was a boy and a girl who were childhood friends」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The girl has liked the boy for as long as she can remember, yet he never noticed at all」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, that's hopeless~. If she likes him, she's gotta confess properly~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well anyway, the boy is an oddball, so the girl felt safe assuming there was no way any other girl besides her would fall for him」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And yet, plot twist~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「While she had her guard down, the boy went and fell for another girl, and even had the nerve to confess to her」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's call the childhood friend Girl A, and the love rival Girl B」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「A has a ponytail and B has twintails. Which ultimately makes it one against two. The difference in combat power is double~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't go saying ominous stuff like that!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If you're acknowledging her as a love rival, you're never gonna close that gap~? You've at least gotta say, 『You homewrecker!』~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa is my friend, you know? There's no way I could hurl insults like that at her!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah... oops. I let her name slip」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I mean, I accidentally happened to overhear you and Synn-kun talking anyway~. You don't need to explain~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, there's one thing even you don't know, Sacchin...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Actually... Misa was helping me out so I could confess to Synn. Since before Synn told her he liked her」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「What's up with that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is convinced he got rejected, but Misa hasn't actually given him an answer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I still haven't confessed either, so everything's vague and totally messy...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What am I supposed to do?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I don't think you need to do anything at all~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Geez, Sacchiiin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You don't have to do aaanything for the Vice President!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「In the meantime, you gotta make your move, Nana-chan! Settle things with Synn-kun once and for all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Isn't that unfair? Misa's the one Synn confessed to, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And Misa probably feels the same about Synn...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whyyy? That's a totally different story--actually, it's in a whole other dimension!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「The Vice President didn't accept Synn-kun's confession. That fact alone is enough. You don't have to step aside for someone who's just dragging her feet」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Step aside... Synn isn't an object!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, you need the resolve to treat Synn-kun like an object!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Now it's my turn to give you an analogy」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm, like, little kids in kindergarten fight over the sandbox at the park, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「When you end up liking the same person as someone else, it's the exact same thing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Is it?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It iiiis! Adults are just what kids turn into, and we're in that awkward puberty phase on top of that. So fight!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fight...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's right, go, go, go on the all-out attack!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Got it, I'm gonna go track Misa down」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nunaaah!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I get that if I do what you say, I might actually end up with Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But I still want to fight fair and square!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry, Sacchin. I know you were giving me serious advice」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And I'm about to go and betray it...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No, thanks for relying on me」"
+  },
+  {
+    "message": "There's less than two weeks left until the Holy Night Festival. All the officers are gathered in the Student Council room, pushing hard through the final stretch."
+  },
+  {
+    "message": "I've been spending my days engrossed in Demon King training, yet ironically, my duties as president went smoothly today."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mh, mmm...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Raise your hand if you'd like a refill of tea\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Me\\s07 Me, me♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "Lolotte is lively as ever. In contrast, Misa, Nanaka, and I silently raised our hands while keeping our eyes glued to our paperwork."
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my...\\s01」"
+  },
+  {
+    "message": "The second-years of the Student Council. The three of us, who are supposed to play the central roles, have become unusually quiet."
+  },
+  {
+    "message": "Thanks to that, we were able to focus on our work, and the administrative tasks for the president, vice president, and treasurer are nearly all wrapped up."
+  },
+  {
+    "message": "By tomorrow's lunch break, all the routine duties that just need to be done by the book will be completely finished."
+  },
+  {
+    "message": "The problem is what comes after. All sorts of major issues remain untouched. We won't have the excuse of staying silent anymore."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Mm」"
+  },
+  {
+    "message": "As Nanaka and I bring our teacups to our lips, we exchange a look without anyone noticing."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good work, everyone. It's a little early, but work is all dooone!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Me too♪ Putting off until tomorrow what can be done today is the key to success, you know.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「E-Everyone, haven't you finished a whole week's worth of work, let alone tomorrow's and the day after's?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then, I'm heading out. Misa, let's walk home together.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes! Onee-sama, Lolotte-san, please excuse me for leaving ahead of you.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sure, good work today.」"
+  },
+  {
+    "message": "Misa hurriedly packs away her writing utensils with terribly clumsy movements."
+  },
+  {
+    "message": "Misa's shoulders look like they've dropped a little. She must have breathed a sigh of relief at Nanaka's invitation."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Vice President and Miss Treasurer have been super buddy-buddy lately, haven't they? They're just like me and Amyrina.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I hope that's all it is, though... Misa-chan didn't say goodbye to Synn-kun just now, did she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-She just forgot by accident.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. If I'll do, I'd be happy to scold you as much as you want, though...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...You understand, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I understand」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't understand! I even mix up the kanji for 'throw away' and 'pick up' all the time. Oh, and I can't tell the difference between a wiener and a sausage either」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte, that's not what we're talking about--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's almost time for training. Please excuse me as well」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're awfully quiet today, aren't we」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Things can't stay like this between us, you know」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I think so too...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do you get what I mean?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, sort of...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's about Synn」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn actually came to me for advice yesterday. And that's when it hit me--the reason things have been so awkward between you two」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't go quiet on me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you stay silent, I'm going to take that as a 'yes' to everything, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I, well...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa, do you hate Synn?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That's... How could I...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Be honest with me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't... hate him...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then, do you love him?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...! Th-That's...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why did you turn down Synn's confession?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I... um... th-that's not... it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa, listen to me--」"
+  },
+  {
+    "message": "Goosebumps break out all over my skin at the sound of Misa stumbling over her words."
+  },
+  {
+    "message": "I'm such a horrible girl."
+  },
+  {
+    "message": "Synn jumped to conclusions, when the only reason Misa couldn't accept his confession was because of me. She didn't turn him down--she hasn't even given him an answer yet."
+  },
+  {
+    "message": "Even so, here I am trying to force Misa to say 'I hate Sakura-kun' and 'I don't like him' all over again."
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun is... well...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is what!?」"
+  },
+  {
+    "message": "Little by little, it starts getting on my nerves."
+  },
+  {
+    "message": "Though even I'm not completely sure what that irritation is aimed at. Whether it's anger toward Synn, Misa, or myself... it's all a blur."
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Calling for him won't bring Synn here. Talk to me properly!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are you dragging your feet like this? Are you holding back for my sake!? Because that's super condescending!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-Because... you're the best match for Sakura-kun, Nanaka-san...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When I found out Sakura-kun was the Demon Lord, it shocked me...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Knowing he kept it a secret the whole time... that he didn't trust me... it hurt...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But you accepted Sakura-kun as the Demon Lord right away, Nanaka-san...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Besides... Sakura-kun knows so many of your good points, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Rather than me... being with you would be much better for Sakura-kun, Nanaka-san.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Tch.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Funny thing. You're praising me, yet I'm just getting more and more pissed off.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa, are you saying that seriously?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Does staying quiet mean YES?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So it's a YES. Not just an excuse to get through the moment, but your genuine, honest-to-god true feelings?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa, I'm going to ask you one more time, okay? You don't like Synn, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Give it a rest already! My compatibility with him doesn't matter at all! Even though you clearly noticed it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn's feelings are directed at you, Misa. Even so, you're saying you have no intention of answering his feelings!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「......ngh......ngh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, really! I'll take that as a YES too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So you weren't my rival in love after all, Misa. Sorry for misunderstanding. To make up for it, I'll tell you something good」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is convinced that you rejected him, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gah!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whether you reply to him or not, it's already too late! On the other hand, I haven't been rejected yet!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since it's already over for you, Misa, I won't hold back. I'm going to confess to Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll probably get rejected, but I won't give up. I'll confess to him as many times as it takes. Because I'm never going to give up!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is way too good for someone like you. I'm going to steal him away!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「......! Ugh......hic......!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You...... huge idiot!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Uwah!? Sniff, hic......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't just give up on your own! If you're just going to sit there crying in silence, talk back to me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You hate the idea, right!? Then face me head-on and compete with me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Your rival isn't Synn, Misa--it's me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I, I...... sniff」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though you love Synn so much! Even though you love him so much you can't help it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Uuu...... sniff, hic......」"
+  },
+  {
+    "message": "That strong-willed Misa is crying in front of me like a child who's been left out."
+  },
+  {
+    "message": "A kid clinging to the last of her pride, desperately trying to hold back her tears, yet sobs and tears spill out anyway."
+  },
+  {
+    "message": "Standing right here isn't the prodigy vice president Misa, but a weak, trembling child who got separated from everyone and lost her way."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I checked with you, didn't I, Misa!?」"
+  },
+  {
+    "message": "No... I have to stop myself."
+  },
+  {
+    "message": "Blaming her any more than this is the lowest of the low."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You should've just been honest back then! Lying and saying you didn't like him--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Ngh... kh...」"
+  },
+  {
+    "message": "I'm a coward. I'm forcing Misa into silence. Since I hit the nail on the head, there's no way she can fight back."
+  },
+  {
+    "message": "Stop it already, don't say it, you mustn't say it."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even helping me out was--」"
+  },
+  {
+    "message": "I know. I know full well that Misa lied for my sake."
+  },
+  {
+    "message": "And yet--"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You were really just pretending to help me so you could drag me down!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!?」"
+  },
+  {
+    "message": "I went and said it..."
+  },
+  {
+    "name": "Misa",
+    "message": "「Why do I have to be told something like that!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-Do you know what I went through over Sakura-kun... kh... *hic*...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I never should have helped you, Nanaka-san!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I never should've asked someone like you... for help with something so important!」"
+  },
+  {
+    "message": "Misa turned her back on me and ran off toward her house, pumping her legs for all she was worth even though they looked like they might tangle and trip her at any second."
+  },
+  {
+    "message": "Sorry, Synn. I messed up big time."
+  },
+  {
+    "message": "I tried to chase after Misa, but my legs were shaking too hard to run."
+  },
+  {
+    "message": "Walking sluggishly back home, I think things over."
+  },
+  {
+    "message": "I was a coward"
+  },
+  {
+    "message": "The things I said to Misa. Every bit of it just showed how pathetic I am, didn't it?"
+  },
+  {
+    "message": "The outcome had already been decided from the very moment I asked Misa for her help."
+  },
+  {
+    "message": "I'm just a spineless wimp who couldn't do a single thing, even after Misa gave me so many chances."
+  },
+  {
+    "message": "Misa held herself back for my sake."
+  },
+  {
+    "message": "Even going so far as to kill her own feelings for Synn."
+  },
+  {
+    "message": "Still, I'm not strong enough to give up on the guy I love and back down."
+  },
+  {
+    "message": "So come on, why won't you compete with me, Misa?"
+  },
+  {
+    "message": "I thought the two of us would be honest with each other, and you'd say, 'It's a match!!' just like you always do."
+  },
+  {
+    "message": "I never meant to make you cry. That wasn't like Misa at all--I couldn't bear to watch..."
+  },
+  {
+    "message": "From the corners of my eyes, past my temples, and down the nape of my neck, droplets tickle as they trickle down."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nnh... *sniff*! *Hic*...」"
+  },
+  {
+    "message": "I'm such an idiot. What am I crying for..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nnh... *sniff*! *Hic*...」"
+  },
+  {
+    "message": "N-No good, they won't stop."
+  },
+  {
+    "message": "In the brief seconds it takes to pull out a handkerchief, the hot tears running down my cheeks are instantly chilled by the winter wind."
+  },
+  {
+    "message": "Maybe because of that coldness, I finally realized a huge oversight just now."
+  },
+  {
+    "message": "Misa has never once competed against me."
+  },
+  {
+    "message": "Misa hasn't competed against anyone else either."
+  },
+  {
+    "message": "Except for one person--Synn."
+  }
+]

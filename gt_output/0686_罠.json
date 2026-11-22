@@ -1,0 +1,519 @@
+[
+  {
+    "message": "罠"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sure what that Ardin guy is saying is true.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, he's a brute of a Demon General, but he's not the type to deceive people.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「His thought processes and behavior are far too crude, making his value as a fighting force highly questionable... However, the fact that we obtained information on Byrus is valuable.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Wha's this thing?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That white cylinder is a musical instrument from the Human World.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「When you press the top, it lets out steam and plays a sound.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Azel, is that not an electric kettle?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「P-press it? Like this?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Hot-cha-cha-cha-cha-cha!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Th-this thing is awesome! All-you-can-drink boiling water anytime, anywhere!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The boiling water is merely a byproduct of performing.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right. Figuring out how to cool that hot water down to a drinkable temperature is a major challenge in the Human World.」"
+  },
+  {
+    "message": "Apparently, Ardin had been worked to the bone by Byrus as the heavy-lifting guy, and even during his rare breaks, he was busy courting Pasta."
+  },
+  {
+    "name": "Melilot",
+    "message": "「He says Byrus suddenly gained immense power. What this fact implies is--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do Demon Generals just suddenly get stronger like that?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「While there are species among the Demons that undergo metamorphosis like insects, that likely does not apply to him in this case.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If he got stronger by molting or something, he would've been defenseless right before it. But Byrus never had a period like that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right. Even Sakura-kun's Demon King power is only possible because of his steady daily practice.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To become a true master, daily training is what matters most.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If one merely imitates superficial tricks as a shortcut, such things are nothing more than a thin veneer.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, it was enough to scare even Ardin, so I don't think it's some hastily thrown-together strength.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This does not yet go beyond speculation, however...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Whether by coincidence or by design, the power of Re-Crea may have come to dwell within Byrus.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat?! I-is something like that even possible?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Depending on the Demon General's abilities, it is possible」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't that unfair? It basically means powering up without putting in any effort yourself」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right! It's a total rip-off. It's dishonest, just like cheating on a test. Unforgivable!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm... Rather than studying, maybe it's closer to an athlete doping?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Neither one is good for the person doing it. Let's warn Virus and get him to stop」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-You are far too good-natured, Sir Synn!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if we talk to him, he definitely won't listen」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What we should be most concerned about is... the original Virus and Re-Crea. The fact that the correlation between these two remains unclear」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sniff, sniff, sniff. The scent of cat food is rapidly approaching」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why isn't it sweets? How disappointing」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Help me, nyaaaa!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-You're!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, it's Macaroni, the Waitress from Prier!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta is Pasta, nya!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, yeah, right, that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「At this rate, I won't be able to eat」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Pasta, I am disappointed in you」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Wh-Why, nya? I ran here for dear life, and you're saying such awful things to me, nya...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ran here? From where?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on, Misa. Pasta is pale as a ghost and trembling. Let's have her sit down and calm down first」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're right, I'll brew some extraordinarily delicious black tea」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Thank you, nya, human kindness really warms my heart, nya. Sniff, sob...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-How pitiful... To have the person you have a crush on go mad. *Sniffle*」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Even if Pasta's feelings of love didn't reach him, just being able to stay by Lord Virus's side made me happy, nya......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I get it, I totally get it...... *sniff*, *hic*」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「There, there~. You'll find someone nice someday too, Nana-chan~」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Even if it was just a work relationship to make Re-Crea bigger, that was fine with me, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Just having Lord Virus call Pasta's name made me so happy, nya......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-What a devoted child......」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Lord Virus is...... not the Lord Virus from back then anymore, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「He merged with the power of Re-Crea and became unbelievably strong, nya...... but...... but......!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「In exchange, Lord Virus went crazy, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「E-Even so, Pasta tried to stay with him, but......」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「But just now, Pasta got shot at with attack magic, nya! That wasn't Lord Virus at all, nya!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Such cruel treatment from the person you love...... *sob*, *hic*......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Sniffle*...... W-What a tragic love!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Here, Nana-chan, have a handkerchief~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan, I'll lend you my handkerchief, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I only have tissues on me......」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta couldn't do anything, nya, so I ran away here, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's why you were trembling, Pasta. It's no wonder after going through something like that」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Well, not quite, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「The reason Pasta was freaking out was because on the way fleeing here, some mysterious sniper with a forehead 3.5 times the size of a normal person kept shooting at me nonstop, nya」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Would that forehead happen to look like this forehead, perchance?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Yeah, just like that, nya--」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Wait, gnyaaaaaaaaah!? I'm gonna get kiiiiiilled!!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave the sniping of Milady's hostile forces to this humble butler, Riesling Tooyama」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「S-s-shiver, sh-sh-shake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Riesling-san. When you say 'enemy,' that means if Pasta becomes our ally, there's no need to shoot, right?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Indeed it does.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya? You're gonna let Pasta join you, nya?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, the Crusaders' goal is to avert Re-Crea. All we have to do is drive Re-Crea out of Virus.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyanyanya!? Could it be--if we do that, Virus-nyama will go back to normal, nya?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta will cooperate with you guys, nya. If it's to save Virus-nyama, Pasta will do anything, nya!」"
+  },
+  {
+    "message": "Pasta joined the party!"
+  },
+  {
+    "name": "Riesling",
+    "message": "「As there is no longer any need to execute Pasta-sama, I shall return to Type-B guard duty.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very much, Jiiya.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「If you will excuse me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Pasta-san, thank you for the valuable information.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Gunya!? Y-you're that obnoxious woman who was tampering with the magic circle awhile back!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I had concealed my presence in order to ascertain the truth of your story...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, thanks to this new piece of evidence, I now have certainty. Confronted with the power of Re-Crea, Virus has gone mad and is on the verge of going berserk.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, setting a trap will be a simple matter.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of trap?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「According to years of observation, we know that the nexus of the Three Realms lies at Finis Tower.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Virus is certain to appear there.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And by adapting the magic circle the Demon Generals previously deployed, we should be able to attenuate Re-Crea's power.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will begin preparations at once, so though we are in the middle of a meeting, I must take my leave.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Melilot-san left, but the Student Council room is still just as lively, isn't it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「After all, we've gained yet another ally for the Crusaders.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Just over the past two days, we've got Ardin and Pasta, huh」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya...? I-I just heard a hideous name, nya... Ardin? N-No way... I'm just hearing things, nya...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「P-P-P-P-Pasta-chan joined our party?! We really are bound by fate, aren't we?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Hinyaa?! W-Why are you here――」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「More importantly, what were you doing earlier when Pasta almost got shot with a gun, nya?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He was hiding behind the sofa. Scuttling right behind it」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Shh! Shhhhhhhh!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Y-You're the worst kind of man, nya...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now then, Synn-kun. What should we do from here today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see. There's no use worrying any further about the Virus and Re-Crea, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh my, you're surprisingly timid. I'm not even worried about things like the Virus or Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How are you so full of confidence?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph! Isn't it obvious? Because we have the Demon Lord on our side!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm still way too inexperienced, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's that?! You swore to me that you'd fight to protect my smile, didn't you!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa~, turns out Synn's actually pretty cheesy」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, you're secretly jealous though~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tehehe. That means you'll end up protecting our smiles too, right, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'll take it under advisement」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn, you sound like a worn-out salaryman saying that」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, you keep beating me, yet you act so pathetic...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I suppose it can't be helped! I'll share some of my confidence with you! If it's you, you'll definitely be fine!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed! There is no way the man whom I recognize as my elder brother could ever lose」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If anyone can save the world, it's you, Synn」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, totally. If it's Synn-kun, you can pull it off, right? Just a hunch~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mm-hm. Because Synn-kun is a boy who can do anything if he tries\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If it's you, Mr. President, it'll go off without a hitch♪」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Dunno what's going on, but if it's Prez, no problem-o」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Well, you know... do your best」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Everyone...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「See? Everyone's totally confident in you!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course they are, you're my rival, after all. Written as 'worthy opponent' and read as 'rival'! Don't you forget it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah!」"
+  }
+]

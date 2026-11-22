@@ -1,0 +1,734 @@
+[
+  {
+    "message": "越後屋は誰だ!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「For the Manga Research Society and the Light Music Club, it's a refund of club funds and three months of volunteer work for the ringleaders」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the Gardening Club settled on a full refund of their club funds, plus providing their harvested fruits and vegetables to the academy during the school festival...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To think they were secretly cultivating matsutake and king oyster mushrooms to turn a profit... how shocking」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm just glad we caught it before some bizarre bacteria leaked out of the lab and turned the academy into a zombie nest」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You'd be dead meat long before any zombies showed up」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I really didn't think any of the students would do anything dishonest, so this is a shock」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Unlike angels, humans are inherently wicked, though still better than Demons」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, I'd say angels are plenty full of poison in their own subtle way」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「M-Mr. Panda! P-Please stop spouting nonsense as if you actually know any angels!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, the Gardening Club only started turning a profit this year, right? None of this is your fault, Senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I wonder...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai, what was last year's treasurer like?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She was a certified public accountant's daughter who was great with numbers, someone you could completely trust with the books」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If she's someone you vouched for as trustworthy, Ria-senpai, then there's nothing to worry about」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're right. Silly me, the Student Council isn't mine alone, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That was a sigh big enough to swallow a hippo. Did you make a mistake or something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, n-no. I don't think so. I took everything home yesterday and checked it all properly with an abacus」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What? Why are you looking at me like I'm some rare beast?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...I'm just surprised that appearances really can be deceiving」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Not being able to just admit you're impressed is classic for a hysterical chick who stirs up trouble and makes everything prickly」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I only did what anyone would do. It's a job that deals with money, so being extra careful is just common sense, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「With you like this, this year's accounting will be in good hands.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka has always been reliable, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ehehe. Flattering me won't get you anything, you know... *Sigh*...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could it be... Nanaka-san, are you still hung up on that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Something just feels off about it...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That was settled yesterday, wasn't it? If you want to be promoted from a society to an official club, you have to steadily build up a track record and earn that promotion.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You can't just eat all the time. Those who do not work shall not eat.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even though those guys do nothing but eat at Prier too...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Dumplings over flowers, indeed.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, the Wagashi Club is effectively a society too, so aren't they on the same footing as your Sweets Society, Nanaka-san?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, even if they got demoted to a society, there's no chance the Sweets Society would become an official club with a budget... Oh, wait, what about the Gardening Club's budget...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was a fool for almost thinking better of you\\s10」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like she said, you can't get promoted without actual club activities.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat?! Don't make it sound like we haven't accomplished anything at all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whenever we hear a new Western pastry shop opened to the east, we're the first ones rushing over--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And whenever we hear a new menu item appeared to the west, we immediately take on the challenge with iron stomachs, never leaving a single crumb, always--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really do just eat all the time.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh... B-But even those guys in the Wagashi Club were buying such expensive sweets at Prier and showing them off... Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I knew it, something's fishy! Something's going on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm gonna go check at Prier!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I knew it...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「? Treasurer, what is it that you 'knew'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What did you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Whoa! Why are you here, Synn?! Wait, Misa too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's my line」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shh, keep it down. It'll be bad if they notice us before we get the evidence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Evidence?」"
+  },
+  {
+    "message": "Sitting at a table a short distance from the shadow of the pillar where we were hiding, Misasagi-senpai and the members of the 'Wagashi Club' were chatting happily while drinking sencha."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To me, the Wagashi Club members only look like they are eating sweets」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, buying that many different kinds must cost quite a bit...」"
+  },
+  {
+    "message": "All of the wagashi were tiny, compact like intricate handicrafts, and so pretty it almost felt like a waste to eat them."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If they bought them, sure」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Never mind buying or not buying, Prier doesn't even have wagashi on the menu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat. Then does that mean those are being specially made for them?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is favoritism」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is going on? Are they using Prier for their own private purposes? Even though this place is funded by our tuition...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If they're being allowed special treatment like that, this goes way beyond club budget issues」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's corruption, pure corruption. But since when? And how?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...We'd probably find out if we asked Bubuzuke directly, wouldn't we?」"
+  },
+  {
+    "message": "I looked over toward Misasagi-senpai."
+  },
+  {
+    "message": "With a thoroughly satisfied look on his face, Senpai"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Not bad at all」"
+  },
+  {
+    "message": "muttered."
+  },
+  {
+    "name": "Ria",
+    "message": "「Welcome ba~ck」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? Everyone's looking pretty gloomy……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah, no……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……Witnessing an act of fraud firsthand really leaves a bad taste in one's mouth, doesn't it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eeeh!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It's the Wagashi Club, if you please」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's unlocked, so come on in」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why is she here again?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Pardon the intrusion」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, um. Sorry to make you come all this way right after yesterday. Please, have a seat over there」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Then I won't hold back and will gladly take a seat」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh dear me. The atmosphere is even more tense than yesterday, isn't it. I'm really not too fond of this sort of thing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I would've preferred something way more lighthearted too」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「So, what might this be about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Your club isn't cooking the books…… but you are pulling some shady stunts at Prier, aren't you」"
+  },
+  {
+    "message": "Misasagi-senpai snapped open her folding fan with a sharp flick."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now I wonder…… whatever could you mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I've thought it was weird for a while now. You guys gorge yourselves on expensive wagashi at Prier, and I always wondered where on earth that money was coming from. Makes total sense if you're eating for free, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「As I told you yesterday as well. It's not for free」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't lie. You didn't pay a single cent」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. That is certainly true」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How are you tricking the staff at Prier? I want to eat them too, so please tell me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's a Student Council officer doing wanting to commit fraud?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Haa... Madam President. Your officers really lack proper training」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, she just took the position」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, why are you two having such a casual chat! First of all, Prier doesn't even sell Japanese sweets」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How are only you people getting your hands on things they don't sell?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It sure is mysterious how things that don't exist are right here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't just brush it off as mysterious!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh dear. We're not doing anything crooked, you know. We're just cooperating with the academy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's an accomplice to misconduct within the academy!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So there's a crooked merchant behind this!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「No, no. There's talk of adding Japanese sweets to Prier's menu, see. So they decided to make something that'll please the customers as a proper product」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「And to improve the flavor, we simply happened to be chosen as the taste-testers. That's the honest truth」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so that's what it was」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Truly, truly」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, don't just buy that! Even when they added more Western sweets to the menu, no taste-testing offer ever came our way」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's just because your antenna has poor reception, so you can't catch these opportunities. If you keep thinking so negatively all the time, you'll burst a blood vessel in your brain」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not falling for that. Prier is funded by tuition, so naturally, the cost of those ingredients comes out of our money」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if it's for taste-testing, there's no way a select group should get special treatment to gobble it all up for free」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even so, we just caught wind that Prier was looking for students to do taste-testing and pitched ourselves to them, so don't go blaming us so meanly」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If you heard the same rumor about Western sweets, wouldn't you pitch yourselves too? We're both food-related clubs, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't change the subject. Besides, when it comes to clubs that go in and out of Prier, the Cooking Research Society is at the top of the list, so taste-testing offers should go to them first. At least, that's how it's always been until now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin said so」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I see. Sacchin was in that club last year, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Though Sacchin only specialized in eating」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As expected of Nanaka-san's friend」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...My club and yours basically just eat, we don't have those kinds of connections at all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So why is it that this time, of all times, the offer went to you guys instead of the Cooking Research Club」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Render unto Caesar what is Caesar's, and unto Japanese sweets what is Japanese sweets'--somethin' like that, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do you know someone on the Prier staff?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Who knows? That's a trade secret」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you don't have a guilty conscience, couldn't you at least give me a name?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Since I don't have a guilty conscience, there's no need to give a name, is there?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This feels just like a suspense drama. My heart's pounding」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Listen. You guys are the ones under suspicion! It's not like I hate you or anything!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You might have the wrong idea, but even if I knocked you guys down, it's not like our society could get promoted to an official club anyway」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh, it couldn't?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, it couldn't!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Then you don't even need to know, do ya」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I just want to make sure there's no foul play! As long as you tell me who your source is, I don't intend to do anything beyond that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As treasurer, I just want to be satisfied with the explanation. You can at least give me a name, right」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if you only tell me, that's fine. I'll keep it a secret. If there really wasn't any foul play, I won't tell anyone」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You can't just decide that on your own--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's fine with me. As long as it proves there's no foul play」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Whew...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Um, Nanaka-chan. About this--」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Stay quiet, Lia」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No. It's fine now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You see, Nanaka-chan. The one who asked Prier to put Japanese sweets on the menu was, um... me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ehh?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, as president, I'd go talk to the folks at Prier about once every three months to pass along requests from the students」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And then, when I casually let slip that since they have Western sweets, it'd be nice to have Japanese sweets too, they decided to go ahead with it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Why are you bringing this up now? Or rather, there wasn't really any need to hide it in the first place」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I told ya that you didn't have to say anything, Ria. Honestly, what am I gonna do with you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Um... I'm afraid I can't quite follow the conversation」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ya see, until Ria became Student Council president, she was a member of our Wagashi Club」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Thing is, this girl is way too serious for her own good. She said that once she became president, she couldn't belong to any specific club, and went and quit」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not an actual rule or anything. I just thought that since I became president, having ties to one specific club might look bad. You have to draw the line somewhere」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get it, Senpai. It's just like how I quit my milk delivery job」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pretty sure that's different」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, loving wagashi is just her personal taste, so that couldn't be helped. That's why, when Prier reached out to us, it clicked right away that Ria had put in a word for us」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Given her position, she did it on the sly, so I figured thanking her openly would put her in a tough spot and kept quiet about it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I should have told you sooner... I'm sorry, Nanaka-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, does that somehow make me the bad guy?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't know, so it can't be helped」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Next time I meet with the people from Prier, I'll ask them to leave the taste-testing for new Western sweets to the \"Sweets Club\"」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... That's Lord Synn for you. He sure knows the choices that make a woman happy」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「He's quite a fine president, isn't he? No wonder Ria's always talking about him」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're always talking about him?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm not always talking about him\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'd say we talk quite a bit, wouldn't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Do we... really?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, I believe our business is concluded... Now, might I take my leave?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Everything is clear. Apologies for calling you out all this way」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Think nothing of it, that is your duty, after all. Terribly sorry for the intrusion」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Nanaka. Forgive me for putting you through the trouble」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's nothing... It's my job」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You, my dear. I'm quite certain you'll make a fine treasurer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even I don't always speak in riddles, you know. What I just said is the honest truth」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Thank you. Still, I'd rather you didn't cause me any more trouble」"
+  },
+  {
+    "message": "Misasagi-senpai gave a small laugh."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「One more thing. The next time you come to Prier, instead of hiding in the shadows, do come join us at our table. You'll be most welcome. Prier's sweets aren't half bad, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Just as I thought. You really do have a nasty streak」"
+  }
+]

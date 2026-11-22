@@ -1,0 +1,193 @@
+[
+  {
+    "message": "紫央ちゃんの可能性"
+  },
+  {
+    "message": "Shio-chan helped me out with a lot of things during KiraFes, too. I asked Misa to pass along my thanks, but I really want to thank her face-to-face."
+  },
+  {
+    "message": "I wonder if she's at the shrine today?"
+  },
+  {
+    "name": "Shio",
+    "message": "「May your prayers be answered.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Thank you.」"
+  },
+  {
+    "message": "When I finished climbing the stairs of the shrine approach, Shio-chan and Riesling-san were deep in conversation under the eaves of the shrine office."
+  },
+  {
+    "name": "Shio",
+    "message": "「To purchase a wild boar piglet charm--could it be that Sir Butler was born in the Year of the Boar?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No, it is a souvenir for the young mistress.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm... Tontoro and a wild boar are quite similar, after all. That being the case, Sir Butler, would you care to duel with me?」"
+  },
+  {
+    "message": "...What kind of reasoning is that?"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I said it! I managed to steer the conversation completely naturally! Now my match with Sir Butler shall come to pass!」"
+  },
+  {
+    "message": "It couldn't have been more unnatural and out of nowhere, though..."
+  },
+  {
+    "message": "Shio-chan's head must be completely full of thoughts about having a match with Riesling-san. She hasn't noticed my arrival."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then, please excuse me.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-Why are you leaving?!」"
+  },
+  {
+    "message": "Probably because he finished his business here."
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Butler, do you possess the courage to cross blades with me?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I do not.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「U-Um... When you say it that bluntly, I'm left with no follow-up...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am humbled.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Agh, I shall no longer resort to such roundabout methods!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I can tell that Sir Butler is a warrior of considerable skill! Please, train with me!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「They say kendo is worth three dan ranks, yet in my opinion, the naginata is worth nine! I shall prove that I can fight Sir Butler on equal footing!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Presumptuous though it may be, I, Riesling Toyama, hold no dan rank. If a ranked martial artist were to strike down an amateur, it would put them at a disadvantage in a criminal court.」"
+  },
+  {
+    "message": "I-Is it just me, or is he saying something pretty scary?"
+  },
+  {
+    "name": "Shio",
+    "message": "「Forgive this surprise attack!! Hyah, yah!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Guhhh?!」"
+  },
+  {
+    "message": "W-What was that just now? It was so fast I had no idea what happened."
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「T-That is foul play, Sir Jiiya! Dropping to the ground out of nowhere to sweep my legs!!」"
+  },
+  {
+    "message": "Though I'm not sure Shio-chan is one to talk, considering she attacked out of nowhere too."
+  },
+  {
+    "name": "Riesling",
+    "message": "「It is just as you say. With that tactic, I doubt I would ever be able to best you again, Lady Shio.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-Wait a moment. Do you mean to say there will be no second time? I wish to train even more!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「There is no need to rush so. From here on, you have the potential to become anything you wish, Lady Shio.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My path is already set as the exorcist shrine maiden of the Asukai!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I do not know what sort of weight the Asukai headship carries. However...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「What in this world is ever constant? The Asuka River--yesterday's deep pools become today's shallows.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Jiiya...?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please excuse me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, that's deep.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Sir Synn, how long have you been standing there!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「N-No, more importantly, what in the world was that poem Sir Jiiya recited?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan? If you just paid normal attention in classical literature class, you'd know...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I-I know that much, of course! As expected of Sir Jiiya! I am thoroughly impressed!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, the interpretation is that the Asuka River's current--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-Hold your tongue! Did I not just declare that I already know!!」"
+  },
+  {
+    "message": "Forcefully convincing her that this counts as thanks for KiraFes, I explain the poem."
+  },
+  {
+    "message": "...Troublingly, this only ended up making Shio-chan admire Riesling-san even more as a martial artist."
+  }
+]

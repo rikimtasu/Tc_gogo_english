@@ -1,0 +1,328 @@
+[
+  {
+    "message": "赤いもの"
+  },
+  {
+    "message": "The grass and trees rustle softly in the breeze blowing in from the sea. A plaza on high ground, surrounded by lush foliage."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, when this sea breeze blows... it's almost that time, isn't it.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Time for what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That would be--」"
+  },
+  {
+    "name": "Voice",
+    "message": "「Ah...!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Phew... Oh, it's just you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey there. Are you meeting up with someone?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I am not waiting for Lolotte or anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, really?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte wanted to become friends with you, Azel, so she often came to see you with sweets in hand, right? And didn't the two of you chat together?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wrong. I was merely followed around one-sidedly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-umm, even after you become friends, you can still get along just like you have been, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm telling you that's wrong」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Lolotte had become estranged from her companions and was looking for a way to reconcile with them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, just a moment ago, she came to report that she had successfully made up with them」"
+  },
+  {
+    "message": "Could it be about Amyrina?"
+  },
+  {
+    "name": "Azel",
+    "message": "「If Lolotte comes to see me right now, it would mean their relationship has fallen apart again」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "message": "A warm, fuzzy feeling washes over me. Azel really cares about Lolotte in his own way, doesn't he."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, maybe Lolotte will bring that girl along and come invite you out, Azel? The more friends, the better, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that how it works?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's right」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Should I go call Lolotte?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then what are you doing out here, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I told you to shut up」"
+  },
+  {
+    "name": "Azel",
+    "message": "「From this moment on, I shall commence the consumption of Vandine Jelly right here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-oh, your favorite jelly that you're always eating, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes, and no. I do not particularly like it. It is purely for rational nutrient intake」"
+  },
+  {
+    "name": "Azel",
+    "message": "「While eating, my mouth will be occupied, rendering conversation with you impossible」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mgh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "message": "Before even finishing half of it, Azel pulls his mouth away from the jelly. It doesn't seem like he's just catching his breath."
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not understand」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I heard that eating while in this mental state makes food taste better than usual」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yet it tastes the same」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe you're just tired of eating it? It's always the exact same jelly, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Impossible. They are not the same」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Vandine Vitamin Jelly: Grape Flavor, Vandine Fiber Jelly: Muscat Flavor」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Vandine Energy Jelly: Red Grape Flavor, Vandine Collagen Jelly: White Grape Flavor, Vandine Mineral Jelly: Seedless Grape Flavor」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「With such an abundant variety, growing tired of them is out of the question」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Jelly is still jelly, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「More importantly, how about some raspberries? They're growing around here right about now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is a raspberry?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Rather than explaining, it'd probably be quicker to just have you eat one」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Around here... found one!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you saying that red thing composed of small spherical objects irregularly bonded together is delicious?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think there's a bit of a misunderstanding... The shape and color don't matter」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There are lots of different kinds of raspberries, so depending on the season, yellow ones grow too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you saying that red and yellow things composed of small spherical objects irregularly bonded together are delicious?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'll know whether it's good or not once you eat it. Here, say 'aah'」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I can eat it myself!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「*Chomp*」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mm... hmm? Is this sensation... what it means to be delicious?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't answer that for you. Everyone has their own tastes」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I wish to eat more to verify. Where are the raspberries?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh... Don't rush, we have to search steadily」"
+  },
+  {
+    "message": "It's a hidden gem of a spot. Several students seem to have visited already, leaving the surroundings looking like an old path covered in tree roots and leaves."
+  },
+  {
+    "name": "Synn",
+    "message": "「If we go into those thickets over there, there's plenty growing, but the raspberry stems have lots of thorns, so it's dangerous」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Understood. Over there, then」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, it's dangerous!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If I watch out for the thorns, there will be no issue」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why is Tontoro in a place like this!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Come to think of it, Lolotte left it behind earlier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't believe she'd let Tontoro out of her sight!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is only temporary」"
+  },
+  {
+    "name": "Azel",
+    "message": "「He declared he'd pick both hands full of red things to celebrate making up, and went into the bushes」"
+  },
+  {
+    "message": "From inside the bushes, an arrow with Scotch tape tied to it comes flying out and pierces the ground."
+  },
+  {
+    "message": "Lolotte will be safe. As long as Riesling is with her, there's no way she'll get hurt by any thorns."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, how about we fix it? While eating some of the raspberries around here.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Understood.」"
+  },
+  {
+    "message": "By the time Tontoro was restored to its original shape, Azel had eaten more than ten raspberries."
+  },
+  {
+    "message": "However, it seemed he couldn't quite be sure whether they were good or not."
+  }
+]

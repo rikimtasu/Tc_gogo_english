@@ -1,0 +1,383 @@
+[
+  {
+    "message": "パスワードは語る"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa! Why are you already awake and getting ready for school?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't wake up--I never went to sleep」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My plan to stare at your sleeping face to my heart's content and then beat you awake is totally ruined!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're sure lively first thing in the morning」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you here so early?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Actually, I couldn't sleep either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, what I was worried about was you, though...」"
+  },
+  {
+    "message": "Nanaka gazed intently at my face."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You've made up your mind」"
+  },
+  {
+    "message": "She seemed to figure it out from the fact that I wasn't looking down."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You too, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah. Same as you, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If I hadn't, you'd definitely have a terrible look on your face right now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, why did you come so early in the morning, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I've got something I want to show you」"
+  },
+  {
+    "message": "The startup chime of a laptop echoes through the Student Council room, where the cold winter air hangs completely still."
+  },
+  {
+    "name": "Synn",
+    "message": "「What is it you wanted to show me?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on a sec」"
+  },
+  {
+    "message": "Working the mouse, Nanaka clicks on a folder containing the photos Azel selected for the Holy Night Festival exhibition."
+  },
+  {
+    "message": "A small window pops up prompting for a password."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What I want to show you is the password」"
+  },
+  {
+    "message": "Accompanied by the brisk clatter of the keyboard, the word typed in was--"
+  },
+  {
+    "message": "『ＳＡＫＵＲＡＳＹＮＮ』"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "When Nanaka clicked \"Enter,\" the folder opened, displaying thumbnails of photos Azel had taken of the entire student body."
+  },
+  {
+    "message": "For some reason, my cheeks grew hot."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well. That's how it is」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no way a girl who'd destroy the world could ever fall for you, Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if it ticks me off to admit it as a former rival」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So that's how it was...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Ria-senpai?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A situation like this is kind of maidenly and nice\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even Misa?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm. If it's the president's name, she certainly wouldn't forget it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're missing the point」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone, how long have you been there?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I thought Synn-kun might be worried and come in early this morning. As your upperclassman, I had to be here to hear you out」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Looks like there was nothing to worry about, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I came because I wanted to hurry and tell everyone that there's nothing to worry about!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's not like I was worried about Sakura-kun or anything」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's just that I thought if things stayed like this, it would interfere with preparations for the Holy Night Festival, so we needed to hold an early-morning meeting」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's all! That's the only reason!」"
+  },
+  {
+    "message": "Without even needing a meeting, everyone seemed to have reached the exact same conclusion."
+  },
+  {
+    "message": "Still, saying it out loud felt way too much like a cheesy youth drama, making it a little embarrassing."
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, Nanaka, how did you figure it out?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh... W-Well, you know, uh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, just take a hint already!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're way too dense!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I really can't defend this one」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's because there's no worry of forgetting it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I bet Soba uses this for her home computer password too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-How do you know that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Bullseye」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Narga!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oops, I can't just stand around like this! I have something I must tell everyone! It's a revelation from God!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yesterday I got swept up in the serious atmosphere of the three older women and couldn't talk back, but」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「S-She's a brave one...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When I was taking a bubbly bath at home, maybe I was thinking too hard, because I fell asleep and got dizzy from the heat」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At that moment, God emerged from the bubbles」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What kind of god?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They were radiating light from behind their head, wearing bright red clothes and a red turban, doing a yoga pose on a lotus pedestal, and riding a treasure ship pulled by reindeer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Where on earth is that god from?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「God said, 'Everyone get along, okay?'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When I woke up with a start, I was in my bed. Since I'm a good girl, God must have carried me there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wasn't that just Riesling?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even Azel must have been taught that God said everyone should get along」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So any god trying to make Azel and us fight is a liar. They definitely aren't God at all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why there's no need to play along with some con artist's scheme!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're right. Azel's our friend, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right! I will never fight!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No matter how much a power-hungry vice president threatens me, I won't attack Azel!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How rude! Even I wouldn't say something like that!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Azel looked so pained when she realized she had been attacking us!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's no way someone like that could destroy the world. That's all there is to it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides. Even if we forced ourselves to go along with it and attacked Azel... we wouldn't be able to do it properly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That goes for Azel too」"
+  },
+  {
+    "message": "I looked at the photos Azel had taken."
+  },
+  {
+    "name": "Synn",
+    "message": "「Because Azel has come to know who we are」"
+  },
+  {
+    "message": "Is it naive?"
+  },
+  {
+    "message": "Is it too naive a thought when we're trying to save the world?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come to think of it, the Virus is still around, isn't it. I wonder if it'll come?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It isn't our friend, so let's defeat it!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'd say it counts as part of everyone, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, we're all agreed on not attacking Azel, right? What do we do after that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We're going to confirm that we can't fight, aren't we?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... for starters, I'll ask her to dance」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, got it. How passionate. Starting to feel stupid for worrying about it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And if she turns you down, it's the end of the world, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「P-Please don't put that kind of pressure on me」"
+  }
+]

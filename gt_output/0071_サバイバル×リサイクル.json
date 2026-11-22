@@ -1,0 +1,999 @@
+[
+  {
+    "message": "サバイバル×リサイクル"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah... hah...」"
+  },
+  {
+    "message": "Why am I suddenly so exhausted."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I grew up downtown, so whenever I see a handcart, I just can't help wanting to ride it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It was kind of wobbly and scary, but it's fun\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, you're not children anymore...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You were looking at us pretty enviously though」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I was not...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai was sucking her thumb in envy too, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eeeh!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Surely you aren't going to say your thumb just tasted delicious?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I wasn't envious at all! I'm everyone's senpai, after all!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As expected of you, Sister...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Holding back all the time isn't good for your health. It's written that stress shortens your lifespan」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That sounds serious. Then I'll have him give me a ride on the way back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Give me a break」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll surely be tough since Senpai is heavy~」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh... Lolo-chan... wh-what a terrifying thing to say...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, the size of her boobs is completely different from ours, isn't it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's way too rude, Lolotte-san!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is it? Apparently boobs are called a barometer of a woman's charm. I'm truly envious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Reading that guidebook again?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. However, it also says that having big boobs makes them heavy and hard to deal with」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In short, Roro-chan wants to be like Ria-senpai」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. She's my role model ♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Geez, just say that from the start. Words like 'heavy' or 'fat' are totally taboo when talking to a girl」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so! How rude of me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No, it's fine, aha, ahaha...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even if they're heavy, Ria-chan is still the absolute best!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Piston!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「M-More importantly, we're supposed to be collecting unwanted items!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh no, that's right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see, where should we start first?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, over there, over there!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Over there!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, where?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ponpoko... is that a toy shop?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Tame-san's place」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Tame-san... is he an acquaintance of yours?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Old man Tamekage. Commonly known as Tame-san's toy shop, 'Ponpoko'」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hey, welcome! --Wait, what the heck. It's just you again, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's harsh, Tame-san. I mean, sure, I don't have any money on me, but still」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're here on Student Council business. We came to collect unwanted items to sell at a bazaar」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Coming here for that means you've got a good eye」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because the sign clearly says 'Recycle'!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could it be that they recycle toys here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tame-san also runs a thrift shop, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Which is why Synn, being the junk lover he is, is a regular here」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Collecting unwanted items to reuse them is just so wonderful~♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, if a thrift shop just hands over its secondhand goods, wouldn't that put them out of business?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. Maybe so」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is no laughing matter. We cannot force hardship upon those who cooperate with us」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine, really. Look, check out the price tag」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zero…… yen? It's completely free!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nowadays it even costs money just to throw away trash, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And that's what Tame-san took advantage of」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I see. Since he gets them for free, he sells them for free」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「And if folks buy some toys while they're at it, then everybody wins」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh--. I had no idea a shop like this existed--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka and I got a lot of help from him last year too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm. In that case, since we'll need heaps and heaps more this year――」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Excuse meeee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, looks like she's jumping right into negotiations」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Can I…… try playing with this!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Thud*」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Ah, this one's quite the wild bronco, though…… Are you sure about that, little lady?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's just what I want!」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hahaha, I like your spirit. Go right ahead and play for a full 30 minutes until your hips give out」"
+  },
+  {
+    "message": "As soon as Lolotte straddled the shady machine, Tame-san flipped the switch."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawawawawawa」"
+  },
+  {
+    "message": "It was a piece of exercise equipment called the \"Rodeo CAMP 3.\""
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauuuuuuu」"
+  },
+  {
+    "message": "Shaking up and down, side to side, and tracing figure-eights, Lolotte's entire body bounced wildly atop the machine."
+  },
+  {
+    "message": "Gulp."
+  },
+  {
+    "message": "She might not be as big as Senpai, but Lolotte definitely has enough up top to bounce around nicely."
+  },
+  {
+    "message": "M-My heart's starting to race a little."
+  },
+  {
+    "message": "No, no! I shouldn't be thinking perverted thoughts..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I-I-I can't take any more~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Watch out!」"
+  },
+  {
+    "message": "The instant she nearly got bucked off, I caught Lolotte in my arms."
+  },
+  {
+    "message": "Her soft, fluffy body came fluttering right into my embrace."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haa... haa...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Are you okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I came in just three minutes... My head is spinning, Mr. President...」"
+  },
+  {
+    "message": "Letting out hot, steamy breaths, Lolotte wrapped her arms around my neck and clung to me."
+  },
+  {
+    "message": "Our skin pressed relentlessly close together. H-How bold can she get...?!"
+  },
+  {
+    "message": "Bad, bad, if anyone else sees us like this--"
+  },
+  {
+    "name": "Misa",
+    "message": "「This ornament is so lovely and stylish--are you sure it's okay for me to take it for free!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aah~~ this New Year's tea ceremony set. I really want it, maybe I'll secretly buy it at the bazaar」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tame-saaan! What's supposed to be 'fully automatic' about this fully automatic DVD player?! I bet you got stuck with a dud!」"
+  },
+  {
+    "message": "Phew... Everyone seems completely absorbed in rummaging through the junk."
+  },
+  {
+    "message": "Even so, I can't just stand here locked in an embrace with Lolotte forever."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz, zzz」"
+  },
+  {
+    "message": "She's asleep..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. Hey, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Flinch*!! Oh, I'm so sorry. It just felt so good I couldn't help myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?! F-Felt so good...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This really isn't the time to be dozing off in a place like this. Hup」"
+  },
+  {
+    "message": "She hopped down lightly onto her feet."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very much, Mr. President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... no, not at all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, Mr. Toy Shop Owner. May we borrow some of your unwanted items for the Charity Bazaar?」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Yeah, take whatever you want, you thieves!」"
+  },
+  {
+    "message": "So generous, as always."
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Just make sure you properly dispose of anything that doesn't sell, got it?」"
+  },
+  {
+    "message": "So shrewd, as always."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's pick out things that look like they'll sell so we don't get stuck with leftover stock」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So opportunistic, as always」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Things that look like they'll sell, right? This 'Super Arabian Washing Machine' looks quite interesting!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How are you even supposed to use that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Fuel-Efficient Thread Clippers,' huh... I'm getting a real bargain vibe from this」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They don't need fuel in the first place!! That's way too dangerous!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「First... this one, and this one. Come, come, draw near--just kidding」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A 'Cushion PC'?! I-Is this one of those personal computers that are all the rage right now?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Reversible Headphones,' huh... With these, I might be able to enjoy some deep, heavy sound」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look, that's all well and good, but... no matter how you look at it, this is all dead stock\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmm... I can't let myself lose either!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even you, Misa?! In that case, I'm hunting for gag material too!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura―kun―this is a contest!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoever gets the biggest laugh wins, right?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hey, stop fooling around」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A playful spirit is important too, but please take this a little more seriously」"
+  },
+  {
+    "name": "Misa & Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aah~. Everything here is full of things I want. Oh well, toss 'em all in!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It says 'Reusable All-Purpose Eraser'! Now this is terrifying!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「『Plushie-Style Bicycle』... How adorable\\s04」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Whoa! Super-rare 『Plushie-Style Bicycle』 spotted!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, no you don't. We had our eyes on that first」"
+  },
+  {
+    "name": "Girl",
+    "message": "「At a bargain like this, it's 『All-You-Can-Eat-or-DIE!』 beef bowls anytime」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No. This is an important item we're putting in the bazaar」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Mister! Gimme this!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Listen to what people are saying!!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「What're you talking about, for a stupid angel」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wha--! How dreadful!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Listen up. This thing is guaranteed to sell out even on Demon World Mail-Order!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's not a valid excuse!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Secured!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I told you, no!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now. Something like that isn't a big deal, is it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President...」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Hmph. I take it you're basically this girl's Oyabin, big bro?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oyabin...?」"
+  },
+  {
+    "name": "Girl",
+    "message": "「When the Oyabin doesn't keep things tight, the minions turn out pathetic!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-Pathetic?!」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Unlike her, I'm Super Minion Unit 1, super-trusted by my Oyabin」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte isn't a minion, she's a fellow member of the Student Council」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-What is it? Staring at someone like that...」"
+  },
+  {
+    "name": "Girl",
+    "message": "「No way!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... now, now. We got them shared with us for free too, so just one is totally fine, right?\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...That is true. With a heart wider than the surface area of a sheet of origami, I shall forgive you.」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Yay, thank youuu!」"
+  },
+  {
+    "message": "The girl lunged at Lolotte."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kyaa」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Gah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aaaah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What, what!? What happened, what happened?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-Tontoro is... My Tontoro is~~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A huge pile of 500-yen coins!? S-So much money... aah~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn! Calm down, get a hold of yourself!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh no, we have to pick them up quickly\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mr. Piggy has been reduced to a dreadful state...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Euuh...」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Hey, it's not my fault! It's your fault for not holding onto it properly!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me, young lady. Isn't that an awful way to talk?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's with that infuriating way of addressing me?! I have a proper cute name, 'Sally-chan,' you know!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally-chan. I know you didn't mean to, but Lolotte-chan is really sad, so...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I-I-I-I don't care one bit about that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, she was holding onto it like it was her most prized possession, saying how precious it was.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uuuh~~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「One piece of Tontoro, two pieces, three pieces...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go, Lolotte-chan. For now, here's the money」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「One coin, two coins, three coins」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah――!! No, no, this is no time to be passing out!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We've already cleaned up the 500-yen coins, so it's fine.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Synn. Lolotte is in a pretty bad state right now...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「At this rate, she might never recover.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hrmmm... Even if it was an accident, it's still a fact that you broke Lolotte's piggy bank...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ugh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think if you apologize, it'll at least cheer Lolotte up a bit, you know?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uh, um... well... s-s-s-s, sor... sor--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uggggh... No, I won't do it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why not!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You're just gonna pulverize my delicate maiden heart like that, and then when I'm all dizzy and weak, you're all gonna gang up and bully me, aren't you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's what was going on!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As if!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmph. I don't trust any of you. The only ones I can trust are the Boss and his merry gang!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gang?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh! Speak of the devil, here they come!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, that's...!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mochimochi!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Jangara!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Tinun!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「All together now――」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Delicious Food Squad♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-Demons!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh my. They're the ones who were eating meat buns at the Five-Star Restaurant earlier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You remember them well, even though they all look pretty much the same」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aaah! Could it be, the 'Student Council' Mochimochi was talking about is......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Us?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Probably. Wait, demons actually have names?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Running into you here is your bad luck! Now is the time to avenge my comrades' humiliation!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Humiliation? All we did was warn them」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eh, really? Wawah! I just talked all big and tough, what do I do!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Though, maybe we punished them just a biiit too much」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aha, I knew it!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, it's your guys' fault, isn't it. Eating meat buns when you didn't even have any money」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Meat buns? What are you talking about?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You were eating them earlier, weren't you. Looking like you were really enjoying them」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I didn't eat any!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aah, they ran away! Hey, what's going on here!? Explain yourselves properlyyy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa! And straight into betrayal」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I feel a little bad for her\\s02」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heyyy!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Little imp. Fighting among comrades is no good, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kyaa! I'm not a little imp! I'm Sally! The demon girl who makes even crying kids dance\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The people of old once said: Be fruitful and multiply with your neighbors」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Love one another, right\\s01」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You say 'neighbor,' but the guy right next to you is that dude! Why don't you multiply and have kids with him~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Me and Lolotte..."
+  },
+  {
+    "name": "Synn",
+    "message": "Hmph!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All things with form will break someday. Forget about Tontoro.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay, thanks~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, fighting with your close friends is not good.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Well, they ate a meat bun behind my back!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so, just smile. Let's forgive them. Right, everyone?」"
+  },
+  {
+    "message": "Why isn't anyone making eye contact with Lolotte?!"
+  },
+  {
+    "name": "Sally",
+    "message": "「Even if you say that, I'm neeever forgiving what can't be forgiven!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If that's all it takes, then your little imp organization isn't much to speak of.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hoho! Don't underestimate the unity of my 'Delicious Food Squad♪'!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, did they already make up?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Feels like the conversation is wrapping up in a weird direction...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For now, let's just accept our fate.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Come on! Fight us fair and square, Student Council!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Talk about a sudden turn of events!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Very well. Let us settle once and for all... which side gets along better!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Safety!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「C-Certainty?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Leave your sparkling school life to the Ryuusei Crusaders!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... High yield.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady. Humble though my abilities may be, I, Riesling Tohyama, shall lend my aid.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "message": "View the battle tutorial \"Beware of EX Attacks\"?"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ７_EASY"
+  },
+  {
+    "message": "ステージ７_HARD"
+  },
+  {
+    "message": "ステージ７_NORMAL"
+  }
+]

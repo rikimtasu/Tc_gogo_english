@@ -1,0 +1,273 @@
+[
+  {
+    "message": "タヌキの世界"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! Over there, isn't that--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel, good work out there!」"
+  },
+  {
+    "message": "On my way to the Student Council room, I call out to Azel, who is staring blankly at the school building."
+  },
+  {
+    "message": "Unlike plain rectangular boxes, from the Ereto Dorm to the Auroiaere Dorm, Ryuusei Academy is full of buildings you never get tired of looking at."
+  },
+  {
+    "name": "Azel",
+    "message": "「...? I am not tired.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I mean, good job with KiraFes!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I will say it again. I am not tired.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, it's just a greeting, I swear!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Incomprehensible.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This building is even stranger. Why have the decorations vanished?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C―Could you be talking about the KiraFes decorations? Those were taken down on Saturday―」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Saturday was loud.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W―Well, that's because KiraFes was―」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Sunday was quiet.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This building's exterior changed completely on Saturday alone, yet its fundamental structure remains the same. I surmise it is akin to the changing of the four seasons?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aha, ahaha!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you laugh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry, ahahahaha, hahaha!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I did not ask for an apology. I simply fail to comprehend why you laughed.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, hahaha! Mm, hmm-hmm! Hah, hah... H-Hearing what you said just reminded me of something funny, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. The act of remembering is comprehensible.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, have you ever heard an old folktale like this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A tanuki and a human had a contest to see who was better at tricking the other. The rule was that whoever lost would have their home taken away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The human went first」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In early spring, the human took the tanuki up to the top of a small hill. From there, rice paddies stretched out as far as the eye could see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Over the course of a year, I'll change the colors you see from here. Keep watching from this spot.' Told that, the tanuki decided to gaze out at the scenery from atop the hill」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The paddies, which had been completely brown, were flooded with water and turned sky blue, and next the rice sprouted and turned yellow―green―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In summer they became a deep green, in autumn they turned the golden color of rice ears, and in winter, once harvesting was done, they turned pure white with snow」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seeing that sight, the tanuki was shocked. Realizing it was no match at all, it surrendered」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though in truth, the tanuki is actually better at shapeshifting tricks. Ahahaha」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I understand」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Humans deceive tanuki as well, yes? Then the school building's sudden transformation on Saturday alone is synonymous with that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, a festival is kind of like a fleeting dream, so you could say that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A dream...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though calling it 'tricking' might sound bad to people... What I just told you is a story about a white lie」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A white lie...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I know... A white lie is a method, a means, a stratagem」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Heh, then I too am a white lie」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, she left」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, whatever. I feel like we weren't quite on the same page, but at least I got to talk with Azel」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku, seeing Azel-ko's cluelessness and associating her with a tanuki--just what I'd expect from Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... I can't really tell if you're praising me or making fun of me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Neither」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Normally you'd compare a young lass to a fox, right? That's got way more flair and class than a tanuki」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, put another way, Azel-ko intuitively coming across like a tanuki just means she's still a total kid」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hmm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy, whenever you tease Nanaka or Misa, you always crack jokes right in front of them, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is it that only with Azel, you wait until she's gone to say anything?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「......Brats are scarier than old geezers and grannies in a way, ya know.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Eek......!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What became of the tanuki that lost the contest afterward?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing really happened to it? They lived in different worlds to begin with, so there was never any need for humans to take the tanuki's home in the first place.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. In that case, I am not an expedient. I exist, not as a dream.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, she left again......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel sure is mysterious, isn't she? Maybe it's because she's an exchange student?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Angels are way easier to figure out. Just lookin' at Aze-ko wears my spirit down.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm gonna catch some shut-eye, so wake me up when Ria-chan gets here. *Slump*」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Grooooan, grooooan!」"
+  },
+  {
+    "message": "Bringing along Paqy, who is unusually snoring away, I head to the old school building. Alright, time to switch gears and get to Student Council activities."
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it......」"
+  },
+  {
+    "message": "I wonder if Azel does any club activities? Next time I get the chance, I'll try asking her."
+  }
+]

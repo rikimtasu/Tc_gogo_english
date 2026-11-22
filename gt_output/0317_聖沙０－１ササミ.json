@@ -1,0 +1,615 @@
+[
+  {
+    "message": "聖沙０－１ササミ"
+  },
+  {
+    "name": "Synn",
+    "message": "「Today was a good day, wasn't it, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? You fell asleep already?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz... zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Goodnight, Paqy. Still, my night isn't over yet」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mafumuu!? R-Ria-chan... th-that's right, the night has only just begun for yours truly. Snooze, snooze」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan, say no more... snooze, snooze, yours truly would never embarrass a lady」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you talking in your sleep, Paqy? I'm Synn, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guhah!? Wh-what insane strength」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Haa, haa, mwah! I-I'll be gentle with you... snooze, snooze!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-hey! Put yourself in the shoes of an adolescent boy who's about to have his first time stolen by a half-asleep stuffed animal because of mistaken identity!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Haa, haa, haa... Your mouth says no, yet down here you're already so... snooze, snooze」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not 'already so' anything!!」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-doo!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Look, Ria-chan... even Sasami is cheering us on. Snooze, snooze」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-you use weird pickup lines like that on Ria-senpai?」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-doodle-doo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Is it just me, or is Sasami's voice getting closer?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan, there's no need to be scared, okay? Nibble, nibble, nibble... snooze, snooze」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shiver-ver-ver, stop nibbling on my ear!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't worry, Ria-chan! Yours truly, snooze, snooze, will take full responsibility!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what we're debating here! More importantly, how is a stuffed animal like you supposed to take responsibility, Paqy!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well... zzz...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's fine, right? Right?! Sorry... nh... ugh! Zzz!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of dream are you having?!」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-doo!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sasami, why are you in here?! Who opened the door?!」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Bawk-bawk-bawk」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, n-no! Stop it!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, whaaat?! Sakura-kun and Paqy-san are hugging each other...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a misunderstanding! A half-asleep Paqy attacked me and is hugging me one-sidedly!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm jeal--I mean, that's so childish!!」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-doo!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pugyappi!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm saved...!」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-doo!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sasami, stop trying to snatch the ingredients!」"
+  },
+  {
+    "message": "Looking closely, Misa is holding a plastic shopping bag printed with the Capricore logo in one hand, and Sasami is eyeing what's inside."
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go, Sasami」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Bawk」"
+  },
+  {
+    "message": "I had it hold the unconscious Paqy in its beak."
+  },
+  {
+    "message": "And just like that, Sasami heads back out to the yard."
+  },
+  {
+    "name": "Misa",
+    "message": "「It takes time for the seasoning to soak in. Wait just a little longer, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「F-Filthy!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No! Wrooong! I already explained that Paqy attacked me in its sleep!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I protected it, though... *sob*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, tears of blood... It's really true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once he wakes up, I think he'll be back to the usual Paqy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-Is that so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You came all the way back to make a late-night snack, Misa, and ended up seeing such an unhinged scene」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And Sasami even ate half of the nice ingredients you bought at Capricore...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph! Don't get the wrong idea!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I didn't come here to secretly make you a home-cooked meal just because it's your birthday, Sakura-kun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「U-Uhm... well, that's... Th-That's right!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's because of the test!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There isn't a cooking practical on this exam, though?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The cooking doesn't matter!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You went out of your way to come here late at night just to do something that doesn't matter, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course it's not something that doesn't matter!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It'd be a problem if your brain lacked nutrients and you couldn't perform at your best during the test, Sakura-kun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if I beat you like that, it wouldn't make me happy at all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's why, a meal... but...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Tch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll pay you back for the portion Sasami took」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Stop it!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That's... Too bad for you! It's not like I'm feeling down or anything, you know!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm good at cooking, after all. I'll show you I can make something delicious with the remaining ingredients!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah! Let's get completely prepped for the test and have a fair match!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-This is the first time you've challenged me to a match, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Was it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, I suppose I have no choice. I accept your challenge!」"
+  },
+  {
+    "message": "Until the prep work was finished, Misa and I decided to study for our tests."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...*Glance*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whenever I'm working through practice problems, I always think about this.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In elementary school, the questions were polite like 'Let's do X,' right? Yet the moment you enter middle school, they turn into commands like 'Do X!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get that unreasonable feeling.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm also someone who used to get mad at the 'Open it!' label on milk caps. Like, isn't that a bit rude to say to a customer?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「??? I don't know about that? Was there really milk that overbearing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nope, there wasn't. I just misread 'open tab' as 'open it.'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph! I won't lose to that. When I was a kid, I was convinced the 'glue flap' on origami meant 'Glue it!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, on a science test question asking 'What would happen without sunlight ?', I answered, 'We wouldn't be able to go on our school trip.'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's that supposed to mean! I used to think 'pillow words' meant the conversations a man and a woman have in bed together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's nothing at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Back in middle school, I went through a really rough time over a mistake I didn't even understand.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When I went to the library and said, 'Please lend me an SM novel,' I earned total disgust from all the girls there.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-W-W-W-Wait a second, Sakura-kun!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's still a mystery to me why everyone frowned that hard.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course they did!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why, you ask... Gasp!? Don't tell me you confused it with an SF novel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not the same thing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because a friend in my class told me that SF stands for 'Science Fiction,' and SM means 'Super Magnificent SF'?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You've got it all wrong, Sakura-kun, they were just teasing you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so... Then what does SM actually stand for?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Um, well, you see... uh, SM stands for, um...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, yeah?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-S-S-S... Aah, ugh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? You're frowning too, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngggggh...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kieee! It doesn't seem like you did it on purpose, so I'll forgive you! You'd better be grateful!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Thanks?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm going to go cook!! Stay right here and wait, Sakura-kun!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sure」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Oh my? When did this battle of misunderstandings start...?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Goodnight」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, goodnight. Dinner was delicious. Thanks」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It wasn't anything worth thanking me over. Something like that...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I actually wanted to make curry rice」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh right, you love curry rice, don't you, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...!? N-No, that's not it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Curry keeps well, doesn't it? It's perfect when exams drag on for several days」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true, it always tastes best on the third day」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-What's with that! Humph, fine, I get it! I'll make it properly next time!」"
+  },
+  {
+    "message": "Misa jumps up and down, flexing her ankles as she does some light warm-up stretches."
+  },
+  {
+    "name": "Misa",
+    "message": "「Bye-bye!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, I'm only gonna ask one more time, okay? Are you reeeally sure you don't want me to walk you home?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll run home at full speed, so I'll be fine」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-Besides... wait just a little longer before coming all the way to my house...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...See ya!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Misa runs off."
+  },
+  {
+    "message": "Her brisk footsteps are quickly swallowed up by the darkness of night, fading out of earshot."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz... zzz... zzz...」"
+  },
+  {
+    "message": "In their place, the soft breathing of a stuffed toy."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, Paqy's practically turning into Sasami's blanket... Still, you'll catch a cold sleeping out under this chilly sky, you know?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz... Ahh, finally with my beloved Ria-chan... mumble, mumble... It's like a dream... zzz」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that actually is a dream」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Cock-a-doodle-doo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry about this, Sasami」"
+  },
+  {
+    "message": "I scoop up Paqy and head back to my room."
+  },
+  {
+    "name": "Synn",
+    "message": "「...What is this warm, fuzzy feeling?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It smells warm? Why...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Huh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's a whole pot full of miso soup made here」"
+  },
+  {
+    "message": "Who? When?"
+  },
+  {
+    "message": "Isn't that completely obvious?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mm...」"
+  },
+  {
+    "message": "I ladle some into a bowl and drink the still-hot miso soup."
+  },
+  {
+    "message": "Just like curry rice, miso soup tastes different in every household."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious! So this is the taste of Misa's home」"
+  }
+]

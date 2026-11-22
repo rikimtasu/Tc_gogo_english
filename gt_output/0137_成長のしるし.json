@@ -1,0 +1,503 @@
+[
+  {
+    "message": "成長のしるし"
+  },
+  {
+    "name": "Sally",
+    "message": "「Zzz, zzz, mmm...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't she heavy?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not really」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Floating demons are naturally light by nature, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder why, considering how much she eats?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe she just has bad fuel economy?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Or maybe flying takes way more energy than it looks?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, a shooting star」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing unusual about that at this point」"
+  },
+  {
+    "message": "For a while now, shooting stars had been raining down generously across the entire sky."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, yeah, true. Still, it kinda sets the mood, doesn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Turning even a familiar sight romantic through the magic of words」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You just thought the word 'romantic' doesn't suit Nanaka at all, didn't you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...A little」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look. You're walking home at night alone with a girl. Don't you think it's fine to let the atmosphere get a little romantic?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're not alone, though」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn. Pointing that out at a time like this is pretty tactless, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You shut up too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Walking home at night like this isn't particularly unusual for us either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, walking back together like this might actually be the first time in a while」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so? Haven't we been together all the time lately?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah. That's not what I mean……"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I mean just the two of us alone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, it's not just the two of us alone」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh…… You're still such a dense blockhead as ever, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. That doesn't sound like a compliment」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because I wasn't complimenting you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, well…… maybe I'm glad you haven't changed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no way I'd change. I'm me, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, but you know, people can change pretty easily」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like I went overseas for training and just came back」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't even have the money to travel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just a figure of speech」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did something happen that would make me change?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Before I knew it, you went and became the Student Council President and all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It wasn't 'before you knew it.' I did get voted in through an election, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, like I said, that's not what I'm getting at」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I did stop working part-time jobs, huh……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, that's a little different from what I'm trying to say, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, maybe it's related?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which one is it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You spent all your time working part-time jobs, so you never really had much luck with girls, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「More like I had nothing to do with a sparkling school life」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And now look at you--Student Council President, surrounded by nothing but girls」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's just how the Student Council ended up, so I can't help it」"
+  },
+  {
+    "message": "Wait, why am I making excuses like this."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They're all cute, so you end up getting self-conscious around them, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're definitely cute, sure, but...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「'Not as cute as you, Nanaka'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「R-Really?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is what Soba wants you to say!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up. Quit using that confusing voice!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You want me to say that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you talking about too?! As if!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I do think they're cute, and sometimes I think, man, girls sure are great, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Only sometimes?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course I do. I'm not that dense」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're way too honest!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can't help it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I guess that's one of your good points. Synn is still Synn after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Naturally」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You haven't changed a bit either, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You think so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all since ten years ago」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Okay, now you're pushing it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I said you haven't changed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I mean, isn't this the part where your heart skips a beat over your childhood friend who's grown up into a total woman before you knew it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you staring at」"
+  },
+  {
+    "message": "Looking closely at her like this... she's gotten rounder and softer in all sorts of places..."
+  },
+  {
+    "message": "And cuter..."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Now that you mention it, I guess your chest did get a tiny bit bigger」"
+  },
+  {
+    "message": "Whoa. Accidental sexual harassment!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you saying! You lecherous Student Council President!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's Lord Synn's true nature for ya」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And 'a tiny bit' at that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry. Still, I have to look first!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if you say that with all your might... Well, it's true you wouldn't know without looking, but still」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Actually, you don't even need to take a fresh look! You're already used to seeing me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, maybe being too used to seeing me is the problem...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Ahem. Anyway, what's been seen can't be unseen」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, building off that... do you prefer them even bigger or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What are you asking, what!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like around Ria-senpai's size, for example?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I've never looked at Senpai with those kinds of lewd eyes!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So you DO look at her when it's not with lewd thoughts」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I said it's not all the time!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Can't be helped. Lord Synn's a guy, after all」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「But I won't forgive it! 'Cause Ria-chan's boobs belong to yours truly!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Rakin!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, that chest of hers is a lethal weapon... Even as a girl, I catch myself staring sometimes...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They really bounce, huh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah... wait, you're totally having dirty thoughts!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I dug my own grave!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa there, Synn's so perverted I almost went too far」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's my fault?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We'll be holding a formal interrogation regarding Synn's perversion at a later date, thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't! Or rather, please don't」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe I should ask Ria-senpai for her opinion too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to ask her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Also, sorry about earlier...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「About what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... well... you too, Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like I said, what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How should I put it, you've gotten cute」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-wh-what are you saying to your childhood friend!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'm telling the truth, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, I know you're saying that sincerely, Synn, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, saying that kind of thing to me isn't gonna get you anywhere」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then who am I supposed to say it to?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Save lines like that for someone you're trying to hit on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Hit on... Wouldn't that make me sound like some pickup artist?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, I know, I know. I don't think you're like that, Synn」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyway, Mr. Student Council President. Hurry on home and get plenty of rest after today!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah, yeah. Good work to you too, Nanaka. Good night」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good night, Synn」"
+  },
+  {
+    "message": "Nanaka gave a small wave and disappeared into the shopping district."
+  }
+]

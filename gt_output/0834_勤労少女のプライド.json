@@ -1,0 +1,531 @@
+[
+  {
+    "message": "勤労少女のプライド"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think I'll help out at the shops today for the first time in a while」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you gonna do about Student Council work」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Interacting with the folks in the shopping district is important for making KiraFes a success, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, that's true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, since I quit my part-time job, I've been itching to work for a while now」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You've got a pretty unprofitable nature, you know that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I do it because I like it, so it's fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「More importantly, what are you up to, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Me? I finished my work for today, so I figured I'd come mess with you a bit, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm」"
+  },
+  {
+    "message": "Still, the great thing about Nanaka is that she ends up helping out anyway, despite saying stuff like that."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, where are we helping out today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Kim-san mentioned the other day that he was short-handed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Five-Star Hanten, then. Got it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey there~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Welcome~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, it's just Mako-chan」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gah! Big Brother!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, did you start working part-time at Kim-san's place?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Um, well, something like that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, look at you! So admirable at such a young age」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh, why are you acting so high and mighty……」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Welcome, Synn and Nanaka, aru ne」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Mr. Kim」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「What will your order be, aru ka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're not customers today, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We thought we'd help out for the first time in a while」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Well, thank you for that, ne」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「It's alright though, aru yo. Macaron's filling in for me right now, ne」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, looks like they're counting on you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, yeah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's heavy lifting too, you know--will you be okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, don't underestimate me! I'm totally confident in my stamina」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, you're pretty amazing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, we-ell, yeah!」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Macaron is full of energy and good with her hands, ne」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「She's just as hard a worker as you, Synn, aru yo」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm wa~ay more of a hard worker than Big Brother!」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Aiya, how rude of me, aru ne」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha. Looks like they don't really need our help after all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「O-bviously! Why don't you just go home and take a nap or something?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grr......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hearing you say that suddenly makes me wanna help out!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm. Big Sis Nanaka, was it? Are you trying to compete with me?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You bet! I haven't been Synn's childhood friend all this time for nothing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That has nothing to do with it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't be so cold!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph. You're just gonna side with your childhood friend anyway, Big Brother.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, well, I mean」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I knew it, you won't take my side at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, whose side are you on anyway!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, even if you ask me whose side...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother! I'm being serious here!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you trying to blow off your childhood friend?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Er, no, I'll properly support both of you!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...That doesn't count as 'properly'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jeez, you're so indecisive」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, was that even what this contest was about?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Boo... Dummy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Um... sorry?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright! I'm heading back to help out at home!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's settle once and for all who's the hardest worker in the shopping district!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph! Don't come crying to me when you lose!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How are you supposed to decide that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just leave the judging up to Synn however he sees fit!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that really okay」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then, time to give it my all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, she's gone」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Is that what childhood friends are like?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, I wonder. I think Nanaka is on the reckless side, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you have any childhood friends or anything, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nope. I don't have friends like that. So I don't really get it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「B-But, I do have a super cool master whom I respect!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A master? That's amazing!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Right? They took care of me when I was in the Demon World」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm sure they're still watching over my accomplishments from somewhere right now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Demon World...」"
+  },
+  {
+    "message": "Macaron really is a Demon, after all."
+  },
+  {
+    "message": "Even though we can talk normally like this..."
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Macaron-chan. You can go ahead and take your break now」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, oka~y」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since you started working part-time here, did you already quit Uncle Amakawa's place?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah... Not really, I haven't quit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, that's good」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「My motto is to see things through to the very end once I decide to do them!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's true. I think you're amazing, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「The hours don't overlap, anyway. So it's not that tough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gotcha. Still, you shouldn't push yourself too hard」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm not overdoing it. I'm totally fine!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I'm gonna be the Demon Lord, being able to do this much is just a given!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, why do you want to become the Demon Lord?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh……? Well, um……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-It's a secret! I'm not telling you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not even a little?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm definitely not telling a big brother who bullies demons……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not bullying them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just warning the demons who are causing trouble for everyone」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We aren't fighting because we hate demons or anything like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We just don't want them to disturb the peace in this town」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Then I'll do it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll scold the demons playing pranks and keep them in line」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And that way, I'll make all the demons recognize that I'm the Demon Lord and the greatest of them all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「So don't get in my way, big brother!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then we won't have to fight anymore……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright, break's over. Gotta work hard!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「See ya, big brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. Good luck at your part-time job」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Of course! I'm not gonna lose to your childhood friend, either!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, looks like I don't need to worry」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Ehehe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Don't get in the way,' huh」"
+  },
+  {
+    "message": "I hope things can just stay peaceful like this with Macaron."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like I can tell her I'm the real Demon King...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's no point forcing myself to think about it」"
+  },
+  {
+    "message": "First, let's tackle the problems right in front of me one by one."
+  },
+  {
+    "message": "When that time comes, I'm sure things will work out somehow."
+  }
+]

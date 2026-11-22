@@ -1,0 +1,641 @@
+[
+  {
+    "message": "SWEETS KISS"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Synn. What are you doing here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I should be asking you that, Nanaka. Why are you here?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, me? Um, I'm meeting up with Sacchin」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't tell me... are you meeting Sacchin too, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "message": "I came because she said she wanted to talk about Nanaka, though..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin... could it be she did this for me?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, ahaha. It's nothing!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Um... can I sit next to you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, sure」"
+  },
+  {
+    "message": "I scooted over to the right side of the bench."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just the two of us side by side on a bench! What a great situation」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka? Your face is all red?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「E-Eh, i-i-i-it's nothing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if you say so...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Geez, what a pain, calling people out here and then not even showing up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Knowing Sacchin, she might've forgotten」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I bet she got the time wrong」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, that's definitely possible」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh well, guess we'll just wait together for a bit, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sounds good」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes! All alone together!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's up, Nanaka? Doing a fist pump like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, ahaha, it's nothing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, by the way, where's Paa today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, Sacchin told me not to bring him along」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My friend! How thoughtful!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder what she wanted to talk about?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who knows?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about you, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, ah, um, just going shopping together for a bit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. That makes even less sense. Then why call me out here?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who knows?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She said she had something to talk to me about regarding you, Nanaka, so I came, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh. Is that so. Wonder what it could be?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No idea?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nope, nope, nope. I'm sure it's no big deal!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, going out of her way to call me out here, and even keeping Paqy out of the picture」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um, well, that's, you know, maybe she was just in that kind of mood?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You really don't have any idea either, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, w-well, yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it was some super serious advice she really wanted to keep secret……」"
+  },
+  {
+    "message": "It's really bothering me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Shouldn't we give her a call?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When we finally have a chance to be alone together……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, did you leave your phone behind?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-That's not it! Yeah! I'll try calling!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, just pretend to call, pretend to call……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Looks like she's either out of range or has her phone turned off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!? That's bad, isn't it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bad? She probably just has her phone turned off, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be! She got caught up in some incident and can't answer the phone!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, there's no way that happened」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But we're talking about spacey little Sacchin here! What if a stranger lured her away with candy or something!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, that's a bit……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't you worried, Nanaka? Or do you have some idea where she is?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-That's not it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are we talking about Sacchin…… ugh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know! Why don't you try calling her house?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah…… yeah……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, just pretend to call, pretend to call……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes. Hello. This is Yugiri. Is Sachiho-san there?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, yes. I see. Please tell her to take care of herself」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then, goodbye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What happened?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She came down with a fever and is stuck in bed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh, a cold?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, ah, yeah, yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For Sacchin of all people to catch a cold! It must be a really nasty one!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, totally」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go visit her right now!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't know where Sacchin's house is, so show me the way」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, but」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll go home and get some vegetables or something as a get-well gift……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay, meet at Yuugiri-an in 30 minutes!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hold on a second!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um, Sacchin's family is actually super strict, even if they don't look it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. So if a boy goes over, her old man will throw a huge fit. It'll just cause trouble for Sacchin too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So I'll go by myself」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Jeez! What are you doing, Nana-chan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Didn't you have a cold?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan. If you've got the time to come up with excuses like that, why aren't you making a move?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if you spring that on me all of a sudden……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Even though I went through all the trouble of setting this up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Setting up?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aaah, i-it's nothing!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「At this rate, you really are headed straight for the 80-year-old course」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An 80-course?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even I need to mentally prepare myself!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「And when do you think you'll be ready~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Geez, if it's come to this, I'll just take care of it myself~. Brace yourself~」"
+  },
+  {
+    "message": "Sacchin firmly grabbed Nanaka's shoulders."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, brace myself, for what」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Here I go~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-hey, what are you thinking, wait, ah」"
+  },
+  {
+    "message": "The two of their faces rapidly closed in on each other!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, huh, s-seriously? W-whaaat, st-stop」"
+  },
+  {
+    "message": "Smooch."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「……」"
+  },
+  {
+    "message": "T-they're kissing!"
+  },
+  {
+    "message": "Sacchin is kissing Nanaka!"
+  },
+  {
+    "message": "Why, for what reason? Why!?"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka stood there stunned with her eyes wide and her mouth hanging open."
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "message": "No response. It's just like a corpse."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Now then~, you're up next, Synn-kun~」"
+  },
+  {
+    "message": "Sacchin looked at me with the eyes of a panda eyeing bamboo leaves."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what is? W-whaaat!?」"
+  },
+  {
+    "message": "Sacchin's hands rested on my shoulders."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「This is for friendship too~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean 'this too'!? W-whaaat, h-hey, hold on」"
+  },
+  {
+    "message": "Why is Sacchin's face getting bigger and bigger?"
+  },
+  {
+    "message": "Is it getting bigger because she's getting closer to my face?"
+  },
+  {
+    "message": "Ah, I see. Isn't that simple."
+  },
+  {
+    "message": "Wait, hold on, why is she coming closer?"
+  },
+  {
+    "message": "More importantly, this distance iiiis!"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mmh......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-wh-wh-wh-wh-wh-wh-wh-wh-what」"
+  },
+  {
+    "message": "Sacchin kissed me."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "My mind went completely blank."
+  },
+  {
+    "message": "My mind went completely blank."
+  },
+  {
+    "message": "My mind went completely blank."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Success~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-what are you doing, youuuuu!」"
+  },
+  {
+    "message": "It was soft and warm."
+  },
+  {
+    "message": "It felt nice."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So you see, Nana-chan's first kiss and Synn-kun's first kiss are an indirect kiss~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the heck is that supposed to meaaaaan!」"
+  },
+  {
+    "message": "I see...... So that's what kissing a girl is like...... Amazing......"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I was being considerate in my own way, you know~ If Synn-kun and I kissed first, it would've caused all sorts of problems, so I kissed Nana-chan first~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's the big idea stealing Synn's first kiss like that!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Like I said~, I already got my first kiss out of the way with Nana-chan beforehand~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「In other words, this is my second, so Nana-chan's first and Synn-kun's first are indirect~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Even if it's indirect, it's still the first kiss for the two of you~ For me it's my second time, so there's no problem~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of crazy logic is that!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, Nana-chan, if left alone you wouldn't do anything at all~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「E-even so!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Even indirect, a first is still a first~ Do you get it too, Synn-kun~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Smiling so innocently, Sacchin."
+  },
+  {
+    "message": "Looked very cute."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn is staring dreamily at Sacchin's face!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahaha~, you're just imagining things~」"
+  },
+  {
+    "message": "Was Sacchin always this cute......"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I-I'm not imagining things!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Happily ever after~」"
+  }
+]

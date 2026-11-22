@@ -1,0 +1,786 @@
+[
+  {
+    "message": "特等席"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, Big Brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey. Heading home now too, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Yeah. Are you alone today, Big Brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like everyone has various things to take care of」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm. How lonely」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not true at all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「For an unpopular big brother like you, I'll tag along partway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Making a detour somewhere?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just to the park」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you gonna do?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Practice swinging Alzard」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I can't do it unless it's somewhere wide open, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, you're pretty dedicated」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Training is just a given, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Can I tag along too?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Are you gonna do something too, Big Brother?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah, I'll just watch you, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Wha--what's with that, you pervert!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What are you planning to do by observing me?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing in particular, really...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... It's eyefucking」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't just pop out of nowhere and say something so obscene」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It can't be helped」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'll chop you into mincemeat right here\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa--!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Just kidding!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I did that, Alzard would get all dirty」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy would probably be fine, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Split right down the middle?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyaaah!? Cut it the hell out!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huff...! Hah...! Yah...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hah...! Tah...! Seih...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nnh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...What's wrong?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Because you keep staring at me, Big Brother, it's hard to focus!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll close my eyes and just listen to your voice」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That's kinda weird too...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... What a pervert」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, haven't you gotten tired of watching by now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When it comes to you, Macaron, I feel like I could watch forever and never get tired of it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-What's that supposed to mean...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn is just that fascinated by you, shorty」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Whaaat--!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, Paqy! Don't phrase it like that, it's embarrassing!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're the one who should be embarrassed, Onii-chan! You really are a pervert!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Jeez, you made her mad because of what you said, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's the great me's fault?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I was the one watching Macaron, though……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aww, somehow I totally lost my motivation」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, let's take a little break then--here, some milk」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Thanks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Man, you're as amazing as ever, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「This much is nothing」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「……Besides, even if you force yourself to praise me, it doesn't make me happy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Sorry. Was I really bothering you?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「N-Not really」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I just got a little nervous, that's all」"
+  },
+  {
+    "message": "She turns away with a huff."
+  },
+  {
+    "message": "Even every single one of those casual gestures never seems to get old to watch, for some reason."
+  },
+  {
+    "name": "Synn",
+    "message": "「When I watch you working hard like this, Macaron」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It makes my chest feel kinda warm, or makes me feel like I gotta work hard too……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez…… saying embarrassing stuff like that again……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm gonna train together with you too!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Eh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just can't sit still anymore」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Onii-chan……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No good, huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez, are you an idiot or what!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Seriously, you're weird, big brother. Why would you…… 」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why, huh…… 」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I feel like I finally understand」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「After all, I really do…… Macaron……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaah! Waaah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's wrong?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big brother, you were gonna say something embarrassing again!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Was I……?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're just enjoying making me embarrassed. I'm sure of it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't have such bad taste. It's not like I'm Paqy」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I wonder about that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're a pretty weird guy, big brother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I do!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it really that weird that I like you, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaahhh!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaah, waaah, waaahhh!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-can't-hear-youuu!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Macaron…… are you okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-I'm always calm and collected!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I didn't hear anything just now, okay!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Th-That, l-l-l-like, saying you love me to win me over--it's not gonna work!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You did hear it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaah! Idiot!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I hate you so much, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... I see...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, um, well, maybe just so-so...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So-so, huh. Well, it's better than being hated」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mmh~...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Break time's over!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「We're restarting training」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「What」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got milk around your mouth」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come here, I'll wipe it for you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I-I'm fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'll look uncool if you leave it like that」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nghh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm borrowing Mr. Panda!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nuoooh!? What the!?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「See, all clean!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I-I just got defiled out of nowhere...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hyaaaah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Dosseeei!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Jeez, what is going on……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It doesn't stand out much, so it's fine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's not the problem!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, and here I was sleeping so peacefully」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were sleeping?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Got bored partway through」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're a pretty convenient panda, huh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, time for some strength training!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hup……! Ha……! Yah……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huff…… huff……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, you still gonna keep going?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, you can go ahead and head back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「While doing squats, it gradually started getting fun」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「…………」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Is Big Brother planning to stay even longer……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Saying weird things like that makes it hard to keep going……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Still, I can't exactly stop now……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huff…… haa……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Come to think of it, Big Brother…… is actually pretty well-built, isn't he……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「When he's focused on something like that, he might actually look cool……」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Well, none of that really matters right now...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hup... huff...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How about it, Macaron? Ready to call it a day soon?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Deyah! Sei! Tooryah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Auu... Even I might be getting tired...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「My arms feel like they're gonna cramp...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「B-But if you're gonna keep going, Big Brother, I won't lose!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, your arms are shaking a bit. Are you okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm just trembling with excitement! Totally fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I think I'll wrap things up here for today.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuh...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Haaah...!」"
+  },
+  {
+    "message": "The instant she does, she drops Alzard and collapses limply to the ground."
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, are you alright?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaaahn, I'm sooo tiiired!」"
+  },
+  {
+    "message": "She throws a tantrum at him."
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's all your fault, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry...?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuh... I can't move another muscle!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then how about we head back now?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nooo! I don't wanna walk!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can't be helped, then. Here, I'll give you a piggyback ride.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A piggyback ride...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're gonna give me a piggyback ride...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, hop on」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuu~... Don't drop me, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, I won't drop you」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Hup」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, you're so light~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe, piggyback, piggyback!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Hey, Lord Synn! What am I supposed to do with this catch?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I'm counting on you, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Guess I got no choice--wait, hey, don't be ridiculous!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big brother, faster~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow-ow-ow, don't pull my hair!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe~, it's so high up~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Glad to hear it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I love it up here! It's the best!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that right~, hehehe」"
+  },
+  {
+    "message": "Hearing Macaron say she likes it really makes me this happy, huh."
+  },
+  {
+    "message": "A grin spreads across my face before I can stop it."
+  },
+  {
+    "name": "Synn",
+    "message": "「I couldn't even blame anyone for calling me a pervert~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I hate perverts~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihehe~!」"
+  },
+  {
+    "message": "Well, as long as we're getting along, I guess it's fine."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heeeey, Demon Lord~\\s06」"
+  }
+]

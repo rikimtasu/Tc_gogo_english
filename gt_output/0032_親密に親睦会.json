@@ -1,0 +1,1531 @@
+[
+  {
+    "message": "親密に親睦会"
+  },
+  {
+    "name": "Synn",
+    "message": "「So now that everyone's all set--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold it right there! Someone crucial still hasn't had their turn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. I forgot about Paqy.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Alright then, let me introduce my prized ingredient.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wrong! Synn! It's yours!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh yeah, Synn-kun hasn't gone yet.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, that's right.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "message": "However, Sasami's eggs were a no-go, and the vegetables were a total wipeout."
+  },
+  {
+    "message": "All that's left is--"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Rejected!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I haven't even said anything yet!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Goes without saying. It can only be whatever you've got hidden inside your jacket!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Come on, Nanaka. Isn't that sexual harassment?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugaaaah!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whatever is the matter, Nanaka-san?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She surely cannot contain her indignation at the inevitable appearance of milk.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even though milk is delicious.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, Nanaka! How about this: yogurt! Yogurt's fine, right!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's the same thing!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Treasurer-san, you mustn't be a picky eater. You won't grow big and strong.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huff, huff... Those are the last words I wanted to hear from Lolo-chan of all people...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What is that supposed to mean!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Anyway, it doesn't change the fact that my contribution is milk.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't act so proud! That's only because it's all you had!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now. Not everything here is something everyone likes, after all.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Speaking of things everyone likes, curry rice and hamburger steaks are definite winners.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Those are just generally considered popular favorites, it's not my personal opinion!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You don't have to deny it so forcefully......」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, we're gonna mix it all together anyway. Likes and dislikes don't matter.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that's true. Even though there are so many delicious-looking things here......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hot pot is non-negotiable. Now that we've decided, there's no backing down.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That is the mission bestowed upon us, the Student Council!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's really not that grand of a thing.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, if we're going through the trouble, it'd be nice if it's actually edible.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you talking about? We're eating every last bite.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ooh. That's Nanaka-chan for you\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I seriously doubt we can make a proper meal. In the end, we'll just leave leftovers and throw them away. We really should have canceled this project.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to eat something delicious......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm, wait a second...... If it's a dish that uses milk!」"
+  },
+  {
+    "message": "I pick up the cookbook borrowed from the library and flip through its pages."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's it, let's go with this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「First, let's boil some water. We have a lot of things to boil this time, so it's going to be tough.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In that case, maybe I'll do mine as a steamed bowl dish. That way it frees up a burner.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. That'd be a big help」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then make it with plenty of hot water. I'll get the pot ready」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You two are so efficient~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Totally in sync」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We've been cooking together since we were kids, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You look just like a married couple who've spent years side by side」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan! Quit flapping your gums and get your hands moving!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes ma'am!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Urgh... This octopus is so cu--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, you okay? Want me to take over?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This much is nothing!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hyah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, savage!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, what to do with the ink...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Octopus ink? I've heard of squid ink, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I don't really have a use for it, it just feels like a waste」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Can we use it for calligraphy?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I doubt that's possible\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then I don't want it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So anyway, I want you to drain the ink, but... Misa, are you sure you're okay? Let me do--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hyah! Hyah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan, amazing...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Truly a case of treading on thin ice is easier than worrying about it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Makes no sense」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The problem isn't the octopus, it's this guy……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Tuna!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It kind of feels like it's always staring at me, so it's a little scary……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even you get scared, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just a little, okay, just a little!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even that side of you is wonderful, Senpai……\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With this much mass, it looks like it'll take a while just to thaw」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's where DIY comes in, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, we had a saw, didn't we」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Amazing. It's just like a fish market」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wonder if we can fillet a catch this huge into three pieces with a saw」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's pushing it, even for us」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we all work together, we'll manage somehow. Alright, I'm gonna cut, so can you hold the tuna down?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okaay」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek, it's cold」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you wearing your work gloves properly? It's dangerous if you don't」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, oops」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, our eyes keep meeting no matter what」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Right……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hehehe…… Toro, fatty tuna…… The legendary otoro――wait, no, snap out of it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't think about unnecessary stuff right now. Chopping up the tuna comes first」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Got it. Alright, here goes…… One, two」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeek! That's dangerous!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What was that sound just now...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Showing up like that means it actually hit a nerve, doesn't it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Are you okay?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Something like this is no big deal!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, this is a tough one」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T―This sound is―?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave the matter of the tuna to me, Riesling Tooyama」"
+  },
+  {
+    "message": "Unfazed by the wildly thrashing blade, Riesling stares straight at us with a cool expression."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, is today Friday the 13th?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No way. Stop it, Nanaka-chan\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Could it be, Jiiya-san. What on earth are you going to do with that...!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please call me Riesling」"
+  },
+  {
+    "message": "Saying that, he wielded the chainsaw as if it were an extension of his own arm and silently sliced off the tail section."
+  },
+  {
+    "name": "Riesling",
+    "message": "「There, just like this」"
+  },
+  {
+    "message": "Without breaking a sweat or losing his breath, Riesling brushed his hair back with a sweep and casually tossed the stopped chainsaw over to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「T-Thank you very much」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Who might this extraordinarily stylish gentleman be...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He's Jiiya」"
+  },
+  {
+    "name": "Ria",
+    "message": "「He's the butler for Lolotte-chan's family, right」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am humbled that you remember me, Lady Ria」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn. We can do it with this. That fatty tuna we've been dreaming of!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright everyone! Hold it down tight--」"
+  },
+  {
+    "message": "Combining everyone's strength, we pin the tuna down."
+  },
+  {
+    "name": "Synn",
+    "message": "「Guhhh... what a wild beast...」"
+  },
+  {
+    "message": "I pressed the wildly bucking chainsaw against the tuna's back."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Harder...! Rub it against it harder! Ah, n-not there... no」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Aah... Synn, that's... am... amazing...! Aah, aah~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hurry...! Any more than this and... no, nooo! I'm going nuuumb」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, go right for the good part... ah, aahn, let it rip~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Got it! Uoooooh, here I go~~~!」"
+  },
+  {
+    "message": "Just like that, I drove the chainsaw forward in one go, gouging right into it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Did it!」"
+  },
+  {
+    "message": "We got our hands on a slab of tuna!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You did it, President. We got the fatty otoro!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's all thanks to everyone helping out...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Save the tears of joy for when we eat. Now, on with the cooking!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Okaaay!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「T-Toro...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is something wrong?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「N-No... it's nothing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, next is the kitchen knife. Synn, I'm leaving the rest to you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh, aren't you gonna do it, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm gracefully passing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka can only use a rolling pin and a soba knife」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How clumsy~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't wanna hear that from you, Lolo!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wha--! Why are you assuming I can't do it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then give it a shot」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「B-Blades are scary...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, fine. I'll do it. Hand me the knife」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's split the work between you and me, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm plenty enough on my own」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, it's fine, it's fine」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H―Hey, listen to what I'm saying―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa, Mr. President. You're really good at peeling potatoes~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I want to leave as much of the edible part as possible」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...It's a contest」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's see who can peel a potato cleaner and faster--it's a match!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And here we go, folks! This highly anticipated showdown has begun. Joining me on commentary is Rise Kujo--thanks for being here」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank you for having me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Both competitors have picked up their potatoes at nearly the exact same instant, and--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「These potatoes were grown to perfection, nourished by fertile soil and mineral-rich underground spring water」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They say the sharp temperature swings between day and night are also key to their flavor, though--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa there! Both contenders are right on the verge of finishing their very first potato!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Booth, come in, booth. Actually, there are only three potatoes here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Which means this very next one will decide the entire match! Both players' peels have just hit the cutting board!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My, what long, clean ribbons those are」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now then, which one will make a move on the final remaining potato!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Their hands just touched!! Whoa, what an intense glare-off--no, wait, they're gazing into each other's eyes, blushing, and just staying like that--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, quit turning this into a rom-com!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I am not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... stop fooling around and keep a proper eye on the boiling water」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Teehee!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan. Let's peel the onions together」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oka~y♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa. Could you cut the carrots into chunks?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha! Don't just start bossing us around on your own--hey, you're already working on the chicken」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't worry, I'm making sure the portions are completely even」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not the issue!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once you're done with that, slice the onions next」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I told you... *sniff*, listen to what people are saying!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, did that make you sad?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's the onions! *Sniffle*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. Even while complaining, her hands are moving right along」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is that everything for the prep?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Now we just need to start cooking, though...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Stare--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai, would you like to do it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yay\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please let me do something too...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then let's cheer Senpai on together!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Understood~\\s07」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So I just need to stir-fry everything we just cut, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai... I'm sure you must be good at cooking too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't get your hopes up too much, okay」"
+  },
+  {
+    "message": "Ria-senpai puts the vegetables into the pot and quickly stir-fries them with a rice paddle."
+  },
+  {
+    "name": "Ria",
+    "message": "「And here goes this」"
+  },
+  {
+    "message": "She splashes wine straight in."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeek!」"
+  },
+  {
+    "message": "At that, the pot bursts into huge flames! Lolotte ran away."
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmmm, smells great」"
+  },
+  {
+    "message": "However, Senpai isn't fazed at all."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Lord summons thee, cradled in pure and innocent streams, Thrysel, Angel of Azure Water...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahahaha! Lolo-chan sure is a scaredy-cat~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, I guess it's about time for the milk to make its entrance」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eeeek!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san, the hot water, the hot water!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, sorry! I just couldn't help it."
+  },
+  {
+    "name": "Nanaka",
+    "message": "Okay, it's boiled. The spot next to me is open~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Cheese fondue. Could you melt it in a double boiler for me?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You got iiit\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's put butter and flour into this pot. And blend them together so they don't burn, there」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So, where is the milk?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right here. Inside my jacket, right around here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ehh, i... in a place like that!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's see here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... ngh, aah~~~, Senpai, not there\\s08」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Hey! Stop making weird noises, Synn-kun, jeez~\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm sorry... it was so sudden it startled me\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You really do keep it stocked at all times...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see, add the milk little by little and stir...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Looks like we add more wine next」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wine upon wine, huh. Feels super fancy」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This side's getting a nice brown sear too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's get it simmering!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're gonna make some sobagaki」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, ma'am!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You pour hot water into the bowl of buckwheat flour like this, then stir it round and round with a wooden pestle」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa, whoaaa! It's starting to get all sticky and stretchy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look, look, lumps are forming, so mash 'em down as you go」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-yes, ma'am!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, that's a great buckwheat aroma」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's prep the base before it cools down」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Arrange the tuna, octopus, and onions nicely...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of dressing are we using?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since it's sobagaki, Japanese-style should work」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Awesome!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now we just need to plate the fish and chips alongside it, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mm-hm. A brilliant harmony of light and rich」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huff, huff... Treasurer. How does this look for the sobagaki?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Spot-on, spot-on! You've got great instincts, Lolo. Wanna come work at my place?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My training's tough, you know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then I'll quit」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Spineless!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright! Seafood and sobagaki carpaccio... sound good?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. Super stylish--looks great!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This one's done toooo」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, it's just a completely ordinary cream stew, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It turned out to be a proper hot pot dish, didn't it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I made a proper yaminabe too, you know\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's amazing~. Somehow it ended up looking like a normal meal」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And with French bread and cheese fondue as the main dish--」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「All done!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then--」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Let's eat!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So this is sobagaki. It has an interesting taste~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmm--. It's so chewy--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Both the octopus and the tuna are delicious~. Tossed with onions, I'll gobble them right up!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even the greasiness of the fish and chips pairs nicely with the refreshing carpaccio」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Crispy and piping hot--it's delicious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, magnificent otoro... To think the day I'd get to eat fatty tuna would come so soon」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's wrong, Pa-chan」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, about that tuna...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't want yours, Paqy? Then I'll eat it for you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You cut that off the back, didn't you. That's just plain akami」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--what are you saying? It's delicious, so this is otoro!\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come to think of it, it does seem a bit low in fat...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai, if you say that--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hate to break it to ya, but that otoro was--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Tuna... we really can't finish all of you, can we?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「If it is in the way, I shall dispose of it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That would be such a waste!! You helped out too, so please go ahead and have the rest, Jeeves.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Very well. Um, Milady--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am deeply grateful for your kindness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now, now, it's still delicious tuna either way. Since we're at it, I think I'll try some with wasabi and soy sauce.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, that kick--delicious! How about the rest of you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm good. I'll pass, thanks\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Being so modest is what makes you cute, Ria-chan!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll pass on the wasabi as well.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You can't even eat wasabi? You really are just a kid, Hisa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha―!? I―I'll eat it! Happy if I eat it, right?! *Munch*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to force yourself to eat it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's delicious, really!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, glad to hear it! That's Yuugiri-an's special house wasabi, after all. Use as much as you want!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "message": "Thanks to that, the soy sauce seems to be going down at a brisk pace, too."
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're gonna give yourself high blood pressure if you pour that much on」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh... That's not the issue...\\s06」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please let me have a bite, too! Ahh, chomp」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well? Tasty, right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kyaa, it's spicy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's freshly grated wasabi, after all. It packs quite a punch.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone's pushing through... I'll give it a try, too... Maybe it'll actually taste good」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here goes, nom」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmmmmph!? So spicy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mwahahaha! Seeing Ria-chan squirm in agony is super cute!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whack!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gyaaah!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Have some stew to cleanse your palate...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haah... It's so warm and delicious」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Totally! It's super creamy and comforting, isn't it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh, Nanaka-chan. Are you okay with milk?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, it's completely cooked down past its original form anyway. Totally fine」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-Is that how it works」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Remember what her favorite food is. Cake, guys, cake」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah... Cake does have plenty of milk in it, doesn't it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sweets!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Saying stew and cake are fine, yet milk is off-limits. You really are quite selfish, Treasurer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Roro-chan, you really want to eat wasabi that badly, huh\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeek, please don't put it in the stew!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Melted cheese fondue on French bread. This is simply delicious~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't you dare leave that sashimi from earlier unfinished」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Bringing that up again...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew~~. Man, I'm stuffed」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「My tummy is completely, totally full~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Totally, totally. I might've gone and eaten a bit too much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And now, the moment you've been waiting for--dessert」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't want it! I don't want any!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're not allowed to leave anything unfinished, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr, you're a demon. There's an ogre right here!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're the very last person I want to hear that from, Nanaka-san...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go, enjoy the yogurt!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh, urgh, urgh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thanks for the food~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nom, mmm--yummy♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President. This yogurt is just sour and isn't sweet at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, of course it isn't. It's just plain yogurt, after all」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Plus it's homemade Caspian Sea yogurt, man」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no way we can eat this! Let's all give up together, okay! If everyone crosses on a red light--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Where might the sugar be...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You betrayed meee!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Pass me some sugar too, pleaseee」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heartless traitorss!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You got this, Nanaka-chan♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh... Here goes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just close your eyes and you'll be fine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okay, I'll try」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmm~ It's so sweet and delicious♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yeah, it is...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even with my eyes closed, it still tastes like yogurt!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the meal! Man, I'm stuffed and satisfied」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even with a crazy combination like that, we managed to make it fun and tasty」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When I first saw the ingredients, I really wondered how it was going to turn out, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Things always work out somehow」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So by combining everyone's strength, we made the impossible possible」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yogurt, finished!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Congrats!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well then, let's start cleaning up soon」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hold on a second. There's still something left」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait... Even though we set those aside to make stew」"
+  },
+  {
+    "message": "A clay pot bubbles and simmers away on the stove."
+  },
+  {
+    "name": "Synn",
+    "message": "「Who made that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Who knows...」"
+  },
+  {
+    "message": "Everyone blinks in wide-eyed bewilderment."
+  },
+  {
+    "message": "Who on earth could have set up a trap like this?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Could it be--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ugya!」"
+  },
+  {
+    "message": "Paqy collapses face-down without a sound. Eh, leave him be."
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, let's try opening the lid」"
+  },
+  {
+    "message": "The grand unveiling."
+  },
+  {
+    "message": "And curtain close."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on a seconddddd!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Octopus, tuna, buckwheat dumplings, potatoes, carrots, onions, chicken...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fish and chips, wine, and cheese fondue all boiled down in milk and yogurt?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If we run away, we lose... Because running means losing...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-Nanaka... your eyes look dangerous」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Today's rule was 'no leaving any food behind,' wasn't it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte, have you lost your mind?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Got it. Since we decided on it, we just have to do it!」"
+  },
+  {
+    "message": "The stew from the pot is served into everyone's bowls. And all at once--"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thanks for the meal!」"
+  }
+]

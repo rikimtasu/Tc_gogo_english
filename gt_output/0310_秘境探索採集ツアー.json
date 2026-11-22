@@ -1,0 +1,608 @@
+[
+  {
+    "message": "秘境探索採集ツアー"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Presideeeent! Over heeeere」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huff, huff, sorry to keep you waiting~~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, Azel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You remember that matter the chairwoman asked us to handle, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right, about Azel. We were so busy with Kirafes that it completely got put on the back burner.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It has been quite a while.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you saying? You haven't even been properly shown around this academy yet.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why not head outside the academy for a change of pace?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is a brilliant idea!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, considering he is the type to get lost even in his own backyard... he might end up sobbing in anxiety.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nonsense.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so! As a fellow exchange student and your senior as a foreigner here, I shall take it upon myself to show you around!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, aren't you just a returnee, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You usually let it slide, so please don't nitpick only at times like this.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides, Azel, you came here because you wanted to learn more about this world, didn't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then what was your reason?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「See, I knew it. There is no point getting embarrassed about that\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you were embarrassed~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And with that settled, let's go on an expedition together♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Look, look! I can see the ship!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Where are you looking?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aha~~. So you've fallen in love with the President, haven't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Today is just the thing for Azel-san, then. You see, when night falls, parks apparently become wildly popular hotspots for love to blossom」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so... I had no idea...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe. Not that I've ever caught anyone in the act, though\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't tell me today's exploration is...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Art of Exploring Uncharted Adult Territory」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way...\\s03」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not interested」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, are you sure it's okay for you to be out that late...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As long as it's for Student Council activities, Jeeves will allow it, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can you really call that a Student Council activity...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This too is an unavoidable path we must walk in order to make Azel-san an adult!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U―Um, hey. About what she said earlier about you being in love with me―」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's not happening」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Thought so」"
+  },
+  {
+    "message": "For some reason, I felt relieved."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So excited...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Lolotte leans forward, gazing out at the sea."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel? You've been in the exact same position for a while now, are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No problem」"
+  },
+  {
+    "message": "I'm impressed those two can stand in the exact same spot for so long."
+  },
+  {
+    "message": "Especially Azel, who hasn't moved a muscle."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san! Azel-san!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's about to happen, so please watch closely!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You'll just have to see for yourself♪ According to my research, it should be any moment now...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah! Look! Azel-san, please look!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa~~」"
+  },
+  {
+    "message": "The dazzling sun sinks toward the horizon, the sunset dyeing the ocean orange."
+  },
+  {
+    "message": "The setting sun reflected on the water's surface swayed with the ripples of the sea."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel gazed intently at the sight without saying a word."
+  },
+  {
+    "message": "His reaction was the same as usual, yet his eyes were not wandering elsewhere."
+  },
+  {
+    "name": "Azel",
+    "message": "「It's pretty, isn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right, right! This is truly what it means to have one's soul cleansed.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph, cleansing one's soul...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's an idiom. Jeez, Azel-san, you really are so ignorant.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What was that...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, ignorance is a good thing. Because it means you still have the room to learn new things and remember them properly.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well? Did you record it firmly in the diary of your heart?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If my soul gets cleansed...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There's no way I could possibly remember it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please stop splitting hairs. Can't you just accept that something pretty is pretty?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san, do you like pretty scenery like this?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "He averts his gaze."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So you do like it!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I didn't say anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Ngh, I-I'm going home!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehhh~~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not interested」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so? Well then, let's head somewhere with an even more wonderful view!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And with that, I pass the baton to Mr. President\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Out of ideas, huh\\s02」"
+  },
+  {
+    "message": "Still, the only thing left is a spot where you can get a good view of the meteors, though..."
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm good」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Here is fine」"
+  },
+  {
+    "message": "Saying that, Azel sat hugging his knees, gazing steadily at the setting sun."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well then. Badump, badump... It's almost about time, but... Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... Zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's asleep...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel stands up abruptly."
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'm going home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh...! You're not going to stay and watch the main event tonight...?」"
+  },
+  {
+    "message": "Azel silently pointed at us."
+  },
+  {
+    "name": "Azel",
+    "message": "「Cruising spot」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Us!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Adult exploration of uncharted territory」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of Lolotte!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How impure」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pfft! Isn't that a completely baseless accusation!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Ignoring what I had to say, Azel was looking up at the sky."
+  },
+  {
+    "name": "Azel",
+    "message": "「It's pretty, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I can't keep it in my heart」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...! Hey...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz... Azel-saaan. Mumble mumble...」"
+  },
+  {
+    "message": "Still holding Lolotte in my arms, there was no way I could move right away."
+  },
+  {
+    "message": "All I could do was stand there and watch Azel walk away."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh... What a mysterious girl」"
+  },
+  {
+    "message": "I look up at the same sky Azel had been gazing at."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hehe, though Lolotte is mysterious in a different way」"
+  },
+  {
+    "message": "She ran all over the place just to make Azel happy, and ended up never getting to do her own exploring."
+  },
+  {
+    "message": "In my arms, she is breathing softly and peacefully in her sleep."
+  },
+  {
+    "message": "I somehow felt bad about waking her up."
+  },
+  {
+    "message": "Lolotte, who works so hard for someone else's sake. Lolotte, who is a bit reckless and rash."
+  },
+  {
+    "message": "Lately, I've come to feel that being together with an energetic girl like Lolotte is actually fun."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still...」"
+  },
+  {
+    "message": "Gradually, couples of men and women begin appearing here and there."
+  },
+  {
+    "message": "Just as the rumors said, lovers show up to gaze at the harbor's night view and the shooting stars."
+  },
+  {
+    "message": "Naturally, they are nestled just as close to one another as the two of us are."
+  },
+  {
+    "message": "Does that mean Lolotte and I look the exact same way to them... thump-thump."
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hwah!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I have come to pick you up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! Oh! Keeping her out this late... I'm sorry for making you worry」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Not at all. Knowing that you are by her side, Chairman, puts my mind at ease」"
+  },
+  {
+    "message": "And yet, why are you pointing a gun at me!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, Lolotte. Riesling-san is here to pick you up~」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady. We are at your long-awaited lovers' spot」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I can't eat another bitee~~ eheh... zzz」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, she's completely out...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Excuse me」"
+  },
+  {
+    "message": "She slips an arm around Lolotte's shoulders and lifts her up in a princess carry."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ufufuu... Presideent... I'm surprisingly heavy, you knoow...?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because my boobs got big just like Senpai's~~ zzz, zzz」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte... ngh, what kind of sleep-talking is that...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's true, you knoow... Then, do you wanna try touching them~~?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...Just what on earth were you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm telling you, I wasn't doing anything--!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please be sure to exercise proper restraint」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah! I-I got it...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then, please excuse me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Goodbyeee~~」"
+  },
+  {
+    "message": "Well then, I should head home too...."
+  }
+]

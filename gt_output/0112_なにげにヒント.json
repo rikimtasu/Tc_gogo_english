@@ -1,0 +1,462 @@
+[
+  {
+    "message": "なにげにヒント"
+  },
+  {
+    "message": "Alongside preparations for the Kirafes, finding spare moments amidst the busyness――."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh my, blown to smithereens」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You've got some serious power there, Nanaka」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With this much firepower, nothing stands a chance」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm~~. Still, the timing for aiming is a bit tricky, isn't it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No matter how strong an attack is, it's meaningless if it doesn't hit」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're great at stopping the opponent's movements, Misa」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, though she kind of lacks a decisive finishing blow」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Says the one who only knows how to fight like a brute, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, that's why the key in times like that is to fight by playing to each other's strengths」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「For example, first Misa slows the opponent down with an attack, and then Nanaka follows up with a 'Zugoooogooooon!!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'BAGOOOOOON!!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Ria-senpai……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte, get ready to heal him, okay」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oka~y, all set and ready to go~\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't tell me that means……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm playing nurse today~~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This might hurt a little. Ehehe\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't give me 'ehehe'――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Prepare yourself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Waaaaah!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey!! If you run away, this won't be any practice at all!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right, Synn. You could have turned the tables if you'd just fought back.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was a sneak attack, wasn't it!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And now, it's my turn!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm just the warmup act!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gahaaa!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Pain, pain, fly away like a moth to the summer flame.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-thank you……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「See? Everyone's skills are really starting to show their individuality, aren't they?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just the punching bag, and you haven't even done anything, Senpai.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha……\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm basically the one who saps the opponent's will to fight, and as for you, Synn……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-well…… I guess your individuality is that nobody really knows what it is?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How half-assed.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not half-assed! That's the conclusion I reached after watching you closely as your senpai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Making things up again.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I said I'm not making it up~!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Anyway, it just means you're still an unknown quantity! You need to train way, waaaay harder than you do now, Synn!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. It's totally ridiculous that you're the weakest one here.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Though even if you work hard, you'll probably only barely catch up to me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As the saying goes, a bad workman rests on his laurels, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Grrrr…… Is it really okay for the Student Council President to be treated like this?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How things turn out is all up to you, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-alright! Senpai…… please go out with me!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh my!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How bold~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「G-going out with you, you say…… ba-dump」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now, now. You shouldn't be teasing the president like that, Ria」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Misasagi-senpai. Hello there. What do you mean by me getting teased?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You meant keeping you company for practice, right. Ahaha…… everyone else played along so I just couldn't help myself\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah, so that's what this was about!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah! That's right!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right!! Of course that's what it was!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So it wasn't a courtship command after all」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You really are an honest girl, aren't you, Lolotte~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There you are, Bubuzuke!! Today's the day I make you say 『Gah!!』 with my ultimate finishing move!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「『Gah!!』--will that do nicely?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr…… I'll let you off with just this for today!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Much obliged. Ria, here are some refreshments for you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Waa~~ thank you~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Refreshments from the Wagashi Club means it's gotta be……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wagashiii~~\\s04」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Would you have preferred Western sweets instead?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Leave soba to the soba shop, you know!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you're going to say that, it's mochi」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To think I'd be corrected by Lolotte-san……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry to trouble you--wait, wagashi?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, we're the Wagashi Club, after all」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's right, yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, that makes sense」"
+  },
+  {
+    "message": "I wonder if the reason Ria-senpai always had wagashi on her was thanks to her club?"
+  },
+  {
+    "message": "Though it seems she quit to draw a proper line when she became Student Council President."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, thank you for the food~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank you very much. Let's dig in」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guh……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Aren't you gonna eat?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if my pride allows it, cake will never forgive me!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Aren't they sweets too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll gladly have some in your place. Aaahhh~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hold it right there~\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaah--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on, let's close that big mouth\\s04　That's sloppy\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're still going to keep practicing, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I have to wait, huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Moving around right after eating is bad for your body. If you eat after you exercise, you'll absorb the nutrients properly」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. So that secret is what built Senpai-san's amazing figure」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And chewing your food well. Munch, munch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're sneaking bites already」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm holding back from eating too, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You're always eating, Ria. You can put up with this much」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Waaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haha. So even you can't eat until practice is over, Ria-senpai. Got it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Jeez, Ayashiki-chan~~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee, forgive me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well then, shall we go a round?\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「How gallant」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course, he is our counselor, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not really something for you to puff your chest out over, Nanaka-san」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my, oh my. Aren't there still some daifuku left over?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ah, those are--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll help myself, then! Nom! Nom!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They're delicious~~\\s07」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Sorry to both of you~~\\s02」"
+  }
+]

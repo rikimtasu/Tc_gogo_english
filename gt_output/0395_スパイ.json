@@ -1,0 +1,384 @@
+[
+  {
+    "message": "スパイ"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was thinking about this the other day, after we found Ardin and saved Azel from that tight spot, but」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mean when the Demons ran away, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think our patrol routes have a lot of blind spots?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now that you mention it... I don't remember ever patrolling around there」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I noticed that ages ago, though!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then say something. That's lame, Hisa」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm. Synn, you said the Demons didn't seem like they wanted to fight, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. They didn't seem like they were running away out of fear, either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It felt more like they'd been ordered to run if they ran into us」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They're choosing places where they're unlikely to run into us. And if they do, they flee... Is that what's going on?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could they be predicting our movement patterns?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, the situation is far more serious. This is definitely the work of a spy」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That Waitress is stealing information about us!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Doesn't really ring a bell」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't think she's that sharp, anyway」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, she doesn't have any connection to us」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ding! I've figured out who the spy is!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yoo-hoo! I came to hang out~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The spy is Ms. Omake!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whaaat?! Me, a spy?! An intellectual worker?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's even less likely」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah. At most, she'd just sneak into our stash of snacks」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmph. Hey, you're treating me like I'm a dummy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not it. It means we trust you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, I get it! Everyone except angels is a good guy!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan. You shouldn't call someone a spy without any proof, no-no」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Droop~*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's check it out on-site!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh. I don't usually go this way」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're quite the airhead too, Vice President」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't want to hear that from you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh. There were actually a lot of spots we hadn't patrolled」"
+  },
+  {
+    "message": "Nanaka checks off spots on the park map she is holding in her hand."
+  },
+  {
+    "name": "Ria",
+    "message": "「We've been overlooking places where the paths are narrow or dark from overhanging tree branches, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Also, almost all of the dead-end paths」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「But going down paths that are dark even at this hour late at night is dangerous」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「We patrol 'em *because* they're dangerous, don't we?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Danger should be avoided」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You guys are all dummies! Just fly. You can see way better from up high」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because we can't fly」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, Lolotte-san, it wouldn't be much of a patrol if we avoided the dark paths」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I suppose it wouldn't be a problem for you, Vice President, since you've abandoned your maidenhood」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't just let that remark slide!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「After all, it's 'A Maiden in Love is ★ Heart-Pounding! Throbbing Summer Vacation'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That was, um」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you haven't thrown it away, don't walk the streets at night」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't want to hear that from you, Azel-san, wandering around after school hours without even having patrol duty!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now, Misa-chan. Azel-chan is just worried about everyone's safety, and Lolotte-chan didn't mean any harm」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right. Senpai-san understands very well. I'm simply being honest」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That makes it even worse!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Still, it's a fact that the danger has increased」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which is all the more reason we have to patrol」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But if the area we have to patrol expands, we won't have enough hands」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What can't be done can't be done. Don't push yourself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, Sally-chan! Won't you help us out?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Could that be intellectual labor? Am I intellectual?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No. Idiotic」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gasp. I feel like you just said something really awful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's you, Sally-chan, you can do it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez really gets me! Leave the intellectual labor to me!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll try asking Boss too!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're letting a Demon General into the academy?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's already one here anyway」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And that's what happened」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Sigh... What a pain, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even based on my information, the encounter rate will likely go up」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Still, no matter what, Eauderourke surely won't participate, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「He will」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyaaaaaah! He should just stick to eating, nya!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If demons capable of flight join in, the odds of being spotted go up. Be careful.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Could it be you're worried about me, nya?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'll tell everyone to run if they run into the Student Council, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Did you see Lord Virus and Pervert Ardin fight, nya?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The gap in strength was too wide. It was foolish.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Still... I kinda get it, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Get what?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Everyone turns into an idiot when they fall in love, nya... Though that guy was an idiot to begin with, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Have you ever been in love, nya?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's pointless.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Whether it's pointless or not doesn't matter, nya. When it happens, it just happens, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's only because they've let their guard down.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Before you even realize it, your eyes end up following just that one person, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't have anyone like that!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Why are you getting all worked up, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up.」"
+  }
+]

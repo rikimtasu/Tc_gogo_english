@@ -1,0 +1,827 @@
+[
+  {
+    "message": "サバイバルに必要なもの"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright then, shall we head out?」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Eaude, heading out!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, is the Prez coming along too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just for the start, yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He's probably worried whether you two will actually do your jobs properly」"
+  },
+  {
+    "name": "Sally",
+    "message": "「We totally will!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I trust you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「After all, beef bowls are on the line~♪」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Want beef bowl!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, you're all fired up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「More importantly, why are you even here, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? Oh, to keep an eye on whether you're doing your job properly, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you finish your accounting work?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course I did!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Plus, if I make the rounds to thank the cooperating shops while I'm at it, that's killing two birds with one stone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Then, Boss, roll out!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「KiraFes! Beef bowl!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, beef bowls are a separate thing」"
+  },
+  {
+    "message": "With Eauderourke in the lead, they parade through Ryuusei Town."
+  },
+  {
+    "name": "Sally",
+    "message": "「Everyone, come hang out at KiraFes!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「KiraFes, please come!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「There'll be tons of yummy food too!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Beef bowl!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah, things are going smoothly」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, I'm pretty much done over here too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. Well then, shall we make the rounds outside the shopping district too?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「KiraFes~, it's KiraFes~」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Fast, cheap, delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you even advertising here……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's probably fine」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, how's this, how's this? Are we being helpful?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. You're doing great!」"
+  },
+  {
+    "message": "At this rate, it looks like we'll be able to draw in quite a crowd."
+  },
+  {
+    "name": "Sally",
+    "message": "「Do we get to eat beef bowls?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course. Right, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You bet. Plus, depending on the turnout on the day of, there might even be a second bowl in it for you……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really!? Yay, I'll work even harder!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Work, more! Eat, beef bowl!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Quite the schemer, aren't you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahaha, I wouldn't go that far」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmm~? Prez, there are people in the park too!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「KiraFes, advertise!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, wait, wait……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ta-da! Don't forget to check out KiraFes~!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Fun, tasty, festival」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Huh? And who might you be?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'm Sally-chan, idol of the Demon World\\s07 And this here is my Boss」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Eauderourke」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmm. I'm Macaron. As you can see, I'm the Demon Lord, so keep that in mind, okay!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Demon Lord? What's that, is it tasty?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh... An unexpected reaction...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey--wait, huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What the, it's just Mako-chan」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Ah, it's Big Brother and Big Sis Nana again」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Why are you with the Demons? Bullying them again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, we're not. They're helping out with Student Council work.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Forced labor!? That is bullying!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm telling you, the Student Council properly hired them」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A normal job?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yep. If we advertise Kirafes, we get beef bowls♪」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Beef bowl, yummy. Ode, happy」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph, is that so...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You guys actually have a surprisingly nice side to you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it really that surprising...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's okay, I don't think so at all」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Prez, good guy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aw shucks, you're making me blush」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Quit being gross」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mgh... Even I can...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Well, as long as it doesn't get in my way, I'll let it slide!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Macaron, aren't you interested in the Student Council?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm busy, so I'm not gonna help you out, okay!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see--that's too bad」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, what's the ever-so-busy Mako-chan doing out in a place like this?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Who knows! Why don't you guess?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmmmm... practicing for a school play?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I got it! Playing house!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「I'm hungry」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, stop making fun of me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A tent, and the remains of a campfire... It almost looks like you're camping out here」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, spot on?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-What's wrong with that! I'm doing it 'cause I want to!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why camp out, of all things?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I told you, it's so I can become a proper Demon Lord!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If I can't live independently like Master, I can't call myself full-fledged!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahaha, back on the Demon Lord thing again...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That mindset is admirable, but camping out in a place like this is dangerous」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I'm fine! I'll manage with the survival skills Master taught me directly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ho-ho. In that case, I also have secret money-saving techniques」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't try to compete with her. Yours is just being cheap」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think there's some common ground there, though」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Don't lump me in with Big Brother's pathetic little tricks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's a hurtful way to put it!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi, I did it on purpose, so there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I don't need big brother's help at all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You've got a cute face, yet you aren't cute at all, you little brat!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaah! Jeez, stop pulling my hood! Big Sis Nana!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahahaha! Sorry, sorry. I've just been wanting to touch it for a while now」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuugh, take this as payback!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Wait, huh, Alzard...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oooh~ Looks good on you, Boss~」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Me, look, super cool!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, Prez, think we can use this weird signboard for advertising?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, Sally. You'll get hurt if you touch it carelessly」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaaah!? My Alzard!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「For now~ I happen to have a marker on me, so...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ki~ra~fe~s, and done」"
+  },
+  {
+    "name": "Sally",
+    "message": "「There we go♪」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Gyaaaah! Don't doodle on it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's not doodling! How rude」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uwaaaan! Give it baaack!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Kyau!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「My, belly, bumped」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron, are you okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「U-Auuu... H-Huge... Something like this, no way, I can't handle it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Macaron?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, isn't she acting kinda weird?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Were you really that startled? Even though Boss's belly is so squishy」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaauu... Noo... It hurts, I'm gonna die...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh dear, you scraped yourself. Hold on, I've got a bandage」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Jeez, what are you doing, Boss!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Me, too big, sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, Macaron. Eauderourke looks like he's sorry, too」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Haa, uuu... Noo... No more of thiiis...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There, that ought to do it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Waaah~! You took iiiiit~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? H-Hey, Macaron!?」"
+  },
+  {
+    "message": "She suddenly throws herself onto the ground, flailing her arms and legs wildly."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nooo, nooo~! Why'd you take it~! Meanie~!」"
+  },
+  {
+    "message": "Flail, flail, thrash, thrash."
+  },
+  {
+    "name": "Macaron",
+    "message": "「Thaaat's miiiine~! I don't wanna be without iiit~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Calm down, Macaron. You're gonna get your coat dirty, okay?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuu~ uuu~! I don't wanna!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa! A full-blown tantrum~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What am I supposed to do?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey now, Maco! Stop being so selfish!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hic...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See? She calmed right down」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Uuuu~ aaaah~~~! She yelled at meee~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek! That totally backfired!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're bullying me~! Sca-ry~!」"
+  },
+  {
+    "message": "Flail, flail, flail."
+  },
+  {
+    "name": "Sally",
+    "message": "「P-Prez! Here you go!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah! Lo~ok, Macaron, it's Alzard~....」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Sniffle.... Au.... You'll give it back?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I won't take it anymore」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「....Really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's okay!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「....Ehehe~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「This~ is mine~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew....」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Geez, you're a big dummy, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry....」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Even though I told you to stop, doing something someone hates--I can't believe you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes....」"
+  },
+  {
+    "message": "The Student Council's blunder is my blunder as the president, after all...."
+  },
+  {
+    "name": "Sally",
+    "message": "「Really sorry about that, Mako-chi」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode, very, sorry」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「W-Well, if you can promise you'll never pull a prank like this again, I'll forgive you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Promise, promise. No more pranks! Probably」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Ode and, Sally-chan, good kids」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mm, good」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well then, you two keep working hard at your job, okay」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oka~y!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, shall we get going too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, Macaron...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph! I hate you, Big Brother!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha, rough luck for both of us, huh」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...Listen up, Big Brother」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「If you're the leader, scolding your teammates when they need it is an important part of your job, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll be more careful from now on...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Honestly, I thought you were gonna help me out, and you turned out to be totally useless」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You're such a wimp, Big Brother!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bwahahaha, no arguing with that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, you're so mean too, Nanaka」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...A-And also... Big Brother, Big Sis Nana」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「About what happened earlier, um... it's a secret, okay!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「I mean, the fact that I'm... helpless without Alzard! It's a super, super big secret, got it?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「You can't tell anyone, okay...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... yeah, got it. I won't breathe a word.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, everybody's got stuff they don't want poked at, right?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Someday, eventually, I'm definitely gonna overcome it...」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「But until then...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. It'll be our little secret.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Mm... Alright, you guys can go now」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Look, I'm super busy, you know!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, see ya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Aren't you coming to KiraFes, Macaron?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...I don't know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure it's gonna be a really fun festival」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「...If I'm free, maybe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. You really are a hard worker, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That's right! So I have no idea if I can go or not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「See ya, bye-bye!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, later--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha... I can't tell if they get along or not...」"
+  }
+]

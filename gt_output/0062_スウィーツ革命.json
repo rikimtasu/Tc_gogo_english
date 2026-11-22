@@ -1,0 +1,1198 @@
+[
+  {
+    "message": "スウィーツ革命"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「So I just need to put up this poster?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thank you, Auntie!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「If you want, I can talk to the shops around here and have them put some up too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We appreciate it, but it's the thought that counts」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since we're the ones asking them to put them up, we need to properly greet each place one by one」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「True enough. Being Student Council President is really starting to suit you, Synn-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not at all... I still have a long way to go」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's right. He's still so unreliable」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「You two sound just like a young wife propping up her hopeless husband」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you saying! Honestly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you hitting my back!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「She's just hiding her embarrassment. You still don't understand a woman's heart at all, Synn-chan. Maybe I should give you a little lecture\\s05」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-We're fine. We'll pass! L-Let's go, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stop pulling me--thank you very much」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「With this, almost all the participating shops have put up our posters, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's see... I'll check right now... check this one, and this one, and this one... yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then that wraps up today's Student Council activities」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We finished way earlier than I thought we would. That's all thanks to Nanaka's--」"
+  },
+  {
+    "message": "hard work, I was about to say, when she cut in."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, shall we meet up with the detached team?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Detached team?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin. Oh, it's me. How are things on your end?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Going smoothly! Okay. Just one final push to get new members--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? What? Anyway, we're meeting up. I'll fill you in on the details then. Right now I'm at the crossroads near Shinagawa Greengrocer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did something happen to Sacchin?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't really get it myself, but hey, we'll find out once we meet up」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey there, you two--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sweets are the best!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Out of nowhere!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, sweets are the best!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So yeah, that's how it is--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I have no idea what 'So yeah, that's how it is--' is supposed to mean」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Blah blah, yadda yadda--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh. I see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, sorry. I don't get it at all」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, you're a big shot, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well... I wonder about that?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「If you're a big shot, you should pass a law saying nobody in the world is allowed to eat anything except sweets」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You see, for 'Operation Brainwash Sally,' I fed her a whole bunch of sweets to hammer home just how delicious they are--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... no matter how badly you want to expand the club...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wish she'd at least kept the operation name a secret... though it's too late now」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahaha-- It's too late now--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, Prez. Rewrite the law, gotta buy more sweets」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heyy. Sally's broken」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm. The brainwashing worked a little too well. I miiight have fed her a bit too much. I kept count up to twenty, though--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「J-Just because it was coming out of my wallet, you... I picked the wrong person for the job!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I felt like the exact same thing happened with Nanaka's underclassman Okamoto-san, too, but out of a warrior's mercy, I kept my mouth shut."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Don't worry. I held back and held back, and only ate three for myself~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...You bought your own share yourself, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No way, I believe in Nana-chan being super generous~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't believe in me! Give my wallet back right now. And return your share while you're at it」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Stingy~. Here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uuugh... Drastically reduced...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Boss Nanaka. The Prez won't make the law for us. Should I have the Delicious Food Squad--newly renamed the Sweets Squad--rough 'em up?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, violence is out of the question for a Sweets Club poised to take flight across the world」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To me, it only looks like it's on the verge of sinking right here in Ryuusei Town, though」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun, that's a sharp comeback~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh. You don't get it. None of you get it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sweets are the best!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fufufu. Brainwashing--ahem, educating Sally-chan is the first step toward a grand ambition!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I doubt there's even going to be a second step, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If I keep brainwashing demons one after another and dyeing them in sweets ideology like this, the Sweets Club will spread its wings beyond the narrow world of Ryuusei Academy--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And make a name for itself as a global club that even has demons as members!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Better not say a word."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then membership will skyrocket. As an ultra-famous club, branches will be established one after another off-campus, and eventually overseas and even in the Demon World! Plus, the formation of the Japan Sweets Party!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Seizing power! Ruling Japan! A sweets revolution sweeping the globe! The world is one family, and all of humanity eats nothing but sweets!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uwahahahahahaha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... Your direction has completely changed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So even when it's global, it's still just a hobby club~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, what's a soba shop supposed to do if the whole world only eats sweets, huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sweets! Long live sweets! Anything that isn't sweets is pig slop!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, that's right. Long live sweets!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Anyway, the die is cast and I've crossed the Rubicon, so there's no turning back now until the World Sweets Revolution is complete!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As your childhood friend, this is my final warning. Turn back.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It'll be fiiine. There's no way a plan this detached from reality is gonna work out anyway~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, I don't wanna hear that from you, Sacchin」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Long live the Sweets Revolution! Until the world burns to ashes in sweets!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See, even the brainwashing went this well. It's totally grounded in reality.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Undo it for her.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know, I don't think humans should ever look back.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun, it's fiiine. She's definitely gonna fail. If stuff like this actually worked, we wouldn't still only have three club members~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good point. Wait, Sacchin, you sound surprisingly sharp today.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe. Praise me, praise me~」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Nanaka-han sure is lively as ever, isn't she~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mgh! That voice!?」"
+  },
+  {
+    "name": "Girl",
+    "message": "「Good afternoon, President-han.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, hello. Huh, Ria-senpai?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good afternoon, President-han.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. Hello, Misasagi-senpai. Huh, Ria-senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Um, well. I finished up today's work and thought I'd buy some tea sweets for the first time in a while, and then I ran into Ayanishiki-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ayanishiki-chan... meaning」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My friend. She's the president of the Wagashi Club♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahhh, so you're the Misasagi-senpai Nanaka talks about all the time.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bu-bu-zu-ke!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My, what a terrible thing to call someone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How lovely it is to get along」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hello there~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ria-senpai. I really think you ought to be more selective with your friends」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I couldn't agree more. Though in the Student Council, where members are chosen from whoever runs, that's simply out of our hands」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...And what's that supposed to mean?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't drag me into this」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn. You don't need to bother greeting someone like her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A cheerful greeting is important, you know~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Plus, I don't wanna make unnecessary waves~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-um, well. I don't think it's good to pick a fight right off the bat」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Boss Nanaka. Who's this person?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Madam President. Who might this little one be? I don't believe I've seen her face before」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This girl is, well, how do I put it...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ah, could she be the Sally-chan you've spoken of?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Am I famous or something!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm the one who told her about you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, that explains it」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Sally-chan, Sally-chan, Sally-chan... What a lovely name」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa! She just complimented me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't fall for it, Sally-chan! She might look like that, but she's the enemy! Keep your guard up!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Got it! So you're the bubuzuke standing in the way of our sweets revolution!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Found out so quickly, was I? How careless of me.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So you're the president of the evil organization 'Wagashi Club'!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I am Ayae Misasagi, representative of the secret evil society, Wagashi Club.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eeeh?! Since when did that happen?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't provoke Sally-chan.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Now that we've met, your luck's run out! Sally-chan, representative of the Delicious Food Squad--now renamed the Sweets Squad--is gonna bring divine punishment down on the evil boss!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My, what an energetic child. Though before we get into all that complicated business, there's something we must do first.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Something we must do?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Something you love very much.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Something I love?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't listen to the devil's words.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「As a token of our acquaintance, it's just a little nothing, but please accept this.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「W-What is this?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now, now, don't be so frightened. It's food. It's called rakugan.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「C-Could this be?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's right, Sally-chan. This is the Sweets Revolution's greatest enemy! Wagashi」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I-I was about to be fed poison! I won't fall for that trick!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Sacchin. What exactly did Nanaka put into Sally-chan's head?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Pretty much exactly what she's saying right now~ Can't help it~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Don't make such a scary face. Besides, if you say you're going to fight, I'd think it's impossible to fight an opponent if you can't even eat them.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mgh」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Or are you already cowering in fear before the fight even begins? Well, fighting is scary for anyone, so it can't be helped. Nobody at all would call you a coward.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's not true! I'll gobble something like this down in one bite!」"
+  },
+  {
+    "message": "Sally-chan snatched the rakugan right out of Misasagi-senpai's hand, and."
+  },
+  {
+    "name": "Sally",
+    "message": "「See! Something like this isn't scary at all! Or rather...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa. This is delicious too! What was this food called again?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It's rakugan. I am truly delighted that you've taken a liking to it.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I love it! Rakugan is delicious! Sweet and delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "And with that, the sweets revolution comes to THE END."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「See, told you it'd fail~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin is really on point today...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Seeing you eat with such joy makes me happy as well. Would you care to have plenty more?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah. I wanna eat more!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Ria, do give her the ones we bought earlier. I'll go buy replacements tomorrow or so.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally-chan. Here. You can have all of these.」"
+  },
+  {
+    "message": "Inside the box Ria-senpai held out, tiny pieces of rakugan were neatly lined up."
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa. Delicious, delicious, delicious, delicious! Sweet and delicious!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Wagashi are quite wonderful too, aren't they?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uh-huh. Sweets are yummy, but wagashi are great too!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Next time, do introduce me to your friends from the Sweets Squad as well.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sweets Squad? Wrong! It's the Delicious Food Squad! Don't get it wrong!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Right, right, of course. How silly of me to make such a mistake. Please forgive me.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka. Isn't it a good thing that Sally-chan isn't a picky eater?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think it's something worth fighting over either.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait, Nanaka-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka! Wait, she came charging back at full speed?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sally-chan!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What? I'm busy with my rakugan right now~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Take this!」"
+  },
+  {
+    "message": "What Nanaka thrust out toward Sally-chan was a chocolate banana crepe!"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooh, it smells sweet and yummy! Is it good?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Crepes are delicious!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll eat it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nom munch chomp, it's good! Sweet and yummy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good, right?! These are sweets too! Way better than wagashi!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So good~\\s07」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now, now, Sally-chan. There's a proverb that says a hasty beggar gets little. Wouldn't it be fine not to jump to conclusions so quickly?」"
+  },
+  {
+    "message": "Saying so, what Misasagi-senpai held out was a manju bun."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nngh, so that's how you're gonna play it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Nanaka... she's at it again」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooh, it smells sweet and yummy! Is it good?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I wonder. Still, many folks say this manju is quite delicious」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll eat it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nom munch chomp, it's good! Sweet and yummy!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Rakugan isn't all there is to wagashi, you know」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Wagashi is so good~\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hooooold it right there! Objection!」"
+  },
+  {
+    "message": "With that shout, what Nanaka held out was soft-serve ice cream."
+  },
+  {
+    "message": "Wait, feels like the price tier is dropping..."
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooh, it smells sweet and yummy! Is it good?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course soft-serve is delicious! Come on, eat up, eat up!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll eat it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Lick lick nom, it's good! Sweet and yummy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good, right?! These are sweets too! Way better than wagashi!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So good~\\s07」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now, now, I don't think it'd be too late to make up your mind after having plenty of this」"
+  },
+  {
+    "message": "Saying so, what Misasagi-senpai held out was a monaka wafer."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nngh. So that's your move this time!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Nanaka... she's at it again」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooh, it smells sweet and yummy! Is it good?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You never know how food tastes until you try it, so that's for you to decide after eating. Would you like some monaka?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I'll eat it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nom munch chomp, it's good! Sweet and yummy!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There are all sorts of wagashi, you know」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Wagashi is so good~\\s07」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh? I thought Nana-chan would come back right about now~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Wawah. Wh-what!? Are you gonna feed me by any chance? Yay~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We ran out of money because you kept stuffing your face!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It wasn't me~, Sally-chan was the one eating~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, you know. I've been thinking for a while now. Maybe we don't really need to fight」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah~. Fighting only breeds sorrow~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's right. As expected of the former Student Council President, Lia's words really carry weight」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... That's my Ria-chan for ya」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Pomona!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah! Shut up! At this rate, sweets are gonna lose!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said. Winning or losing is ridiculous in the first place」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's with looking at my face and sighing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you had any money, Synn, I'd borrow it from you, though」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's no use looking at my face either~. I don't wanna cooperate in such a pointless battle~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Pointless!? Aren't you frustrated as a member of the Sweets Club!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I only specialize in eating, after all~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, you guys. What are you doing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Watch your everyday behavior. You're a Student Council officer, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about you, Misa, what brings you here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shopping for dinner」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, you see. How should I put it, well...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It's so ridiculous it'd make you laugh if I explained it... quite the complicated affair, really. You won't gain a single penny from it, so wouldn't it be best not to ask?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah... I don't really understand, but is that so?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Aaah! What's that you're holding in your hand?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This girl really has no self-control when it comes to food. It's a free sample candy they were handing out in front of the station...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait, she's already eating it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「The candy is yummy! Sweet and yummy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hehehe, I win! Candy is a Western sweet!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well... if I had to say which...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's a Western sweet, right! A Western sweet!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is that really important enough to press me with that much intensity?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not important」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's important to me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heh heh heh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Japanese sweets are defeated!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I hate to throw cold water on you while you're laughing so merrily, but it's still too early to gloat」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I still have an ace up my sleeve, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What?!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I wonder what would happen if I brought out some 'Sumeragisuika' yokan right now?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guh. P-pulling out an expensive-sounding trump card out of nowhere! No fair!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is fairness really the issue here?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Bring it out if you think you can!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Are you truly sure you don't mind if I do? I certainly don't mind at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um. Let's just stop already. Somehow, I'm starting to feel sorry for the sweets」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think it's fine if both are delicious. Why isn't that okay?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, I'd be fine with that myself, you know, but since this troublesome person here looks like she's about to cry and insists on keeping it going, I think it's a pointless battle, yet there's no helping it. Forgive me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, don't treat me like some pitiful kid!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Setting aside contests and all that, I think in an ordinary household, people eat both. My family does, too」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Mine too, dear」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You lack purity! The god of wagashi is weeping!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「The god of wagashi is quite forgiving, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sally-chan! Don't go falling for cheap stuff so easily either!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「But it's yummy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I chose the wrong person for the job……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now, now, don't get so down. Living is all about making mistake after mistake, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're right…… Wait, don't you go comforting me!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I just realized something. This girl is always saying 'it's sweet and delicious.' In other words, doesn't anything work as long as it's sweet?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah…… come to think of it, that's true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan. I'll give you this rice cracker」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Where on earth did that come from!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I got it from a nice lady in Shinagawa earlier」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa! It's salty and crunchy and delicious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「After something sweet, a rice cracker really hits the spot」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I see! It's yummy!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What a truly honest child. Watching her warms the heart. Quite a big difference from a certain someone, wouldn't you say」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you talking about me!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I couldn't possibly say from my own lips, now could I」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mgh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now. Since rice crackers aren't sweets or sweet wagashi, wouldn't ending with this make things nice and clean?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Clean or not... what are you even doing?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, for Synn's sake, I'll call it a draw for today!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What a troublesome person you are. I don't mind letting you have the win, you know?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sayanishiki-chan. Don't provoke her like that\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Forgive me. Teasing this one is just so amusing, you see. There I go saying unnecessary things again」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't toy with people!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now, don't get all worked up. Well then, pardon the intrusion」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then, see you all tomorrow」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See you tomorrow」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, bye-bye from me too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, I'll walk with you part of the way! Everyone! Don't be late!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aah. Even though I was winning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still going on about that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, well, whatever. Wouldn't want to make Synn lose face, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I'm the treasurer?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Because we're childhood friends」"
+  }
+]

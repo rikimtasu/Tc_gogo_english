@@ -1,0 +1,448 @@
+[
+  {
+    "message": "マーク"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu... What should I do?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Go home」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't say that, please tell me. Aren't we close?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Our relationship is nothing special」"
+  },
+  {
+    "message": "When I came to the library to borrow some books, I ran into Azel and Lolotte."
+  },
+  {
+    "message": "They seemed to be having some kind of argument in front of the entrance. Lolotte was clutching Azel's cuff and refusing to let go."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, what are you two doing?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am alone. I merely came to the reading room to look at a photo book」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sob, sob, I'm here too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「She is simply clinging to me on her own. Let go」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I didn't actually want to separate either, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What should I do to make up with a friend I had a fight with?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not know. Take this person named Amyrina and go home at once」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm saying I don't know how to take her with me~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Take her where?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!? I-I-I-It's nothing at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, right, it's no big deal. So calm down, Lolotte」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Put your wings away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...! Shh, shhhhhh!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I-I-I'm not an angel or anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's right! No matter how you look at her, she's human!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is incorrect」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel, come on...!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Probably to avert her eyes from Lolotte and me, Azel looks up at the library's second-floor terrace. Even so, she doesn't shake Lolotte off at all. She's being considerate in her own way."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Higuu...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……?　○?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? My tests are full of ×'s」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mine too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We're two of a kind, sparkle sparkle~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I don't think that's quite...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's \\s07」"
+  },
+  {
+    "message": "Azel keeps her gaze fixed on the second floor of the library--on its outer wall."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I see! You found a mark too, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I did. What is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The library and the school building are old structures, right? They've been renovated many times, but they try to preserve the original materials as much as possible」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That mark is the stamp of the manufacturer that made the firebricks」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kuwawah! I can't see it at all? All the bricks around there are rough and completely flat」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They aren't on every single one」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, probably so they don't form a pattern. They're mixed in at a modest rate of about one in every few hundred」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There's one in that corner over there too, a ◎」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa! Amazing, I never managed to spot that one」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why are there multiple marks?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bricks from all sorts of manufacturers were used, so nobody knows how many types there are in total」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Back when I first enrolled, I used to run around looking for them with my friends as a game」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Friends...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I'll find one too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh? You let go of my sleeve」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hehe」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, I found it under the window over there! It's a mark with the character '疎'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-My feathers...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahem! There are actually quite a few of those bricks. They were probably fired for the neighboring town's canal, and the leftovers got repurposed here」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's ◇. Right to the left of the second round window from the right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmph, I'll go find something even rarer. *Rumblerrrr*」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Slightly to the lower right, dead ahead... there's a ＊ mark」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You've got really good eyes, don't you, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do I?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, President♪」"
+  },
+  {
+    "message": "Ah, more feathers again..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huge discovery! I found something weird. What does 'skrowleetS iesuyR' mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You read that backwards. It's 'Ryusei Steelworks.'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see~! Now that you mention it, the Vice President did say that ancient writing is read in reverse.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm...? Wait a second. The only things you ever find are symbol marks, right, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President, the characters here are really difficult. It's going to take some time before you're able to read them.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I know that!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There, five!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Over there, six!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawaaah!? He's getting mad and pointing at the few kanji numeral marks he actually knows!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Lolotte... stop saying things that only pour oil on the fire.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'm not angry」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oka~y♪ It's like a treasure hunt, so it's fun」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed. I understand」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hold on, don't run away」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fueh~?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I cannot offer you advice. However, I have zero intention of aiding your escapism」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you have time for such pointless antics, go to Amyrina」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-It's not pointless, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Someday I'm going to come here with Amyrina and play at finding the marks together... Because non-students can use the library on weekends, too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even so, do not let your wings show in public」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hiiin!? I-I-I-I'm not showing the~m!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahahaha」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry about that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seeing Azel, with that angel's halo of his, lecturing Lolotte just seemed kind of heartwarming」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A halo? I have no such thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean the shine in your hair. You take good care of it, huh? It's so silky and pretty」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is 'angel's halo' a metaphor?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it is?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee, an angel just passed by, didn't it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Incorrect. It was running」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawawawawah!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-You know how sometimes you're chatting, and suddenly everything goes dead silent?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In this world, they say 'an angel is passing by' when it gets quiet like that. Hmph!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A fine expression. I did not know it.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's my way of paying you back for teaching me things, Azel-san.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have instructed you in nothing.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's fine. *Smile*」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, I'll be off now♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, you should hurry as much as you can.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No matter how firmly baked a brick is, the marks will fade away as it's exposed to wind and rain.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I'll do my best!」"
+  },
+  {
+    "message": "After Lolotte left, Azel and I searched for marks just a little longer, and then headed inside the building."
+  },
+  {
+    "message": "...To be pedantic, what Lolotte said about 'an angel passing by' is wrong. That phrase refers to an unexpected silence that falls during casual chatter among a large group."
+  },
+  {
+    "message": "The silence between Azel and me wasn't like that."
+  },
+  {
+    "message": "Still, pointing that out would probably be pretty tactless."
+  }
+]

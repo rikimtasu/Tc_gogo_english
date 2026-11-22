@@ -1,0 +1,858 @@
+[
+  {
+    "message": "普通の人々"
+  },
+  {
+    "message": "I throw open the window of my room. The Sunday morning air is crisp and refreshing."
+  },
+  {
+    "message": "And the weather is wonderful too. It's the perfect day to clear my head and heart and write a song."
+  },
+  {
+    "message": "The lovely aroma of freshly brewed black tea."
+  },
+  {
+    "message": "Thanks to the midwinter chill filling the room, delicious-looking steam rises from the tea."
+  },
+  {
+    "message": "And a faintly sweet scent."
+  },
+  {
+    "message": "In just another week or so, the strawberry jam he gave me will probably be completely gone."
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll be fine」"
+  },
+  {
+    "message": "I say it out loud to convince myself. Next time, I'll go shopping at Inamiya too."
+  },
+  {
+    "name": "Misa",
+    "message": "「Because I'll be fine」"
+  },
+  {
+    "message": "I don't intend to live in the past. He wouldn't want that anyway."
+  },
+  {
+    "message": "Until now, I've tended to overwrite my memories. But I'll keep my memories of him tucked away safely in my heart."
+  },
+  {
+    "message": "It's a secret from everyone. I'm a huge liar, so surely I can be forgiven for a little secret like this."
+  },
+  {
+    "message": "...I wonder what he's doing right now?"
+  },
+  {
+    "message": "I want to convey my feelings to Nanaka-san. I want to turn them honestly into a song. Yet whenever I think about Nanaka-san, he naturally peeks into my thoughts."
+  },
+  {
+    "message": "Heehee, he really is hopeless."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did you guys skip breakfast?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeahhh!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do you have the guts to withstand the cold glares of the store clerks?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Awesome! Then troops, charge!」"
+  },
+  {
+    "message": "Last night, after my Demon Lord training ended, I made plans to hang out with Nanaka."
+  },
+  {
+    "message": "Without either of us bringing it up first, we decided what to do today. And the moment we met up at our meeting spot, we shouted that nostalgic cheer from our childhood."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha, hitting up the supermarket free samples is so delicious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Three loops really was our limit after all. Guess we didn't break our record.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That damn clerk gave a wry smile and pulled the sample tray back the moment he saw our faces at the end.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No complaining, Pa-kun. We really are awful customers, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahahaha, we didn't buy anything, so we're even worse than customers.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You said it. Still, nothing tastes better than free food.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's weird~ Even though free samples are just tiny bites, they taste way better than eating the whole thing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, having them speared on toothpicks is nice too. Feels like a festival food stall.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You said it! Some kids even collected the toothpicks like souvenirs, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, they totally did」"
+  },
+  {
+    "message": "How to have a fun day off without spending any money. Going around to different supermarkets and stuffing yourself with free samples."
+  },
+  {
+    "message": "Checking out promotional events in the shopping district, or listening to hit songs at the music shop's listening stations."
+  },
+  {
+    "message": "When we were little, we'd invite everyone in our class and hang out doing stuff like that."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, next up is that place, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You betcha!」"
+  },
+  {
+    "message": "Together with Nanaka, I retrace the exact same route from back then."
+  },
+  {
+    "message": "...We used to do this almost every week, yet as we moved up in grades, fewer and fewer people joined in."
+  },
+  {
+    "message": "By the time we entered middle school, it had naturally fizzled out. It felt a little lonely, though I figured that was just fine."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahhh, that was a blast! It's been ages since I did stuff like this with you, Synn~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The old man at the bookstore had his eyes bugging out. Like, 'Are you those brats who used to stand around reading here?!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「His rapid-fire feather duster attack was still going strong, too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And once again, we got chased out without buying a single thing. Ahhahaha!」"
+  },
+  {
+    "message": "I laugh right along with Nanaka."
+  },
+  {
+    "message": "The exact same signal to call it a day as back then. After that, by the time I walked back home, it would be right around the hour Mom was making dinner."
+  },
+  {
+    "message": "Now... for us, all grown up, it's still way too early to wrap things up."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alrighty then! Synn, it's about time you told me what this is really about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's enough retracing old memories. After all, we haven't become just a memory yet」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka... I want you to make up with Misa」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did Misa put you up to this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a favor from both Misa and me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, you know what the reason is, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's my fault」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Quit calling it your 'fault'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But I'm the cause of it. That's why I'm giving up on Misa」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Haaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm trying to do things the right way. Misa already gave me her answer--that she can't go out with me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And so, getting Misa and me to make up...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In the end, that's just because Misa is precious to you... You're doing it for Misa's sake, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, you're just as important to me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahahaha, look at me getting jealous and saying mean things」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...But it's not the same, is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll work hard to make it the same. For the sake of our sparkling school life, too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah... sparkling...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It kind of feels nostalgic, doesn't it, 'sparkling'... Though I guess it's no good if I'm already thinking of it as nostalgic」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka. All of us were aiming to sparkle, weren't we? I don't want to go out with Misa if it means throwing that away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Making up is what Misa cares about most. That's what I want, too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's spend a sparkling Holy Night Festival together!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good grief. You and Misa really are two peas in a pod, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You think so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know, I really do understand what you're saying, Synn. And I think I understand Misa, too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But it's not a matter of logic. I just can't sort out my feelings」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even I...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I also... feel the same way about you, Synn...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Atashi... uh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, when did it happen, I wonder? That we stopped being able to hold hands」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can still hold hands right now!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah...! Yeah... but we can't do it without feeling self-conscious, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When we were little, we used to hold hands so naturally that we couldn't even tell who reached out first.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But... once we started middle school, that wasn't possible anymore, was it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The moment I started seeing you as a guy, Synn, maybe this relationship was already over...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't say it's over!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah. I don't want it to end... ngh... ngh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ngh... ngh... s-sorry!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I... ngh, have to go help out at the shop, so... ngh... bye-bye」"
+  },
+  {
+    "message": "Nanaka shakes off my hand and runs away. Helping out at the shop is a lie. I know that much."
+  },
+  {
+    "message": "If I sprint at full speed, I can catch up to Nanaka before she reaches Yuugiri-an."
+  },
+  {
+    "message": "Even though I know that, all I can do is watch her go."
+  },
+  {
+    "message": "It's pathetic. What on earth am I doing?"
+  },
+  {
+    "message": "Both Nanaka and Misa care about me. And yet, I still haven't been able to do anything for either of them."
+  },
+  {
+    "message": "I was only thinking about myself."
+  },
+  {
+    "message": "I ended up asking Nanaka for advice on something truly cruel."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Let's go somewhere alone to think. If I go home, I'll probably end up subconsciously waiting for Nanaka to come over."
+  },
+  {
+    "message": "Sunday evening. Nobody should be in the Student Council room right now."
+  },
+  {
+    "name": "Synn",
+    "message": "「H-huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hawaaah!? This is terrible, Senpai-san. The President found out about us!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan, it's not like we were doing anything wrong, so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be that you were doing Student Council work?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「A most astute observation.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What? If that's the case, I would've come running if you'd just called me.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, you see, the Student Council is still on break today.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan and I were strictly just acting as the point of contact and handling the bare minimum. Right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. Thanks to Jeeves helping out, we made good progress.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Today is an open library day for the public. I merely brought some refreshments for Milady while stopping by to borrow books.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so? Allow me to thank you as well.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Besides, Senpai secretly taught me all sorts of tricks. Next year's Student Council President is as good as decided--it's going to be me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahahaha……」"
+  },
+  {
+    "message": "It's the lively atmosphere of the Student Council room from before Kirakira shrank."
+  },
+  {
+    "message": "Everyone is setting the stage for us. All that's left is for us…… for me, Misa, and Nanaka to come back, and things are sure to go well."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「By the way, Mr. President. Are the Vice President and the Treasurer still not getting along?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「──!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I…… I overlooked it…… I ended up forcing a painful role onto Nanaka……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the time I realized it, there was nothing I could do! Even though she's my precious childhood friend……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I tried so hard, so hard…… to get Misa and Nanaka to make up, yet I was weak……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……I couldn't do anything…… for either of them!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If only I had been stronger……!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In the end, when all is said and done, even our Demon Lord President is just an ordinary human being」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, that wound won't disappear」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're going to have to carry that wound on your back from here on out. Forever. You live on bearing those scars. Everyone does」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You know what kind of paths lie ahead, don't you? That's something you have to choose for yourself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Soltia, what business do you have at this hour?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It seems a fray has appeared in the magic circle cast over this place」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That information lacks accuracy」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I can't see it with my own eyes, so it can't be helped. The forces of Heaven might have made a move, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Impossible」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That's what I want you to verify. Even though I belong to the light, I'm still a Demon General at the end of the day. In that regard, you--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I can't sense anything.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Look into it more thoroughly.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「This is a magic circle we spent months upon months laying out to amplify the power of Re-Crea, you know?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「If we mess up the final steps here, everything will come to nothing!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Fine. I'll examine it closely.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nine thousand nine hundred and ninety-six... nine thousand nine hundred and ninety-seven... nine thousand nine hundred and ninety-eight...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hehe...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nine thousand nine hundred and ninety―nine... No anomalies at the nodes either. Ten thousand―ghhh!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What is this formula!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unfortunately, your framework of concepts cannot comprehend that phrasing, Azel-san.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Melilot!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It was quite troublesome. To think angelic script was woven into the magic circle...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You're late. I went ahead and started without you.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I was training the Demon Lord, as usual.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「How eccentric. No matter how much you polish a roadside pebble like him, he'll never shine.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This world is built upon the usefulness of the useless.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What in the world are you two planning!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Gah!! I-I can't move...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel-san, please surrender yourself to the magic circle. Resisting will only bring you pain.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even if numbers themselves are infinite, units are finite. To be able to write a circle like this... Melilot, who on earth are you?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please save those words for Virus. I have never heard of a Demon General capable of commanding angels.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「M-My power is draining away... Impossible!?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Your power? Don't say something so ridiculous. That's the power of Re-Crea, isn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I don't know!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I know you do」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「When I cooperated with Melilot to uncover the truth……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It was a complete letdown. To think the power of Re-Crea resides in a kid like this! Virus wasn't much to speak of either!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's…… n-not me!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That thing, Virus…… guh!? It's just staying true to its own convictions……. Same as me, and same as you, Soltia」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I don't recall asking to be judged by a small fry like you」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Right, you can't become a vessel. In that case, a catalyst, or a medium…… whatever, it doesn't matter anymore. I'll be taking that power for myself!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh…… kuh! Ha…… ah……!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「His Spirit Power has dropped right to the brink of death」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Re-Crea should soon burst forth from the vessel through Azel」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Ah, the moment I've been waiting for has finally arrived」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah…… ugh……, ugh…… uuugh…… ugh…… nnngh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Aaaahhhhhhh!?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「H-hahaha, what a magnificent light. With this power alone, I can become an angel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Into something, like that…… how, foolish……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Silence. Watch your tongue, you mere empty husk」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Hehehe. Still, it's all thanks to you」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「If your life is already fading anyway, I'll take in Re-Crea along with that body of yours. Become a part of me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You…… won't be able…… to do, anything……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「W-what is this……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Eek……!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How reckless... You won't be able to assimilate it, you know? Azel's vessel hasn't been shattered, after all」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We merely tilted it and spilled the contents」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「W-With that kind of logic... Melilot, you knew that and just stood by watching...!?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Aah!! T-The power is too immense!? I can't hold it back on my own!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is... Are these ripples from the egg?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「There's no time for leisurely talk! Melilot, lend me a hand! We have to contain it inside my body somehow!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia... Which came first, the egg or the chicken?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「W-What does that have to...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You'd think the chicken, wouldn't you? However, doing so limits the hatchling emerging from the egg to a mere chick」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「W-What are you...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Isn't it obvious? The world ought to have far more possibilities than that」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Melilot! D-Do you actually intend to cooperate with me...!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Not in the slightest」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Wha...!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Isn't it the same for you? You must have known」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The light is...!! Aaaaah!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It's getting away!? Take it back...!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That power is involuntary, beyond any theory or logic. If you cling to it, you'll lose your life, you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Are you alive?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The possession has been undone...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Haa, haa, guh...!? To run out of strength in a place like this... Of all people, me!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia, you are on the brink of death. There is only one path you can take」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「M-Melilot...? To think you would abandon me...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You... Y-You... are...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Those who failed to fulfill their role as a vessel. Those who fell short of their ambitions, and what of Re-Crea?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Will that egg choose the Demon Lord or Virus? What will hatch from it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Or was this recent anomaly, in the end, nothing more than a process to incubate the egg?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「With this, the visible crisis has passed. However--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Re-Crea still survives」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Until this shooting star fades away, I...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I remain bound to Re-Crea...」"
+  }
+]

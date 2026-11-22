@@ -1,0 +1,532 @@
+[
+  {
+    "message": "神々の挑戦"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mm, gulp...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How is it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hah... *giggle*, I can't believe it. Even you can brew delicious black tea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad you like it.」"
+  },
+  {
+    "message": "Misa and I sit together on a bench, drinking black tea from a full thermos."
+  },
+  {
+    "message": "To thank her for always making me black tea in the Student Council room, I invited Misa to Tsukinoo Park."
+  },
+  {
+    "message": "From what I heard, Misa was under the misunderstanding that I only ever drink watered-down re-brewed tea. Granted, that's true 99 times out of 100, which means 1 time out of 100 it actually tastes decent."
+  },
+  {
+    "message": "I wanted Misa to get a taste of that luxurious one time."
+  },
+  {
+    "name": "Paqy",
+    "message": "「You sure get honest when it comes to black tea, Hisa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--w-w-what?! D-Don't get the wrong idea, Sakura-kun.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If someone like you can brew spent tea leaves to taste halfway decent, it's only natural that it'll turn out delicious when you do it properly!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp, gulp, delicious! ...Or is it? I'm so used to weak re-brewed tea that I'm not really confident.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'm glad it made you happy, Misa. Ahahaha.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I get it--it's a match!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha... huh? H-How did things end up like that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, you're dissatisfied with the black tea I brew and prefer your weak re-brews, don't you?! I won't lose!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're reading way too much into this. Besides, what are the rules of this match?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Think of it as a form of rehabilitation. Starting with this tea, you're going to gradually brew better and better cups. I'll treat you to mine as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I drink your tea in the Student Council room all the time, though? Plus, you just said this tea was delicious too, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nngh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'll take another sip. Maybe there was just some kind of mistake!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sniff...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Mm, gulp.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mm... haa--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee. Look... haa~~. When you breathe out after drinking tea, it's pure white」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「P-Pure white...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It tastes delicious, hmph!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, so there's this kind of way to enjoy this time of year too... haaa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez, you're genuinely enjoying it, Sakura-kun! If it were sarcasm, I'd at least have a reason to rise to the challenge... haa, haaa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Winter breath is fun and all, but... the sea breeze has gotten pretty cold even during the day. We can't eat dinner here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's that! How pathetic, you're disqualified as Student Council President! If we bundle up in full winter gear and eat super spicy curry rice, we'll be fine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You seriously gonna do that? That's gonna be a pretty surreal sight, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nngh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Every year, around the time the autumn wind blows, choir practice gets serious」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Y-You're the one who brought it up, and then you just brilliantly ignore me--classic hissy fit」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When the Holy Night Festival is right around the corner, the Sister always says she wants men」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, even a Sister's human, right? Even living an abstinent life, you're bound to miss a human touch」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-W-W-What are you misunderstanding, Paqy-san! It means we want male voices for the choir」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's guys... general students are joining in to sing together for this year's Holy Night Festival, so it'll be fine, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sigh... That's not quite the case. Nobody's signing up to participate」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why? The announcements and posters for the hymn chorus are already put up, aren't they?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, I took responsibility and posted them myself. Everyone in the choir drew those posters together, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Singing songs is fun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, so you want everyone to not just listen, but sing together too... You said that the other day, right? That's so like you, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's not just me, it's the wish of everyone in the choir」"
+  },
+  {
+    "name": "Misa",
+    "message": "「However, when it comes to a chorus, both boys and girls gather, right? To give the hymns a proper form, four-part mixed harmony practice is absolutely necessary」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We won't make it in time unless we start vocal practice soon, yet not a single person has signed up to participate yet...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's so like you, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, I heard that already」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The words are the same, but the meaning is different」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even just hearing a little bit about it, people might think the choir is too intimidating……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What we should aim for isn't a flawless hymn, it's 'our own genuine sound'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm so stiff-headed…… Four-part mixed harmony is secondary. Even though I knew what we needed was people of all ages and genders…… in other words, 'everyone'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it's because my singing voice wasn't any help at all?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's true too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-Back me up here!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Well then, instead of my hopeless voice, how about I tell you about the kind of song I'd like to sing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not some stiff, formal sheet music, something like what we all sang together when we were kids would be great. It was so much fun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I kind of get what you're saying…… And on top of that, a song that's a perfect fit for the Holy Night Festival would be ideal, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But…… nothing comes to mind. Where would we even get a song like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What kind of song would you want to sing, Sakura-kun? Tell me honestly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For me, rather than a song I've heard somewhere before, I'd want to sing an original song」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-That's impossible, come on」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, so all you have to do is make the lyrics and melody catchy so it's easy to sing, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the leader of the choir, aren't you, Misa? That's amazing. I know you can do it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm not amazing at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't tell that about yourself. Since I feel like you're amazing, there's no doubt you're amazing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I told you I'm not amazing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I get it. You're not all that amazing, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph! You thought I was going to snap back with 'I am amazing!', didn't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, you really don't understand me at all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, I might not be amazing, but... leave it to me, I'll give it a shot!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's with that 'Wha--?!' reaction?! You're the one who brought it up in the first place, that's just mean!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were so against it a second ago, so it just surprised me when you suddenly agreed to do it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, that's because... Sakura-kun, you......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about me?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-B-B-Because you--」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「This world is so stimulating and full of fun, isn't it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, and there are still plenty more interesting things to see. According to this guidebook--」"
+  },
+  {
+    "message": "Lolotte and Amyrina appear and walk toward the jetty. Both of them are so absorbed in their conversation that they haven't noticed us."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I-Isn't that a forbidden book you took from Heaven's archives without permission?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I didn't steal it. I'm merely borrowing it until I die, so there's no problem at all. There's a saying for this: 'Bamboo shoots to a dead man.' Ahem!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Umm, I don't quite get what that means」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't get it either! However, the synonyms entry lists 'Clay to a horse's ear'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, how does that one go again?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah! L-Like I was saying, Sakura-kun, you--」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte, don't rush ahead like that. If you leave me behind, I'll get lost again」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I used to get lost all the time at first too, and Jeeves would always help me out」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina, let's start by learning the basics. In the Human World, there are four cardinal directions: north, south, east, and west. Do you understand?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yeees, yeees, yeees, yeees」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「P-Perfect! There is nothing left for me to teach you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, God must be telling me not to say it just yet」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what were you trying to say?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm not telling!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, thank you for the tea. I'm going to head straight home and think things over」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll walk you home, for real this time」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No thank you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Why are you being so obedient all of a sudden?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn's gonna act all obedient, then sneak up on Hisu saying stuff like, 'We're heading the same way' or 'I'm just out for a walk'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't give me 'Okay'! I want to concentrate, so I'm walking home alone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aw, then I won't be able to tail you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-Don't call it tailing, that makes you sound like a stalker!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「See you later, bye-bye, farewell, and even though it's still daytime, goodnight in advance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So Misa still sprints home at full speed even when it's bright out」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, it's all about the mood--wait, Hisu just came to a dead stop?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, on second thought, I will tell you what I was going to say earlier!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You see, I――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「――――――――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I can't hear you... wait, that wry smile means Misa's doing this on purpose?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Welp, she just waved her hand and took off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, do you know what Misa said?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, I've been alive longer than you, Demon Lord, so I know a little something about lip-reading」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I don't mind telling ya, but... do you really wanna hear it from my mouth?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll pass」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's the Demon Lord I know」"
+  }
+]

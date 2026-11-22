@@ -1,0 +1,557 @@
+[
+  {
+    "message": "ジョーズ≠鮫"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "message": "The first day of exams ended."
+  },
+  {
+    "message": "Without either of us suggesting it, Misa and I turned the Student Council room into a study hall again today to cram for tests."
+  },
+  {
+    "message": "Strictly speaking, it goes against the room's intended purpose, but a small perk like this should be forgivable."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ain't it fine? Ria-chan gave us secret permission, you know? Nom nom」"
+  },
+  {
+    "message": "Seeming to have read my mind, Paqy backs me up."
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy-san, what are you eating?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't that kashiwa mochi? When did you buy it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Good grief, neither of you noticed?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「About two hours ago, Ria-chan came to check on us and left them as a treat.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「D-Darn it! If I'd kept my mouth shut, all three would've been all mine!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Didn't Big Sister tell you they were one per person, Paqy-san?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Y-You already knew, hiss?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No. Still, I know at least that much about someone I love.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So you break the orders of the woman you love, Paqy-san......」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Heh heh heh...... Of course it was just a joke, okay?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Instead of burying your noses in books non-stop, how 'bout taking a breather right about now, you two?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good idea, then I'll brew some tea--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wait!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, you were planning on making Japanese tea or coffee, weren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, that goes better with Japanese sweets, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Stay seated! I will brew black tea!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh......?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's with that dissatisfied response!? Depending on how you brew it, black tea can bring out the flavor of Japanese sweets too, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're doubting me, aren't you? Just watch, it's a contest! I'll make you eat your words!」"
+  },
+  {
+    "message": "While Misa was brewing the black tea, the sun had already set."
+  },
+  {
+    "message": "Strangely enough, during exam periods, the Demons' activity falls into a lull for some reason. It's almost as if the Demons are busy writing test questions, proctoring exams, and grading answer sheets."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sip... munch, munch」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Munch, munch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp, sip...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. That was good tea.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Grr...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The kashiwamochi was delicious too. Is this a specialty from Hanamura?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmph...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Grrr!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haha, I am thoroughly impressed. In my ignorance, I had no idea strong black tea paired so well with Japanese sweets.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As long as you understand!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, that makes me the winner, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Misa, let's decide who cleans up with rock-paper-scissors.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to throw scissors.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh...!? Huh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Rock, paper, scissors, shoot!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sh-Shoot!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn showed his hand, so why did Hisa throw paper?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gyaaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, there's only one day of exams left tomorrow. Let's get back to studying」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I suppose I have no choice, since everyone's in danger on this exam. I'll humor you a little longer」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah!? W-Wait a second!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because you were being weirdly stubborn, Sakura-kun, we couldn't chat during teatime, remember?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So let's do it now. While studying properly!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When it comes to stubbornness, you're pretty impressive yourself, Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's that supposed to mean! It's your fault, Sakura-kun!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you don't take first place on this exam...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'd be thrilled, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Only if I'm first and you're second, Sakura-kun...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Or else, like usual, you take top spot and I'm runner-up... I won't accept any other outcome」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If anyone else squeezes in between us, it'll ruin our rivalry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「???」"
+  },
+  {
+    "message": "If that's the case, we wouldn't need to be first and second. Even 251st and 252nd would be fine by that logic."
+  },
+  {
+    "message": "Though if I actually said that out loud, Misa would definitely scold me."
+  },
+  {
+    "name": "Misa",
+    "message": "「Got it!? Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, so you stayed with me this late just so I could get a good score」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks. Even though you're scared of the dark, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-There's no way that's true!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-But... well, just a little... I guess you could say it makes me uneasy...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You see, pretty early on, I begged Mother and Father to give me my own room」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "message": "Misa doesn't say anything more, simply gazing straight into my eyes."
+  },
+  {
+    "message": "Anyone who knows even the slightest bit about Misa could figure out why."
+  },
+  {
+    "message": "Not wanting to worry her busy parents who always came home late, Misa must have asked for a room of her own."
+  },
+  {
+    "message": "And her wish was granted right away."
+  },
+  {
+    "message": "Of course, after coming home, her parents must have quietly opened the door to the children's room and looked at young Misa's sleeping face."
+  },
+  {
+    "message": "And they felt relieved."
+  },
+  {
+    "message": "But what about Misa back then?"
+  },
+  {
+    "message": "It takes days for a person to become able to sleep all alone, going through all sorts of feelings along the way."
+  },
+  {
+    "message": "Though just a little child, Misa accomplished that faster than anyone else."
+  },
+  {
+    "name": "Misa",
+    "message": "「...Still, that's why ordinary nights don't bother me at all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Because I experienced the scariest night of all when I was little, nights crawling with Demons are nothing to me.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph, have you ever experienced a night like that, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For me, the night I slept with my dad when I was a kid was the scariest one ever.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun! That's just awful! Take that back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way. You don't understand the terror I went through, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Saying it was scary sleeping next to your father, that's... that's just...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, Dad kept humming that melody of a man-eating shark closing in while pressing his prickly, stubbly cheek against me all night long, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think it was probably because I was being rowdy and wouldn't go to sleep, though.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then wasn't that your own fault?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, was it really?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Giggle... You really are such a dummy.」"
+  },
+  {
+    "message": "Past the final dismissal time, we leave school practically chased out by the security guard."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Zzz... zzz...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy's fast asleep. It's gotten pretty late, hasn't it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It has. I'm totally fine, though?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I'm fine too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Why are you doing warm-up stretches too?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't it obvious? Because we're about to run.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No way...!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm walking you home!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey! Stop following me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You said you don't like dark places, didn't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I already forgot about that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you coming through a place like this? It's not the way you usually go home, is it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sh-Shut up, this way is a shortcut!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't you trying to lose me?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「G-Gah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're totally unathletic, so where did that speed come from?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Running away from you is the one time I can sprint like my life depends on it, Sakura-kun!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it really worth risking your life over!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're right back where we started. That ended up being a detour after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you're going to complain, just go home! Running around glued to my side is pathetic!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then we can just walk side by side. That'd look completely normal.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I refuse! Like I'd ever walk with you, Sakura-kun!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh?」"
+  },
+  {
+    "message": "Beyond the streetlight, Misa's figure--which had been dashing lightly without even losing her breath--suddenly vanishes."
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An alley!? Darn it, I lost sight of her...!」"
+  },
+  {
+    "message": "This neighborhood has a particularly high concentration of upscale homes, even for Ryuusei Town. Even if I press the attack in an all-out game of tag, Misa has the home-turf advantage here."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hnnnnnnh--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miiiiii--saaaaa--! Gooooood--niiiiiiight--!!」"
+  },
+  {
+    "name": "Misa's Voice",
+    "message": "「Don't yell your goodbyes at the top of your lungs, it's embarrassing! What if the neighbors hear you!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, they definitely heard you loud and clear.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, you're already awake?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Anyone'd wake up after being jostled around while running, and then screamed at to top it off.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「With that kind of power, Hiss'll be safe even on the streets at night. Besides, this neighborhood is classy and safe.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Instead of forcing it, it's better to wait until Hiss invites you on their own, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, true. But tonight I just felt like running.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's 'cause you're happy too, Demon Lord, just like Hiss.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how I am? Hmm, hmm...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tomorrow's the last day of exams, right? Stop overthinking things and just get to sleep already.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got a point.」"
+  }
+]

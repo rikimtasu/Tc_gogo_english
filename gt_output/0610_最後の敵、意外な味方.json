@@ -1,0 +1,940 @@
+[
+  {
+    "message": "最後の敵、意外な味方"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Patrolling is forbidden, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wanted to talk somewhere out of sight」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is it about the Demon Lord?」"
+  },
+  {
+    "message": "How can I transform into a complete Demon Lord?"
+  },
+  {
+    "message": "I want at least a hint."
+  },
+  {
+    "name": "Synn",
+    "message": "「There's that too, but」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ah, you mean kissing Soba」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't say it so loud, Paqy! A kiss, I mean, sure it was my first time too, but...」"
+  },
+  {
+    "message": "Just remembering it makes my cheeks flush red."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, seriously speaking. If we're talking about incidents that happened to Soba in November, that's pretty much it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, yeah, that's true, but that's not all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot said a guardian angel wouldn't refuse to lend its power just because of poor physical condition, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She did」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But what if Nanaka's lack of sleep isn't because she won't sleep, but because she can't sleep?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What if a lack of time to sleep and mental sleeplessness are overlapping?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I see. If it's caused by something mental, that might have something to do with it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Maybe the truth is she can't sleep because her heart's pounding and she can't forget kissing Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No, despite how she looks, Soba's actually pretty maiden--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "All of a sudden, the lights in the academy building's windows went out."
+  },
+  {
+    "message": "Countless streaks of intense light shot up into the night sky from all across the academy."
+  },
+  {
+    "message": "The streaks of light intertwined, weaving together into a single colossal shape more than large enough to cover the entire academy."
+  },
+  {
+    "message": "A presence of magic so intense the air felt heavy."
+  },
+  {
+    "name": "Synn",
+    "message": "「What is that!?」"
+  },
+  {
+    "message": "High up in the sky. What the streaks of light formed was."
+  },
+  {
+    "message": "An extraordinarily complex shape containing countless polygons touching the outer circumference inside a circle."
+  },
+  {
+    "message": "Rivaling the meteors streaming across the sky as if to sweep it away, it shines brilliantly."
+  },
+  {
+    "name": "Paqy",
+    "message": "「...No way. Wait, is that... They're gonna use a forbidden spell?」"
+  },
+  {
+    "message": "Beyond the glowing circle containing countless polygons, a ferocious presence stirs."
+  },
+  {
+    "message": "It is as though it has been sealed beneath the glowing circle, struggling to break through."
+  },
+  {
+    "name": "Synn",
+    "message": "「A forbidden spell?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If I'm right, that's the magic used when the angels and demons fought in the Human World--afterward, because it was way too powerful, every record of it was destroyed across both Heaven and the Demon World.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If they unleash something like that!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This country--no, a third of the Human World's gonna get blown away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way!? We have to stop them」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, who the hell are they using something like that against--」"
+  },
+  {
+    "message": "The night screamed."
+  },
+  {
+    "message": "The moment the shapes floating in the night sky vanished, a thick, viscous red light came plummeting down!"
+  },
+  {
+    "message": "It was the blood shed by the night sky."
+  },
+  {
+    "name": "Synn",
+    "message": "「Did it land here?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Probably.」"
+  },
+  {
+    "message": "It was quiet."
+  },
+  {
+    "message": "A stillness so calm it was hard to believe magic capable of irreversible destruction had just been unleashed."
+  },
+  {
+    "message": "On the contrary, at a glance, nothing appeared to be damaged at all."
+  },
+  {
+    "message": "Even though I transformed into the Demon Lord and rushed over here..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this really the place?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Someone's there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "In the center of the plaza stands a single silhouette."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "message": "No, two."
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Melilot!?」"
+  },
+  {
+    "message": "One is standing, and one is lying on the ground."
+  },
+  {
+    "message": "I rushed over to where Miss Melilot had collapsed."
+  },
+  {
+    "message": "Lifting her upper body into my arms--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Melilot! Hang in there! What happened!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Run, away...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...That child is... Re-Crea...」"
+  },
+  {
+    "message": "Melilot's trembling fingertip pointed at Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel is Re-Crea? What do you mean!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "Her fingers, her hand, her arm lost all strength, falling limply to the ground."
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And... Yuugiri is... going to be... okay--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's going to be okay!? Melilot!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot! Melilot!」"
+  },
+  {
+    "message": "Melilot didn't answer. She couldn't answer."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel! What happened!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel didn't answer. She wouldn't answer me."
+  },
+  {
+    "message": "A hard silence, like a barrier of diamond."
+  },
+  {
+    "name": "Paqy",
+    "message": "「She used up all the magical power stored in her body as the spark for that forbidden spell. Enough to blow this whole country away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then... d-don't tell me Melilot is」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, she ain't dead. She'll be out cold for a few days, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Assuming we make it out of here alive, that is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you... me--」"
+  },
+  {
+    "message": "A chill ran down my spine. My instincts were screaming danger."
+  },
+  {
+    "name": "Azel",
+    "message": "「I see.」"
+  },
+  {
+    "message": "The silence cracked open."
+  },
+  {
+    "name": "Azel",
+    "message": "「So you are the Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How do you know about--」"
+  },
+  {
+    "message": "How did Azel know about the Demon Lord--was it because she was part of the expedition team?"
+  },
+  {
+    "name": "Azel",
+    "message": "「Perish.」"
+  },
+  {
+    "message": "Ryuusei Town."
+  },
+  {
+    "message": "No, the night itself trembled."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...?」"
+  },
+  {
+    "message": "I feel an overwhelming power."
+  },
+  {
+    "message": "A power unlike the demonic energy of the Demon Generals or the Spirit Power of the Guardian Angels. A power even clad in a chill."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Idiot! Run! This guy is--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah.」"
+  },
+  {
+    "message": "Even though I wasn't gripping it tightly, the Rosary grew hot."
+  },
+  {
+    "message": "My body burns up! My mouth moves on its own."
+  },
+  {
+    "name": "Synn",
+    "message": "「She who guides the master, descending by ancient covenant--Avanshell, Angel of Pitch-Black Darkness!」"
+  },
+  {
+    "message": "Demon Lord transformation and angelic blessing. Wasn't activating both at the same time supposed to be impossible!?"
+  },
+  {
+    "name": "Azel",
+    "message": "「You are an enemy of the Master. You puny, vile speck of dust.」"
+  },
+  {
+    "message": "What is happening? My body is trembling. I can't make sense of any of this."
+  },
+  {
+    "message": "I don't understand. Yet, I do. I don't want to understand. Yet, yet."
+  },
+  {
+    "message": "This is terrifying. This thing right in front of me is terrifying. And an enemy. The enemy of the Demon Lord. The enemy of the Guardian Angels."
+  },
+  {
+    "message": "Why do I know that? The Guardian Angel's resolute will echoes within me. Telling me this is the enemy. Telling me to fight."
+  },
+  {
+    "message": "What is this? Azel. No way. Then what is this?"
+  },
+  {
+    "message": "Has Azel been taken over by something? No, that's wrong."
+  },
+  {
+    "message": "God? Re-Crea? No way."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Get a hold of yourself, Lord Synn! You're gonna get killed!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But it's Azel we're fighting!」"
+  },
+  {
+    "message": "Azel's fingertips twitched ever so slightly."
+  },
+  {
+    "message": "A flash of light bright as midday pierced the night sky."
+  },
+  {
+    "message": "!"
+  },
+  {
+    "message": "The instant my body moved on reflex. The air itself burst into flames."
+  },
+  {
+    "message": "Intense heat surged past so close I thought the fine hairs on my cheek would singe."
+  },
+  {
+    "message": "Was dodging that a miracle, or was it because my senses were sharpened by the Demon Lord transformation and the Guardian Angel's blessing?"
+  },
+  {
+    "message": "Holding Melilot-san in my arms, I roll across the ground."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm tellin' ya, that guy's the enemy of the Demon Lord--Re-Crea, our enemy from across time! Our ultimate enemy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why!? Why is Azel」"
+  },
+  {
+    "message": "Azel doesn't answer. She just looks at me with a face like a death mask carved from ice."
+  },
+  {
+    "message": "What fills those eyes isn't bloodlust."
+  },
+  {
+    "message": "It's a will colder than that--an absolute-zero resolve best described as pure elimination."
+  },
+  {
+    "message": "Azel's fingertips moved once more."
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "I can't dodge it!"
+  },
+  {
+    "message": "On reflex, I thrust my fist forward."
+  },
+  {
+    "name": "Synn",
+    "message": "「Uwaaaaaaaaaaah!」"
+  },
+  {
+    "message": "Heat and searing agony shoot through my outstretched fist. I'm caught in the middle of a violent gale."
+  },
+  {
+    "message": "Looking up from flat on my back, a meteor shower streams across my vision."
+  },
+  {
+    "message": "No. I'm the one being blown away!?"
+  },
+  {
+    "message": "An impact to the back of my head. For an instant, my consciousness fades."
+  },
+  {
+    "message": "My back and shoulder slam into something hard, scraping across it with tremendous force, burning hot."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Get ahold of yourself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh」"
+  },
+  {
+    "message": "I prop myself up on my elbows, lifting my upper body."
+  },
+  {
+    "message": "My whole body is screaming in pain. I can't stand up."
+  },
+  {
+    "message": "I feel my guardian angel's cry. Get up, fight, fight, fight."
+  },
+  {
+    "message": "Azel reflects in my eyes. Overwhelming power. Even multiplying my guardian angel's power by the Demon Lord's wouldn't measure up."
+  },
+  {
+    "message": "There's no comparison--not with me, not with us."
+  },
+  {
+    "message": "What is this, is this the power of an angel? No, Lolotte wasn't like this."
+  },
+  {
+    "name": "Azel",
+    "message": "「Tch. My control isn't complete」"
+  },
+  {
+    "message": "His cold gaze isn't looking at me. Where is it?"
+  },
+  {
+    "name": "Azel",
+    "message": "「Filthy demon, to think you would wound me」"
+  },
+  {
+    "message": "Beyond that sub-zero glare, Melilot-san had collapsed."
+  },
+  {
+    "message": "When I was blown away, did she get separated from me and sent flying too?"
+  },
+  {
+    "message": "Still unconscious, she doesn't twitch a muscle."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel! What are you planning to do!」"
+  },
+  {
+    "message": "Azel doesn't answer."
+  },
+  {
+    "message": "Instead, his right hand rises."
+  },
+  {
+    "message": "Azel intends to kill Melilot-san."
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, that can't be!」"
+  },
+  {
+    "message": "I denied it. Yet that was just a scream born from not wanting to accept it. I already knew."
+  },
+  {
+    "message": "That he intended to unleash the very blow I had barely blocked moments ago onto the defenseless Melilot-san."
+  },
+  {
+    "message": "That Azel intended to kill Melilot-san without a shred of guilt."
+  },
+  {
+    "message": "Like a merciless god passing down the final judgment."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, no! Don't kill her! Stop!」"
+  },
+  {
+    "message": "Azel doesn't answer."
+  },
+  {
+    "message": "Is it me shouting not to give up, my guardian angel, or both of us?"
+  },
+  {
+    "message": "I scrambled desperately to my feet and ran!"
+  },
+  {
+    "message": "Right between Azel and Melilot-san."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel! Stooop!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You idiot! Are you trying to get yourself killed!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Perish.」"
+  },
+  {
+    "message": "Azel's fingertips moved."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azeeeeer, stooooop!」"
+  },
+  {
+    "message": "The light closes in."
+  },
+  {
+    "message": "I can't stop my classmate from killing someone I know."
+  },
+  {
+    "message": "A voice that doesn't reach can't stop anything."
+  },
+  {
+    "message": "Unable to fully wield the Demon Lord's power, there's nothing I can do."
+  },
+  {
+    "message": "No, even if I could use it, probably not on my own."
+  },
+  {
+    "message": "And right here, I'll--"
+  },
+  {
+    "name": "Voice",
+    "message": "「I see. This anomalous power... So it's the power of Re-Crea.」"
+  },
+  {
+    "message": "A single figure stood between Azel and me."
+  },
+  {
+    "message": "The massive demonic presence overflowing from their back was as deep as a forest."
+  },
+  {
+    "message": "I know this presence."
+  },
+  {
+    "message": "That night. One of the two massive presences. The one that wasn't Soltia."
+  },
+  {
+    "message": "In that case--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus!?」"
+  },
+  {
+    "message": "Why would Virus save me!?"
+  },
+  {
+    "message": "Wasn't Virus the mastermind behind everything!?"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do not interfere.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「It shouldn't be time yet.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I made no pact with you.」"
+  },
+  {
+    "message": "A pact? Virus and Azel know each other?"
+  },
+  {
+    "name": "Virus",
+    "message": "「In the end, can angels and demons never coexist unless under the Demon Lord?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am no angel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "Lolotte lied? No, that's impossible."
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's why I'm telling you, it's Re-Crea! Admit it, Lord Synn!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Not quite, strictly speaking. This angel is an Executor.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「An Executor?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My will is the will of my Lord.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Executor or fanatic, I couldn't care less which.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「The Demon Lord is my prey. Trigger Re-Crea all you want. Just don't get in my way.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Absurd.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Yeah, it's absurd. Still, that's the only thing I want.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Only death awaits those who hinder the fulfillment of my Lord's will.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Words alone won't kill me.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Perish.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「If you can kill me, that is」"
+  },
+  {
+    "message": "Once again, a flash of death envelops us."
+  },
+  {
+    "message": "Yet, I was still alive."
+  },
+  {
+    "message": "At the center of the night shimmering with residual power, Virus, who should have taken a direct hit, stood proudly."
+  },
+  {
+    "name": "Azel",
+    "message": "「Impossible!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amazing……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, it's damn amazing. The bastard knocked that power right away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……? How!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If he clashed head-on with that brat's power, he'd lose out in sheer strength. Even a guy like him」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……A fluke. Nothing more than a fluke」"
+  },
+  {
+    "message": "Virus merely laughed."
+  },
+  {
+    "message": "Once again, the world lit up as bright as midday."
+  },
+  {
+    "name": "Azel",
+    "message": "「Why can you block my infinite power!?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Overwhelming power. Magnificent. It makes my blood boil」"
+  },
+  {
+    "message": "Virus's back was trembling. Was he shivering with excitement?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's subtly adjusting the vector of his own power on impact to deflect the force away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can do something like that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You did it unconsciously just a second ago too, Master Synn. But that guy's doing it on purpose. He's the strongest warrior in the Three Realms」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Come. You can kill me, can't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……Disappear」"
+  },
+  {
+    "message": "Countless deaths rose into view against the backdrop of a meteor shower."
+  },
+  {
+    "name": "Azel",
+    "message": "「Perish!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「All things」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are equal to nothing before a god」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you not vanish!? Why are you still standing!?」"
+  },
+  {
+    "message": "Even after taking a barrage of raging strikes, Virus still hadn't fallen, standing proudly before Melilot and me."
+  },
+  {
+    "name": "Virus",
+    "message": "「It seems you are not infallible, O Proxy」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "message": "Still--"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not good, he's getting pushed back!」"
+  },
+  {
+    "message": "Forced back by the relentless barrage of immense power slamming into him, that broad, muscular back is inching closer toward us."
+  },
+  {
+    "message": "The ground beneath his feet is gouged out along the path of his retreat."
+  },
+  {
+    "message": "Even Virus, the strongest warrior in the Three Realms, can barely manage to deflect the blows."
+  },
+  {
+    "message": "Looking closely, blood is seeping even from those fists that once seemed invincible."
+  },
+  {
+    "message": "If Virus falls, we're done for too."
+  },
+  {
+    "message": "Isn't there anything I can do? Anything!?"
+  },
+  {
+    "name": "Virus",
+    "message": "「Let your guard down and took damage to your vessel, did you? You'd do well to keep your little game of playing god in moderation.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Laughable. Are you not barely managing to defend yourself as well?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's grab Hickie and make a run for it while we still can! Staying here just means dying!」"
+  },
+  {
+    "message": "My legs are finally starting to recover. I stagger to my feet."
+  },
+  {
+    "message": "Azel isn't paying any attention to me at all."
+  },
+  {
+    "message": "Right now, I might actually be able to escape from here."
+  },
+  {
+    "message": "Even if I stay, there's no way I can intervene in this fight."
+  },
+  {
+    "message": "Even so,"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Virus. Is there anything... I can do...」"
+  },
+  {
+    "message": "An answer comes back without him even glancing my way."
+  },
+  {
+    "name": "Virus",
+    "message": "「He's going to fire that off in rapid succession again. The first shot. The instant the magic cloaking my fists deflects his light, the sheer force scattering outward will distort the space.」"
+  },
+  {
+    "message": "The words coming back sound almost as if he had anticipated what I was going to ask."
+  },
+  {
+    "name": "Virus",
+    "message": "「For that single instant, he won't be able to sense us. We'll switch places.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're catching him off guard...」"
+  },
+  {
+    "message": "Azel isn't on guard against me."
+  },
+  {
+    "message": "And he thinks Virus has his hands too full defending to launch an attack."
+  },
+  {
+    "message": "Which means there's probably an opening in Azel's defense."
+  },
+  {
+    "message": "If I attack Azel from where I am right now, maybe, just maybe."
+  },
+  {
+    "name": "Virus",
+    "message": "「Deflect the second shot. I'll attack him.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't talk crazy! How's Lord Synn supposed to block that guy's attack in his condition?!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「His attacks are predictable. They're focused strictly along a straight line connecting him, me, and the Nibe woman. You just need to deflect it the same way you did earlier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Understood.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Are you serious!?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「That's what makes you the Demon Lord. Anything less wouldn't cut it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My will is the very will of my Lord!」"
+  },
+  {
+    "message": "Countless deaths rose into view against the backdrop of a meteor shower."
+  },
+  {
+    "message": "Is that the light of judgment."
+  },
+  {
+    "name": "Azel",
+    "message": "「Die!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ５３_EASY"
+  },
+  {
+    "message": "ステージ５３_HARD"
+  },
+  {
+    "message": "ステージ５３_NORMAL"
+  }
+]

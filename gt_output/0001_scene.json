@@ -1,5 +1,11 @@
 [
-  {"message": "Skip ahead to October 10th?"},
-  {"message": "Try again?\\n※You can change the battle difficulty\\n　in the Options menu."},
-  {"message": "Thanks for playing."}
+  {
+    "message": "Skip to October 10th?"
+  },
+  {
+    "message": "Try again?\\n*You can change the battle difficulty\\nin the Options menu."
+  },
+  {
+    "message": "Great work today."
+  }
 ]

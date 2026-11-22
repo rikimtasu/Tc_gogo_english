@@ -1,0 +1,827 @@
+[
+  {
+    "message": "すきま"
+  },
+  {
+    "message": "In the morning, I went to school earlier than usual again today so I wouldn't run into him."
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "message": "My heart feels heavy, but there's no need to dwell on it."
+  },
+  {
+    "message": "I've merely returned to the days before I became Vice President. I'm sure I'll get used to commuting alone soon enough."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Morning, Misa! Hah, hah, hah, haa!」"
+  },
+  {
+    "message": "The instant I started heading from the entrance toward the classroom, a voice called out to me with an energetic greeting."
+  },
+  {
+    "name": "Misa",
+    "message": "「Good morning, Nanaka-san.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Are you alright? You're completely out of breath...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm fine, I'm fine! That whole slight fever fuss yesterday was just Synn overreacting. I ran here this morning for the first time in a while.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Over Nanaka-san's shoulder, he is standing in a corner of the shoe locker area."
+  },
+  {
+    "message": "He must have run here too. His shoulders are heaving as he catches his breath, while Paqy-san rubs his back."
+  },
+  {
+    "message": "Or perhaps Nanaka-san gave him an affectionate slap on the back."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This morning, Synn spotted you way ahead on the road to school. So we did a 'ready, set, go!' race and chased after you.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We didn't end up catching you, but it kinda feels great. Ahahaha!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, I understand that exhilarating feeling quite well.」"
+  },
+  {
+    "message": "Nanaka-san's smile is dazzling to me."
+  },
+  {
+    "message": "I avert my eyes just a little."
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph!」"
+  },
+  {
+    "message": "Carelessly, my eyes ended up meeting his."
+  },
+  {
+    "message": "Without a trace of a Student Council President's dignity, he gives a slight nod with a beaming smile and waves at me."
+  },
+  {
+    "message": "As if I would ever wave back."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Misa? Why are you waving your arms around like you're doing calisthenics?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nngh...! I-It's a hand exercise.」"
+  },
+  {
+    "message": "This behavior has nothing to do with my own willpower."
+  },
+  {
+    "message": "My sense of propriety as Vice President must have triggered a conditioned reflex. Or rather, I wasn't greeting him, I was greeting Paqy-san."
+  },
+  {
+    "message": "That just means I need further self-discipline. Brace yourself, me! Bring it on, me!!"
+  },
+  {
+    "name": "Misa",
+    "message": "「Grr!」"
+  },
+  {
+    "message": "I glare at him."
+  },
+  {
+    "message": "His response to me is a wry smile."
+  },
+  {
+    "message": "For whatever reason, he makes no move to leave the spot."
+  },
+  {
+    "message": "Since it's a conversation between girls, he's probably being considerate in his own way. I doubt he's noticed our united front."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry about yesterday!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...? Oh! Y-Yeah, that's right, you need to pull yourself together!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry about that. I always end up making you look after me, Misa.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-But got it. Leave it to me.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll bolster our support system too. I'll subtly pull some strings in all the right places.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「R-Really!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, who do you take me for? I'm the vice president, fiercely eyeing the president's seat, you know? Scheming and maneuvering are my forte.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「To be honest, I don't really get the complicated stuff, but that's a huge help. Let me treat you to some sweets next time!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If things go well, I'll gladly take you up on that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「However, I'm strictly playing a supporting role. You have to take the initiative yourself, Nanaka-san.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For example, going to Sakura―kun's room to borrow his notes, and then alone together―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, that? This morning, while Synn was eating soba, I copied them down super fast.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What have you done? That was such a golden opportunity.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Haha, tahahaha...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hehe. You're so honest and straightforward, Nanaka-san... It's pure love, isn't it? I'm jealous.」"
+  },
+  {
+    "message": "I unexpectedly become conscious of the words I had just muttered so casually."
+  },
+  {
+    "message": "The reason Nanaka-san's smile looked so dazzling."
+  },
+  {
+    "message": "Unlike me, she doesn't make pointless calculations. She faces her feelings of \"liking\" someone head-on."
+  },
+  {
+    "message": "That's what makes me envious."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This morning, I was chatting with Synn like usual, and I even made delicious soba that got Paqy's stamp of approval.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...And yet, the moment I start thinking about how I like Synn, I start acting all weird...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It feels like a Synn-shaped gap just popped right open dead center in my body...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahahaha, that makes no sense at all when I put it like that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmm, I sort of get what you mean.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right, also! Misa, you're going a bit overboard, you know. I want you to set us up alone together in a more natural way.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What a demanding request.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tehehe, I'm counting on you!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's see... Today, the Student Council is scheduled to split into three groups and act separately, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun and I are paired up, but I'm going to fake an illness called acute peritoneal ptosis distension and hide in the infirmary, so won't you team up with him in my place, Nanaka-san?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gaaah, what's natural about a serious illness like that!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's not that big of a disease, you know? Put simply, it just means 'overeating.'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyway, I'm good for today. I won't rush it--I'll try telling him my feelings slowly.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn and I have been together since we were kids, after all. We'll take things slow at our own pace!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then! See you in the Student Council room at lunch!」"
+  },
+  {
+    "message": "Having completely caught her breath by now, Nanaka-san runs off toward him."
+  },
+  {
+    "message": "And then, she slaps him repeatedly on the back."
+  },
+  {
+    "message": "Even though he went out of his way to wait until we finished talking, he probably just cracked some stupid joke."
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka's been acting weird since yesterday...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh! So even you can notice a change in Nanaka-san, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you look so happy?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I-I-I-I do not! Hmph!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's forcing herself to swallow a bitter pill, that hysterical chick.」"
+  },
+  {
+    "message": "After-school Student Council activities."
+  },
+  {
+    "message": "Misa and I came to the library to do some research. We've already gathered all the books we need. All that's left is to photocopy the reference pages."
+  },
+  {
+    "name": "Synn",
+    "message": "「We're past the hardest part of our split tasks.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, only our routine work remains now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Hey, Misa, this has nothing to do with Student Council activities, but do you know anything about what's going on with Nanaka?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the only one I can talk to about something like this.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Hearing you say that doesn't feel bad at all. Very well, ask me anything.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on, come on, hurry up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's unexpected. I was sure you'd get mad at me for bringing up personal matters as the Student Council President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Ahem! This too is my duty as Vice President. Nanaka-san is a precious comrade, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True, if Nanaka stays like that, it might interfere with preparations for the Holy Night Festival」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Misa, I know you saw how Nanaka was yesterday, but even after that--」"
+  },
+  {
+    "message": "This morning, the Nanaka who came to wake me up was the usual Nanaka."
+  },
+  {
+    "message": "Making soba noodles and trading playful banter with Paqy. An ordinary breakfast scene, no different from usual."
+  },
+  {
+    "message": "However, once we actually left the house and started walking to school, Nanaka fell completely silent beside me."
+  },
+  {
+    "message": "She kept her head down the whole time, her pace unsteady."
+  },
+  {
+    "message": "After a while, I spotted Misa's back far ahead of us on the road to school."
+  },
+  {
+    "message": "The moment I mentioned it, Nanaka snapped right back to her usual self, practically dragging me along as she ran to catch up with Misa."
+  },
+  {
+    "name": "Misa",
+    "message": "「When we met at the shoe lockers, right? Nanaka-san seemed so lively and full of energy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Only until the chime rang.」"
+  },
+  {
+    "message": "While sitting at my desk in the classroom, I felt like someone was watching me. The person staring was Nanaka, and the moment our eyes met, she hurriedly looked down."
+  },
+  {
+    "message": "That repeated over and over during class."
+  },
+  {
+    "message": "Thinking it was some kind of game, I slipped her a note via Sacchin behind the teacher's back, but no reply ever came. Even when I tried talking to her during break, I couldn't get a straight answer out of her."
+  },
+  {
+    "message": "Yet when lunch break came around, she perked right back up just like when she spotted Misa in the morning, throwing herself into her treasurer duties in the Student Council room."
+  },
+  {
+    "name": "Synn",
+    "message": "「And right now, Nanaka's with Lolotte, bright, cheerful, and fired up.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't that a good thing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, except whenever she's alone with me, or when none of our close friends are around, she goes completely quiet.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...? Speaking of friends, come to think of it, Nanaka didn't really talk much with Sacchin today either?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though there's no way she had a fight with Sacchin. They were both smiling and whispering to each other, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You watched her that closely and still don't get it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If anything, I'm the one being watched, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Sigh*... Don't just look at Nanaka-san on the surface--look at what's inside her heart.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Surely you have some idea why, Sakura-kun? Put your hand on your chest and think about it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--on S-Misa's!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'll take Ria-chan's tits over a hysterical bitch's any day!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm telling you to put your hand on your *own* chest!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, something I did to make Nanaka mad...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you think she's still holding a grudge over that time five years ago when I made a play on pudding a la mode and whipped up pudding a la tofu?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm a hundred percent sure that's not it, man.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What on earth is that mysterious food?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My own original healthy menu item. I'll treat you to some next time too, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No thank you!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly! Why is 'making her mad' the very first thing that comes to your mind?! Surely there are more moments that truly capture Nanaka-san's essence!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I think it's wonderful how she can pour such pure, passionate feelings into sweets.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Starting up a club all on her own and leading its members--that drive, charisma, and organizational skill!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... true. It was practically on the verge of folding before Nanaka rebuilt it, wasn't it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though, that group doesn't have matches or contests, so it kinda just looks like a club for hanging out with friends?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「G-Going around tasting sweets at all sorts of shops, never slacking in refining her palate, and voicing her honest opinions no matter who she's dealing with... I could never imitate that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You wouldn't try to imitate her anyway, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Gasp?! N-Never mind about me! Let's talk about Nanaka-san's wonderful qualities.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka's enthusiasm for sweets is amazing and all, but she tends to be pretty reckless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If she realizes those weak points, I'm sure more people will want to join the Sweets Club.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They don't splurge, they manage their allowances, and everyone has fun together... The club's doors are wide open, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun... you don't just praise her, you genuinely look out for Nanaka-san, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. If I had to point out one catch, it's probably that Nanaka doesn't actually make sweets herself.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Nanaka-san makes soba noodles! Even in Ryuusei Town, Yuugiri-an's food is renowned for being exquisite, isn't it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Precisely because she cooks herself, she can put herself in the shoes of the pastry chefs behind the sweets.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san's sweet reviews may be harsh, but she never hurts or belittles the people who made them.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, Nanaka always thinks about every little detail for others. Even the soba she makes for me every morning--she subtly adjusts how firm she boils it depending on how I'm feeling」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Though Nanaka herself never mentions it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right, whether you call it conscientious or overly reserved... that's Nanaka-san's strong point」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...! Nngh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wanted to tell him about Nanaka-san's good qualities, yet I'm the one getting schooled instead...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's the big deal, Sakura-kun? You already know way more good things about Nanaka-san than I do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I've known Nanaka longer than anyone except my parents, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, wait a second? It's been pretty long since I started living on my own... The time I've spent with her might actually be longer than with anyone else」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka and I are kind of like you and Shio-chan, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is that so? Shio and I are sisters, practically family. That's a bit different from the relationship between you and Nanaka-san, Sakura-kun」"
+  },
+  {
+    "name": "Misa",
+    "message": "「They really are childhood friends... There was never any room for me to step in from the start...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Oh...? Why am I...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks. Having someone listen made me feel a bit better」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're welcome」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's get back to work」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, we pulled out too much reference material. Let's sort through it on that side table over there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We need to separate what needs copying from what doesn't. And for the books that look useful from cover to cover, let's check them out together, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong, Misa? Did you have a suggestion?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh!? U-U-U-Um, er, well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph, it's nothing! You can handle something like sorting reference materials on your own!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, except you're holding half of them in your hands, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T―This is―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry. I'll pick them up」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, I'll pick them up myself!」"
+  },
+  {
+    "message": "Misa and I reach out at almost the exact same time for the documents that fell to the floor."
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Our hands brush against each other."
+  },
+  {
+    "message": "Even though I moved first, Misa was half a beat faster to grab them. My hand ends up resting over hers, wrapping around her small fingers."
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun...」"
+  },
+  {
+    "message": "Our faces are so close. I can even feel her breath."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Why are you going quiet on me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, for a long time now, I've...」"
+  },
+  {
+    "message": "My heart pounds loudly. My palms feel hot. Before my mind can even think, I naturally try to confess my feelings to Misa."
+  },
+  {
+    "name": "Misa",
+    "message": "「...!?」"
+  },
+  {
+    "message": "Hearing her gasp as if frightened, I swallow my words. Misa's hand grows colder and colder."
+  },
+  {
+    "name": "Misa",
+    "message": "「A-A gap...? In me too... So that's why...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-Idiot... The biggest idiot in the world. If I had just thought about it for a second, I would've realized...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But, it's already...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Sakura-kun, let go of my hand」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-W-W-Wha--!? What are you saying! I don't recall ever giving you permission to hold my hand!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I didn't get your approval」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then let go!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Why...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because your hand is cold, Misa. Usually it's much warmer...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You've barely held my hand more than a handful of times, so don't talk like you know everything!」"
+  },
+  {
+    "message": "Misa puts her whole body weight into pulling her hand back, trying to shake off my restraint."
+  },
+  {
+    "message": "...I don't let go of Misa's hand."
+  },
+  {
+    "message": "Misa's momentum doesn't stop, and as a result, the two of us end up crashing straight into a bookshelf."
+  },
+  {
+    "name": "Misa",
+    "message": "「Owww~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, are you okay? You've got a bump forming. I'll rub it, so just bear with it for a bit, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you were going to let go of my hand now, you should've just let go quietly earlier!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh, so you're okay with me rubbing it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I am not!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, the bookshelf...」"
+  },
+  {
+    "message": "The massive bookshelves neatly lined up in the library begin toppling over one after another like dominoes, starting from where we're standing."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This has turned into a huge mess. It's a giant bookshelf domino effect...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Books are scattered all over the floor. This disaster is our fault, isn't it...」"
+  },
+  {
+    "message": "Well now, we have to do something about this."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Just what do you think you are doing?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please be quiet in the library. Your lovers' quarrel was echoing throughout the entire building.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A l-lovers' quarrel...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「'Lovers' talk' refers to playful banter exchanged between two people in love.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh―what―!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, I'll leave the two of you to clean this up together, nicely.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Uuu...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shall we get started, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I know that...\\s03」"
+  },
+  {
+    "message": "Under Melilot-san's watchful eye, Misa and I begin cleaning up. It doesn't look like we'll be making it back to the Student Council room today."
+  }
+]

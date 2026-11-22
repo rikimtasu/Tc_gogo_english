@@ -1,0 +1,709 @@
+[
+  {
+    "message": "掲示板には気をつけろ"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Your mom said to Kirara, 'Getting into music college is all thanks to Lord Cthugha, so--'」"
+  },
+  {
+    "message": "We turned around at the sound of a shutter."
+  },
+  {
+    "message": "Azel was standing there with her Leica raised."
+  },
+  {
+    "name": "Azel",
+    "message": "「Morning.」"
+  },
+  {
+    "message": "Looking sleep-deprived, her eyes were bloodshot."
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel muttered with a somewhat bashful smile."
+  },
+  {
+    "name": "Azel",
+    "message": "「This is the first shot.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's quite an old camera.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's mine.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Looks like the real deal.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ms. Melilot passed it down to Azel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You sure mooched that off her nicely.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wrong. She gave it to me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All in how you phrase it, I suppose.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mornin'!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa. What's with that uncool camera? So lame.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What did you say?!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I mean, it's way less cool than mine. Look, look, the latest model!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-This is...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How nostalgic.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I got inspired by Azel and bought one from Demon World Mail-Order too. Traded a beef bowl for it. Arrived this morning.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Flatty. You got scammed.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「W-What did you say!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is a sun-print camera, isn't it?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, everyone's picking on me. This is a super cool camera, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, this... You really can't call this a camera.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gah, no way...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Whoa! You caught my crying face!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Peace! Make me look pretty!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't ask the impossible.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So mean! That hurts! That's just cruel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Why'd you take a candid shot? Take it when I'm posing! You're such a bully. Look, here's my fish-print pose!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Because you look better candid.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, I see! I'm just overflowing with natural charm!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Optimistic, aren't you.」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Take mine too, take mine!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Boring.」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Harsh.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Something just flashed over there!」"
+  },
+  {
+    "message": "From the direction Lolotte pointed--"
+  },
+  {
+    "name": "Synn",
+    "message": "「I sense a Demon!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What could that flash have been?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At times like this, bad guys are practically guaranteed to be playing with fire.」"
+  },
+  {
+    "message": "We transform as we dash toward the flash!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Another flash!?」"
+  },
+  {
+    "name": "Waltham",
+    "message": "「Meow」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn, that just now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "message": "For some reason, the demons are in a total panic, flying around chaotically."
+  },
+  {
+    "name": "Synn",
+    "message": "「What happened?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...The strobe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Strobe?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, right. A strobe」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is there a strong robot somewhere?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The demons are confused! If we ambush them now, we might be able to capture one or two of them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good idea! We can ask them what they're up--」"
+  },
+  {
+    "message": "Azel pointed his Leica toward us."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. So bright」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-what was that just now!? My eyes, my eyeees」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "message": "With shrieks, the demons scattered in every direction, though the lingering glare left our eyes dazzled too, making it impossible to chase after them."
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Azel. You startled me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ugh. The demons got away...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I just took a picture of you guys looking like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Terrible timing. What was that flash?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even you know what a strobe is, right, Master Synn?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because a camera can't take pictures in the dark」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. Right. Good thinking on the spot」"
+  },
+  {
+    "name": "Azel",
+    "message": "「When I took a picture of them, the brightness seems to have sent them into a panic. That was bad of me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "Did I do something bad?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're remarkably calm, Azel-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Am I?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I mean, you were attacked by those Demons, weren't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「O-Of course I am. Besides, I wanted to try taking photos at night too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That camera really came in handy in an unexpected way, huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thanks to my grand heroics, I'm just glad nothing bad happened」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What did you even do」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was worried sick! You're so reckless, Azel-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Not as much as you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heading to the library again?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Walk Azel-chan back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, oh, right. Of course」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Men have a tendency to become wolves with a cub when escorting someone」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-A kid all of a sudden?! N-No way, Synn-kun! There's a proper order to these things, you know」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You mean a wolf in sheep's clothing」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I won't allow that either as your senior!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not going to become either of those!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This camera is terribly inconvenient」"
+  },
+  {
+    "message": "A lively voice echoes through the quiet night academy."
+  },
+  {
+    "name": "Synn",
+    "message": "「You sound pretty happy about it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「As if I'd be happy. I have to make all the various adjustments myself, and I can't even see what kind of photo I took on the spot. It's inconvenient beyond belief」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Full of waste?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes, full of waste. You even have to buy unnecessary things like film. No matter how you look at it, a digital camera is superior.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, you look happy.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not hap--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel smiled just a little."
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no point in putting on airs in front of you. I...」"
+  },
+  {
+    "message": "Falling silent for just a moment, as if choosing his words,"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes. Not being able to predict what kind of photos they will turn out to be has my chest stirring. I am worked up. It is far from calm, yet it is not unpleasant in the slightest.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am excited, with my heart pounding.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Am I using those words correctly?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. You're using them right.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. So this is what it feels like. Being excited and having your heart pound!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I caught my breath."
+  },
+  {
+    "message": "Azel's face as he turned back to say that was truly innocent. And adorable."
+  },
+  {
+    "message": "I found myself wanting to see that look on his face more."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your heart is pounding right now, isn't it, Master Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shut up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, why is it always Azel getting attacked by Demons?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Who knows.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No idea at all?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「None.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is not necessarily only me who is being attacked.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Is Azel just the only one we happen to be saving?"
+  },
+  {
+    "message": "Then again, there haven't been any reports of people getting attacked by weirdos either......"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel. Aren't you scared of Demons?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What do you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For someone who keeps getting attacked, you're always so calm, and even when you first ran into a Demon in the shopping district, you didn't look scared at all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「On top of that, you even said you felt bad for flashing your strobe at them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They aren't designed to inspire fear」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's certainly true」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Besides, even though I said I'm being attacked, nothing has actually been done to me so far」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nothing? Not even a sign that they're going to pounce on you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「None」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "What on earth are they doing?"
+  },
+  {
+    "name": "Azel",
+    "message": "「Would you prefer it if I got attacked?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm always looking out for you, Azel! I'm genuinely worried about you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I see. You're always serious about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean it. I really do care about you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「D-Don't say it over and over」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte said it too, you know--you're way too careless, Azel. You don't pay any attention to your surroundings at all, or rather, you're just too oblivious」"
+  },
+  {
+    "message": "I pointed at the bulletin board beside the dorm entrance."
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you properly read things like this?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't. There haven't been any problems so far」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It says here that dorm renovation work will be taking place from the start of next week on December 3rd through the end of March next year--did you know that?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I couldn't care less」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...What's your room number, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, what floor?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「At the very back of the fourth floor.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's getting remodeled!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So what?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm say-ing, everything from the third floor up is getting remodeled, so you have to move out while the construction's going on!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What?! Why didn't anyone inform me of something so important?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They did inform you. Right here. And I'm sure everyone at the dorm was talking about it too.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I don't speak to anyone at the dorm.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh... So where are you moving to?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nowhere, obviously.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, wait, it says here that if you apply at the office by November 26th, they'll arrange a room for you by December 1st. Good thing!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Phew... Then there is no problem at all. Don't startle me like that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. Still, make sure you at least check the bulletin board from now on, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There was no problem. There's no need.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's nothing but problems. Today is November 27th.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! Which means you already missed the deadline!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. I'll try asking Helena-san tomorrow.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...My apologies.」"
+  }
+]

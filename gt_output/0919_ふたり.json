@@ -1,0 +1,480 @@
+[
+  {
+    "message": "ふたり"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「From now on...... just like this, together with Synn......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The two of us will be able to do all sorts of things together, won't we......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me, and Azel......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because from now on, the two of us will always be together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure we can do anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Making more friends, taking photos......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even kissing like this......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mmh...... *mwah*...... haah......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...... I love you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Yeah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I love you too, Synn......」"
+  },
+  {
+    "message": "Our parted lips became one for longer than ever before."
+  },
+  {
+    "message": "And our hearts finally joined together as one."
+  },
+  {
+    "message": "That sensation was so warm and comforting."
+  },
+  {
+    "message": "Almost as if it were blessing our future......"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, what on earth is it?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nuhuhu......」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「A thoughtful little gesture from me, just for you, Big Brother」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This time, I'm gonna explain all about the little squirt's Extra Attack!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Aaaah?!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hey, Panda-chan! Don't go stealing my lines!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No need to be such a stickler about it」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Hmph......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Cheer up and tell me about yourself, Macaron」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Jeez... Well, I guess I have no choice!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「As a special treat, I'll explain my Extra Attacks to you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh~」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, you already know I have two kinds of Extra Attacks, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. They've given me plenty of grief before, after all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi. The first is my special move, 'Burn Comet Splash'!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「While dealing damage to the target, it adds wait time to them based on my Magic Lv」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So chanting or whatever boosts the effect of pushing the enemy back, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, I see」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「And the other is my super special move, 'Legionic Weaver'!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「It's a super-duper support skill that massively boosts all allies' Magic Lv and Base Attack!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sounds kinda dirty」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「My spirit is always fair and square!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「By the way, the effect lasts until each ally's Symbol finishes attacking, though be careful since it doesn't stack!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gotcha...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just like with the angel, you use 'em by selecting a button」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Whichever one you pick, my strength stays the same though!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, if you combine these two Extra Attacks together...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... You'll just have to try it out to see how powerful it is!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「That covers the basic explanation, but...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wanna review this tutorial again?」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, I'll team up with Macaron and fight!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Nihihi. Not that I even need your help or anything, big brother」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hold it right theeeere!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's the big idea all of a sudden, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well... there's actually just one more... major secret to EX Attacks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp... W-what could that be...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Take my word for it. Just shut up and pick 'Yes' on the next prompt!」"
+  },
+  {
+    "message": "View the battle tutorial \"Attacking with EX Attacks: Part 2\"?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So that pretty much covers the basics, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hold on a sec, Packy-kins. There's still more left, right」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, right, that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The deeper secret of EX... right♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-what on earth is it... My heart's pounding」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What do you wanna do? Wanna listen to 'Attacking with EX Attacks: Part 2' too?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then, wanna review the tutorial from just now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. Let's do our best!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what exactly is the secret of EX Attacks?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Listen and be amazed. Believe it or not, EX Attacks actually--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, what is this! When I chant, the destructive power is insane!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, knock it ooooff! Don't go spoiling it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Well, chanting boosts attack power too, so isn't that normal?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bzzzt, wrong answer~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh man, you've gotta be kidding me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「When you chant, the effect of your EX Attack increases even further, making it way, wa~y stronger!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it works?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The skill added for me is an upgraded version of 'Raging Nova' called 'Volcane Melt Swarm'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not only does the damage dealt go up, it also instantly destroys barriers so you can deal damage right away」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Barriers? What are those?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Stronger enemies might start showing up from here on out. For now, just keep that tucked away in the back of your mind」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In the same way, Misa-chan gets a power-up too♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「For me, 'Noblesse Laser' is upgraded to become 'Dimensional Wave'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Which means I am now able to reduce the enemy's STUN Gauge even more than before」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ho-ho. With this, the enemies will be having a dizzy-bird festival」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan's 'Cardinal Brightia' gets stronger and becomes 'Exect Divinity'」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「On top of its original effect of reducing the EX Gauge, it absorbs a portion of the gauge it reduces」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Be careful though, because you can't absorb any portion that puts the opponent's EX Gauge into the negatives」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How terrifying!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That about covers the EX Attacks that get powered up by chanting, though...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ba-dump, ba-dump...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte's and mine are still--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan's EX Attack is, well! A liiittle bit different from everyone else's!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「An angel's EX Attack is a special kind that you can switch between depending on the situation」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, it can be activated under the exact same conditions as my original 'Seraphic Whisper', correct?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The new EX Attack Lolotte-chan can use is 'Absolute Tears'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It lets you put up a special barrier that nullifies damage and STUN Gauge reduction a set number of times」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Since it's different from your usual healing effect, you'll need to choose wisely which one to use」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. Then, how exactly can one differentiate between them?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「When the EX Ring pops up, you push the button!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Double push...'」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The skill name shows up as a guide alongside the EX Ring, so look at that and make your call」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. So in Lolotte's case, the 'Circle Button' and 'Cross Button' correspond to healing, while the 'Triangle Button' and 'Square Button' correspond to barriers」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There are also other characters who can use up to four types of EX Attacks, but they don't show up this time, so we'll skip 'em」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, really. Now, what about my EX--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And with that~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's all for Ria and Paqy's Tutorial Corner!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hold on!! I don't get anything!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-ahaha... Well, that's, um~~\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn's EX Attack is way too strong to begin with」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right now, only Paqy shows up for me, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How strong you become, Synn, all depends on your future efforts... right♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Then I'll do my best!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Love the positivity」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That covers everything, but...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wanna review this tutorial one more time?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Are you sure?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. Delicious Food Squad... prepare yourselves」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yaaawn... Ngah... Is it finally my turn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were you asleep?!」"
+  }
+]

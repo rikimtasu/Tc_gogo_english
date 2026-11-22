@@ -1,0 +1,341 @@
+[
+  {
+    "message": "釣り堀でスイーツ"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine with just water」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are you holding back?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I feel bad letting you treat me to something this expensive just for listening to your troubles」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Too late, too late. Your partner's already started digging in」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ooh. This is good!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Sacchin and Okamoto-san are eating away without a care in the world."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So just let me treat you without fussing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll pay you back later」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't push yourself. It'll wipe out your food budget, won't it? If you're gonna pay, pay me back once you make it big. Is Mont Blanc okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah. Thanks, Nanaka」"
+  },
+  {
+    "message": "She says to pay her back once I make it big, yet I wonder how much longer Nanaka and I will actually be able to stay together."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Gulp. That was delicious~. ...It's sweet, yet that clean aftertaste is exquisite too~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I figured you'd say that, so it's already here... wait, it's gone!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Thanks for the meal~. Thanks for ordering it for me~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How did that happen?! I mean, all you guys are doing is stuffing your faces!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Tsk, tsk, tsk, we're in the middle of club activities~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You sure can eat. Will you still have room for dinner?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「I'm in my growing phase, after all」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「There's always room for dessert~. I have a separate sweets stomach~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're inhuman」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're supposed to be discussing our exhibit for the Holy Night Festival!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If there are sweets right in front of me, I have to eat them~. Next up is gateau chocolat~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Man, this is awesome!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Since it's originally from a chocolate company, the bitterness of the cacao is exquisite」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We gathered today to come up with an exhibit for the Holy Night Festival, didn't we!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I am thinking. Now that Nana-chan yelled at me, my thoughts retreated back inside」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Liar」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「How about a fishing pond? My grandpa's friend's cousin runs one, so I might be able to get the know-how」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That has nothing to do with the Sweets Club!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's it! We just need to stash sweets inside the fish. Have them swallow sweets put in plastic bags beforehand」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「You're sharp today, Sacchin-senpai」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Think seriously!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, listen. After all, making and presenting sweets is the most sensible choice」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-That might... be true, but...」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「That's true. It'd be great if we could make something like this~~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「There are already premade ones, so we don't need to make any. Nobles do not work」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「As expected of the Queen of Sloths, you're on another level」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Besides, nooone of us can even make sweets」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yep, yep」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still totally hopeless as usual, huh」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Everyone is hopeless comrades together. An ironclad solidarity」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I reject that solidarity!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kuuu. That hit the spot. Thanks for the soba. Mind if I order a coffee?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Do whatever you want already」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「It's on the house. Here you go」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're so thoughtful, miss--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Touka-san, you mustn't. He'll take advantage of any opening he gets」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eating is a serious bout. I have to pay out of my own pocket for sweets worthy of my respect」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Ever so earnest, aren't we」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I hate to say it, but it wouldn't be fair to the other customers」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Exactly」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「As far as Nanaka-san is concerned, I wouldn't mind paying you a consulting fee, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-What are you saying…… geez」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「In fact, ever since Nanaka-san started dropping by regularly, our customer count has increased by 50%. It's all thanks to you, Nanaka-san」"
+  },
+  {
+    "name": "Synn",
+    "message": "「５０％!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My reviews have nothing to do with how many customers come in…… Please, don't tease me so much」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sigh…… The person herself is always the last to know--」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「That's what's so great about the prez, y'know」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「In the first place, I hardly think Nanaka-san's palate would change depending on whether I charged you or not」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's why it's about respect. When it comes to store-bought snacks, I show no mercy」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「If you're paying me respect, I suppose I ought to be happy, though. Surely you could let me treat you as a friend once in a while?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hearing you say that makes me happy, but I still can't…… You're such a tease. Geez」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No way, Nana-chan. That's where you're supposed to let us tag along on the freebies--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why are you the one saying that?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Because then I'd get treated too--. Since you're the club president, you've gotta look out for your members--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You just ruined what was turning into a nice moment!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Ufufu. I can't very well let you fight in front of the sweets, so…… I'll leave it at that」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Nanaka-san. Let's go sweets-hopping again sometime」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「By all means!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Before I knew it, the two of them had fallen into a natural, friendly rapport."
+  },
+  {
+    "message": "Relationships built through sweets…… This club is no different."
+  },
+  {
+    "message": "It's not simply something she's doing just because she likes sweet things."
+  },
+  {
+    "message": "And yet, why is Nanaka so reluctant to make a cake herself?"
+  },
+  {
+    "message": "It looks like Touka can make cakes on her own, too......"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Whatcha lookin' at, Sakura-senpai?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. I was just thinking Touka...... looks really cool」"
+  },
+  {
+    "message": "I've heard being a pastry chef takes a lot of physical strength, so for a woman to be able to hold her own in the kitchen is actually pretty rare--maybe it's really impressive."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So you're into that kind of outfit, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's not really like that」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ain't the outfit! He's into tight, perky asses like that chick's!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!! Don't lump me in with you, Paqy\\s01」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's a bit of a problem for a healthy young guy~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm...... I see, so you're into that kind of uniform. Chocolat's uniform, huh......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hellooo, is anyone listening to me?」"
+  }
+]

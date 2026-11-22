@@ -1,0 +1,512 @@
+[
+  {
+    "message": "ライバルとリサイクル"
+  },
+  {
+    "name": "Misa",
+    "message": "「Victory belongs to the Crusaders!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're really getting into it, Misa-chan」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course I am. Evildoing cannot be forgiven, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it's not like they were doing anything that bad today……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's your deal, Sakura-kun? Taking the demons' side like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Gulp*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aha~ Don't tell me――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Flinch*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You fell for Sally-chan at first sight or something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, definitely not. End of story」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kieee! All of you just running your mouths! Feel the full-throttle power of Sally-chan's grudge!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugya! The handcart is right there――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Watch out, get down!」"
+  },
+  {
+    "message": "Shielding the people closest to me, I dropped flat to the ground."
+  },
+  {
+    "name": "Sally",
+    "message": "「Awawawawa! Run for it, everyone」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is everyone okay!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Cough*, *cough*……」"
+  },
+  {
+    "message": "For now, it looks like Lolotte and Nanaka are unharmed."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What about the handcart!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh…… ughh……」"
+  },
+  {
+    "message": "Misa is using her own body to shield the handcart. What Sally-chan threw wasn't an explosive, just a smoke bomb."
+  },
+  {
+    "name": "Misa",
+    "message": "「Looks like it made it through somehow……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, are you all right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Something like this is no big dea――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa!」"
+  },
+  {
+    "message": "As she staggers unsteadily, I hurriedly catch her in my arms."
+  },
+  {
+    "name": "Ria",
+    "message": "「It looks like you inhaled quite a bit of smoke.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「T-This much is nothing...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No! You have to rest.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ahh, Onee-sama... how kind you are\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, it'd be great if there were somewhere she could lie down, though.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun... I can walk on my own, so...\\s03 Um... could you let go of me?」"
+  },
+  {
+    "message": "When I look at Senpai, she shakes her head silently."
+  },
+  {
+    "name": "Misa",
+    "message": "「~~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「With that much energy, she'll be better in no time.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I found a place where she can lie down!」"
+  },
+  {
+    "message": "What Lolotte turned her eyes toward was the rear cart that Misa had put her body on the line to protect."
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Why am I being put through this...」"
+  },
+  {
+    "message": "Inside the rear cart, Misa is grumbling to herself."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It looks fun~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's carrying the person who saved its life, so the rear cart must be thrilled.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Or would you rather have Synn-kun give you a piggyback ride?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Here is just fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha...\\s02」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's not a laughing matter! Be a little more considerate and do something about this rear cart... honestly.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President had his hands full just protecting us, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I was just completely caught up in the moment...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Trying to look all cool--what a smooth guy!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan. Please don't do anything reckless like that anymore, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes. I'm sorry...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mhmm♪ Good, as long as you get it!」"
+  },
+  {
+    "message": "And so, we ended up calling it a day right there."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Curry again today, huh...」"
+  },
+  {
+    "message": "Hmm. So our only loot is cardboard boxes and a cuckoo clock~~."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, I've made up my mind!」"
+  },
+  {
+    "message": "After putting the dishes in the sink, I change back into my school uniform."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Where ya headed, Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To the shopping district」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Scavenging for unwanted stuff?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yep, yep. I felt bad leaving it all to Misa, so I figured I'd gather a little more」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Walking alone at night is dangerous, ya know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why don't you come along with me?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I dug my own grave...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, ain't Soba coming?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka ran out of nori, so she's out buying some. Well, I've got you with me, Paqy, so it's fine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I wanna go home...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, where should we start making our rounds?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's go raid Soba's place」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Soba is best when it's freshly made, you know. Her dad seemed really bummed that he couldn't help out with the bazaar」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then let's go get some freshly made soba from him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The only way to pull that off is to have him come to the academy...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, good evening. Out shopping?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh... N-No. Th-That's...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Feeling better already?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't worry about me. Something like that isn't enough to weaken me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. That's good.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you here for, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was thinking about gathering a few more unwanted items.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you're not out shopping, huh. If you've got time, maybe together--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「He beat me to it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. Who can gather more unwanted items... It's a contest!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just you watch! I'm going to redeem myself from earlier!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, that's totally inefficient.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just the type who can't say no when challenged...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Try losing on purpose for once.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Throw the match? What would I do if she found out!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I don't even wanna imagine.」"
+  },
+  {
+    "message": "And so, when challenged to a contest, I have no choice but to take it on. If I'm doing this, I'm going to win!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good evening~. I'm Synn Sakura from Ryuusei Academy~」"
+  },
+  {
+    "message": "And then, time's up!"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph.」"
+  },
+  {
+    "message": "Misa crosses her arms, looking brimming with confidence."
+  },
+  {
+    "name": "Misa",
+    "message": "「Now then, tell me how much you collected first, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, got it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee. In times like these, the one who goes second always wins.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I got four.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Grr!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's getting late, so I think that's my limit.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph... Not bad at all... Well, I suppose we both put up a good fight.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, let's call it a 'draw' for today--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, you're forgetting this dishwasher.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! Sorry, sorry. I left it with you, Paqy.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. Guess that makes five.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shiiiin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't be such a stranger, honestly! Tell us where you're going next time!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Getting a head start on us isn't fair!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone...!」"
+  },
+  {
+    "message": "It seems the three of them pitched in and gathered unwanted items too. They load the things into a handcart."
+  },
+  {
+    "name": "Ria",
+    "message": "「We actually collected quite a lot.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This much is a piece of cake!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even we can get things done when it counts, you know.」"
+  },
+  {
+    "message": "If only it 'counted' all the time."
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, what did you gather, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You have quite a lot too, Vice President~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "message": "Misa tosses the things she gathered into the handcart with a couple of plops."
+  },
+  {
+    "name": "Misa",
+    "message": "「The outcome of the match is shrouded in darkness, you know」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Four of 'em」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We only won because you were there, Paqy! Don't you forget that!」"
+  },
+  {
+    "message": "On the way home too, everyone browsed through all sorts of shops together, and treasures kept piling higher and higher onto the handcart."
+  }
+]

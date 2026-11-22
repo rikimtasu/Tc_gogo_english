@@ -1,0 +1,241 @@
+[
+  {
+    "message": "諺・狂歌・散文"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Thinking ahead to after you've conquered the world and practicing your speeches now, hehehe... That's Lord Synn for ya.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「J-Just what kind of thought process led you to that conclusion?」"
+  },
+  {
+    "message": "The moment I stepped inside the Culture Hall, Paqy started flattering me in a completely off-base direction, as has become our usual routine."
+  },
+  {
+    "message": "Huh...? Wait, he called me 'Lord Synn' instead of 'Demon Lord'? Is someone else here?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「My loyal and valiant students of Ryuusei Academy! Dare I say it, I am an angel!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's what you are after all?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Bit late to be realizing that now.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeek!! President, how long have you been standing there!? And I am not an angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Calm down, Lolotte. I'm just patrolling the patrol.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? You sure say weird things, President.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「L-Look who's talking...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know how the demons have been getting stronger lately, right? Training the Crusaders is important, of course, but I thought I'd check around the campus again.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hardly anyone ever comes to the Culture Hall, so I was worried it might've turned into a demon nest... Looks like it's fine, though.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so? You really pop up like \\{sunset|\\s12\\s12} all over the place, don't you, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...What were you doing here all by yourself, Lolotte?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, correct her on that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm so glad you asked! There's going to be a slogan contest for the first-years soon. Exciting!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, we did that last year too. Everyone comes up with a new slogan, and the best ones get awarded at a presentation ceremony in the Culture Hall.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes~♪ So I was doing a dress rehearsal for the award ceremony. Clap, clap.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's amazing, Lolotte! So you won an award!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? You're quite the impatient one, President. I haven't even entered yet.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Eh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please look forward to it, though! As you can see, proverbs are my absolute specialty, hmph!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How the heck is anyone supposed to tell that just by looking at ya?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good grief, Mr. Panda, you really have no eye for people.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, the great me doesn't have an eye for angels, that's for sure.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-t-t-t-t, I am not an angel!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How's that! It's in 5-7-5!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-you don't really need to base it on fixed-form poetry like waka...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, a competition is \\{perishable|\\s12\\s12\\s12\\s12}, so you never know, right? I'm sure to win a prize.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-no, don't proverbs and slogans have pretty little to do with each other...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's why I'm tellin' ya to correct her!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Exciting, heart-pounding... Mr. President, I'll let you in on the slogans I came up with just for you. Please let me hear your thoughts!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, if you don't mind my opinion.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ahem! 'Gropers are perverts, so let's be careful.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Let's be careful, on dark night roads lurks Blackuma.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I-I'm in a huge bind."
+  },
+  {
+    "message": "It's way too subtly off to explain logically, yet something about Lolotte's slogans is definitely wrong."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How are they, Mr. President♪」"
+  },
+  {
+    "message": "Lolotte gazes at me with sparkling eyes."
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Tug, tug.」"
+  },
+  {
+    "message": "Paqy clouds his eyes and tugs on my sleeve."
+  },
+  {
+    "message": "Correcting an angel's misunderstandings is gonna take a massive amount of time and effort, ain't it? The great me refuses to get dragged into that. Let's hurry up and bail, Lord Synn!"
+  },
+  {
+    "message": "That's what Paqy is saying through eye contact."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, I still have tons more that I thought up♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-is that right...」"
+  },
+  {
+    "message": "No good, I have to stay here. I can't just leave Lolotte behind all by herself."
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me is gonna excuse himself first!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah?! The lock's been smashed to bits!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Like that'll stop me...! There's still plenty of other exits!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Th-This one won't open either!!」"
+  },
+  {
+    "message": "R-Riesling-san..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Panda? Why did you suddenly start doing a comedy routine?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm not!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L―Lolotte... look, a slogan is―」"
+  },
+  {
+    "message": "Carefully choosing my words, I go on to explain what a slogan is."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "While Lolotte listened earnestly, the questions she occasionally interjected were all simple yet hit the nail on the head."
+  },
+  {
+    "message": "Thanks to that, I got to learn a lot right alongside Lolotte."
+  },
+  {
+    "message": "The remaining problem is..."
+  },
+  {
+    "message": "How to get out of this cultural hall where all the door locks have been destroyed."
+  }
+]

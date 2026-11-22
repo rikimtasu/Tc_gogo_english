@@ -1,0 +1,875 @@
+[
+  {
+    "message": "洋菓子ＶＳ和菓子"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Alright, so. This is where my stall's gonna be, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. The academy will provide three helpers, so we're counting on you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And if any problems come up, call my cell」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No matter how reliable I may seem, you must not contact me」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Well, that's a shame. Though I don't know your number anyway, little lady, so I couldn't call you even if I wanted to」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Naturally, since I haven't given it to you」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Haha」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Synn. Somehow I'm starting to get excited too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me too」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「It's rare to get a chance to enter the academy fair and square, after all. Maybe I'll hit on a bunch of girls!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Pull anything like that and I'll throw you out」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Harsh, aren't you. Well, looking forward to the big day」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Same here, we're counting on you」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Don't get so excited that you stay up late or end up jerking off!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-what are you saying, Tame-san!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Speaking of pulling one out, you mean a shirikodama, right!? I would love to see a shirikodama」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hahaha. Synn's shirikodama is thiiis huge」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, alright. Enough with the stupid talk. Seriously, we're counting on you that day」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Leave it to me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew. That's all the shops setting up stalls greeted, then」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Um... I've checked them all off」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well then, we're dismissed for today!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, isn't it still a bit early?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not at all--we have to get up early tomorrow to prep, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, something's just been bugging me...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's just your imagination, your imagination」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hold on just a second, there's still an important matter left」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「An important matter?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What exactly is a shirikodama?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're still on about that?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In my imagination, it's a red ball about the size of a golf ball. And like the cherry on top of anmitsu, I picture it all slimy and wet」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Don't imagine it in such vivid detail!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So a shirikodama really is just as I imagined!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, not that--anmitsu」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What about anmitsu?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「While we were making the rounds greeting folks in the shopping district, something kept nagging at the back of my mind... I felt like a bunch of shops were being skipped over」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...It's your imagination, just your imagination」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. Show me the list」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What's going to happen with the shirikodama?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That can wait. Ah, I knew it... There isn't a single traditional Japanese sweets shop on here!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's short notice starting now, but what do you say we ask the Japanese sweets shops to set up stalls too?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All-you-can-eat anmitsu, right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Putting that aside... Anyway, that's why I have a favor to ask Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Weeell then, let's call it a day here so we can get ready for KiraFes tomorrow」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you trying to cover up」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, uh, um」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I remember right, Yuugiri-an serves anmitsu for dessert, doesn't it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't recall that at all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How pitiful. Juvenile amnesia at your young age? Oh, though I suppose it's called juvenile precisely because you're young.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know, I heard from your dad that 'Hanamura' supplies it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...My dad's totally unreliable, so you shouldn't believe him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I heard it when Hikoichi-san, the owner of 'Hanamura,' and your dad were playing Go on the veranda, so there's no mistake」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guh... Saying unnecessary things, that terrible Go player...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So anyway, I want to have your dad put in a word for us and negotiate to get at least 'Hanamura' to open a stall, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean, 'no'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Western sweets are plenty! We don't need any Japanese sweets!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's blatantly a personal reason. Talk about might making right.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I feel like that proverb is slightly off. Besides, Nanaka, you were wolfing down anmitsu at your own place, weren't you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You promised not to bring that up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, come on, just because you don't get along with Misasagi-senpai, isn't badmouthing Japanese sweets going too far?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It really is a personal reason!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Anyway! KiraFes is right around the corner, there's no space left at this point, so no way, no way, no way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me... Nanaka, you deliberately skipped all the Japanese sweets shops and filled up all the booth spaces, didn't you!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Gasp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't flinch like that, Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I did not flinch! Still, as a practical matter, it's impossible now! When I say no way, I mean no way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, you've got the connections. You can secure space for at least one shop, right? Right, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Understood! Failure is crystal clear right from the start, but I'll give it a shot even if it means going down in flames! Just leave it all to me like you're riding on a big, sturdy ship!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...If we ask Misa, she'll probably figure something out, and there are plenty of people who like wagashi too, so cutting down on their fun just because of Nanaka's stubbornness is--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nobody like that exists in this world!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a bold claim, Treasurer. Though it's already falling apart the moment you said it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bubuzuke!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The Sweets Society's hated rival, the president of the Wagashi Club!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Misasagi-senpai. She's often with Ria-senpai」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wrong, it's Bubuzuke!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She's not human, so it doesn't count!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's discrimination. There are even angels and Demons in this world. Ah, of course, I'm not an angel, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before all that, Senpai is human, isn't she」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If Nanaka says she won't do it, let's get Misasagi-senpai to help us out」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Boo-boo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's Senpai, she probably has connections with wagashi shops」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see, it's a case of the doctor not taking their own medicine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't even know where to start retorting」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you're gonna say that, it's 'leave it to the specialists'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'd hang myself before borrowing help from someone like her!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see. In that case, I'll accidentally pull on your legs」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who's gonna die?! Look, asking that woman to negotiate is impossible in the first place. After all, Bubuzuke is hated by wagashi shops」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, take a look」"
+  },
+  {
+    "message": "Nanaka said, pointing at the wagashi shop."
+  },
+  {
+    "message": "In the small tatami-style cafe corner inside the shop sat Misasagi-senpai, kneeling neatly in seiza."
+  },
+  {
+    "message": "Hikoichi-san had just brought some traditional Japanese sweets over there."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa. Those look delicious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since they're yellowish... maybe they're the kind of sweets made with eggs?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look, Synn. Right now, old man Hikoichi is peeking up at her in terror while asking for her verdict, isn't he」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It just looks like he's greeting her politely to me...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah. You lack observation skills! Look, she just answered him all high and mighty, didn't she」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aah, the old man is groveling and bowing his head off!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It looks like he just asked for her thoughts and she's answering calmly, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I bet she tore them to shreds without mercy! What an awful woman!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if he's only making things like Japanese sweets, you should still show proper respect to someone who makes food! What a rude jerk!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's not observation skills, that's delusion skills」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hate the monk, hate him until \\{this morning|\\s12\\s12}. You end up hating him all night until morning and can't get any sleep」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I agree with the first half, but the second half makes zero sense」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「After tearing his food to shreds like that, she probably threatens to tell the whole town it tastes awful and extorts free sweets in return! No doubt about it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where you get that certainty from is the real mystery here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I think she's picking up radio waves」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right, isn't she awful? The way I figure it, she must be sweet-talking him by saying she'll spread word that it's delicious instead, and gorging on sweets without spending a dime of her own money!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She probably thinks she's the JIS standard for Japanese confectioners in this town or something! Unforgivable!」"
+  },
+  {
+    "message": "No, if anyone's the JIS standard for Western confectioners in this town, isn't that you, Nanaka?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, Nanaka. Even supposing things are just like you say, if it's Misasagi-senpai, I'd think getting a Japanese sweets shop to open a stall would be easy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, are you saying we should borrow the power of evil just to get more stalls! That's not something an ally of justice does!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Being Crusaders is a side gig, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before that even comes up, Misasagi-senpai isn't evil, you know」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my. Everyone is gathered here. Good afternoon」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Hehe. That attitude is far too childish, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grr... Hello」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, Misasagi-senpai, I have a favor to ask. Could you at least hear me out?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Since it is a personal request from the President whom Lia adores so much, I will gladly take it on as best I can, so do go ahead and tell me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We don't have anything to ask of someone like her」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「The one who has a favor to ask of me is the President. Bystanders ought to keep their mouths shut」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not a bystander! I'm an officer of the Student Council too」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I see, so this is a matter concerning the Student Council. Could it be... about tomorrow's Kirafes?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, that's right. I figured you might have some pull with the Japanese sweets shops in Ryuusei Town, Misasagi-senpai--how about it?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Not quite as much pull as your Treasurer over there has with the Western pastry shops, mind you... Though since I buy from them quite often, I suppose I might be of a little help」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「After threatening the Japanese sweets shops nonstop--mmph, mmph, mmph」"
+  },
+  {
+    "message": "While covering Nanaka's mouth, I said,"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually... as embarrassing as it is, I only just realized that we don't have a single Japanese sweets stall at Kirafes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, even if it's last-minute, I'm hoping to negotiate with them to open a stall. And when I do, I'd like to borrow your influence, Senpai」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Very well. Is what I would like to say, however...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「In time for Kirafes--that really is awfully sudden, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're right...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's where a time machine comes in!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where on earth would we find one of those」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Um... well, the guidebook said that's a handy line to use at times like this」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, it seems I am terribly feared by the Japanese sweets shopkeepers, so if I put in a quick word for you, things might just work out somehow」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See, Synn! I told you it was true!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh, what am I supposed to do here as Student Council President!? Should I liven up KiraFes even if it means borrowing a slightly shady power!? Or should I stick to my principles!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Just kidding, that was a lie」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Could it be... that person over there was saying something like that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't make it sound like I'm making things up out of thin air! Synn, don't believe a word this guy says, okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It exists inside everyone's heart. That is a good, multi-purpose line.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...What does」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The time machine, of course.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You went out of your way to look that up so thoroughly? What an amusing kid.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please call me serious, not amusing.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There are also others, such as 'Of all words of mice and men, the saddest are, \"It might have been.\"'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am a fountain of knowledge, so please keep asking me questions.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, we don't need that kind of trivia.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm really sorry to spring this on you so suddenly, but. Could I ask a favor of you?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If you ask me like that, I can't very well turn you down flat, especially since it's a favor from the President whom Ria dotes on like she wants to lick him up.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn... she's doting on you!? And like she wants to lick you up?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Lick him up...? Does that mean getting licked all over your body?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I haven't been licked all over my body, though I might be getting doted on.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He answered completely deadpan!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I like that. That kind of honest reaction. Nothing complicated about it--it's refreshing for the soul. I'll gladly take you up on it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heh-heh-heh. It's pointless, so don't bother.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, that's a strange thing to say. Why is it pointless?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If Bubuzuke were the only one in trouble, I'd just keep my mouth shut, but I'd hate for you to get dragged into it too, Synn, so I'm telling you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「After all, it's tomorrow, so there's no way you'll make it in time even if you start negotiating now! And besides, all the venues are completely booked anyway!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Crap, that's right」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I see. So you went and pulled a move like that beforehand, did you? How mean」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not the one who schemed this! It's just plain too late!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If it were a week ago, though, I reckon things would've turned out quite differently」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's finally time for a time machine, isn't it! Where is it!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Why, it's right inside your heart, of course」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Are you going to pull it out of my heart?! That sounds painful!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no way a time machine exists」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「At least not anywhere right now, anyway. What I used was another sci-fi classic--precognition」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Precognition...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So you really weren't human after all!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It was about a week ago, I suppose... Lia asked me to handle things nicely for her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Handle what?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Negotiating with the Japanese sweets shops」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So Ria-senpai time-traveled back a week ago and asked you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's move away from that topic, okay」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「When Lia tells me, 'Take good care of it for me,' in that clumsy accent of hers, there's simply no way I could refuse」"
+  },
+  {
+    "message": "There's no way Nanaka would ever negotiate with the Japanese sweets shops, after all. Thank you, Senpai."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What about the venue! There's no way you can secure one now!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Word is that Lia already secured one under a different pretext」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There's no need to bow your head to me. Lia's the one you ought to be thanking」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then you should've just said so from the start!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well now, if I'd told you a week ago I was doing this, wouldn't you have objected?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way! Sure, I might've complained a little, and personally I hate traditional Japanese sweets, but expanding the variety of stalls is a good thing」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now don't get all worked up--saying you'd object was just a little joke」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not what I'm mad about!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「By the time you met up with me today, everything was already settled, wasn't it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then before dragging things out with all that slimy back-and-forth about whether you'd take it on or not, you should've just spit out right away that Ria-senpai asked you to do it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Doesn't that kinda make me look like the bad guy……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, if I'd done that, I wouldn't have been able to enjoy our little chat nearly as much. I really do quite like talking with you, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well I hate it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A textbook case of unrequited love」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Indeed it is. Simply tragic. I might just shed a tear」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How is any of this tragic!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bubuzuke. You really are a total jerk」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「And here I am a veritable saint…… How sorrowful it is to be so misunderstood」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you're a saint, then that makes me a literal god」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……Aren't the two of them actually pretty close?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Their conversational rhythm is completely in sync」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Roro-chan, you really ought to go see an ear doctor」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's right. Despite how it looks, we're actually on the exact same wavelength」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Liar!」"
+  }
+]

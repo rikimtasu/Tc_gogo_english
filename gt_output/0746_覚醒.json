@@ -1,0 +1,589 @@
+[
+  {
+    "message": "覚醒"
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「Impossible! Impossible, impossible!」"
+  },
+  {
+    "message": "Parrying every single one of the Female Demon's attacks, I closed the distance."
+  },
+  {
+    "message": "Her face, twisted in terror, appeared right before my eyes."
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「O all-encompassing power. Become a shield harder than metal!」"
+  },
+  {
+    "message": "A seemingly useless shield of magic materialized in front of the Female Demon."
+  },
+  {
+    "message": "I swung my weapon."
+  },
+  {
+    "message": "It was like cutting through butter with a heated knife."
+  },
+  {
+    "message": "The shield flared with light and tore apart the instant it was shattered."
+  },
+  {
+    "message": "And then my blade entered the Female Demon's right shoulder and exited out her left side."
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「Gyaaaaaaaaaa!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. It's okay now.」"
+  },
+  {
+    "message": "Still sitting on the ground, Azel looked up at me."
+  },
+  {
+    "name": "Azel",
+    "message": "「......I'm sorry.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have anything to apologize for.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But, but! I... I!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, let's go home. Can you stand?」"
+  },
+  {
+    "message": "I held out my hand. Azel timidly reached out to take it."
+  },
+  {
+    "message": "Her feverish hand was slick with sweat."
+  },
+  {
+    "message": "Perhaps I misjudged how hard I pulled her up, because as Azel stood, she stumbled and ended up clinging to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. Did I pull too hard?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No......」"
+  },
+  {
+    "message": "Azel wrapped her arms around my back. She stroked my back and shoulders as if confirming I was really there."
+  },
+  {
+    "message": "I caught the scent of sweat. She was trembling."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel!? What's wrong!? You're sweating so much, and you have a fever too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn...... For someone like me...... Going through something like that for someone like me...... I'm sorry, I'm sorry」"
+  },
+  {
+    "message": "Without thinking, I hugged her back,"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. As long as you're safe, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But, but, but! Because of me, you almost died, Synn...... Even though it's my fault...... Even though it's all my fault!」"
+  },
+  {
+    "message": "Looking up at me from so close I could feel her breath, her eyes were glistening with tears."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm totally fine. If it's for you, Azel―I mean, well, um, I―」"
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「I didn't... never consider that it might turn out like this...」"
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「Even so... you... took on pointless suffering, didn't you...」"
+  },
+  {
+    "message": "No, she wasn't looking at me. She was looking at Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「I...」"
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「Even though the ending is already decided... Even though you... understood that... better than anyone... How strange...」"
+  },
+  {
+    "message": "For some reason, her voice carried a tinge of pity."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sengen'in-sensei?",
+    "message": "「...You... Re-Crea, the will of God... will turn me... into an angel... Let's meet again when that happens...」"
+  },
+  {
+    "message": "The body of the Female Demon who might have been Sengen'in-sensei crumbled away completely."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What she said at the end... what do you think she meant?」"
+  },
+  {
+    "message": "That demon had clearly been speaking to Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't know...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "It wasn't like they knew each other, after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm fine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Synn?」"
+  },
+  {
+    "message": "I sensed the presence of a powerful demon close by."
+  },
+  {
+    "message": "I moved to shield Azel from that presence."
+  },
+  {
+    "name": "Synn",
+    "message": "「Who's there!?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Virus.」"
+  },
+  {
+    "message": "The young man radiated arrogance and confidence, as if that name alone should tell us everything we needed to know."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "His build was slimmer than Ardin's, he lacked Eauderourke's grotesque air, and he was shorter than Melphas."
+  },
+  {
+    "message": "Yet I was certain beyond a doubt that this young man was indeed Virus."
+  },
+  {
+    "name": "Virus",
+    "message": "「I had intended to conceal both my magic power and my presence, yet it seems I cannot manage it quite as well as Nibe.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Virus",
+    "message": "「It is a pleasure to meet you for the first time, Synn Sakura--and you as well, O legendary Demon Lord.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「!?」"
+  },
+  {
+    "message": "Behind me, I sensed Azel catch her breath."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What are you talking about...?」"
+  },
+  {
+    "message": "I try playing dumb for now. Even though it seems pointless."
+  },
+  {
+    "message": "Virus suddenly moved!"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "The distance of about three meters becomes zero in an instant."
+  },
+  {
+    "message": "So fast!"
+  },
+  {
+    "message": "Instinctively, I crossed my arms in front of my chest and blocked his fist. Even so, it was a punch so heavy that I was forced to step back slightly."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「You blocked it, huh. Now this is how it should be!」"
+  },
+  {
+    "message": "Virus was laughing as if he were enjoying himself."
+  },
+  {
+    "message": "However, I'm in no position to feel the same."
+  },
+  {
+    "message": "Cold sweat runs down my spine."
+  },
+  {
+    "message": "I understood from just that brief exchange."
+  },
+  {
+    "message": "Virus's power surpasses mine, even though I'm the Demon Lord."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Like this, I won't be able to protect Azel from this guy."
+  },
+  {
+    "message": "Even so, I--"
+  },
+  {
+    "name": "Virus",
+    "message": "「It's truly entertaining, but let's leave it at this for tonight.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「O Demon Lord. You'd best head back and rest early tonight. Having just awakened, your state is unstable, and the backlash will hit you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Backlash...? Urgh...」"
+  },
+  {
+    "message": "Suddenly, all strength drained from my body."
+  },
+  {
+    "message": "Like water pouring out of a bucket with a hole in it, there's no stopping it."
+  },
+  {
+    "message": "And then, intense pain floods through my entire body."
+  },
+  {
+    "message": "The sheer agony robs me of my willpower, and even my transformation begins to undo itself."
+  },
+  {
+    "name": "Virus",
+    "message": "「You overworked parts of yourself you've never used before, so this is only natural.」"
+  },
+  {
+    "message": "I looked like I might collapse at any moment, yet I mustered my willpower and glared at Virus."
+  },
+  {
+    "message": "Virus looked genuinely delighted, to an infuriating degree."
+  },
+  {
+    "name": "Virus",
+    "message": "「I'm looking forward to the day of Re-Crea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn!」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmph...」"
+  },
+  {
+    "message": "My whole body feels sluggish, as if mud had been poured into it."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "When I turn my eyes toward the presence right beside me, Azel is sitting by my bedside, quietly shedding tears in the cold light of night."
+  },
+  {
+    "message": "Her tears were crystal clear and beautiful."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Azel. Lord Synn's awake.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Her wet eyes widened and looked down at me."
+  },
+  {
+    "message": "My whole body is numb, and I can't move my mouth properly."
+  },
+  {
+    "message": "On top of that, everything feels terribly sluggish, and if I let my guard down, I'm going to fall right asleep."
+  },
+  {
+    "message": "Still, I somehow managed to force my voice out."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for making you worry.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel shook her head."
+  },
+  {
+    "message": "I thought to myself that the old Azel would have said something like, \"I wasn't worried at all.\""
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not hurt, right, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel gave a small nod."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank goodness...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Someone like me has no right to be worried over.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I... to you...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You are...」"
+  },
+  {
+    "message": "After hesitating, Azel opened her mouth again."
+  },
+  {
+    "name": "Azel",
+    "message": "「You're... the Demon Lord, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry... for hiding it from you.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... you were the one who carried me here too... Azel?」"
+  },
+  {
+    "message": "Azel gave a small shake of her head."
+  },
+  {
+    "name": "Paqy",
+    "message": "「It was a Demon.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That Virus guy from the rumors.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That bastard even saw right through my true identity.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "What is Virus planning, I wonder?"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "My head isn't working. I feel so heavy. I'm exhausted."
+  },
+  {
+    "message": "Suddenly, Azel started to stand up, stumbled, and fell to her knees."
+  },
+  {
+    "message": "The hands she instinctively thrust out landed on either side of my neck."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Are you okay?」"
+  },
+  {
+    "message": "With Azel's face right in front of mine, my heart starts pounding."
+  },
+  {
+    "name": "Azel",
+    "message": "「I-It's nothing」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't push yourself. Anyone'd end up like that after sitting seiza for about five hours.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Five hours...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Ngh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "message": "Azel's hands wrapped around both sides of my neck."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "His palms were strangely hot."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... ngh... aaah」"
+  },
+  {
+    "message": "The grip of his palms pressing against my neck tightened."
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah... A-Azel... what are you...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Azel! Hey, that's... that's no joke, man!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "The force strangling my neck gave way."
+  },
+  {
+    "name": "Synn",
+    "message": "「*Cough*, *cough*... huh...?」"
+  },
+  {
+    "message": "Warm droplets fell onto my face."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... why are you crying?」"
+  },
+  {
+    "message": "His hands pulled away."
+  },
+  {
+    "message": "I sensed Azel backing away."
+  }
+]

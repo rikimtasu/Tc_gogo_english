@@ -1,0 +1,303 @@
+[
+  {
+    "message": "最近は緩みがち"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Riesling-san.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Good day to you, Master Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where are you headed today?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I was granted the day off today, so I was just out foraging for wild mountain vegetables.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What were those called again? Those expensive things called 'truffles' or whatever?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No. They are royal fern shoots and wood ear mushrooms.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, pretty ordinary.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I am humbled.」"
+  },
+  {
+    "message": "I wonder if she realizes how unusual that actually is."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Are you not going out with the young lady today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--\\s01 I-It's not like I'm with Lolotte... every single day or anything...\\s03」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Heehee...」"
+  },
+  {
+    "message": "Riesling-san is laughing."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Is it truly so rare for the likes of me, Riesling Tooyama, to laugh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gulp.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please do not mind it. Even I feel a sense of unfamiliarity with it from time to time.」"
+  },
+  {
+    "message": "Riesling-san gazes up at the sky."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Master Synn. Might I trouble you... for just a moment of your time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Welcome♪ Welcome to Chocolat l'Or! What may I get for your order?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Just ice water.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Two pure chocolate cakes and two royal milk teas, please.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Your usual, then. Certainly. Please wait just a moment.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The other set is for you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure?!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Yes. Since I, Riesling Toyama, invited you, treating you to at least this much is only proper」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry... for everything you've done」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Besides, I wouldn't want you to think of me as a glutton」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I-I don't think that at all!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hehe...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I, too... only became able to smile after meeting Milady」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I imagine you have heard bits and pieces here and there, but I used to be a mercenary」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Stepping onto battlefields and taking lives for a living. It was during one of those missions that I met Helena」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With Helena...?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「And then I suffered the first failure of my life, suddenly finding myself hunted by the Syndicate」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You've really had a turbulent life」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The ones who saved me from that were Helena... and Melilot. After seeking asylum in this country, the two of them gave me a job protecting people」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Was that being Lolotte's bodyguard?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「To be precise, a bodyguard for the Rosenkreuz family. It was a little while later that I began serving as Milady's butler」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「However, I was a killing machine modified to be cold-blooded and composed」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Without opening my heart even to Helena or Melilot, I lived a life of simply carrying out my duties faithfully」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Heartless... I was an empty shell of a soul all along」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Until I met Milady」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I have heard that the more sublime an angel is, the less of a heart it possesses」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Because a heart gives birth to malice. To ensure one does only what is right, emotions are unnecessary」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Perhaps from Milady's perspective, even I looked like an angel who had lost her emotions.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady taught someone like me what it means to have a heart.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Don't you think Azel-sama has also become much more expressive lately?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, y-yes. Indeed.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Indeed. When everyone around her is expressionless, it's no wonder Milady grew bored.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「And so she ventured to the Human World and met you, Synn-sama.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady looks truly happy now. She talks until she falls asleep about how fulfilling every day spent with you is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, that's... I'm not really doing anything special or anything.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please continue to take good care of Milady.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Stop that! Please don't bow your head like that...!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hehe... Could this be what it feels like to send one's own daughter off to be married, I wonder?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Married!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「For a servant like me to make such a lighthearted jest... Even I can scarcely believe it.」"
+  },
+  {
+    "message": "Riesling-san kept a gentle smile on her face the entire time she spoke."
+  },
+  {
+    "message": "It was a truly wonderful smile."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Now then, our break is almost over. It's about time we composed our relaxed expressions.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Thank you for waiting. Here is your Pure Chocolate Cake.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, there's no need to compose ourselves just to eat cake--」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please, go ahead and eat.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the food~ *nom*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「――!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bitter!!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「It's our shop's pride and joy, a dessert prized for its bitterness so you can enjoy the pure flavor of cacao♪」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「--!!」"
+  },
+  {
+    "message": "And once again, Riesling-san's expression had returned to its usual sharp composure."
+  }
+]

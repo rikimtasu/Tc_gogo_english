@@ -1,0 +1,754 @@
+[
+  {
+    "message": "本当の宣戦布告"
+  },
+  {
+    "name": "Synn",
+    "message": "「Welcome back, Misa. Is patrol going smoothly?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No issues to report. Naturally.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you on break too, by any chance, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I am, yes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, what a coincidence. Actually, so am I.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, is that so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since we're both free--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I refuse!!」"
+  },
+  {
+    "message": "I hadn't even said anything yet..."
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't possibly let you see my hobbies. Especially not you, Sakura-kun!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now then, enjoy your break.」"
+  },
+  {
+    "message": "With that, Misa walked off somewhere."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Too bad!! If you spent your break with Nanaka-chan instead, you'd have a super fun time♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I hang out with you, Nanaka, you'll just mooch off me~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like you even have anything to mooch!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmph... That's not true, I'm the Student Council President, after all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah, I get it, so hurry up and go on your break already.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm off~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder where Eddie is.」"
+  },
+  {
+    "message": "Finding a friend in this crowd is a real chore. Is this the kind of situation where a cell phone comes in handy?"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, Misa...?」"
+  },
+  {
+    "message": "At the used book market, there was Misa, absorbed not in standing and browsing, but sitting and reading."
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah... How terribly romantic. It touches the very depths of my heart...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Reading a wonderful book truly stirs the imagination. Oh, a lovely poem just came to me\\s04」"
+  },
+  {
+    "message": "Holding a book dearly against her chest, she lost herself in thought."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Shoplifting is a crime, ya know」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As if I would ever do something like that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Find anything good?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-S-Sakura-kuuun!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. Didn't mean to startle you. Whatcha looking at?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I believe I told you we wouldn't be shopping together! And yet, why--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I literally just happened to be passing by, though...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ha! Could it be that you were following me?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's how it was--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm the one asking!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got the wrong idea. I was looking for my friends, but I just can't seem to find them」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So you're all alone?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yep. Unfortunately」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. You really aren't popular, are you? Even though you're the Student Council President」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're one to talk, Hiss--you don't have anyone with ya either」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I simply wanted to go shopping by myself!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Bet ya were planning to buy some shady goods you can't show anyone」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Whatever could you mean? As the Vice President, I don't have a single thing to feel guilty about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then you won't mind telling me what you were reading, right!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~Tch! W-What I was reading was... yes, pure literature!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh-ho~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You ought to try reading some yourself. It would surely cleanse that blackened heart of yours」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hear that, Paqy?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm talking to you, Sakura-kun!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's how it was--」"
+  },
+  {
+    "message": "Do I really look like my heart has grown cold and bitter......?"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what do you recommend?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's probably just lying around over there somewhere.」"
+  },
+  {
+    "message": "How half-hearted. I pick up the book Misa is pointing at."
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Th-This is......!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Calm down and read it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is indecent, Misa!! Th-Th-This kind of thing...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's more, the character's position is Student Council President, just like Master Synn......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't want to hear it, but...... what on earth is that supposed to imply?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It means Hisu is hoping for a development just like this......!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's how it was!!」"
+  },
+  {
+    "message": "The Student Council President gets pounced on by a headstrong boy―the Vice President―and...... ah, I simply cannot say any more!\\s03"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Sakura-kun. What have you been babbling about this whole time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be...... you became Vice President in order to make the contents of this book a reality......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I only ended up in the vice position because of you!! Forget it, just let me see that book.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ba-dump, ba-dump......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa!! Isn't this a Boys' Love novel!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's way too indecent, Misa!! Reading a book about boys getting all lovey-dovey with each other!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-This is completely wrong!! It's totally backwards!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Impressive as always, Hisu. The author of this doesn't know a damn thing.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「With this pairing, the one who looks like Master Synn should be the top. To catch a mistake like that...... you really know your stuff, Hisu.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, no, that's not it!! That's not what I meant--what I was reading is......!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then what were you reading?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nnnnnngh!」"
+  },
+  {
+    "message": "She held out the book she had been clutching to her chest."
+  },
+  {
+    "name": "Synn",
+    "message": "「'Triangle on the G String ~Sisters' Rondo~'......?」"
+  },
+  {
+    "message": "Flipping casually through the pages, I spotted illustrations of a cute girl interspersed throughout."
+  },
+  {
+    "message": "Blushing, her gaze was fixed on a slender, handsome young man lost in twilight melancholy."
+  },
+  {
+    "message": "Apparently, that guy was interested in a different, older woman, and that woman had taken a liking to the first girl."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is this a love story?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's a girls' novel!! Even this counts as bona fide literature!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. You like reading novels, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's it to you... If you've got a complaint, let's hear it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, not at all. I think it really suits you, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nnnngh!! Stop making fun of me!! You...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I hate you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did I do something wrong?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not knowing what you did is the exact reason you get hated.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's it! Still, she didn't say she *really* hates me, so I can totally bounce back!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Bounce back from what...?」"
+  },
+  {
+    "message": "I wandered around wherever my feet took me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Ponpoko is selling plushies.」"
+  },
+  {
+    "message": "Mixed in among the crowd of kids were several schoolgirls."
+  },
+  {
+    "name": "Synn",
+    "message": "「They sure love plushies~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just proves they're a bunch of brats.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I know.」"
+  },
+  {
+    "message": "I sneaked Paqy onto the display right next to the plushies on sale."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yep. Blends right in!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, knock it off!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Excuse me, excuse me! Please sell me this Blackuma! Right now! I'll pay whatever money I have!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「--So that means it's not Blackuma, it's Paqy-san?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me belongs to Ria-chan!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. I didn't think you'd jump right at him」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're so misleading!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Engaging in human trafficking already, just as expected of Synn-sama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pandas are protected natural monuments, so that's impossible」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Protected natural monument, you bastard!! Make a fool out of me and I won't forgive you!?」"
+  },
+  {
+    "message": "It's only at times like this that he demands to be treated like a human."
+  },
+  {
+    "name": "Misa",
+    "message": "「Trying to sell Paqy-san, you inhuman monster!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hihi, inhuman monster!?」"
+  },
+  {
+    "message": "Come to think of it, we were demons after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「――I mean, no! Look who's talking, Misa, you were trying to buy Paqy yourself...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That was... well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was just trying to save Paqy-san!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not Blackuma?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Drop it already! In the first place, if Sakura-kun hadn't pulled that stupid prank, none of this would've happened!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, that is completely true. Sorry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As long as you get it, fine. See ya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To make up for it, I'll look for a Blackuma plushie too!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh. Y-You don't have to do that. It's not like I particularly want one or anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if Ponpoko doesn't have it, another shop might. It's still too early to give up」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I told you, you don't need to look for it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Sacchin. Did any of the classes happen to be selling Blackuma?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Blackuma? Ahh, I might've seen one over at the basketball club's stall earlier~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Listen when someone's talking to you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go together」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah... y-yeah」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It was just like a scene straight out of a novel」"
+  },
+  {
+    "name": "Misa",
+    "message": "「His sudden, gentle, and tender words echoed over and over in my head and heart」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's go. Let's go. Let's go together」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Drawn in, pulled toward him」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So much so that I nearly reached out to touch his proffered hand without thinking」"
+  },
+  {
+    "name": "Misa",
+    "message": "「His smile looked dazzling to me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's too bad」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Time's up, after all. We don't have much choice but to give up, do we」"
+  },
+  {
+    "message": "Break time was nearly over, and we ended up unable to find Blackuma after all."
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, you played me like a fiddle. Getting dragged along just to kill your boredom」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're always joking around, so when you suddenly put on a serious face like that, of course it catches me off guard...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just wondered if you'd be able to tell the difference, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's that supposed to mean? I really don't like how you talk like you're the only one in the know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, it is!! You're always like that. Always talking as if you can see right through me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not...」"
+  },
+  {
+    "message": "I'm always left feeling frustrated because I have no idea what Misa is thinking."
+  },
+  {
+    "name": "Misa",
+    "message": "「Even though I... don't know anything about you at all, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About me...」"
+  },
+  {
+    "message": "However, it seemed the same was true for Misa."
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right!! I get it now. I was so afraid of everyone getting the wrong idea that I kept avoiding you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But that's just proof that I'm running away from you, isn't it? That's why they take advantage of my weakness!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't recall taking advantage of anything, though...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I... want to know more about you, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you know the enemy and know yourself, you need not fear the result of a hundred battles!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's why--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I've made up my mind. After this, I'll continue doing security patrols together with you.」"
+  },
+  {
+    "message": "Things have gotten kind of complicated, though does this mean we'll be spending more time together than before?"
+  },
+  {
+    "message": "Enrolling in this academy."
+  },
+  {
+    "message": "Having challenges thrown at me every time there was a test."
+  },
+  {
+    "message": "Even during the Student Council election, her hostility was off the charts."
+  },
+  {
+    "message": "Snapping at me during Student Council activities, too."
+  },
+  {
+    "message": "Even so, we somehow managed to pull it off."
+  },
+  {
+    "message": "And now, here we are, right in the middle of the fun, lively festival we built together."
+  },
+  {
+    "message": "After everything we went through, Misa and I are standing right in the heart of it."
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's go together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah!」"
+  },
+  {
+    "message": "Overwhelmed by Misa's sudden boldness, I instinctively grabbed and held onto the hand she offered."
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-Whaaat!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Ah, I'm sorry. I just didn't expect you to actually touch me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm the one who should apologize!! I just couldn't help myself...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haa... I lost again...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph... For someone so slender, Sakura-kun, your palms really are like a proper boy's, aren't they」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What do you mean by that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Father always said that people who work hard get thick skin on their hands」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, really~」"
+  },
+  {
+    "message": "Is this supposed to be a compliment? Feeling embarrassed, I decide to fire back."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, your hands, Misa... are so soft and smooth, and really pretty」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's that supposed to mean!? Are you trying to say I don't work hard!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaat!? I just thought you take really good care of them, and how girly you are!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~~! Making fun of me like that again!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not, I'm not!! Wait, what do you mean 'again'!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Fine, I'll teach you the truth. Come on, it's time for patrol!!」"
+  },
+  {
+    "message": "It looked like my time alone with Misa was going to continue for quite a while longer."
+  }
+]

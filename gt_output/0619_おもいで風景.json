@@ -1,0 +1,1375 @@
+[
+  {
+    "message": "おもいで風景"
+  },
+  {
+    "message": "It's a holiday, but since it's the day before the Holy Night Festival, there are quite a few people around."
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Nanaka? Oh, Nanaka Yugiri-san. Nope, haven't seen her!」"
+  },
+  {
+    "name": "Tennouji-san",
+    "message": "「Sorry I couldn't be of help!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, thank you for taking the time while you're busy!」"
+  },
+  {
+    "message": "Come to think of it, when we first saw this place."
+  },
+  {
+    "message": "Nanaka said something about it looking like the Palace of Versailles."
+  },
+  {
+    "message": "Even though neither of us had ever seen an actual palace."
+  },
+  {
+    "name": "Eddie",
+    "message": "「Yugiri? Haven't seen her around. More importantly, check out this crossdressing outfit! Looks pretty good on me, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urp...」"
+  },
+  {
+    "message": "No way she'd be here, huh."
+  },
+  {
+    "message": "I check inside Nanaka's desk just in case."
+  },
+  {
+    "message": "Textbooks and... this is a test... Hrmm."
+  },
+  {
+    "message": "She hasn't changed at all since we were little."
+  },
+  {
+    "message": "Can't be helped."
+  },
+  {
+    "message": "Just like always, let's pretend I didn't see this."
+  },
+  {
+    "name": "Synn",
+    "message": "「Guess she wouldn't come here」"
+  },
+  {
+    "message": "Come to think of it, Nanaka did come here with Sacchin once."
+  },
+  {
+    "message": "Did she borrow something, I wonder?"
+  },
+  {
+    "message": "I did combat training with Nanaka here, didn't I."
+  },
+  {
+    "message": "Well, technically, it was with everyone."
+  },
+  {
+    "message": "I feel like I paired up with Nanaka a lot of the time."
+  },
+  {
+    "message": "Come to think of it, when we first enrolled."
+  },
+  {
+    "message": "We talked about gathering fallen leaves here when autumn came and roasting the sweet potatoes grown in my yard, didn't we."
+  },
+  {
+    "message": "We haven't done it this year either. Not yet, anyway. She is the Student Council President, after all."
+  },
+  {
+    "message": "I wonder if Nanaka remembers?"
+  },
+  {
+    "message": "Nanaka is actually pretty good at swimming."
+  },
+  {
+    "message": "Back in the day, she even got a perfect attendance award at the summer vacation swimming classes held at the community center."
+  },
+  {
+    "message": "She came to pick me up every day, and since I tagged along, I ended up getting a perfect attendance award too."
+  },
+  {
+    "message": "The watermelon we were treated to at Nanaka's house on the way back was chilled and delicious."
+  },
+  {
+    "message": "I guess it's too open here to hide."
+  },
+  {
+    "message": "We attended Sunday service once, didn't we."
+  },
+  {
+    "message": "Even though she dragged me along, Nanaka fell asleep first."
+  },
+  {
+    "message": "Though I was tired from my part-time job and fell asleep too."
+  },
+  {
+    "message": "Both of us ended up getting woken up by Tame-san."
+  },
+  {
+    "message": "Setup for the Holy Night Festival stage seems to be progressing steadily."
+  },
+  {
+    "name": "Yumil",
+    "message": "「Morning, Sakura-senpai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning. Have you seen Nanaka?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「No, I haven't seen her today. Maybe she's still asleep at home?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「It's already tomorrow, so she's probably gearing up for an all-nighter to finish preparations. Oops, I can't say any more than that.」"
+  },
+  {
+    "message": "A secret, huh. A surprise for the Holy Night Festival."
+  },
+  {
+    "name": "Synn",
+    "message": "「If you see Nanaka, please contact me on this phone.」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Got it. There's nothing to worry about, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why's that?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「She'll definitely show up for the Holy Night Festival.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That Soba girl must've left the academy grounds. I'm sure of it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It seems that way.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Besides, if she were on campus, someone would've spotted her. It's the day before the Holy Night Festival, after all.」"
+  },
+  {
+    "message": "I also told everyone I know to let the Student Council know if they see Nanaka."
+  },
+  {
+    "message": "For now, it looks like there's nothing more I can do at the academy."
+  },
+  {
+    "message": "Even so,"
+  },
+  {
+    "message": "to think the two of us would end up attending the very academy whose gate we scribbled graffiti on when we were little--well, more like I was forced to do it."
+  },
+  {
+    "message": "You really never know what's going to happen in life."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mornin', Synn-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning, Sacchin. Did you happen to see Nanaka?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nope, haven't seen her! I just got here myself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "Guess they didn't pass each other on the way to school either."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Could it be... Synn-kun, did you confess your feelings to Nana-chan?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whaaat?! No, it's nothing like that, I mean, h-h-how did you even jump to that conclusion?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's no use hiding it! When it actually happened, Nana-chan got scared and ran away, didn't she? What a handful!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sounds plausible enough to me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I didn't!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Don't worry, Synn-kun! It's not like she rejected you! Nana-chan's just a total chicken!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think it'd be nice if you actually listened to what I have to say once in a while.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You'll get your answer on the day of the Holy Night Festival~ I mean, after I helped out so much, if Nana-chan chickens out~, I'm gonna be super mad~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin! Listen to me!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa. Those are some serious eyes~ Still, no fair confessing to me~ You'll put me in a tough spot~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As if I would!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you spot Nanaka, contact the Student Council or call this cell phone」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Roger~ Oh, this is a girl's phone~ Synn-kun, you two-timer~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I only borrowed it!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's what all guys say~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「All guys are cheaters. Though yours truly only has eyes for Ria-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just contact me, okay!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Got it~ I think she'll be fine, though~ Nana-chan will definitely show up on the day of the Holy Night Festival~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okamoto-san said something like that too, though」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah~ then again, running away when it counts is pretty much like Nana-chan too, I guess~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which is it?」"
+  },
+  {
+    "message": "When we walked to school together this morning, I never imagined things would turn out like this."
+  },
+  {
+    "message": "Nanaka was full of energy. Not looking sleep-deprived at all."
+  },
+  {
+    "message": "No different from how she always is."
+  },
+  {
+    "message": "Always, huh."
+  },
+  {
+    "message": "The \"always\" I thought had never changed since way back when."
+  },
+  {
+    "message": "Listening to Nanaka recap TV dramas, checking each other's homework."
+  },
+  {
+    "message": "Even almost being late because we chased after a cat……."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "It's not past tense. It'll keep going from here on out too."
+  },
+  {
+    "name": "Synn",
+    "message": "「She's not here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ain't here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn, something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A long time ago. An old lady who used to give us candy lived right here」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Talking about ancient history now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... They were Kanro candies. Nanaka used to give me her share all the time.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's a nice story.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh... Classic Soba. She was already feeding you to wrap you around her finger back then? Terrifying.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Please stop twisting the past too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "She's not here."
+  },
+  {
+    "message": "...Back then."
+  },
+  {
+    "message": "In this park."
+  },
+  {
+    "message": "I was always stuck playing the girl kidnapped by the monster..."
+  },
+  {
+    "message": "And Nanaka was always the one who came to the rescue."
+  },
+  {
+    "message": "And then I'd get stuck playing the monster who gets beat up too..."
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Morning, saw Nanaka. Noon, don't see.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Thanks. If you spot her, let me know.」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「……」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Prez, eat.」"
+  },
+  {
+    "message": "A beef bowl was placed in front of me. And it's a large serving."
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm good. I still have a lot of places I need to go.」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Don't eat. Collapse. Can't do anything.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then I'll--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you, Eauderourke.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's no way she'd be here, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, there are a lot of familiar faces around here, so someone might've at least seen her...」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Oh, if it ain't Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have you seen Nanaka?」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Nope, somethin' happen?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you see Nanaka, please call this cell number. I'm begging you.」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「...Got it. I won't pry into the details. Leave it to me. I'll put the word out to the folks around here too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And one more thing」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Don't worry. I'll make sure Auntie Shina doesn't find out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I owe you one」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「If Auntie Shina found out Synn was all flustered because his young wife ran off on him, her eyes'd light right up and she'd raise a huge ruckus」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「You're not gonna deny it like you always do?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone around here has always made jokes like that, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do we really... um... well... look like we're in that kind of relationship?」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「……」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「So even Synn's finally starting to care about it! Guess it paid off to keep bringing it up」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hahaha. Ah, youth! Youth! Good, good!」"
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... So Nanaka hasn't come back」"
+  },
+  {
+    "message": "By whatever means, it seems Sally had already gotten in touch with him."
+  },
+  {
+    "name": "Tinun",
+    "message": "「Eee」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's okay. I'll find her. Definitely」"
+  },
+  {
+    "message": "Feeling as though we had made eye contact, I looked over,"
+  },
+  {
+    "message": "『Synn. Did something happen with Nanaka?』"
+  },
+  {
+    "message": "His eyes were dead serious. I took a single deep breath before asking."
+  },
+  {
+    "message": "『Uncle. Are you a demon?』"
+  },
+  {
+    "message": "Come to think of it, the Demon Lord can speak with demons. And I can communicate with Uncle like this."
+  },
+  {
+    "message": "Plus, Uncle can also communicate with Tinun and Jangara."
+  },
+  {
+    "message": "『Don't tell me... Nanaka's traits have manifested?』"
+  },
+  {
+    "message": "I gave a small nod."
+  },
+  {
+    "message": "『Why... Half-demons... aren't supposed to manifest demon traits...』"
+  },
+  {
+    "message": "I see. So Uncle is a demon, and Auntie is human."
+  },
+  {
+    "message": "『Is that how it works?』"
+  },
+  {
+    "message": "『Unless those traits are forcibly dragged out...』"
+  },
+  {
+    "message": "『Just the other day, someone named Melilot came and removed the hex that had been placed on Nanaka's bed... Why』"
+  },
+  {
+    "message": "It all connected."
+  },
+  {
+    "message": "Mr. Sengenin's home visit. That really was when it was planted."
+  },
+  {
+    "message": "It probably has something to do with that dream."
+  },
+  {
+    "message": "Whatever that thing was, it had been dragging out Nanaka's demon traits little by little."
+  },
+  {
+    "message": "Melilot-san must have taken some kind of measure, which is why she told me it would be fine, yet it was already too late."
+  },
+  {
+    "message": "I looked at the older man with determination."
+  },
+  {
+    "message": "『I'll definitely find Nanaka. And we'll come back here together』"
+  },
+  {
+    "message": "『...I'm counting on you』"
+  },
+  {
+    "message": "『Please don't worry. They say the Demon Lord saves the world, and if I can't even find Nanaka, there's no way I could save the world』"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Nanaka-san? She hasn't come in today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... see」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Besides, today is the day before the Holy Night Festival. Shouldn't the Student Council members be at the academy?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...She hasn't arrived yet」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Judging from how you look, you've naturally already checked with her parents' home, and tried her cell phone as well, haven't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Do you have any idea where she might be?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「When it comes to Nanaka-san, I believe Sakura-san would know much more than I do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...It's not like I know everything about her」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「If I happen to see Nanaka-san, I will be sure to contact you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「The Holy Night Festival is still going ahead as scheduled tomorrow, yes?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「In that case, I believe everything will be fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Are you saying Nanaka will definitely show up?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes. Because Nanaka-san was resolved to stake everything on the Holy Night Festival」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Resolved?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「I cannot say any more than that」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「She hasn't come by today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... see」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I'll give you a call if she shows up. Did something happen between you two?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...How should I put it. It's not that anything happened between us. No, maybe it's because I couldn't say what I needed to say...」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「...Couldn't say what you needed to say, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Regret is truly a bitter thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「I've only just now come to understand my father's greatness and the true depth of sweets. I feel like I'm finally standing at the starting line as a pastry chef」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「If my father saw me as I am now, I think he'd smile wryly and say, 'Took you until that age to finally get there?'--yet still be happy for me」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「But my father is no longer here... I can't show him how I am now, nor can I have him taste the sweets I'm making today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「However, you still have time. If there's something you truly need to say, you just have to keep trying to convey it until it gets through」"
+  },
+  {
+    "message": "She's not here."
+  },
+  {
+    "message": "I wanted to ask Shio-chan, but she's nowhere to be seen--maybe she went to the academy."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Synn-sama. Didn't the two of you used to play around here when you were kids?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We played here a lot」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then you remember the secret spots where you used to hide and play back then, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There are a bunch, but... first, let's check the cave behind the shrine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... As expected of Synn-sama. Playing some kinky doctor game away from prying eyes, huh? Truly a master of eros」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We never played doctor」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, no sense of romance at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We played explorers, or... soba shop」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「With Synn-sama as the customer?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka was the master, and I was the apprentice. She'd scold me if I didn't put my back into it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's weirdly realistic」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure it was right here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's been sealed up」"
+  },
+  {
+    "message": "The slope had been paved over with concrete, leaving no trace that a cave had ever been there."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's check the next spot, next」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You didn't ride that thing either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... well, I didn't think I'd ride it at this point anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Locals ride it until they're sick of it from a young age, what with school events and little family outings」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Haven't you ever come here alone with Soba or anything?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I've never done something like a date like that...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Oh, though for Master Synn, the boarding fee is a bottleneck」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, there was just one time」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Soba's treat?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not open to the general public, but there's a day when locals can board for free. Nanaka suddenly said she wanted to ride it」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I see how it is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even on the free admission day, locals hardly ever come, so nobody was there」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A day when nobody's there, huh... Master Synn sure is dense」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really am dense, aren't I...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So, what happened?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Apparently, when that ship was in active service, it was a passenger liner on a round-the-world route」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's what it said on the info board」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka said she'd love to spend about a year going on a world sweets tour on a ship like this」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She said going around alone would be boring, so she'd take me along too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What did you reply?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I said I'd feel bad if Nanaka paid for everything, so I'd be fine with it once I start earning money」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You answered lightly anyway, didn't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, because I thought it was just casual banter...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I feel sorry for Soba too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, for some reason, Nanaka got all flustered. She asked if I was really okay with it being just the two of us for a whole year, so I told her I'd be fine if it's with her.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And you probably answered that without thinking twice, didn't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well... I genuinely thought I'd be fine as long as it was Nanaka.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sigh... Man, I really feel sorry for her.」"
+  },
+  {
+    "message": "I understand now."
+  },
+  {
+    "message": "I only answered that way because it was Nanaka."
+  },
+  {
+    "message": "If it hadn't been Nanaka, I'm sure I never would've said I'd be fine with just the two of us."
+  },
+  {
+    "name": "Synn",
+    "message": "「Where could she have gone...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good day to you, President. Looking around restlessly like that, people might mistake you for a burglar, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If you're looking for Nanaka, I haven't seen her around.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I... see」"
+  },
+  {
+    "message": "She must have heard from Ria-senpai."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「No luck for you either, President? I even bought enough for her, too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We've finished up our preparations and had some free time, so I thought I'd bring some refreshments to the Student Council.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There's something I'd like a quick word with you about--do you have a moment?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Say, did you see them? Those bright red eyes of hers.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How do you know about that!? Oh, Ria-senpai must've」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Riya didn't say a word.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then how」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Yesterday morning, Nanaka was having a terrible nightmare, you see.」"
+  },
+  {
+    "message": "Come to think of it, I heard she stayed over at Misasagi-senpai's house."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I could have just left her be, but she looked to be in so much pain that I couldn't help taking pity on her.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you wake her up?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's right. When I asked her, 'What happened to your eyes? Did you put chili pepper eye drops in them or something?' she got terribly frightened, saying, 'I was seen, I was seen.'」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「She made me promise over and over not to tell anyone.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「In particular, it seems she didn't want you to find out, President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Me.」"
+  },
+  {
+    "message": "It's the same."
+  },
+  {
+    "message": "Just like how I didn't want anyone--especially Nanaka--to find out that I'm the Demon Lord."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even when I told her to go see a doctor, she refused, and it seemed she didn't want Sacchin to find out either.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I didn't really understand why, but I figured it wouldn't be good if outsiders saw her like that. So I told her to calm down for now, had her drink some tea with sleeping medicine in it, and put her to sleep.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That happened... What did Sacchin say about it?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「When I told her that Nanaka hadn't been getting enough sleep lately so I forced her to rest, she accepted it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「She probably thought that if you saw her, President, you'd call her a monster. Even without that wild eye color, she's already a sweets yokai anyway. A bit late to worry about that now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Say, President. When you saw those eyes, did you call her a monster?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...In the heat of the moment, the words wouldn't come out.」"
+  },
+  {
+    "message": "Back then."
+  },
+  {
+    "message": "If only I had said what I needed to say."
+  },
+  {
+    "message": "If only I had told her, 'Nanaka is still Nanaka.'"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You aren't to blame, President. If an old acquaintance suddenly turned out looking strange, anyone would be bewildered.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Jumping to conclusions before hearing a proper answer and immediately backing down--that's that girl's bad habit, being so overly sensitive and timid.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's true that Soba is cowardly and lacks pushiness.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka, cowardly. Lacking pushiness."
+  },
+  {
+    "message": "If it were me from just a little while ago, I probably would have thought those were the words furthest removed from Nanaka."
+  },
+  {
+    "message": "But."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, so you really did see her, President. If you hadn't, I could have reassured you by saying she'll be back in time for the Holy Night Festival.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone keeps saying Nanaka will definitely come to the Holy Night Festival, so what's going on?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, I am a blabbermouth, and I'm neither a companion of hers nor a regular at Yuugiri-an, so telling you wouldn't count as a betrayal.」"
+  },
+  {
+    "message": "Misasagi-senpai grinned."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My, my, you're quite the cruel person, aren't you, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?! Why do you say that?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That timid little Nanaka screwed up all her courage--as if leaping off the stage at Kiyomizu--and spent a whole month preparing this in secret, you know.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Don't you think making me spill the beans so you can find out ahead of time and ruin her plans goes against basic human decency?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...You have no intention of telling me, do you?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm saying I wouldn't mind telling you, aren't I?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll pass.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Then hurry up and find her, and see for yourself on the day of.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good answer. It seems Nanaka's fears were completely unfounded. Here you are searching desperately for her, President.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If you thought she was a monster, you'd only go looking for her if there were a bounty on her head.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When I see her, I wonder if I'll be able to talk to her properly...」"
+  },
+  {
+    "message": "What if I end up stammering again. And what if Nanaka runs away."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I wouldn't know. You're the one who has to speak up, President, not me.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's got a point.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Once you find her, make sure you catch her good and tight so she can't get away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll catch her for sure.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, could you pass along a message for me while you're at it? Tell her, 'You haven't even served me soba good enough to blow me away yet--are you really planning to disappear just like that?'」"
+  },
+  {
+    "message": "And before I knew it, the sun had set."
+  },
+  {
+    "message": "I kept searching for Nanaka."
+  },
+  {
+    "message": "Even though the Holy Night Festival is tomorrow."
+  },
+  {
+    "message": "Even though I'm the one in charge of the Holy Night Festival."
+  },
+  {
+    "message": "Even though the world might end tomorrow."
+  },
+  {
+    "message": "Even so, I'm still looking for Nanaka."
+  },
+  {
+    "message": "Because it's something only I can do."
+  },
+  {
+    "message": "Because it's something I have to do."
+  },
+  {
+    "message": "Because I have a feeling Nanaka wouldn't want anyone other than me to find her."
+  },
+  {
+    "message": "There were memories of Nanaka everywhere I looked."
+  },
+  {
+    "message": "Even though every single one of them was trivial."
+  },
+  {
+    "message": "I felt like Nanaka could be anywhere."
+  },
+  {
+    "message": "I wonder since when."
+  },
+  {
+    "message": "That I started searching for Nanaka."
+  },
+  {
+    "message": "I wonder since when."
+  },
+  {
+    "message": "That Nanaka couldn't be found anymore."
+  },
+  {
+    "message": "That was."
+  },
+  {
+    "message": "Maybe ever since the moment we shared our first kiss."
+  },
+  {
+    "message": "That was."
+  },
+  {
+    "message": "Or maybe it had been like this ever since the very first time we met."
+  },
+  {
+    "message": "Nanaka wasn't a childhood friend who never kept any secrets from me."
+  },
+  {
+    "message": "I had finally come to realize that."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello」"
+  },
+  {
+    "name": "Ria",
+    "message": "「How's it going, Synn-kun?」"
+  },
+  {
+    "message": "It didn't seem like they'd heard any news on their end either."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Nothing yet」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see... Sorry we can't all look for her together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm the one who should apologize for not helping prepare for the Holy Night Festival」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's fine. Anyone can pitch in to save the world, but you're the only one who can find Nanaka-chan, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yes」"
+  },
+  {
+    "message": "I hope she's right."
+  },
+  {
+    "message": "What if I never get to see Nanaka again..."
+  },
+  {
+    "message": "I felt an ache deep in my chest."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You'll be fine. If it's you, Synn-kun, I know you'll find Nanaka-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll bring Nanaka back tomorrow」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Tomorrow won't cut it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's already the 24th, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'll definitely make it in time」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Good, good. That's the spirit」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Do your best. I'll be waiting in the Student Council room」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're so inconsiderate, Synn-sama. That was my beloved Ria-chan on the line, so put me on too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. It slipped my mind」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「When you answer all seriously like that, it kinda throws me off」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, though. Even if we're gonna look for her, where else is left to search?」"
+  },
+  {
+    "message": "What if I can't find her. What do I do if I can't see her."
+  },
+  {
+    "message": "Don't think about it. I'll definitely find her. Definitely."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Maybe we just missed each other」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, but I asked around with a bunch of guys in the shopping district. If we still haven't found her, shouldn't we assume she left town?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Besides, it's almost 2 AM. Nobody's gonna be out looking at this hour」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Right. It's already the day of the Holy Night Festival."
+  },
+  {
+    "message": "If I can't see her like this..."
+  },
+  {
+    "message": "Thinking that sends a pain deep into my chest, like an ice pick being driven in."
+  },
+  {
+    "message": "No. No. I don't want that."
+  },
+  {
+    "message": "I won't let this end in regret!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even when old man Amakawa starts his milk route--and he's the earliest riser around--it'll already be too late」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is there seriously nowhere else? Nowhere the two of you used to hang out?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...There's just one place left」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Where?」"
+  }
+]

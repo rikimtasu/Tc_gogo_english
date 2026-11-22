@@ -1,0 +1,609 @@
+[
+  {
+    "message": "強引に Be Going"
+  },
+  {
+    "name": "Misa",
+    "message": "「Blah blah blah.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yada yada yada.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Rhubarb, rhubarb!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What are you guys even doing?」"
+  },
+  {
+    "message": "Before I knew it, it had become a routine for everyone to come straight over to my place whenever our meetings dragged on."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「--And that's what the Holy Night Festival is all about~♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I see~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, it seems that only students of Ryuusei Academy are allowed to enjoy the Holy Night Festival.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eh... Is that so...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, I won't be able to enjoy it with Amyrina and Gramps... It is truly unfortunate.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, about that... I was thinking maybe we could change it this year.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As expected of the Student Council President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no. We all decided on it together, remember?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe, that's right.\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone helped us out so much at last month's KiraFes, so I wanted to return the favor even a little.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「How do you plan to do that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For this year's Holy Night Festival, I was thinking the students could take the lead and invite the residents of Ryuusei Town.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Oho~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Which means both Gramps and Amyrina will be able to enjoy it together with us!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we do that, you'll be able to go past the school gates too. You two could even explore the place together, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The grounds inside Ryuusei Academy are super pretty and wonderful too~~!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually, you can normally just walk right in on Sundays and stuff, though.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aaaaah, that's riiiight!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh...? Could it be you weren't all that interested?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-No, that's not it at all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's plenty of interesting stuff at the academy. I think you'll have a pretty good time.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, yes! You see, at the academy... there is a mysterious building called Finis Tower.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Finis... Tower?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They say the layout changes every time you step inside, or that some princess is locked up at the top on the 60th floor.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whaat!? Doesn't it have 10,000 floors!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, those are just rumors―nobody's actually been inside―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you're talking about Finis Tower, I think my big sister's been inside before.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Though she said it was rough because you can't get a do-over or something.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think that makes it way more thrilling and fun, though.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After all, there is no reset button in life.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I see, I see.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so, you see, there's talk of holding this year's Holy Night Festival around Finis Tower.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Is that so~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Every bit of it still has to be approved at the student general assembly, though.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Piece of cake!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haah...\\s04 Spending Christmas together with everyone... I'm already looking forward to it so, so much~~♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「When will this 'Holy Night Festival' take place?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「December 24th. A grand opening to thunderous applause on Christmas Eve♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「December...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You only have to wait about one little month~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「If it's then, Re-Crea will...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh!? N-No... It's already December, isn't it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if you think you've got plenty of time, it flies right by once you start preparing.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right... And I'm worried about the Demon's movements too...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Things might get pretty tough from here on out.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll give it my all if it's for something fun! Right, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「E-Eh, yeah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You won't be able to enjoy our wonderful happy life with that attitude! Come on, let's get fired up!! Yeah!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, you angels.」"
+  },
+  {
+    "name": "Lolotte & Amyrina",
+    "message": "「Fwaaah!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I don't care if you get all excited, but don't forget what's really important.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-What's this all of a sudden?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You can't just chase short-term gains and turn a blind eye to the problems right in front of you.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-What...!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I'm getting hungry.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, you're right!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And so, Lord Synn. Let's make some food.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You say 'let's make,' but you're just going to watch, aren't you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, I'll lend a hand!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't go wasting food now.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you saying, Mr. Panda!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That might happen if it were just me, but as long as I'm with the President, it'll be totally fine!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Right, President?\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch, get a room already. Hurry up and make it then. The great me is gonna play with Ria」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Pa-chan, no. We're busy with the Holy Night Festival meeting right now」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「*Whimper~* I'll be a good boy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Works out perfectly, doesn't it, Paqy」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, let's get going. Come on, you too, Amyrina♪」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So it really is curry rice after all!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hearing you put it like that kinda makes me want to change it……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehhh~~ I didn't mean it sarcastically, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah, if I remember right, Nanaka's――」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Curry rice sounds great, doesn't it, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I-I'm fine with anything……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want the President's curry riceeee----」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Kyaa----」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey now, stop fooling around. Don't worry. I kept the 'curry' part」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's curry rice, yet it's not curry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Its name is――」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thanks for the food」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Curry udon, huh--clever move」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nothing clever about it, we just happened to have easy-to-get ingredients」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I borrowed Nanaka's broth」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hoho~~ So it's the Treasurer's broth, is it~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's my family's soba soup, isn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmmm~~. It's super delicious~~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Geez, come on. Lolotte, you've got it all over your face.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ngh, mmm~~」"
+  },
+  {
+    "message": "I wipe Lolotte's mouth with a tissue."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe. I just got carried away~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Giggle. Oh, Lolotte-chan, you're just like a baby」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A baby!? N-No, that's not it!! This is, well... u-ummm」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They say that when a man and a woman deepen their intimacy, a phenomenon can sometimes occur where one temporarily regresses into infancy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What kind of perverted play is that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It is not perverted! Ours is a completely wholesome relationship!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh~~. So Synn-kun and Lolotte-chan got close enough for that before I knew it~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, I wonder about that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, even if you ask me\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn! Being a lolicon is a crime, you know!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right, it's way too impure!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please don't treat someone like a little kid just because they regressed into infancy!! I'm only one grade below the two of you, after all!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thanks for the meal~~\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Glad you enjoyed it.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan, Misa-chan. Let's clean up.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, wait. We're not done talking--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just. Do. It.♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Waaah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All right, shall we get back to wrapping things up?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, sir♪」"
+  },
+  {
+    "message": "We return to the task of summarizing our plans for the Holy Night Festival."
+  },
+  {
+    "message": "Together, Lolotte and I envision a fun Holy Night Festival."
+  },
+  {
+    "message": "Lolotte relays those ideas to Amyrina in thorough detail--and, depending on the case, with a bit of exaggeration."
+  },
+  {
+    "message": "Yet for some reason, Amyrina's reactions are sluggish and uncertain."
+  },
+  {
+    "message": "From where I'm sitting, it looks like hammering a nail into rice bran."
+  },
+  {
+    "message": "And yet--"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina... could it be that I'm bothering you?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because you've been looking bored this whole time...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-No... that's... well...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina...?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I... want you to enjoy yourself too, Amyrina.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to have a wonderful time together with you. So I thought, if it's a Holy Night Festival we can both enjoy...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If I'm being a bother, please tell me. I'll stop right away.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「T-That's not...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「That's not it at all!! I want to be with you too, Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then let's think of ideas together!!」"
+  },
+  {
+    "message": "There is Lolotte, eager to share the joy."
+  },
+  {
+    "message": "This must be how she draws others in and steadily carves out her own path."
+  },
+  {
+    "message": "I've carried out our Student Council duties right alongside a Lolotte just like this."
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case! Since we've got the chance, let's decide this part based on Amyrina's opinion.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ehhh~~!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a huge responsibility~~\\s07」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「E-Eek!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, don't worry, you'll be fine. We'll take full responsibility, so it's all good.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeh--!? Is that true!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hold on!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Honestly... you're so reckless, Lolotte...\\s10」"
+  },
+  {
+    "message": "I'm sure what Lolotte is doing for Amyrina right now... is what she's been doing for me all this time."
+  }
+]

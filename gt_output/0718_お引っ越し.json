@@ -1,0 +1,727 @@
+[
+  {
+    "message": "お引っ越し"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hyah」"
+  },
+  {
+    "message": "The moment Azel walked into my room, she thrust her outstretched middle finger straight into the pillar."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... what are you doing?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It hurts」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, yeah, of course it does」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A jammed finger」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Lolotte told me that when moving in, I should jam my finger and say, 'I may be unworthy, but I'm in your care'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's way too much to unpack there」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's not jamming a finger, it's kneeling with three fingers on the floor」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Lend me a blade」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why a blade?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I heard it is an old custom to cut off the pinky and thumb to show sincerity」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's barbaric」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to do anything like that. Actually, please don't\\s02」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then what should I do?」"
+  },
+  {
+    "message": "I bowed my head."
+  },
+  {
+    "name": "Synn",
+    "message": "「Nice to have you around for a while」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In this case, I am the one imposing on you」"
+  },
+  {
+    "message": "Azel cleared her throat and bowed her head to me."
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm in your care」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Same here」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel is wearing her uniform so her favorite outfit doesn't get dirty while cleaning. I guess she really likes those clothes that much."
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, is there anything I can help with?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm finished」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, I see, still, isn't there something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My apologies, there isn't」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Looks like you managed to move in just fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「When did you get here!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-Where did you come from!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even Sasami didn't notice her... This woman's definitely no ordinary person」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Congrats, Azel-chan! And to Synn-chan, the landlord here, I'm giving you this!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What is this?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's a commemorative trophy for Azel-chan's Adult Level going up by 10!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is an 'Adult Level'?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I mean, you suddenly started living together with a boy! Of course it's gonna jump by 10」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Don't just blurt out weird stuff like that!\\s01 Besides, why am I getting it?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Azel-chan. Keep leveling up more and more from now on and become a fine woman! Well, I'm busy, so bye-bye for now!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yahoo! I came to help ya out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, we already finished」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, no. You're forgetting something super important, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something important?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When it comes to moving, it's gotta be moving-in soba! Borrowing your kitchen!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oryaaah!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Do you need help with anything?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nope! Me, pro! Amateurs, in the way!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oryaaah, dosseh!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Zudadadadadadada」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All done!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Delicious」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Damn good」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh. The wasabi hits hard! Straight to the nose! So good, so good!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You really call anything and everything 'so good,' don't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because it is good! Delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Flattering me like that won't get you anything extra, you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mmm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nothing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn looks so happy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eating good food makes me happy! Delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't hold back, eat as much as you want! There's plenty for seconds」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I smell soba! I wanna eat!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on a second, I'll get yours ready right now」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay! I love you too, Nanaka!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh? What's up, Azel? Doesn't it taste good? Then give it to me!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Take it」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh! I love you too, Azel!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel, you don't have to do that. I'm getting Sally's portion ready right now」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't want any more. Thanks for the meal」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sparks are flying pretty casually over here」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's so yummy! Giving away something this tasty--how weird!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wonder if she's got an upset stomach or something. I'll go check on her for a bit」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Yeah. I'm worried about her too」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Nom, nom! Well then, I'm gonna eat it all up while the President and Azel aren't here!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Your soba will get soggy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Nothing's wrong. I just got full」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, as long as you're okay」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm tired. I'm going to sleep for a bit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. Let me know if you need anything, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't need anything」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Sigh...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's illogical... He and Nanaka have known each other a long time... Besides, the soba is delicious too...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Him talking with Nanaka is nothing new... It's normal」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...And if it's normal, feeling irritated is irrational」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... Azel...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is she still asleep?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The photos should be ready by now, wanna go pick them up?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm going!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What about Nanaka?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm back. I was worried about you, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Is that so.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「～♪　～♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Show me the photos.」"
+  },
+  {
+    "message": "Azel tightly clutched the photo shop's envelope to his chest, turned around, and"
+  },
+  {
+    "name": "Azel",
+    "message": "「No.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't want to look at them?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do. I want to look at them so badly I can't stand it, but...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No. Precisely because of that, I'm going to hold off until we get to your house.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Couldn't hold out, could you.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up.」"
+  },
+  {
+    "message": "Azel pulled the developed photos out of the photo shop's envelope."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How are they?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They're all out of focus. This one, and this one, and this one!」"
+  },
+  {
+    "message": "Not only were they out of focus, there were ones where the subject was blurry, ones completely washed out in white from messing up the exposure, and conversely, ones so dark from lack of light you couldn't even tell what was in them."
+  },
+  {
+    "name": "Azel",
+    "message": "「What a thoroughly inconvenient contraption. It doesn't do what I want at all. Why would anyone go through all this trouble?」"
+  },
+  {
+    "message": "Even as he said that, Azel looked like he was having a great time."
+  },
+  {
+    "name": "Synn",
+    "message": "「What about this one?」"
+  },
+  {
+    "message": "It was a shot of Misasagi-senpai eating traditional Japanese sweets."
+  },
+  {
+    "name": "Azel",
+    "message": "「For this one, I was supposed to have focused on Ayane Misasagi, yet the focus is on the sweets.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Meaning?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's a failure.」"
+  },
+  {
+    "message": "The demons who had attacked Azel were in the photos, too."
+  },
+  {
+    "message": "Perhaps because they had been suddenly blasted with light, all of them had their eyes wide open."
+  },
+  {
+    "name": "Azel",
+    "message": "「This one... the light was too strong.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This one is out of focus, too... and this one here is blurry and too dark.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「And look at this one, it's pitch black! How terrible is the performance on this thing?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But photographers take pretty pictures with this camera, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Even I know there's no way I'd take good ones right from the start」"
+  },
+  {
+    "message": "In the end, not a single shot turned out the way Azel intended."
+  },
+  {
+    "name": "Azel",
+    "message": "「Even I have to laugh at such clumsiness」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you gonna do with these?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Keep them, of course. They're mementos」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They're flawed and useless, yet... I'm fond of all of them」"
+  },
+  {
+    "message": "The old Azel would have thrown them away without a second thought."
+  },
+  {
+    "name": "Azel",
+    "message": "「I've certainly become quite irrational」"
+  },
+  {
+    "message": "Saying that, she gives a shy smile."
+  },
+  {
+    "name": "Synn",
+    "message": "「Tomorrow. We have to go show Melilot-san, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's embarrassing... though I suppose I must」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Welcome home」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're supposed to say 'I'm home,' ya know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'm home」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What a bleak room」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What's the meaning of a sudden home visit?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Barely attending class, grades barely above failing, no relatives to speak of, and even living with a guy--wouldn't it only be natural for a teacher to worry?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How earnest of you」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Just kidding」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Still, I did do a few home visits. Acting the part of a serious student teacher is exhausting, you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It suits you better than expected, though」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Stop it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What do you want」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I was just passing by, so I thought I'd drop in」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「An angel living with a mere human--you're acting just like a human yourself」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Angels are nothing special」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「How unlike you to say something like that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What do you know about me?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You said the exact same thing three months ago」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then there's no issue」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Back then, you said it while looking down on everything from on high with contempt」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「But now... you're saying it to mean that you're no different from them」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「When we first met, you were hard and transparent like crystal, pure like fresh water without a single impurity--you looked like my ideal angel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ideal?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Right now, you're like a human or a Demon」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I am God's agent」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Indeed. Whatever a tool thinks is of no concern to the one using it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A tool?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Well then, I'll take my leave. Make sure you finish the geometry assignment I gave you last week」"
+  }
+]

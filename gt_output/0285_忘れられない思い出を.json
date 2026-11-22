@@ -1,0 +1,1032 @@
+[
+  {
+    "message": "忘れられない思い出を"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hello~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Ugh...」"
+  },
+  {
+    "name": "Sasami",
+    "message": "「Kukeh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa, it's coming!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're quite well-liked, Vice President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, welcome. Come on in, come on in.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Excuse me~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte... That's a huge amount of luggage.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huheh!?」"
+  },
+  {
+    "message": "D-Don't tell me she's planning to stay over and study......"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「T-This is, well!! U-Um...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「R-Reference books, right~~. That just shows how super motivated Lolotte-chan is!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Y-Y-Yes, that is right!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Let's do our best, Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Where's Nanaka?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「She messaged saying she'll be a little late.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...? I wonder why. Even though she's in the most trouble.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, come on! Every second counts, so let's get started right away!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, alright.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, Misa-chan is...\\s02」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, Synn-kun. Could I borrow your kitchen for a bit?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't mind, but... what are you going to do?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh!? U-Um, I was just thinking maybe I'd prepare some tea snacks for everyone~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I appreciate it. Still, don't you have to study, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nope. Because third-years don't have exams!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, and also! You're not allowed to come into the kitchen♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well... with that said, let's get started...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, come on, Madam President! Time waits for no horse!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, let's begin!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, Nanaka-san... is taking forever...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heeey!! Pardon the intrusion!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「ly here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huff, huff... I'm exhausted...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seriously, what have you been doing. Here, a drink」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thank you♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uwaaagh!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't hand me milk, hand me water!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew, phew... oh, right. Ria-senpai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What a noisy guy」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Madam Treasurer. Did she buy it properly, I wonder?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez, she's not a kid anymore. She'll be fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? What's going on?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Nothing at all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「My head's overheating...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Doesn't that only happen when processing is fast?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What if we swapped?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Swap with Synn... No, no, I'll make a huge concession and swap with Misa!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, what's that supposed to mean!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Isn't that six of one and half a dozen of the other?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, really. Well, in that case, fine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aren't you all subtly escaping from reality?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're one to talk, playing games!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th―This is just for a change of pace―wait, I'm not!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haaah... I really do get distracted easily...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just bear with it a little longer. The surprise prank is almost ready.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Surprise prank?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawawa! I'm not an angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, Ria-senpai... is taking a while. I wonder if she's having trouble with something.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha...! Synn, where are you going!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? The kitchen.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aaaah, you mustn't go over there!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because the President will get her foot caught on the floor and won't be able to move!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha. I make sure the fittings are well-maintained so anyone can move in anytime.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, how lamentable.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun!! I don't get this problem here, so teach me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, let's see. Ah, for this part you just--wait, it's rare for Misa to ask me for help.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't treat me like some rare beast!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did I!? Besides, I feel like you could easily solve a problem like this, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I-I can solve it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Just as I thought. Well then, I'll be going」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Understood. I will go check on things in the President's stead」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nice one, Lolo-chan!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since the President's life is riding on this test, please focus on studying properly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Her life?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shiiin! So, about this problem here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「My, Nanaka―san, you don't even understand a problem this simple? Here, you see―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, it's fine. I'll ask Synn」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's no need to hold back, really」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Misa? Why art thou getting in my way...? It doesn't seem like she's doing it on purpose, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shiiin! Lend me an eraser」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Here you go」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If she isn't doing this on purpose... then that makes it even worse...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shiiin! Aren't you thirsty?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You hate milk, don't you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mph」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmph」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mmmph...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「MMMMPH~~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you two staring each other down?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!? We were not staring into each other's eyes!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way, Misa... Nah, couldn't be...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm baaaack~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, welcome back, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Droo~ol」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan, you're drooling!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gasp--!! *Slurp, slurp*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone... you're acting kinda weird」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Flinch*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you hiding something from me or what?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, no, no! Not a chance!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'B-b-but I can't stooop~♪'」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「We're totally swamped with exams. Cut us some slack, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy-san... so cool\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Besides, this one's always been a weirdo」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now, Nanaka-chan. Today's a wonderful day, so smile, smiiile♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh? If Senpai―san is here, does that mean―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yep, all ready to go\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder what kind of amazing sweets are gonna come out, my heart's pounding」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Alright, everyone! Please take your positions!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gotcha!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Understood!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「One, two--」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Happy birthday~~!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--whaaat!? What's going on, whose birthday is it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You still don't get it, ya blockhead? Tell me what today's date is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「November 17th――wait」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's my birthday!! I completely forgot」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Congratulations~~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan told us all about it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since the whole Student Council is here, we figured we'd throw a big, flashy celebration for once.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well. Your parents are away on assignment, so... celebrating alone would be lonely, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, everyone. Here we go~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「One, two--」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Fro~m the da~y you were bo~rn, till today~ by e~veryone~♪」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「You~'ve been lo~ved~♪ It's Sy~nn-kun's~♪」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Bi~rthda~y~♪ Co~ngra~tula~tions~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ta-da! And our birthday present for Synn-kun is... right here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oooooooooooooh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's the beefsteak you've been dreaming of!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Beef... steak?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's wrong?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-Are you already full, by any chance? If so, I can----」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no, no! It's just kind of different from what I imagined...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wouldn't that be pork? Commonly known as pork steak」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Tontoro!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come on. Eat it before it gets cold」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...... *gulp*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hurry up and eat already!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Kuh...... ugh, th-thank you for the foood!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Chew, chew*......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How does it taste!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk...... ugh......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's delicious!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, that's about the reaction I expected」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But...... ugh...... sniff, it's so good......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now, now. You're a guy, so don't cry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm not crying or anything!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Make sure you chew properly♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, I am...... savoring every bite」"
+  },
+  {
+    "message": "So this is beefsteak......"
+  },
+  {
+    "message": "The best present everyone in the Student Council prepared just for me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you for the meal!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~~ I'm so jealous~~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're an angel, so you can eat it whenever you want anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...... I'm filled with happiness......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The fun's gonna keep going just a bit longer, ya know. Right? Nanaka-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Order up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa--!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's pretty normal coming from you, Nanaka.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What's wrong with that? The President eats anything with gusto, after all.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like I said, I wasn't cheaping out!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You didn't have to say that\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? What's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No... I'm just feeling a little emotional...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't tell me it's another misconception?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So cakes are actually round...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, up until now, they've always been like this」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep, yep! This is the real deal. Well? Think you can finish it all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah. You already treated me to steak, so there's no way I can eat all this.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see, I see. Guess we've got no choice but to share it with everyone, then.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, cake tastes better when everyone eats it together.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yay~\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then I'll go brew some tea.」"
+  },
+  {
+    "message": "Eating the steak I'd always dreamed of, and sharing a cake with everyone--a truly blissful moment."
+  },
+  {
+    "message": "I'm really glad I became the Student Council President."
+  },
+  {
+    "message": "Which is precisely why, before this position is put in jeopardy..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaalright! Let's keep giving it our all after this too--!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah--!」"
+  },
+  {
+    "message": "Studying for tests, which was supposed to be tough, ended up being super fun--"
+  },
+  {
+    "message": "Time passes in the blink of an eye..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Good work today~\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haa... I wish time would just stand still」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm feeling gloomy~~\\s06」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady, I have come to pick you up」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Grandpa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone, thank you so much for today」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It is the day a rival such as yourself was born, after all. Celebrating it is only natural」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ufufu. I'm looking forward... to my birthday♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yikes」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want every day to be a birthday, yes I do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wahaha. If that happened, it'd actually stop feeling special」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well then, farewell」"
+  },
+  {
+    "name": "Ria",
+    "message": "「See ya~~\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Bye-bye~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Goodbye~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-Bye-by~~e!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... Now then, shall I get started again~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Alri~ght. Now's my chance!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All of today's stuff. You're the one who arranged it, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fweh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You actually remembered, didn't you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, of course I did」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was the best present」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see, I see. Of course it was! It's a present packed full of everyone's love, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't lose out, though, Nanaka! The present from me is gonna be the best! Sacchin said so too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haaah... I really am glad I became Student Council President...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Um, Synn. Sorry to interrupt while you're soaking in the moment, but could you close your eyes for a sec?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「J-Just do it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay or not... I don't really get what's going on」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N... No good... Kissing is too embarrassing, I just can't do it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Thanks for helping me study!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What was that for, all of a sudden」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because you were grinning like an idiot the whole time. Thought I'd knock some spirit into you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the one who needs to put some spirit into it, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll be fine. I'm a girl who gets things done when it counts!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We'll see about that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, you asked for it!? Alright, I'm going home to study. I'm gonna study my butt off! And wipe that smug look right off your face」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha. I won't lose either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I'm heading home! Bye-bye!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, bye-bye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Nanaka!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yep」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for celebrating my birthday」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...\\s03 Wh-what are you talking about, we do this every year!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You really are my best friend, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Y-yeah, right...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn. Wanna try... closing your eyes one more time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way. You're just gonna chop me again」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Right?! Totally! Anyone would think that, right? Ahahaha!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're the one grinning like an idiot, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up!」"
+  },
+  {
+    "message": "Nanaka went home, laughing the whole way."
+  }
+]

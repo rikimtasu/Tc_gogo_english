@@ -1,0 +1,311 @@
+[
+  {
+    "message": "きっとヘタ"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Sei--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did \\{Seiou|\\s12\\s12}-chan come to borrow books too?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...And just who might this 'Seio-san' be? If you can't even remember people's names, you're disqualified as Student Council President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah. C-Come on, it's fine, right? You and Shio-chan are sisters--two bodies, one soul!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... They do say siblings are the beginning of strangers, ya know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hark, fiend, speak not such ill-omened words!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, Shio and I started out as strangers and became sisters, you know? That's why this bond won't break so easily.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, looks like Misa had the upper hand on you there, Paqy!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now, come along. As your big sister, I'll whip you into shape, Shio.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh my? Look, a bird in the sky--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm not letting you get away!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eeeek?! Elder Sister is dead serious! Sir Synn, pray save me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, I don't know if I should really butt into matters between sisters and family, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Say that all you want, why are you coming along with us too, Sakura-kun?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We just happen to be heading in the same direction. I've got business at the library too.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, I won't let you get in our way! If you're coming anyway, I'll have you help out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, I don't mind, but what exactly are we--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ngh... heave-ho!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ghhhh!」"
+  },
+  {
+    "message": "Misa rummages through books on every food culture and recipe from all times and places, piling them high onto a reading table."
+  },
+  {
+    "name": "Synn",
+    "message": "「Should I put the ones I carried over here?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「G-Guhhh~...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't make such pathetic noises」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Sister~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You look like a kid who couldn't finish the school lunch they hated, staying behind in the back of the classroom through lunch break and cleaning time to quietly eat it all alone」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn, your analogies are way too commoner-like」"
+  },
+  {
+    "name": "Shio",
+    "message": "「You expect me to read this entire mountain of books?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. Before practical application, you must first grasp the theory. You can finish reading them in three days」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Impossible!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Cookbooks are mostly pictures with very little text, so it's not totally impossible to finish them, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am an exorcist shrine maiden of the Asukai family, you know? With my body busy with daily training... I have no time for such things」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh? Even though you avidly read romance novels?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「*Gasp*!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Th-They say he who chases two hares catches neither. How about I prioritize my training and revisit cooking at a later date...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So that's your angle!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Listen to me, Shio. A sound mind dwells in a sound body, does it not?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「The foundation of training is health management. And a healthy mind and body are built through daily meals」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Therefore, you must study cooking!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-So that is your counterattack. As expected of you, Sister, you are a formidable opponent」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm only saying this for your own good. Come now, Sakura-kun, you help persuade her too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, are you terrible at cooking?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey! Sugarcoat it a little more when you ask!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ngggh... Even I can manage a bit of cooking, you know? Tearing and tossing swarming side dishes, tearing and tossing them left and right」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is merely that Mother, Father, Sister, and all our relatives are far more skilled, leaving me no opportunity to serve my own homemade cooking. Please forgive me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah. ...Uh-huh, yeah」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Do not nod with a face brimming with benevolence!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Something as simple as cooking requires no study, does it not? For I am a master of 'Ki'!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have heard that cooking is love. That is to say, a heart that cares for the one who eats...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In other words, so long as one's 'Ki' is abundant, a delicious dish will naturally come to fruition!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-What is the matter?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan, your logic is on the right track, I guess, but isn't there something wrong with it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's just the petty sophistry of a child who doesn't want to study.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister! Do you intend to mock the 'Ki' passed down through the Asukai family for generations!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't change the subject!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Grrr~, she has seen right through me...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio's home cooking is always so bland and clumsy. Even in your oshiruko, you just dump in nothing but sugar, don't you?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「And pray tell, what is wrong with that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, why did the topic suddenly shift to oshiruko?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Around the middle of this month, I happen to have an occasion to make some.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Then you definitely don't need this massive pile of how-to books.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we narrow it down to sweets you can make at home, two or three books will cover it. Let's pick them out right away.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh, if that is the case, even I should be able to read them!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nngh... And here I went out of my way thinking I'd drill cooking into Shio.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun really is a failure as Student Council President.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Elder Sister? Regarding this matter, I fail to see any connection whatsoever to the Student Council?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Before all that, I gotta ask--can you even borrow dozens of books like this all at once?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah... the limit was three books...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What is it, what's with that look!?」"
+  },
+  {
+    "message": "After that, Misa snapped back defensively while carefully picking out cookbooks, so Shio-chan ended up borrowing only one book after all."
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "message": "ハッピーエンドの向こう側"
+  },
+  {
+    "name": "Synn",
+    "message": "「Calm down, let's calm down, you gotta calm down, me」"
+  },
+  {
+    "message": "Lunch break. I wait for Nanaka in a corner of the old school building where people rarely come."
+  },
+  {
+    "message": "Just a moment ago, I pressed a 10-yen chocolate into Lolotte's hand as a tip and had her call Nanaka over."
+  },
+  {
+    "message": "Things between Misa and me are still awkward. Even so, I can't let these feelings drag on forever. I'm the Student Council President, so I have to pull myself together!"
+  },
+  {
+    "message": "In the same way, Misa, as Vice President--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even when Misa ran into difficult situations, she always tried to figure something out, and she always managed to pull through」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yet this time around, she just can't do it. If the President and Vice President are acting like this, there's no way the Holy Night Festival is gonna go well」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you understand that much, then you've got some kind of breakthrough plan, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, since it's Misa we're dealing with. As President and Vice President, I'm thinking of making a pact to separate emotion from reason right now」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's an impossible ask」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your behavioral patterns are built entirely on emotion, aren't they, Demon Lord? How the heck are you gonna build a rational decision-making circuit now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't know how, which is why I'm consulting Nanaka」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You dumbass! Soba is a walking bundle of emotion, isn't she?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-But I don't have anyone else I can talk to about this, do I」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then spill everything to Soba and follow your emotions all the way through. Otherwise, Master Synn won't be Master Synn anymore!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not Demon Lord, just Synn, huh... Got it, thanks」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, you came」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, of course, I mean... Synn's going to c-conf... to me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for making you come all the way out here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No, it's fine... The rooftop and the narrow path are lovely too, but... this place has a nice vibe as well」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you staring so straight at me?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, why are you crouching down and covering your face with both hands?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「~~~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Wait a second, I need to psych myself back up」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「3... 2... 1... alright!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bring it ooon!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, there's something I need to talk to you about, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I actually have something to tell you too, Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, so you're worried about Misa too, Nanaka. That makes things easy!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, why are you crouching down and covering your face with both hands again?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's nothing at all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「4... 3... 2... 1... alright!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm baaack! Hit me with it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Uh, can I go ahead?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just spit it out already!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, things have been super awkward between Misa and me in the Student Council and stuff, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, if anything, Misa's way more rattled than you are, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's actually my fault」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If it's about all that Demon Lord blah-blah-blah stuff, I told Misa--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I confessed to Misa」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N... No way...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's true. The reason Misa and I are so on edge around each other has more to do with that than the Demon Lord stuff...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-How did it go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha... I got dumped」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shot down? Did she turn you down properly?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I didn't get an answer, but the look on Misa's face back then...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm the one making Misa suffer. Yet as the root cause, I have no idea what to do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, selfish as it is, rather than letting our relationship stay like this any longer, I'm going to give up on Misa completely」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And I want to patch things up so we go back to how we used to be」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So, when did you confess?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「On oden day... the night my secret about being the Demon Lord got exposed. Things have been awkward between us ever since」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Which means...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ghk--!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So that's why Misa...!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Yeah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「L-Leave it to me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Really!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're childhood friends, aren't we?! Don't act so distant with me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll take care of things with Misa, so you go all-out with your Demon Lord training, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Thanks. Opening up to you was definitely the right call, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See ya! Sorry for calling you out here only to leave, but I'm gonna take a quick nap in the Student Council room. Got tough magic training again today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, rest up. I'll shake you awake when the warning bell rings」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Honestly, Synn has no clue how I feel...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ta-da♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, that's just the weakness that comes with falling in love, isn't it~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-Why are you here, Sacchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Never mind me, what are you gonna do now~?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's obvious! I hate leaving things all hazy and unresolved!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「First, I've gotta have a talk with that blockheaded, fox-brained good-for-nothing!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Why do you always put your love rival ahead of yourself~? You could've just confessed right here and now~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way! That'd feel like cheating!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah, yeah~. That's what I like about you, Nana-chan~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Bohoho... Well, I hate it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, my chances aren't zero either!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooh, youth! I'm jealous~ Look at you go, you gutsy Nana-chan~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You oughta enjoy your youth too, Sacchin. You're actually pretty cute when you keep quiet and stay still.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No, no. Just watching you is more than enough to fill me up, Nana-chan~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Watching is fine, I guess... Wait, more importantly, what were you even doing in a place like this, Sacchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'm so glad you asked~ Ehehehe~, I was developing a brand-new headbutt~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I shouldn't have asked...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Oh my...?」"
+  },
+  {
+    "message": "At the sudden change in the feel and sound of the ground beneath my soles, I stop in my tracks."
+  },
+  {
+    "message": "No, it wasn't sudden. I'd already been walking nonstop for quite a long time. By now, Nanaka-san must surely be confessing to Sakura-kun."
+  },
+  {
+    "message": "So that I wouldn't get in the way--making that excuse to myself, I left the academy, and before I knew it, I had ended up here."
+  },
+  {
+    "message": "Was I unconsciously seeking Shio... seeking the warmth of family?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, are you here?」"
+  },
+  {
+    "message": "Unusually enough, on the shrine grounds, Shio and Riesling-san were standing close together, facing one another."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hah!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa!? Riesling-san just hit Shio!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No, I stopped just short of making contact」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-It's true I didn't hear anything hit, though...」"
+  },
+  {
+    "message": "It didn't seem like a fight or a quarrel had broken out."
+  },
+  {
+    "message": "Riesling's fist had been thrust toward Shio's face, stopping dead just before touching the bridge of his nose."
+  },
+  {
+    "name": "Shio",
+    "message": "「How careless of me, to shut my eyes once again!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「That is a completely normal reaction」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What are you doing?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, if it isn't Sister. I am currently receiving instruction in martial techniques from Sir Jeeves」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is training to keep one's eyes open and track an enemy's movements even when an attack comes right at one's nose. Truly the secret art of a master!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「No, it is the most basic of basics」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Are you training your dynamic visual acuity?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Speaking purely in terms of physical function, that is corre--hmph」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ugh」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You closed your eyes」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I did not close them!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……!　……!　……!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Guh, hih, fuh!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're definitely closing your eyes, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「N-Nay. Decidedly nay」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It may have looked as though they were shut, yet in truth I had them cracked open ever so slightly」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Hah!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hyah」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Guh... H-How pathetic. Not only did I shut my eyes, I even stepped back half a pace」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「There is no need to feel ashamed. It is only natural for a human being」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yet when Sir Jeeves faced my naginata, he stood firm as a guardian deity with both eyes wide open!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Anyone can do it, depending on their mindset.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Lady Shio, do not rush things right now... Just please, do not run away.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「If you continue to hold the courage to stand your ground, the path before you will eventually open up.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Ngh.」"
+  },
+  {
+    "message": "My chest unexpectedly aches."
+  },
+  {
+    "message": "Could Riesling-san actually be saying that to me?"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Jiiya...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Might I be permitted to call you Big Sister...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Shio. Are you misunderstanding something again?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Every time Big Sister Riesling's hand draws near, my heart pounds fiercely. C-Could this, perchance, be... love?\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, that pounding heart and feeling of liking her is just the suspension bridge effect playing tricks on you. Wake up!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-Yes... First love truly is wonderful, isn't it...\\s04」"
+  },
+  {
+    "name": "Shio",
+    "message": "「N-Now then! Let us take a brief recess. I shall go prepare some tea. Pray wait just a moment.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Thank you for waiting.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh? Today's tea accompaniment is pickled vegetables, isn't it?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed, I received these pickles from Lord Saiki. Please, do enjoy them.」"
+  },
+  {
+    "message": "Sitting on the edge of the worship hall's veranda, I drink some tea."
+  },
+  {
+    "name": "Misa",
+    "message": "「Mm, delicious...」"
+  },
+  {
+    "message": "Truth is, my mind is swirling so much I can't even taste it. I want Shio to listen to me talk about Sakura-kun, yet I have no idea how to bring it up..."
+  },
+  {
+    "name": "Shio",
+    "message": "「...Elder Sister, did you happen to have a quarrel with Sir Synn?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What's with that out of nowhere?!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「This is the very first time I have ever seen you tell a lie during tea time, Elder Sister?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ghh!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...W-We didn't have a fight. Really.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Is that so? For quite some time now, I have not seen the two of you together.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am quite fond of seeing you and Sir Synn pushing each other to improve and striving for greater heights, Elder Sister. Thus, I feel a tad lonely.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Have you ever fallen in love with the same person as a close friend?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I-I am utterly unversed in such romantic affairs, so I scarcely know how I ought to answer...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, even without asking me, do you not have your beloved romance novels, Sister?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In reality, things don't go as smoothly as they do in novels...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It is just as you say.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「The prince and the princess were united. A happy ending.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「A novel ends there, yet reality continues onward...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Compared to the time the two have lived thus far, they will spend long years together that feel akin to eternity.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Perhaps they may part ways. Perhaps they will not be blessed with children, and will be tormented by loneliness.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Yet conversely, by sharing those years together, their bond may deepen, and they may become a happy family.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Does that mean there are many paths we can take forward?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「It is just as you say.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...The structure of Re-Crea is far simpler compared to the human heart. Please keep your eyes firmly fixed on what is truly important, without losing sight of it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, thank you very much!」"
+  }
+]

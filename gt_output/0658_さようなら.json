@@ -1,0 +1,1682 @@
+[
+  {
+    "message": "さようなら"
+  },
+  {
+    "message": "--Only one day left until parting with Lolotte."
+  },
+  {
+    "name": "Synn",
+    "message": "「All right, all right!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa~~. That's a huge spotlight~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Apparently Helena-san shelled out a fortune for it, saying something like, 'Do not underestimate the financial might of the Kujou family!'」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good grief... She must be mistaking this tower for some kind of sideshow.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, come on~~. Re-Crea is finally over without a hitch, so I want to throw a big, flashy celebration! Real flashy!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're always using that as an excuse just to drink!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Today is special!! Right, Synn-chan?♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It is the Holy Night Festival, after all!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hey, hey, how are the costumes coming along?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're taking sign-ups at the reception desk for anyone who wants one. We've got a whole lineup of our finest creations, so please pick whichever you like.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I especially recommend the bunny girl outfit.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my! That would look great on Melilot!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am never wearing that!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu\\s04 Well then, Synn-chan... I'll be looking forward to the main event.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes! See you later, then.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please enjoy yourselves to the fullest, you two~~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You too!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Until later.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Lolotte. Do you have any other errands today... until the Holy Night Festival?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No♪ Today, I'll be with you... the whole time\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-All right! Then today, we're sticking together from start to finish! Let's get right on the next preparations!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Okay, let's go~♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「One, two, three. One, two, th--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Waaah!!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That won't do at all, Ria. Your rhythm is all over the place」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai~~!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh? Why are the two of you hugging……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Whatever are you misunderstanding? This is dance practice, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't mean it in any weird way!\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's just that, with the two of your skills, I assumed you would be dancing much more gracefully」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「No matter how skilled a person is, everyone makes a mistake once in a while」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha……\\s02」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Speaking of which, have you two gotten the hang of dancing properly?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, about that……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe~\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We aren't doing anything terribly difficult, so why don't you practice starting right now?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a brilliant idea!! Well then, President, let's get started right away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah. Though, I…… really don't know much about dancing……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't we have two wonderful teachers standing right in front of us!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Two…… huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez! Even I can manage a little bit, you know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to be so modest and say 'a little bit'」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Uuu~~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee. Now then, Lolotte. May I have your hand?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes♪」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Let's keep it brief, so the President doesn't get jealous」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not getting jealous or anything!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't need to worry. My heart is completely full of you, President.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my. You two certainly are lovey-dovey, aren't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... Thanks for the sweet show\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I told you, I'm not jealous...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「In that case, President, please pair up with Ria.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「M-Me?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm putting a stop to that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Once I've mastered it, I'll teach the President plenty myself.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heehee... It seems Lolotte is the one getting jealous.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So that's what it was--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-Wha?! That's not true at all~~!\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come on, Ayashiki-chan. If you keep teasing them, we'll run out of time.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「My apologies. Let's start right away on one, two, three.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-Whoa! My feet, my feet--!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fueee~~\\s06」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh dear~~\\s02」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We haven't even started yet\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guess dancing is off the table until next year's Holy Night Festival.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Geez! I said I'll be fine! I'll definitely pull it off!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Things didn't go quite that easily...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to do anything formal--just get into the groove with the music and you'll be fine.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see, get into the groove!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh my, Sakura-kun and Lolotte-san!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like choir preparations are going smoothly」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, of course! I never leave anything to chance」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Did you make sure to teach Amyrina-san properly too?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes! She really loved this song!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, wonderful♪」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sob, sob...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh dear, Shrine Maiden. Whatever is the matter?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I... am rather poor at such delicate, high-pitched songs」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about? I'm counting on you to be our soprano leader」"
+  },
+  {
+    "name": "Shio",
+    "message": "「W-What!! You tell me to humiliate myself!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It only becomes humiliating because you think of it as humiliating」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After all, people always say, 'Throw shame to the wind and kindness rules the world'!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「They do not!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh, how strange」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guidebooks really do get a lot of idioms wrong, huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-Is that sooo」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee. You're reacting just like Sakura-kun」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Incidentally, how would one express it in a situation like this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Ummm. 'Do your best!' maybe」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not an idiom, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urk」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's alright. No matter how tone-deaf and terrible at singing you are, if it's you, Shrine Maiden, I'm sure you can do it!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Lolotte...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「More importantly, do not go assuming I am bad at it on your own!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What about you, Lolotte? Do you actually remember it properly?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course, I've got it down pat! I committed every single word to memory!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In that case, even after you return to Heaven, you will be able to sing it for the other angels--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Shio!\\s01」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ah...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Shrine Maiden... That's a wonderful idea!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Go ahead and brag about Human World songs too!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-You two...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...You're right. After all, Lolotte is going to come back.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then we'll have to make sure Amyrina and Azel can sing along in a grand chorus!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina aside, Azel didn't seem to remember any of it at all, though.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Geez, that girl!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, Azel only ever listens to what you say anyway, Lolotte.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In that case, you'll have to drill it into her head properly while you're in Heaven, Lolotte.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So that even prettier singing voices will echo through next year's Holy Night Festival!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Understood, Captain!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, let's see how the Sweets Club is doing...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my...? Something smells delicious~\\s07」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, it's Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How's the cake-making going?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Going great, of course♪ After all, we've got a sweets expert giving us super detailed instructions~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin! Less moving your mouth, more moving your hands!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Welcome, you two」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Aren't you making a cake too, Treasurer?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Oh, I'm... pretty clumsy, so I'm just helping out...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think Sacchin is any less clumsy, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, right! Wanna try making one too, Lolo-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course! That is the whole reason I came, after all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Reaally~? Didn't you actually come just to sneak some tastes?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe~. I'm no match for you, Treasurer~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then come on, Lolo-chan. Let's taste-test the sweets Sacchin made for us」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, by all means!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then count me in too!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The great me will pass on that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Call it the intuition of a Great Sage」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Don't say that--come be a human sacrifice along with us~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Do you even know what that word means?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hii, thanks for waiting~ Prototype Number One is all done~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Number One!? You didn't practice beforehand!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course not! In theory, though, it should turn out great--probably!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~. So it's the classic 'looks questionable, tastes surprisingly good' sort of thing, is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, did you taste-test it?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I can't go sneaking bites out of something I'm serving to guests~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just as I thought」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I believe in Nanaka and Sacchin!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well then, let's dig in♪」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「My condolences……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ahaha. Whoops, I messed up. Maybe adding my own little twist was a bad idea?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin! You're perfectly capable if you just follow the instructions, so why!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, you can't do it either, right, Nana-chan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urk……! Still, at this rate the Holy Night Festival is going to start, I have to do something!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good grief…… I can't bear to watch this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now is the time for the Crusaders to step in…… maybe?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, reinforcements!! If everyone combines their strength, we can definitely do it! It'll be okay!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's push right up until the last minute!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah--!」"
+  },
+  {
+    "message": "As the Ryuusei Student Council."
+  },
+  {
+    "message": "Even though this might be our very last activity as the Ryuusei Crusaders."
+  },
+  {
+    "message": "You'd never know it from the way everyone comes together so naturally, as if it were the most normal thing in the world."
+  },
+  {
+    "message": "It was a moment where I witnessed firsthand the strength of the bonds we had built up until now."
+  },
+  {
+    "message": "Preparations are completely ready, and then――"
+  },
+  {
+    "message": "Slowly, the light fades from the sky."
+  },
+  {
+    "message": "In its place, small lights flicker on across the many lamps surrounding Finis Tower."
+  },
+  {
+    "message": "Before long, our Holy Night Festival will announce its beginning."
+  },
+  {
+    "message": "And to Amyrina and Azel――"
+  },
+  {
+    "message": "We will say goodbye to Lolotte."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've been waiting for you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Sorry I'm late」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's fine. More importantly, how are you feeling?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yeah. I'm just a bit out of shape from lying down too much. I suppose I should have done a little rehab」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's alright. After all, we were practicing singing together while Lolotte was at school」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-We promised to keep that a secret, didn't we!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「After all, I couldn't possibly keep something this wonderful a secret♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were you planning to surprise me, by any chance?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I would never do something so childish.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Teehee. I'm sure the Vice President will be thrilled too. Let's make this song one of our souvenirs to bring back to Heaven♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Make sure to bring back plenty of wonderful memories as souvenirs too, okay?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Mr. President...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now, Amyrina. Today is all about making memories overflowing with smiles.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I-I'm sorry!\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Enjoy the Holy Night Festival to the fullest, okay?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are... stars still shooting across the sky?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The grounds are pitch-black, but the shooting stars light things up enough that we can spot our destination right away!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Toward Finis Tower... So Re-Crea is returning once again.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Finis Tower really is...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「According to that librarian, Melilot, much of it still remains unexplained.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The origin of Re-Crea... The reason I was guided to this academy must also lie in how everything centers around that tower.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is also said to be a colossal pillar spanning the three realms. It may well extend not only across the surface, but deep underground as well.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Though all of those have only been passed down as fairy tales.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So in reality, it's completely shrouded in mystery, huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A tower full of mysteries... How exciting! I'd love to go on an adventure there someday!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In Finis Tower... you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe there's a princess locked away on the top floor, or some incredible treasure sleeping up there!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh!! We simply must go to this!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You've been playing too many video games」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please don't shoot me down with such an unromantic remark while smiling warmly」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Lolotte... About returning home... I'm really sorry」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's completely fine. We're only leaving the Human World unattended for a little while, after all」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave watching the house to me, Riesling Toyama」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, Jeeves! Stop striking weird poses and come with us」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you pointing a gun at me!?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You are, so to speak, one in body and soul with Milady. In Milady's stead, I shall silence that mouth--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on! If we don't hurry, we're going to miss the opening ceremony」"
+  },
+  {
+    "message": "Drag, drag, drag... Riesling-san gets hauled away."
+  },
+  {
+    "message": "As she picked up speed, he was even floating in midair."
+  },
+  {
+    "message": "Ah, so that's how I always looked whenever I was with Lolotte..."
+  },
+  {
+    "message": "Although a large crowd had gathered, the lighting still wasn't fully up yet."
+  },
+  {
+    "message": "Everyone was waiting with bated breath for things to start."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, nothing can start until the person giving the opening signal gets here」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh...? Wasn't making announcements always the Vice President's duty?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san. Have you ever thought you'd like to try speaking over the microphone?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, of course I have! In fact, I feel like snatching it away every single time!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, if I did that, it would undermine the Vice President's position...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Rest assured! I have plenty of other duties to handle!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The Holy Night Festival is going to start on your signal, Lolotte-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh... Are you really sure that's alright?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, come on. Everyone's craning their necks waiting for you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You've got this, Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「From this moment on, the Ryuusei Academy Holy Night Festival officially begins!」"
+  },
+  {
+    "message": "Fun times always seem to pass by in the blink of an eye."
+  },
+  {
+    "message": "As the Holy Night Festival program progressed one event at a time, a single shooting star fell from the sky."
+  },
+  {
+    "message": "And then another."
+  },
+  {
+    "message": "Vanishing into the sky, never to appear again."
+  },
+  {
+    "message": "Before long, the sky was overwhelmed and filled by the light of the Holy Night Festival illuminations."
+  },
+  {
+    "message": "Unnoticed, the shooting stars had disappeared from the sky."
+  },
+  {
+    "message": "It signaled the end of Re-Crea, as well as the curtain call of the Holy Night Festival."
+  },
+  {
+    "message": "Soon, Lolotte would return to Heaven with an armful of memories."
+  },
+  {
+    "message": "The moment of farewell drew nearer with every passing second."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's already over, isn't it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President... Could you dance with me just one more time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, of course.」"
+  },
+  {
+    "message": "Along with the gentle outro,"
+  },
+  {
+    "message": "As though the fact that Lolotte would return to Heaven right after this were all a lie."
+  },
+  {
+    "message": "Even though she was right beside me, smiling in my arms."
+  },
+  {
+    "message": "To think that Lolotte, who was right here so close to me--"
+  },
+  {
+    "message": "Would disappear from before my eyes."
+  },
+  {
+    "message": "So much so"
+  },
+  {
+    "message": "So much so"
+  },
+  {
+    "message": "That it was almost unbelievable--"
+  },
+  {
+    "message": "I was completely filled to the brim with thoughts of Lolotte."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm also... completely filled with thoughts of you, Mr. President...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The fun times, and the happy times. The sad times, and the painful times. Every single day I spent with you and everyone else is packed right inside.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Truly... I don't even know... how to thank you all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to worry about that... After all, you gave us plenty of energy and cheer too, Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have to say goodbye to everyone」"
+  },
+  {
+    "message": "Even after the Holy Night Festival ended, everyone from the Student Council and those with ties to Lolotte remained behind."
+  },
+  {
+    "message": "Just as Azel intended, the angels would return to Heaven once the Holy Night Festival was over."
+  },
+  {
+    "message": "It might very well be the last time."
+  },
+  {
+    "message": "Even so, not a single person doubted they would meet again."
+  },
+  {
+    "message": "Still, losing someone who had always been right there with them inevitably carried a lingering sense of loneliness."
+  },
+  {
+    "message": "Even if we meet again, our time with Lolotte stops right here."
+  },
+  {
+    "name": "Sally",
+    "message": "「Loro-chi, are you really leaving?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There is no need to be sad. I will be back before you know it.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really? You promise it's true?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「An angel never goes back on her word. Please believe me.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Uuu~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There, there, don't cry」"
+  },
+  {
+    "name": "Sally",
+    "message": "「B-But, buuut~~! Waaaaah!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on... don't cry like that, Sally-chan. Or else I won't... be able to hold back either...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Treasurer...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lady Lolotte... hold your head high. An angel is, after all, a messenger from Heaven.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Put in a good word for the Human World, okay?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes! Leave it to me!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「We're graduatin' soon, so I dunno if we'll see ya at school again, but...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even so, let's stay friends forever, okay? ♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「When you get back, let's go sweets-hopping together again~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes! I'm looking forward to it!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Some things can only be understood once you're apart. There's no need to take every farewell as something negative.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It also gives us something new to look forward to--seeing each other again. So it isn't a sad thing」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You two really are so mature」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Not at all. Even if we say things like that, lonely is still lonely」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's going to be lonely for a while, isn't it? For both of us」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll be fine. Amyrina and Azel-san will be with me, after all.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't forget, though. Even if we're apart, there are so many people who care about you.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I, Riesling Toyama, believed my tears had dried up long ago.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Yet ever since meeting you, my lady, I have been gradually changing...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Even though this change is a joyful thing」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Right now, because of these emotions... I cannot hold back the feeling of not wanting to part from you...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「They've come overflowing out...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya...」"
+  },
+  {
+    "message": "Lolotte wrapped Riesling-san in a gentle hug and softly stroked his head."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whenever I was alone and crying from loneliness, you always comforted me just like this, didn't you, Jiiya...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya, you have wonderful friends like the Chairwoman and the Librarian too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And Grandfather and Grandmother as well... Everyone thinks of you as family too, Jiiya.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I know I'll be making you feel lonely for just a little while, so please wait for me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And I'll work hard... so that I can live together with you again, Jiiya!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「My lady... my lady...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "message": "Lolotte took a wool scarf from her coat and wrapped it around the neck of Riesling-san, who was trembling with sobs."
+  },
+  {
+    "name": "Riesling",
+    "message": "「Th-This is...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though I don't suppose you'll be all that surprised, Jiiya.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Th-There shouldn't have been one in this color... When did you...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. Contrary to how it looks, I was keeping a close eye out for your blind spots, Jiiya.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「To slip right past the eyes of Riesling Toyama...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This matches the ones for Grandfather and Grandmother. Please wear them together and get along nicely, okay?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Thank you very much... I will treasure it for the rest of my life」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte, give these to everyone」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Come on, these are getting heavy」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawa, I'm so sorry!\\s01」"
+  },
+  {
+    "message": "Amyrina and Azel hurried over to Lolotte and handed her the paper bags."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have... a present from me to everyone who has helped me so much!」"
+  },
+  {
+    "message": "Yarn in a variety of colors burst forth from the paper bags."
+  },
+  {
+    "message": "They were all shaped like scarves, each accompanied by a little pig mascot as a bonus."
+  },
+  {
+    "message": "Naturally, they were modeled after Tontoro."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here you go, Madam Treasurer」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is this...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And one for you too, Vice President♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A hand-knitted scarf!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And this one is for you, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh... this is for me...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Bonus-san. You mustn't wipe your tears with this, okay? It'll be scratchy」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Lolo-chi~~. Lolo-chii~~\\s06」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I made one for you too, Sacchin-san」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yay, thanks!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course, one for you too, Shrine Maiden-san」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To think you would bestow one even upon this humble self... I am moved beyond measure!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Would this be a bit too childish for you, Misasagi-san...?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Not at all, dear. Thank you kindly. I'll take good care of it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though, I suppose for the two of you...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What are you talking about? We're both still plenty young, aren't we?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ahem, ahem...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I made every single one of these while thinking of you all. I'm sure they're packed full of those feelings」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan... I'm gonna treasure this!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, how adorable...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. With this scarf, I feel like Lolotte-chan's face will pop right into my head」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thank you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank you so much♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not at all. I'm just glad you're all pleased with them」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Classic move, angel. Keeping the main attraction--our Demon Lord--waiting in suspense, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sh-Shut up」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Geez, for a Mr. Panda who says such mean things, take this!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Mgyah!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. Maybe it was a little too big for Mr. Panda」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「C-Can't... breathe...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President... Thank you for waiting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, not at all...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yours is a little bit special, President. Heave-ho, heave-ho」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ta-daa. Here you go~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh... Mine's a bit different from everyone else's scarves」"
+  },
+  {
+    "message": "It's a size longer than a normal scarf."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Doesn't that just mean you're supposed to wrap it around your neck a bunch of times? Looks super warm」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good grief, you don't have a romantic bone in your body, do you, Nanaka-san\\s10」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--what did you say!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This was made with the wish that it would reach all the way to Heaven...\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm~~ Close, Vice President. That's a little off」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sure of it. This scarf includes Lolotte-chan's share too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "My chest swells with welling emotion."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For a little while, the scarf will stay extra long, but... I know the day will come when the two of us can wear it together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte... I'll look forward to that day and take good care of it!」"
+  },
+  {
+    "message": "With the scarf still clutched in my hand, I pulled Lolotte into an embrace."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe... You're nice and warm even without a scarf, President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte... thank you. For staying by my side... all this time... thank you」"
+  },
+  {
+    "message": "The urge to stay like this, holding each other forever, grows stronger."
+  },
+  {
+    "message": "Still, we've endured everything up to this point without shedding a single tear."
+  },
+  {
+    "message": "Hiding away the pain of parting, keeping smiles on our faces while we're still together."
+  },
+  {
+    "message": "So that when we meet again, we can greet each other with smiles too."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone, thank you so much for everything up until now」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You've all been so kind to me... Being surrounded by such wonderful people, I... was truly happy!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now... I have no regrets left」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, Lolotte!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「P-President...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually... I have a present for you too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If I'm giving something to you, Lolotte, I figured this would be the very best thing...」"
+  },
+  {
+    "message": "I pulled out a small box I'd kept tucked away in my pocket."
+  },
+  {
+    "message": "When I opened the lid, what appeared inside was a ring, glittering under the lights."
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, hold out your hand」"
+  },
+  {
+    "message": "As if drawn in, Lolotte extends her hand."
+  },
+  {
+    "message": "Gently enveloping that small hand in mine, I savor its warmth and feel."
+  },
+  {
+    "message": "Even if these hands part, our hearts never will."
+  },
+  {
+    "message": "Pouring that steadfast wish into it, I slip the ring of our vow onto Lolotte's finger."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Waaah...」"
+  },
+  {
+    "message": "Lolotte holds her hand up, gazing intently at the shape of the ring."
+  },
+  {
+    "name": "Synn",
+    "message": "「This is a present from me」"
+  },
+  {
+    "message": "I also held my hand up the same way, placing it over the back of Lolotte's hand."
+  },
+  {
+    "name": "Synn",
+    "message": "「With this ring, no matter how far apart we are, we'll always be connected」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Always...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why, no matter what... I wanted to give you a present, Lolotte...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What do you think... do you like it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No matter... how far... apart we are... We'll always... always... be connected...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...I'm happy... I'm so happy... truly, so happy... Your kindness, President...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Like this, I... can't... hold back anymore...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though I swore I wouldn't cry... even though I decided I'd definitely say goodbye with a smile...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uhh... ughh, uwaaaah, aaaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte...!」"
+  },
+  {
+    "message": "I tightly embraced Lolotte as she broke down crying."
+  },
+  {
+    "message": "I'm lonely after all. I don't want to part."
+  },
+  {
+    "message": "We hadn't grown up enough yet to hide those feelings."
+  },
+  {
+    "message": "Even if we acted like adults, even if we imitated adults, we still held young, fragile hearts inside."
+  },
+  {
+    "message": "When night comes, I feel like I'll be crushed by the anxiety that we might never see each other again."
+  },
+  {
+    "message": "Still, if we don't overcome this sadness."
+  },
+  {
+    "message": "We'll remain nothing more than children forever."
+  },
+  {
+    "message": "The future we're going to build cannot stop right here."
+  },
+  {
+    "message": "As if representing Lolotte, who has always charged forward recklessly."
+  },
+  {
+    "message": "That's the Lolotte I love."
+  },
+  {
+    "message": "So, this farewell isn't the end."
+  },
+  {
+    "message": "It's the beginning of our new future!"
+  },
+  {
+    "message": "A cold wind brushes past our tear-stained cheeks."
+  },
+  {
+    "message": "Aside from the tears spilling from the corners of our eyes, wetting our cheeks--"
+  },
+  {
+    "message": "White fairies fluttering down as if to cover our tears of sorrow."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's snow...!」"
+  },
+  {
+    "message": "The snow, which should have been cold, felt somehow warm."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The ring... thank you very much. It's really lovely.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad you like it.」"
+  },
+  {
+    "message": "The two of us looked up at the sky."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So this really is goodbye, isn't it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... I wonder when we'll see each other again...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Maybe it'll be around the time you become an old man, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even then, I'll wait...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Me too...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No matter how far apart we are, no matter how long we're apart」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The person I love most in the world is you, President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I love you too, Lolotte.」"
+  },
+  {
+    "message": "Letting the snow wipe away our tears, we smile once again."
+  },
+  {
+    "name": "Synn",
+    "message": "「Goodbye, Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Goodbye, President!」"
+  }
+]

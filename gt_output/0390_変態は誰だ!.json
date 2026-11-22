@@ -1,0 +1,357 @@
+[
+  {
+    "message": "変態は誰だ!?"
+  },
+  {
+    "message": "I did everything I could."
+  },
+  {
+    "message": "I've done all that is humanly possible; now I just await fate's decree."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's over!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Everything is over~」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Over and done with. Synn, wanna hit up karaoke for the first time in forever? Found some free passes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, guys, this is the exact same conversation we had on day one...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hehehn. This time it's really over, y'know!」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「I was already done for from the start, though」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I was done for before it even started~」"
+  },
+  {
+    "message": "I probably shouldn't ask how they did."
+  },
+  {
+    "name": "Synn",
+    "message": "「How'd it go for you, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I filled it in」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right...\\s01」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Aren't we studying for the tests today?」"
+  },
+  {
+    "message": "What is up with this rapid-fire barrage of deja vu conversations?"
+  },
+  {
+    "name": "Synn",
+    "message": "「The tests are already over, so our study sessions are over too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll treat you to ramen. Today's no good, so when works for you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll leave it up to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'm definitely treating you, so look forward to it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I heard from Lolotte. Apparently you don't have any money」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. Don't worry about it, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You don't need to push yourself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, a promise is a promise.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...You never break yours.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're starting to understand the kind of person I am too, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's not like I wanted to understand.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn! Let's get ready soon!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-oh, right. You remembered.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You betcha!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Get ready?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. We have a little Student Council work to do after this.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll help.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh? But Azel, you always... at times like this...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am the Student Council's secretary.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Finished putting them up.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. Is a plan like this really going to work?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The best thing about you is how you still go along with it even while saying that, Misa.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just be honest with yourself, Hisu.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm only getting ready to clean up your mess!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Even I'd fall for something this good. It'll be fine. Prez is a genius!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm... He looked dumb, sure, but is he really *this* dumb?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He's looking for us, so he'll come.」"
+  },
+  {
+    "message": "We stuck arrow signs reading 'The Student Council is this way' all over the academy."
+  },
+  {
+    "message": "If he follows the direction of the arrows, he should end up right here."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "Isn't this a bit too blatant, no matter how you look at it?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Lolotte Bear will come. There is no doubt about it.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That sounds like a name that'd get along really well with you, Lolotte-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since I am the discoverer, I named him!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, really? That's amazing, Lolotte-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please praise me lots」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He's not, though」"
+  },
+  {
+    "name": "Lolotte Bear",
+    "message": "「Ha-ha-ha! I've finally found you, Student Council!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh. He actually came」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't believe it......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. To think he'd fall for it so easily」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It goes beyond foolish straight into comical」"
+  },
+  {
+    "name": "Lolotte Bear",
+    "message": "「Your evil-doing spree ends right here! Someone you lot once oppressed kindly told me where you were hiding. Nwah-ha-ha-ha-ha!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Seeing him in the flesh, that plan makes total sense」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't think it's good to judge people by appearances, you know? Though in this case......」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Trailing off like that is just Ria-chan's kindness showing」"
+  },
+  {
+    "name": "Lolotte Bear",
+    "message": "「Gasp!? Could it be that Pasta-chan secretly tipped me off!? Is this hidden love!? That's gotta be it! Pasta-chan putting up signs is so moe!」"
+  },
+  {
+    "name": "Lolotte Bear",
+    "message": "「Once this brawl is over, I'm gonna marry Pasta-chan!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「......Fighting him is starting to feel ridiculous」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't let your guard down」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He looks like a total idiot, sure, but he blew the roof off the gazebo with just his overflowing magic power」"
+  },
+  {
+    "name": "Ria",
+    "message": "「He's that strong...... Don't tell me, is this person a Virus?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No. He is a Lolotte Bear」"
+  },
+  {
+    "name": "Lolotte Bear",
+    "message": "「Grrrrr. Hey, you woman over there with the needlessly huge tits! Calling the great me a Virus is beyond rude!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I...... get stiff shoulders easily, and my big sister is always teasing me, so I'm actually really self-conscious about them......」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What an outrageous insult to Ria-chan's gorgeous breasts! That guy is definitely the enemy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They've been our enemy from the start」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Listen up, because I'm gonna tell you my drop-dead gorgeous name! My name is Ardin! By my own estimation, I'm 100 times stronger than that womanizing punk」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「No, 1,000 times! No, 100,000 times! No, a hundred trillion times!」"
+  },
+  {
+    "message": "A womanizer... no way."
+  },
+  {
+    "message": "Wait, if that Melphas guy is actually Vilus, then..."
+  },
+  {
+    "message": "Then again, he introduced himself as Melphas, so maybe not. Though it could be a fake name."
+  },
+  {
+    "name": "Pasta",
+    "message": "「Hey! Don't talk bad about Lord Vilus, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「That voice... it's my beloved, sweet little Pasta-chaaaaan! Where should we have the wedding? I've collected a ton of brochures!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「A conceited pedo like you doesn't even stand a chance, nya! Lord Vilus is way, way, way, waaaay cooler than you by a mile, nya!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Watch me, Pasta-chan! I'm gonna do this!」"
+  },
+  {
+    "message": "As Ardin lets out a roar, his overflowing magical power makes the air crackle and tremble."
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go too!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ３４_EASY"
+  },
+  {
+    "message": "ステージ３４_HARD"
+  },
+  {
+    "message": "ステージ３４_NORMAL"
+  }
+]

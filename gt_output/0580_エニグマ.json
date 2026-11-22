@@ -1,0 +1,536 @@
+[
+  {
+    "message": "エニグマ"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mornin'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Here, take this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A lunch made by a loving wife」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A l-loving wife!? Wh-wh-what are you talking about!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-wh-who's a wife, a newlywed wife!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I didn't go as far as saying newlywed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahem. Anyway, it's red bean rice inside」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-what, that legendary red bean rice! The kind written with 'red' and 'rice' that only comes out on celebratory occasions, and at my house doesn't even come out on celebratory occasions! Incidentally, Jupiter's is the Great Red Spot!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Calm down」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You said something so awful yesterday, so I made it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This hefty weight... guhhhh! You're amazing, Nanaka! You're a goddess!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-no, it's not that big a deal...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Just as expected of Soba. Trying to tame Lord Synn by feeding him, eh? Though that's a roundabout way to sneak into his bed--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um, well, you know. Sengenin-sensei actually came by my house yesterday」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He said it was just a home visit」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though he's not even our homeroom teacher?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't he just dedicated to his job? Actually, several people in our class have had one too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Come to think of it, I have heard about that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He pointed out all sorts of flaws in how I solve problems and even gave me extra assignments. Aah, I'm beat」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good work today」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Dad didn't seem to like him very much. Sensei Sengenin, I mean」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He even told me to watch out for that teacher」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's rare for your easygoing dad to say something like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Morning!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mornin'~」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Mornin'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Morning, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mornin'--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, wait up, Azel!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sigh... He ran off on us again today」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You two sure keep at it~ You're the only ones who still talk to Azel-chan, Synn-kun and Nana-chan~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And so, patrols are canceled starting today. Do your best preparing for the Holy Night Festival」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehh!? What's that supposed to mean, Big Sis!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You called us out here all of a sudden, so I have no idea what you mean by 'And so'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm used to it by now. Her being abrupt is nothing new」"
+  },
+  {
+    "name": "Helena",
+    "message": "「According to my secret intelligence network, the suspicious person won't be showing up at the academy anymore」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even if you say so, Chairwoman, I cannot accept that without any basis」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A secret is a secret, so it's a se-cret」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's what they call 'secrecy is the nose'! It was written in my guidebook」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A proper maiden blows her nose in secret, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't accept this either」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's rare for the two of you to agree」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How shameless. Blowing your nose in front of others is embarrassing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That thing that appeared after we fought Pasta the night before last was clearly a powerful Demon」"
+  },
+  {
+    "message": "I remember how Nanaka was trembling."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With something like that prowling around, we can't stop patrolling now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. You wouldn't understand since you weren't there, Sis」"
+  },
+  {
+    "name": "Misa",
+    "message": "「At the very least, we have to uncover its identity」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It was Ms. Sengenin」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you bringing up our teacher's name right now」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm saying that one of the presences you encountered was Ms. Seira Sengenin」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ms. Sengenin's real name is Soltia. She was one of the Seven Demon Generals」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just like Eauderourke and Pasta...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, she wasn't that big of a deal for a Demon General, right? Ahaha」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you really think that, Soba, you're gonna get yourself killed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm shocked... She was such a serious, good teacher who explained things so well...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ms. Helena, how do you know about--ah, never mind, don't tell me」"
+  },
+  {
+    "message": "It's probably her secret information network anyway."
+  },
+  {
+    "name": "Ria",
+    "message": "「Did you maybe know from the very beginning?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I wouldn't have hired her if I knew, would I? Use some common sense」"
+  },
+  {
+    "message": "Suspicious."
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aahn. Everyone is suspecting me♪ Helena is so sad!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We should interrogate Sengenin-sensei! And make him confess their scheme!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To make him spill the beans, it's gotta be torture!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if he is a Demon General, torture is no good.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We'll make him solve a mountain of math problems!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The guy's a math teacher, you know.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mumu. Impressive as expected of a Demon General, that even the ultimate torture doesn't work on him.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Whatever we do, first we have to secure him in custody, right?」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As we are right now... it's impossible...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, we can't just leave him running free any longer!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You don't need to worry about that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because this was sitting on Sengenin-sensei's desk this morning.」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「A resignation letter!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So much for 'secret intelligence.'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When he came for a home visit yesterday, he didn't say anything like that at all.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「To Nanaka-chan's place?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hmm. And what did he do?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He suddenly gave me assignments. A whole bunch of them.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How suspicious! That's definitely a cipher. The XYZ Files!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「By assignments, you mean math?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could it be... if you read it, you get brainwashed or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka. You didn't feel anything weird when you read it, did you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No, it's nothing to get so worried over, I mean, I haven't even opened it yet」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If she had that kind of power, you'd all be brainwashed by now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now that you mention it, that's true」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nanaka-chan. Let me see that assignment」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes! Here you go!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hehehe, looks like I'll get out of doing my assignment」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Since she's disappeared, there's no more patrol starting today! Fair enough?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「There's less than a month until the Holy Night Festival, anyway. It's high time we stopped.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why do you suppose she quit so suddenly?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Demons are whimsical creatures, so maybe she just wanted to try being a teacher」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I can't accept a reason like that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see, so even with enough intelligence to be a teacher, she's still a Demon at the end of the day」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're actually convinced by that......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Assuming one of the presences was Sengenin-sensei, what was the other one?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right, there were two presences」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A Demon General, maybe?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It felt even stronger than Sengenin-sensei......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Speaking of mysterious entities of unknown power, that would have to be the Demon Lord!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*flinch*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So that was the Demon Lord...... Something that incredible......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I was probably the only one who noticed, but Nanaka was trembling."
+  },
+  {
+    "message": "She was terrified of the Demon Lord."
+  },
+  {
+    "name": "Helena",
+    "message": "「It wasn't the Demon Lord」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh... even though they were that incredible...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then... is it Virus?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Probably」"
+  },
+  {
+    "message": "Soltia. Virus."
+  },
+  {
+    "message": "We can't beat either of them."
+  },
+  {
+    "message": "At least not yet."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The Demon Lord is... even stronger than that...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "If I were to tell Nanaka, who's this terrified, that I'm the Demon Lord..."
+  },
+  {
+    "name": "Misa",
+    "message": "「Why would even Virus appear?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Just on a whim, probably」"
+  }
+]

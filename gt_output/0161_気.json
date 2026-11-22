@@ -1,0 +1,385 @@
+[
+  {
+    "message": "気"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, where was the bulletin board at Asukai Shrine again?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Shrine grounds sure are in a tough spot to get to, huh? Climbing stairs all the way up here has got me totally wiped out~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Look who's talking, you were flying the whole time, flat-chest.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ufufu♪ I'm the idol of the Demon World, a woman who's totally fly--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「So mean!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, the bulletin board is right over there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's ask Shio-chan to put up the KiraFes poster for us.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, huh!? There's already one up. And it's handmade, too.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Completely ignoring flat-chest--just as expected of Synn-sama.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hm? H-hmm-hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm just genuinely impressed. Look at this--not only does it have the event date, it even lists the details for the stages and events decided so far.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Aha, this wasn't just the naginata brat's doing--Hisu lent a hand too, didn't she?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a great thing, isn't it? Though I wish Misa had told me a word about it……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Think about Hisu's personality. Like she'd ever go around bragging about her behind-the-scenes efforts.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, what does this say? I can't read Human World writing--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hogyaaaah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sally-chan?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kuh…… How utterly pathetic.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Shio-chan. You're on shrine maiden duty today, huh?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Shrine maiden……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have trained diligently as an exorcist of Asukai and held pride in my skills, yet…… I grew conceited.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's wrong? You're making the exact same face Hisu did when she picked a fight with Synn-sama and blew herself up.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「To be seen through by a spirit makes me all the more pathetic......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, did something happen? If you don't mind me, I'll listen. Talking to someone usually helps you feel a little better, after all」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-You are right, it would be rude not to accept your kindness in some cases...... I shall tell you」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mere an hour ago, I was utterly and completely beaten down......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's terrible! Who did this to you!? No, never mind that, we have to get you to a hospital right away!! Come on!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, worry not. I have not suffered a single scratch」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. I was far too weak for it to even become a match......」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Pinned down by Lord Jiiya's piercing gaze, I could not move a muscle...... I could not even unleash a single strike」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mr. Riesling? Lolotte's butler? I see, you challenged him to a match」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Just as you surmised...... I made a disgraceful spectacle of myself」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Jiiya declined my offer of a match with the utmost politeness」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Even so, wishing to witness the technique of a true master just once――」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I bet you provoked the butler and got brushed aside, didn't you?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「No. Lord Jiiya is no ill-mannered person who would treat someone lightly」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That gentleman is a true master who possesses an unshakable mind」"
+  },
+  {
+    "name": "Shio",
+    "message": "「In response to my defiant glare, Lord Jiiya――」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So you *did* provoke him after all!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「L-Lord Jiiya calmly gazed back at me」"
+  },
+  {
+    "name": "Shio",
+    "message": "「With a look one might even call affectionate......」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yet his eyes gleamed as piercingly as a bird of prey, and out of sheer terror, I surrendered right then and there」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Admitting defeat is a kind of strength too, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Y-Yes. My grandfather has always told me so on a daily basis」"
+  },
+  {
+    "name": "Shio",
+    "message": "「However, to think that the 'ki' I have honed until this very day to subjugate spirits would have no effect whatsoever on Lord Jiiya......」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Behold, Lord Synn」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Haa...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa, all the birds flew away」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, decidedly nay! There is naught impressive about this!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「This humble one has indeed mastered ki as a shrine maiden of Asukai」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yet at the very same time, I am in such a pathetic state that I frighten even the birds, beasts, and plants of these sacred grounds!」"
+  },
+  {
+    "message": "Ah, so that's why Sally-chan flew off."
+  },
+  {
+    "name": "Shio",
+    "message": "「When Sir Jiiya released ki to overwhelm this humble one, the sacred trees did not rustle, and the birds continued to chirp」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have not the faintest clue what sort of training one must undergo to reach such a pinnacle...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's no way Master Synn would know that either, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I don't have a clue. But there is something I do know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Shio-chan, I used to be really slow at running」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Pardon?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whenever I raced with everyone, I always came in last」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No matter how many times we ran, I was dead last」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But you know, even if I came in last place, as long as my time was a little faster, that meant I beat myself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By winning and losing against myself like that, I eventually became faster than other people」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well... actually, that was mostly thanks to delivering milk, though. Ahahahaha」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I feel I somewhat understand now why Elder Sister wishes to challenge you, Lord Synn」"
+  },
+  {
+    "name": "Shio",
+    "message": "「With you, Lord Synn, perhaps--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Would you accompany me in training my glare?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, though I don't know how to do it?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is quite simple, you see? You need only gaze steadily into the other person's eyes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, yeah? Well then, let's give it a try」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yes, thank you very much! Now then, right away--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Haa...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Staaare」"
+  },
+  {
+    "name": "Shio",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stare, stare」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...Ugh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Glaaare, stare-stare, staaare」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...Pfft」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Kuku, fuh... kufufufufu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's mean, Shio-chan, why are you laughing? We're not having a staring contest, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「M-My apologies. Kufufu... B-By no means is your noble visage funny, Synn-dono... ku, kufufufu」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Come to think of it, this is the very first time I have ever gazed into a gentleman's eyes... kufufufufu!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then blush innocently and go 'blush\\s07' or something. That ain't how it's done, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-Hold your tongue, fiend... kufuh, snicker, whyever am I laughing like this... kufufufufufu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "message": "Watching Shio-chan's smile, a strangely bright and clear feeling washes over me."
+  },
+  {
+    "message": "When I was a kid, after falling and scraping my knee, or crying after a fight, laughter would somehow spill out of me."
+  },
+  {
+    "message": "Surely, Shio-chan's wry little laugh right now is the exact same thing."
+  },
+  {
+    "message": "It feels nostalgic and comforting."
+  },
+  {
+    "message": "Shio-chan, who makes me feel this way, must possess the same 'ki' as Riesling-san."
+  },
+  {
+    "name": "Shio",
+    "message": "「Kufu, kufufufu, I am truly, deeply sorry... For now, I shall go brew some tea」"
+  },
+  {
+    "message": "Teary-eyed from laughing too much, Shio-chan heads toward the shrine office."
+  },
+  {
+    "message": "After being treated to tea and sweets, Paqy and I left the shrine."
+  }
+]

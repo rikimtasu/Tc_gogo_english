@@ -1,0 +1,1021 @@
+[
+  {
+    "message": "過去からの遺産"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, Synn, if we don't hurry up we're gonna be late!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We still have time, we'll be fine」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, I'm amazed you can wake up this early when you've been doing special training every single day」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Once you get used to it, it's no big deal」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hehehe... Acting all tough even with sore muscles--that's our Demon Lord for ya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't need to say that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's kinda annoying for me since it cuts into my club time, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, at least you won't gain weight, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I wasn't fat to begin with!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--!」"
+  },
+  {
+    "message": "This sensation is...!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Demon Lord...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Sorry, Nanaka. Looks like I forgot something, so go on ahead without me」"
+  },
+  {
+    "message": "This immense magical power, making my skin prickle even from a distance."
+  },
+  {
+    "message": "There's no mistake...!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't mind waiting, though...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. I'll catch right up」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, hey, Synn!」"
+  },
+  {
+    "message": "I can't recklessly drag my friends into this and put them in danger..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huff, huff...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Virus...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「So you've become able to sense this level of presence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Did you lure me here on purpose?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I was curious about the witch's handiwork」"
+  },
+  {
+    "name": "Virus",
+    "message": "「However... just as I expected, you've turned out quite well」"
+  },
+  {
+    "name": "Virus",
+    "message": "「From the way you carry yourself, I can clearly see the fruits of your training」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Still, I take it I've got a long way to go...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「As long as you understand that, it's fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As I am now, you could easily defeat me」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Don't get the wrong idea, Synn Sakura」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I have no desire for a one-sided slaughter」"
+  },
+  {
+    "name": "Virus",
+    "message": "「To hone my own strength and pit myself against proud, mighty warriors...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「And in the midst of a battle pushed to the absolute limit, to feel proof that I am alive」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that really all you're after...?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I wish to know a sense of fulfillment that I have yet to experience」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Soltia, who tried to scheme against you, and this Re-Crea said to destroy the world--neither of them means anything to me」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Because right now, all I have eyes for is you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "All I could feel was a fighting spirit so intense it made my throat go dry."
+  },
+  {
+    "message": "Does this man truly seek nothing more than a pure fight...?"
+  },
+  {
+    "name": "Virus",
+    "message": "「It was good meeting you today」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I look forward to the day we can cross blades」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "He's not an opponent I can beat with half-baked resolve."
+  },
+  {
+    "message": "Yet, from his entire demeanor, I couldn't sense a shred of malice."
+  },
+  {
+    "message": "Maybe calling him an enemy doesn't even fit."
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Phew」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That covers just about all the records here...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To think I'd end up reading through past archives over and over like this...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems I've been influenced by Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, I still haven't found any more information than what we already have, so」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What's left is……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The book we brought back from the land of Nibe last time…… I suppose」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I had hoped to avoid relying on the elders if possible, but……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For Sakura-kun's sake……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「When I think of it that way, I wouldn't mind at all」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Alright, let's give today's special training our all!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're really fired up～」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As the saying goes, 'carrots and ignorance,' so I am sure she is being deceived」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Or maybe she's just starting to feel good」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-Th-That's not it at all!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone is just saying whatever they want……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Melilot-san」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Have you all gathered, everyone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, even Helena-san is here」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What's that supposed to mean, am I not allowed to be here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, that's not what I meant……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, I see. You want to be alone with Melilot that badly, huh? Well, that figures」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--! Hold on, hold on!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What are you saying, Helena!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What am I saying? Just the truth?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn, what's she talking about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Who knows……?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph... Your eyes are darting around! You definitely have a guilty conscience!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true! Look, my eyes are as sharp as a hawk's!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't look at me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn... Are you keeping secrets from us, your comrades...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At this point, we have no choice but to torture it out of him!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Then I'll slice you wide open♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gyaaaah!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Everyone, please calm down a bit!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「At this rate, we'll never be able to overcome Re-Crea!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ugh... Sorry.」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Well, if big sis Melilot says so, I guess I have no choice...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good grief...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You smoothed things over nicely!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Boo-hoo, something this harmless is just part of my charm~\\s10」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Honestly, you're just too slack, or rather...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Thanks to all this, I don't even have time to gush over my sweetheart~」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I told you to stop!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aww, I'm just kidding around~\\s07」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your jokes are in poor taste! Good grief...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Those two really get along well..."
+  },
+  {
+    "message": "Well, maybe that's just because I heard about their past, though."
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "For the record, I'm not jealous... I think."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sigh... It makes me dread what lies ahead...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You're taking things way too seriously, Melilot.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm taking it seriously because it's a matter that demands it.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you worry too much, you'll just end up frozen in place, won't you?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You've gotta loosen up a little\\s07」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You're always so optimistic...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It'll be fine!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「At the very least, as far as we know, Re-Crea has never actually been fulfilled before.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「True, this world is still intact even now, however...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then how do we even know that Re-Crea is gonna destroy the world?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now that you mention it... that's a good point.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If it's never destroyed anything once, isn't that weird?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hohoh, that's a sharp retort coming from our treasurer. My nose hairs are practically popping out of my eyes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, what's that supposed to mean!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, I just mean it's a good question!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. It's completely natural for all of you to have doubts.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, an established theory has already been derived on that subject from past records and research...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Before getting into that, I should probably explain something else first.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「About the origins of Finis Tower, which is the very reason Nibe's mission came to be...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Finis Tower...?」"
+  },
+  {
+    "message": "Given what Melilot-san had told us, I'd always assumed it was an observation facility built by the people of Nibe, but..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「According to the oldest records I've gotten my hands on...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is said that the one who built Finis Tower was the god who created the Three Realms」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, a god?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To be precise, the story goes that the god had humans do the labor」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And at that time, what the god told the humans--namely, the ancestors of the Kujo family...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Was about the existence of a great power that regenerates the world, known as Re-Crea」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And then, the Nive Clan inherited those records, is that it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「From what has been passed down to me, that is indeed the case」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm... So a god taught them about it, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still... it's strange, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why didn't the god build the tower themselves?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san, do you know anything about this?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nope, not a clue」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How about considering that it wasn't that they didn't build it, but rather that they couldn't?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Meaning they can't directly interfere with this world, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though I don't have concrete evidence to say that for certain」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though they went out of their way to have the tower built to protect the world...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To then try and destroy it themselves...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really don't understand gods...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is a way to interpret that as well」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Records regarding Re-Crea only exist from after the tower was built」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And before the Three Realms―or at least, the Human World―were formed, the world had a different shape...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「According to the lore recording the encounter with the god, the world was originally one」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And then the god divided that world into its current form, and built the tower in the Human World, which serves as the boundary」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because it was only after that that Re-Crea began to be observed...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Re-Crea is thought to be a force of providence by which the world attempts to return to its original form」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So it's kind of like an unavoidable consequence of splitting the world......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then Re-Crea is a sort of natural phenomenon, and......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The God who created our world is trying to save it...... is that it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And that's why they bestowed knowledge and countermeasures upon us」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though that is merely one way of looking at it」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, in the end, as we are now, we can't verify God's existence anyway」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed. Even I don't know what they look like」"
+  },
+  {
+    "name": "Helena",
+    "message": "「As things stand, this is the interpretation that makes the most sense, right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, regardless of the truth, we cannot ignore the records and leave Re-Crea unchecked」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The observed energy of Re-Crea is convincing enough if one were told it could regenerate the world」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That alone is more than enough to call it a threat」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the Demon Lord is the one who stops it......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a huge responsibility, isn't it......」"
+  },
+  {
+    "message": "A talk meant to put me at ease somehow ended up making me acutely aware of the pressure......。"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Furthermore, there is a possibility that things will not go so straightforwardly this time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh......?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is strictly a prediction derived from past observational data, however......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Re-Crea was understood to manifest starting from a periodically occurring peak of energy」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yet, records have been found indicating that this energy can acquire some sort of vessel」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A vessel......?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A person or an object...... basically, a container of sorts for a great power to inhabit」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In other words, a being who houses the power of Re-Crea within themselves......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It means there may be someone operating in the shadows who could be called an agent of Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To think one person holds enough power to destroy the world……」"
+  },
+  {
+    "message": "Could Virus and I not even come close to matching that……?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course, there has never been a case where Re-Crea was brought to fruition by the will of humans, angels, or demons.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, just once in the past……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is a record stating that the power of Re-Crea possessed a human as its vessel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Re-Crea, inside a human……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What…… happened back then?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……Nothing happened at all.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A fragile human body had no hope of withstanding Re-Crea's energy, small-scale though it was……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is recorded that Re-Crea vanished and dissipated along with that human.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That phenomenon was likely nothing more than a product of chance.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, as long as there has been even one such precedent, we cannot say for certain there won't be a second」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And suppose a vessel capable of withstanding Re-Crea's energy were to appear……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A proxy of Re-Crea would stop being just a hypothesis……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Precisely」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If Re-Crea's power were to be controlled by a proxy's will……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even we would have a considerably difficult time dealing with it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But it's not set in stone that it'll turn out like that yet, right……?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unfortunately…… wishful thinking will serve no purpose」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is because the past possession by Re-Crea……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The observation records from that time and those of the current Re-Crea bear an extreme resemblance」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If I were to point out a difference, it would be the scale of its power……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Meaning, naturally, that it's larger this time around……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if it fails to obtain a vessel, it's not small enough to simply dissipate...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And if it does obtain a vessel, it will trigger a worst-case scenario...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is no doubt we can definitively call this Re-Crea an anomaly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... that agent is Soltia...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, the probability of that is low」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I considered that possibility at first, too, however...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If that were the case, there is no way they would resort to such a roundabout method」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's true...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It just means you need to keep in mind the possibility that a dangerous mastermind like that is lurking behind the scenes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We ought to prepare for the worst-case scenario」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're right...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Things might certainly be getting more serious this time than ever before」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, we're the only ones who can drive back Re-Crea and save the world right now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That makes it more than worth the effort, doesn't it!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, that is exactly right」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now that's the spirit! You're starting to look like a man we can really count on」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「All right! Then special training really is the only way to go!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Macaron",
+    "message": "「Big Brother, I won't lose today!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bring it on, I won't either!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will be pushing you just as hard today, so everyone please prepare yourselves accordingly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, give it everything you've got!」"
+  },
+  {
+    "message": "Plus, Helena, Shio, and Riesling have been joining in on our special training since the other day..."
+  },
+  {
+    "message": "Helena joined the party!"
+  },
+  {
+    "message": "Shio-chan joined the party!"
+  },
+  {
+    "message": "Riesling-san joined the party!"
+  },
+  {
+    "message": "Both our strength and morale are on a whole different level now."
+  },
+  {
+    "message": "Besides, whether someone's will is behind it or it's just a natural phenomenon, that's no big deal."
+  },
+  {
+    "message": "If we don't give it our all, everyone's happiness might be shattered and lost."
+  },
+  {
+    "message": "What matters is protecting the world with our own hands."
+  },
+  {
+    "message": "Because we have to protect our future."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good work on your training today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You seemed a bit stiff out there today, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha... I guess I let it get into my head.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Actually, I ran into Virus this morning...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Is that so?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Did he say anything to you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That he's looking forward to when we cross blades.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. That certainly sounds like him.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, after actually talking with him, I realized something.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He isn't challenging us out of malice.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if it might end up accelerating Re-Crea as a result...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not his true goal.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Perhaps so.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, that doesn't change the fact that he is an opponent we must defeat, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's just, if we're going to fight anyway...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to make it a proper match.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I see.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If that is how you feel, Sakura-kun, then I suppose that is fine.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, if you do anything too reckless, I will stop you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't do anything like leaving your side, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That goes without saying!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, I know」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If that's the case, then I don't mind, but...」"
+  },
+  {
+    "message": "The hand enveloping mine tightens with a gentle squeeze."
+  },
+  {
+    "message": "I squeeze it firmly back."
+  },
+  {
+    "message": "Even without words between us..."
+  },
+  {
+    "message": "Our hearts were firmly connected."
+  }
+]

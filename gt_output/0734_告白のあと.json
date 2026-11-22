@@ -1,0 +1,543 @@
+[
+  {
+    "message": "告白のあと"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "message": "So warm."
+  },
+  {
+    "message": "It makes me want to hold on tight."
+  },
+  {
+    "name": "Synn",
+    "message": "「You're so soft, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do you want to stay like this forever?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... I want to stay like this forever」"
+  },
+  {
+    "message": "I want to be with Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「Well, it is winter」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not just for the winter! I want to...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It'll be hot in the summer, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if it's hot, as long as I'm with you...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mornin'!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sally-chan!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, why are you hugging your futon and babbling like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「My futon!?」"
+  },
+  {
+    "message": "Whoa. She's right! I mistook my futon for Azel!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, that was hilarious. Look at this troubled hormonal teen.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't just watch--wake me up!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, shoot. The message, the message.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Message?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Azel said he had a photoshoot, so he went on ahead.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "I'm actually pretty disappointed."
+  },
+  {
+    "message": "He wasn't at the library yesterday either, and I didn't get to see him after that."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see... A photoshoot, huh」"
+  },
+  {
+    "message": "He's really into photography, so it can't be helped... right."
+  },
+  {
+    "name": "Sally",
+    "message": "「Never mind that, soba, soba!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah! It's soba this morning!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Feels like it's been a while since the two of us walked to school together like this, huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Weird, isn't it? Even though it's only been about ten days」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...It really is」"
+  },
+  {
+    "message": "It's only been about ten days since Azel and I started walking to school together."
+  },
+  {
+    "message": "It hasn't even been two and a half months since we first met."
+  },
+  {
+    "message": "Even so, it feels lonely not having Azel beside me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, speaking of 'Kirara'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Doesn't look like you really care to hear about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Well, whatever」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that supposed to mean」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, really, 'Kirara' doesn't matter at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though you watch it so religiously」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, listen. There's something I kinda want you to hear」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See, I... Well, the thing is... For a really long time now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You sure seem to be having a hard time saying it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course I am!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I got it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Whaaat!? Y-You already knew!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, though, because I can't」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I see... You're right... I knew it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No matter how close we are, Nanaka, I don't have any money to lend, so I can't lend you any」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You weren't asking to borrow money?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like I ever would! Not when I know the inside of your wallet better than anyone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, so that's not it... Then what is it?」"
+  },
+  {
+    "message": "Nanaka's footsteps came to an abrupt halt."
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "I sensed her take a deep breath and let it out."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn... I like you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh...?」"
+  },
+  {
+    "message": "HEY, SYNN... I LIKE YOU."
+  },
+  {
+    "message": "Even I could tell she didn't just mean it as a friend."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-That's all I wanted to say! You don't have to answer right away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "In the cold December wind, I stood frozen for a while."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun! What are you spacing out for?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, s-sorry」"
+  },
+  {
+    "message": "Azel isn't here since he's running around with his Leica and digital camera."
+  },
+  {
+    "message": "In fact, he didn't even show up to the classroom."
+  },
+  {
+    "message": "Which means I haven't even caught a glimpse of him today."
+  },
+  {
+    "message": "As for Nanaka--"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "She refuses to meet my eyes."
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly... Even though the Holy Night Festival is right around the corner」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan. You shouldn't get so worked up. Preparations are going smoothly, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai-san. The vice president is just at that age where she'll complain even if a chopstick drops」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Nah, that personality of hers is for life」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What did you say!」"
+  },
+  {
+    "message": "Nanaka said I didn't have to answer right away, though."
+  },
+  {
+    "message": "Besides, it's not like she actually asked me to go out with her, either."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As they say, the soul of sextuplets lasts till a hundred. That means each person gets sixteen souls, with four left over.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I don't really get what you're trying to say.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Actually, I don't understand it myself. What could it possibly mean?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In this case, it's triplets.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That increases it to thirty-three per person! And only one left over.」"
+  },
+  {
+    "message": "Even so, putting off my reply or avoiding giving an answer on whether we'll date isn't right."
+  },
+  {
+    "message": "Because Nanaka was so serious about it."
+  },
+  {
+    "name": "Synn",
+    "message": "「Haaah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Haaah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. Sorry.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Are you feeling sick or something?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whoa! Hissy's actually worried about Master Synn!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Did you eat something bad yourself, Miss Vice President?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You two are seriously so rude!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, what's really wrong? Is something bothering you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-no... It's nothing I should bring up here.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...I see. Well, if you're ever really in trouble, rely on all of us, okay? You, Nanaka-chan, and Azel-chan aren't alone, after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where's Azel?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She has already gone home.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... Why?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She mentioned having some errands to attend to.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "In the end, I still haven't been able to see Azel at all since after school yesterday."
+  },
+  {
+    "message": "I thought I'd be able to see her if I came here, though."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Did the two of you have a fight or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No...」"
+  },
+  {
+    "message": "A steaming teacup was placed in front of me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you think seriously about something for three hours and believe your conclusion is right, that conclusion likely wouldn't change even if you spent three years thinking about it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, who knows? It's just something someone from long ago said」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You've been thinking seriously about it, haven't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I see."
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe I didn't even need to think about it」"
+  },
+  {
+    "message": "The very fact that I'm hesitating like this is the answer."
+  },
+  {
+    "message": "And the fact that I came here without any hesitation, too."
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems I was able to be of some help」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Thank you very much」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Answering the questions of those who visit the library is also a librarian's duty」"
+  },
+  {
+    "message": "I finish my tea and stand up."
+  },
+  {
+    "message": "Closing time is approaching."
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, Melilot-san, around what time do you head home after closing?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't go home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I live here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure you've heard a bit from Azel, but--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't go out at night, so I never have the chance to run into these Demons. Maybe I'll take a stroll tonight」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't even joke about that. I really can't recommend running into the Demons that appear at this academy」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's quite alright. In the unlikely event I meet one, I'll fight it with that book」"
+  },
+  {
+    "message": "Melilot-san pointed at a thick tome bound in tanned leather."
+  },
+  {
+    "message": "It's certainly thick enough to kill someone if you hit them with it, though."
+  },
+  {
+    "name": "Synn",
+    "message": "「They breathe fire and stuff, so something flammable isn't really going to cut it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's unfortunate」"
+  }
+]

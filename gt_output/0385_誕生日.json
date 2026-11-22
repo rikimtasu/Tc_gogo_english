@@ -1,0 +1,814 @@
+[
+  {
+    "message": "誕生日"
+  },
+  {
+    "name": "Ardin",
+    "message": "「So this is Ryuusei Academy! Despite their interference, I've finally made it!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Where is the Student Council! Where is the Student Council at!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「W-What are you doing, nya!?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Aaah. My beloved Pasta-chaaaaan!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Stay away from me, nyaaa!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I get it. Those cold words are just your whip of love! Come on, lash me with more of 'em! My passion's burning hotter than ever!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Anyway, where are those Student Council guys!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Saturdays are half-days, so they're not here anymore, nyan.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Whaaaaaaaaaat!?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Damn it, I'll have to try again! Pasta-chan, I swear I'll beat those guys for you! Just take a nap or something and wait for meee!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「What a useless guy, nya...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now then, let's come together as one Student Council for this study session!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're really fired up.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course I am! If we fail to save face, the Student Council's prestige will plummet into the dirt, and stripped of its governing authority, the academy will devolve into a lawless, chaotic battlefield where the strong devour the weak,」"
+  },
+  {
+    "name": "Misa",
+    "message": "「the weak are oppressed, and even the strong grow arrogant from their own might, throwing their lives away in vain--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What kind of post-apocalyptic savior legend is that supposed to be?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's reassuring that nobody else is home at the President's house. We won't have to worry even if we make a little noise.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're gonna be making noise?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course. It is a study session, after all.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are study sessions meant for making noise? I am not good at being rowdy, yet I must be.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Waaah, waaah, waaah.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Keep it down, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not need to make noise?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Um, since we all gathered here, let's study, okay?\\s01 Azel-chan, put your camera away too」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm the official recorder」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san. Please leave studying about the Human World to me!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's memorize it together. Horizontal-Li-Be-Blue-Ship」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. So I don't need to memorize what you just said」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Exactly right」"
+  },
+  {
+    "message": "And just like that, time flew by."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... Look at the time already. Should we wrap it up for today--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Not yet! I can still keep fighting!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Ahhh, 'ari, ori, haberi, imasokari' is marching through my head... Konjaku Monogatari...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do something about the Boston Tea Party... The tea, the tea is going into the sea...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks like you're the only one who can still fight, Hiss」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You all lack a sense of urgency」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan. Let's call it a day around here. Otherwise it'll be time for 'that'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'That'?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's nothing. Especially not for you, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Leaving me out!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haah... Still, I'm satisfied」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You made good progress studying? That's great」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「With the soba noodles our treasurer made for us, I mean」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, that stuff was delicious」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It was good. I'm satisfied. Everyone had great expressions on their faces」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll admit it was delicious, but...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What about the actual studying!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not asking is what they call a samurai's mercy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It looked like you were just taking pictures the whole time though, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No problem. I memorized all the chemical formulas by heart.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that right...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is it, being so formal all of a sudden?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is everyone ready?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okay~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Bring it on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's going on!?」"
+  },
+  {
+    "message": "Suddenly, popping explosions burst out all around me."
+  },
+  {
+    "name": "Everyone",
+    "message": "「Happy Birthday~~!!」"
+  },
+  {
+    "message": "Before I knew it, there was even a cake right in front of me!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... uh... what is this?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Like we said, happy birthday♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, come on! If you're a true Edoite, blow out the candles in one go!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So if you're not an Edoite, you blow them out one by one, then.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh. Is it bad to only blow out half of them?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just blow them out before overthinking it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, got 'em all in one breath. Not bad at all.」"
+  },
+  {
+    "message": "Misa swiftly slices up the round cake."
+  },
+  {
+    "name": "Synn",
+    "message": "「Amazing... One-sixth--meaning a full sixty degrees--is all mine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious! Really delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, let's make tomorrow your birthday too! No, every day!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If he aged a year every day, Master Synn wouldn't even make it to April before kicking the bucket.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Cake isn't the only thing.」"
+  },
+  {
+    "message": "Ria-senpai handed me a small box wrapped with a cute ribbon."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this...... for me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right. Go ahead and open it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is a ceramic whetstone!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. When I came by last time, I heard you were picking up random rocks to use as whetstones, and that'll ruin your blades easily.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, here is a birthday present from me as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's pretty heavy.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please open it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-This is! An ultra-gorgeous chandelier!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The reason you are always out of money, Mr. President, is surely because you do not know what luxury is. Therefore, please gaze upon this every day and savor the feeling of extravagance.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks! Now I can live the gorgeous life too!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That doesn't solve the root problem of him having no money, though.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Forget that, the ceiling's gonna cave in.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you. I'll keep it packed in the box and have gorgeous dreams!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Was today your birthday?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Seems like it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why am I the only one who didn't know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's not like we were leaving you out or anything! I mean, Azel, you didn't come to the academy on Friday or Saturday, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right. We're friends, so we would have told you if we'd seen you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why didn't you say so at the library?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd forgotten about it myself until just a moment ago.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry. You're mad, aren't you...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I was merely wondering why I didn't know.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no interest in anyone's birthday.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's Azel for you...」"
+  },
+  {
+    "message": "That's a very Azel-like reaction, isn't it. Still, I'm a little disappointed. I wonder why?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Look, I didn't actually plan on actively celebrating your birthday at all, and even now I don't particularly feel like celebrating it, but...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It would be unnatural if I were the only one in the Student Council who didn't pick out a present, so I'm giving you this. That's all it is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph... Hurry up and open it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. This is a CD player!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You don't own one anyway, do you?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He doesn't even have the money to buy albums in the first place.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks! I don't know when, but I'll definitely put this to good use!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm glad you like it... I'll lend you an album next time.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So it is unnecessary right now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right now, yeah. But not forever.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I told you I'll lend you something!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fuhaha. Now it's time for me, the childhood friend who knows everything about Synn, to step in! I know exactly what Synn needs right now!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「As expected of a relationship so old and tangled it's completely fermented」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That phrasing is a bit much」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ta-da! Here you go」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh, what's this! A brand-new telescoping tree pruner! Now this is a fine piece of gear!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mmph...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You've been nursing that broken old one along, right? Plus, this is the latest model, so it can reach even higher than before」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You were just complaining the other day about how the cedar in the corner of the yard got too big and was a pain to trim」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What terrifyingly thorough recon!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Indeed. Truly my childhood friend who knows everything about me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Praise me! Rejoice!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I rejoice!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now, commemorative photo! Azel, take a picture, take a picture!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, don't wrap your arms around my neck!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, the classic couple's two-shot」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What are you talking about, geez! It's a birthday tree-pruner commemorative shot!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Unnatural photos are rejected」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ehh. That's harsh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? Azel-chan, you look pale」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh... oh, you're right! Are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No problem. I'm heading home」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehh, we're wrapping up already!? What about the pillow fight!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This girl. I was wondering why her bag was bulging so weirdly, and she actually brought her own personal pillow」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Exams are right around the corner, and you're slacking off!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Please walk Azel-chan home」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Walking alone together at night is even more dangerous! Synn will turn into a wolf in sheep's clothing!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun doesn't have the guts for that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Treasurer, please don't be a spoilsport. Let's leave this to the two young lovebirds」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not a matchmaking date! I'm coming along too!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do whatever you want」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I tried taking the past exam you got for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did it go?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Using the method you taught me, I managed to avoid a failing grade」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then you'll probably be fine on the real thing too, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The questions will be different. So it's uncertain」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Method?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stuff like how to find the right answer on multiple-choice questions and things like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「......So Synn taught you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「......Even though you never used to listen to what anyone said」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Didn't he teach you too?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not it. Synn teaches everyone carefully, after all. He doesn't give anyone special treatment」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You never cut corners, do you. Just like you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not about cutting corners or anything. Something like this is no big deal」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka? Is something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-It's nothing! See ya, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is something the matter?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It just seemed like she wanted to say something.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If it is important, she will say it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I guess. Yeah, you're right.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "We walked down the road toward the academy in silence."
+  },
+  {
+    "message": "It wasn't an awkward silence, though--it felt comfortable."
+  },
+  {
+    "name": "Azel",
+    "message": "「How pretty.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「For some reason, it looks beautiful.」"
+  },
+  {
+    "message": "I followed Azel's gaze."
+  },
+  {
+    "message": "Across the night sky, shooting stars streaked past, one after another."
+  },
+  {
+    "message": "They kept falling in an endless stream."
+  },
+  {
+    "name": "Azel",
+    "message": "「It is merely a physical phenomenon, yet how strange.」"
+  },
+  {
+    "message": "A familiar sight to me. Yet still a beautiful one."
+  },
+  {
+    "name": "Azel",
+    "message": "「Did you know? There is a photo book in the library filled entirely with pictures of Ryuusei Town's night sky.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Someone actually did that?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes, they did.」"
+  },
+  {
+    "message": "Azel's slender arm reached toward the heavens, fingers opening as if to catch a shooting star."
+  },
+  {
+    "name": "Azel",
+    "message": "「At first, I could not understand what compelled the photographer to capture the night sky. Still, the photo book was gorgeous. I assumed it was simply due to the photographer's skill.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Now, however, I understand. This town's night sky truly is beautiful.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "They streak past. Streak past. Streak past."
+  },
+  {
+    "name": "Azel",
+    "message": "「At some point, I began to find it pretty. Tonight, it is especially so.」"
+  },
+  {
+    "message": "With that murmur, Azel looked at me."
+  },
+  {
+    "name": "Azel",
+    "message": "「Could it be because I am with you?」"
+  },
+  {
+    "message": "Words spun out without a trace of \\{pretension|てら}."
+  },
+  {
+    "message": "A gaze directed straight at me."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Who knows?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The sky is just the sky, I suppose. There is no reason it would have anything to do with us.」"
+  },
+  {
+    "message": "After that, we fell silent."
+  },
+  {
+    "message": "In the comfortable silence, I watched the night sky until we reached the dorm."
+  }
+]

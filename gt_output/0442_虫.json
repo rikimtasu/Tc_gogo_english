@@ -1,0 +1,287 @@
+[
+  {
+    "message": "虫"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Brrr, it's freezing! I wanna huddle up and play oshikura manju alone with Ria-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not even possible--that's a game you play with a whole group, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-b-brrr... It's still autumn, yet the moment the wind blows, it steals all your body heat」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Wait, have you lost your mind, Synn-sama?! What's the big idea climbing up to an even colder hill like this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Scouting it out. We might be able to use this place」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「As a training ground for the Crusaders?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You catch on quick, Paqy」"
+  },
+  {
+    "message": "Yes, the demons we fought yesterday were tough."
+  },
+  {
+    "message": "No, purely in terms of raw strength, if it had been one-on-one, we might have been able to repel them with the same carefree mood as before."
+  },
+  {
+    "message": "However, just like the Crusaders do, the demons covered for one another and launched coordinated attacks."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even demons care about their comrades the exact same way we do. That gives us even less reason to fight」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's the kind of line you're only allowed to say after you can actually hold your own in a fight」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh......!」"
+  },
+  {
+    "message": "I'm at a loss for words. Paqy has a point. Whatever happens from here on out, it definitely can't hurt to train our Guardian Angel abilities."
+  },
+  {
+    "message": "The plaza up on the hill should make a good candidate for a training ground."
+  },
+  {
+    "message": "Although the sports clubs come here to run during the day, nobody comes anywhere near a place like this at night after all the students have gone home. We won't have to worry about anyone getting caught up in the Crusaders' training and getting hurt either."
+  },
+  {
+    "name": "Misa",
+    "message": "「Ugh, it's so cold!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun?!」"
+  },
+  {
+    "message": "From the direction of Finis Tower, Misa came jogging over at a brisk trot, as if trying to outrun the autumn wind."
+  },
+  {
+    "name": "Synn",
+    "message": "「I get it, you came here to scout the place out too, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, that's right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gasp?! N-n-n-no I didn't! Don't go acting like you can read my mind!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I was... That's right! I was lying in wait because I wanted to challenge you to a match, Sakura-kun!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-out here? If you mean an endurance contest against the cold, I'd rather pass......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'd refuse that too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ummm, let's see...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「L-Look over there, at that tree. There's a bird perched on the branch, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If it stays still for thirty seconds, I get twenty points! I'll go first! One... two... three...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, come on, that challenge is way too unreasonable.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shut up! Well then, what else do you expect me to do!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「C-Cold...!! Achoo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Girls' uniforms really leave you defenseless against the wind. If you want, should I lend you Paqy? He can double as a hand warmer.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You mean it!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If it's an order from Master Synn, I can't exactly say no.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ahh, Mr. Paqy...」"
+  },
+  {
+    "message": "Misa reaches her hands out toward Paqy."
+  },
+  {
+    "name": "Misa",
+    "message": "「*Ding!* Sakura-kun didn't mention a single thing about a return deadline. Therefore, even if I borrow him for the rest of my life, there are no legal issues...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「N-No way! Hiss's eyes are dead serious!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wha--!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Nooo, a huge mosquito is flying right at me...! Eek!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a crane fly. It doesn't suck blood, so it'd be a shame to swat it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Stop being so carefree and shoo it away already! Ugh, ughhh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, calm down... I got it.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Phew...! Reluctant as I am, I shall express my gratitude. Thank you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Crane fly?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, what's the big idea showing more interest in an insect than in my thanks!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, it's a summer bug, right? Isn't it rare to see one at the start of autumn?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed it is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? You came here with Shio-chan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No? Shio, what are you doing out here all alone? You'll catch a cold, come on, let's head back」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, I am a shrine maiden of Asukai. Drawn here by this unnaturally fierce wind, I came to investigate, and lo……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--!? A-Another one came flying over!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The Two Hundred Tenth Day has long since passed, and yet wind bugs are still dancing about……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wind bugs?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I refer to crane flies. Normally, with the Holy Night Festival coming next month, I ought to summon snow bugs as a good omen, yet…… what a blunder!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It seems the wind-calming ritual I performed in late summer was incomplete」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When the wind blows this hard and the atmosphere grows restless, all manner of bugs spring forth. I shall return to the shrine at once and redo the ritual!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bugs…… Does that include things like a 'premonition bug'?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「They are much the same, indeed. Temper bugs, crybabies, weaklings--there are all sorts, you know」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……Then what about a 'worry bug'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Naturally, those exist as well」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, as much as I would love to chat, I am in a hurry, so I bid you farewell!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll help!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I gratefully accept the sentiment alone. This, at least, is a duty I must see through by myself!」"
+  },
+  {
+    "message": "Before long, the wind gradually shifted, bringing with it \\{clear|せいちょう} air that hinted at the arrival of winter."
+  },
+  {
+    "message": "The sunset was dazzling. Perhaps thanks to that, the chill of dread from last night's battle began to soften."
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan pulled it off, didn't she」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A 'worry bug,' huh…… Misa's amazing, isn't she, Paqy? She figured it out right away」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Phew, good grief. Now I don't gotta worry about getting abducted by Hisu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, you're relieved about the completely wrong thing」"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "message": "天と地が喰らう勝負"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Listen carefully, Ms. Extra. First, I, Lolotte Rosenkreuz, shall explain what Student Council activities are all about--」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, hey, Prez. Let's go hang out somewhere~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hey~~! Please listen to what I'm saying!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No way, bleh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-wh-wh-what is with that ridiculous attitude?!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I mean, Lolo-chi is just a lowly underling in the Student Council, right? Totally pointless to listen to」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「H-How could you~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now. Lolotte isn't an underling at all. She's a proper Student Council secretary, after all」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right, ahem」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Don't puff out a chest you don't have, it's embarrassing」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't want to hear that from Ms. Extra~~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「A woman isn't judged by the size of her chest! It's all about sex appeal, ooh-la-la~\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now then, what should we do today?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ahh-ha~n\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Lolotte. Have any volunteer requests come in?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「--Hey, don't ignore me!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Today... Oh my. There's one from the Chairwoman.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「From Helena-san? She didn't mention anything earlier」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. It was actually just sent a moment ago.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It might be urgent. Let's take a look right away」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Greetings, members of the Student Council'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'About the girl I brought in earlier--she was wearing her outdoor shoes inside, so the hallway is probably super dirty'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Sorry to bother you, but please clean it up. From your beloved BOSS'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan, wait...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's floating, so 'tracking mud inside' doesn't even apply」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I bet that's it! They just wanted an excuse--an excuse to dump the cleaning on us!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Hmph, do you really need a reason every time you fight?'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Regardless of the reason, since we were asked, we must see it through. That is the mission bestowed upon us!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Since we're already at it, let's clean the Student Council room together too」"
+  },
+  {
+    "message": "And so, Lolotte, Sally-chan, and I ended up in charge of the hallway."
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeehaw!!」"
+  },
+  {
+    "message": "Sally-chan is using a mop like skates and sliding all around the hallway."
+  },
+  {
+    "name": "Synn",
+    "message": "「Heeey, that's dangerous~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right! Besides, you mustn't run in the hallw--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kyaa!?」"
+  },
+  {
+    "message": "Even Lolotte, who usually looks like she's about to trip without actually falling, loses her footing on the freshly mopped floor."
+  },
+  {
+    "name": "Sally",
+    "message": "「Pfft, so lame~」"
+  },
+  {
+    "message": "She turns around and laughs at Lolotte's pathetic state."
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan, behind you, behind you!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gah!!」"
+  },
+  {
+    "message": "Not watching where she's going, she crashes straight into the wall."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu... That hurts...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kyuru~n\\s07」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good grief... Every bit of this is that careless, reckless Omake-san's fault.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What did you say!? For an angel, you sure blame everything on me~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, whoa, stop fighting. Both of you, cut it out. At this rate, we'll never finish cleaning.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「This, that, the other, and everything else is all because Omake-san refuses to take things seriously!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You're one to talk, Lolo-chii--you've been doing nothing but flapping your gums this whole time~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's a proper order to doing things, you know!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「We only move our mouths when we're eating yummy food! That's what makes us the 'Delicious Food Squad~♪'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. Then let's do this. Let's have a contest to see who can clean the most thoroughly.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「A contest?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're sounding kind of like the Vice President.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't lump me in with him!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Our dueling ground is this hallway, overflowing with the chaos of filth. We'll compete to see who can restore peace to this corridor the fastest.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And what happens if we win?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The losers have to obediently do whatever the winner says.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooh, I like that! That means Prez and Rolochi will become my slaves, ushishishi」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're supposed to say lines like that after you win. I'm going to work you and the tagalong here to the bone, Prez~」"
+  },
+  {
+    "message": "Flames ignite in both of their eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yep. Pretty great idea, if I do say so myself. With this, the two of them--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on a second!! Why am I being counted as one of the competitors too?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Trying to get away without getting your own hands dirty--classic you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, how evil. I was planning on doing my fair share too, you know!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Bring it on!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Gladly!」"
+  },
+  {
+    "message": "No, not the competition--the cleaning."
+  },
+  {
+    "name": "Synn",
+    "message": "「Grrr... Looks like I really have no choice but to do this...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, Mr. Panda. Please act as our referee.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「No playing favorites, got it? Keep it fair, FAIR!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Alright. Just make sure you scrub your own turf until it sparkles. On your marks... ready, start!!」"
+  },
+  {
+    "message": "Everyone starts cleaning the hallway all at once."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Time's up!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehh, that was so fast~~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pfft, 'I didn't have enough time' won't fly as an excuse~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Th-th-that's not it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew--. Guess I barely made it in time.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh, I have a feeling this is going to be a close match.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well now. First, I'll judge Flatty.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Stop calling me Flatty!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ho, looks like you wet-mopped the whole hallway.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I did it super fast! That's a total V-sign for victory!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Except it's still soaking wet and hasn't been dry-wiped. Minus points.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Booo! Why?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Master Synn. Try walking over there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Sure, I don't mind--"
+  },
+  {
+    "name": "Synn",
+    "message": "Aaaah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you don't wipe it properly, that's what happens.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I went through all the trouble of cleaning it, so don't get it dirty!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What a harsh thing to say」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Now then, next is Angel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A-a-angel?! I'm no angel!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This was wiped down pretty carefully with a cloth.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How do you like that, Miss Bonus? This is what you call a difference in class.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Grrr, I'm not even frustrated or anything!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「However, there's still dirt left in the four corners. Someone must've fed you useless advice, huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The guidebook said to wipe in a circular motion, though」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Corners are where dirt builds up the fastest. That's how the world gets more and more \\{defiled|けが}. Minus points」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「H-How could you~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pfft, told you so」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And finally, Master Synn--now *this* is what cleaning is all about!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's that supposed to mean?! That's favoritism!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just because he's the President's pet doesn't mean you can cheat!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「From sweeping to mopping. Removing stains and stubborn grime, and then applying wax once the floor is dry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Putting down a coat of wax makes it harder for dirt to stick, you know~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Look at the dividing line between his area and yours. It's a gorgeous two-tone contrast, isn't it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Cleaning was his specialty to begin with, after all. The winner of this match is Master Synn」"
+  },
+  {
+    "name": "Sally",
+    "message": "「It's your fault for getting in my way, Lolo-chi!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're the one who got in *my* way, Ms. Extra!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Okay, okay, settle down. The losers have to do whatever the winner says, right」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Grrr, how humiliating!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I wanted to savor the taste of victory......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, you two make up」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that... all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yup. I'll teach you how to clean, so let's all work together and get the rest of this place spotless」"
+  },
+  {
+    "name": "Sally",
+    "message": "「All right, Lolo-chi. I won't lose next time!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll beat you right back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I just said we don't need to compete anymore\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, are you done~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. How about on your end?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All good. And guess what, Senpai says she'll treat us to tea and snacks」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Way to go, Senpai」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay, snacks~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I won't let you get a head start on me~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Slurp... Phew」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A cup after work really hits the spot!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Here you go, today we have dorayaki with mochi inside」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Mine!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hey, that one's mine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmm~~. Ahem!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「*Jolt*」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did something happen?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nah, just savoring the taste of victory. Slurp...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh... Captivating innocent young girls--I'd expect nothing less」"
+  },
+  {
+    "name": "Misa",
+    "message": "「D-D-Don't tell me you bribed them!?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you talking about. There's no way Synn has the financial muscle for that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just say I wouldn't do something like that, normally」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Phew-- Dorayaki is so yummy~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It tastes great when you have it with tea」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's bitter~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You're such a kid, Lolo-chi~ Let's see here」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gah, so bitter~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This bitterness is what you'd call a mature taste」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I see~ Figures someone with huge boobs would know」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That has nothing to do with it, Sally-chan\\s03」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Haaah, they look so yummy~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They're not food, bad girl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Slurp……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. Why are you looking off into the distance?」"
+  },
+  {
+    "message": "I casually looked away, so don't call me out on it!"
+  },
+  {
+    "name": "Sally",
+    "message": "「So if I clean, I get to eat dorayaki~~ Awesome~~\\s07」"
+  },
+  {
+    "message": "Sally-chan slumps onto the desk and lets out a voice full of bliss."
+  },
+  {
+    "name": "Ria",
+    "message": "「If you work even harder, maybe something even better will happen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't react to that!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, Extra-san still lacks devotion. You'll have to try much harder if you wish to stand shoulder-to-shoulder with me」"
+  },
+  {
+    "name": "Sally",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee. You've finally come to understand my feelings. Being honest with yourself is a truly wonderful thing, you know」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You heard her, Soba」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why me!? She obviously means Misa!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't pass it onto me!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't hear an answer」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Dorayaki's so yummy~ Zzz……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, she's asleep」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And while floating, too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Good grief…… She's such a child」"
+  },
+  {
+    "message": "Saying that, Lolotte looks around restlessly."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What should we do…… She'll catch a cold if we leave her like this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Then I'll drape my jacket over her」"
+  },
+  {
+    "name": "Sally",
+    "message": "「H... Heavy...」"
+  },
+  {
+    "message": "Her expression suddenly turned grim."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's milk in it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Take it out!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So, what are we going to do about this girl?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can't just leave her sleeping here, right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not what I mean--I'm asking if we're going to keep having her help out with the Student Council」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She was actually working pretty normally, wasn't she」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How does she look to you, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She did keep getting in the way, yes, but she properly got done what needed to be done」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For today, let's give her credit as a bonus. With a heart as wide as the sky!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, having extra hands certainly doesn't hurt...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you think, Advisor」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I think it's lively and fun\\s04」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oyabin~~ It's so yummy~~ mumble mumble」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Gasp――!?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Crap, I completely forgot about Oyabin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You have to recycle cans and bottles, you know」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Thanks for the dorayaki! See ya later\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What a busy girl」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wonder when she'll come by next」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When she does, it looks like she'll fight with Lolo-chan again」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte is a big girl after all, right~?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Zzz... zzz... dorayaki... mumble, mumble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She was running around having a blast with Sally the whole time, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good grief. I can't tell which one is the real kid」"
+  },
+  {
+    "message": "Everyone looked at each other and smiled."
+  }
+]

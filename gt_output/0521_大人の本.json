@@ -1,0 +1,195 @@
+[
+  {
+    "message": "大人の本"
+  },
+  {
+    "message": "Leaving the entrance of the new school building, I head straight for the library."
+  },
+  {
+    "message": "With less than a month until the Holy Night Festival, the Student Council is swamped."
+  },
+  {
+    "message": "As if in response, the Demons are showing ominous signs of activity too, keeping us constantly on guard."
+  },
+  {
+    "message": "And then, there's Re―Crea―"
+  },
+  {
+    "message": "I'd looked into the Demons at the library before, though I didn't turn up anything noteworthy."
+  },
+  {
+    "message": "There's no harm in trying, so today I'll go look for any books written about Re-Crea."
+  },
+  {
+    "name": "Helena",
+    "message": "「You're a lifesaver, Melilot. I haven't had the time to look for one myself.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Think nothing of it. Here you are--this is my top recommendation for a mystery novel.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, looks intriguing. What kind of story is it?」"
+  },
+  {
+    "message": "When I arrived, Melilot-san was handing a paperback book to Helena-san in front of the library."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello. Do you like detective stories, Helena-san?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, I'm Helena, the woman who nibbles on any wonderful story regardless of genre\\s04」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「*Chuckle*...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aww, how mean~. You're supposed to chime in and say I have no restraint.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「How one engages with books varies from person to person. While there may be right ways, there are no wrong ones.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, I don't read enough to puff out my chest and call myself a reader...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my? I've been reading all sorts of books since before my boobs even puffed out, you know?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Th-That's admirable, but couldn't you phrase it differently? Good grief.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Let's see...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The very first night I ever stayed up till dawn, I was reading a detective novel.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Greeting the morning without having slept.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Just from that alone, I felt like I wasn't a child anymore.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! I felt the exact same way the first time I pulled an all-nighter.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The night was much longer than I'd imagined. Plenty long enough for Santa Claus to walk around handing out presents.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Fufu, that's quite a charming comparison coming from you, Helena.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And so, Synn-chan. I'm really looking forward to the Holy Night Festival, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh...! I'll do my very best.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「S-So that was just a setup to put pressure on Sakura-kun...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well come ooon, Synn-chan, you came to the library, didn't you?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Which means you're gonna spend some fun time together with Melilot... What's wrong with me getting a tiny bit jealous and teasing you?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will not do anything weird with Sakura-kun!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Something weird? I only said a warm, exciting little moment, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... Do you mean that for you, Helena-san, while you like books, the time spent choosing them is just as delightful?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ding-dong♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Helena... I understand that feeling.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, and I love the gentle smile you have when you're reading a book in the library, Melilot.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「H-Hey! Isn't that embarrassing...!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Whaaat, are you blushing?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, and also. I love your profile lit up by the reading lamp, and the shape of your hand pointing at the bookshelves. I can picture it even with my eyes closed.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「U-Ugh...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「T-The culprit in that novel is Yasu! The protagonist's assistant!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa... What a massive spoiler...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, it's fine, okay? You can figure out the culprit right away from the pacing and the phrasing of the dialogue anyway.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Rather, I find the charm in the process of deduction and the back-and-forth between the characters.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「See ya, Synn-chan. I'm leaving you in charge of calming Melilot down!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That sounds harder than preparing for the Holy Night Festival, though...」"
+  },
+  {
+    "message": "Parting ways with Helena-san, I headed into the library as if chasing after Melilot-san."
+  },
+  {
+    "message": "Without any need for me to calm her down, the moment Melilot-san started her librarian duties, she put on a calm and collected demeanor."
+  },
+  {
+    "message": "...There wasn't a single book about Re-Crea."
+  }
+]

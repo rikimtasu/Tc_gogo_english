@@ -1,0 +1,662 @@
+[
+  {
+    "message": "オッパイ山ｉｎ神戸市三宮"
+  },
+  {
+    "message": "All the exams were finally over."
+  },
+  {
+    "message": "We'd done everything we could; now all that was left was to leave it up to fate."
+  },
+  {
+    "message": "After school――"
+  },
+  {
+    "message": "The Student Council members and their friends gathered in the Student Council room as if it were the most natural thing in the world."
+  },
+  {
+    "message": "Comparing answers, complaining about how hard studying had been, bragging about guessed topics hitting or missing the mark, and so on."
+  },
+  {
+    "message": "At any rate, everyone clearly wanted to release their tension and share in the joy together all at once."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, won't the new Student Council treasurer even serve a single cup of tea to her guests?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Why is Bubuzuke here!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I had plans to go hang out with Ria today, you know?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Before that, Ria said she had a quick errand in the Student Council room, so I just tagged along with her.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sorry, Ayanishiki-chan. I'm brewing the tea right now!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'll use the highest-grade tea leaves the Student Council has. Please wait just a moment longer.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh, you really don't have to do all that. Please don't trouble yourself.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why, you little Bubuzuke! You're just trying to pick a fight with me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grr... I'll mix some dirty rag water into yours. Drip, drip~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san, what a horrible thing to do!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't worry. Nanaka's just dripping in some honey she prepped beforehand.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, don't go spilling the beans!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Sakura-kun, you really know Nanaka-san well, don't you?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahahaha, well, we're stuck with each other by rotten luck, you know?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What a silly girl you are, Nanaka-han. 'Rotten luck' means an ill-fated bond, doesn't it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Ahahaha, well, even if it's rotten, we're still childhood friends.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Why do you gotta phrase it like that? Sip, sip, gulp, gulp.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ooooh, a stinky relationship!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「When Oyabin burps after eating a beef bowl with extra green onions, it's super stinky too!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't lump Synn and me together with something like that!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As for the relationship between the two of them--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go, Misa, I brought the hot water. All that's left is Misasagi-senpai and Shio-chan's shares, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, ours can wait until after... Hey, hold on, Sakura-kun, what is the meaning of this?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Boil it properly until it's piping hot! Brewing black tea with lukewarm water is completely out of the question!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Treating Synn-sama like a tea boy and scolding him--that's a classic hysteric for you.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Gulp, gulp, phew~! Nana-chan, seconds on the black tea, hurry, hurry~. I want lemon tea this time~.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Read the room! Don't go guzzling it down just because you think it's free!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's free?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Please, come on in. There's a seat for you too, Azel-san?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「The student council is so lively~. Everyone gathers around. Lap, lap, splash, splash.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sally-dono, I must question those manners... Black tea is not meant to be scooped up and drunk one spoonful at a time, you know?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eh~? Because doing it this way is more fun and tastes better.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I get it! Even with Mr. Ramen, slurping up the soup using the handle end of the soup spoon tastes way better!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I used to do that too.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's the right way to do it. Etiquette is just etiquette, after all. Put stiff manners second--when it comes to tea and grub, the one who enjoys them most wins.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay, I got praised~! Thank you~.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Here, your tea.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Much obliged, Sister.」"
+  },
+  {
+    "message": "On top of the table."
+  },
+  {
+    "message": "A tape recorder sits prominently as if to say, 'Come on, press the play button!'"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Boop~.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Sacchin. Even though you're my best friend, you really don't fear a thing...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Good morning, members of the Student Council.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Heya, Chairwoman!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, it is already time for 'good afternoon' rather than 'good morning,' you know.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Good afternoon, members of the Student Council and its affiliates.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Real-time? I wonder where big sis is hiding.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「First of all, good work on your exams.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Furthermore, regarding your mission for today--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, I don't understand what 'furthermore' is doing there.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I am issuing you a special order to take the day off.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yahoo!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, every day is Sunday for you, Sally-chan.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Focus on work when it is time to work, and play with all your might when it is time to play. Things go much more smoothly that way.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, maintaining a good balance is the key to living a sparkling school life.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, hey, if the Chairwoman is saying that, does it mean our play money comes out of the Student Council budget?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Lucky! Let's play the claw machines at the arcade a ton! They just stocked limited-edition Blackuma plushies!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「--Where?! Which arcade?! Tell me!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hehe, the world is not that sweet. Making dreams come true in the adult world is hard work, after all.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We are still children, though?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I swiped the stamp card Melilot saved up from shopping district mail―orders out of her wallet―ahem!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Through Melilot's generosity, she kindly gifted us her stamp card. Go live it up in the shopping district.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You mean the one pinned underneath the tape recorder?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, that one.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You've got sharp eyes, Sacchin.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, you can't exactly go all out with just stamp cards, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoaaa! There are dozens of them! You can use these reward points at every shop in the shopping district--we really *can* live it up!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, at a conservative estimate, it's worth fifty thousand yen.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「F-F-F-Fif--?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「F-F-F-F-F-Fif, fifty th-th... mgh... eh... gah!! M-My heart...!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaaah?! Hang in there, Synn!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Prez, don't fall asleep! If you fall asleep, you'll die! Wake-up slap!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow-ow-ow-ow-ow!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot spent ten grueling years steadily saving these up.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amazing, ten refracting years. No wonder the librarian turned out so blunt.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa?! A throwing knife!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a message from Jiiya.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's see... 'I have also accumulated three years' worth of stamp cards. If you like, please put them to good use together,' it says.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, there are cards taped right onto the hilt.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Amazing~ Even though the windows and doors are all shut, where did it fly in from~?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Thanks, Tamiko-chan!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Again!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's see... 'Think nothing of it, Helena,' it says.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「T-Tamiko?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's Jiiya's real name. Didn't you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Whaaat?! You mean to say Sir Jiiya was using a professional alias?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「P-Professional alias... He's not a geisha, you know.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He's quite the accomplished performer, though?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Aaaah! I dedicated a prayer plaque wishing to become a master like Sir Jiiya--I must rewrite the name on it at once!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now that we're done with business, this tape will automatically--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Here it comes, the classic trope!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone, run!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Nanaka-han. Alley-oop... there!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Don't grab me by the scruff of the neck and use me as a shield!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Geeves always says that the human body serves as an effective cover against hand grenades.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eeeeeek!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「--automatically rewind, so please bring it to the chairwoman's office later.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Haaah~... Tapes are getting expensive these days, you know. Everything's switched over to CDs and DVDs.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kyu-ping! So this thing's expensive. I'll take it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No you don't. I told you before that stealing is wrong, didn't I?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hmph, I remember! But the Chairwoman'll totally trade me for it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「True, knowing Big Sis, she'd probably agree in a heartbeat.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, they are sisters, so there's no tellin'. Still, if it's an item that catches the Chairwoman's eye, it'd have to be somethin' pretty extraordinary, wouldn't it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see, so Sally-chan doesn't have anything that good, huh.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ufufunofu~, I actually bought something super rare from a Demon World mail-order catalog the other day!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Rummage, rummage, rummage... Ta-daaa! The Terrifying, Vicious Hundred-Demon Hell Agony Mega-Boob Potion, 'Oppanium'!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Amazing. To think Sally-san could actually pronounce kanji with that many strokes!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aah, so that's the part you're surprised about~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's another blatantly shady product name. Don't tell me its effect is literally just--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun, you mustn't listen!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa? Why are you covering my ears?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「That's right! Even smooth, flat-as-a-board itty-bitty boobies will turn all boing-boing and bouncy-wouncy if you use this potion!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm already plenty well-stocked myself, so... I reckon the Chairwoman wouldn't be needin' any either, don't you think?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You just looked at me for a split second, didn't you!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yours are impressive, Nana-chan~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't call them impressive! You sound like an old man!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Setting myself aside for a moment... let's see, among the Student Council officers, Lolotte-chan is the smallest――」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Wawah~!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「S-Sacchin just got sniped!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fueh? It's a phone call from Jeeves」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hello, it's me. Yes, yes... I see, understood. Keep up the good work~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There was a venomous scorpion on Sacchin-san's shoulder, so Jeeves accidentally went and took it out with live ammunition, it seems」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So that's what happened, thank you~. I'm completely unhurt, though I kinda thought I was gonna die~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, don't actually believe that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Actually, a bit late to ask, but where is Riesling-san even sniping from without breaking the window glass?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's been going on this whole time? How did a bullet come flying in without breaking the window?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shut up already, and keep your eyes closed too!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, I can't hear you」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, yes~, I have a brilliant idea. The person with smaller boobs than me is that person right there」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Will they get bigger!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sir Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sally",
+    "message": "「They totally will~! Even I got this huge thanks to using the sister product, 'Kyonyuum'!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「No, no, no, no, no, no?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What on earth happened? I've never seen Azel look so dejected」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san is surely troubled about having a small chest」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So Azel really was worrying about it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go, everyone. We're dragging Azel along with us to hang out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And let's go get something sweet somewhere! Whenever you're sad or angry, sweets are the best medicine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's our Synn, you totally get it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did you remember to bring your loyalty card? Let's make a reservation at Chocolat l'Or right away!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Give it a rest with the showy talk. For a girl whose heart's all aflutter, Koumeika's chestnut yokan is the obvious choice, wouldn't you say?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Western pastries are just greasy junk at the end of the day... No matter how much you eat, it'll all just go straight to your belly, you know?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Traditional Japanese sweets, on the other hand, go straight to your boobs」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「R-Really...!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm lying, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, Ayanishiki-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr! Don't get all high and mighty just 'cause your boobs are a little big!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...How did this conversation turn into a talk about boobs?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「J-Just forget it! Hurry up, we're going to invite Azel-san!」"
+  },
+  {
+    "message": "Misa grabs my hand."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hmm」"
+  },
+  {
+    "message": "Pulled along by the hand by Misa, I chase after Azel."
+  },
+  {
+    "message": "It looks like the final day of exams still has a long way to go."
+  }
+]

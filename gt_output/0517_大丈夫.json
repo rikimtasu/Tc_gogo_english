@@ -1,0 +1,253 @@
+[
+  {
+    "message": "大丈夫"
+  },
+  {
+    "message": "Let's give it everything we've got for the Holy Night Festival! At the same time, though, we can't take our eyes off the demons' movements either."
+  },
+  {
+    "message": "Helena-san might have caught wind of something about the Demon Generals, right? Let's go ask her."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heave-ho, heave-ho...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san?」"
+  },
+  {
+    "message": "Cardboard boxes are stacked high in the Kujo residence's parking area, and Melilot-san is carrying them one by one toward the front entrance."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh, Sakura―kun? Good aftern―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Waaah!?」"
+  },
+  {
+    "message": "Melilot-san ends up dropping the cardboard box, sending a huge pile of potatoes rolling across the ground."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ngh, uuugh~!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll help you pick them up」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Thank you. That's a big help」"
+  },
+  {
+    "message": "Melilot-san and I gather up the potatoes together. Even with sweat beading on my forehead, the air around the Kujo mansion feels refreshing."
+  },
+  {
+    "message": "It smells of rich soil and deep greenery damp with morning dew. Come to think of it, I hear there are fir trees growing in the garden."
+  },
+  {
+    "name": "Melilot",
+    "message": "「And that should do it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this whole mountain of cardboard boxes all potatoes?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Eggs and chicken, cranberries and watercress, assorted fruits, and ground ginger」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Over here we have shallots and spearmint, sherry and rosemary, plus canned anchovies as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hmm, are these snacks to go with drinks? There's sweet stuff mixed in for that, though...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「They're ingredients for Christmas dishes. Goodness, Helena is getting ahead of herself」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She's surely planning to make test batches before the actual day」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heave... ho」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't carry them all by yourself. I told you I'll help」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Both you and Helena-san are being way too distant. If you'd just said the word, I'd have come running right away」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun. Despite how she may seem, Helena does not mix public and private matters」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... But she called you over like this, didn't she?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe」"
+  },
+  {
+    "message": "Melilot-san and I hold a single cardboard box together, matching each other's breathing as we carry it slowly."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Normally, we would have the staff carry these inside the mansion, but it seems they're quite busy...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, so that's why they're piled up like a mountain」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Upsy-daisy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... where is the all-important Helena-san?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, sorry to keep you waiting, Melilot\\s04 Oh, Synn-chan's here too, perfect timing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah... Helena, did you bring the hand truck?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da! Look, look, it's my new phone♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Never mind that, please bring the hand truck!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're completely in 'personal' mode, aren't you...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yep♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu, Melilot and Synn-chan's very first joint task, snapped!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Why are you taking pictures without asking!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Teehee, just kidding. I brought the hand truck, just like I was supposed to」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Honestly, Melilot, you're so impatient. You didn't have to go out of your way to carry it by hand if you'd just waited for me to get here」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Gasp!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... now that you mention it, that's true」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aaaand--we're--doooone♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huff, puff, huff, puff--even using a hand truck, we still had to use sheer manpower on the front entrance stairs!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Mmm, that flushed red face of yours is adorable, Melilot\\s04 Let me take one picture, okay」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No way!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... it seems like I'm getting in the way, so I'll take my leave soon」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aww, leaving already? Big sis is sad, you know」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Since we're all here, let's take a commemorative photo of the three of us.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Helena, in that case, shouldn't we invite everyone from the Student Council too?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's a good idea. Well then, I'll go call everyone over.」"
+  },
+  {
+    "message": "About thirty minutes later, the usual crowd gathered and we took the photo."
+  },
+  {
+    "name": "Melilot",
+    "message": "「It's alright. Everyone is here.」"
+  },
+  {
+    "message": "A few days later, Melilot received the data from Helena and handed out printed copies of the photo for each of us while saying those words."
+  },
+  {
+    "message": "Everyone really is here."
+  },
+  {
+    "message": "I think to myself as my eyes trace over each person one by one."
+  },
+  {
+    "message": "Melilot and Helena, huddled shoulder to shoulder in a tight squeeze in front of the Kujou mansion."
+  },
+  {
+    "message": "Ria-senpai, smiling wryly after getting teased by Helena."
+  },
+  {
+    "message": "Misa, puffing out her cheeks and sulking because she couldn't stand next to Ria-senpai."
+  },
+  {
+    "message": "Lolotte, her eyes sparkling as she looks curiously at all the Christmas goods."
+  },
+  {
+    "message": "Nanaka, blocking Paqy from clinging onto Ria-senpai with a beaming smile."
+  },
+  {
+    "message": "Azel, looking away while still pressed up close against everyone."
+  },
+  {
+    "message": "And me."
+  },
+  {
+    "message": "Everyone's here, not a single person missing."
+  },
+  {
+    "message": "Everything's okay."
+  }
+]

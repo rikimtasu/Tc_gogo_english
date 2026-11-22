@@ -1,0 +1,652 @@
+[
+  {
+    "message": "恋は煩い、皆うるさい"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Well then, my lady. Have a safe trip.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes♪ Thank you, Jeeves.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte. Have a good day.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, I'm off♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah...! That's right. You should use this guidebook as a reference and go see all sorts of places in the Human World.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eh... ah, yes...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Lolotte. Morning!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah. Good morning, Mr. President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning to you too, Amyrina.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ah... g-good morning...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seeing her off with Riesling?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes!\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. It'd be nice if you transferred in too, Amyrina, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooooh!! That might just be a brilliant idea!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we ask Helena, maybe she could pull some strings?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U-Um. Th-That's--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Once it's decided, no time like the present~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, you two!! Over there, over there!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on! You're causing a disturbance for the students in a place like this!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Anyway... okay? Stop crying--」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Sniff, sob... Shut up, old hag!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How dare you do that to my dear sister!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you insult my sister, I won't forgive you!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Um, so you're not going to deny it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me, coming through~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, well, Ardin-san. Did you come back to get beaten up again without learning your lesson?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「*Hic*, *sniff*... ngh. I lost... There's no making excuses for it now」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're surprisingly graceful in defeat.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「First of all, why did you attack us in the first place?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Since when do you need a reason to fight?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, you're one of the Seven Demon Generals, so don't you have some strong convictions?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「W-Well... I wouldn't say I don't...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I knew it. As expected of one of the Seven Demon Generals, you're totally different from other demons.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「S-Stop it, you\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just the other day, I met another one of the Seven Demon Generals, and they gave off the same kind of vibe.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「N-No way, was it Soltia or Virus...? If it was, heh. Well, that's not bad at all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I don't know who they are, but it's probably best not to mention it was Eauderourke."
+  },
+  {
+    "name": "Ardin",
+    "message": "「You're--uhh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I'm Synn Sakura, the Student Council President.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「O-Oh, right. In deference to your spirit as president, I'll tell you all about my magnificent convictions.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Word has it that you guys in the Student Council have been bullying a certain girl.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Who on earth could it be? Someone who would do such a wicked thing!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Apparently they're working her to the bone at some shop called Prier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At Prier...?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「And on top of that, seems like you lot became Crusaders and have been getting in the way all over the place.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You make it sound as though we're the villains here.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Which is why I've stepped up like this to protect that girl!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And what exactly are you to this girl, Mr. Ardin?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「W-Well, that's... S-Stop it\\s03 That's embarrassing, y'know?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Th-That's... plainly what they call unrequited love!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Idiot!! It's mutual, I tell ya!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa~~ How wonderful~~\\s04」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I could die for that girl!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~~!!」"
+  },
+  {
+    "message": "I see. So Lolotte is interested in romance too..."
+  },
+  {
+    "name": "Synn",
+    "message": "「U―Um, hey, Lolotte―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Devoting yourself to the one you love, even at the cost of your own body. I admire that~~\\s07 Don't you agree, Mr. President♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see... So that's the kind of thing Lolotte is into.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Right? So, Student Council! Let me beat you nice and clean!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Unfortunately, we cannot do that.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Please!! I'm begging you!! Groveling!!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Ew, so lame. You're one of the Seven Demon Generals, don't you have any pride?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Huh!? What was that!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, well, if it isn't Ms. Extra.」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「O-Oh... What's this\\s03 Sh-She's kinda cute, ain't she...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaaat?!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, Prez!! What's with that reaction?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right!! Losing your head over another girl--and a mere child like Bonus-san, no less--cheating is a crime!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Kuhah!! My bad, my bad. What's gotten into me, getting dazzled by a woman other than Pasta-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「C'mon, Prez♪ Sally-chan's gonna knock you dead with her sexy beam\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh--?! Bonus-san, please stop doing weird things!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Why're you getting in the way, Lolo-chi!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Both of you, stop!! Just now, Ardin said Pasta...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Italian food?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Pasta... san?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「You bet! When you talk about Pasta-chan, she's the idol of the Demon Generals. One of the Seven Demon Generals, just like me!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「For the record, I'm the idol of the Demon World♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not what I mean! Speaking of Pasta, you know... from Prier」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aaaah!! The waitress!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... Pasta was a demon?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I didn't notice at all...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What, Lolo-chi, you didn't know? How lame」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you noticed, please tell me!! I'll sue you for breach of trust!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that means we got in Pasta's way, and Ardin got mad about it and attacked us」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pasta!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uooooh, Pasta-chan! Could those bags be a homemade meal just for me?!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「No, nya!! It's my first errand, nyan! This is for Prier--」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Wait, this is no time to be working seriously, nyan! Ardin!! What is the meaning of this, nya!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I came to beat up the Student Council for your sake, Pasta-chan!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Though you're the one who got beaten up, Ardin-san」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Please! Keep that a secret!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't need to keep the fact that you're a demon a secret?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Yeah, that part's okay!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「That's the top-secret part, nya!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Huh……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Idiot Ardin! Pasta went to all the trouble of sneaking in undercover…… All the patience up till now has gone down the drain, nyan!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I see, Pasta-chan……. It's all the Student Council's fault, isn't it」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「It's your fault for being way too stupid, nya!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「D-Don't say something so cruel～～\\s06」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「The operation is a failure now, nyan!! All the hard work up till now is ruined, nyan! Mooo～～～ At this rate, Virus-nyama is going to hate me, nyan!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「B-Virus, you say?! I'm way cooler than a guy like him!?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Idiot Ardin!! Idiot Ardin!! Virus-nyama is obviously the best, nyan!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Uooooh, stop calling me an idiot!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What even is this」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm…… This is what they call a pair of lovey-dovey idiots\\s04」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「S-Stop it, you\\s03」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「We are definitely not a couple, nya!! Pasta's maiden heart is already battered to pieces, nya……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I'm quitting Prier already, nya!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「N-No way…… Reconsider! I want to see more of Pasta-chan in her waitress outfit!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Everyone! Assemble, assemble, nya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!! There's a ton of demons!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「All-out attack on Ardin, nya!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「W-Whoa! S-Stop it--!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「And so, I've been in your care to a nauseating degree, nya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What kind of 'and so' is that……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please make good use of this experience and do your best at your next shop, okay」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ginyaaa!! I'm never doing something like being a Waitress ever again, nyan!! I'm going home!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Commanding that many Demons…… She really was a Demon General……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What a surprise~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I wonder why Pasta snuck into this academy in the first place」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is, surely…… love!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Love……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For Lord Virus-nyama, like whether she loves him or hates him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I see」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's what you call a love romance……\\s04」"
+  },
+  {
+    "message": "W-What's going on. Lolotte has been super interested in love affairs for a while now."
+  },
+  {
+    "name": "Ardin",
+    "message": "「Ugh…… That was awful……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You got dumped spectacularly, didn't you」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Pfft, how uncool~」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Shut up! Shut up! Shut up!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Damn it. To think she'd be head over heels for a guy like that……」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Still, with that guy, looks are about the only thing he's got me beat on…… Tch! How am I supposed to get Pasta-chan to turn her head my way!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, cheer up already」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Oh! Right! I've got you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Heh heh heh. If these guys pitch in, I might even be able to beat that Virus to a pulp」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um...」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Thanks for cheering me up! In return for that kindness, I, the lone wolf Ardin, will lend you guys a hand!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Truly, this is the power of love!!」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「I-In exchange, though! When I'm in a pinch, you'd better come save me, got it?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What should we do, President?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I think it's fine. It's way better than having him cause trouble.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then it'll depend on the time and place」"
+  },
+  {
+    "name": "Ardin",
+    "message": "「Yeah, looking forward to working with you!」"
+  },
+  {
+    "message": "Ardin joined the party!"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, not bad at all. Taming a wild beast like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, Helena...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right. Even the 'King' of Beasts doesn't stand a chance. Yes, yes, that's the Synn-chan I know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Here's a present for you♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I know, you know. How hard you've been working to keep the peace at the academy. I've been watching the whole time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Hmph, I see through everything'」"
+  },
+  {
+    "message": "Sometimes, I can't help feeling like this joke might actually be true."
+  }
+]

@@ -1,0 +1,847 @@
+[
+  {
+    "message": "弱い貴女は美しい"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if Azel is having fun?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...Shouldn't that be 'I wonder if he's actually doing his job?'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe so, but... you know」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, our mysterious transfer student doesn't exactly know how to have fun, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Exactly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, Azel...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...There he is」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Away from the crowd, Azel stood holding his camera aimed up at the sky."
+  },
+  {
+    "message": "Looking in the direction the camera was pointed, a red balloon was floating against the blue sky."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "I thought he was going to take a picture, but."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel just kept his finger resting on the button."
+  },
+  {
+    "message": "Before he took the shot, the balloon drifted higher and higher into the air."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong?」"
+  },
+  {
+    "message": "I ran over to Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Oh, it's you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How's it going?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, why didn't you take that picture just now?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...What does it matter」"
+  },
+  {
+    "message": "Azel turned his face away and began walking briskly."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, um」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About how many photos have you taken?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's totally fine if you don't feel like taking any. It's not like there's a quota or anything」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「It's stew packed full of farm-fresh potatoes!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Smells so good--! Looks delicious!」"
+  },
+  {
+    "message": "Azel suddenly looked up."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oh, is that so! Well then, I'll throw in a little extra for you」"
+  },
+  {
+    "message": "Following his gaze, Shinaoba had a broad smile on her face as she handed Sacchin a bowl brimming with stew."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa. What am I gonna do with this much--」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, there's always room for dessert, so it'll be fine--」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「If you like it, be sure to become a regular of ours」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Always thinking about business, huh--」"
+  },
+  {
+    "message": "It was just an ordinary exchange, yet Azel pointed his camera at the two of them."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "However, his finger resting on the shutter button hesitated for some reason."
+  },
+  {
+    "message": "While he hesitated, Shinaoba started attending to another student."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mmm, so good, so good」"
+  },
+  {
+    "message": "Just watching her eat made it look delicious."
+  },
+  {
+    "message": "Once again, Azel aimed his camera, his finger resting on the button."
+  },
+  {
+    "message": "I thought he'd actually take the shot this time, but..."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "His finger on the button kept hesitating."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That was delicious--」"
+  },
+  {
+    "message": "Sacchin ended up finishing the stew."
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Of course it was! My husband's eye for ingredients is nothing to sneeze at, you know」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're totally right--, I'll spread the word to my friends too--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Without taking a single picture, Azel turned on his heel and started walking away."
+  },
+  {
+    "message": "Oh, so that's what it is."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just because this is a Student Council activity doesn't mean what you take pictures of is set in stone. You can photograph whatever you want」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even a seemingly ordinary scene is totally fine」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for not telling you beforehand」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Why are you apologizing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're thinking you have to take photos that look strictly like official records, right, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Huh, no?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... you already took a ton of pictures and you're worried about running out of shots?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, there's a computer at headquarters, so you can save the image data you've taken so far there and start taking new ones」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry for not explaining enough」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...That's not it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It isn't?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I haven't taken any」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not even one?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel hesitated for a moment, then gave a small nod."
+  },
+  {
+    "name": "Synn",
+    "message": "「But it's not like there weren't any sights you wanted to shoot, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, don't worry about the number of shots or anything--just take pictures however you feel like」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……?」"
+  },
+  {
+    "message": "Suddenly, Azel raised his face."
+  },
+  {
+    "message": "When I looked in the direction his gaze was turned--"
+  },
+  {
+    "name": "Man",
+    "message": "「……」"
+  },
+  {
+    "message": "Beyond the crowd stood a tall man dressed in a strangely eye-catching outfit."
+  },
+  {
+    "message": "He was looking at Azel too."
+  },
+  {
+    "message": "No, that wasn't it--he was looking at Azel and me."
+  },
+  {
+    "message": "For some reason, a strange, tingling sensation echoed at the core of my head."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Man",
+    "message": "「...Oh?」"
+  },
+  {
+    "message": "The man narrowed his eyes for an instant, and a smile suddenly appeared on his lips. The strange sensation echoing inside my head vanished."
+  },
+  {
+    "message": "The man started walking toward us."
+  },
+  {
+    "message": "His gait was graceful; even though he was cutting straight through the sea of people, he didn't even make a show of dodging the crowd as he strode briskly closer."
+  },
+  {
+    "message": "A sense of intuition bordering on certainty surfaced in the back of my mind."
+  },
+  {
+    "message": "That sensation had already disappeared, yet I knew that person wasn't an ordinary human."
+  },
+  {
+    "message": "Just as I started to step forward to shield Azel--"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need」"
+  },
+  {
+    "message": "A cold voice cut me off."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "The man, who had made his way right in front of us before I knew it, let out a faint wry smile."
+  },
+  {
+    "name": "Man",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Turning toward me, he spoke."
+  },
+  {
+    "name": "Man",
+    "message": "「How vexing. To think that I, a gentleman, would be mistaken for some sort of ruffian who runs wild without regard for the setting. Perhaps my training is still lacking」"
+  },
+  {
+    "message": "I opened my hands, which I had clenched without realizing it. My palms were damp with sweat."
+  },
+  {
+    "message": "His eyes stopped on Azel's digital camera."
+  },
+  {
+    "name": "Man",
+    "message": "「Still, what brought about this change of heart?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Man",
+    "message": "「To think that you, of all people, would seek to leave behind a record of this world」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "For some reason, Azel averted her eyes."
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's just a whim.」"
+  },
+  {
+    "name": "Man",
+    "message": "「Hmm. A whim, is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... do you know him?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wha--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Impossible!」"
+  },
+  {
+    "name": "Man",
+    "message": "「I wonder about that? After all, we have just become acquainted like this.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Man",
+    "message": "「From this moment on, that makes us acquaintances.」"
+  },
+  {
+    "message": "What a pushy guy."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Forget it.」"
+  },
+  {
+    "name": "Man",
+    "message": "「While it is my motto to grant a beautiful woman's wishes to the best of my ability...」"
+  },
+  {
+    "name": "Man",
+    "message": "「Regrettably, I pride myself on my memory when it comes to ladies.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "The man laughed with amusement,"
+  },
+  {
+    "name": "Man",
+    "message": "「That the three of us should meet here must be fate. Would you mind taking a commemorative photo for us?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh, well...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I refuse.」"
+  },
+  {
+    "name": "Man",
+    "message": "「That is terribly unfortunate.」"
+  },
+  {
+    "message": "muttered the man, not sounding particularly sorry at all,"
+  },
+  {
+    "name": "Man",
+    "message": "「Though your refusal is only natural. Because you already know.」"
+  },
+  {
+    "message": "With a theatrical flourish, fluttering the trim on his cuffs and spreading his arms wide,"
+  },
+  {
+    "name": "Man",
+    "message": "「That every sight before us is nothing more than a fleeting bubble, destined to vanish like an illusion.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「! ...I--」"
+  },
+  {
+    "name": "Man",
+    "message": "「You, that boy, myself, and all the people chatting so happily around us right now--every last one will fade into nothingness.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's...」"
+  },
+  {
+    "message": "Sensing fear in her voice, I looked at Azel."
+  },
+  {
+    "name": "Man",
+    "message": "「At the very least, this current world will be lost. It can never be reclaimed」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But, that's...」"
+  },
+  {
+    "name": "Man",
+    "message": "「Yes, you know it. You know it better than anyone」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I know. But」"
+  },
+  {
+    "message": "I didn't know why, but Azel was frightened. She was bewildered."
+  },
+  {
+    "name": "Man",
+    "message": "「Heh. This is unexpected」"
+  },
+  {
+    "name": "Man",
+    "message": "「You are beautiful when bewildered. You are beautiful when troubled」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not troubled or anything」"
+  },
+  {
+    "name": "Man",
+    "message": "「You are beautiful when wavering」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm not wavering」"
+  },
+  {
+    "name": "Man",
+    "message": "「Above all, you are beautiful when weak」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please stop!」"
+  },
+  {
+    "message": "Before I knew it, I was standing in front of Azel."
+  },
+  {
+    "name": "Man",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I don't need you to protect me--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel is scared. I can tell」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Th-That's not...」"
+  },
+  {
+    "message": "I looked the man straight on."
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't understand what you're saying at all. But Azel hates it. She's scared. So please stop」"
+  },
+  {
+    "message": "His gaze locked onto me."
+  },
+  {
+    "name": "Man",
+    "message": "「How intriguing. That you, of all people, would shield her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean」"
+  },
+  {
+    "name": "Man",
+    "message": "「It wouldn't be very entertaining if you got the answer so easily, now would it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't dodge the question!」"
+  },
+  {
+    "name": "Man",
+    "message": "「You will understand. In the very near future, whether you want to or not. Because you two are the very ones at the center of this grand current--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That's enough!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Give it up already, you pickup artist!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa! Shio-chan!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Step away from Lady Azel and Sir Synn, and submit to capture quietly!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, Sakura-kun is so unreliable! If you can't even properly protect a single girl, you're not cut out to be Student Council President.」"
+  },
+  {
+    "name": "Man",
+    "message": "「Well, well, what a gallant and lovely Valkyrie. I fear I might be overcome by the sheer passion with which you pursue me.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Speak not such nonsense. It is not out of fondness that I pursue you!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When I see a scoundrel like you disrupting the order, my blood of justice boils!」"
+  },
+  {
+    "name": "Man",
+    "message": "「To set a maiden's blood boiling so passionately... It seems I truly am a sinful man.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... Misa. What's going on here?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This pervert has been wandering around the venue all morning, hitting on girls indiscriminately like some kind of lecher!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that what happened?!」"
+  },
+  {
+    "name": "Man",
+    "message": "「'Lecher' is quite hurtful. Calling out to a beautiful woman when one spots her is simply a gentleman's etiquette. It is the same nature as a honeybee drawn to the nectar of a flower.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ridiculous! To persistently pester someone who clearly dislikes it makes you nothing more than an insolent fool who knows no bounds!」"
+  },
+  {
+    "name": "Man",
+    "message": "「I do not recall pestering anyone, however.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Were you not just pestering Lady Azel right before our eyes?!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Ah, I see. So I happened to provoke your jealousy, is that it?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「If you do not submit to capture at once, I may have to subject you to a rather painful experience--is that acceptable to you?」"
+  },
+  {
+    "name": "Man",
+    "message": "「Quite acceptable. Receiving a woman's passionate advances is also the destiny of a handsome man.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Here I come!」"
+  },
+  {
+    "message": "With a whoosh, her naginata flashes through the air. The man dodges effortlessly, barely seeming to move."
+  },
+  {
+    "name": "Man",
+    "message": "「I have certainly witnessed your passionate strike. However, to keep me tied down here, it seems you are still a little lacking in love.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Why, you smart-mouthed--!」"
+  },
+  {
+    "message": "With another whoosh, her naginata flashes once more. Yet the result remains the same."
+  },
+  {
+    "name": "Shio",
+    "message": "「Curse you, darting around like that」"
+  },
+  {
+    "name": "Man",
+    "message": "「Irritating a lady excessively is not my intention.」"
+  },
+  {
+    "message": "The man turned his gaze toward Azel and me."
+  },
+  {
+    "name": "Man",
+    "message": "「Since you've also treated me to a sight one rarely gets to see, I suppose it's about time I took my leave」"
+  },
+  {
+    "message": "Saying so, he gave a bow."
+  },
+  {
+    "name": "Man",
+    "message": "「Farewell」"
+  },
+  {
+    "message": "Just as a massive flurry of rose petals suddenly swirled wildly through the air, the man used them as cover and ran off."
+  },
+  {
+    "name": "Shio",
+    "message": "「Wait up!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, get back here!!」"
+  },
+  {
+    "message": "Isn't he supposed to vanish into them instead......"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Tch...... Wh-What is it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......Well, if you say so」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you think that guy was trying to say?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Didn't you figure it out, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's not even worth thinking about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......Is that so?」"
+  },
+  {
+    "message": "Without even looking at my face, Azel declared with unusual bluntness."
+  },
+  {
+    "name": "Azel",
+    "message": "「It was all just nonsense」"
+  }
+]

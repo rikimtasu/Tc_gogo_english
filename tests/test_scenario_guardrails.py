@@ -222,8 +222,10 @@ class ScenarioAndContainerTests(unittest.TestCase):
         cpk2 = CpkArchive(content_first)
         self.assertEqual(cpk2.file_base, cpk2.content_offset)
         self.assertEqual(cpk2.read_entry(cpk2.entries()[0]), b"TIM2")
-        with self.assertRaises(NotImplementedError):
-            cpk2.rebuild(self.root / "fail.cpk", {"btl_a.tm2": b"X"})
+        rebuilt_cf = self.root / "rebuilt_cf.cpk"
+        cpk2.rebuild(rebuilt_cf, {"btl_a.tm2": b"NEW_TIM2"})
+        cpk2_rebuilt = CpkArchive(rebuilt_cf)
+        self.assertEqual(cpk2_rebuilt.read_entry(cpk2_rebuilt.entries()[0]), b"NEW_TIM2")
 
     def test_eboot_string_extraction(self) -> None:
         buf = bytearray(0x180000)
@@ -237,7 +239,10 @@ class ScenarioAndContainerTests(unittest.TestCase):
         if REAL_EBOOT.exists() and REAL_EBOOT_JSON.exists():
             real_res = extract_eboot_strings(REAL_EBOOT.read_bytes())
             self.assertEqual(real_res["count"], 73)
-            self.assertEqual(json.loads(REAL_EBOOT_JSON.read_text(encoding="utf-8")), real_res)
+            tracked = json.loads(REAL_EBOOT_JSON.read_text(encoding="utf-8"))
+            for s in tracked["strings"]:
+                s["en"] = ""
+            self.assertEqual(tracked, real_res)
 
 
 if __name__ == "__main__":

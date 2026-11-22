@@ -1,0 +1,646 @@
+[
+  {
+    "message": "トップシークレット"
+  },
+  {
+    "message": "The Holy Night Festival has begun, and we're busy preparing for the events starting one after another."
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan. Shouldn't you head over to your club soon?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, ah, yes!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But... are you sure it's okay...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Go on. The maid cafe is one of the events livening up the Holy Night Festival, after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nanaka-san. Even I'm stepping out later to prepare for the choir. If you don't go, it'll make it harder for me to leave too.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-But I didn't help with the preparations yesterday...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You'd been preparing for it nonstop before that, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well... yeah, that's true, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll be fine. Leave it to me! After all, I am an angel!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your race has nothing to do with your ability.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yes.」"
+  },
+  {
+    "message": "Ria-senpai pointed sharply at the door."
+  },
+  {
+    "name": "Ria",
+    "message": "「Go.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you don't go, from now on I'm going to call you 'Spineless Nanaka-chan' forever.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Understood! Thank you very much!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*」"
+  },
+  {
+    "message": "Still, I wonder how the maid cafe is doing."
+  },
+  {
+    "message": "No, it wouldn't look good if even I slipped out."
+  },
+  {
+    "name": "Ria",
+    "message": "「Understood.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure you don't need to head out?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's fine.」"
+  },
+  {
+    "message": "I wonder what they're doing at Nanaka's maid cafe. I'd love to drop by."
+  },
+  {
+    "message": "Still... the Student Council President can't just slip away right now, can I."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun. Why don't you take a break soon?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But I didn't help with the preparations yesterday, and...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, everyone's busy, so as Student Council President, I can't just slip away......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. Saying that while fidgeting so much isn't very convincing, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「F-Fidgeting? What are you talking about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. You made a promise with Nanaka-san, didn't you? That you'd drop by the Sweets Club's maid cafe.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She did ask me to come see it, and of course I said I'd go, but......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「......*Sigh*」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「True, you didn't make a promise. But Synn-sama! If you don't go when a girl invites you, a harem will stay a pipe dream forever!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't have any dream like that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Fidget, fidget*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just go already! We'll manage somehow even without you around, Sakura-kun!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see right through you, Vice President! You're planning to become Student Council President even if it's just for that time, aren't you! *Sparkle*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Am not!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「When she asked you to come see it, you didn't turn her down, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And you want to go, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......Yes.」"
+  },
+  {
+    "message": "Ria-senpai pointed sharply at the door."
+  },
+  {
+    "name": "Ria",
+    "message": "「Then go.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The two of you really are such a handful......」"
+  },
+  {
+    "message": "If I remember right, the Sweets Club's maid cafe is......"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Mr. President. Mr. President. Over here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Why are you here, Misasagi-senpai?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You sure took your sweet time. Did you eat lunch and take a nap or something?」"
+  },
+  {
+    "message": "It looks like it's closed, though..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it okay for me to go in?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「What are you holding back for? Hurry on inside.」"
+  },
+  {
+    "message": "Inside the decorated maid cafe booth are two familiar faces."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, Fuyuka-san... Even Tanimura-san?!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Sakura-san. Good afternoon.」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Hello.」"
+  },
+  {
+    "message": "Next, Okamoto-san appeared."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait... those clothes.」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Welcome, Master. Right this way, please.」"
+  },
+  {
+    "message": "Wearing a uniform I feel like I've seen somewhere before, Okamoto-san shows me to a seat."
+  },
+  {
+    "name": "Synn",
+    "message": "「Could this uniform be...」"
+  },
+  {
+    "message": "Chocolat l'Or's."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes. I lent them to them.」"
+  },
+  {
+    "message": "I picked up the menu and opened it."
+  },
+  {
+    "message": "Cream puffs. Cheesecake. Shortcake. Orange ganache. Apple pie."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Every single one was handmade by Sacchin and Yumil, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Huh.」"
+  },
+  {
+    "message": "So Nanaka was the only one who didn't make any cakes..."
+  },
+  {
+    "message": "I'm a little disappointed."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「They barely managed to make it in time for today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Make it in time...? You mean learning how to bake them?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Complete amateurs can't just imitate professionals out of nowhere and expect things to go well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Though there was one reckless person who tried.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Sorry for the wait!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Ahem.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Thank you for waiting, dear customers!」"
+  },
+  {
+    "message": "Sacchin serves Fuyuka-san, Tanimura-san, and Misasagi-senpai."
+  },
+  {
+    "message": "And Nanaka brings out the sweets for me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...H-H-H-Here is the e-e-eclair you ordered.」"
+  },
+  {
+    "message": "Nanaka was so nervous she looked like she might have a seizure at any second."
+  },
+  {
+    "message": "An eclair? That wasn't on the menu, though..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this...?!」"
+  },
+  {
+    "message": "Placed in front of the four of us were eclairs packed with chocolate chips inside cream so abundant it looked ready to overflow."
+  },
+  {
+    "message": "Vividly reviving on my tongue was that rich, sweet, yet somehow refreshing flavor of generous fresh cream."
+  },
+  {
+    "message": "The slightly bitter chocolate chips paired exquisitely with the fresh cream."
+  },
+  {
+    "message": "I looked at Tanimura-san."
+  },
+  {
+    "message": "The manager merely smiled back."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan. Relax, relax.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-O-Okay. A-Ahem.」"
+  },
+  {
+    "message": "Nanaka looked at me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「P-Please e-e-enjoy your meahl, ow!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「A-Are you okay, Nana-chan?! Did you bite your tongue?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm fhine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I see."
+  },
+  {
+    "message": "Nanaka has spent the past month or so practicing how to make this sweet!"
+  },
+  {
+    "message": "Probably this sweet and nothing else."
+  },
+  {
+    "message": "With the help of Fuyuka-san, Tanimura-san, Misasagi-senpai, and everyone in the Sweets Club."
+  },
+  {
+    "message": "Could it be."
+  },
+  {
+    "message": "No, I shouldn't hide behind vague hedging like 'could it be.'"
+  },
+  {
+    "message": "She made this for me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Umm. S-Synn. If y-you don't want to eat it--」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You wouldn't mind being called a coward for the rest of your life, would you now?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Of course I would!」"
+  },
+  {
+    "message": "Nanaka glared up at me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, please, I'm begging you! Eat it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Gladly.」"
+  },
+  {
+    "message": "I picked up the eclair."
+  },
+  {
+    "message": "Just like in my distant memories, it was stuffed nearly to bursting, giving it a heavy heft."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka was looking at me. With pleading eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks for the food.」"
+  },
+  {
+    "message": "I took a big bite."
+  },
+  {
+    "message": "A sweet... no, overly sweet cream flavor spread through my mouth."
+  },
+  {
+    "name": "Synn",
+    "message": "「Crunch.」"
+  },
+  {
+    "message": "That huge lump I unexpectedly crunched down on must have been an unchopped chunk of chocolate."
+  },
+  {
+    "message": "Bitter chocolate shards mixed with overly sweet, overly rich whipped cream. A thick, gloopy harmony."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "The pastry shell lacked puffiness and crispness, having no bite to it whatsoever."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Yet the chocolate coating on the shell was way too thick and way too hard."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "So, the conclusion was..."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Why...? Following the recipe, with that sense of taste, how did it end up tasting like this...?」"
+  },
+  {
+    "message": "Touka-san tilted her head in puzzlement."
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Hmm... hmmm... hmmmm...」"
+  },
+  {
+    "message": "Tanimura-san looked at a loss for what kind of expression to make."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Thanks for the meal, kindly.」"
+  },
+  {
+    "message": "Misasagi-senpai remained strangely composed."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-How was it!?」"
+  },
+  {
+    "message": "Everyone's eyes were focused on me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Um...」"
+  },
+  {
+    "message": "I hesitated for just a moment."
+  },
+  {
+    "message": "Should I tell her the truth?"
+  },
+  {
+    "message": "Or should I give the socially acceptable answer you'd give to a girl who worked so hard for my sake?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Wait a second! I-I need to brace myself!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Inhale, exhale. Inhale, exhale. Inhale, exhale.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okay! Hit me!」"
+  },
+  {
+    "message": "Because it was Nanaka--"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's bad.」"
+  },
+  {
+    "message": "I answered."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Waaah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks. For being honest with me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You made it, didn't you, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do you get it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I get it」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Thank goodness--Synn-kun didn't foam at the mouth and collapse--」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There's no need to worry 'bout that. After all, we're still alive and kicking」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yeah, totally」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Even so, I simply cannot accept this. After all that effort, and with Nanaka-san's talent, to end up with this result……」"
+  },
+  {
+    "name": "Tanimura-san",
+    "message": "「Yes, indeed. I believe it ought to taste much better than this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that the end of it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way! I'll keep making it until you say it's delicious, Synn!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you don't mind, that is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll stick with you until it turns out delicious」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I won't accept that unless you stick with me even after it gets delicious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course!」"
+  },
+  {
+    "message": "Nanaka looked straight at me."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……And also, Synn. Maybe it's a little late to say this now, but」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I love you!」"
+  }
+]

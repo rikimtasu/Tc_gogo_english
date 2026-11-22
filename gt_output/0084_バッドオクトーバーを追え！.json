@@ -1,0 +1,510 @@
+[
+  {
+    "message": "バッドオクトーバーを追え！"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've been putting in some steady sales efforts of my own, you know!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What an admirable attitude.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And so, this is a vital mission ordered directly by the librarian.」"
+  },
+  {
+    "message": "For some reason, that librarian in the distance―Melilot―is letting out a sigh."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's the Angel Squad's debut match, huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're not going to retort?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Never mind that. Now, let's announce the all-important operation name. Go ahead, Senpai.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「'Track Down the Missing Top-Secret Document!'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, what a lively title!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Apparently, a certain book has been missing for a few days now.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A certain book?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a novel called 'A Maiden's KISEKI is 10 Billion Light-Years,' though.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What is with that embarrassing title? That's not top-secret at all.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Let's not say that♪」"
+  },
+  {
+    "message": "Having lost to Lolotte's enthusiastic sales pitch, she decided to give them the request for now."
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa, what's wrong?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No... it's nothing.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How strange. I'm sure I returned that book right after reading it the other day. Could someone other than me have...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Apparently, it went missing just recently.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nobody checked it out, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. It wasn't in the lending records.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And I don't think you can sneak things out of this library without permission either~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which means there's a high chance someone read it and just left it somewhere inside the building, huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To summarize, that's about the gist of it.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I really don't think Melilot-san would ever overlook something like that, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「By the way, what kind of book is it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Apparently it has a cute, pastel-ish design. They say it's obvious at a glance just by looking at the spine.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just like the prompt says, I bet it's a girls' novel!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Anyway, let's split up and search. I don't really want to think about it, but there's a chance it was stolen, too.」"
+  },
+  {
+    "message": "At her grave tone, everyone swallowed hard."
+  },
+  {
+    "message": "Even looking at the spines lined up on the bookshelf, the matching title is nowhere to be found."
+  },
+  {
+    "name": "Misa",
+    "message": "「Not that one. Not this one either.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe it's over here~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why are you coming over here?! There's no point if we don't split up!」"
+  },
+  {
+    "message": "Having been yelled at out of nowhere, I reluctantly head somewhere else."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm. I see.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you reading what's inside?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Oh, I did it again. Even though this isn't the time to be doing something like this.」"
+  },
+  {
+    "message": "She gives her own head a light knock with her fist."
+  },
+  {
+    "name": "Synn",
+    "message": "「I totally thought you were checking the contents too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, whenever I find something that looks interesting, I just end up getting absorbed in it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. It's just like getting lost in a book you find while cleaning.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heehee, yes, it is.」"
+  },
+  {
+    "message": "Though, I don't even own enough books to need to clean them out."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, this is the exact same thing Melilot-san would do, isn't it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because she might have accidentally overlooked it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like Ria-senpai said too, she's really reliable, so I don't think she'd make a mistake like that.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so? Then maybe someone ate it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha, it's not like we're talking about Paqy here.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You finally remember me after all this time, and that's how you treat me? That's harsh, man.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. Panda. Since you went through the trouble of coming out, please cooperate with us.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's see... This library is neatly organized. No, it's organized a little too well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, the person managing it is that kind of guy, after all.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The spines are all lined up nice and even. This ain't a bookstore, so there's no need to go out of the way to display the covers or the insides.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmm-hmm.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「When it's kept this clean, anyone putting a book back is bound to be careful too. That's only natural when things are arranged this meticulously.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A completely, perfectly managed bookshelf. And an incident that happened within it. Rather than blindly searching for the answer, I think we oughta look for anything that feels out of place.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see.」"
+  },
+  {
+    "message": "I gather everyone together for a moment and share the information from Paqy."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Something out of place, huh? I don't really come here much in the first place, so I have no clue.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're useless.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In that case, asking a regular is our best bet\\s04」"
+  },
+  {
+    "message": "Saying that, Ria-senpai shifts her gaze toward Misa and gives a cute wink."
+  },
+  {
+    "name": "Misa",
+    "message": "「Ehhh?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's nothing to be embarrassed about, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right, Vice President. There's no need to feel bad just because you don't have many friends.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I do not have few friends! I just like reading!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If it's you, Misa-chan, maybe you'll notice whatever's out of place?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aah, Onee-sama is counting on me... I have to show her my best side here!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Leave it to me.」"
+  },
+  {
+    "message": "With Misa leading the way, we look around."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There are so many~. Could it be that every single book in the world is in here?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahaha, come on, there's no way. I'm sure it won't end with just this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We don't have the space to store them, after all. Still, we want to collect as many different titles as possible, so no matter how popular a book is, we never stock multiple copies」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is that so~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds like people are gonna fight over them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's got nothing to do with you, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, isn't that...!?」"
+  },
+  {
+    "message": "Misa cried out and picked up a certain book."
+  },
+  {
+    "name": "Misa",
+    "message": "「This book... they had it at the library, too」"
+  },
+  {
+    "message": "It was a book titled 'The Snow-Clad Woman'."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Now that's a classic piece of pure literature」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're surprisingly knowledgeable, even though you're just a panda」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, so you read books like this, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, r-right, right. I do! Got a problem with that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I think it suits you」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha--! A-A-Are you making fun of me!?」"
+  },
+  {
+    "message": "Why am I getting yelled at?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That part where the couple stranded on the snowy mountain yells 'Somebody help us!' and then an avalanche hits and that's the end really makes you cry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, yes, that's right. I just couldn't stop crying at that part」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's no scene like that. In fact, I've never even read it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-Th-There is too! A touching scene just like that!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Urgh... *sniff*... Someone hurry and go save them... Mr. Rescue Worker...」"
+  },
+  {
+    "name": "Misa & Paqy",
+    "message": "「……」"
+  },
+  {
+    "message": "Ria-senpai was reading it and crying."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It seems a bear truly did come out of the gourd, didn't it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Roro-chan, pick one--are you an idiot or sharp?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aaah!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Kyaaah, you mustn't raise your voice in here--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Aaah--!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's wrong?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...All the mysteries have been solved.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Really!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Another copy of this same book must be sleeping somewhere in here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeh!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Anyway, let's look for it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah. Got it.」"
+  },
+  {
+    "message": "A book with the same title was found right away."
+  },
+  {
+    "message": "On the outside, it was a completely ordinary copy of \"The Snow-Covered Woman.\""
+  },
+  {
+    "name": "Misa",
+    "message": "「I think you've already got a hunch, but--」"
+  },
+  {
+    "message": "While speaking, she flips open the cover."
+  },
+  {
+    "name": "Misa",
+    "message": "「Library books have their dust jackets firmly taped down so they last longer.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmm-hmm.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This book hasn't had that done to it. Which means the dust jacket can be removed!」"
+  },
+  {
+    "message": "And then, she slowly removed the dust jacket. Inside it was, lo and behold!"
+  },
+  {
+    "name": "Synn",
+    "message": "「A Maiden's KISEKI is 10 Billion Light-Years!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aren't you embarrassed saying that out loud?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amazing! How did you figure it out!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-That's... intuition, intuition. What you'd call a great detective's intuition.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mission accomplished! Way to go, Misa-chan.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Uu... I feel so guilty. Still, I'm happy.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh my? The Vice President's name is listed on the checkout history.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It really is.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And on top of that, you were the last one to borrow it」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa―chan, is this―」"
+  },
+  {
+    "message": "When everyone looked over at once, Misa was sitting in seiza, writing a letter of apology."
+  }
+]

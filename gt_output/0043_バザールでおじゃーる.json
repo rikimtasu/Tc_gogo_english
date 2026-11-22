@@ -1,0 +1,257 @@
+[
+  {
+    "message": "バザールでおじゃーる"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We collected quite a lot of unwanted items!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Amazing, amazing, there's even more than last year」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a bumper harvest and a big catch~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's with spacing out like that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. I was just thinking about something」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What, what, did you come up with some fun idea!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since I know a lot of people there by sight, I'm pretty familiar with the shopping district, but…… I realized it's surprisingly unknown」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, yeah. I only go there once in a while myself, so today was fun with all the different discoveries」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to know more and more!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The fact that the shopping district folks are willing to help out means they care about our school, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Everyone's so easygoing. If you ask them, 'Wanna set up a stall at the school?' they'd jump right on board」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Stalls, huh~~. It sounds fun if the school is lined with tons of shops」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. That's it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How about we ask the shopping district folks to participate in the Charity Bazaar too」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmph?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since the shopping district is right nearby, I want our students to get to know it better and shop there more」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So basically, it's good publicity for the shops, and it'll liven things up for the academy」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~~ I see!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold it right there!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is a charity event, you know? Getting too commercial strays from the original purpose, I think」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then couldn't we just put the stall fees toward the donations?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Or even a portion of their sales, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, would the shopping district merchants agree to having money taken from them?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Rolo-chan."
+  },
+  {
+    "name": "Nanaka",
+    "message": "That's what you call an 'advertising expense'!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oooh~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, not every single one of them is necessarily going to go along with it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's why we just need to look for shops willing to cooperate and approach them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For most shops, one word from the top settles it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A real community-based festival, huh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Naturally, my family's place is joining in too! Yuugiri-an, Ryuusei Academy branch. We're gonna donate all our sales!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How generous of you, Madam Treasurer♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, isn't that something your dad has to decide, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's fine! Just leave it to me!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But Synn-kun. To pull this off, we have to hold a 'General Assembly'......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It means that to decide on something this important, the whole student body has to properly discuss it together」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Student General Assembly is next month, huh. The bazaar will be over by then......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Student Council Bylaws, Article 14--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When the executive board deems it necessary to deliberate on important matters concerning the council's activities, or upon request by one-fourth or more of all members......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「An extraordinary Student General Assembly may be convened」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So let's put together the agenda by then. Something that all the students will properly approve of」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whoa... Misa-chan, that's wonderful\\s05」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No, it's nothing like that...\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh. So you weren't against it after all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course not. I was just making sure it wasn't a half-baked idea.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-W-What did you say--!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Listen well, Nanaka-san. Once we, the Ryuusei Student Council, approve something, we will see it through no matter what.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ooh, bring it on!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. Let's see who can come up with the better agenda item... It's a contest!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, let's just work together on this.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's the spirit, that's the spirit. We're finally starting to feel like a real Student Council.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. Things are going to get tough from here on out, but a sparkling school life is definitely waiting for us beyond that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Honestly, just pulling this off is gonna make everything sparkle! I'm totally inviting a cake shop!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aah... So many shops, so many dreams.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And what's more, the fact that it'll tie into a fundraising drive is just so wonderful!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's not set in stone yet, so we all have to do our best, okay\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes!! Leave it to me!」"
+  }
+]

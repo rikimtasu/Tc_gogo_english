@@ -1,0 +1,741 @@
+[
+  {
+    "message": "欲望の連鎖と交差"
+  },
+  {
+    "name": "Misa",
+    "message": "「Does this look good for the Holy Night Festival schedule?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds good to me~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I agree~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No objections\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks solid to me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course it does. Well then, that wraps it up for today. Good work, everyone」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thank you for your hard work~~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan, where are we stopping by today~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to eat meat buns~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wanna come along too, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A little detour every now and then doesn't sound bad」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright!! What about you two?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm going too~♪ Of course you're coming as well, Synn-kun, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry... I'll pass. I have somewhere I need to stop by」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tame-san's place?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, something like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「*Sigh*... Go easy on the junk collecting, alright?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I know」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have a good time, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah...」"
+  },
+  {
+    "message": "After parting ways with everyone, I walked wherever my feet took me."
+  },
+  {
+    "message": "The deeper I went into the academy grounds, the quieter it grew."
+  },
+  {
+    "message": "There wasn't a trace of life. I couldn't sense the presence of beasts or insects, let alone people."
+  },
+  {
+    "message": "It was like a forbidden sanctuary. And I was being lured into that very place."
+  },
+  {
+    "message": "An unprecedented sensation, like something rubbing my nerves the wrong way, washed over me."
+  },
+  {
+    "message": "It was quite literally beyond anything a human could do."
+  },
+  {
+    "message": "If that was the case, I could only think of it as the work of a demon."
+  },
+  {
+    "message": "And that demon was intentionally calling me here."
+  },
+  {
+    "message": "It was proof that they knew I was special."
+  },
+  {
+    "message": "I couldn't just ignore someone who knew my true identity."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Key of Demise. I am one who submits to thy will」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ms. Sengenin...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Shh」"
+  },
+  {
+    "message": "Ria-senpai pressed a soft index finger against my lips."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you here...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why, you ask... Well...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-Because you... weren't around, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Never mind that! That's Ms. Sengenin, the student teacher, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Changing her outfit really changes her whole vibe, huh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This isn't the time to be impressed! Anyone can tell there's something going on with her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if she's the one who called me...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Senpai. No matter how you look at it, this is super suspicious, right?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah... I think there's no doubt she's a demon」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's call for backup for now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, where are you going!? I'll call them on my cell phone--」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「It seems someone has slipped into my space.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Crusaders.」"
+  },
+  {
+    "message": "She burns away the foliage obstructing her view. In the blink of an eye, we are exposed."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I took reasonable care to avoid being noticed, you know.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I never imagined I'd be found out at the very last moment. Perhaps I underestimated your powers of observation.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「That was a grave miscalculation.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Professor Sengenin. What in the world is the meaning of this?」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「There is no need to tell you. That is my answer.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, it doesn't look like you plan on letting us go.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「When you had no intention of running away in the first place.」"
+  },
+  {
+    "message": "Was that smile praise, or was it pity?"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「However, that choice is a mistake.」"
+  },
+  {
+    "message": "I reel backward from a gust of wind pressure that hits like a lead weight."
+  },
+  {
+    "message": "Transforming as if to shake it off, we deflect the overflowing magic power."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「The power of an angel...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「For an angel to be subservient to a human--what a pathetic fate you've met.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you talking about...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Do those about to perish have any need to understand?」"
+  },
+  {
+    "message": "The instant her eyes open wide, the trees let out a thunderous roar."
+  },
+  {
+    "message": "And razor-sharp wind blades graze my skin."
+  },
+  {
+    "message": "Pushed backward, her figure grows distant. Bracing myself against it, I try to inch forward."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「I don't recall giving you permission to move. Stay pinned right there... and die!!」"
+  },
+  {
+    "message": "With a swing of her staff, we lose all sense of gravity."
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!」"
+  },
+  {
+    "message": "Heaven and earth flip upside down, and I am slammed into the ground."
+  },
+  {
+    "message": "When I lift my head, she is standing right before my eyes with her staff at the ready."
+  },
+  {
+    "message": "Even though I hastily raise my spear as a shield, I'm blown away, tumbling head over heels."
+  },
+  {
+    "message": "Overwhelming...! My opening move was crushed before I could even look for a way to fight back."
+  },
+  {
+    "message": "Ria―senpai is―"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nghhh!」"
+  },
+  {
+    "message": "Even when attacking from behind, Sengenin had already laid traps all around to seal off her movements."
+  },
+  {
+    "message": "The trajectory of Ria's staff traces out a magic circle of flame, yet even as the lights collide, it isn't enough to cancel out her opponent's magic."
+  },
+  {
+    "message": "Ria-senpai is knocked back in the exact same way."
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「……」"
+  },
+  {
+    "message": "Saying nothing, she fixes her gaze squarely on us."
+  },
+  {
+    "message": "The sheer baseline power is on a completely different level."
+  },
+  {
+    "name": "Ria",
+    "message": "「...Tch.」"
+  },
+  {
+    "message": "Senpai breaks out in a cold sweat and bites her lower lip."
+  },
+  {
+    "message": "Before her expression is dyed in despair, I have to do something."
+  },
+  {
+    "message": "The very instant I think that, Ria-senpai cries out at the top of her lungs."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun, run!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'll hold her back. So...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you do that, Ria―senpai, you'll―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just run!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「How admirable. You care for this boy enough to throw your own body on the line to protect him, don't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun is... Synn-kun is...」"
+  },
+  {
+    "message": "She can't even form the words."
+  },
+  {
+    "message": "She's trembling so hard her teeth are chattering. How could she possibly draw out her full strength in that state?"
+  },
+  {
+    "message": "Despite being in that condition, she's trying to act as a decoy to let me escape."
+  },
+  {
+    "name": "Ria",
+    "message": "「Please... take care of everyone...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "message": "Senpai's resolve is firm. Is rushing back to everyone to call for reinforcements really the best move here?"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Even if you escape, do you truly believe there is any chance of opposing me?」"
+  },
+  {
+    "message": "Even if the Crusaders banded together right now, I don't know if we'd stand a chance of winning."
+  },
+  {
+    "message": "And yet, creating even that chance would require sacrificing Ria-senpai."
+  },
+  {
+    "message": "I refuse... I absolutely refuse to let that happen!"
+  },
+  {
+    "message": "Is there really nothing I can do?"
+  },
+  {
+    "name": "Synn",
+    "message": "「--?!」"
+  },
+  {
+    "message": "--No, there is!"
+  },
+  {
+    "message": "I have the power of the Demon Lord, don't I."
+  },
+  {
+    "message": "I have the power to turn the tables, honed day and night for this very day, this very moment."
+  },
+  {
+    "message": "If I unleash it, I can find a way out of this crisis."
+  },
+  {
+    "message": "Still, Senior Ria might find out that I'm the Demon Lord."
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "What does that even matter!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Spirit and... guts...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Which future will you choose?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll protect Senior Ria. With the power of the Demon Lord――!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「What...!?」"
+  },
+  {
+    "message": "I focus every nerve on a single strike meant only to make my opponent flinch."
+  },
+  {
+    "message": "Readying my weapon, I kick off the ground, build momentum, and lunge forward with explosive force."
+  },
+  {
+    "name": "????",
+    "message": "「I've been waiting for you」"
+  },
+  {
+    "message": "Someone stood in the Demon Lord's path."
+  },
+  {
+    "message": "Unarmed, he halted my momentum with nothing more than his own tough――stronger-than-steel fist."
+  },
+  {
+    "message": "The friction and shockwave from the collision are immense, carving a circular crater into the ground with us at the center."
+  },
+  {
+    "message": "I don't let up. I push forward even harder!"
+  },
+  {
+    "message": "He was smiling."
+  },
+  {
+    "message": "He looked delighted seeing me grit my teeth."
+  },
+  {
+    "message": "It was humiliating."
+  },
+  {
+    "message": "He was enjoying my final trump card."
+  },
+  {
+    "message": "I couldn't forgive him."
+  },
+  {
+    "message": "For the first time in my life, I felt true rage."
+  },
+  {
+    "message": "Yet he took my rage head-on and swallowed it whole."
+  },
+  {
+    "message": "His fist was raw and blistered, his skin scorched."
+  },
+  {
+    "message": "Even so, he remained completely composed, paying no mind whatsoever to the damage to his body."
+  },
+  {
+    "name": "????",
+    "message": "「Judging by this, it seems it's still incomplete」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who are you!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「My name is Virus」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "message": "One of the Seven Demon Generals Pasta spoke of, and a Demon hailed as the strongest."
+  },
+  {
+    "message": "All strength had already drained from my body, leaving me unable to even feel the oncoming shadow of despair."
+  },
+  {
+    "message": "Yes."
+  },
+  {
+    "message": "The end of everything was drawing near."
+  },
+  {
+    "name": "Virus",
+    "message": "「Let's go, Soltia」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What are you saying!?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Our objective is complete. We have no further business here」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The Demon Lord just appeared, and you're being so carefree...!」"
+  },
+  {
+    "message": "Ms. Sengenin--Soltia shakes off Virus and raises her staff against me."
+  },
+  {
+    "message": "Virus didn't even glance over, remaining completely motionless."
+  },
+  {
+    "message": "And yet--"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Guh...」"
+  },
+  {
+    "message": "The earth trembled, and Soltia's legs wavered."
+  },
+  {
+    "name": "Virus",
+    "message": "「Do not lay a hand on the Demon Lord.」"
+  },
+  {
+    "message": "Virus had interfered with Soltia."
+  },
+  {
+    "message": "Why are they turning on each other...? Why tell her not to lay a hand on me...?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn!」"
+  },
+  {
+    "message": "Seizing that opening, Ria-senpai threw an arm around my shoulder."
+  },
+  {
+    "name": "Ria",
+    "message": "「Now's our chance!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right...!」"
+  },
+  {
+    "message": "Squeezing out the last of my strength, I put distance between myself and the two standing there."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Virus. Why did you stop me?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Answer me!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Let's go.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah... hah... Are we... saved?」"
+  },
+  {
+    "message": "Confirming we were safe, I slumped right down onto the ground."
+  },
+  {
+    "message": "A heavy sluggishness washed over my entire body as my shoulders heaved with ragged breaths."
+  },
+  {
+    "message": "It wasn't just a normal fight--I had drawn out the Demon Lord's power to its absolute limit."
+  },
+  {
+    "message": "It was only natural that I'd be far more exhausted than usual."
+  },
+  {
+    "message": "In exchange for completely draining my body, my mind finally began to calm down."
+  },
+  {
+    "message": "A warm, soft sensation returned to my arm. Ria-senpai had been lending me her shoulder."
+  },
+  {
+    "message": "Ah, right."
+  },
+  {
+    "message": "I went and turned into the Demon Lord right in front of Ria-senpai."
+  },
+  {
+    "message": "My hair color changed, and I even went out of my way to announce my name."
+  },
+  {
+    "message": "On top of that, the enemy saw right through me."
+  },
+  {
+    "message": "There's no talking my way out of this or keeping up appearances anymore."
+  },
+  {
+    "message": "Farewell, my sparkling academy life."
+  },
+  {
+    "message": "Still, Ria-senpai is safe and sound... so, whatever~~\\s10"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai... are you okay?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? W-Wha-wha?!」"
+  },
+  {
+    "message": "Ria-senpai clung tightly to my body."
+  },
+  {
+    "message": "Both her shoulders and her lips were trembling."
+  },
+  {
+    "message": "Her body, which usually felt so big and reliable, now seemed as small as a kitten caught in the rain."
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank goodness... thank goodness... ugh, hic... Synn-kun, Synn-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai...」"
+  },
+  {
+    "message": "Her round eyes were drenched with tears."
+  },
+  {
+    "message": "Her knees gave out, and she leaned her entire weight against my chest."
+  },
+  {
+    "message": "Her trembling only continued to worsen."
+  },
+  {
+    "message": "Back then, she had actually been so terrified she wanted to run away."
+  },
+  {
+    "message": "Two opponents she stood no chance against had appeared at once. It was only natural."
+  },
+  {
+    "message": "Even so, driven solely by her title as my senior and her single-minded desire to protect me, she had forced herself to stay strong."
+  },
+  {
+    "message": "Now that the tension had finally snapped, the fear must have come crashing over her like a tidal wave."
+  },
+  {
+    "message": "So much so that she could barely even move from this spot without someone supporting her."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's okay. Everything's okay now.」"
+  },
+  {
+    "message": "I reached around to the back of her head and gently stroked it."
+  },
+  {
+    "message": "I was saved by Ria-senpai's courage."
+  },
+  {
+    "message": "Now it's my turn to save Ria-senpai."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ugh... ughh... Synn-kun, thank goodness... thank goodness...」"
+  },
+  {
+    "message": "Over and over again."
+  },
+  {
+    "message": "I stroked her hair and patted her back, comforting Ria-senpai as if soothing a child."
+  },
+  {
+    "message": "For a while--until Ria-senpai's trembling finally stopped--I held her curled-up body tightly, refusing to let go."
+  }
+]

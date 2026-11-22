@@ -1,0 +1,530 @@
+[
+  {
+    "message": "エスケープ・ゴート"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, Azel. Good morning」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is he asleep?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Asleep, you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sleeping feels soo~o good~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're the Student Council President, so no napping during the day」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it works~」"
+  },
+  {
+    "message": "Being Student Council President is tough."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Azel. Where are you going?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Class is starting~, and there he goes」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe the restroom?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel never ended up coming back, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is it really okay for him to act like that right after transferring in」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Escaping from class makes him a bad boy, doesn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Seriously, it's such a waste of tuition」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We should definitely say something to him, right」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course!!　"
+  },
+  {
+    "name": "Lolotte",
+    "message": "Doing what is right is our mission as the Student Council. Sabotage will not be tolerated」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're really fired up, Lolotte」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lately she's even been getting here earlier than us. Very admirable」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes."
+  },
+  {
+    "name": "Lolotte",
+    "message": "After all, I sneak out of homeroom to come here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You shouldn't ignore your own faults like that」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm sorry」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hello」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hello~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, here they come」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For now, everything we've come up with so far has been summarized like this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Thank you, Lolotte-chan」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not at all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...I see. So on top of how we've done things until now, we'll have the clubs and folks from the shopping district lend us a hand too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「With this, it looks like we'll get way, way more visitors coming」"
+  },
+  {
+    "message": "The newly reborn Charity Bazaar. As far as the content goes, I think we've gathered plenty of ideas."
+  },
+  {
+    "message": "However, something is missing."
+  },
+  {
+    "name": "Synn",
+    "message": "「Since we're going through all this trouble, I want to push the feeling that it's different from before more to the forefront, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, yeah. That'd probably catch everyone's interest better too」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then why don't we just go ahead and change the name too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The name...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Instead of Charity Bazaar, we'll come up with another name for it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nice idea!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then how about Super Charity Bazaar, or perhaps Special Charity Bazaar!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That doesn't really feel much different」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you have time to make rude remarks, please think of something yourself, Vice President」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, you can't let them beat you either, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hrmmm...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey. Do you remember what you said to all the students during your inauguration speech?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If I recall correctly, it was 'Leave your sparkling school life snugly in the hands of the Ryuusei Student Council!', right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's it!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's a little different, though\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You did declare it to the whole student body, after all. Synn's catchphrase」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you want the entire student body to accept it, I think you should make good use of that declaration」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then, how about something like, 'The Whole Student Body Cried!'?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not making use of it at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sparkling and shining... Ryuusei Academy... festival... fun...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sparkling, twinkling, heart―throbbing, you and me―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Wait, something like this is too embarrassing to say out loud!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've got it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How about 'Ryuusei Sparkle Festival'!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, sounds pretty good」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Guh, I was a tenth of a second too slow...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then, let's add that name to the proposal--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All done!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Congrats~~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sparkle Festival...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Or 'Sparkle Fest' for short?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「With this, Sparkle Fest is already in the bag!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about? The real battle starts now. After all, we have to take on the teachers and the entire student body」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hiee~u. You mustn't get into fights~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're working hard even with all these hurdles ahead」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course I am. Defeat is not an option for me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though it seems you can't beat the President?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...True. A draw doesn't count as a win, does it」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm moved by that spirit of refusing to admit defeat no matter what. I won't turn my back either--I'll throw myself into the fray!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen, Nanaka. We can't even run away in the first place」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come now, we haven't a moment to spare. Let's hurry and have the teachers take a look」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright. We're definitely gonna win!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Foh-foh-foh-foh-foh」"
+  },
+  {
+    "message": "Suddenly, the final boss appeared."
+  },
+  {
+    "name": "Helena",
+    "message": "「Fah-fah-fah-fah-fah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm scared, Big Sis\\s01」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'For someone talking about going for a stroll, you've sure got a dangerous look on your face...'」"
+  },
+  {
+    "name": "Helena",
+    "message": "「'Yes, just like a beast stalking its prey'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Th-th-th-that's not true at a~ll」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That look on your face... Don't tell me you're plotting something」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Flinch*, th-th-th, that's, n-n-n-not true, I'm telling you~!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan, you're totally busted」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's fine. It's not like we're doing anything bad」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It doesn't look like you're doing anything right either, though?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Nip the spark in the bud... as they say」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-Big Sis...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Synn-chan. Would you mind showing me what you're holding in your hand?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Please wait. This is something to be submitted to the teachers, not something to show to Chairwoman Helena」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, aren't you bold」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If afterward is acceptable, we will gladly show you as much as you like」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't see why not. Go ahead」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, wait!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If it's not a proposal everyone can get behind, we'll just rewrite it. Back to the drawing board」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not the kind of weak plan that'll just get shot down by Helena, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then have some confidence, come on」"
+  },
+  {
+    "message": "Without changing her expression, Helena takes the proposal from me and flips through the pages while giving it a light glance."
+  },
+  {
+    "name": "Helena",
+    "message": "「Who's the fire safety supervisor?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If there's any chance you'll be using open flames, you absolutely cannot forget to assign someone in charge of that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, I had no idea--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So that's how it works...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Also, the donation percentage isn't something for you to decide on your own. Settle that in consultation with the other party」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes, ma'am!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn. Did Helena seriously just read the whole thing with that quick glance?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it sure looks like it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So... how does it look?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Let's see. I'm confiscating this」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way. Was there something wrong with it...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Aside from the points I just mentioned, it's mostly fine」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then why?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll fill in the missing parts and try negotiating with the teachers myself」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You've probably been so caught up making this that you've left everything you actually need to do undone, right? First things first, finish all of that」"
+  },
+  {
+    "name": "Helena",
+    "message": "「By the time you're done with that--you're going to get busy preparing for Kirafes, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y... yes!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Helena-san. Thank you very much!」"
+  },
+  {
+    "message": "We all bow and see her off."
+  },
+  {
+    "name": "Synn",
+    "message": "「I pray... for your success!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ha-ha! Leave it to me!」"
+  },
+  {
+    "message": "She was in an unusually good mood."
+  },
+  {
+    "name": "Synn",
+    "message": "「Do everything we can and leave the rest to fate! Let's hurry up and finish our usual activities so we can get right to preparing for Kirafes!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, today's another day--」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Let's do our best!」"
+  }
+]

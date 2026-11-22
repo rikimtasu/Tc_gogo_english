@@ -1,0 +1,733 @@
+[
+  {
+    "message": "憂と優"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm hooome~~」"
+  },
+  {
+    "message": "With that, he collapses face-first onto his futon."
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's up, Demon Lord? You look wiped out.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmm~ Today was just one big exercise in futility after another~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, you get days like that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even at the closing meeting, nobody had any energy. Hope they're not feeling too down.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「They aren't the type to let something like that get 'em down.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, true.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm, wonder who that is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Grand Palace Sakura.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, Synn? It's me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Nanaka. Home already?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Nope, still on my way back. Honestly, Sacchin shows zero mercy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You lost the bet, so you can't really complain.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It was super tasty, though~♪ I ended up getting seconds without thinking.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you eat too much, you're gonna put on weight, you know.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm fine, I'm fine! I was making plenty of noise and moving around just as much!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Fat around your stomach doesn't come off that easily.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's that supposed to mean, Synn? So you wouldn't complain if that fat went to my boobs instead?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's not what I meant, though......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mfufu~. You dirty pervert.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!? In that case, I'd love for you to get a killer body that actually makes my heart race!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, you asked for it! Don't blame me when you get a massive nosebleed!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nobody gets nosebleeds like that anymore!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What, you look totally fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Yeah, I'm fine」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tch, what a rip-off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm out 10 yen! Pay up!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-That's unreasonable……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just kidding, it's a joke. Heehee, sounded just like you, didn't I, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if I thought that, I wouldn't say it out loud!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tahaha--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……Wh-Th-That's so sudden, no fair……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, see you tomorrow」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, wait! Hold on--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your face is bright red」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sh-Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka again……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, thanks for your business. Sakura Fisheries here! What'll your order be?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I'm sorry! Wrong number」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Grand Palace Sakura.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, what was that just now!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What do you mean?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What on earth is 'Sakura Fisheries' supposed to be!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Maybe you dialed the wrong number?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's the exact same number as before! Honestly, you're still joking around at a time like this?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. I just never expected you to call me, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, fine. Calling you out of the blue like this was rather rude of me too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, did you need something?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah, yeah. About Aseru... I'll call our match a draw for now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were we even having a match?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, you can't exactly measure how close two people are, can you? Besides, boys and girls getting all buddy-buddy is far too impure to condone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You think so? For example, I think you and I get along really well, Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't say such stupid things. You are my rival. Not a worthy adversary, just a plain rival. There's no way friendship could ever bloom in a relationship like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it is...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In the first place, between a guy and a girl, rather than friendship--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-Nothing! There's no way anything like that could ever happen anyway」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What, what?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Anyway! Starting tomorrow, we're competing in a different field, got it? Consider this a declaration of war. Bye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh. Good night」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good night」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Was that Misa's own way of cheering me up?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tough call, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Grand Palace Sakura.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Have I finally reached the President's residence!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, hey... Just how many wrong numbers did you dial, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, thank goodness. It really is you, President. Good evening」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You didn't save my number in your cell phone?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'll teach you next time. So, what's up?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. Regarding today's Student Council activities, I am thoroughly appalled at my own incompetence.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「After talking so big, I think it was a massive failure.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, you see. I'm looking for a way to be a bit more useful, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Would you happen to have any good ideas?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Say, Lolotte. Why do you want to get along with Azel so badly?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Um, well. Among my old acquaintances, there were many people similar to the transfer student.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Many...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why I can't think of it as someone else's problem, and I just end up sticking my neck in.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's 'stick your nose in' or 'butt in.' Though, I think being meddlesome is good too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Do you think so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. After all, being alone isn't any fun, right? Or do you prefer being alone, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「No, of course not! Being alone in my room like this is so lonely, I hate it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, me too.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I wonder if the transfer student isn't lonely...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He might not be lonely, but he sure didn't look like he was having fun.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Having fun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Did you already forget our declaration of resolve?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'Leave your sparkling academy life to the Ryuusei Student Council!' Right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah. Just like that! We've got to make all the students sparkle」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed!」"
+  },
+  {
+    "message": "Thank goodness. Looks like she cheered up a bit."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Um, Mr. President. Would it be alright if I called you like this from time to time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I don't mind」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very much! Then, next time please teach me how to do that number registration thing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure. Goodnight, then」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Goodnight」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The phone sure is busy tonight」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're Mr. Popular, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha-- I-I'm telling you, that's not it\\s01」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Still, you haven't gotten a call from Ria-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Grand Palace Sakura.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hello, is this the Sakura residence? My name is Ria Kujou. Is Synn Sakura-kun there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, this is Synn」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, thank goodness♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's an apartment phone, but I'm the only one here, so it's fine」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, old habit. Sorry about that\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Heh heh heh, tough luck」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, were you in the middle of something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, not at all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, you see. While I was taking a bath, something popped into my head and got me curious, so I called」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, so that means you just got out of the bath?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Mmmm~~♪ Feels so good~~♪」"
+  },
+  {
+    "message": "I-I wonder where Ria-senpai washes first, *thump-thump*..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry! So, what did you want to talk about?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well, it's about Azel--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha. I knew you were worried about her too, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? What do you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It wasn't just me--everyone on the Student Council actually called me about her」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wow... Everyone really does care about her, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That just shows how much of a shock it was for them」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see. Was everyone okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, totally. None of them are the type to let something like this get them down」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee, true」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You know, my big sister was unusually worried too. Even after we got home, she asked me all sorts of questions... It felt kinda weird~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be that she's actually a princess of Shalo-Ma studying abroad incognito or something」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe your sister's being cautious because it could turn into an international incident」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahaha... No way, that's impossible\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'd be pretty interesting if that were the case, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Interesting, sure, though I'd probably be too shocked\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san did ask me to look after her, too, but even putting all that aside, I just genuinely want to be her friend」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aaaah~~. Don't tell me you've got a crush on her~~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aaalright. As your senpai, I'll cheer the two of you on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You really don't need to do that!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aw, too bad. Juuust kidding\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on... give me a break」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No getting a head start on me, okay\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll be fine, probably...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Pro-ba-bly?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah! Th-that was just a figure of speech!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Teehee, your senpai sees right through everything, ahem!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha\\s02 I'm no match for you, Ria-senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Achoo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai?」"
+  },
+  {
+    "message": "What was that adorable sneeze just now."
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh no, I'll catch a cold talking on the phone dressed like this. I need to put some clothes on properly, ehehe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "message": "D-dressed like this... could it be!?"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm glad you seem to be doing well, Synn-kun♪ Well, see you tomorrow」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, uh, y-yes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If anything troubles you, feel free to talk to me anytime. Bye-bye」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes... goodbye, then」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Ria",
+    "message": "「Achoo!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm hanging up now\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah, go ahead\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-well then~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone's super motivated. I've gotta do my best too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Student Council work looks surprisingly tough, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's still tons of stuff we need to get done, after all. If I handle it all properly, a rosy school life is sure to await!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... So you plan to bring Ryuusei Academy under your control first, huh? Expected nothing less from you, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All right! Let's eat a hearty dinner and get energized. Tonight's menu is curry rice!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your bento was curry too, wasn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's been curry all week」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh... Blood will tell」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy, don't you want any?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Of course I'll dig in!」"
+  }
+]

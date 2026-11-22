@@ -1,0 +1,338 @@
+[
+  {
+    "message": "商店街のアイドル？"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kyuuu~, I lost~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Justice always prevails!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I was just hungry, that's all!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What's your deal! It's not like I ate the pickled radish for free! I was gonna leave this in exchange, you're so mean!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What... is this?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Beats me...?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You guys must be living under a rock if you don't know about henuporusupukuru, the hottest craze in the Demon World right now! Look, if you do this, and this, and this, it turns into a funny shape」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Is that really funny?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Not funny」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kiii!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look, bartering just doesn't cut it here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe that's how the world goes round in the Demon World, but over here, money makes the world go round」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Spouting all that sophistry just to bully us! You'll regret this, Student Council!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Right now, we're more like Crusaders than the Student Council」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Shut up, shut up!」"
+  },
+  {
+    "message": "Sally-chan scooped up Mochimochi, Jangara, and Tinun and flew away."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, wait--well, if they fly away, we can't exactly chase them」"
+  },
+  {
+    "message": "Undoing their transformations together, they let out a sigh of relief."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, all's well that ends well. Nobody got hurt, at least」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, but they dined and dashed on us... *sigh*」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Never mind about that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, really, we didn't even get the money from them」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「More importantly, what was up with that bizarre cosplay?! And on both of you, no less!」"
+  },
+  {
+    "name": "Nanaka & Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「I got a great shot on my phone! Still, I never would've guessed you two were into the kind of hobby where you gather at a landfill twice a year.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "The Crusaders' outfits really might look the part, now that I think about it..."
+  },
+  {
+    "name": "Synn",
+    "message": "「No, those outfits aren't that kind of thing--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「T-This is bad, Synn! When Auntie's eyes sparkle like that, she won't let us go until she's satisfied!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. That's right!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Where'd you get 'em, the otaku holy land? Or was it the jungle?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's nothing like that--」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Or could they actually be handmade?! Oh, is that it, they're handmade?! Are you two really in that deep?!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Then you're already beyond saving. Though it's the truth, so it can't be helped.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Beyond saving from what?!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Why, once you become an otaku, it's a straight shot to becoming a freeter or a NEET, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...That's way too extreme, Auntie.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's totally biased! Weren't you supposed to be an apostle of truth?!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Well, the future doesn't really matter for now, anyway. More importantly, if you're cosplaying in matching outfits, could it be the two of you are already in that kind of relationship?!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Kufufu. Now isn't that huge news! I'd better go tell the whole shopping district right away♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, stop that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Auntie. Those aren't cosplay. They're uniforms.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Uniforms?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's for interaction between the academy students and local residents, you see. Starting this year, the Student Council decided to do volunteer work, and those are the uniforms we wear for it.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-Yeah, that's right! That's what they are!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「People won't remember us if we don't stand out, right? So we tried making them a little flashy.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「...I see. So that's how it is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's how it is.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh-huh.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「It suited you pretty well, though. Well then, we've got to spread the word around the shopping district right away! With a huge photo and everything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, not yet. We've only just started our activities.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oh, come on, don't hold back... Whoa!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Milady, this way.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, Mr. President!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, did you happen to see the Demons?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They were here just a moment ago, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We drove 'em off in no time」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Then I ran all the way here for nothing. Leaving at least one behind would have been the kind thing to do.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Where are the Demons!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Looks like they're gone」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Oooooh!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Apparently, Mr. President defeated them with a slash-slash-squish-crack-splat-squelch.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Like smashing a black gentleman over and over and over again with the bottom of a slipper. How barbaric.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. What a brutal thing I've done!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...That might be going a little too far\\s02」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is why men are... Sister, you mustn't go near such a terrifying person」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「I've just got to get a picture of this!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We literally just chased them off. There's no way Synn could pull off something like that」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now that you mention it, that's true. You really surprised me for a second, though」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun is entirely capable of it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They do say a wise man changes like a leopard, after all」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Snap, snap, snap!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...By the way, everyone, did you manage to gather the recycling items?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course! And what about you, Sakura-kun...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Ugh」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What matters for items at a bazaar isn't quantity, it's quality! I may have lost in quantity, but I haven't lost in quality! This match is a draw!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. We got a whole bunch. What about you, Lolotte-chan?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There were so many options that I couldn't choose」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's no good. Besides, we're not out shopping here」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Snap, snap, snap!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, stop sneaking photos!」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「I'm an apostle of truth, after all. Still, I see how it is. The designs are all slightly different, yet there's a strange sense of unity to them. Haha. Hehe. Ho-ho」"
+  },
+  {
+    "name": "Synn & Nanaka",
+    "message": "「Stop taking pictures!」"
+  }
+]

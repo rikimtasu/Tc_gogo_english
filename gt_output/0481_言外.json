@@ -1,0 +1,238 @@
+[
+  {
+    "message": "言外"
+  },
+  {
+    "message": "Well then, maybe I'll go do some shopping."
+  },
+  {
+    "message": "A-Azel!? I never thought I'd run into you in the Shiokumi Shopping District."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Aze--」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Why, if it isn't Lady Azel! To encounter you in a place such as this is truly an inconceivable, rare opportunity」"
+  },
+  {
+    "message": "If I remember right, this is that Melphas guy who got treated like a suspicious person at KiraFes."
+  },
+  {
+    "name": "Azel",
+    "message": "「It was not my intention. Prier was sold out of jelly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, so you came all the way out here to buy some?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Reluctantly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, you don't look so good?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am fine, it is merely a passing malaise. I do not care for crowds」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「No, no, surely the root goes much deeper?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Lady Azel. As things stand, you shall never become the beloved spouse」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I have no intention of becoming any such thing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A sweet potato?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Pleased to make your acquaintance. I am Melphas, a man who looks good with roses」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, how very polite of you. I'm Synn Sakura, Student Council President of Ryuusei Academy」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「By the way, it wasn't 'sweet potato,' I meant 'bride'」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I told you, I have no intention of becoming one」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh, please soothe this fever of love with your cold demeanor. I have been longing for your embrace, Lady Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Keep waiting for the rest of your life」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Let me swear to you. It is not for your appearance alone that I adore you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey, why are you looking at my chest and nodding?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「I will say it one more time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really think you're better off not saying it」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「To judge solely by superficial impressions without properly looking at one's inner self is a mistake」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Those are nothing more than countless falsehoods」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...? Something feels a bit off」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Yet everyone delights in scorning this heart of mine」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wrong. I hate that roundabout way of talking」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Then let me speak plainly! If I were to compare you to something, yes! You are a lovely summer's day!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That doesn't follow the context at all」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「And yet right now you are an overcast midwinter sky. Oh, Lady Azel! If only you were blessed with friends, you could truly display your talents!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What nonsense! That leaves everything up to chance. I'll pass」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「However, you must accept it first. For that is who you are」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... Melphas, are you hitting on her by any chance?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This guy isn't courting me or anything」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Heh, so my meaning got across. What a relief」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Until we meet again, someday, somewhere!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「He's finally gone...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel! Are you feeling sick? You're completely pale!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's merely mental exhaustion. I'll recover if I rest」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But the flash sale at Inamiya is starting soon, right? You were going to buy that bargain jelly, weren't you?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The aunties of Ryuusei Town swarm that place and turn it into a total free-for-all. If you take them on while you're feeling unwell, there's no way you'll snag anything」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-Is that so?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm heading that way anyway, so I'll buy it for you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urgh... D-Don't forget!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm? You have things to buy besides jelly, huh」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wrong」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I didn't ask you to. You're doing this on your own」"
+  },
+  {
+    "message": "As she said that, Azel handed me a 500-yen coin with a trembling hand."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks. It's the ideal place to train my flexibility and reflexes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm off, wait right here, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Surviving a brutal bargain sale rivaling a battle against demons, I brought the Vandine Jelly back to Azel."
+  },
+  {
+    "message": "Afterward, worried about Azel's physical condition, I forcefully insisted on carrying her bags all the way to the girls' dorm."
+  },
+  {
+    "message": "Azel remained silent the entire time."
+  }
+]

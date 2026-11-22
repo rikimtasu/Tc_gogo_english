@@ -1,0 +1,864 @@
+[
+  {
+    "message": "こういう時だけ神頼み"
+  },
+  {
+    "message": "Today is the meeting with the people from the shopping district."
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if the meeting will go well」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What are you getting nervous about now? We know everybody there, so there's no reason it wouldn't go well, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I guess you're right」"
+  },
+  {
+    "message": "Guys like Tame-san might even throw us a lifeline, too."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, if anything happens, just leave it to this Shooting Star Shopping District Belle!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The fact that it's not 'Shooting Star Belle' makes the area of effect subtly narrow」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And that remark from you is subtly rude」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, no fighting. Huh...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up, Synn?」"
+  },
+  {
+    "message": "Spotted Azel pacing back and forth in front of a clothing store."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh. So even she does stuff like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stuff like what?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't it obvious?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Totally obvious」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... I'm the only one who doesn't get it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'That outfit's so nice, so cute, but it's expensive, though maybe just trying it on... Just because I try it on doesn't mean I have to buy it right now...'」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「'But if I don't buy it now, someone else might buy it, but, but it's expensive... Uuuuuugh'」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's agonizing over it just like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, seriously agonizing over it like that is part of the fun. Remember that a maiden's shopping takes time!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that how it is?! I always had the image that you make snap decisions and buy things right away no matter what, Nanaka...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Which means, ya know, Soba here isn't a girl」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What was that?! Even I agonize over whether to buy clothes or not!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I thought you were investing your entire fortune into cake」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Your money all turns into sweets, so you don't even have any left to buy clothes, right? Trying to look cool is pretty pathetic」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grrr. You stupid panda!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Spam!」"
+  },
+  {
+    "message": "I see. So Azel enjoys that sort of thing too."
+  },
+  {
+    "message": "If that's the case, I'd feel bad calling out to her."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oops. If we don't hurry, we're going to be late for the meeting!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wawah! Is it that late already!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Saved by the bell......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's hurry! You really are hopeless without me around, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How did you jump to that conclusion?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew......」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See, everything went smoothly, didn't it? Hmph」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It ain't really something for you to puff your chest out over」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I guess that's true, yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not true. It's thanks to you too, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, Synn, you! Flattering me won't get you anything!」"
+  },
+  {
+    "message": "I smoothly dodge Nanaka as she tries to slap me on the back."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mmph. Expected nothing less from my childhood friend」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I can at least read a move like that...... Huh?」"
+  },
+  {
+    "message": "I spot Azel pacing back and forth in front of the clothing store again."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. That girl's still here!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's been three hours, hasn't it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even at my absolute worst, I only agonize for twenty minutes......」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's pretty short considering you were just saying how fun it is to agonize over things」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm an Edokko through and through!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're a Ryuuseikko, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, are you really that curious about her, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, of course I'm curious.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm... Curious, huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I think mine are bigger, though.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you keep peeking out from behind cover like this, people are gonna think you're a creep!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know, but...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I won't let you peek while she's trying things on as long as I'm still breathing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As if I would! Oh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What?」"
+  },
+  {
+    "message": "Azel stopped dead in her tracks, started to step toward the clothing store..."
+  },
+  {
+    "message": "Then paused, as if realizing something."
+  },
+  {
+    "message": "Giving her head a slight shake, she turned right around and marched off as if she were angry."
+  },
+  {
+    "name": "Synn",
+    "message": "「She left...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be... she doesn't have enough money? I hear girls' clothes are crazy expensive.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The less fabric there is, the pricier it gets. Like swimsuits, for instance.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If Ria―chan wore one of those string swimsuits, the great me would―」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Bikini!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That has nothing to do with this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So she's out of money...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're one to talk, Synn. You're always broke.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh, right where it hurts」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In Azel's case, it's probably not all the time--just today by chance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That hurts even more! Still, you know, Azel bought a whole mountain of Vandine Jelly before, too.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Now that you mention it, yeah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it, she really doesn't have any money」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, no matter how you slice it, there's no way she has less than you, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's... impossible! That's way too harsh! No way!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you mean, 'no way'... So, what are you gonna do?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean, what am I gonna do? Today's Student Council activities are over」"
+  },
+  {
+    "message": "I'm worried about Azel, though..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey. Wanna go to Asukai Shrine?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's out of the blue」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That place is like the guardian deity around here, right? I was thinking maybe we could go pray for KiraFes to be a success」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh. Nice. I like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew... thank goodness」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About what?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, you've been acting weirdly hung up on that girl, Synn, so I was worried you were thinking of tailing her or something」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like I'm a stalker」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'd hate to see my childhood friend get hauled off in cuffs, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't worry about weird stuff like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, could it be that we're...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Say no more」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「In the end, you're both stalkers」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's just a coincidence!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Well, we couldn't help it」"
+  },
+  {
+    "message": "We happened to spot Azel on the way to the shrine. And she was heading in the same direction."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're the one who hid first, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was... just kind of a reflex」"
+  },
+  {
+    "message": "Azel, who had been standing still, started walking briskly."
+  },
+  {
+    "message": "And here we are, tiptoeing right behind him."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, where do you think he's planning to go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't he heading back to the dorms?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「He's definitely heading toward the academy, sure, but... he's been stopping over and over again for a while now」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's looking for a house to burglarize. Being a mysterious transfer student and all.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Daura!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be that, just like us, he's going to KiraFes--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way that's it\\s02」"
+  },
+  {
+    "message": "It feels a bit lonely when she shuts it down so flatly, though she's probably right."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh?」"
+  },
+  {
+    "message": "Azel stopped again."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Standing still like that and staring intently at the ground... I wonder if there's some kind of meaning to it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Meaning?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like a ritual to summon Nyarlathotep or something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It kind of looks like it, doesn't it」"
+  },
+  {
+    "message": "Azel starts walking. And so do we."
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "message": "What is this?"
+  },
+  {
+    "message": "A strange, ticklish feeling... like the corner of my head is itching just a little."
+  },
+  {
+    "message": "The spot where Azel stopped?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's up, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If we don't hurry, we're going to lose sight of him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yeah」"
+  },
+  {
+    "message": "Does Nanaka not feel anything at all. Maybe it's just my imagination……?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Could it be just like Synn guessed?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About what?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look」"
+  },
+  {
+    "message": "Azel had stopped in front of the torii gate. He is staring intently at the ground."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it doesn't really feel like he's here to pray」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then, a retaliatory visit?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then, a curse at the hour of the ox?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's still bright out」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh. Lord Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Have you come to worship today?　Lord Fujitakanasumi-no-Mikoto welcomes all who visit without discrimination, at any time whatsoever」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Could it be that you are feeling unwell?」"
+  },
+  {
+    "message": "Azel suddenly raised his head."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Glancing briefly at Shio-chan, he turned on his heel just like that and walked away."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess he wasn't here to pray」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah」"
+  },
+  {
+    "name": "Shio",
+    "message": "「My, if it isn't Lord Synn and Lady Nanaka」"
+  },
+  {
+    "message": "Whoops, we got spotted."
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh…… h-hello」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Act like you belong」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We came here to pray for success, so that makes us proper guests, right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hiya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Shio-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey. We came to pray for KiraFes to succeed, so does this place offer blessings for that kind of thing too?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Of course. For the divine efficacy of the gods knows no bounds.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "May KiraFes succeed, and may everyone at the academy be brimming with sparkle and excitement......"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey. What kind of blessings does this place actually have? Sorry to ask now of all times」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry from me too. I don't know either.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Not at all. That is merely proof of how well our shrine has blended into this land. It is truly something to be grateful for.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ahem.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Here at Asukai Shrine, we enshrine Fujitakanasumi-no-Mikoto as our principal deity, offering blessings for the warding off of evil spirits, academic success, safe childbirth, the return of good fortune, opening the way to luck, attracting wealth, finding lost--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In short, you handle pretty much anything a shrine could possibly handle, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was that amazing of a shrine?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Is that really something to be impressed by?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, earlier you told Azel 'today for sure,' right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, now that you mention it...... does that mean」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Azel has visited this place a few times before.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is he always like that?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yes.」"
+  },
+  {
+    "message": "Shio-chan let out a wry smile."
+  },
+  {
+    "name": "Shio",
+    "message": "「To have been seen by the two of you saying something like 'today for sure' fills me with utmost shame.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Everyone has their own reasons for coming here, and forcing them is hardly praiseworthy conduct for one serving as a shrine maiden.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Everyone has their own reasons, huh......」"
+  },
+  {
+    "message": "Well, I suppose that's true."
+  },
+  {
+    "name": "Synn",
+    "message": "「You know that Azel is a transfer student, right?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Beyond that, I know almost nothing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to ask anyway, though. From your perspective, Shio-chan, what kind of person do you think Azel is?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have scarcely spoken with Lord Azel, nor have I heard anything of particular note about him, so I cannot speak beyond my mere impressions, however」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's fine with me」"
+  },
+  {
+    "message": "Shio-chan thought it over for a while before muttering."
+  },
+  {
+    "name": "Shio",
+    "message": "「...He seems to be a rather clumsy sort of person, indeed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Clumsy?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is merely how he appears to me, and as I am still inexperienced, I cannot say for certain whether I am judging him accurately」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, he definitely doesn't seem like a smooth operator. Or rather, the type who makes enemies easily?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is hardly solid proof, but there was a martial artist acquainted with my grandfather who carried that very same air about him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean Azel seems like he's mastered something like that too?」"
+  },
+  {
+    "message": "Shio-chan shook her head once."
+  },
+  {
+    "name": "Shio",
+    "message": "「No, that is not what I mean. Besides, as I dabble a little in the martial arts myself, I can tell that Azel-dono does not engage in training of that sort」"
+  },
+  {
+    "name": "Shio",
+    "message": "「It is just, how should I put it... It seems that those who think or wish for only a single thing tend to become inept at everything else」"
+  },
+  {
+    "name": "Shio",
+    "message": "「The person I mentioned as resembling Azel-dono was just such a man」"
+  },
+  {
+    "name": "Shio",
+    "message": "「A 'seeker'... I believe that word would be fitting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have gone and spouted off my rather unhelpful insights so smugly. I am still far too immature」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I only sort of get it, but it was helpful」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Azel, a seeker, huh...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Come to think of it, is the Student Council still dabbling in exterminating mononoke?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, every now and then...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look, it's just, you aren't always around, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Indeed. However, to be unable to sense their presence shows that I am still far too inexperienced. I must train even harder!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Everyone on the Student Council must take care as well. Lately, the covert activities of the mononoke have grown increasingly fierce」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Just last night, they finally showed their hideous forms even within the sacred grounds of this very shrine...!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Was there any damage?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「No. Before those fiends could do anything, I discovered them and averted any trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Were you okay, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ha-ha-ha. Those scoundrels must have my fearsome reputation engraved upon their hearts. They scattered and fled at the mere sight of me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Less like they fled, and more like they got sick of dealing with it and went home."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I see. That's a relief~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am most humbled and honored by your words of praise. Please take care not to push yourselves too hard or act recklessly either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Same goes for you, Shio-chan」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hahaha, worry not! Leave the peace of Ryuusei Town to me!」"
+  },
+  {
+    "message": "Watching Shio-chan strike a cool pose."
+  },
+  {
+    "message": "I thought to myself that sometimes it's better not to know the truth."
+  }
+]

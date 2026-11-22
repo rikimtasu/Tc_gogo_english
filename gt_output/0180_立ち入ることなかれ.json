@@ -1,0 +1,244 @@
+[
+  {
+    "message": "立ち入ることなかれ"
+  },
+  {
+    "message": "We're patrolling to make sure the area is safe and check whether the demon from before has shown up again."
+  },
+  {
+    "name": "Synn",
+    "message": "「So far, it doesn't look like there have been any sightings while the sun is out.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, it wouldn't be surprising if a student or teacher got hurt soon.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「At this hour, the only people wandering around campus are delinquents.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They wouldn't hang out in a place like this.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Against a demon, they'd be the ones getting beat up instead.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like I said, they aren't here!」"
+  },
+  {
+    "message": "Whoever it might be, once something happens, it's already too late. That's why we patrol--to stop things before they get out of hand."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I heard there are a lot of them who go around smashing school windows at night, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Roro-chan. I think you'd better trade that guidebook in for the latest edition.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shh, quiet. Someone's there...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All of a sudden?! Wait, mph-mph!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Is someone there?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ho... hoo-hokekyo.」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Are you messing around?」"
+  },
+  {
+    "message": "And that was my best bird call, too."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn. Could that person be...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. That's Ms. Sengenin, the student teacher.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So that's Mr. Demon?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Keep your voice down!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yours is way louder, Treasurer!」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「What are you doing over there?」"
+  },
+  {
+    "message": "It's no use. Time to give up."
+  },
+  {
+    "name": "Synn",
+    "message": "「Good evening~~」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「You...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me? I'm Ryuusei Academy's--」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Student Council President, Synn Sakura」"
+  },
+  {
+    "message": "Guh, cut off without mercy."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Impressive as expected of a celebrity♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tease me」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「It should be well past the time to go home. What is the Student Council President doing here at this hour?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, well...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Believe it or not, it's a patrol!! Actually, inside this academy there are demo--mmph!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, stop that! If you talk about us, things are gonna get complicated!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Things get more interesting the more foreshadowing you lay down」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, Nanaka's right. Even if I tell her we're patrolling to exterminate Demons, I doubt I could explain it well...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And it'd be awkward if we got misunderstood over that」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「What are you whispering about over there?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, well... Actually, night patrols are also part of our Student Council activities...」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「……」"
+  },
+  {
+    "message": "Well, will she buy it...?"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Go home right away」"
+  },
+  {
+    "message": "Phew."
+  },
+  {
+    "name": "Synn",
+    "message": "「Please take care on your way home too, Ms. Sengen'in」"
+  },
+  {
+    "name": "Sengen'in",
+    "message": "「Thank you. Goodbye」"
+  },
+  {
+    "message": "With those words, she disappeared into the darkness."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aah~~. That scared me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How boring. I was totally banking on that teacher being the big boss leading the Demons」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you blurt something like that out of nowhere, she's the one who'll get scared」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn took Lolo's joke completely seriously. The way you're talking, it's like you've already decided they're the big boss」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no... I wouldn't go that far...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I think it's suspicious, though. A student teacher showing up out of nowhere like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which side are you on」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I believe they are innocent」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whose side are you on!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we end up looking suspicious instead, that'd defeat the whole purpose. Let's keep a low profile as much as possible and continue our patrol」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is it really okay to ignore their orders? They are technically a teacher, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It'll be fine. After all, we've got the board chairman's seal of approval!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not like we're doing anything to feel guilty about, but getting intimidated like that still makes it hard...」"
+  },
+  {
+    "message": "Well, if we get yelled at, I'll just go talk to Ms. Helena or something."
+  }
+]

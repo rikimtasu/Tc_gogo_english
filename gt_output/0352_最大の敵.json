@@ -1,0 +1,256 @@
+[
+  {
+    "message": "最大の敵"
+  },
+  {
+    "message": "It was quiet."
+  },
+  {
+    "message": "No, it wasn't merely quiet."
+  },
+  {
+    "message": "The treetops didn't stir in the slightest, not even the faintest breeze blowing."
+  },
+  {
+    "message": "Despite the trees rustling, it was eerie."
+  },
+  {
+    "name": "Azel",
+    "message": "「You were receiving special treatment.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Precisely why.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「So that's how it is.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「What are you talking about, nya?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It's nothing that matters even if you don't understand.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Explain it to me, nya! Meow, meow, meow!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Explain it to her.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「...Sigh.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It means we're being let loose on a long leash.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You do know that the ones running the academy are the Kujou clan, right?」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Is that so, nya?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How foolish.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Wh-nya-t did you say!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The Kujou clan has deep ties to the Demon King. Moreover, even though they aren't angels, that clan possesses the power to fight us Demons.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「They also know that Re-Crea is approaching. That's why they anticipated that someone would interfere in that land.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「However, they don't know who we are or what we're after.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「They're letting us roam free in order to figure that out. Both me and you.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「D-does that mean we've been found out, nya?! That's terrible, nya!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It doesn't matter if we're found out.」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Is that right, nya?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Even if the Kujou forces join hands with the Student Council, they're beneath notice. They're at a level where it's doubtful they could even defeat your subordinates.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「In other words, thanks to them being overly clever for their own good, we were able to walk right in without a hitch」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya-thing to worry about, huh? I got scared for nothing, nya」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You look like you want to say something」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The Student Council has not been informed that you are demons」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「......Even if that's the case, it isn't a problem」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Meaning it might be the Demon King, huh」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That's just an old legend」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, there is a possibility the enemy believes they can oppose us without the Student Council's fighting strength」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nya... so... you mean there's an enemy other than the Kujou and the Student Council, nya? And it might be the Demon King, nya?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Indeed」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Even if that enemy shows up, Pasta will beat 'em up, nya! Even if the Demon King shows up, I'll defeat 'em, nya!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I'm counting on you, Pasta」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ehehe. I'll do my best, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Still, does the Demon King even exist, nya?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Oh, he exists」"
+  },
+  {
+    "name": "Azel",
+    "message": "「We have no choice but to consider the possibility」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Oh my? I thought you didn't believe in him?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「During the previous Re-Crea, it was confirmed that a member of the Kujou family made contact with an entity calling itself the Demon King」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Since there are sources from separate worlds, you decided to believe it too, is that it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not believe it completely」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「No records proving the Demon King's existence remain in Heaven. That was the case, wasn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「However, while few in number, records proving his existence do exist in the Demon World. According to them, every appearance of the Demon King coincides with Re-Crea」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is far too little information」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Of course, I can't say for certain whether the Demon King appeared during every Re-Crea」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「It's possible they did appear and it simply wasn't recorded, or there may have been times when the Demon King didn't appear at all」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「However, it's certain that there is a significant connection between the Demon King and the Re-Crea」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「And there are a few written accounts of the Demon King quelling the Re-Crea, too. If that's true, then the Demon King is our greatest threat」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Impossible」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Yet the fact remains that the Three Realms still exist even after enduring several large-scale Re-Creas」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Still. There's no telling whether the Demon King will appear this time」"
+  },
+  {
+    "name": "Virus",
+    "message": "「They'll appear」"
+  },
+  {
+    "message": "There was certainty in that voice."
+  },
+  {
+    "name": "Azel",
+    "message": "「Even so, the world will be remade」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Quite confident, aren't you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It isn't confidence」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is the will of our Lord」"
+  }
+]

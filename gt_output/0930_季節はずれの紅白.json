@@ -1,0 +1,429 @@
+[
+  {
+    "message": "季節はずれの紅白"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, Nana-chan! Big trouble, big trouble!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, Sacchin. I'm sick of hearing your 'big trouble'」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Don't say that-- How can you keep such a calm face at a huge pinch like this--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You probably just forgot your homework or something like that, right」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, there's that too, but--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's already after school, Sacchin! It's way too late!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I'm telling you, this is way bigger trouble than that--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, just hear her out」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ooh, Synn-kun is so nice-- He's totally wasted on you, Nana-chan--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-what are you talking about?! I-it's not like Synn is mine or a-anything, um, w-well...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, Sacchin. What happened」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're just gonna ignore me?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You know, at Tanimura-san's place-- That thing got found out by my dad~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That shouldn't be a problem, right? We're basically just helping them out anyway」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「But, but-- He got mad at me, saying that doesn't count as paying proper respects--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Your old man is as stubborn as ever, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not following the conversation here, what's going on?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm-- The Sweets Club, you see, is helping out a certain Western confectionery shop with their training」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yeah! Helping out by eating tons and tons of cake!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wrong! Taste-testing! We're cooperating on making new creations to boost their sales!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So in other words, Sacchin's dad is angry about you guys eating and drinking without paying」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm amazed you figured it out just from that explanation...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't phrase it so it sounds shady! We got proper permission from the manager too!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm. True, Nanaka's reviews are supposedly amazing, so it might be worth treating her to sweets」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「B-u-u-t, my dad runs a cake shop too, y'know, and he always says even freebies hurt the wallet~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, true... Even if they're prototypes, they still cost money, and there's no guarantee this team-up will 100% turn a profit...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, why not help out in other ways besides just improving the cake's taste?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Other ways~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Once you've made sweets you're proud of, all that's left is getting everyone to know about them」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright! Sacchin! Let's call Yumil over right now and hold a strategy meeting!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, before that, about our homework----」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Save that for later, later!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good luck, you two~」"
+  },
+  {
+    "message": "Now then, I think I'll drop by the library."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, Synn-kun. Welcome」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Has Nanaka not arrived yet?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hm? She was just here earlier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Is the Sweets Club meeting already over?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. She said she had club activities for that, so she asked to take today off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way, did she already come up with something? She moves fast」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is Nanaka-chan up to something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Apparently she's going to fulfill her code of honor」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Code of honor?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I'm curious what she's doing... I hope things don't take a weird turn」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're worried about her, aren't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Nanaka is the type to charge straight ahead once she gets an idea in her head.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. In that case, since work has settled down for today, why don't you go check on her?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm... Good point. All right.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「--Well, it's great that I came out here, except I forgot to ask where she's doing it...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She mentioned something about Tanimura's place earlier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tanimura, Tanimura... Hm? If I remember right, that's--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, over there!」"
+  },
+  {
+    "message": "Tanimura Peace Patisserie. It's the cake shop Nanaka introduced me to during KiraFes."
+  },
+  {
+    "name": "Synn",
+    "message": "「Looks like there's quite a crowd gathered.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is it really that rare for this place to be crowded?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka told me that ever since the manager changed, not many customers have been coming in, though...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So that's where Soba comes in, huh. Sure enough, no point making a fuss over just one or two cakes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I doubt it stopped at just one or two...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H―Hey, Lord Synn. Over there, could that be―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm? Aaaah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Welcome! For Christmas next month, be sure to bring home a Christmas cake from Tanimura Peace Patisserie!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're taking reservations right now! We have free samples too, so please feel free to try some!」"
+  },
+  {
+    "message": "Nanaka was calling out to passersby with her usual bright, cheerful expression."
+  },
+  {
+    "message": "What was different from usual was her outfit."
+  },
+  {
+    "message": "Dressed in a Santa Claus costume, she was charming everyone walking down the street."
+  },
+  {
+    "message": "The skirt was a bit too short, making it hard to know where to look, but it suited her pretty well."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not even December yet, isn't that jumping the gun a bit?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What are you talking about? The Shiokumi Shopping District is already a fierce battleground when it comes to selling cakes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, true. So Nanaka is helping them out, huh...」"
+  },
+  {
+    "message": "On top of that, the entire Sweets Club was gathered there."
+  },
+  {
+    "message": "Nanaka was a natural at it, and her junior, Okamoto-san, was following her lead and shouting out at the top of her lungs. That's the athletics club spirit for you."
+  },
+  {
+    "name": "Synn",
+    "message": "「Leave it to Nanaka. She's drawing customers in one after another. Though, what about Sacchin...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「W-Welcometh! Ow, I bit my tongue--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A true mascot, alright」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, Sh-Synn!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're working hard, Nanaka. Is there anything I can help with?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, n-no, it's fine! This is strictly Sweets Club business, after all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Well, while I'm here, I'll place a reservation too--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Don't go spending money you don't have!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Impressive... you know me all too well...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-Besides, even without making a reservation, um, well... for Christmas...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「The manager said, since they feel bad making us go this far, they're gonna give each of us one of these Christmas cakes--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wouldn't your dad not agree to that, Sacchin?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「As long as we make a profit even after subtracting our share, there's no problem--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I think you oughta save lines like that until you can actually do a decent job serving customers」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Well, yeah, basically……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hah! I already knew it, though! There's no way you'd wear an outfit that erotic just for charity!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't make it sound so sleazy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ambasa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see, I see. You really are kind, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-ahaha...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's working this hard just so she can eat together with everyone in the Student Council」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Haaah... This dense idiot...\\s10」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「How unrewarding. You should just come right out and say it already」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't say something so irresponsible!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「All right. If we've got cake, then in order to secure drinks for the day, I'll help out at the Amakawa Milk Shop--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I don't need it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka. That looks super good on you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Oh, really... th-thanks」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "（Jeez, there's a limit to catching someone off guard. My heart started pounding...）"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Huh? Nana-chan, your face is turning bright red」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong? Getting a little tired after all? Should I take over after all?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gaaah!! You're getting in the way of my work!! Both of you, get lost!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehhh!? Even me!?」"
+  }
+]

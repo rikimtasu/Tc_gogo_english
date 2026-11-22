@@ -1,0 +1,360 @@
+[
+  {
+    "message": "ウェイトレス"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, this isn't the price on the menu!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Quit whining about every little thing, nya. I've got no use for commoners who can't even pay chump change, nya」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I didn't even order this!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta's just doing her job, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「If you've got a problem with it, don't bother coming back, nya」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You bet I won't! I wouldn't come back even if you begged me!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Aaargh, seriously!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something wrong?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Can't someone do something about that waitress!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Waitress--you mean the one at Prier?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Pasta, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah! She's the absolute worst!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She did seem pretty inexperienced with customer service, yeah」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's not the problem!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「She brings out the wrong orders, she rips people off on the bill!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And that attitude of hers, treating customers like garbage--it's totally unacceptable!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「From your perspective, Nanaka, I can see why that would be unforgivable」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I daresay anyone would find such behavior intolerable」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I haven't heard many good rumors about her either」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I was putting up with it since Helena's the one who decided to hire her, but...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「When it goes on for days like this, even my patience hits its limit!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe we should talk to Big Sis about it once」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「All right, let's take it straight to her!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, welcome. What brings you all here together?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, it's about the waitress at Prier……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Fire her, fire her!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Easy now, easy」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you're going to hire someone like her, I'll do it myself!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I told you to calm down already」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Like this, complaints from the students just keep coming in」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, that's a problem!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why do you sound like it's someone else's problem!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I have tried warning her, for what it's worth?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no sign that she's improved at all, though……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sure she's trying her hardest in her own way」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if you say that……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, telling her to quit out of nowhere might be a bit harsh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She might end up out on the streets, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's that, are you saying I'm going too far!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, it's a fact that regular students are suffering because of it……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why don't we try talking to Pasta herself once?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That might be a good idea」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Very well, I approve」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, let's head straight to Prier right now!!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyafufu……」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Are preparations going smoothly for you lot, nya?」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「I see, nya. Keep up the good work, nya」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「For Lord Virus-nya's sake, we have to lure out the Demon King quickly, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「And while you're at it, don't forget to take care of those pesky Crusaders, nya」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Ahh, Lord Virus-nya...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta will definitely make Lord Virus-nya's wish come true, nyan\\s04」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Open up!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyah-what!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me, is Pasta here」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「W-What do you people want, nya!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Pardon the intrusion~」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Urgh! The Chairwoman, nya!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, could it be you're in the middle of something?」"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-Is that!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A Demon!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Which means...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Miss Waitress was in league with the Demons!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyauuu... What terrible timing you guys have, nya...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I thought she was suspicious for a while now, and I knew it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That was just you jumping to conclusions, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyway, there's no doubt she was plotting something evil!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So she's finally shown her true colors, hasn't she」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I knew Pasta-chan was plotting something.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So you were letting her run loose on purpose?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yep. I was planning to keep doing that until her goal became clear, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Her goal is plain as day!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You meant to turn against us from the very beginning!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Nyafu! Now that the cat's out of the bag, there's no helping it, nya!」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「Pasta herself will make you feel the might of the Seven Demon Generals, nya!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So she was a Demon General...」"
+  },
+  {
+    "name": "Pasta",
+    "message": "「It's time for a bloodbath, nyaaa!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, let's go!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'll lend a hand too!」"
+  },
+  {
+    "message": "Helena joined the party!"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ５８_EASY"
+  },
+  {
+    "message": "ステージ５８_HARD"
+  },
+  {
+    "message": "ステージ５８_NORMAL"
+  }
+]

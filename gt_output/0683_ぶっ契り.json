@@ -1,0 +1,660 @@
+[
+  {
+    "message": "ぶっ契り"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well then, everyone, that concludes this morning's practice.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Thanks to so many of you participating, our singing is sure to go well. Let's all work together to make the Holy Night Festival a success!」"
+  },
+  {
+    "message": "Misa's lovely voice echoes throughout the early-morning chapel."
+  },
+  {
+    "message": "Just as expected, the number of people wanting to sing hymns doubled overnight."
+  },
+  {
+    "message": "Regardless of grade or gender, Misa never faltered in front of the large crowd, leading the vocal coaching resolutely as choir director."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well now, since practice is all wrapped up, how about I hand out some throat lozenges? Take good care of your throats, everyone.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Anyone who wants herb candy, gather 'round!」"
+  },
+  {
+    "message": "In the chapel where the tension of practice has melted away, the curtain rises on a brand-new battle."
+  },
+  {
+    "message": "Chatting among themselves, the participants each take whichever they prefer between the throat lozenges and the herb candies."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Here you go, say 'aaah.'」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Throat lozenge, chomp~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Nom.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Lick~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright, alright, don't push--there's plenty to go around.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Herb candy, chomp~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Nom.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Slurp~\\s07」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahahaha. Oh, honestly, you guys.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, don't eat both! You guys have zero loyalty!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, looks like Nanaka-san and I are tied.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For the final point... Yumil, where are you?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「For the record, Tennouji-san headed over toward the confessional.」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Mgh-mgh-mgh-mgh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eddie, it's been two full days since then and you're still sucking on that jawbreaker... You're a man--no, a true man's man!」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Mgh-mgh-mgh-mgh!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So that's why you couldn't make a sound at all, Mukaihara-kun...」"
+  },
+  {
+    "message": "The warning bell rings out, and all the participants head from the church to the new school building."
+  },
+  {
+    "message": "Misa and I stay behind, quickly locking up the chapel."
+  },
+  {
+    "name": "Misa",
+    "message": "「Okay, all done. Thanks for staying with me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're not finished yet」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A-Are we going to do it... this morning too?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-I want to... do it too...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Do what, pray tell?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyah!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Sister? Sir Synn?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sh-Sh-Sh-Shio, you were here!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「That is most cruel of you to say. I duly attended morning practice today as well!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what she meant--if we don't head to the classroom soon, we're gonna be late」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Nay, if we hurry, we shall make it in plenty of time. Surely that is why you two are still tending to leftover duties as well」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have a request to make as an exorcist shrine maiden, and so I was waiting for Sir Synn to finish his tasks」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have heard rumors that Sir Synn devotes himself to Demon Lord training every night」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I swear I shall never be a hindrance to you, so I beseech you--would you please allow me to accompany you in your training as well!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun trains until pretty late at night, you know? Your parents will worry, Shio」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Father and Mother are away at a Shinto clergy gathering and will not return for some time. Sir Synn, I implore you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Uh, sure. I don't really mind」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, Sakura-kun!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am deeply grateful! I shall redouble my efforts and prove my worth during the Re-Crea crisis!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine. Even Melilot-san wouldn't push Shio-chan too hard, I'm telling you.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, if you say so...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm coming to watch tonight too. A-And I'm not cheering you on or anything! I'm only accompanying Shio, got it?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C-Crap!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「We are late, indeed...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「With that, we shall conclude tonight's training.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「L-Lady Melilot is... a-a demon...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Shio-chan...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You've been taking training brutal enough to make Shio pass out every single night with a straight face?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't really think of it like that, though...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is only natural that you would not realize it. As the Demon Lord, Sakura-kun is growing stronger day by day.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Asukai-san, who managed to stay on her feet until the very end, is quite remarkable herself.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mmmgh, mmmgh... Father~ Mother~...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll carry Shio-chan home on my back. Misa, can you take her naginata?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, leave it to me.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gasp?! N-No, you can't do that!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you give her a piggyback ride, Shio's chest will press right against your back, Sakura-kun... I won't allow such a thing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then it'll have to be a princess carry, you know?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Give her a piggyback ride!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Mmmgh, mmmgh, Sister~... An ogre disguised as a librarian is coming for us~...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In the not-too-distant future, Asukai-san will surely become a keen blade capable of slaying demons. For now, however...」"
+  },
+  {
+    "message": "Melilot-san suddenly leaned her lips close to Shio-chan's ear--"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I'm gonna eat you up~」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eek~~~!? *Slump*......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Jeez, Melilot!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe. Well then, please excuse me.」"
+  },
+  {
+    "message": "Carrying Shio-chan on my back, I walk home along our usual school route with Misa."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Aren't you going the wrong way? Isn't your house over there, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm coming with you as far as Asukai Shrine.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Look at what time it is, okay? I'm not gonna jump Shio-chan or anything, I swear.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「How rude. As if I'd ever suspect you of something like that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Listen here, Sakura-kun--once we reach Asukai Shrine, who exactly do you think is going to change Shio's clothes?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...... sorry, please come with me.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good, as long as you understand!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahahahaha.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Giggle*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're kind of weird, aren't we?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though Re-Crea is arriving in just a few days and might destroy this world, here we are laughing over something like this.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As long as I'm with you, I'm confident I can laugh, get angry, and stay happy no matter what happens.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, me too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even now that I've become the Demon Lord, hearing that the world's in danger still doesn't really feel real.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But your smile, Misa--that I understand completely.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I'll do my best to make sure that smile never disappears.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If fighting is what it takes to protect your smile, Misa, I'll gladly fight.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I have heard your words loud and clear. Having spoken them, you must uphold them. It is a promise.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Shio-chan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio, you were awake!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yes, I have been awake since just a moment ago」"
+  },
+  {
+    "name": "Shio",
+    "message": "「...Even if it were you, Lord Synn, had you done anything to make my elder sister cry, I intended to cut you down, however...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hearing your words just now has put me at ease. My elder sister is a shameless woman, yet I entrust her to your care」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If you're going to say that, it's not 'shameless,' it's 'inexperienced'!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-It is roughly the same thing, is it not?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「They're completely different!!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Eek!? My elder sister is in earnest. Lord Synn, please flee while still carrying me on your back!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Uhh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Look, you're troubling Sakura-kun. Give it up and get off his back」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Grrr~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh my? Look, a crescent moon in the sky--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm not angry, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, about what you said earlier, there's just one thing you got wrong」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Do you speak of Lord Synn's resolve and his promise? I cannot fathom how I might be mistaken...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...When you find someone you truly love, tears just naturally spill over. I'm sure you will too, Shio--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I am a shrine maiden of Asukai who slays demons; I would never do such a thing as weep」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No. The day will definitely come when you can shed tears too, Shio」"
+  },
+  {
+    "name": "Shio",
+    "message": "「I-I do not understand...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, I didn't understand either...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't understand either, yet I cried」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Eh... Eeeh!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even you, Sakura-kun... *giggle*, *giggle giggle giggle*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahahaha」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm? Could it be that this one is a third wheel?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, I'm going to Sakura-kun's house to cook now」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Come eat with us too, Shio」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Yes, I shall gladly accept the invitation!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Misa, even if you suddenly say that, my room is messy and I don't even have any ingredients」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As for ingredients, I've got them packed right inside my bag」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way... Paqy, say something to stop her too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Leave it to me! I'll head back ahead of you and dispose of the Demon Lord's favorite porn books!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you have to blurt it out like that?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「P-Porn books... Even though you have me... How could you...」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Shall I cut him down?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Go right ahead」"
+  },
+  {
+    "name": "Shio",
+    "message": "「As you command!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaaaahhh!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Here, it's all done. Eat up and enjoy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahh... This smell--it's meat, isn't it!?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「S-Synn-dono, that is far too vague...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, it's admirable that you live on your own, but you only ever eat such meager meals」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Make sure you get some proper nutrition every once in a while」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, Misa!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it's gotten pretty late, hasn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Won't your parents scold you for staying at my place so late at night?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, it's fine. I told you, I always eat breakfast with Father and Mother.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now then, let's eat.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Thanks for the meal!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch... Delicious!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Look, there's still plenty more. Make sure you eat up.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, Elder Sister and Lord Synn look just like newlyweds!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Should I start calling Lord Synn 'Elder Brother' from now on?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, Shio, don't tease me! It's still too early for marriage.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, if we have the wedding now, we can skip the engagement ceremony, right? We'd save money on an engagement ring.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I won't allow it! I will not have penny-pinching calculations brought into our sacred ceremony!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No... Obviously I was just joking\\s02」"
+  },
+  {
+    "name": "Shio",
+    "message": "「How heartwarming. Surely the two of you have already exchanged a lovers' pledge.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee. Shio, Sakura-kun and I have actually shared our first kiss twice.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm, twice, you say? What sort of passionate romance must one follow to encounter such a phenomenon?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Heehee, I'm not telling!」"
+  }
+]

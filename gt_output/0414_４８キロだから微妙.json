@@ -1,0 +1,280 @@
+[
+  {
+    "message": "４８キロだから微妙"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How is it, think you can manage, Synn? Maybe I should carry half after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine. I might be a little smaller than average, but something like this is--heave... ho!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa, you actually hoisted them up. Not bad, Synn.」"
+  },
+  {
+    "message": "I hoist two heavy burlap sacks stuffed with adzuki beans onto both shoulders and hold them steady."
+  },
+  {
+    "message": "After school, Nanaka invited me to start some solo training for the Crusaders."
+  },
+  {
+    "message": "...However, the place I arrived at after following her directions was the ever-familiar Yuugiri-an."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, it's definitely a workout, sure, but sneaking in help for the shop? That's so like you, Nanaka.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It builds up your body too, so it's two birds with one stone!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Though, this isn't for the shop--it's a duty of the Yuugiri family.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...? Bringing adzuki beans to Asukai Shrine?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You bet! Every year when autumn rolls around, we make an offering.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I had no idea...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, it's no big deal anyway.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, maybe I'll ask about that on the way」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before that, Nanaka, open the door」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Comin' right up!」"
+  },
+  {
+    "message": "Since both my hands are full, Nanaka briskly slides open the entrance to Yuugiri-an for me."
+  },
+  {
+    "message": "Through Shiokumi Shopping District and into Tsukinoo Park. Follow the wharf east, and there stands the first torii gate of Asukai Shrine."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mufufu~」"
+  },
+  {
+    "message": "All along the way as we carry the bags of adzuki beans, Nanaka keeps grinning happily."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look at you, Synn, getting all built without me noticing. Just one of those bags is a bit over twenty kilos, ya know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To be honest, arm strength has nothing to do with it? I'm just resting them on my shoulders like straw bales」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, you sure surprised me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If two of 'em weigh over forty kilos, that means……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mufufu~. If he really felt like it, Synn could scoop me up in a kidnapper carry--」"
+  },
+  {
+    "name": "Kim-san",
+    "message": "「Doryaaaaaaaaaaaahhh!!」"
+  },
+  {
+    "message": "Kim-san marches off toward the shopping district with three commercial bags of flour hoisted on his back."
+  },
+  {
+    "message": "Thirty kilos a bag. Roughly a hundred kilos in total."
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, sorry, Nanaka, I didn't catch that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I―I said, why don't you carry me too―」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「ZUORYAAAAAHHH!!」"
+  },
+  {
+    "message": "The auntie from Shinagawa walks toward the shopping district with two pickling barrels crammed full of takuan tucked under each arm."
+  },
+  {
+    "message": "It easily has to be over two hundred kilos."
+  },
+  {
+    "name": "Synn",
+    "message": "「What was that, Nanaka? Speak up a little.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I―I want you to carry me in your arms too―」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Feed me beef bowls」"
+  },
+  {
+    "message": "Eauderourke walks toward the beef bowl shop carrying over a dozen cows in his arms."
+  },
+  {
+    "message": "The total weight easily has to be over five tons."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahaha... It's nothing!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Come on, Synn! Start climbing the shrine path, I'll support your back from behind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I'm counting on you」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Thank you for your continued patronage. May your visit be blessed.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, no, thank you. Shio-chan, take care of this for me」"
+  },
+  {
+    "message": "After offering up a massive amount of adzuki beans, we meet up with Shio-chan."
+  },
+  {
+    "message": "Nanaka pulls a worn-out charm from her pocket and hands it to Shio-chan."
+  },
+  {
+    "name": "Shio",
+    "message": "「Hmm... Shall I bring you the same one as before?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You betcha」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka? Are you getting a defective charm exchanged?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「H-How rude! There are no counterfeits among the wares of Asukai!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Lord Synn. Once a year has passed since receiving a talisman, it is custom to return it and seek a new one, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, really? I always thought they were disposable」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Y-You're gonna get struck by divine punishment, you know?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Admonishing Lord Synn aside... are you truly sure you wish to acquire the exact same thing as this?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, I'm a maiden too, you know. A good-luck charm for love is basic stuff for a girl!」"
+  },
+  {
+    "name": "Shio",
+    "message": "「L-Lady Nanaka, what you have been carrying is a talisman for safe childbirth, is it not?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No wonder I haven't made any progress this past year... guh!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, don't they say giving birth is easier than worrying about it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You won the election, Nanaka, and KiraFes was a huge success. The charm's divine blessing definitely helped.」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh! Splendid follow-up. I shall take notes from that for future reference!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just gotta point this out, that's a bit different from what 'safe childbirth' means, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Kyau!? T-The psychic damage is way too massive, I can't put any strength into my legs...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Careful now... I'll give you a piggyback ride home.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urk...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「J-Just lending me your shoulder is plenty, okay!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it, let's do that then.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ahahaha, so it wasn't the charm's fault, it was mine...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Quit grumbling and come on, let's go!」"
+  },
+  {
+    "message": "Lending Nanaka my shoulder, I slowly walk down the shrine approach stairs one step at a time."
+  },
+  {
+    "message": "Although it took about three times longer than usual to reach the bottom, for some reason it felt nostalgic."
+  },
+  {
+    "message": "I wonder why?"
+  }
+]

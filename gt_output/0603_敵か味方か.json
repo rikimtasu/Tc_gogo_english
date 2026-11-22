@@ -1,0 +1,343 @@
+[
+  {
+    "message": "敵か味方か"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's dark. It's way too dark」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's nighttime, so it can't be helped」"
+  },
+  {
+    "name": "Sally",
+    "message": "「You're scared, ahaha. What a kid」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mmph. I'm not scared at all. It's simply dark」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah! I'm not scared or anything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, how are you feeling?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I told you not to worry, I was fine during today's special training too, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, you were」"
+  },
+  {
+    "message": "Still, why do I have this vague uneasy feeling?"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was spotted around here, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The way you say that makes it sound like you saw it yourself, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, n-no, that's not it. I just heard it was around this area」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Where and who did you even get this information from in the first place?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Umm...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sniff, sniff. I smell a secret!」"
+  },
+  {
+    "message": "Crap."
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't tell me, Sakura-kun. You weren't out patrolling all by yourself, were you?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oh, right! Prez used to be a delinquent, after all!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「! Wait, don't tell me that's why you looked weirdly sleepy the other day--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It isn't very admirable for the Student Council to take the lead in breaking academy rules」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Wawah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Melilot-san!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why is the librarian here...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The Chairman should have told you to stop patrolling」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「B-But we can't do that. This is an emergency.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Go home. I will report this to the Chairwoman.」"
+  },
+  {
+    "message": "I stepped forward as if to shield everyone."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ms. Melilot. Have you seen Azel?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No. Has something happened to her?」"
+  },
+  {
+    "message": "Does this person have something to do with Azel's disappearance?"
+  },
+  {
+    "message": "If she does, maybe I should confront her directly."
+  },
+  {
+    "name": "Synn",
+    "message": "「It seems Azel has gone missing.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And what does that have to do with you all being here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Someone spotted Azel around here right before she disappeared.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel was investigating something. And when she saw what she was looking into, she muttered, 'It's destroyed... Is it the enemy?'」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She did?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「'Is it the enemy,' she said?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey! I didn't hear anything about that!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「......I see. So the Virus is imitating the Demon Lord's methods, is that it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Go home. There is no need to look for Azel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What... do you mean by that?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "For a brief moment, Ms. Melilot looked at Lolotte."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「G-Glaring at me won't make me leave! Whether my friend gets reformed or not is riding on this!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, I will make you leave by force if I must.」"
+  },
+  {
+    "message": "Ms. Melilot looked at us."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah......」"
+  },
+  {
+    "message": "Those eyes were,"
+  },
+  {
+    "name": "Ria",
+    "message": "「No way... Ms. Melilot is......」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Hey, she's a Demon!」"
+  },
+  {
+    "message": "They glowed a crimson red, like rubies trapping flames within."
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister! Sally! What is the meaning of this!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A Demon's eyes glow red!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Glowing red eyes... No way... Then the ones in my dream were...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「She's reeking of my own kind!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-She's a Demon...!?」"
+  },
+  {
+    "message": "A magical presence begins to spread outward, centered around Miss Melilot."
+  },
+  {
+    "message": "Judging by its density, her strength is only slightly above Pasta's."
+  },
+  {
+    "message": "She's surprisingly not that big of a deal. It's a bit of a letdown."
+  },
+  {
+    "message": "It doesn't come anywhere close to the sheer scale and depth of the presences I felt from Virus and Soltia that day."
+  },
+  {
+    "message": "Still, she has acceleration magic. I can't let my guard down."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lord Synn. She's leaking her magical power on purpose.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh」"
+  },
+  {
+    "message": "Right, she was supposed to have complete control over her magic. Then why do something that exposes her true identity."
+  },
+  {
+    "name": "Ria",
+    "message": "「Miss Melilot! Weren't you Big Sister's friend!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Fight.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A betrayal right here!? The guidebook said this kind of twist is most effective near the finale!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「This is not a TV drama.」"
+  },
+  {
+    "message": "Is she showing us that she's a Demon General just to force us to fight?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura! Nanaka! What are you spacing out for!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Ah, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I know!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guide thy master, descending by the ancient covenant, Avanshell, Angel of Pitch-Black Darkness!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka」"
+  },
+  {
+    "message": "Could it be today too."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I'm fine! I'll be fine! There's no way I'm the only one who can't do it!」"
+  },
+  {
+    "message": "Thank goodness..."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I don't see myself losing! Defeat is all that awaits a traitor!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's nothing compared to Ardin!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone! Watch out!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know that!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ３９_EASY"
+  },
+  {
+    "message": "ステージ３９_HARD"
+  },
+  {
+    "message": "ステージ３９_NORMAL"
+  }
+]

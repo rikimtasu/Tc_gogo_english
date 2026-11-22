@@ -1,0 +1,511 @@
+[
+  {
+    "message": "ナショナル　ハムブルグ"
+  },
+  {
+    "message": "Perhaps thanks to our previous success, requests for Angelic Agent have started trickling in."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Getting asked to do all sorts of things lets us experience so many different things, it's really exciting!\\s05」"
+  },
+  {
+    "message": "The leader is in a fantastic mood, too."
+  },
+  {
+    "name": "Synn",
+    "message": "「So, what kind of activity do we have today?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The chef at Prier said they'd like us to taste-test a new menu item.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh. Now that's a nice perk! So this is what being Student Council President is all about.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now, now. This is a proper mission, you know.」"
+  },
+  {
+    "message": "I ended up getting admonished by someone whose own lips were curling into a grin."
+  },
+  {
+    "name": "Synn",
+    "message": "「So, is it just us at this tasting party?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Our Treasurer and Senpai headed over to help out the Umbrella Golf Club, and the Vice President went to the Wagashi Club.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're super popular, huh.」"
+  },
+  {
+    "message": "Though I'd rather not think too much about what they're being made to do."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I haven't eaten lunch today, so my stomach is completely empty~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha, you're raring to go, aren't you.」"
+  },
+  {
+    "message": "As we waited with pounding hearts, dishes made of precious metal were brought out to us."
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa. They went out of their way to hide what's inside.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It must be a surprise!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What I wanna know is why they bothered getting plate cloches ready.」"
+  },
+  {
+    "message": "The chef lifts off the dome-shaped lids."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa! It's hamburger steak!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, well, on its own it's just a plain old hamburger steak with nothing special about it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「True. The hamburger steak lunch was already a staple on the menu, after all. Not that I've ever eaten it.」"
+  },
+  {
+    "message": "Just as I was feeling skeptical, something with a wonderful aroma was brought out next."
+  },
+  {
+    "name": "Synn",
+    "message": "「Is this sauce?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A demi-glace sauce rich with the aroma of wine and mushrooms.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A rich, sweet sauce topped with whipped cream.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A soft cheese sauce with the aroma of basil」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A harmony of cheese and tomato sauce」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A refreshing soy-sauce-based sauce」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「A spicy tomato and chili sauce」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Sluuurp~\\s05」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Basically, you could call it a multinational Hamburg steak」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amazing... Lolotte, can we eat already?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's dig in!」"
+  },
+  {
+    "message": "First up, the first sauce."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's so yummy~\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If there are too many mushrooms, the aroma gets overpowering, so it's better to keep them in moderation」"
+  },
+  {
+    "message": "Trying out the next sauce."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's so rich~\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't skimp here--you're better off using heavy cream instead of whipped cream」"
+  },
+  {
+    "message": "Next is the yellow sauce."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I feel like I'm gonna melt~\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The downside is you get a little tired of it. If you're going that route, making it a Mornay sauce might be interesting」"
+  },
+  {
+    "message": "Next is the two-tone red and yellow one."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It tastes like ketchup~\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Rather than store-bought tomato sauce, a sauce made from properly stewed tomatoes would look more dynamic too, I think」"
+  },
+  {
+    "message": "A familiar classic sauce."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Light and refreshing~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Grated daikon and shiso leaves would be nice here, though... I don't think that'd suit kids very well」"
+  },
+  {
+    "message": "Finishing off with the bright red sauce."
+  },
+  {
+    "name": "Synn",
+    "message": "「Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eek, it's spicy!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The spices feel a bit strong, but this chili sauce is exquisite. Gonna try shrimp in chili sauce next?」"
+  },
+  {
+    "message": "After savoring the full selection of sauces, I take a breather."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Isn't the next one ready yet?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You already ate so much, yet you can still keep going~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ufufu... I absolutely love hamburg steak, you know\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oho~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to eat more~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? You still have carrots and green beans left, though」"
+  },
+  {
+    "message": "Only the hamburg steak had been neatly finished off, while the vegetable side dishes were pushed off to the corner."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Vegetables―especially carrots―aren't really my favorite, you see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You hate them?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You could say that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're delicious, so it's a waste. I'd gladly eat them」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, please say 'aah'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, open your mouth and go 'aah', please」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-W-Wha, all of a sudden...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because I think Mr. Vegetable would be happier if someone ate him gladly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh. Even so, come on... if someone sees us, that'd be... e-e-embarrass--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you don't hurry up, I'm going to mash it right against your lips!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mghghgh」"
+  },
+  {
+    "message": "H-H-How pushy can she get!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Here you go, Mr. Carrot♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A... aah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Munch, munch」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is it delicious?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's... really... delicious」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm, hmm, in what way?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're taste-testing it, so if you don't answer properly, it won't count as completing the mission」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't this supposed to be about the hamburg steak!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How does it taste?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...It tasted like butter」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's wonderful! Now then, next up is Mr. Green Bean♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, nom, nom」"
+  },
+  {
+    "message": "It's kind of embarrassing, though it doesn't feel bad."
+  },
+  {
+    "message": "Still, I'm the only one getting flustered--Lolotte doesn't seem bothered by it at all."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ufufu. This is rather fun, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahaha... It's almost like I'm back to being a baby」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A baby, you say~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "message": "Well, it's not like I actually remember it clearly, though."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Baby, baby...」"
+  },
+  {
+    "message": "She flips through her guidebook."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A tiny, roly-poly, cute human, is it? Hmm, hmm」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Lolotte... you don't know what a baby is?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "message": "Did I touch on something I shouldn't have...?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I simply have no memory of anyone ever doing this sort of thing for me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see. My family used to do it for me a lot, so...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Family... So families do things like this. Families really are mysterious~」"
+  },
+  {
+    "message": "Maybe it's because she's a sheltered rich girl, but Lolotte has lived her life without knowing things I've always taken for granted."
+  },
+  {
+    "message": "On the flip side, I bet she knows tons of things I don't."
+  },
+  {
+    "message": "More importantly, aren't her mom and dad way too cold?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, want to try saying 'ahh' too, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eh?! Really, is that okay?」"
+  },
+  {
+    "message": "No sooner have I said it than I realize my mistake. Earlier was embarrassing enough, isn't this side just as embarrassing?!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Got it!」"
+  },
+  {
+    "message": "She claps her hands together in front of her chest and faces me, fired up."
+  },
+  {
+    "message": "Now that it's come this far, I'm a man too. I just have to do it!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, say ahh!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah... ah...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Huuuh~~ This is somehow really embarrassing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right?! Still, I did it too, so...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uuu~~\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I pushed through it, so you hang in there too, Lolotte」"
+  },
+  {
+    "message": "Resigning herself, Lolotte trembles nervously as she opens her little mouth."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah... a~~hh」"
+  },
+  {
+    "message": "Seeing how desperately she's trying suddenly makes me smile. For some reason, she even has her eyes squeezed shut."
+  },
+  {
+    "name": "Synn",
+    "message": "「Here comes Mr. Carrot♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nom, nom... Eek!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Next up, Mr. Green Bean♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Nom, nom, it's bitter~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Some nice stringy butterbur~♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's no such thing!」"
+  },
+  {
+    "message": "Lolotte's picky eating really is a handful."
+  }
+]

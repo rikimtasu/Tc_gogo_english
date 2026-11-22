@@ -1,0 +1,884 @@
+[
+  {
+    "message": "ハクを愛する"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "message": "Despite throwing herself on the line for the decoy operation, it's been one failure after another."
+  },
+  {
+    "message": "And while all that's going on, Sacchin ended up getting nabbed again."
+  },
+  {
+    "name": "Synn",
+    "message": "「At this point, what if we ask Sacchin to be the decoy?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No, we can't do that! It's far too dangerous for Takahashi-san. So no... we simply cannot...」"
+  },
+  {
+    "message": "I know. I know that. Still, I can't bear to put Misa through any more embarrassment."
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I... I have no choice but to do it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nnnngh... In that case, I really have no choice but to do it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll do it!! I'll be the decoy!!」"
+  },
+  {
+    "message": "Both as president and as a guy, I can't let Misa be the only one subjected to such humiliation!"
+  },
+  {
+    "name": "Misa",
+    "message": "「You'll... do it... you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, just leave it to me」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Very well, I accept」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Accept?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Your challenge... I have received it loud and clear!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How'd you get that out of this!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You're claiming that you can lure the culprit out, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I mean, I'd consider myself lucky if that happened, yeah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And if, purely hypothetically, mind you!? If the culprit actually shows up, then it's your win. I'll admit defeat gracefully.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is about winning and losing!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Let's see who can properly fulfill their duty as the decoy--it's a match!!」"
+  },
+  {
+    "message": "Looks like the only way to get her to agree is to settle things once and for all..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it... You're on」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I will definitely win!!」"
+  },
+  {
+    "message": "Still, I'm glad Misa is back to her usual self."
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, let's set the trap right away」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「～～～!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In that case, I think it would be best to start by using this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Saying that, what she held out was a piece of striped fabric."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, isn't this Misa's p-p-pan--!」"
+  },
+  {
+    "message": "I can't say it!"
+  },
+  {
+    "name": "Misa",
+    "message": "「I-Idiot!! It's completely unused, so it's fine!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's disappointed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I am not, and that's beside the point! We don't even have to use the same kind of underwear!\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If we don't, it won't be a fair match, will it!?」"
+  },
+  {
+    "message": "Has Misa's pride really been backed into a corner that badly...?"
+  },
+  {
+    "name": "Helena",
+    "message": "「A fair match, huh... Has a nice ring to it」"
+  },
+  {
+    "message": "Helena-san appeared while pretending to puff on a cigar."
+  },
+  {
+    "name": "Helena",
+    "message": "「Here you go, a little souvenir. Take it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Th-This is...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Bloomers!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Keeping them even after graduating... Maybe she just really likes bloomers」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Sounds like you want to get expelled」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I didn't mean to make you mad! Please forgive me!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Teehee. They're not mine--they're genuinely a current student's bloomers~\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You can figure out the rest, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, Paqy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Onee-sama's bloomers...\\s04」"
+  },
+  {
+    "message": "Aah, these are the bloomers Ria-senpai wears. Just holding them makes my palms start sweating."
+  },
+  {
+    "name": "Misa",
+    "message": "「That's right! With this, we should be able to have a fair match!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, using Big Sister's bloomers for a contest...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... No matter how you look at it, this feels kind of bad, or rather, wrong...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you explain the situation, I'm sure she'll understand\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you say so, Helena-san... then I guess that's true!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I appreciate your obedience! Now then, I hereby order the Student Council to apprehend the culprit」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, leave it to us!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I pray for your success」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright... let's do our best」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on a moment」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Rather than letting Big Sister's sacred bloomers be defiled by Sakura―kun―」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I shall have the honor of wearing them first!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, sure, whatever」"
+  },
+  {
+    "message": "I wipe the sweat off on my pants so she won't notice before handing them over to Misa."
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister's...\\s04」"
+  },
+  {
+    "message": "I wonder if Misa actually has a crush on Ria-senpai."
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, hold on!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you changing into them right here?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh? Ah... ahhh--I let my guard down!!」"
+  },
+  {
+    "message": "What would've happened if I hadn't stopped her...\\s03"
+  },
+  {
+    "name": "Misa",
+    "message": "「Ahhh, ahhhh, go away!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't change while you're watching, can I!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's a changing room right there, why don't you just go use that...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You're right. Sorry. I'll be right back」"
+  },
+  {
+    "message": "Ba-dump, ba-dump... Misa is way too bold...\\s03"
+  },
+  {
+    "name": "Paqy",
+    "message": "「O-Oh... Felt like I was havin' a pretty nice dream」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Morning, Paqy. What kind of dream were you having?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「My dark rims are made out of Ria-chan's bloomers... huff, huff」"
+  },
+  {
+    "message": "The Great Sage is way too lofty for me to understand."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, not that I want an old hag's bloomers anyway」"
+  },
+  {
+    "message": "Seems like he somehow misunderstood."
+  },
+  {
+    "name": "Misa",
+    "message": "「Sorry to keep you waiting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Alright」"
+  },
+  {
+    "message": "No, no! What do I mean 'alright'?!"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hehehe... I'm pretty doubtful you actually put 'em on」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wh-Wha--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Let's have her show us some proof, Synn-sama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eeeh?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Lift up the hem of your skirt and hold it in your mouth. That'll put everything in plain sight, hehehe...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-Th-That's...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to, you don't have to!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then it won't be a fair match」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that right?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't go along with it!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy-san...」"
+  },
+  {
+    "message": "Misa stares at Paqy with a look that's both stern and slack."
+  },
+  {
+    "message": "Inside her head, a colorful jumble of thoughts like mixed vegetables must be swirling around."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hehehe... Can you really bring yourself to punch the great me, who looks just like Blackuma?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Blackuma would never say things like that!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're always flashin' your bloomers anyway. Why get embarrassed about it now?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I know that. But... but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You don't have to cry...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As if I'd cry!! You just want me to show you, right?! Show you!!」"
+  },
+  {
+    "message": "Saying that, Misa pinched the hem of her skirt with her fingers."
+  },
+  {
+    "name": "Synn",
+    "message": "「N... No way!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "message": "She swiftly lifts her skirt up and drops it back down."
+  },
+  {
+    "message": "Even knowing they're bloomers, having them flashed at me like that is surprisingly--no, bad, bad!"
+  },
+  {
+    "name": "Misa",
+    "message": "「*Pant, pant*... That satisfies you, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Where's Ria-chan?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Now, now. I saw them clearly, so it's all good」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It is NOT all goooood!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, come on. We gotta hurry up and set the trap」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph」"
+  },
+  {
+    "message": "With a face like she had just eaten bitter melon for the first time, Misa disappeared into the changing room."
+  },
+  {
+    "message": "Still, she could've just taken them off when she changed, so why did she go out of her way to come back here?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Time's up」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Guh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not coming, huh~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. If Sakura-kun fails too, then we're even, even」"
+  },
+  {
+    "message": "Even backed onto a ledge with zero chance of winning, she refuses to drop her tough act."
+  },
+  {
+    "name": "Misa",
+    "message": "「Here you go」"
+  },
+  {
+    "message": "Misa hands me her bloomers. Having a girl do something like this really makes my heart pound~."
+  },
+  {
+    "message": "Besides, Misa was just wearing these a moment ago... over her underwear?"
+  },
+  {
+    "message": "Could it be she was wearing them directly without anything underneath--"
+  },
+  {
+    "message": "Ahhhhhh, I'm the Student Council President, so I must not get all worked up over something like this, no, no!"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Alriiight. Well then, I'm off~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm back」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Show me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's telling you to take off your pants.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I am not!! I'm just checking to make sure you're actually wearing them!!」"
+  },
+  {
+    "message": "I'd love to say I just left them behind when I changed--except I kind of had a hunch she'd say something like this."
+  },
+  {
+    "message": "Still, when it actually comes down to dropping my pants in front of a girl, it takes some serious courage and guts."
+  },
+  {
+    "message": "Plus, what I'm exposing are bloomers, putting me on the fast track to pervert-ville. If anyone else sees me like this, I'll never be able to get married."
+  },
+  {
+    "message": "On top of that, the sheer immorality of wearing bloomers has been eating away at my mind for a while now."
+  },
+  {
+    "message": "It's eating away at my male pride."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-W-Whoa, got it!」"
+  },
+  {
+    "message": "Alright! At a time like this, I've got no choice but to be a man and steel myself!!"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hurry up and show me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? Give me just a little longer to mentally prepare--」"
+  },
+  {
+    "message": "By Misa's own hand, my bloomers are laid bare."
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-You two...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sister?!」"
+  },
+  {
+    "message": "Ria-senpai covered her face with her palms, though there were huge gaps between her fingers."
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan, what are you doing?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Nooo! Don't look, Sister!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Synn-kun, why are you wearing bloomers?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugyaaa!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even a blushing Ria-chan is cute!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No mercy, huh...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm your senior, so I have to scold you both nice and hard!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「L-Listen up, you two! Even if you're free to date whoever you want, y-you know!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-You mustn't do, um... perverted things so openly like this!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan! You can't just go pulling a boy's pants down!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun! You're a boy, so you can't go around wearing bloomers!」"
+  },
+  {
+    "message": "I-I got scolded..."
+  },
+  {
+    "name": "Ria",
+    "message": "「D-D-Do you understand now?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yesh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-Then that's fine!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun! If we leave it like this, she's going to keep misunderstanding us in a weird way! Are you okay with that?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That would be bad!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai... there's a very, very deep reason why things ended up like this--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No... excuses!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's true! Even I wouldn't wear bloomers for no reason! Don't you think it's weird that I'm wearing bloomers?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you going quiet there!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Because... they surprisingly look good on you...\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Onee-sama is complimenting him...」"
+  },
+  {
+    "message": "That's what makes you jealous!?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Give them back!! I'll prove that they look better on me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Forget about the bloomers already!! More importantly, as for why I'm doing this--」"
+  },
+  {
+    "message": "And so on and so forth."
+  },
+  {
+    "name": "Ria",
+    "message": "「I-Is that how it was~? Ahh, thank goodness. I jumped to conclusions, didn't I? I'm sorry, *bow*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I just thought I'd try devising various strategies, and so...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, Misa-chan doing *that* to Synn-kun's pants... I think that's... going a bit too far, okay?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「~~!!」"
+  },
+  {
+    "message": "Misa is stomping her feet in frustration."
+  },
+  {
+    "name": "Misa",
+    "message": "「I'd like to redeem my honor, but it's Sakura-kun's turn right now. Hurry up and go set the trap」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Got it」"
+  },
+  {
+    "message": "More than redeeming myself, I just want to clear my name."
+  },
+  {
+    "name": "Ria",
+    "message": "「'TIME UP!!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No good after all, huh...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. That makes us even」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wasn't the whole point to catch the culprit?\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, of course that's our real goal! That's why we've been trying every trick in the book!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How pathetic! Miss Hysterical acting all triumphant for no reason, and Synn-sama pitching a tent over an old hag's bloomers」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's vulgar, Paqy!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「In the end, both of you just made total fools of yourselves and didn't solve a damn thing」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's why, next time... next time for sure!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You're one stubborn woman who doesn't know when to quit. Leave the next move to yours truly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What are you planning to do, Paqy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks like the Great Sage Paqy-sama has no choice but to step up and bare it all!」"
+  },
+  {
+    "message": "Paqy rummages around through his own body."
+  },
+  {
+    "message": "And what he pulls out is--"
+  },
+  {
+    "message": "Briefs!?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though you're a plushie!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What you'd call... lucky underwear!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Giggle. Talking about luck and competition--Pa-chan, you're just like Misa-chan」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No way...」"
+  },
+  {
+    "message": "Personality-wise she doesn't want to be lumped in with him, yet she wears a complicated expression showing she's not entirely displeased either."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Watch closely, Ria-chan. Yours truly is gonna prove he's a real man」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Good luck~\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Paqy-san... thump-thump...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Why?」"
+  },
+  {
+    "message": "Well, there's no way something like that could actually work--"
+  },
+  {
+    "name": "Taishou",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ehhh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He took the bait!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So a demon really was the culprit after all...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh, a piece of cake for yours truly. Now, hand it over.」"
+  },
+  {
+    "name": "Taishou",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hades!!」"
+  },
+  {
+    "message": "It doesn't seem like it has any intention of returning Paqy's underwear. Not that it needs to."
+  },
+  {
+    "name": "Synn",
+    "message": "「However, this is as far as you go...! You were the culprit, weren't you? Why would you do something like--」"
+  },
+  {
+    "name": "Taishou",
+    "message": "「Eee!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We're not trying to take your underwear, so calm down!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Screw that! That's my Sunday best, ya know!? Right, Ria-chan!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't ask me~\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For now, we have to calm it down... Let's go, everyone!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ１２_EASY"
+  },
+  {
+    "message": "ステージ１２_HARD"
+  },
+  {
+    "message": "ステージ１２_NORMAL"
+  }
+]

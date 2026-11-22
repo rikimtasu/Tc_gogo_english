@@ -1,0 +1,200 @@
+[
+  {
+    "message": "トラウマ仕掛け人"
+  },
+  {
+    "message": "I try to think about the factors behind Kirafes's success."
+  },
+  {
+    "message": "Of course, it's because everyone in the Student Council and the people of Ryuusei Town, starting with the Shiokumi Shopping District, helped us out."
+  },
+  {
+    "message": "However, when it comes to the most fundamental part... I think it's thanks to Helena-san correcting our course right at the very beginning."
+  },
+  {
+    "message": "As the student council president, I want to say a word of thanks."
+  },
+  {
+    "name": "Helena",
+    "message": "「Come in」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, it's Helena\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I know that」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, if you're here to say thanks, don't worry about it\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How do you know!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, I'd feel bad sending a boy away empty-handed when he came all this way just to properly say thank you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So, Synn-chan, you're going to help me with an experiment, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Are you researching something?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, of course! About my cute little sister. Boop♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Did you just press some weird button?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Foh-foh-foh-foh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is this falling sound?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guhooh!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's dark!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「More importantly, it smells like pumpkin」"
+  },
+  {
+    "name": "Helena",
+    "message": "「A huge success!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What is it this time!? I hear a sound like a fishing rod reeling in?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's because I am reeling in a fishing rod」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a surreal conversation」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah, hah, hah, my vision's back... W-What the heck was that just now?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, you're so calm, Synn-chan. Being a chairwoman is boring, sure, but I'm also reliable, you know」"
+  },
+  {
+    "name": "Helena",
+    "message": "「By the way, did you bump your head or anything? Does your neck hurt?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, I'm fine. I was startled when everything suddenly went pitch black, though. Doesn't look like I need to worry about whiplash either」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn, you'd better step aside for now, yeah? Look up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Helena-san…… there's a giant jack-o'-lantern swaying right above my head, isn't there?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It's Halloween today, after all. I made that myself. It's hung on a string so I can move it around freely」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That creepy pumpkin monster is what just dropped right onto Master Synn's noggin」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, you're really handy, Helena-san」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, I used to make tons of them for Ria when we were kids」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Having sisters sounds nice, it's really heartwarming」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ria was terrible with jack-o'-lanterns, you see--she'd shriek and cry and run around trying to get away」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Not making any jack-o'-lanterns at the Kujo house for the past few years was all a scheme to lower Ria's guard」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tonight, once Ria falls asleep, I'll rig the lantern to float up eerily in the corner of her bedroom ceiling」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And then, aiming straight for Ria's trembling, terrified little face, the lantern will drop right over her head, just like it did to you earlier, Synn-chan♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「This plan is pure perfection!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Umm…… back when she was a kid is one thing, but do you think that'll work on Ria-senpai now that she's all grown up and dignified?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my? Truth is, Ria is still terrified of ghosts even now♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that so」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Once it succeeds, you'll be the very first person I contact, Synn-chan. Wait for the good news, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-Right……」"
+  },
+  {
+    "message": "And then, late at night, the phone at Grand Palace Sakura rang out, and on the other end of the line, Helena began a live play-by-play."
+  }
+]

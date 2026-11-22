@@ -1,0 +1,442 @@
+[
+  {
+    "message": "ブラックマロウ！"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes! Tomorrow is the big day, so I'm counting on your support\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Haa~~ Making the rounds to greet everyone isn't easy……」"
+  },
+  {
+    "message": "Still, it's amazing how she can flash a smile everywhere she goes."
+  },
+  {
+    "name": "Synn",
+    "message": "「You'll be fine if you just relax your shoulders and act natural」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you saying? How rude. I'm acting just like I always do」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if you say so」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly…… Please don't lump me in with how I usually act around you, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, it's different?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That is a special side of me that I only show to you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Special!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, a side I would never, ever show to anyone else……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa…… Could this possibly be…… *ba-dump*」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When I think of you, my heart aches, Silent Night」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This isn't like you, now's your chance, hurry up and tell him how you feel♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait! I need to mentally prepare myself too--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now, let's have a fair…… showdown!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No good. This poem is rejected」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaaaaaaaaat」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's with that reaction?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, you get someone all worked up on your own and then just say 'rejected'--come on!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You do have a point. I forgot to double-check your feelings」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-My feelings…… W-Well, that's…… Something like that……\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I mean, it's totally out of nowhere, and I can't say something like that yet... it's too embarrassing\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about? Your ears are bright red, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, anyone would end up like this if they suddenly got a confession of love, I'm sure!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「L-Love?! Wha--how did you jump to that conclusion?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because you said I was special to you...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I didn't mean it like that!! I only meant I treat you specially as a rival!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, I see. You should've just said so then... ahaha\\s01」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yeah, that's right. Me confessing to you? That wouldn't happen even if heaven and earth turned upside down.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「R-R-Right, of course~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It was my fault too for phrasing it in a misleading way. Things like this should be stated c-l-e-a-r-l-y.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ba-dump...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Um... I've kept quiet about it until this very moment, but...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I hate you!!」"
+  },
+  {
+    "message": "Sigh... If I keep jumping to weird conclusions like this, she's going to hate me more and more. I've got to be careful."
+  },
+  {
+    "message": "Wait--so I don't want Misa to hate me... I guess."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it wasn't 'I despise you!!' so I'm still good!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why are you convincing yourself of that all on your own?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, how long are you two gonna keep up that lame married-couple routine?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We are NOT a married couple!!」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Heeeey.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, Tame-san? I was going to come help haul things in later, though...」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Could really use some extra manpower right about now. Mind coming over for a bit~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, sure thing! Misa... what should we do?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Can't be helped. I'll go check out the other shops in the meantime.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, sorry. Oh, I'll leave my replacement here」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh my!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ugeh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「See you later!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-He's out of sight now, isn't he」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gulp......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mr. Paqy......\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「H-Hey...... Master Synn......」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hug!\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gueeeh!!」"
+  },
+  {
+    "message": "Seeing what was being carried out, a shock hit me roughly on par with learning that hamachi and buri are the exact same fish."
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy!?」"
+  },
+  {
+    "message": "Growing this huge in just the short time I wasn't looking--what a terrifying panda!"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Ha ha ha. That guy is, uh~~, Buri...... Bra...... Bro...... Oh right, Blackuman~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Blackuman...... Oh, that character Misa's crazy about~~」"
+  },
+  {
+    "message": "It looked so much like it that if someone told me Paqy had sprouted right up, I'd probably buy it."
+  },
+  {
+    "message": "Apparently, this mascot costume was donated to Tame-san's place."
+  },
+  {
+    "name": "Tame-san",
+    "message": "「How about this one? Think it'll sell~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "There's no doubt one particular person would pounce right on it. Still, its size leaves a bit of room for concern. It's way too massive."
+  },
+  {
+    "name": "Synn",
+    "message": "「Let me ask around a bit」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Squeeeeze~~!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah, gah」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Now, let's head to the next shop, Mr. Paqy\\s04」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「S...... Somebody...... help me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, there she is, Misa」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Gyaaah-ta-ta-ta! Don't just call out to me all of a sudden!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. Actually, I found a real bargain.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is it? Weren't we supposed to be carrying luggage?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's part of that. I wanted you to take a look too, Misa, so come with me.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yeah.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Th-Th-This is~~!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Blackuman.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Blackuma!! You don't need the 'n'!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Misa Blackuman Christeles.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Warabi!!」"
+  },
+  {
+    "message": "Paqy was mercilessly slammed against a telephone pole."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Throwing me away is cruel, man!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You brought it on yourself!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That's right. She's the type of woman who dotes on something endlessly, only to toss it out the second it gets dirty. No doubt about it...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I would never do that!! Even my plushies from when I was little, I still treasure them--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So you really do still have plushies.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-N-No, you've got it wrong!! I do have them, but that's just because I take good care of my things, not because it's a hobby or anything like that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Continuing to use things for a long time... You might actually be pretty similar to me.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Don't lump me in with you!!」"
+  },
+  {
+    "message": "What am I supposed to do."
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Well then, I guess I'll pass on this mascot costume after all...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh? What do you mean by that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It looked like we could get it for the bazaar, though.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「By all means, let's take it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh. I knew you'd say that, Misa.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on a second. It's not like I'm saying this because I want it for myself. A mascot costume of a popular character is bound to sell. I was merely stating the obvious.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, it is!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There's no way I could proudly announce, 'I'll buy it!'--that would be way too embarrassing!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, this is a once-in-a-lifetime chance... I'll just have to stock it somehow and buy it when nobody's looking.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, Tame-san, I'll head back with this first.」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Yeah, sounds good.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Until later, then. Please excuse me.\\s04」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Hahaha! If a young lady like you is gonna dote on it, I'm sure this costume couldn't ask for anything more.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Wha-wha--!?」"
+  },
+  {
+    "message": "The older gentleman had seen right through her."
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "message": "死線の遭遇"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was thinking about making this the venue for the Holy Night Festival... What do you think?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The view's great here, and it looks like we could pull off all sorts of things」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm all for it--♪」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Celebrating the Holy Night while watching shooting stars streak across the night sky... How wonderful\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're quite the romantic, Misa-chan」"
+  },
+  {
+    "name": "Azel",
+    "message": "「This place is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's wrong, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「N-Nothing...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Come on, Azel-san! Let's explore every nook and cranny~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A-Ah!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Azel-san... has really changed, hasn't he」"
+  },
+  {
+    "name": "Synn",
+    "message": "「He's still just as cold to me as ever, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, you know」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's Sakura-kun we're talking about, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, what's that supposed to mean?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Lolotte-chan is a special friend to him, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd like to get closer to him too, though」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I can't just let a remark like that slide!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Especially when you already have a girl like Lolo-chan right by your side!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't mean it like that!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Cheating is a no-no~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you, that's not--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「――!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hm, what's wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No……」"
+  },
+  {
+    "message": "What is this ominous presence…… I can feel a strong will, almost as if someone is calling out to me."
+  },
+  {
+    "message": "A distinct signal, unlike what I've occasionally sensed up until now."
+  },
+  {
+    "name": "Synn",
+    "message": "「Who is it……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「S-Sakura-kun……?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sorry. Did I make you mad……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No…… it's not that……」"
+  },
+  {
+    "message": "And what's more, it's coming from the direction Lolotte and the others headed."
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going to go explore a bit too!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, where are you going」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Where's Lolotte…… where's Azel……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We're gonna decorate this tower to perfection too~~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Something as massive as this…… How do you propose we do that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's what we're going to figure out together starting now!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah! Lolotte! Azel!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah, hah, thank goodness…… Looks like you're both safe」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What's the matter, rushing over in such a panic?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nothing…… I just had a bad feeling coming from this direction」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A bad feeling, you say……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There's no problem at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's strange…… Even though it felt much clearer than usual」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What did you say...?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「You have fallen.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「――!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Virus...!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san, Virus is...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Tch」"
+  },
+  {
+    "message": "Greasy sweat oozed from his forehead. Azel bit down hard on his lip, his expression betraying deep remorse."
+  },
+  {
+    "name": "Virus",
+    "message": "「To think you would lose sight of your true purpose and indulge in playing friends.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Sh-Shut up!!」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Are you not the very definition of a fallen angel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……!?」"
+  },
+  {
+    "message": "He knows that Azel is an angel...?"
+  },
+  {
+    "message": "Speaking of Virus, Pasta had mentioned that name once before."
+  },
+  {
+    "message": "Virus... Judging by his appearance, not only is he clearly not a staff member, he carries an ominous air about him."
+  },
+  {
+    "message": "Yet judging from Azel's reaction, his demeanor doesn't seem like that of an ally at all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Who on earth are you...」"
+  },
+  {
+    "name": "Virus",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hold on, Virus-san!! How could you say such a terrible thing to Azel-san!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「St-Stop!」"
+  },
+  {
+    "message": "Azel hurriedly stepped in to stop Lolotte, who had rushed ahead to protest on pure reflex."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Take that back!! Azel-san is no fallen angel――」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Demon King.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!!」"
+  },
+  {
+    "message": "He even knows that I'm the Demon King!?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Please listen to me!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stop it!! Stay out of this!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, calm down」"
+  },
+  {
+    "message": "Virus paid no mind whatsoever to Lolotte's state."
+  },
+  {
+    "message": "However, just as Azel said, there's an atmosphere suggesting that getting involved with him won't end well."
+  },
+  {
+    "message": "He isn't even radiating bloodlust, so why am I breaking out in a cold sweat?"
+  },
+  {
+    "name": "Virus",
+    "message": "「When will you awaken as the Demon King?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How do you know that I'm the Demon King?」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Would sacrificing your comrade do the trick?」"
+  },
+  {
+    "message": "For the first time, Virus's gaze shifts toward Lolotte."
+  },
+  {
+    "message": "He doesn't seem to have the slightest intention of listening to my question."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Hii!!」"
+  },
+  {
+    "message": "Glared at with icy eyes, Lolotte loses all bravado and cowers."
+  },
+  {
+    "message": "It's no wonder."
+  },
+  {
+    "message": "Eyes of solitude--the cold, composed gaze possessed only by one who has crossed the line between life and death countless times."
+  },
+  {
+    "message": "I step in front of Lolotte, blocking Virus's line of sight."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uh... ugh...」"
+  },
+  {
+    "message": "Lolotte hides behind my back, shrinking away."
+  },
+  {
+    "name": "Synn",
+    "message": "「If you do something like that--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Synn Sakura, that's enough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Exchanging any more words with him is pointless」"
+  },
+  {
+    "name": "Virus",
+    "message": "「Hmph. Premature though it may be, to think your power is only at this level」"
+  },
+  {
+    "message": "Irritation shows in Virus's tone."
+  },
+  {
+    "name": "Virus",
+    "message": "「What a buzzkill. You've disappointed me, Demon King」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What did you say!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't fall for his provocation!! As you are now, he's no opponent you can defeat!!」"
+  },
+  {
+    "message": "Faced with Azel's anguished cry, I'm forced to realize for the very first time that I was merely putting on a brave front."
+  },
+  {
+    "message": "Formidable energy overflows from Virus, overwhelming me with sheer pressure."
+  },
+  {
+    "message": "It is magical power on a completely different scale from the Seven Demon Generals I've fought in the past."
+  },
+  {
+    "message": "Being the King of the Demons is, after all, nothing more than a matter of innate aptitude."
+  },
+  {
+    "message": "In contrast, this Virus has the eyes of someone who has overcome countless grueling trials."
+  },
+  {
+    "message": "There is no way hastily acquired power could ever match a great blade forged and honed to perfection."
+  },
+  {
+    "name": "Virus",
+    "message": "「Whether now or later, looking at you like this, it's clear you don't amount to much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh......」"
+  },
+  {
+    "message": "Confronted with this confidence, I feel like I'm about to be crushed."
+  },
+  {
+    "message": "Still, if I don't brace myself, my precious friends...... Lolotte and Azel will be put in danger!!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Enough...... That's enough......」"
+  },
+  {
+    "message": "Azel speaks in a voice utterly drained of strength."
+  },
+  {
+    "message": "The instant that voice reaches my ears, all will to fight vanishes from me."
+  },
+  {
+    "message": "The relief carried in that noble voice makes me realize that Azel is an angel, just like Lolotte."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, you're......」"
+  },
+  {
+    "message": "With an expression as though suppressing all emotion, Azel turns back toward Virus."
+  },
+  {
+    "name": "Azel",
+    "message": "「Both your hopes and mine have been dashed. There is no longer any reason or need to linger in the Human World. Leave at once.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「I refuse.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「If you want a replacement for the Demon Lord, you have no business here.」"
+  },
+  {
+    "name": "Virus",
+    "message": "「……」"
+  },
+  {
+    "message": "Virus casts a silent glance at Azel and vanishes from the spot in an instant."
+  },
+  {
+    "name": "Synn",
+    "message": "「What the heck was that......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「P-President......!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you two unharmed?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah...... Thanks, Azel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san...... Facing someone that terrifying......」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You really are amazing, Azel-san!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that so......」"
+  },
+  {
+    "message": "Azel smiles faintly."
+  },
+  {
+    "name": "Azel",
+    "message": "「However, I am a traitor.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh......?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I intended to take advantage of Re-Crea. Together with Virus.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That librarian named Melilot mentioned it, didn't she? Those who make their move amidst the chaos of Re-Crea」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That was us......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why would Virus...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「They say the Demon Lord gains immense power in response to the Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Virus must have heard that rumor. What his true goal is, I do not know...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "If so, did Virus leave because he was disappointed in my power?"
+  },
+  {
+    "name": "Azel",
+    "message": "「I used Virus. Even so, there was something that had to be done」"
+  },
+  {
+    "name": "Azel",
+    "message": "「However, that will... bring about many sacrifices...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Once those sacrifices are made, what will even be left...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't intend to do anything anymore, Azel. That's what you're saying, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes... I no longer... have it in me...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is why... I will... confess everything... My... my mission is--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's okay, Azel-san」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Lolotte...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You don't have to force yourself to say it. I understand even if you don't」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How you've been... suffering all this time, Azel-san」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「All alone, this whole time...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even so, it does not change the fact that I betrayed you all!!」"
+  },
+  {
+    "message": "As Azel vents his lingering anguish, Lolotte opens her arms wide."
+  },
+  {
+    "message": "And then, she wraps him in a soft, gentle, and warm embrace."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even so... isn't it fine now? After all, you protected us, Azel-san...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That alone... that alone is not...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't have to worry about it. Nobody thinks you're a traitor. We've always been comrades, haven't we?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you trust us, Azel-san, then all we have to do is trust you in return」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urgh... ugh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So it is all right now... For now, it is... all right...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... uu... ugh... uuu... ugh!!」"
+  },
+  {
+    "message": "Keeping a literally angelic smile on her face, Lolotte firmly embraced Azel's sorrow."
+  },
+  {
+    "message": "Together with Azel, who has regained his composure, we head to the Student Council room."
+  },
+  {
+    "message": "And then, he confesses everything that has happened up until now to everyone."
+  },
+  {
+    "name": "Azel",
+    "message": "「I am... truly sorry.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa!! Azel bowed his head!?"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hey, stop that... You're throwing me off my rhythm.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Azel-san...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The fact that you kept it a secret all this time means you had your reasons, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「But now... there's no longer any need to keep it a secret. Is that what this means?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes. I will tell you everything I know without hiding anything.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see... Then, the fun things, the happy things, the sad things, and the painful things--」"
+  },
+  {
+    "name": "Helena",
+    "message": "「From now on, you're going to tell us everything properly. That's an order from the Chairwoman ♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Is that clear?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Understood.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Isn't that wonderful, Azel-san!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you... Lolotte.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You no longer have to worry all by yourself, Azel-san.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because you have so many people by your side who care so deeply for you!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Yeah.」"
+  },
+  {
+    "message": "Is Azel still unable to shake off the mistakes of his past?"
+  },
+  {
+    "message": "Even so, continuing to reach out to him without giving up is surely something only Lolotte can do."
+  },
+  {
+    "message": "To bring out his true smile, we have no choice but to take our time slowly."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's okay. Because we're right here beside you.」"
+  },
+  {
+    "message": "If we can become Azel's support, we'll definitely be able to spend a sparkling school life together from here on out!!"
+  }
+]

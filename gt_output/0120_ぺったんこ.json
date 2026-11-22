@@ -1,0 +1,588 @@
+[
+  {
+    "message": "ぺったんこ"
+  },
+  {
+    "name": "Synn",
+    "message": "「!」"
+  },
+  {
+    "message": "The same strange feeling as before..."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Could it be... you forgot something again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yeah, yeah, that's right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun... you haven't been bringing Student Council work home and losing sleep over it, have you? You mustn't push yourself too hard」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm fine. I'm not pushing myself at all.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai. There is no way Sakura―kun is that wholesome! It's merely carelessness, or―」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Early-onset amnesia?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As if!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It must be Alzheimer's」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's even worse」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then, Synn. Do you remember the promise we made ten years ago?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ten years ago...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Did you forget...?」"
+  },
+  {
+    "message": "Urgh... I-I have to remember this no matter what it takes!"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-wait a second! I'll remember it right now!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You say that... but you don't remember at all... You probably didn't think much of it anyway, so I guess it can't be helped...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Time out! It's right on the tip of my brain!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There is no need to remember!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To put it plainly, it was a promise to get married!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-wha--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-is that what it was?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Of course. You two are childhood friends, after all. That's only natural」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have heard that human childhood friends easily make those kinds of promises in the folly of youth」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Knowing how thoughtless Sakura-kun is, I could see him making a promise like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, Nanaka! I don't remember it at all...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「A-Ah, um, well, even if you apologize so seriously\\s02」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right. The coming and going of youth happens all the time」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Uh, well, I mean, we never made a promise like that in the first place」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whaat!? Both the President and the Treasurer are failures as childhood friends」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you mean, 'failures'?! Listen, just because people are childhood friends doesn't mean they all promise to get married!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right, Lolotte-chan. If childhood friends are two boys or two girls, they can't make a promise like that, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No way! They can't?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, I mean, since it's a promise between little kids, maybe that happens too... Some people have those tastes and preferences, after all」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, what are we even talking about?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um. Anyway. So with that, bye for today!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What do you mean 'with that'... Well, whatever. See you tomorrow, then」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bye-bye, Synn-kun. See you tomorrow」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Goodbye」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「'We shall never forget your noble sacrifice!' That's the right line here, isn't it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um... I don't really know what to say to that」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just like last time, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think so」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I bet it's another transfer student. Good grief」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... huh...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord, this thing's a barrier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A barrier?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The Demon Lord can feel the power of a barrier, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...? No way...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Who knows. Well, even a human could put up one this weak.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Barriers are the kind of thing that'll activate even if the caster doesn't have any special powers, as long as they're made following strict rules.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that how it works~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The real question is why she put up a barrier in the first place.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it.」"
+  },
+  {
+    "message": "Still, a barrier... why would Azel?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She's totally flat.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-what is?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Her tits, obviously. Since she's doing the backstroke, I can see 'em real clearly.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Abyss!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Who's there!」"
+  },
+  {
+    "message": "I quickly hid Paqy."
+  },
+  {
+    "name": "Synn",
+    "message": "「Uh... Student Council President?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's... you again.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you remember that you aren't supposed to use the pool without permission?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you that the other day, didn't I?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I forgot.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not saying you can't use it at all. Just get proper permission if you want to swim... Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why are you the only one here, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I don't know.」"
+  },
+  {
+    "message": "Is everyone else off today?"
+  },
+  {
+    "message": "Could it be... the barrier's power?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Paqy called him a mysterious transfer student, and Azel really is a mystery."
+  },
+  {
+    "message": "Still, if I ask him directly right now, he probably won't answer."
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you like swimming?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you want to swim, how about joining a club? I think that way, you wouldn't have to sneak around to swim like this」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, well, using the pool without permission is――」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is a club」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You don't know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um, a club is where everyone does what they like with their schoolmates using the school's facilities…… I guess」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you say that, then what you were just doing--swimming--would be pointless too, don't you think」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is it pointless?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Putting the school rules aside for now…… if you don't think it's pointless, Azel, then I don't think it is」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so? You looked like you were having fun, though」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……It's pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey. Aren't you forcing yourself to call it pointless?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's not true」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen. When you watch TV or read the newspaper, there are actually lots of people who love to say that things like play are all pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But even those people will shamelessly say the things they don't think are pointless aren't pointless. They'll say it's good for you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Or they make excuses like they're doing it because it's educational…… I think that kind of thing is lame」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are you trying to say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I just don't get why you'd call something fun…… and something you like doing, pointless」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, maybe it doesn't help other people, or it might even be a bother」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, if the person themselves is having fun, you can't really call it completely pointless, right…… Though it'd definitely be a problem if they went overboard」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I told you not to tell anyone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't tell. Still, make sure you get permission before using the pool, okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't tell anyone」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I already said I won't, wait―could it be you don't know how to get permission? If so, I can do it for you―」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... what?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "He left..."
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't tell anyone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I won't!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't you dare tell」"
+  },
+  {
+    "message": "He really left this time..."
+  },
+  {
+    "message": "Wait, no!"
+  },
+  {
+    "name": "Synn",
+    "message": "「How many times do I have to say it, you can't just go into the pool without permission!」"
+  },
+  {
+    "message": "Did he hear me?"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can't do thaaaaat!」"
+  },
+  {
+    "message": "Silence."
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "message": "Looks like he changed clothes in the blink of an eye."
+  },
+  {
+    "name": "Synn",
+    "message": "「If you heard me, then answer me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll make sure I'm not found」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not the poiiint!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「As long as I'm not found, it's fine, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I found you!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why were you the only one who noticed?」"
+  },
+  {
+    "message": "Could it be because I'm the Demon Lord?"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll make sure not to get caught next time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not the problem!」"
+  },
+  {
+    "message": "She ignored me and walked off......"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh...... Impressive as always, Demon Lord. Not satisfied with the girls on the Student Council （excluding Ria-chan）, you're already hitting on a new one. Truly, a hero loves bea----」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「NOOOOOOO」"
+  },
+  {
+    "message": "How does Azel...... know how to set up a barrier, anyway."
+  }
+]

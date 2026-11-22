@@ -1,0 +1,435 @@
+[
+  {
+    "message": "人類の剣"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I only saw her the once, mind, but I think she was a female student with short hair」"
+  },
+  {
+    "name": "Shio",
+    "message": "「When I stayed late at the Naginata Club, I caught sight of her several times, though only for a fleeting moment, so I could not discern her features clearly. It appeared to be a woman」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I saw her, I saw her~ Thought she was a ghost, I did~ Her face? Ahaha~ What are you expecting from me~? Still, I feel like it was a girl~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, people who happened to still be at the academy late after dismissal hours have been spotting a female student」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could it be the same girl?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「We need to strictly enforce that everyone goes home or back to the dorms right at dismissal time. And also--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As the Crusaders, we'll have to step up our night patrols too, right?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I object」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "I think we all looked pretty surprised."
+  },
+  {
+    "message": "Because it was the very first time Azel had voiced an opinion on Student Council activities, public or secret."
+  },
+  {
+    "name": "Azel",
+    "message": "「I am an officer of the Student Council」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Object... to the night patrols?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There is no need for you people to put yourselves in danger to protect anyone without a single bit of compensation」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You are neither the police, nor the military, nor a private security firm. You have no obligation. It is irrational」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We're the only ones who can protect Ryuusei Town, ya know!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that truly the case?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It is. As proof, our Kujo family has fought for generations using the power of the Rosary--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「For demons to appear exclusively in this one town over such a long span of years is irrational. One should assume they appear all across the world」"
+  },
+  {
+    "message": "We'd been told from the very beginning that only we could fight, and since I just took that at face value, I'd never even stopped to think about it."
+  },
+  {
+    "message": "Certainly, there was a chance they appeared outside of here too... or rather, it was unnatural for them to show up only here."
+  },
+  {
+    "name": "Misa",
+    "message": "「If they are appearing all over the world, that would mean the same problems as Ryuusei Town are occurring globally...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is rational to conclude that public institutions dedicated to countering demons exist」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A global secret organization... Somehow, that sounds exciting」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, there's nobody in Ryuusei Town fighting demons besides us」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Shio... doesn't count, I suppose」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is more natural to think that demons rarely appear in this town, which is why the Kujou family was able to handle them and no personnel from that organization have been assigned here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on a sec! Then does that mean in other places, way stronger demons are swarming out and fighting humans who oppose them?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That would be the case」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Unfortunately, that's not how it works」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big Sis!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Azel-chan. That's quite an interesting theory, but it's a shame. Basically, demons only appear in this town」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Isn't that unnatural?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Apparently, somewhere in this town, there's a singularity connecting Heaven, the Human World, and the Demon World. This place seems to be a sort of neutral zone」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, couldn't they still travel somewhere else from here?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「For them, staying in this world for too long isn't good for their health, you see. That's why they don't seem to venture far」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then there isn't any trouble with demons outside of Ryuusei Town?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Exactly. So a secret organization like the one Azel-chan mentioned doesn't exist. The only ones who can fight against demons are the Crusaders」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Therefore, there is no choice but to have you all handle it, O Crusaders, the swords of humanity!」"
+  },
+  {
+    "message": "We practiced for an hour again today, and then did our Student Council work."
+  },
+  {
+    "message": "And before we knew it, it was pitch dark. We're out on patrol."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's dark, isn't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it is night. Are you going to be okay, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem. Leave it to your big sister. I'm used to this」"
+  },
+  {
+    "message": "I see... Ria-senpai and Helena-san--no, the Kujou family--have been patrolling late at night and protecting Ryuusei Town for a long, long time."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Over there! There's something there! Kyaa, scary!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, it's not scary enough to cling onto me like that, is it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mgh... Well, not that I'm scared or anything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hofu」"
+  },
+  {
+    "message": "Just when I thought Nanaka had pulled away, something soft and wonderful pressed against my other arm!?"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-There really is something here!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's fine. I'm sure it's just the rumored female student」"
+  },
+  {
+    "message": "I feel like I understand how Paqy feels."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mgh... His reaction is totally different from when it was me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I'm so jealous of my Ria-chan!」"
+  },
+  {
+    "message": "Ria-senpai quickly pulled away from me."
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I wasn't clinging to you or anything. I just lost my footing a little」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, I get it. We have to find out what it really is」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This presence is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Azel」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Oh, it was just Azel-chan」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, so the rumored female student was」"
+  },
+  {
+    "message": "We rush over to Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「Good evening」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you doing?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You have to go home before closing time, you know」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I was checking out books」"
+  },
+  {
+    "message": "As usual, they were all photo books."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whoa. They're all books with barely any text that look super easy to read! Even I could tear right through these」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't you ever borrow novels or anything, Azel-chan?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Can't read... They're hard to read. Not interested」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's late, so I'll walk you home」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmh!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What's wrong, Synn? Wait, could it be」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're here!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Over there!」"
+  },
+  {
+    "message": "In the shadows of the trees lining the path, several dark silhouettes!"
+  },
+  {
+    "name": "Cat Demon",
+    "message": "「Meow!」"
+  },
+  {
+    "message": "Both sides spotted each other at the exact same moment. Tension shot through the darkness."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Those guys!」"
+  },
+  {
+    "message": "The demons with cat-like ears formed a battle formation and stared fixedly in our direction."
+  },
+  {
+    "name": "Synn",
+    "message": "「It doesn't feel like they're going to attack first」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Fall back」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We can't fall back here! Because we're the Crusaders, you know」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But we have fewer people than last time」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It's only been two days since we started our special training. And today, there are only three of us."
+  },
+  {
+    "message": "Since the enemy doesn't seem to be making a move, it looks like we could still retreat."
+  },
+  {
+    "name": "Ria",
+    "message": "「Another one's coming. And this one's huge!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are we in trouble?」"
+  },
+  {
+    "message": "Should we have fallen back!?"
+  },
+  {
+    "name": "Sally",
+    "message": "「Huh, what's everyone doing in the pitch dark?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I finished my part-time job so I came to hang out, did I come too late?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, great timing」"
+  },
+  {
+    "message": "Not many days have passed since we started our special training."
+  },
+  {
+    "message": "Still, I feel like we're on the verge of grasping something."
+  },
+  {
+    "message": "To test that out, fighting a battle here won't be a waste."
+  },
+  {
+    "message": "Besides, we even have Sally-chan's help now."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. Get away from here quickly」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Illogical」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe so. Still, we're the Crusaders」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah. After all, we're humanity's sword」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We won't lose」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's go, everyone! To protect the peace of the academy!」"
+  },
+  {
+    "message": "Skip the battle?"
+  },
+  {
+    "message": "ステージ３０_EASY"
+  },
+  {
+    "message": "ステージ３０_HARD"
+  },
+  {
+    "message": "ステージ３０_NORMAL"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "message": "てるてるアゼル"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now that you've gotten used to academy life, why don't you try joining a club or something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No need.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You came all this way to study abroad, after all. I think you should try enjoying yourself a bit more.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're persistent.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Could it be that you've already joined one, or something?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey, wait a second! ...He left.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I bet it's one of those. A club he's too embarrassed to tell people about. Short for embarrass--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「--brella!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President! It's an emergency!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Lolotte... What's wrong all of a sudden?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A Demon has appeared!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What?! Got it. Let's go!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, look over there!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, let's do a pincer attack.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Understood!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A―Alright, now's our chance while it hasn't noticed―sneak attack!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? W-Whaaa!」"
+  },
+  {
+    "message": "The Demon's body slam hits me head-on, sending my body flying into the air."
+  },
+  {
+    "message": "I'm blown all the way back to the fountain in an instant."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President! Are you alright?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, somehow...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「――!! It's coming this way!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President! Please watch out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah, this time for sure!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「――Wait, whoa!」"
+  },
+  {
+    "message": "My foot slipped, and just like that, I――"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow!」"
+  },
+  {
+    "message": "I headbutted the Demon and passed out."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. Are you alive?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah…… barely…… wait, I'm all sticky……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, what about the Demon!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Out cold in a flash from your headbutt, Mr. President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Well, that's a relief」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now that our job is safely done, I think you should do something about that soaking-wet state of yours first」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Good point. Lolotte, you don't have to hold back--you can plug your nose, you know」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The old butler lent me some nose plugs earlier」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh, still, this stench is awful……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Man, you're such a klutz, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I hate to admit it, but isn't keeping your distance like that a bit much? Even though you're usually clinging to me nonstop」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「My awesome fluffy body's gonna get all damp, ain't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Must be nice living the high life, honestly」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, I am the Great Sage, after all」"
+  },
+  {
+    "message": "Still, even though it wasn't late yet, there weren't any other students in sight."
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if the swim club has the day off today」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Beats me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, at least I didn't get in everyone's way.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, people'd look at ya funny.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're acting like it's none of your business!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ooh, scary. Hurry up and go wash yourself off already!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going, even without you telling me.」"
+  },
+  {
+    "message": "Seen off by Paqy, I headed into the boys' locker room."
+  },
+  {
+    "message": "I was tugging at my uniform clinging to my wet body, so I couldn't see well in front of me when I opened the door."
+  },
+  {
+    "message": "And then, heading straight for the shower room, I poked my head out from where I'd undressed--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "I couldn't believe my eyes."
+  },
+  {
+    "message": "After entering the boys' locker room, shirtless from the waist up, I was supposed to have made a beeline for the showers."
+  },
+  {
+    "message": "However, standing frozen there was a familiar girl in an unfamiliar state."
+  },
+  {
+    "name": "Azel",
+    "message": "「W-Why are you...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, it's not so much 'why' as, how do I put it...」"
+  },
+  {
+    "name": "Azel",
+    "message": "（I should have put up a barrier, so how...）"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, no! Azel! This is the boys' locker room!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A-As if I would know that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's a good thing it was me who walked in, though...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...L-Looking like that... what are you talking about!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah, I'm half-naked! That really is dangerous!」"
+  },
+  {
+    "message": "Meanwhile, Azel stood frozen in front of me, wrapped only in a bath towel."
+  },
+  {
+    "message": "She must have just finished swimming in the pool."
+  },
+  {
+    "message": "Water droplets dripped onto the floor, and a school-issued swimsuit lay carelessly..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? If her swimsuit is lying right here, that means...」"
+  },
+  {
+    "message": "Underneath that bath towel, could she be--"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Stop that! Where are you looking!」"
+  },
+  {
+    "message": "Noticing my gaze, Azel pulled her shoulders in tightly."
+  },
+  {
+    "message": "Not that I could see anything with it all covered up, yet right behind that single layer of cloth was unmistakably Azel's..."
+  },
+  {
+    "name": "Azel",
+    "message": "「G-Get out, quickly! O-Otherwise--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, Azel! If you go rampaging around dressed like that!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up! Right now, killing you is my top priority!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you accidentally trip or something, uh, your hem might flip up and things'll get really bad!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「As if someone like me would ever trip--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...\\s03」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Diiie!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugyaaah!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「D-Demon Lord... You were supposed to go wash yourself, so why are you in an even worse state than before...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, it's nothing, nothing at all...」"
+  },
+  {
+    "message": "Sigh. Why do I have to go through this..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up, don't talk」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel... you joined the swim club. You could've told me if you did」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No, I didn't!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why isn't anyone else here」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I... I just booked it for private use」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I knew it, Azel... you're no ordinary person. The only one who could pull off booking a place for private use like this is--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gulp...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You must be a princess of the Principality of Sharo-Ma!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-If that's what you want to think, then think whatever you like」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes, my lord. As you command!」"
+  },
+  {
+    "message": "When I checked with Helena later, she flatly denied it with a bright smile."
+  }
+]

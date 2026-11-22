@@ -1,0 +1,524 @@
+[
+  {
+    "message": "別れと出会いの輪廻"
+  },
+  {
+    "message": "――Four days left until parting with Lolotte."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Whaaat, is that really true!?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san, are you really going back to Heaven with Azel-san too……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, that's right!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Could you tell us why?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course, I'd be glad to!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm going to report to Heaven what happened during this Re-Crea, and everything I witnessed.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Re-Crea known in Heaven was something completely different from what it actually is.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Heaven isn't safe at all…… Simply acting like it doesn't concern us won't solve anything.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「A situation where Re-Crea dwells within an angel--that must never happen again.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why I'm going back to tell them. Together with Azel-san and Amyrina!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see, so that's why……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're gonna come back properly, right!?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Of course, I'll come back!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But I heard angels can't just come to the Human World so easily!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It'll be fine. I'll definitely come back.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Even being here in the Human World like this seems to have taken some pretty reckless effort on her part.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ehehe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So she'll definitely come back.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you really okay with that, Synn……? Even though you two finally, um…… started going out……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We're just going to be apart, not breaking up.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Haven't I told you over and over? I'll be back right away. And then I'll be able to be with everyone again.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san……」"
+  },
+  {
+    "message": "The worried expressions won't leave Nanaka and Misa's faces."
+  },
+  {
+    "message": "They probably know that Lolotte and I are stifling our loneliness and deliberately acting cheerful."
+  },
+  {
+    "message": "A promise woven from words alone."
+  },
+  {
+    "message": "Yet if I didn't do that, I would end up biting my lip."
+  },
+  {
+    "name": "Ria",
+    "message": "「If you've thought it through that much and decided on it together with Synn-kun...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then as your friends, we have to cheer you on!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see... It's not some half-baked resolve that would change just because we tried to stop you now, is it?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Besides, it's not like we could ever take your place. So all we can do... is support you...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Ngh. Still, if Lolotte-san leaves, what are we going to do about the secretary?!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sure Synn-chan will work extra hard to make up for the secretary's share as well.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Madam Chairwoman!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Have you spoken to Lord Siegfried and Lady Katerina yet?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「N-No... Not to Grandfather and the others yet...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Go with Tamiko-chan and tell them properly.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's right... Even Riesling-san probably doesn't want to be separated from Lolo-chan...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tamiko-chan is far more mature than someone like me, you know? She's probably even celebrating this new beginning.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Celebrating, you say...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right... This parting isn't a sad thing... We have to send her off with a smile!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「B-But...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Now, now. If we cling to her too much, she might end up saying she won't go back after all, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Th-Th-That's not true at all. I've already, already... made up my mind properly...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「To everyone in the Student Council, thank you so much for taking care of me all this time.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Truthfully, I wanted to keep doing Student Council activities with everyone... for much, much longer...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Everyone, I'm truly sorry. And for everything up until now, thank you so very much!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm so... sorry for leaving partway through. But I--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I promise! No matter what! I'll definitely come back to the Student Council!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte... No, we're the ones who should be thanking you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not gonna say goodbye! Hurry up, finish your errands, and get right back here!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't worry about things on our end, okay?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, yeah. I'll keep a strict eye on Synn so he doesn't go cheating on you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right, we'll have to keep a close watch on Nanaka\\s10」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Hehe」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So Lolotte can come back whenever she wants, we all have to make sure we keep her spot safe for her」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Right!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Very well! However, your duties are far from over」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Holy Night Festival!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah! Let's make it an extraordinary...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's make it a super fun Holy Night Festival!!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yeah!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Then, I pray for the success of the Holy Night Festival!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Great work today, everyone~」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Great work today!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Excuse me. I have a few errands to run, so I'll be heading off first~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey, Roro!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wonder what kind of errands she has...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe she needs to get things ready for coming back?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She probably has to talk to her family too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are you sure, though? Even though you don't have much time left to spend with Lolo-chan...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... right now might actually be my chance.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh... Sakura-kun, d-d-don't tell me... chea--?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I was wondering if I could give Lolotte some kind of present.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I actually wanted to ask everyone's advice on what kind of present would make Lolotte happy.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A present, huh~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lolo-chan loves the junk at your place, doesn't she? Why not just pick out something random from that?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way, that's terrible!! You have to give her a much more romantic present!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even if you say that... right, Synn?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Romantic, huh~~ When a boy gives a present to a girl he really likes, I guess it has to be *that*, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What in the world is 'that'...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A wedding... ring?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-W-Wedd--Bawk?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold on, Senpai!! That's way too soon!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh, i-isn't that normal...? When you're dating...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... Classic Ria-chan. Being so sheltered makes you super cute!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「J-Jeez! Pa-chan, stop it!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Not bad. In fact, I think it's wonderful!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As expected of Onee-sama... She truly understands a maiden's heart...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Not you too, Misa-chan!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't that just your Senpai-filter talking?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not true. Even if it's not an engagement ring, a pair of matching rings carries the meaning of 'strengthening their bond.'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Their bond...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, you can always keep it right by your side」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A ring, huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn... rings are pretty expensive, you know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, though... it's Christmas right now, so the shopping district is busy anyway...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why don't you try picking up a part-time job for the first time in a while?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A part-time job...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's stop by Old Man Amakawa's place on the way home and ask」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course, you're only doing it after we finish prepping for the Holy Night Festival!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah... yeah! I'll do that!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then Misa-chan and I will go look around for a shop that has cute rings」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And while we're at it, matching rings for me and Onee-sama too...\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Umm, let's save that for another time, okay\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, everyone...」"
+  },
+  {
+    "message": "Everyone's kindness really sinks into my heart."
+  },
+  {
+    "message": "It's the dead of winter."
+  },
+  {
+    "message": "Shooting stars are still raining down in the sky, though before long, these stars will surely turn to snow."
+  },
+  {
+    "message": "--Meanwhile, around that time."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Excuse me! Whereabouts would the knitting books be kept?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh... knitting, you say? They're over in that section.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Thank you very much!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It looks like you've made a full recovery. Congratulations!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Thanks to all of you. I'm truly sorry for all the trouble I caused.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Not at all. We managed to get through Re-Crea safely too, so everything's A-okay!♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee... it certainly seems so. I'm truly glad that these shooting stars are no longer an omen of misfortune.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It snows in the Human World too, doesn't it?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was surprised when I first came to the Human World, too. And I remember how very cold it was.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, to keep warm--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-Wawah! Please pretend you didn't hear that! Bye-bye!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...I wonder what Lolotte is working on so intently...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Knitting, is it...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ufufu. It must be a present for that person.」"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "message": "九浄家の魔王"
+  },
+  {
+    "name": "Synn",
+    "message": "「Excuse me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What's going on, Sis?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is there something important you wanted to talk about?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You've got pretty sharp instincts, don't you?」"
+  },
+  {
+    "message": "Helena sips her black coffee."
+  },
+  {
+    "name": "Helena",
+    "message": "「It's about Re-Crea, which I mentioned before. Do you still remember?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. Though, how should I put it... it doesn't really feel real, and I don't quite understand what's actually going to happen」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Just hearing that shooting stars are falling doesn't really explain anything, does it?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Still, this is the first time in my life I've ever seen so many of them falling」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Right. Same for me. The last Re-Crea happened just a little before I was born, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then my mom and dad probably know about it too」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The phenomena happening here in Ryuusei Town match almost completely with what we've heard from Mother. It's definitely Re-Crea」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hey, Sis... are you thinking of telling Synn about that thing?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「When Re―Crea draws near, demons start coming and going in the Human World much more frequently, right? Whether it's to take advantage of that or not, I don't know, but―」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A certain someone always makes an appearance in the Human World」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You mean...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "message": "Do these two know that I'm the Demon Lord?"
+  },
+  {
+    "message": "Did they call me here like this because they know?"
+  },
+  {
+    "message": "And knowing that, what are they planning to do with me?"
+  },
+  {
+    "message": "I catch my breath in tension."
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, Sis, are you teasing Synn again?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're making a serious face for once, so he's totally startled. Right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Er, uh, well...」"
+  },
+  {
+    "message": "People who usually fool around are way more intimidating when they get serious, after all."
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, I suppose that's true.」"
+  },
+  {
+    "message": "Helena-san let out a long, deep sigh."
+  },
+  {
+    "name": "Ria",
+    "message": "「Here. Have some tea and relax♪ It's not that tense of a topic.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-Thank you very much.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If anything, it might just leave you dumbfounded\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Huh...」"
+  },
+  {
+    "message": "Either way, it didn't seem like I'd been dragged here to be grilled about being the Demon King."
+  },
+  {
+    "message": "Still, having the Demon King suddenly brought up as soon as I got here nearly gave me a heart attack."
+  },
+  {
+    "name": "Ria",
+    "message": "「I mentioned at the start that our Kujou family has protected the Rosary for generations, right?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「It has been passed down for a staggering number of years. That means a fair number of stories regarding Re-Crea have been preserved and handed down as well.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And you see, the one who almost always shows up in those stories is--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Demon King, I take it.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Precisely. Don't you feel like tracing the Demon King's existence would naturally unravel the mysteries of Re-Crea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, there's bound to be some kind of connection.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Reports already indicate at this stage that this upcoming Re-Crea will have the largest impact in history.」"
+  },
+  {
+    "message": "The historic Kujou family, indeed. Maybe they had some kind of confidential agency investigating Re-Crea behind the scenes."
+  },
+  {
+    "name": "Ria",
+    "message": "「And so, I want the members of the Student Council to know even a little bit about Re-Crea... and about the Demon King.」"
+  },
+  {
+    "message": "I definitely wanted to know what kind of existence the Demon King actually was."
+  },
+  {
+    "message": "Picturing my dad didn't really help me wrap my head around it, and asking him would just get me another obnoxious bat message."
+  },
+  {
+    "name": "Synn",
+    "message": "「But if it's something that important, why only tell me?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well, that's... um...\\s03」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Do you want to know about the Demon King?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Splendid! In response to that eager answer, I shall tell you the tale of the Demon King passed down in our Kujou family!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「His name is M☆A☆O\\s07H♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Demon King♪ Demon King♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「He's got a slick back view, M☆A☆O\\s07H!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Demon King! Demon King!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「He's cool, yet a little bit bad. That's what makes him so awesome, M☆A☆O\\s07H♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Hi, hi」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Grasping the fate of the world in his hand, clenching his fist for a Big Bang♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「BANG, BANG」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Friend or foe, the dark hero♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sweep me away again today\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That mysterious, cool guy is M☆A☆O\\s07H」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Is M☆A☆O\\s07H」"
+  },
+  {
+    "name": "Helena",
+    "message": "「--And that's basically how it goes.」"
+  },
+  {
+    "message": "Whoa, and it didn't even have a punchline..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me that was actually the legend of the Demon King passed down in the Kujo family?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Believe it! This is what you call tradition.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "message": "Ria-senpai is looking down, blushing while eating a kashiwa mochi. Don't tell me she was bribed."
+  },
+  {
+    "message": "Still, I'm starting to have even less of a clue what kind of clan the Kujo family actually is."
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, I actually just made that up for fun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Slip*」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The lyrics themselves are true, though. That's what Mother told me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It kinda sounds like she only remembered what he looked like, though...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, when you see a handsome guy, you can't really help reacting like that, right~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Sigh*...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm sure the previous Demon Lord... must have been such a dandy, wonderful gentleman~~\\s04」"
+  },
+  {
+    "message": "Helena's eyes are sparkling, swooning like a schoolgirl despite her age."
+  },
+  {
+    "message": "Does 'the previous Demon Lord' really mean Dad... in that case?"
+  },
+  {
+    "message": "Would she be disappointed if she found out who he actually is?"
+  },
+  {
+    "message": "...Wait a second?"
+  },
+  {
+    "message": "Does that mean Ria-senpai's mom actually knew my dad?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... well! Do you... know the Demon Lord's name?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「The Demon Lord is just the Demon Lord, right? Though maybe 'Demon' is the surname and 'Lord' is the given name.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Apparently things weren't all that bad last time, so it ended without anyone really finding out who the Demon Lord was.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's how it was.」"
+  },
+  {
+    "message": "In the end, not much useful information was left behind regarding the Demon Lord."
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, to think that you admire the Demon Lord, Helena...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Because he is just totally, spot-on my type~~\\s04」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Isn't that just your own idealized fantasy, Sis? He only looked that way--you don't know if he was actually like that.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my, are you sure you should be saying things like that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Wawah! I'm sorry!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I-I-It's nothing!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu. Well, that's just how it is.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't know what 'how it is' means, but... well, this was helpful.」"
+  },
+  {
+    "message": "At the very least, it doesn't seem like they have a bad impression of the Demon Lord."
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "message": "Helena is... well, like that, and Ria-senpai doesn't seem to detest him all that much either."
+  },
+  {
+    "message": "Maybe both sisters are actually secret groupies of the Demon Lord."
+  },
+  {
+    "message": "Just knowing that puts me at ease. With this, even if I get found out as the Demon Lord, maybe I won't get expelled."
+  },
+  {
+    "message": "Still..."
+  },
+  {
+    "name": "Helena",
+    "message": "「You're the Demon Lord? Not even close! You're neither suave nor a bad boy at all!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Lying just to get on my good side is seriously the lowest. Therefore, you're expelled!」"
+  },
+  {
+    "message": "Eeeek! Surrounded on all sides either way!"
+  },
+  {
+    "message": "Anyway, I'd better hide my identity until I can become the kind of Demon Lord Helena talks about."
+  },
+  {
+    "message": "Though I don't know if I ever can\\s01"
+  }
+]

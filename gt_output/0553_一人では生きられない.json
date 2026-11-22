@@ -1,0 +1,298 @@
+[
+  {
+    "message": "一人では生きられない"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No way?!」"
+  },
+  {
+    "message": "I couldn't believe my ears."
+  },
+  {
+    "message": "As I was casually walking down a path on the academy grounds, the unmistakable sound of a roasted sweet potato vendor suddenly echoed out without any restraint."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "A man was walking away toward the main gate. A roasted sweet potato cart had been parked there."
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "message": "Melilot-san was holding a paper bag containing several roasted sweet potatoes in her hands. It looked like she had just bought some."
+  },
+  {
+    "name": "Melilot",
+    "message": "「T-This is not what it looks like, Sakura-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「All necessary information and goods can be obtained online.」"
+  },
+  {
+    "message": "...What is she suddenly talking about?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Naturally, roasted sweet potatoes can also be purchased via mail order, however...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Presumably as a result of prioritizing shelf life and ease of transport, they are all soaked in preservatives and have a sour taste.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To state my logical conclusion first, those things may be called roasted sweet potatoes, yet they are no roasted sweet potatoes at all.」"
+  },
+  {
+    "message": "So they just tasted awful, yeah."
+  },
+  {
+    "name": "Melilot",
+    "message": "「At the same time, I heard rumors that there is a roasted sweet potato stall in Ryuusei Town reputed to be exceptionally delicious.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unfortunately, they do not offer mail order, so I asked Helena and Riesling to go buy some for me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Upon tasting them, they were indeed delicious, yet they had inevitably cooled down during delivery, making it difficult to say I had truly researched them.」"
+  },
+  {
+    "message": "Y-You don't have to go out of your way to investigate it..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「While I was pondering how to obtain and examine them freshly made, I learned that although mail order is impossible, they do take delivery orders, so I had him come here.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Ryuusei Academy is strictly off-limits to unauthorized personnel on weekdays, though... What kind of connections does she have?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun?」"
+  },
+  {
+    "message": "Still, it's rare for Melilot-san to speak so talkatively on her own initiative. Since I have the chance, I might as well hear her out."
+  },
+  {
+    "name": "Melilot",
+    "message": "「S-Sweet potatoes yield roughly twice the calories per unit area compared to rice. They are an extraordinarily efficient and rational food source.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Furthermore, this paper bag is crafted by folding old newspaper. Both its shape and durability are impeccable--truly fascinating.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, there is just one point I cannot comprehend.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The roasted sweet potatoes Helena and Riesling bought for me were all round」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, despite having purchased them at the exact same stall, the ones I have on hand are all long and slender... Could this simply be a coincidence?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nope, it's all in how you order them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At that stall, the sweet potato vendor gives you the long, skinny ones if you say 'five sticks please,' and the round ones if you say 'five pieces please'」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is that so. That is knowledge one could never glean from the internet or books」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yet, another question comes to mind. Why is there a need to categorize them?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm, if you're eating while walking around outside or want a fluffy texture, go for the round ones」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And if you want something easy to eat one-handed while reading a book, pick the long, skinny ones, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-I see. That too is knowledge I did not possess... wisdom, rather」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I would very much like to speak with you further and learn more, Sakura-kun, but I shall take my leave for today」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am going to test whether roasted sweet potatoes are suitable as a companion to black tea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that right」"
+  },
+  {
+    "message": "Melilot-san is acting a little strange today. She keeps volunteering information I didn't even ask about."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will give you one piece... no, one stick of this. Please keep this matter strictly confidential. Understood?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll gladly take it, but... why are you giving it to me?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... It's hush money」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About what?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「U-Ugh...! I have properly handed it over, so farewell」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You saw it, didn't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Helena-san!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's right. Melilot's secret, which only I know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You see, that girl knows far too little about the outside world」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san does... even though she seems so knowledgeable?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, she lacks firsthand experience--seeing with her own eyes, walking with her own feet, and using all five senses」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be because she's an indoor person?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, that's part of it, too... though it's also true she had a reason she had to stay inside. Still, you know...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You went to all the trouble of being born into this world, so cooping yourself up is such a waste♪」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Thinking that, we actually studied abroad together once. That's where we met Tamiko-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I suppose ever since then... Melilot started coming outside like this. She's busy right now, so she doesn't go very far, though」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Heehee... Calling the food stall vendors all the way over here is going a bit too far, though」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You should teach Melilot lots of things too, Synn-chan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Me...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes. Especially you, Synn-chan--it seems like you know plenty of things... that Melilot wouldn't」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I really don't know... anything that impressive\\s01」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Heehee. Being modest like that is so like you」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's not true at all, though. Even I learn so much from everyone」"
+  },
+  {
+    "name": "Helena",
+    "message": "「In the same way, you ought to learn all sorts of things from Melilot. About Re-Crea, too... right?」"
+  },
+  {
+    "message": "The library Melilot-san manages is a treasure trove of knowledge."
+  },
+  {
+    "message": "All kinds of literature, the history of the world... and the truth of Re-Crea. Of course, it isn't limited to just that."
+  },
+  {
+    "message": "Every bit of it is fascinating. What one person can gain all on their own is limited, after all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes! I'll give it a try!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's the spirit! Here, I'll give you this as a present」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And with that said, give me something too\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "In the end, we wound up trading the trophy for half a roasted sweet potato."
+  },
+  {
+    "message": "If I hadn't been there, Helena-san was probably supposed to get the roasted sweet potato... I guess."
+  }
+]

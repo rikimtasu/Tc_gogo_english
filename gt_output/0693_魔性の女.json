@@ -1,0 +1,1470 @@
+[
+  {
+    "message": "魔性の女"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, hey, Azel-chan. Wanna play cards together after this?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I refuse」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Euu~~. What am I supposed to do until Nana-chan finishes~\\s06」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do your homework」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!!」"
+  },
+  {
+    "message": "This sensation is the same as back then......."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn......?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To the Student Council room, hurry...... Let's gather with everyone」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Could that be......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...... They've made their move sooner than expected」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's gotten into you all of a sudden? We haven't even started talking about the Holy Night Festival yet......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Something similar has happened a few times before」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So, what happened?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I always felt a strange presence」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's what they call a sex sense, right!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You mean sixth sense!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Every single time after I felt that presence, a Demon appeared」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think I was sensing some kind of power--probably magic or something like that......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That means......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And this time...... it feels like something intentionally set up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It was the same when I met Soltia. Like being drawn in by something--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sure someone is calling out to me」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How do you know something like that......?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's...」"
+  },
+  {
+    "message": "I met the eyes of Ria-senpai, who was gazing at me anxiously."
+  },
+  {
+    "message": "And then, I spoke with my eyes."
+  },
+  {
+    "message": "It's okay, Senpai."
+  },
+  {
+    "message": "Because you gave me courage, Ria-senpai."
+  },
+  {
+    "message": "I'm not scared anymore."
+  },
+  {
+    "message": "Because you stayed by my side even after finding out I'm the Demon Lord."
+  },
+  {
+    "message": "That's why I can keep moving forward."
+  },
+  {
+    "message": "As long as I'm with you, Ria-senpai."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's probably because I'm the Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though it's still this early, there's nobody around...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Tch... They went out of their way to put up a Null Barrier.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A Void Barrier...?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, it's a cheap trick that hides things by exploiting the preconception that nothing could possibly exist there.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So anyone who already knows it exists can see it, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah. The power of belief solidifies a thing's existence. If you don't know about it, though, its presence fades until it disappears.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So by doing this, they can stay inside the academy without anyone noticing...」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Indeed. However, its existence was not made known back then. Therefore, there was no way it could be seen.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I see... It seems Virus was sending you signals like this in order to reveal its existence.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So this time, you're the one who called me」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You were drawn here in reaction to the magic power, weren't you? Because you are the Demon Lord, Synn Sakura!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Soltia!!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「What happened to the rest of your friends? Do you really think you can stand against me all by yourself?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm more than enough to handle this on my own.」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Do you truly believe you can win without even using the Demon Lord's power...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's probably one of the Seven Demon Generals. I think either Soltia or Virus is calling me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The location is... um... around the plaza at the foot of Finis Tower...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So they went out of their way to throw down the gauntlet, huh? They've got some nerve.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Bring it on, I say」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Never back down from a fight, right!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Wait, everyone!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Like I said before, those two are on a whole different level. So... so it's not that simple...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Are you saying that even if all of the Crusaders banded together, we still couldn't win?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You mean there's a chance we'd lose even if we combined all our Crusader powers!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I don't know... I just don't know...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai is right」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun!! The power we've built up all this time isn't that weak, is it!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I mean. The fact that they went out of their way to summon us means they're lying in wait」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And what's wrong with that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It means they might have set a trap to put us at a disadvantage」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I see...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「They're too unpredictable to let our guard down... so I think we should face them under as fair conditions as possible」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then that means we shouldn't take their bait, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, we can't just leave them alone, can we? There's no telling what they might do」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, that's true, but...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What should we do, Senpai-san...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We can't leave them alone... yet we have no chance of winning... I can't put everyone in any more danger...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What should... what should I do...? I don't know... I don't know what to do...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine, Senpai. It's not like our chances are zero」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What are you going to do?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you all trust me?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「O-Of course...... right?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why even ask now」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is there really any need to go out of your way to say that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun...... you have a good plan, don't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Ria",
+    "message": "「......Then, I...... we believe in you, Synn-kun」"
+  },
+  {
+    "message": "At Ria-senpai's words, everyone nodded in unison."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, everyone...... Alright, here's the plan」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm going alone」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Me alone is enough」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……」"
+  },
+  {
+    "message": "In response to my combat stance, Soltia readies her staff."
+  },
+  {
+    "message": "However, she shows no sign of making a move."
+  },
+  {
+    "message": "The same goes for me."
+  },
+  {
+    "name": "Soltia",
+    "message": "「You're quite clever, aren't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「That I can't lay a hand on you...... You noticed, didn't you. What Virus ordered me to do」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「And so you took advantage of that pretext to show up all by yourself」"
+  },
+  {
+    "name": "Synn",
+    "message": "「At the very least, as long as it doesn't become self-defense, it shouldn't come to a fight」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Naturally. I can't just let myself be taken down without resisting」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Heehee...... So, do you intend to bring this to a negotiation?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If possible, that's what I'm hoping to do」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The answer is no. There was never any room for discussion to begin with」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Because there's nothing else that can be done. Fighting is the only option left to stop me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But since Virus is holding you back, you shouldn't be able to fight me!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Are you suggesting I cower in Virus's shadow……?」"
+  },
+  {
+    "message": "Magical power overflows from Soltia's body."
+  },
+  {
+    "name": "Soltia",
+    "message": "「I would never cower before the likes of a mere demon!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「――That's what she says, anyway, though the info that she can't lay a hand on me isn't 100% reliable.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then that makes it even more dangerous!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, I figure we'll just count ourselves lucky if she actually buys that I came alone.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A plan like that…… There's no way you can pull it off all by yourself!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Five minutes.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About five minutes. That's the limit for how long I can fully maintain the Demon Lord's power.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Demon Lord's power……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I doubt she'll fall for any cheap tricks from me, so clashing head-on is pretty much inevitable.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So I'll draw her in and wear her down as much as I can. Once she's exhausted, she's bound to get careless and leave an opening.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Winning is a tall order. Still, I figured I could at least manage that much.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Okay, but what happens after that……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Since she's a demon, the light attribute――Ria-senpai's power--should be her weakness.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「My power…… You mean uniting everyone's strength into a single point in unison, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right when she's completely worn out, we hit her with a massive blast.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a really dangerous gamble……!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, you're the only one…… who can pull that off, aren't you?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What is with that!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「When you put it like that…… we don't really have any choice but to go along with it……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even though we barely understand anything about the Demon Lord yet……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「About the Demon Lord... once this is over, I'll tell you everything properly. Everyone, trust me... please!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「'Trust me,' he says... What is his deal? He's just trying to act cool...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm still worried. With Synn all by himself...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I never knew waiting could be so painful... Aaah, I'm so worried~~\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Senpai... aren't you worried at all, Senpai?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「...Ngh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Once something happens, it'll be too late!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If anything were to happen to Synn, I...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Just a little longer... so...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm sure Synn-kun trusts us...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, I'll trust Synn-kun too...!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Guh...!!」"
+  },
+  {
+    "message": "Unable to hold out any longer, Soltia's magic burst right before his eyes."
+  },
+  {
+    "message": "Pain so intense it threatened to knock him unconscious assaulted him."
+  },
+  {
+    "message": "Soltia had left nothing to chance."
+  },
+  {
+    "message": "She had laid traps all over the area to inhibit the Demon Lord's awakening."
+  },
+  {
+    "message": "With his full power sealed away, the tide of battle was visibly against him."
+  },
+  {
+    "message": "Yet, by believing in those backing him up, he was able to stand back up time and time again."
+  },
+  {
+    "message": "However--"
+  },
+  {
+    "message": "Taking direct hits back-to-back was bad, no matter what."
+  },
+  {
+    "message": "First, his body screamed in agony, unable to withstand the fierce onslaught."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Ngh」"
+  },
+  {
+    "message": "He had been battered so badly he could no longer even form words."
+  },
+  {
+    "message": "The moment he reached his limit was drawing near."
+  },
+  {
+    "name": "Soltia",
+    "message": "「Farewell」"
+  },
+  {
+    "message": "Yet, facing the unleashed power, he did not close his eyes in fear."
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew, made it in time」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Just in the nick of time~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Honestly, how pathetic can you get?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Haha...\\s02」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「So you've finally shown yourself」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah... hah... Did I manage to hold out for five minutes...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You held out for six」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone, let's go!!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It landed...!!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It didn't work at all!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「How can she be so tough...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No... the Spirit Power was repelled--it was neutralized...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They canceled each other out!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Light can only be neutralized by light... And light is the power of spirits. A power only angels can wield...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And yet... there's a demon wielding the power of light...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me, Soltia is...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Are you saying... that you're an angel?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「There's no need to tell you. Because--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Kyaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai!!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You're all going to disappear right here」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No way...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-What are we supposed to do... on our own...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Pull yourselves together!! We haven't lost yet. I'll handle this--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, Misa-chan!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Please…… r-run……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Run away? No, we couldn't……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We could never do something like that!!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You've wandered into my domain. Running away was never an option for you in the first place」"
+  },
+  {
+    "name": "Misa",
+    "message": "「N-No way……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-Is this the end for us……?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Vanish in despair!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ngh……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sisteeeer!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Stop it……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Synn……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll protect Senpai…… I'll……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Heehee, what can you possibly do in that state――」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Wha……!?　Don't tell me, the Demon Lord's power is……!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「I was supposed to have suppressed its awakening, so how……!!」"
+  },
+  {
+    "name": "Female Voice",
+    "message": "「――You let your guard down, Soltia」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「――!?」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「You forced your way into my domain……!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you truly believe a fake like this…… can make you an angel?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-You're……!!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「The Nive Clan――so you really were here!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you really have time to be chattering away?!」"
+  },
+  {
+    "name": "Soltia",
+    "message": "「Tch!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey!! Don't run!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Stooooop!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Haah... haah... You're the ones who are going to stop...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Helena... san...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Haah... haah... It seems I made it just in time\\s10」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Big sis... why...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What's with that? I rushed over as fast as I could because you were in a pinch」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-Thank you\\s01 But, that's not what I meant...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why is Melilot-san here...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Is everyone unharmed?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh... ughh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Regrettably, it appears not everyone is unharmed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Waaaaah!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Presideeeent!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, hang in there, Sakura-kun!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……!!」"
+  },
+  {
+    "message": "Ria-senpai hoists my body onto her back."
+  },
+  {
+    "name": "Ria",
+    "message": "「Somewhere he can rest... To the infirmary!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No, let's go to the chairwoman's office. There's a comfortable bed in there」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-Why there...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, ah!! Senpaiii, please waaaait!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Anyway, I'm just glad everyone is safe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm sorry... Getting into a mess like this without even letting you know, Helena-san」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Geez, don't talk right now. You need to get plenty of rest」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Besides, after what happened today…… To think that Melilot-san is…… 」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Soltia called her something like the Nive Clan, though……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please forget about that already」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The librarian just made a blatantly disgusted face」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Maybe she doesn't really want to be called that?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Tch……!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Eekeeeeeeeeee!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san…… you were a demon all along」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, just as you've guessed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That power that drove back Soltia couldn't have been anything ordinary」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In fact, it rivals…… no, surpasses even the Seven Demon Generals」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The Seven Demon Generals……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Come on, Melilot」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sigh…… That custom is still around? How absurd」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Look who's talking, Melilot. Even though you're called one yourself」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh, ehhhh!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That title was just slapped onto me by some random person as they pleased. I have no recollection of ever inheriting such a name」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-no way…… The librarian of our academy's library is……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「One of the Seven Demon Generals……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「They're surprisingly close to home, aren't they～～」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「There's an angel here too, though」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Fweh!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I've heard a great deal about everything from Helena」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「From my analysis, it's obvious that Soltia and Virus have joined forces and are plotting something by taking advantage of Re-Crea」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Until now, Soltia and Pasta have been forming a magic circle boasting a massive area within the academy in order to amplify Re-Crea's energy」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「By doing so, they likely intended to make the chaos even greater」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So you knew that much, yet you lay low all this time?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I was letting them roam free until their objective became clear」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Why would you let such dangerous people just roam free!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What would you have done... if something terrible had happened......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The answer is simple. Because I could have stopped those two at any time」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Soltia created a barrier and trapped you all inside to corner you for interfering with the magic circle's formation」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I intervened and destroyed it. Stopping riffraff of their caliber is effortless」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What I want to know is what they intend to do by taking advantage of Re-Crea, and what they are capable of doing」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In order to uncover their true motives, by my calculations, there was no disadvantage to letting the two of them roam free」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then the reason we ended up in danger was because we stuck our noses in where we shouldn't have......」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Are you saying our uncalculated actions meant we brought it on ourselves?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I don't think very highly of such self-deprecating thoughts」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hold on, Melilot. You're being immature」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「......You're right. After all, I couldn't possibly let you lose your futures as well」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Melilot......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For things to have turned out like this...... I'm truly sorry」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-No, please......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「......I understand. Just how seriously you...... saved us, Melilot-san......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That power isn't something you could just casually draw out......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no way we can just leave enemies like that alone......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I agree. Now that we've revealed our true identities as well, I have no intention of staying silent like this」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What are you planning to do?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if we want to make a move, there is still too much uncertain information. In order to clarify it, we will need the Crusaders' support」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ours...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes. And the Demon Lord's power」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The Demon Lord's...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-How do you know about that, Big Sis...!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Ria-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Aah...!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I just kind of had a hunch, is all... Judging by Ria's reaction, though, it looks like I hit the bullseye」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I-I'm sorry, Synn-kun\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no, it's already out in the open with everyone else anyway...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Just as Helena-san says, I am the Demon Lord. I inherited that title from my father」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see... Thank you for telling me honestly」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ria. Aren't you glad the Demon Lord turned out to be Synn-chan?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「After all, Synn-chan doesn't seem capable of abusing the Demon Lord's power」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please say I wouldn't, not that I couldn't\\s02」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Heehee. I'm just happy, you know. Being able to meet someone I've admired」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, I couldn't hold a candle to Soltia...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, of course. You lack the self-awareness of being the Demon Lord, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...! Because without that self-awareness, the Demon Lord's power isn't supposed to be able to awaken, right...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Precisely. That is why the power you've used up until now is merely a stopgap measure」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean by that?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I'm still in my growing phase, you know. Just like this!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「H-Hey!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Self-awareness isn't a matter of willpower. It's something much simpler and more natural」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And to get that across to you, I asked Melilot for a little help」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun. Right now, you are merely borrowing the power of your guardian angel. However, haven't you forgotten something?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The Demon Lord is the king of the Demons. By nature, you are capable of wielding an equal... no, an even greater energy without relying on your guardian angel」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The power known as magic」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Magic is the true essence of the Demon Lord's power. You simply do not know the art of wielding it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is why, even when you draw out your latent demonic power, you are unable to demonstrate your true potential」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「A Demon capable of handling Spirit Power is an anomaly. Ordinarily, the two repel one another and disrupt internal harmony」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yet your very existence made it possible. Demonic power permitted you, and Spirit Power accepted you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「The demonic power of Demons, and the Spirit Power of angels... A special existence where those two can become one. That is――」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The Demon Lord」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, that's not it. I'm sure it's because it's Synn-kun... Because it's Synn-kun, it was possible」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Why do you think so?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「All this time I've spent with Synn-kun, he's treated both angels and Demons without discrimination」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So before I knew it... I started wishing that Synn-kun was the Demon Lord」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun was a little different from the Demon Lord I had heard about from Mother. Even so, I――」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm truly glad that Synn-kun is the Demon Lord. Nothing could ever make me happier than this」"
+  },
+  {
+    "name": "Helena",
+    "message": "「See? Didn't I tell you it was a good thing?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun. I will teach you the art of magic and draw out your fullest power as the Demon Lord」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, it will be grueling training. No one else can bear that pain--you alone will have to endure it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As for myself, I have no wish to subject you students to anything further that would threaten your futures.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But if I can protect everyone...!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will repeat myself. You will undergo grueling instruction. With half-baked resolve, you will end up destroying yourself.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even so, will you choose the path of living as a Demon King--different from the human you have lived as up until now?」"
+  },
+  {
+    "message": "Ria-senpai believes in me."
+  },
+  {
+    "message": "And she supports me without harboring a single doubt that I'm the Demon King."
+  },
+  {
+    "message": "What kind of Demon King would I be if I didn't answer that!!"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll become my own kind of Demon King. I'll do it... Please let me do it!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Understood. We shall begin as soon as your physical condition recovers. Please rest well today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That is all. Good work today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A rapid-fire Q&A?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. There is no need to gauge the other person's reaction every single time.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「More importantly, I had already calculated that the probability of Sakura-kun refusing was 0%.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-Then you didn't have to go out of your way to explain... wait, ah」"
+  },
+  {
+    "message": "Come to think of it, when she taught me how to borrow books at the library, there was a similar kind of pressing confirmation like just now."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am impressed that you did not chicken out. As expected of the Student Council President.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「But then why didn't you cooperate with us until just now! Even you were in on it, Big Sis!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Even if you say that... right, Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. After all, I never dreamed that the Demon King was right here so close by.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That sounds so fake...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I bet you were having fun teasing us. How rude.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You're wrong. It'd be uncool if I guessed wrong about him being the Demon King, wouldn't it? A commander must never show weakness!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's the reason\\s02」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let me make this clear, my cooperation is strictly for the purpose of raising the odds.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, Melilot, you always have to say such cold things~」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then, please excuse me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Melilot!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...What is it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Can we... really be of help to you, Miss Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Even if it's a mere 1%, that isn't 0%」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The potential is hidden within. It's surely worth trying」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I call that 1% hope」"
+  }
+]

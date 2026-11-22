@@ -1,0 +1,661 @@
+[
+  {
+    "message": "信じる道"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Sigh」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, is something wrong? You look pretty pale this morning」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yeah. It's nothing...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm asking because it definitely doesn't look like nothing」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Got something on your mind? If so, I'm here to listen」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "Ever since returning to the Human World, I've been thinking about it nonstop."
+  },
+  {
+    "message": "Even so, I still haven't worked up the readiness to tell Nanaka or everyone else about what happened in the Demon World."
+  },
+  {
+    "message": "I haven't been able to muster the courage to confess that I'm the Demon King."
+  },
+  {
+    "message": "I just don't know what I should do..."
+  },
+  {
+    "name": "Synn",
+    "message": "「...Thanks, Nanaka」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Really though, I'm fine...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh, yeah? Well, if you say so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President, Mr. President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hm...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'm not sure how to write this report, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, this is, um... how did this go again...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, Sakura-kun! What's with that total lack of motivation!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh, ah, sorry...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now, don't get angry, don't get angry\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Everyone has their off days, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Ria-chan's having *that* time of the month!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hohou!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Funny, I happen to have a rolling pin in my bag, and--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Satsugai!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, everyone. I'm really fine, so...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah. I believe you, Synn-kun.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Good grief... For Ria-senpai's sake, I'll let you off the hook today.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, what happened on that day...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Never mind about that.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes, let's change the subject」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Come to think of it...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I heard Professor Sengenin suddenly resigned from the academy today.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. It's a shame, considering what a wonderful teacher he was...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I feel like he was just strict, though...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I feel like a huge limb has been ripped off my shoulders.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A weight lifted off your shoulders, you mean\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "So that confirms Professor Sengenin's entire identity was a lie."
+  },
+  {
+    "message": "He infiltrated the academy to frame Melilot-san and me..."
+  },
+  {
+    "message": "Or perhaps he had some other, grander objective."
+  },
+  {
+    "message": "Though I couldn't possibly imagine what that might be..."
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What's the matter, Demon Lord? Aren't you gonna go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah...」"
+  },
+  {
+    "message": "What kind of face am I even supposed to make when I see Melilot-san..."
+  },
+  {
+    "message": "Melilot-san told me not to worry about it."
+  },
+  {
+    "message": "Yet with these very hands, I undeniably hurt Melilot-san."
+  },
+  {
+    "message": "The person I admire and yearn for more than anyone else..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Jeez, stop moping around forever.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If Hikkii told you not to worry about it, you oughta just trust her words.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Or are you saying you don't even trust her that much, Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's... not true」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then that's good enough, ain't it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...We did make a promise, after all」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The deputy librarian work. I promised I'd be there today, too」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... What the hell is that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A promise is a promise, so...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well... I think that's just fine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "message": "It was a mere excuse, not even worthy of being called a facade."
+  },
+  {
+    "message": "A fleeting signpost for the heart to cling to, more fragile than straw."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sigh...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I wonder if he won't be coming today...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Eek!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, I'm sorry, Melilot-san...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「S-Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You came after all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... was it a bad idea for me to come...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course not! That couldn't possibly be the case...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I'm happy that you came, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I thought you might be bothered by what happened back then and wouldn't come anymore...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If you had kept your distance like that, I was on the verge of giving up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not that I'm not bothered by it, though...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's precisely where your kindness lies, Sakura-kun. Please hold your head high」"
+  },
+  {
+    "name": "Synn",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, you properly came for me like this, didn't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Is it really okay for me to stay by your side from now on, Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...What do you want to do, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I...」"
+  },
+  {
+    "message": "I already know what I want to do."
+  },
+  {
+    "message": "There's no room left to hesitate at this point."
+  },
+  {
+    "name": "Synn",
+    "message": "「From now on, I...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I want to stay by your side, Melilot-san!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because I... also want you to stay by my side forever, Sakura-kun...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Is it because I'm the Demon Lord?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't tease me」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Because you're the kind Sakura-kun who bothers with someone like me...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Who cares about even someone like me...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's... why」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So then, you don't know what Soltia's objective is or anything, right?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, for the time being」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We can safely assume the incident in the Demon World was aimed at getting you and me to fight each other, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Or perhaps she also thought that if one of us fell, disposing of the other would be easy」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I was instigated by Soltia...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In all likelihood, when you came into contact with her beforehand, she planted some kind of suggestion in you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now that you mention it...」"
+  },
+  {
+    "message": "The illusion of my shoulder, where Soltia had stroked it, stiffening as if frozen."
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems something comes to mind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It was your first time in the Demon World, and your stamina was quite drained as well...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「She must have planned her strategy with even that in mind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What was she planning to do after defeating us?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I am of the Nive Clan, and there was the possibility that you are the Demon Lord, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The most likely objective would be eliminating factors that could obstruct Re-Crea...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In other words, Soltia is aiming to bring Re-Crea to completion」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There are still things we don't know, and it's only a possibility, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, we can't just leave this alone!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, you're right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You and I, Sakura-kun, and everyone in the Crusaders...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「We must all work together to repel Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To that end, I'll have you become a splendid Demon Lord, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Special training to be the Demon Lord?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will have you learn to control your own power perfectly, Sakura-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Do you think I can do it...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Do you trust me, Sakura-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well, do you...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, um, of course I do! I trust you completely, Melilot-san!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee... Thank you」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then, I trust in you, Sakura-kun」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I believe that if it's you, Sakura-kun, you will definitely see it through」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Do you feel like you can be confident now?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes. I'll definitely become the Demon Lord, you'll see!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, let's do our best together」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, I have to overcome my own weakness too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Protect everyone from Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's my... the Demon Lord's mission...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. It's the same as mine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, that guy Virus only wants to fight me, right」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He... Yes, that's true」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Depending on how he moves, how we act going forward might change as well, though...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It'll be fine」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm definitely not going to lose」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because you'll be with me and train me, right, Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then I'll beat Virus, Re-Crea, anything--you'll see!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I want to protect everyone, this world...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And you, Melilot-san」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「…………」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「The special training will be tough, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bring it on!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because with you, Melilot-san, I feel like I can do anything!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Heehee...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Honestly, you're always so smooth...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's do our best together, okay?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Yes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's just what I want」"
+  },
+  {
+    "message": "Facing each other and taking each other's hands, we no longer hesitate."
+  },
+  {
+    "message": "No matter what hardships await us, as long as the two of us are together, we'll surely be okay."
+  },
+  {
+    "message": "Whatever happens, the two of us will definitely overcome it!"
+  }
+]

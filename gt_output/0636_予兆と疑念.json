@@ -1,0 +1,635 @@
+[
+  {
+    "message": "予兆と疑念"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Madam Chairwoman. Why are we in the library?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, I'm about to introduce a very reliable helper!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A helper, in the library...?」"
+  },
+  {
+    "message": "Could it be..."
+  },
+  {
+    "name": "Helena",
+    "message": "「Look, here she comes」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Would anyone care for some tea?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Miss Melilot!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Could our helper be...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「That's right! Our dependable, reckless daredevil, Melilot!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Please don't give me weird titles\\s10」"
+  },
+  {
+    "name": "Helena",
+    "message": "「You see, while working as the librarian, Melilot also keeps watch over Re-Crea」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Over Re-Crea...?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「And what's more, she took down one of the Demon Generals lurking in the academy all by herself!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A Demon General...!?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「All by herself!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Let's see, I believe her name was Soltia or something?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I've never even heard of her...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wait, she's not even a Crusader, so where did she get that kind of power?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, you know. Melilot is a demon, after all」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Whaaaat!!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Among the demons, she's one of our allies who has been working alongside the Kujo family for ages to prepare against Re-Crea」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it is...」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Sorry for keeping it a secret. It's just that Melilot is quite shy」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That's not what I mean. It's simply that our duties differ from those of the Student Council」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, getting all sulky like that\\s04」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「As I've told you before, Helena……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Regarding Re-Crea, things are progressing smoothly for now. There are no problems whatsoever」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Leave the rest to me, and please fulfill your duties as students」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Now then……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hold on, Melilot. The Crusaders have worked hard up until now too, so at least hear them out a little」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I told you about my true identity, didn't I? Talking any further might just end up putting unnecessary pressure on them」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Always talking back--I Love You. Sorry about her. Melilot's a shut-in, so she's pretty bad at communicating」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Excuse me……?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san! What we want you to hear isn't about Re-Crea, it's, well……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's about a friend of ours」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Before that……. There is something I must tell everyone on the Student Council」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The truth is, I…… am actually an angel!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes. And?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「H-Huh…… Why isn't anyone surprised?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-Well, you see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How should I put it\\s02」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Of course I'm not surprised. I've known about that from the very beginning」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Wh-Whaaaat!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-Well…… yeah\\s02」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And I also know that Sakura-kun is the Demon King」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Pffft!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Kyaa!! What do you think you're doing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How do you know about that......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「BINGO♪」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It seems it was true after all.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha......!」"
+  },
+  {
+    "message": "I-I got tricked into confessing!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Heeh~~. So Synn was the Demon Lord.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hold on, Sakura-kun!! What is the meaning of 'Demon Lord'!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「N-Now, now, Misa-chan. Why don't the two of us go outside and have a little talk alone\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-With Onee-sama, mph......!?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Leaving Misa-chan's persuasion to Ria......」"
+  },
+  {
+    "name": "Helena",
+    "message": "「What kind of discussion were the two of you--an angel and a Demon Lord--planning to have, I wonder?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes......!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Well, you see. My childhood friend, an angel named Amyrina, has also come to the Human World just like me.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「*Sigh*...... Angels going out of their way to set foot in the Human World during the time of Re-Crea. Honestly, both of you are so reckless.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They don't normally do that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. Because there's no telling what might happen during Re-Crea, the rule is to lay low in Heaven, where it's as safe as possible.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Assuming it's actually safe...... that is.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, despite that rule, there is one more angel who has come to the Human World.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And that is Azel-san.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I see. So Azel-chan really was an angel after all.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Didn't I tell you? Angels love using the Principality of Sharo-Ma cover story.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Unlike us, Azel-san didn't come to the Human World just to play around.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Amyrina told me she is participating as part of a Re-Crea investigation team.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「So the angels really did send an investigation team after all……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Going to such lengths means they must view the influence as quite strong」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why we've been offering to help too, yet they won't listen to us at all……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「So that's why you've been sticking together lately. To get closer to them」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. However, it's not just about getting closer--we're worried」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel…… only occasionally, though, hasn't been feeling well. Even collapsed once before」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I hear that when ectoplasm transmutes into physical matter, it can sometimes cause physical abnormalities」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You even know about that……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, it isn't an effect of transmutation. Azel's body is――」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Slowly reverting back into ectoplasm」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Huh……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We don't have concrete proof. Still, the fact that something abnormal is happening to Azel's body is certain」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Isn't our only choice to ask directly?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even if we ask Azel, it would be like driving nails into the \\{floor|\\s12}」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Well, that's a problem」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, allow me to conduct an interrogation」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「If they're keeping their lips sealed, we'll simply have to force the truth out, even if it's rough」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「N-No, we couldn't do that……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If we push too hard and make their condition worse or something……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, if we put off the interrogation, wouldn't it end up being too late?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I believe doing something for Azel is for the best. Am I wrong?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Alright, that's enough. You're an adult too, Melilot, so don't go using words like 'interrogation'」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Still, you're willing to hear us out.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, as there are matters I am personally curious about.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Geez, just be honest and call it kindness!」"
+  },
+  {
+    "message": "Melilot keeps making rather harsh remarks. However, what she is saying makes complete sense."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Hearing that, Lolotte looks uneasy."
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte. If anything happens, we'll protect Azel. Everything will be fine.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...! Yes, you're right!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Unnecessary.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Honestly, Azel!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sigh... I see. So that is what is going on.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I told you there was no need to worry. And yet--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「To think you would reveal our true identities to some shady Demon.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's not it! We can't solve this on our own. That's why I thought we could ask for her guidance--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Tch. Mind your own business!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Selling your soul to a Demon of all things... You traitor!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel! You don't have to put it like that--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「For an angel, this is a completely normal reaction. It is simply that Lolotte is far too eccentric.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even you, Melilot...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you still trying to put on an angel's airs!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Extending a helping hand to me, your own brethren--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No! That's not what Lolotte is doing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte isn't trying to help you just because you're an angel or because she's an angel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte is trying to help you because you're a 'comrade'... because you're a friend.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A comrade... you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The rest of us who want to help feel the exact same way. Even so, because Lolotte is an angel, she's the one who can understand you best, Azel.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Despite all that, why are you rejecting her...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If she were the kind of angel you and Melilot think of, she would've worried about her own safety and returned to Heaven right away.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In fact, even Amyrina tried to persuade her to evacuate. And yet...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte told us she'd stay in the Human World and face Re-Crea alongside us. She stayed here in the Human World.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How can you say you can't trust someone like her...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That woman said it herself just now. Lolotte is eccentric--an imperfect being far removed from any angel I know.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How could I possibly trust the words of someone like that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad Lolotte is an eccentric angel. Thank goodness she's imperfect.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If she weren't, she might have abandoned you, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Silence!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Stop... disturbing my heart any further... Do not nurture thoughts unbecoming of an angel.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You still don't know, Azel! Just how wonderful and amazing life here truly is.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, together, let's--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Lead me astray no longer!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Azel...!」"
+  },
+  {
+    "message": "Along with a voice sounding as though it might tear apart, an extraordinary intensity surges forth from Azel."
+  },
+  {
+    "message": "Could she be bearing something heavy and sorrowful beyond all imagination?"
+  },
+  {
+    "message": "What on earth is Azel concealing, and what is she about to set in motion?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's why I want you to tell me what's troubling you! If you do, I know we'll be able to understand each other!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is... no longer something that can be settled by talking...」"
+  },
+  {
+    "message": "As her words trailed off toward the end, the strength drained away from Azel."
+  },
+  {
+    "message": "His intimidating aura gone and left speechless, Azel heads toward his room with weak, heavy steps."
+  },
+  {
+    "message": "His back looked surprisingly smaller than the usual figure of Azel I'm used to seeing."
+  },
+  {
+    "name": "Synn",
+    "message": "「Let's call it a day here」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes, let's」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, don't you feel like Azel is gradually starting to open up!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, you think so too, President! What a coincidence~~ Actually, I was just thinking the exact same thing!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If that's the case, we're almost there... Let's keep at it without giving up!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Yes!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「That sheer intensity--no, a kind of Spirit Power... He can't fully control it with his own ego...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「To possess that much power... Enough to make me break out in such a cold sweat is completely unexpected」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Could Azel be... an existence that sets itself apart from ordinary angels...?」"
+  }
+]

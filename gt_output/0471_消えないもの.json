@@ -1,0 +1,463 @@
+[
+  {
+    "message": "消えないもの"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, I can't believe it!」"
+  },
+  {
+    "message": "On my way to the Student Council room, I spotted the backs of two familiar figures further down the path."
+  },
+  {
+    "message": "Azel, walking briskly in a straight line, and Sacchin, meandering along all squishy and carefree, were heading together toward the church."
+  },
+  {
+    "message": "Azel is one thing, but Sacchin is about as far from devout as you can get. To think two people who hardly get along at all would be hanging out together!"
+  },
+  {
+    "message": "I ended up following behind the two of them without really thinking, though..."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「♪♪♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey?」"
+  },
+  {
+    "message": "Bathed in the afternoon sunlight with St. Ophelia's Church in the background, Azel and Sacchin stood completely motionless and silent. Even their expressions were frozen stiff."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「\\s07\\s07\\s07」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not having a staring contest, right? Azel, Sacchin, what are you two doing?」"
+  },
+  {
+    "message": "I stepped up in front of the two of them."
+  },
+  {
+    "name": "Azel",
+    "message": "「Y-You...!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hieeeeh~~!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'll kill you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hold on!! Why am I suddenly the target of your murderous intent!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Azel-chan, you can't go changing your face like that~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Right back at you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even if my expression was set, it's already too late. This guy stepped right in front of the camera」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...? Camera?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaah!!」"
+  },
+  {
+    "message": "A few meters behind me, resting on the tiled ground, is a tiny little toy."
+  },
+  {
+    "message": "Thick cardboard printed with a camera pattern, folded into a box. It's a sun-print camera, the kind that comes as a bonus insert in a kids' magazine."
+  },
+  {
+    "message": "Small pebbles and twigs are wedged underneath it as a makeshift tripod, likely set to the ideal angle for taking a picture."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, that brings back memories」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Mmph~~, don't you have something to say for yourself~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm so sorry!!」"
+  },
+  {
+    "message": "I hurriedly step away from the two of them."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, you didn't do it on purpose, so it's fine~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is not fine. There is only one sheet left.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「We just gotta make sure we get a good shot with that last one~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Understood.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Alrighty then, I'll get it set up~」"
+  },
+  {
+    "message": "Sacchin fiddles with the sun camera and swaps out the photo paper."
+  },
+  {
+    "message": "Yeah, yeah, the paper definitely looked like this. You can take bluish black-and-white photos on small, thick white cards."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So, like, I was cleaning my room last night, and this turned up behind the bookshelf~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe~. It's probably from around ten years ago~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then is it a rare item that can no longer be obtained?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm? Little kids still have them even now. I see them playing around taking pictures with them at Asukai Shrine sometimes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka and I used to play photographer with a sun camera too.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe~, me too~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Just a moment ago in the classroom, Nana-chan, Sally-chan, and I took a picture like idols!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I wasn't in it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry」"
+  },
+  {
+    "name": "Azel",
+    "message": "「One apology is enough」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「All set!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here, let me take it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary. Instead, you join in too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「There were three subjects in the classroom. It should be the same here」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I'd love to!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's weird logic, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Shut up」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, whatever~ The more people, the more fun photos are, right~? Nana-chan and Sally-chan went home for work~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, so that's why it was an unusual pairing of Azel and Sacchin.」"
+  },
+  {
+    "message": "Convinced, I take them up on their kindness. With the church at my back, I stand between Azel and Sacchin."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「\\s04\\s04\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know, sunprints take time to expose, so you can't change your pose, but talking normally is totally fine?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-Is that so!? Hey, that's different from what you told me!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehe, ehehehe~ A flower in each hand, huh, Synn-kun~♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin... aren't you trying to gloss over giving Azel the wrong explanation?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Busted~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It matters not. Conversation is unnecessary.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'd like to hear it, though. Why did you choose this spot?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Azel-chan requested either somewhere around Finis Tower or in front of the church~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The wind always blows on the hill. That camera would roll away.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「In front of the church is fairly open with good sunlight. The breeze is gentle too.」"
+  },
+  {
+    "message": "Directing a quiet gaze toward the toy camera, Azel answers me. Even though she declared it unnecessary, pointing out that she's chatting away on her own accord would just be boorish."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You know, Azel-chan, you're always looking toward the tower, aren't you~? Why~?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sacchin, you're really sharp about noticing those kinds of habits in people, huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...This church was built to face the tower.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Apparently it's been here since before Ryuusei Academy was founded.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I am aware. Since the distant, distant past, it has watched the silent tower.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Thanks for waiting~ It's a huge success~♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ooh...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, even with something like this, they turn out surprisingly well. Sunprints, I mean.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Here~ This one's for Azel-chan~」"
+  },
+  {
+    "message": "Sacchin gives Azel the one-of-a-kind sun print of us."
+  },
+  {
+    "name": "Azel",
+    "message": "「You're giving it to me?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Heh.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Azel-chan, you should burn it into your memory while you still can~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, if you let your guard down, you'll forget it.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...? That is an ambiguous conversation.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... unlike photos taken with a real camera, the image on a sun print doesn't stay fixed.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's right~ By the time the sun sets, it'll turn completely white again~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What did you say?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, that's just how they are~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I see, so this disappears too...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Too'?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Good grief, you kids, that photo isn't nearly as pointless as you think, y'know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah?! P-Please don't just appear out of nowhere!」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, it's Helena, sneaking out of the chapel\\s04」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh dear, kids these days only ever use their cell phone cameras, so they don't know a thing.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「If you soak a sun print in fixer solution just like regular film development, it'll never fade, y'know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that true?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「As expected of the Principal, you know everything~」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ho-ho-ho-ho, and what's more, I happen to have some insider info.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da! There's an analog darkroom in the back of the librarian's office, and it's stocked with mountains of fixer solution♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that mean it's Melilot-san's personal property?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, go ahead and ask her to fix it for you. She'll definitely agree to do it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it! Let's go to the library, Azel, Sacchin!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Here it comes!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「H-Hey……」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, yes, what is it~?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You have my gratitude」"
+  },
+  {
+    "name": "Helena",
+    "message": "「No~pe! Say it again!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, your way of saying thanks is way too stiff」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Here, you're supposed to say 『Thanks a bunch~』」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Th-Thanks, a bunch……?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Tee-hee-hee\\s04　You're very welcome, take care now~」"
+  },
+  {
+    "message": "We went to the library."
+  },
+  {
+    "message": "Even though it was a personal favor that went beyond her duties as a librarian, Ms. Melilot gladly agreed to it."
+  },
+  {
+    "message": "Having obtained the properly fixed sunprint, Azel carefully tucked it into his student handbook and slipped it into his pocket."
+  }
+]

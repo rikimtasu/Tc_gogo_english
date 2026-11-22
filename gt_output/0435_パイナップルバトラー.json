@@ -1,0 +1,263 @@
+[
+  {
+    "message": "パイナップルバトラー"
+  },
+  {
+    "message": "With less than a month left until the Holy Night Festival, Shiokumi Shopping District is already decked out for Christmas, so I wonder how the folks in Ryuusei Town are doing?"
+  },
+  {
+    "message": "I head over to Tsukinoo Park and take in the sight of parents with children and couples relaxing by the wharf, along with longshoremen bustling busily about."
+  },
+  {
+    "message": "The sea breeze feels pleasant, yet chilly. It's already full-blown winter down by the shore, isn't it."
+  },
+  {
+    "name": "Young Girl",
+    "message": "「U-Um... You're putting me on the spot...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh, what a delightfully modest young lady you are. If I were to liken your grace to something, yes... it would be the fleeting delicacy of baby's breath」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Melphas is hitting on girls again」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a pompous jerk. No girl's gonna fall for cheesy pickup lines like those.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「...Ahem!」"
+  },
+  {
+    "message": "After shooting a quick glance and a nod toward Paqy and me, Melphas goes right back to spouting flowery platitudes."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Alas, how I wish to protect that pure, lovely blossom. Yet I fear that merely touching you would cause you to snap. What an unattainable love this is」"
+  },
+  {
+    "name": "Young Girl",
+    "message": "「I-I'm sorry... Even if you say things like that to me, I don't really know how to respond...」"
+  },
+  {
+    "name": "Young Girl",
+    "message": "「Is this gentleman an acquaintance of yours, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, I am feeling quite hungry.」"
+  },
+  {
+    "name": "Young Girl",
+    "message": "「H-Hey, Lolotte. He went out of his way to speak to us, so acting like that is rude...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh? Well, I don't understand a single word he's saying, do I? So it's the exact same as if he weren't talking at all.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Heh, I stand corrected. Lady Lolotte truly sees straight to the essence of things.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「My entire being is reflected within those crimson rose-like eyes of yours... Oh, this love-struck body of mine feels as though it might burn to ashes」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melphas? Lolotte's eyes are a clear blue, you know?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「……」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Lady Lolotte. My entire being is reflected within those blue rose-like eyes of yours... Oh, this love-struck body of mine...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「No, no, fiery imagery really isn't fitting for a water-toned hue, is it. What a predicament.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What a lazy hack. At least prep your metaphor material beforehand!」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Prep, you say... Oh, now that you mention it, I happen to have a sweet red bean bun and Milky Milk in my pocket. How does that sound, Lady Lolotte?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Keeping milk stocked at all times--you're a good person, Melphas!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Is that really your standard for judging people?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Anpan... drooool♪」"
+  },
+  {
+    "name": "Young Girl",
+    "message": "「R-Lolotte, you're drooling, you're drooling...!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「M-Mmhmm~~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Oh, come to think of it. Grandpa told me I mustn't accept food from people I'm not close with」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Then let us become intimately acquainted, starting tonight」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...!」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Please leave the defense of the two young ladies' chastity to me, their butler, Riesling Tohyama」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Grandpa's entrances are always so cool. *Sigh*」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Oh, so this is the one...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Red alert. Target acquired, trigger open」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y―You don't have to point a gun at him out of nowhere―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, he's already shooting without even asking questions!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Now that's some impressive marksmanship. Every single shot hit that pompous bastard right in his vital spots」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You flatter me」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Young lady like baby's breath, if you would be so kind, might I ask your name?」"
+  },
+  {
+    "name": "Young Girl",
+    "message": "「E-Eeeek! S-S-S-Save me~~~!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, if a guy takes a ton of live rounds and comes at you completely fine, anyone'd freak out」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Heh, a scream truly akin to tearing pure, unblemished white silk... It almost stirs a base lust within me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melphas, aren't your descriptions starting to lean in a really bad direction?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「...Tch」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just how many cartridges is that butler carrying on him?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Magnificent. Between each tracer round, there are four invisible bullets mixed in, aren't there?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Standard rounds, armor-piercing, high-explosive, and incendiary, by my reckoning. How close am I?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Next time, I shall mix in some hollow-points as well.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「A sound judgment, however...」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Even if they are just peashooters, they do sting quite a bit, so would you kindly stop soon?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「For dessert, we have a pomegranate.」"
+  },
+  {
+    "message": "Riesling pulls something resembling a large mallet from her bosom and tosses it to Melphas."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Catch.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Farewell.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She took Lolotte and her friend and left, huh.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Here, take this pomegranate... no, pineapple. Considering the safety of the surrounding citizens, this is something you, as the Student Council President, ought to hold onto.」"
+  },
+  {
+    "message": "Melphas hands the strangely large mallet over to me."
+  },
+  {
+    "name": "Synn",
+    "message": "「What is this thing? It looks like a hand grenade from a war movie.」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「It is the real thing.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-White smoke is coming out of it, though!?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「While there is life, there is hope... Until we meet again.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「S-See ya!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, even you're ditching me, Paqy--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aaaaaaahhhhhhh~~~~...!!」"
+  }
+]

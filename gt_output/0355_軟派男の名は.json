@@ -1,0 +1,283 @@
+[
+  {
+    "message": "軟派男の名は"
+  },
+  {
+    "message": "After going to return last month's milk bottles to old man Amakawa--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "Just as I approach the school gate, I bump into a familiar face."
+  },
+  {
+    "name": "Man",
+    "message": "「Oh my. If it isn't you, the Student Council President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How do you know I'm the Student Council President?!」"
+  },
+  {
+    "message": "Even a suspicious character like this knows who I am? Guess this is what they call the price of fame."
+  },
+  {
+    "name": "Man",
+    "message": "「Because you were being addressed as such the last time we met. Please forgive me if I am mistaken.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, you're not wrong, but...」"
+  },
+  {
+    "name": "Man",
+    "message": "「And your girlfriend? Is she not with you today?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azelle isn't my girlfriend.」"
+  },
+  {
+    "name": "Man",
+    "message": "「My apologies. I thought you two made quite the lovely couple.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You just came out from inside the academy, didn't you? Outsiders are prohibited from entering. It says so right here.」"
+  },
+  {
+    "name": "Man",
+    "message": "「It is my creed to prioritize matters concerning ladies above any rule, so I took the liberty of ignoring it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please don't ignore it.」"
+  },
+  {
+    "name": "Man",
+    "message": "「I simply wished to express my gratitude and thanks to all the lovely ladies I became acquainted with at the recent event...」"
+  },
+  {
+    "message": "In his hands, he had prepared an assortment of gifts."
+  },
+  {
+    "name": "Man",
+    "message": "「However, how tragic. Today of all days, the ladies who ought to be blooming like flowers refuse to show themselves. Might I ask you to enlighten me if you happen to know the reason?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ryuusei Academy became an all-boys school last week.」"
+  },
+  {
+    "name": "Man",
+    "message": "「W-What a tragedy! Is there no God in this world?!」"
+  },
+  {
+    "message": "The pretentious man staggers, scattering his assortment of gifts across the road."
+  },
+  {
+    "message": "I hurriedly gather up the scattered gifts and hand them back to him,"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm sorry! That was just a joke!」"
+  },
+  {
+    "name": "Man",
+    "message": "「Haha. Is that so!」"
+  },
+  {
+    "message": "Talk about a fast recovery!"
+  },
+  {
+    "name": "Man",
+    "message": "「So that is why no one is here save for the lady in the library.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The lady in the library?」"
+  },
+  {
+    "name": "Man",
+    "message": "「A breathtaking woman. Earnest and quite guarded--at a glance, a seemingly impregnable lady, yet...」"
+  },
+  {
+    "message": "Poor Melilot."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Man",
+    "message": "「Actually, my seventh sense tells me that when she lets her guard down, she is quite the adorable person」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Anyway, please stop loitering around the campus」"
+  },
+  {
+    "name": "Man",
+    "message": "「I shall handle the matter appropriately, taking into consideration the circumstance that errands concerning ladies take priority over all else」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh...」"
+  },
+  {
+    "message": "This guy is hopeless."
+  },
+  {
+    "name": "Man",
+    "message": "「Excuse me, Student Council President. If you don't mind, I would love to hear your esteemed name」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...I'm Synn Sakura」"
+  },
+  {
+    "name": "Man",
+    "message": "「Synn Sakura! How sweet! What a bittersweet, heart-rending ring it has! Synn Sakura! Oh, Synn Sakura!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahem. What is your name?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Forgive me. My name is Melphas」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melphas...」"
+  },
+  {
+    "message": "It has a mysterious ring to it."
+  },
+  {
+    "name": "Melphas",
+    "message": "「Pleased to make your acquaintance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's an unusual-sounding name. Where are you from?」"
+  },
+  {
+    "name": "Melphas",
+    "message": "「The gentleman the Student Council President has brought along with him will know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Him...? Whaaat!?」"
+  },
+  {
+    "message": "Paqy?"
+  },
+  {
+    "name": "Melphas",
+    "message": "「Well then, until fate brings us together again. Farewell!」"
+  },
+  {
+    "message": "Suddenly, a massive flurry of rose petals swirled wildly through the air, and the man slipped away amidst them."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ptui, ptui...」"
+  },
+  {
+    "message": "I got petals in my mouth."
+  },
+  {
+    "name": "Paqy",
+    "message": "「...That guy's a demon」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「And a pretty strong one, too. Demon General level」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaaat!? He's not just some playboy?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He's a playboy, sure, but no ordinary one. Going by the ping on my Great Sage antenna, he might even be stronger than Lord Ode」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I didn't feel a thing...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Once someone's that big a deal, hiding their magical presence is a piece of cake. Still, they can't fool the eyes of the Great Sage」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it looked like he noticed you too, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Cocky bastard」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, the fact that I'm the Demon Lord too...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't know if he figured out that much, but you'd better assume he realized you're no ordinary human, Demon Lord」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Isn't that bad?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「He probably noticed back at KiraFes. So there's no point making a fuss about it now. You're the Demon Lord, so act a little more unshakable」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why didn't you tell me the other day?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If word got out that a Demon General-level Demon showed up, it would've meant deploying the Crusaders, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course it would... ah」"
+  },
+  {
+    "message": "I see, Paqy was being considerate."
+  },
+  {
+    "message": "If they had deployed, the commotion wouldn't have ended at just that level."
+  },
+  {
+    "message": "If that had happened, there's no telling what would have become of KiraFes either."
+  },
+  {
+    "message": "Besides... if Shio-chan's words are right, Melphas suppressed his immense power even when attacked, continuing to act solely as a playboy."
+  },
+  {
+    "message": "He probably didn't want to cause any more trouble than that either."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, Paqy」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's not like I have any reason to be thanked by you, Demon Lord. I just thought it'd be a pain」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Things are already enough of a pain as it is」"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "message": "故きを温ね"
+  },
+  {
+    "message": "After school, I hurry over to the Kujou residence... to see Helena-san."
+  },
+  {
+    "message": "Lately, the Demons have been getting tougher. No, if you just look at raw strength, one-on-one, we could probably still beat them back with our usual carefree attitude."
+  },
+  {
+    "message": "However, just like the Crusaders, the Demons have started helping each other out and launching coordinated attacks."
+  },
+  {
+    "message": "What can we do to hone our skills even further? First, let's try asking our senior, Helena-san."
+  },
+  {
+    "name": "Melilot",
+    "message": "「I shall take my leave now, Helena.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san?」"
+  },
+  {
+    "message": "Practically passing right by me, Melilot-san steps out of the Kujou mansion. Judging by her parting words, it seems Helena-san is home."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Good day. Do you have business with Helena?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yes. There's something I wanted to consult her about.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Turning to her for advice is a fine choice.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think so too. Were you having afternoon tea with Helena-san, Melilot-san?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hehe, there was that as well, though I actually came by to repair a bookshelf.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Although the Kujo estate has many built-in bookshelves, every single one of them has started to deteriorate...」"
+  },
+  {
+    "message": "As she says this, Melilot-san looks up at the imposing grandeur of the Kujo estate."
+  },
+  {
+    "message": "Built in either the Meiji or Taisho era, it's a Western-style mansion--what people apparently call modern architecture."
+  },
+  {
+    "message": "Every now and then, enthusiasts of that sort sneak onto the academy grounds to take unauthorized photos of the Kujo estate, only to get thrown out by the security guards."
+  },
+  {
+    "message": "If they're built-in, that means the bookshelves are from that era too... Amazing."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Lately, there haven't been any artisans left who can repair them, so I end up being pressed into service. It's truly troublesome.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Melilot-san, you sound kind of happy about it, though?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「D-D-D-D-Do I? That won't do at all; Helena will take advantage of me.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ahahaha, so books really have been treasured in the Kujo family after all. I had a feeling that might be the case when I saw the bookshelves in the chairwoman's office.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Yes, it is just as you imagined. They are cherished more than any expensive piece of furniture.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is one of the reasons I am fond of Helena.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Though they are merely rectangular objects, the meaning of the words inscribed on each and every page is truly too profound to ever fit inside those bookshelves...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「However, books never show the slightest hint of such things, and simply wait patiently to be opened by someone's hands.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There is something truly noble about that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much, Melilot-san.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「......? What is the matter?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks to you, Melilot-san, my worries have been cleared up.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-I see, I am glad to hear that.」"
+  },
+  {
+    "message": "That's right--isn't it way too early for me to go begging Helena-san for instruction? Instead of half-heartedly hoping for some new special move, I need to further refine the tactics I've built up so far!"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Well then, I shall return to the library.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll head to the Student Council room... to the old school building as well.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Fufu. In that case, we are going the same way for part of the trip.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes!」"
+  },
+  {
+    "message": "Unbelievably, I walk side by side with Melilot-san."
+  },
+  {
+    "message": "It was a precious experience, though since the old school building is two doors down from the Kujou residence, it was over in the blink of an eye......"
+  }
+]

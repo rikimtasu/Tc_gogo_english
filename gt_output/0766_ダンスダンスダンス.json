@@ -1,0 +1,859 @@
+[
+  {
+    "message": "ダンスダンスダンス"
+  },
+  {
+    "message": "A silhouette appears."
+  },
+  {
+    "message": "Gradually, it grows more distinct."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel...」"
+  },
+  {
+    "message": "I step toward the figure. The earpiece I tore from my ear rolls at my feet."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!」"
+  },
+  {
+    "message": "I forcibly hold back the urge to break into a run."
+  },
+  {
+    "message": "The silhouette looks my way."
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "The moment our eyes met, I couldn't hold back anymore."
+  },
+  {
+    "message": "I broke into a run and stood right in front of Azel."
+  },
+  {
+    "name": "Synn",
+    "message": "「Welcome back.」"
+  },
+  {
+    "message": "Azel turned her face away from me."
+  },
+  {
+    "name": "Azel",
+    "message": "「...You're an idiot.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if we fight, we won't be able to dance.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Dance?! You're still going on about that?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You and I are enemies! I'm a weapon of God, and you're the Demon Lord! Fight me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm Synn Sakura. And Azel is Azel.」"
+  },
+  {
+    "message": "Shooting stars shining in seven colors were cascading down like an avalanche."
+  },
+  {
+    "name": "Azel",
+    "message": "「It doesn't work like that! Do you still not know?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. I want to know more about you, Azel.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Oh, so you want to know that badly?」"
+  },
+  {
+    "message": "Azel's face twisted into the most wicked expression she could muster--"
+  },
+  {
+    "message": "--or at least that was probably what she was going for, though it wasn't working very well."
+  },
+  {
+    "name": "Azel",
+    "message": "「Then I'll tell you. I've been deceiving you all this whole time! You fools were completely played!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You didn't even notice that I was using Virus's gang to advance my plot to destroy this world! What a bunch of idiots!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「On top of that, I was leaking your information for the magic circle creation plan that Soltia devised and Pasta commanded!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Adding someone like me to the Student Council--you're an idiot. An idiot, an idiot, a massive idiot!」"
+  },
+  {
+    "message": "Her voice as she hurled insults at me sounded somehow forced and painful to hear."
+  },
+  {
+    "name": "Azel",
+    "message": "「And I cooperated with Soltia's plan in order to eliminate you, since you're an obstacle to Re-Crea!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I just stood there watching you get covered in blood! You only survived because you happened to be the Demon Lord!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even now, I didn't appear here because you told me to! I only showed up because it was necessary to destroy the world!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Come on, fight me! If you're the Demon Lord, then struggle desperately for all you're worth」"
+  },
+  {
+    "message": "Suddenly, a graceful melody reached my ears. It was from the rehearsal CD."
+  },
+  {
+    "message": "I instinctively looked toward the wind ensemble club's booth."
+  },
+  {
+    "message": "Ria-senpai nodded at me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Fight! Fight me, Demon Lord! Try defying a god with that puny power of yours!」"
+  },
+  {
+    "message": "I took Azel's hand."
+  },
+  {
+    "message": "Unlike before, that hand was warm."
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What are you doing!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Before the world ends, dance with me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You and I dancing, ah……」"
+  },
+  {
+    "message": "When I pulled a little forcefully and began to dance, Azel didn't resist."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. All I know how to do is spin around in circles」"
+  },
+  {
+    "message": "Meteors pouring down around the two of us, tripping over our feet even with such simple movements."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm…… about the same」"
+  },
+  {
+    "message": "Azel turned away, looking embarrassed."
+  },
+  {
+    "name": "Azel",
+    "message": "「Besides…… you and I dancing…… is illogical……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You already know, don't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not illogical. At least not to me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Dancing with someone you love makes your heart race and fills you with excitement」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't say things like that!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you hate me?」"
+  },
+  {
+    "message": "Azel looked down."
+  },
+  {
+    "name": "Azel",
+    "message": "「I am not human……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I love you, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't say things like that to me!」"
+  },
+  {
+    "message": "Azel raised her face."
+  },
+  {
+    "message": "She looked like she was about to cry."
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm begging you, fight me... fight me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you really try to destroy the world, Azel, I'll save the world over and over again」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And tell you that I love you, Azel. I'll say it as many times as it takes」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then fight me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But I can't fight you, Azel. Neither can everyone in the Student Council. And you don't want to fight us either」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's... not...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Isn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「E-Even I... couldn't possibly do it! So come at me from your side!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「We can't fight when neither of us has the will to」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah... So that's how it is...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My Lord... knew everything from the very beginning...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「My own will... is meaningless after all...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Regardless... when the time comes, my--no, the power dwelling within me--will carry out Re-Crea」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Once a finger is placed on the trigger, the weapon's will is nothing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You said that before too, Azel--that you're a weapon. Why?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's...」"
+  },
+  {
+    "message": "Azel's legs tangled with mine."
+  },
+  {
+    "message": "As Azel stumbled, I instinctively caught her in an embrace."
+  },
+  {
+    "message": "Her small shoulders gave a slight tremble."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh... haah, haah...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry」"
+  },
+  {
+    "message": "Is this what they call a rejection reaction."
+  },
+  {
+    "message": "I tried to pull away, but Azel wouldn't let go of me."
+  },
+  {
+    "name": "Azel",
+    "message": "「Let me... stay like this... a little longer. Until the world ends... No, until this dance is over is enough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Both Azel's body and voice were trembling."
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you in pain?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's... nothing」"
+  },
+  {
+    "message": "Contrary to her words, she looked pained, as if she could barely stay standing without leaning on me."
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't force yourself to talk」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I can tell... A power inside me that isn't mine is swelling... The power of Re-Crea...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Soon it will overflow, warp space, and cause the world to collapse...」"
+  },
+  {
+    "message": "A small, warm, trembling body."
+  },
+  {
+    "message": "It felt as though if I held her too tightly, she might break."
+  },
+  {
+    "name": "Azel",
+    "message": "「...It's punishment for my arrogance」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Arrogance?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ever since long ago... I believed I was special」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even in Heaven... I thought my extraordinarily vast vessel of Spirit Power was God's blessing」"
+  },
+  {
+    "message": "Even though she looks to be in so much pain, she keeps taking clumsy steps."
+  },
+  {
+    "name": "Azel",
+    "message": "「The day I was chosen for the expedition and descended into this world, I heard the Lord's voice and was granted power」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I thought it was... proof of that blessing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That I was God's proxy, specially created to remake... the world. That I was special because of it」"
+  },
+  {
+    "message": "I sensed Azel give a weak laugh."
+  },
+  {
+    "message": "Hey. Azel's God."
+  },
+  {
+    "message": "Why does Azel have to suffer like this?"
+  },
+  {
+    "message": "Even though what she wishes for surely isn't anything grand at all."
+  },
+  {
+    "name": "Azel",
+    "message": "「It was... terrible conceit」"
+  },
+  {
+    "name": "Azel",
+    "message": "「When I realized the power... wouldn't obey my will, I finally understood」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It wasn't a blessing--I was simply made so I wouldn't break when housing an immense power」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thinking I was... chosen was an illusion too. I was made... for that very purpose, so housing it was... only natural」"
+  },
+  {
+    "message": "Like a lost child searching for warmth in the cold rain, Azel pressed her face against my chest and clung to me."
+  },
+  {
+    "message": "She couldn't stay standing unless she did."
+  },
+  {
+    "name": "Synn",
+    "message": "「Stop this already」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No! Just a little more, just a little longer」"
+  },
+  {
+    "message": "Some terrifying presence began overflowing from Azel's body."
+  },
+  {
+    "message": "I felt as though the ground had slowly started to shake."
+  },
+  {
+    "name": "Azel",
+    "message": "「Everything went... just as the Lord intended」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Having had Re-Crea thwarted over and over again by the Demon Lord... the Lord intended to neutralize the Demon Lord and those cooperating with him」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "message": "Something caught my attention."
+  },
+  {
+    "name": "Azel",
+    "message": "「And that was achieved... through me becoming close with you and the others」"
+  },
+  {
+    "name": "Azel",
+    "message": "「The moment I appeared in this space, you and the others let your last chance to defeat me slip away... We aren't... machines... Even if it's rational... our emotions scream out...」"
+  },
+  {
+    "message": "Azel seemed unable to even stagger through the dance steps anymore, merely clinging to me."
+  },
+  {
+    "name": "Azel",
+    "message": "「...I'm sorry... Because you got involved with me... your world is going to be destroyed...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But... I can't defy the Lord... I just can't」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I wish... I never had this power...」"
+  },
+  {
+    "message": "Something warm and wet began soaking through my shirt."
+  },
+  {
+    "message": "I looked up at the sky just a little."
+  },
+  {
+    "message": "With the graceful melody of the dance as background music, shooting stars rained down even more heavily,"
+  },
+  {
+    "message": "It wasn't that shooting stars were streaking across the night sky; rather, the night sky was barely peeking through the gaps between the shooting stars."
+  },
+  {
+    "message": "The world was vast, and beautiful."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Azel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why do you think God would do something like that?」"
+  },
+  {
+    "message": "It wasn't my imagination--the ground had faintly begun to tremble."
+  },
+  {
+    "message": "It felt like being aboard a massive ship floating on a calm sea."
+  },
+  {
+    "name": "Azel",
+    "message": "「The Lord... wants to remake the world no matter what... He hates the Human World, Heaven, and the Demon World alike...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not what I mean. Why would he go about it in such a roundabout way? If he hates them so much, he could just destroy them without question」"
+  },
+  {
+    "message": "That was the part that had caught my attention."
+  },
+  {
+    "message": "The power of Re-Crea that I saw in front of the church. With that, destroying the world would be easy."
+  },
+  {
+    "message": "There's no need for it to reside inside Azel."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah... no... so that's it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's probably because the Demon Lord was interfering with the Lord's intentions.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That doesn't make sense.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Huh...?」"
+  },
+  {
+    "message": "Azel raised her face."
+  },
+  {
+    "message": "The sparkle of a shooting star shone in her tear-wet eyes."
+  },
+  {
+    "name": "Synn",
+    "message": "「If God could do whatever He wanted with everything, He should've been able to do whatever He wanted with the Demon Lord too!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?」"
+  },
+  {
+    "message": "I felt like there was some important clue here."
+  },
+  {
+    "name": "Azel",
+    "message": "「Surely... the Demon Lord is special.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What is it, Lord Demon King? And here I was being nice and keeping my mouth shut.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How many Demon Lords have there been up until now?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't ask the great me for exact numbers. I ain't got 'em memorized.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There were so many you couldn't even remember them all.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, that's how it shakes out.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In other words, God lost to all those Demon Lords--so many you couldn't even remember them.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That can't be! The Lord must be perfect!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just admit it. That guy is full of holes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, Paqy. I think God probably is perfect, too. At least, close to perfect.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Huh?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Hey, Demon Lord. Weren't you listening to Melilot? There's no point unless we make Azel deny God.」"
+  },
+  {
+    "message": "The shaking of the ground had become like a giant ship--not on a calm day, but on a stormy one."
+  },
+  {
+    "message": "My feet, dancing slowly, nearly tangled over themselves again and again."
+  },
+  {
+    "name": "Azel",
+    "message": "「If I could deny Him, even I would!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Then deny Him.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「But inside me, there is clearly a power that isn't mine... I can tell.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Melilot likely tried to think of a way to resolve this crisis without hurting me, yet denying the tangible sensation of my existence is impossible...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't understand how God thinks. Still, here's what I believe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「God has always tried to destroy the world in roundabout ways. That's why the Demon Lords and their companions were able to save it」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Isn't it the same this time...? Surely the Lord learned from past failures...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's roundabout this time, too. Even without dwelling inside you, Azel, wielding that incredible power would make destroying the world easy」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「God hasn't failed at all. Because God is perfect」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Perfection means never failing. Yet God has failed to realize those intentions. Strange, isn't it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Don't tell me you're claiming failure itself is God's intention!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No. Destroying the world probably isn't God's intention at all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Then why has the world come to the brink of ruin so many times!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Driving the world to the brink of ruin is God's true intention」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Are you saying the goal isn't to destroy and remake it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「More like, if it ends up destroyed, God might as well remake it, I guess?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Then I, to the Lord's will」"
+  },
+  {
+    "message": "A loud crash echoed behind us."
+  },
+  {
+    "message": "The chairs lined up in the rest area seemed to have toppled over in an avalanche from the tremors."
+  },
+  {
+    "message": "The world was shaking sickeningly."
+  },
+  {
+    "message": "Neither vertically nor horizontally, as if the ground beneath our feet were crumbling away."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ah」"
+  },
+  {
+    "message": "Holding Azel tightly as she stumbled and nearly fell,"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you okay?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yeah... what about you, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm completely fine, though」"
+  },
+  {
+    "message": "Still seated on the ground, we held each other tightly, illuminated by the light of meteors filling the sky."
+  },
+  {
+    "message": "Is this the end."
+  },
+  {
+    "name": "Azel",
+    "message": "「...Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What? Mmh, mmmmmmm」"
+  },
+  {
+    "message": "It caught me completely off guard."
+  },
+  {
+    "message": "Something soft and warm pressed against my lips, then pulled away right away."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-W-What was that all of a sudden!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Confirming my own feelings」"
+  },
+  {
+    "message": "Azel took a deep breath in my arms and murmured slowly."
+  },
+  {
+    "name": "Azel",
+    "message": "「O Lord. I... love this world. The sky, the earth, the people, everything」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "Melilot had told me."
+  },
+  {
+    "message": "That whenever Azel showed a favorable reaction toward this world, a rejection response would wrack her body."
+  },
+  {
+    "message": "I had seen it countless times myself."
+  },
+  {
+    "name": "Azel",
+    "message": "「O Lord. I do not want this world to perish」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A-And besides... um... I love the man beside me right now more than anyone else」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That is why I want a future for us!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「W-What are you so surprised about. Y-You are the one who confessed to me! I merely gave you my answer!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm happy, I am, but, um, are you okay!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A-Are you not happy with my answer?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, like I said, I'm happy, but nothing hurts?」"
+  },
+  {
+    "message": "The sickening tremors began to subside."
+  },
+  {
+    "name": "Azel",
+    "message": "「It has not hurt for a while now... So... that is what it means」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean? A-Azel」"
+  },
+  {
+    "message": "Along with those words, Azel hugged me tightly."
+  },
+  {
+    "name": "Azel",
+    "message": "「The power that was inside me has vanished」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that mean...」"
+  },
+  {
+    "message": "The crisis is over?"
+  },
+  {
+    "name": "Azel",
+    "message": "「You made me realize it, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I did?」"
+  }
+]

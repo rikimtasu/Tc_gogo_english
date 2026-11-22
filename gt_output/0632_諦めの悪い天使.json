@@ -1,0 +1,686 @@
+[
+  {
+    "message": "諦めの悪い天使"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Azel. About yesterday... I really think you ought to apologize properly to Roro」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Picking on a first-year is so immature~ Not that I'm one to talk, since I'm a kid~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're the same age!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Do you hate curry and rice, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......No」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then why didn't you eat it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even though it's delicious」"
+  },
+  {
+    "name": "Azel",
+    "message": "「S-Shut up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I bet it tastes way better than that Vandine Jelly you're drinking」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mind your own business」"
+  },
+  {
+    "message": "No good. I can't get through to him at all."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......What could any of you possibly understand......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Azel?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Jeez, what a stubborn jerk」"
+  },
+  {
+    "message": "Just like that, Azel boycotted class."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, you should go... cheer Roro up」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Lately, it seems like you two... have been getting along pretty well, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wh-Wha, you think so......\\s03」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yikes--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gyaaah!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You total blockhead!! Is this any time to be daydreaming?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's your deal?!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Supporting everyone on the Student Council is the president's job, isn't it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case, that includes you too, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not in any trouble, so I'm fine!! Come on, shoo, shoo」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's your deal?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-saaan!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte?」"
+  },
+  {
+    "message": "The way she made her entrance was completely identical to yesterday."
+  },
+  {
+    "message": "Her actions, too, and what she was holding."
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes♪ It's curry rice taught directly by Mr. President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You can already make it on your own!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「We did make so much of it, after all. It seems my body remembered how, ehehe.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「With this, I can even make breakfast at Mr. President's house now♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ooh!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Red aleeert! Now Nana-chan's only advantages left are her boob size and how long she's known him--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sacchin. Let's take a quick trip to Prier.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「What, whaaat, are you gonna treat me to cake--?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Just how sweets-brained are you!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're the last person I wanna hear that from, Nana-chan--\\s06」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Today's daily lunch special was bitter melon stir-fry, wasn't it.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Eek! N-Not that... Kyaaa!!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, where is Azel-san?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President? Is something wrong?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, n-no... Lolotte, even after what happened yesterday, well」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. To borrow the shrine maiden's words, I was caught off guard yesterday. I must train even harder」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And so you went and made it again today」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. According to the guidebook, it seems Azel is a 'tsundra'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tsun... dra...?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That is why she simply struggles to be honest with herself, when in truth she is a very kindhearted person. Most likely, probably」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "Even after getting hurt that badly yesterday, Lolotte hadn't learned her lesson at all."
+  },
+  {
+    "message": "If anything, it felt like she'd grown even bigger."
+  },
+  {
+    "message": "Well, that guidebook does have some good advice in it every now and then."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It says the key to clearing the route is to relentlessly stalk the heroine. Apparently, this level of difficulty is quite popular nowadays」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, where is Azel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's been skipping class all morning」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Aha~ I bet she is wandering around that area again」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That area... Wait, you know where she is?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Despite how I may look, I am not merely exploring blindly」"
+  },
+  {
+    "message": "If it's Azel, I'd guess she's probably at the church, though..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? The pool?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since there do not seem to be many people here at this hour, I often spot her around this area」"
+  },
+  {
+    "message": "Azel at the pool? No way. What could she possibly be doing here?"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「See, just as I said」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So this is how you conquer a route--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Now then, it is time for lunch~!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I told you I don't need it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You haven't even said anything yet~」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Do you want a repeat of yesterday?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Do you hate curry rice, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I hate it」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's a lie!! You've never even eaten it!!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「H-How do you know that?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I won't allow picky eating without even trying it. While we're at it, why don't we settle right here and now whether you like it or not?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I made it for you, Azel. Won't you please eat some?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Urgh......」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Argh, fine...... I get it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......Only」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Only one bite, got it?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「......Yes!」"
+  },
+  {
+    "message": "When it comes to eating boxed lunches, nothing beats eating under the open sky!!"
+  },
+  {
+    "name": "Synn & Lolotte",
+    "message": "「Let's eat~♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Let's, eat......」"
+  },
+  {
+    "message": "Lolotte and I both stare at Azel."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So excited, my heart's pounding\\s07」"
+  },
+  {
+    "name": "Azel",
+    "message": "「......D-Don't stare at me so much」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Awawa, I'm so sorry~」"
+  },
+  {
+    "message": "Lolotte sticks her tongue out playfully."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Gripping my extra-large cabbage bread, I too gulp hard and watch Azel's every move."
+  },
+  {
+    "message": "He scoops up some curry with his spoon and brings it toward his mouth."
+  },
+  {
+    "name": "Azel",
+    "message": "「I told you, stop watching!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry!」"
+  },
+  {
+    "message": "The decisive moment. Somehow, I just can't look away."
+  },
+  {
+    "message": "Lolotte and I pretended to eat our own food while watching Azel out of the corner of our eyes――"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Chomp」"
+  },
+  {
+    "message": "She ate it!"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Uhh?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Delicious!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Really, really?! There's still plenty more, so please eat lots and lots♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Delicious! This is delicious!」"
+  },
+  {
+    "message": "Saying that, Azel kept devouring the curry rice single-mindedly."
+  },
+  {
+    "message": "In the end, Lolotte even offered up her own portion, and Azel――"
+  },
+  {
+    "name": "Azel",
+    "message": "「Phew...」"
+  },
+  {
+    "message": "Ate every last bit of it. Why do all angels have black holes for stomachs like this?"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm glad it worked out, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, awawa...」"
+  },
+  {
+    "message": "Still, it looks like she couldn't hide her own hunger after all."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hauuu~~\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then let's split my extra-large cabbage bread in half」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa, are you sure!? Thank you so much~\\s04」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That second helping was your portion? Why didn't you say so」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because you were eating it with such gusto」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When you made such a happy face, I just couldn't help myself... ehehe」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I made... a happy face, you say?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel. After someone treats you to delicious food, you put your gratitude into it and say 'Thank you for the meal'」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see, understood」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Thank you for the meal」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hope you enjoyed the meal~♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why... why does she make such a face? All I did was serve a meal and receive mere words of gratitude in return.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why does she wear an expression so full of happiness?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Even I...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Could even I become like that...?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Ugh...! Uugh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel!?」"
+  },
+  {
+    "message": "Suddenly, Azel collapses weakly right on the spot."
+  },
+  {
+    "message": "I caught her before she hit the ground."
+  },
+  {
+    "name": "Synn",
+    "message": "「A-Anyway, to the infirmary...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How's Azel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes, it seems she has managed to calm down.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. That's a relief.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「That scared the crap out of me. I thought something was slipped into that curry.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy. Even as a joke, that's going too far」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmph. I don't want to hear that from a panda who's always hiding.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I just can't deal with her...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So what's the real cause?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Perhaps her spiritual constitution is still too strong, and she hasn't been able to adapt properly. Besides--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Azel-san has been working all alone up until now to do something about Re-Crea, after all...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Her body must be far more exhausted than we think...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「On top of not being able to adapt?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes. That's why she must be backed into a much more dangerous situation than Amyrina or I could ever compare to.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see... Isn't there anything we can do to help him with that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hmm...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In the end, Mr. Azel's duty is the same as the Crusaders' goal. Which means, you see?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...! So that's it!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Yes! We just need to take Mr. Azel's place!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, aren't we already trying our best to do that right now?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's try even harder! So much so that we surpass Mr. Azel!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「But if we overdo it... then Lolotte will end up just like Azel--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I'll be fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What makes you so sure?!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because right by my side--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I have you with me, President!」"
+  }
+]

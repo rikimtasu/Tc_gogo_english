@@ -1,0 +1,290 @@
+[
+  {
+    "message": "衝動"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「A-Amaziiing」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I won」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I lost in so many ways~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it was that good?」"
+  },
+  {
+    "message": "Thinking it was worth tutoring her, I peek at Azel's test sheet."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "It's barely above a failing grade, though this is......"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Right, isn't it amazing~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even if you beat Sacchin......」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So meaaan」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Just as you aimed, I conquered the multiple-choice questions, kanji, and chemical formulas」"
+  },
+  {
+    "message": "Her math score is unexpectedly bad, though it was weirdly hard."
+  },
+  {
+    "message": "Sengenin-sensei put way too much effort into it for a student teacher."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I lost in both score and attitude~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's what you meant......」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Whoa! What is this score!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Hmph」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「What a confident attitude! I lost! I lost on score too! Complete defeat!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Talk about a low-level battle」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Why the camera~? No way~?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「That's a great expression」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Waaah. Azel-chan, you deviiil」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, where's Nanaka?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「The second break started, she left the classroom. She went to dig a hole in the corner of the schoolyard to bury her test sheet~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way」"
+  },
+  {
+    "message": "Still, was it really bad enough to warrant saying that..."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Azel suddenly snatched my test away."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whoa. How bold of you, Azel-chan」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Since he refuses to show anyone, the score must not be anything impressive」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Synn-kun's test paper is bad for the eyes~ He got 7th in the grade~」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Whoa. So blinding!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you doing, Azel!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I ripped it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Just felt like it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Who rips something just because they felt like it?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Shut up」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I get it~ You just randomly get the urge to rip it up~」"
+  },
+  {
+    "name": "Eddie",
+    "message": "「Indeed. I understand completely」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You get it, right?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Treasurer! I understand that feeling!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You get it too, right, Lolo-chan!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even I went to the corner of the schoolyard to bury my returned test!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Comrade!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, I stopped after seeing Treasurer get scolded by Sengen'in-sensei. A wise person stays away from suspicious life buoys, after all. If you cling to a sinking buoy, you'll sink right along with it」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...Sigh」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Misa-chan, did you do badly on the test?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misa",
+    "message": "「W-What are you doing, Azel-san!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Show me」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Stoooop!」"
+  },
+  {
+    "message": "I snatched the test paper just before Azel could tear it up and handed it back to Misa."
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't think it's a bad enough score to put you in a mood, though」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is that supposed to be a victory speech?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not what I meant」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Miss Hissy Fit here is just mad 'cause she got a lower score than Master Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph. I-It's not like I'm bitter or anything! I just happened to place 8th by pure coincidence!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「U-Um... the Holy Night Festival is coming up soon, isn't it\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah! The Holy Night Festival, the Holy Night Festival! We're marchin' onward toward the future!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's right! We mustn't look back on the past!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-You bounced back fast」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Test」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Auuu」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Recorded」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Just leave 'em alone, man」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...How about we head somewhere else for a change of pace?」"
+  }
+]

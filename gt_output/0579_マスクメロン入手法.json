@@ -1,0 +1,203 @@
+[
+  {
+    "message": "マスクメロン入手法"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Welcome!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「What? Are you saying I shouldn't be here?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you sure you're okay to be up?」"
+  },
+  {
+    "message": "Nanaka seemed completely back to normal as she helped out at Yuugiri-an."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course I am.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You looked really unwell yesterday, so...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That was just a fluke. Even I'm a delicate maiden, so I have days like that too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, if you say so.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey. Isn't that the part where you're supposed to retort, 'Who's a delicate maiden?!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...As long as you're okay, that's all that matters.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「E-eh, ah, r-right.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just to be safe, don't you think you should take today off?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Um, well, I'm totally fine, so...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oh, it's Synn-kun~ Sneaking into her bed?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-what are you suddenly talking about?!」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Oh, finally?! You've finally gone that far?! You're quite the sly dog, Synn!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's the middle of the day right now.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「How bold, doing it in broad daylight~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's how you're gonna play it...」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「What?! Did you sleep with her?!」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Judging by how slender he is, there's a good chance Synn was the one who got taken to bed.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「There's no time to waste! As an apostle of truth, I have to spread this scoop right away!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's not the truth to begin with.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I neither got held nor did any holding!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Good day to you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Gah! Even Bubuzuke is here!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I heard that you collapsed yesterday, you see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ria-senpai sure runs her mouth……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「As a get-well gift, I went and bought some buns--some pussy-buns, that is」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't say such obscene things in broad daylight!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I only said I bought some sweet buns, how mean of you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Stop spamming it when you know full well how it sounds!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, feeling under the weather every now and then isn't so bad, is it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Someone special might worry about you. And you get canned peaches or muskmelons out of it, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see! Though even without getting sick, at your place, Misasagi-senpai, you could have as much as you want」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「The harsh reality of a stratified society」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Could it be that you would have preferred a muskmelon instead?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry. A muskmelon is out of my league, though if a soccer ball I picked up will do」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I never said anything like that! Jeez, what do you take me for!」"
+  },
+  {
+    "message": "Yeah. That's the usual Nanaka. She looks fine."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If it's something the President gives you, wouldn't you be happy no matter what it is?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I-I-It's not like that at all!」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now, now, don't get so worked up. So, why were you feeling unwell?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Did you cook some celebratory red bean rice?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ages ago!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Red bean rice, huh…… I've even forgotten what it tastes like……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Come to think of it, there was a food like that」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, how pitiful」"
+  }
+]

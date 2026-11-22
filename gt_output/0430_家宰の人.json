@@ -1,0 +1,205 @@
+[
+  {
+    "message": "家宰の人"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Coming all the way to the library to study on a Sunday... Being a scholarship student sure is tough.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's not it. Last night, the Crusaders fought some ridiculously strong Demons, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thinking about what comes next, I wanted to check the library again to see if there are any books with detailed info on Demons.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「...At the end of the day, that's still studying.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Umuun, my hand can't reach.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Would it be this book here, my lady?」"
+  },
+  {
+    "message": "Oh? Lolotte is visiting the library too. Is she looking for books on Demons just like me?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya, the one right next to it... Yes, that one. Please get '100 Hacks for Meteor Managers: Reconciliation Edition' for me.」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「Leave any bookshelf too high for my lady's reach to me, your butler, Riesling Tooyama.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Isn't that the how-to book section?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hoeh? Hello there, Mr. President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey... Wait, you're borrowing something pretty unusual for you, aren't you, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Believe it or not! This isn't the only book. Right, Jiiya?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「We also have 'The Road to Truce: Collection of World Mediation Treaties - Practical Application Edition.'」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「On top of that, there are even romance novels from the 'Mr. Pierrot Series' that the Vice President recommended to me.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Apparently, they're all stories where couples fight and break up ninety percent of the time, only to get back together one hundred percent of the time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Th-The genres are all over the place, so you have quite a wide taste in reading, huh, Lolotte?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...That's not it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "message": "Seeing Lolotte suddenly look so downhearted, I realize the common thread."
+  },
+  {
+    "message": "Reconciliation, mediation, getting back together--"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte, you're looking for books that explain how to make up with someone, aren't you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「*Flinch*!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Choose your words a little more carefully, Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's no point sugarcoating it when no such book exists」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hiiyaaa!! I-Is that true!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Listen, Lolotte... Doing just one thing to fix your relationship with them... things don't work like that」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Try thinking back, okay? Didn't your relationship change because of lots of little things piling up over time?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Y-Yes...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Unfortunately, that's as far as I can help you figure out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you want to make up, you shouldn't rely on weird books--you're better off thinking it through yourself, Lolotte」"
+  },
+  {
+    "name": "Synn",
+    "message": "「After all, the one who knows that person best is supposed to be you, Lolotte」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I-I understand... Still, President, please let me hear more of what you have to say」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sure, if you don't mind what little I can offer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, we shouldn't just stand around talking. Let's head over to the study corner」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hieek!? The competition for seats over there is fierce! I'll go ahead and save us a spot!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've had so many people give me a push forward」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everything I just told Lolotte is really just secondhand quotes of things those people once said to me」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「I, Riesling Toyama, could also have taught the young lady...」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「If reading a person's psychological state from the gestures they unconsciously make would have sufficed, I could have instructed her, however...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whether the meaning behind human gestures applies to an angel's... even I don't know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, even if Lolotte were dealing with a human... you would deliberately refrain from giving her concrete methods anyway, wouldn't you, Riesling?」"
+  },
+  {
+    "name": "Riesling",
+    "message": "「You flatter me」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I think I understand how you feel. I'll go talk to her as if I were Lolotte's butler myself」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Jiiya! President! I got us a spot, hurry over~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa, shouting like that inside the building--」"
+  },
+  {
+    "message": "I hurriedly trotted over to Lolotte. Even at a time like this, Riesling-san walked with a graceful, stylish stride."
+  }
+]

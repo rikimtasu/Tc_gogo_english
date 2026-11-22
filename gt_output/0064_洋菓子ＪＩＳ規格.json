@@ -1,0 +1,1177 @@
+[
+  {
+    "message": "洋菓子ＪＩＳ規格"
+  },
+  {
+    "message": "And so, we arrived at 'Chocolat l'Or』"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「I see. In that case, we would be delighted to open a stall.」"
+  },
+  {
+    "message": "Chocolat's representative was a woman around my age named Fuyuka-san."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you very much.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Not at all. There is no need to bow your head so deeply. Interaction between each Chocolat chain store and the local community is very important, after all.」"
+  },
+  {
+    "message": "Apparently, she wasn't just a branch manager, but a high-ranking figure from the main office who occasionally made the rounds--and a member of the family that runs Chocolat."
+  },
+  {
+    "message": "Even so, to reach an agreement so easily with the most famous shop, one that's even expanded nationwide... Maybe I'm actually in luck."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Now then, let us move on to the specifics. Roughly how much space are you planning to allocate for our stall?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ah, yes, right here.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「S-Such a vast area?! Could this perhaps be a reflection of your discernment that our shop possesses that much value?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Of course, our shop has no hesitation in demonstrating the value befitting your estimation.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, no. It's just one corner of the buffet section over there.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "\"We'd really love for you to participate in our sweets buffet,\\nyou see--\""
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Buffet?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "Her tone of voice just changed all of a sudden."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Did you just say a buffet?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa, this person is totally ignorant. The meaning of 'buffet' is--」"
+  },
+  {
+    "message": "I clapped my hand over Lolotte's mouth."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Would you care to enlighten me as to what exactly you have in mind by 'buffet'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, it's a project where we reach out to all the major Western confectioneries in Ryuusei Town and have everyone collaborate on a cake buffet.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「...I see.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does that make sense to you now?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「……」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Using Chocolat's cakes for a buffet... You certainly look down on us, don't you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not what we meant at all--」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Our shop is a long-established institution boasting 102 years of history as a chocolatier.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As a cake shop, though, it's only been around twenty years, right?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「...\\s09」"
+  },
+  {
+    "message": "Whoa. Things are taking a bad turn!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Of course, of course I know how highly regarded Chocolat l'Or's sweets are. Besides, I eat them myself about once a month.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「You've eaten them, you say. And yet you still intend to have us participate in a buffet... It seems you possess quite a cheap palate.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Oh... My palate is cheap, is it?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「The taste of someone who thinks of dragging Chocolat's cakes out into a cheap venue like a buffet is hardly worth mentioning.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It sounds like you're looking down quite a bit on buffets, though...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「I'm not looking down on them at all. I'm simply saying it would be troubling to have our cakes lumped together with the kind lined up at a casual, everyday buffet.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Do you have any idea how particular we are about our ingredients and methods... when you say things like that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「In other words, you don't want to participate because it's a buffet?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes. To put it plainly, I have no choice but to say so.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「It seems you've finally come to understand.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...Hah.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「What is that 'hah' supposed to mean?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, no, it just slipped out. I see--so here in Ryuusei Town, only Chocolat is special.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「If you were to put it crudely, it could be taken that way.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like hell it is--!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「What did you just say?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yeah, I'll say it as many times as you want. Like hell it is, you arrogant twintails!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「How dare you!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nanaka, calm down!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Then what? Are you saying there's as big a gap between Sans Souci's cheesecake and Chocolat's cheesecake as a paper lantern and a temple bell!?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「'Sans Souci'...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You didn't even know that and you were bragging that only your place is authentic? It's a shop that's participating in the buffet!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「A buffet... Hmph, that shop clearly has neither policy nor pride」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh yeah? Well, as far as I'm concerned, they're just different genres, and theirs actually scores higher!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Wha--!? How could someone like you possibly be qualified to judge that!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Everyone agreed to participate because they trust my palate!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「W-What do you mean...?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn's the president and I'm just the treasurer, so I don't have the final say, but a shop where someone who looks down on buffets acts all high and mighty...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We don't need you setting up a stall!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「What did you say!?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「You're the ones who came begging us, and that's how you talk?! Who would ever set up a stall for you!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Whoa. Talks have broken down. This is what they call total fragmentation.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, that's not it at all. Nanaka, you're going too far.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, you're so cool, keep going!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Yuugiri-senpai, right there, go for it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You two, don't egg them on while stuffing your faces!」"
+  },
+  {
+    "message": "Whoa. Everyone in the cafe corner is staring straight at us!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「First of all, Kirafes doesn't exist just to advertise your shop!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「This Kirafes exists for sweets! So everyone can happily enjoy sweets!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I told you, Kirafes isn't just for sweets--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Like I said before, there's no high or low in sweets. It's a pure world decided by taste alone!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And I'm not letting someone clinging to petty pride and policy lecture us about it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm getting mad for the sake of all those not-so-famous yet sparklingly delicious sweets across the country!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Listen to youuuu」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now, calm down, Touka-san. The customers are watching」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Grr... ahem」"
+  },
+  {
+    "message": "Perhaps noticing the curious stares coming from the cafe area, she clears her throat once."
+  },
+  {
+    "message": "Forcing a strained smile onto her face."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Having listened to your arguments just now, I couldn't help but feel...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「It sounds to me as though you do not recognize the value of our establishment, or am I imagining things?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's delicious, sure. It's just not head and shoulders above the other cake shops in this town」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N―Nanaka. That's enough already―」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're being way too blunt, Treasurer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not that it's any different from how you usually are, though」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Our talented staff uses the finest ingredients and makes daily improvements based on customer surveys」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Chocolat's cakes are head and shoulders above the rest!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Being head and shoulders above the rest is impossible under your current system. Probably」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「How high and mighty for an outsider! How dare you talk like you know everything!」"
+  },
+  {
+    "message": "The atmosphere is getting tenser by the second. What am I supposed to do!"
+  },
+  {
+    "message": "All the customers in the cafe area are staring right at us--or rather, when did the place get completely packed!"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm an outsider, sure. But this is a structural issue common to large-scale chain stores」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Hmph. So that's it」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Certainly, in those kinds of stores, cakes and meals alike are mass-produced in factories and distributed nationwide, so the flavor never rises above a safe, utterly average standard」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「However, lumping us together with convenience store or supermarket chains is the height of ignorance!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「We may purchase our raw ingredients in bulk, yes, but the actual baking is done on-site by each branch's pastry chefs! We maintain meticulous quality control!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I know that much. I'm saying this knowing full well how it works」"
+  },
+  {
+    "message": "Ah, is there really no one left who can stop Nanaka."
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey. You two, stop just eating and--」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aah. Picking a fight with Nana-chan this hard is gonna end badly, I think~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Still, Yuugiri-senpai's palate is totally fair! She'd never let personal feelings get in the way!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Still, that manager sure is hanging in there~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「She doesn't seem like a bad person, though」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Talking like this has nothing to do with you...」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「In any case, I have no need for concern from a half-baked amateur like you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm not really worried or anything, just saying it can't be helped」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Continuing to rant without even admitting your own mistakes--how despicable」"
+  },
+  {
+    "message": "Spitting out those words, Touka-san turned toward me and spoke with a picture-perfect smile."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Chocolat wishes to cherish the people of this community」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「However, I cannot entrust my adorable cakes to an event organized by someone who lacks both manners and a decent sense of taste」"
+  },
+  {
+    "message": "Now that things have soured this much, there's no opening left at all."
+  },
+  {
+    "name": "Synn",
+    "message": "「Understood. I apologize for taking up your time」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「You must have a hard time having a companion like this, Mr. President. Though I suppose it can't be helped since she was elected. Now then, if you'll excuse me」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was utterly captivated by how splendidly things fell apart. It was just like a drama」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...That's not something to admire. Nanaka, we're leaving」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, yeah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sorry, Synn, I made things go sideways」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It can't be helped. They're the ones who said they didn't want a buffet」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka's looking pretty down..."
+  },
+  {
+    "message": "Her phrasing was rough, sure, but I couldn't think that everything Nanaka said was wrong."
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, the negotiations didn't work out, but you're still gonna eat some sweets before we go, right」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eh, is that okay? But...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For once, it's my treat today」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Eeeh!? 'It's going to rain tomorrow.' So this is the kind of situation you use that phrase in」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, that's impossible. Financially speaking」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How come Nanaka knows more about what's inside my wallet than I do!?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You are quite an airhead, Mr. President. Even I was able to tell」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Is that how it was--!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'll just accept the thought. Thanks, Synn」"
+  },
+  {
+    "message": "We sat down at the table that Sacchin and the others had claimed."
+  },
+  {
+    "message": "Maybe because of our argument just now, it felt like the other customers were staring at us, though... I'm just being self-conscious, right."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, you were so cool~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No I wasn't. It was the right call sweets-wise, though... as the treasurer, I feel like there were a lot of issues...」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「With stuff like that, as the honorary president, it's best to lay it down firm, real firm」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Coming from Yumil, who laid it down too firm, ticked off the upperclassmen, and got booted from the Track Club, that's really convincing」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Ahaha. Yeah, that happened too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So that's what happened」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You quit the Track Club too, Yumil-san? We are comrades, then」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Oh, you did too?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「There was no future for our potential in that place」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What's that supposed to mean」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「I went ahead and ordered the new sweets for us~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're only thoughtful about stuff like that, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe~」"
+  },
+  {
+    "message": "After a little while, a slice of cake is set down in front of each of us."
+  },
+  {
+    "message": "It's Chocolat's new chocolate cake, \"Tarte Guadalajara.\""
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Looks gorgeous」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「'Winter der Linden' has something similar, but this one feels way more refined~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, uh... there are scraps of gold paper mixed into this chocolate batter...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Whaaat are you talking about, Synn-kun? That's gold leaf~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaaaaaaaat!? Then if I collect this, I'll become filthy rich overnight!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「You're so funny, Synn-kun」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I hear it's also found in fine wines, so I don't think it's anything to be all that surprised about」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, but, this... isn't it expensive? I can't eat something this pricey!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Mr. President. Nobody is asking you to pay for it, so you mustn't worry about the price」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Synn-sama is way too timid」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wait, you were here?!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ah, everyone. We probably shouldn't talk too loudly」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why is that?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Look around you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!?」"
+  },
+  {
+    "message": "Before I knew it, the gazes of the customers packed into the cafe space were all focused on us."
+  },
+  {
+    "message": "No, not on us--on Nanaka alone."
+  },
+  {
+    "message": "Everyone was stealing glances at Nanaka while pretending not to look our way."
+  },
+  {
+    "message": "Everyone held their breath, the room dead silent."
+  },
+  {
+    "message": "Yet Nanaka seemed completely oblivious to her surroundings, carefully wiping her hands with a wet towel."
+  },
+  {
+    "name": "Synn",
+    "message": "「What... is going on here?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's always like this when she tries a new menu item. Plus, we're being recorded by a directional mic, so we shouldn't say anything careless」"
+  },
+  {
+    "message": "Looking where Sacchin pointed, I saw a tiny shiny something attached to the paper napkin. No way, a miniature mic!?"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Somehow, this is getting exciting」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Right?」"
+  },
+  {
+    "message": "Before I realized it, even Auntie Shinagawa had blended into the crowd of customers! Even Tame-san was there!"
+  },
+  {
+    "message": "What on earth is about to happen!?"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「How do you like our shop's newest creation, the Tarte Guadalajara?」"
+  },
+  {
+    "message": "Looking toward the voice, Touka-san had silently appeared beside us and was looking down our way."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「This graceful design! And this delicate yet passionate chocolate flavor, crafted using select, high-grade Guadalajara cacao beans from South America」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「And inside the firmly baked, crispy biscuit crust lies a ganache blended with custard at a patent-pending ratio!」"
+  },
+  {
+    "message": "She must have immense confidence in this new cake."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「It is a brand-new creation born from over half a year of research, prototyping, and tastings. A signature sweet made with wholehearted dedication and spirit by our talented staff」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Savor to your heart's content a luxury that rivals even the most famous patisseries in Europe」"
+  },
+  {
+    "message": "Fuyuka-san is looking at Nanaka triumphantly."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Though I suppose a half-baked palate wouldn't be able to tell the difference」"
+  },
+  {
+    "message": "Nanaka showed no reaction whatsoever to the provocative remark."
+  },
+  {
+    "message": "She had such a serious expression on her face that I couldn't help being captivated."
+  },
+  {
+    "message": "Nanaka put her hands together and murmured quietly."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thank you for the food」"
+  },
+  {
+    "message": "Drawn in by her, the rest of us also--"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Thank you for the food」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「...Thank you for the food」"
+  },
+  {
+    "message": "The cafe falls dead silent. An eerie atmosphere."
+  },
+  {
+    "message": "Even the staff are looking over at us with worried glances."
+  },
+  {
+    "message": "Nanaka savors the Tarte Guadalajara with truly graceful movements."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I forgot all about eating and just stared at Nanaka."
+  },
+  {
+    "message": "The fingers handling the silver fork looked so slender and dexterous, unimaginable given the strength with which she slaps my back."
+  },
+  {
+    "message": "Her lips, faintly stained with chocolate, looked soft, and"
+  },
+  {
+    "message": "Her long eyelashes were fine, even, and pretty, and"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "It was the first time I had ever gazed at Nanaka so intently."
+  },
+  {
+    "message": "It felt kind of strange."
+  },
+  {
+    "message": "It was as if I were sitting in front of a girl I was seeing for the very first time."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, what」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「If you aren't going to eat it, please give it to me」"
+  },
+  {
+    "message": "Lolotte's plate was completely empty."
+  },
+  {
+    "name": "Synn",
+    "message": "「...No」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're stingy, President」"
+  },
+  {
+    "message": "I wanted to argue back in all sorts of ways, but before that, I dug into my dessert."
+  },
+  {
+    "message": "Mmm. It's good! So good!"
+  },
+  {
+    "message": "And while I was absorbed in moving my fork, Nanaka's dessert grew smaller and smaller, until"
+  },
+  {
+    "message": "The final morsel vanished between her lips."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Phew... Thank you for the meal」"
+  },
+  {
+    "message": "Nothing remained on Nanaka's plate."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey, Nana-chan」"
+  },
+  {
+    "message": "Sacchin, who had finished eating long ago, whispered."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That was delicious~ I wonder how many points it'll get~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...65 points」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaat!?」"
+  },
+  {
+    "message": "A murmur of shock erupts from the surrounding customers."
+  },
+  {
+    "name": "Yumil",
+    "message": "「Harsh critic as always!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The world of competition is truly unforgiving. Ah, I see, so this is what they mean by a lioness throwing her cubs into a bottomless ravine」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean, 'world of competition,' in the first place?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Why is it so low!? Don't talk so big when you're just a half-baked amateur!」"
+  },
+  {
+    "message": "Oh, Touka-san's face is twitching."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「65 points means she's totally safe~」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「If it had dropped below 60, she would've been in trouble, though」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's a relief for Chocolat too~」"
+  },
+  {
+    "message": "At those words, the onlookers nodded in unison."
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「W-What is the meaning of this?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not low. I think it's delicious」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Then why is the score so low!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The subtle hint of vanilla beans mixed into the ganache works really well as a secret ingredient」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Eh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The pate sucree... the biscuit-like tart crust is also nicely browned, crisp, and top-notch」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「As for the design, the framboise offsets the monotony that chocolate sweets tend to fall into, which I think is great」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「...It seems you're not just some half-baked amateur after all」"
+  },
+  {
+    "message": "The look of disdain vanished from Touka―san's face―"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because I pay out of my own pocket to eat them」"
+  },
+  {
+    "message": "Nanaka looked at Touka-san and smiled."
+  },
+  {
+    "message": "Ooooh!"
+  },
+  {
+    "message": "Somehow, Nanaka looks really cool! I was a little worried she was just a sweets addict, though. Turns out she's not 'just' one!"
+  },
+  {
+    "message": "You'd never guess she's someone who can't cook anything besides soba!"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That's not really a compliment, is it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「D-Did I say that out loud?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Loud and clear~」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Sixty-five points, eh? Harsh as ever.」"
+  },
+  {
+    "name": "Tame-san",
+    "message": "「Well, if it's Nanaka-chan's verdict, it's gotta be fair... Alright, now that it's got her seal of approval, guess I'll try one myself.」"
+  },
+  {
+    "name": "Shina-oba",
+    "message": "「Then I believe I'll have one too.」"
+  },
+  {
+    "message": "In the surrounding seats, some people were sending emails somewhere, while others had pulled out laptops and were typing something up."
+  },
+  {
+    "message": "Could they be sending Nanaka's verdict somewhere...? No way."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Way~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... Did I say that out loud again?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yep. You see, for the past two or three years in Ryuusei Town, the scores Nana-chan gives have become the absolute standard for pastry shops~ ...Though she hasn't noticed it herself~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whaaaaat?!」"
+  },
+  {
+    "message": "Then those emails and the stuff they're typing on their laptops..."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Shhh. If she finds out, she might hold back on her scoring, right~? So it's a secret~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then if something scores under sixty...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It means the sweet-tooths of Ryuusei Town won't buy that dessert anymore~」"
+  },
+  {
+    "message": "Nanaka is terrifying!"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「What did you mean earlier?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「About the problem common to chain stores?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I think it's that they don't deeply understand their raw ingredients.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「...What do you mean by that?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「For example, take the flour used in this biscuit dough. For a chain the scale of 'Chocolat,' you buy wheat in massive bulk to keep ingredient costs down, right?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Yes... we do. However, we only contract with farms that practice organic cultivation.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The small shops I know... You know the wheat that flour is made from, right?」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Y-Yes.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「They know the faces of the farmers who grow that wheat, what kind of land it comes from, and all the subtle seasonal differences in the harvest--and they make their cakes knowing all of that.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「While keeping all that in mind, we also make fine adjustments to how we knead the dough and set the ovens depending on that day's temperature and humidity.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「……」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Indeed... That level of meticulous care simply isn't possible at a scale like ours.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「……」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「I apologize for writing you off as a half-baked amateur.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't sweat it. I am a half-baked amateur, after all. Forever and always」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Is that so?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Because no matter how many years I live, it's impossible to eat every sweet in the world. That's why I'll forever be a half-baked amateur」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Perhaps so... In fact, that's how it ought to be. Though I often forget.」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Looks like they've made up, huh.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Is this what they call 'after the rain, the blood pools'?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Blood pooling up sounds super scary!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Earlier, you stated that a patisserie's worth is decided by how delicious its sweets are, did you not?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Then our Chocolat l'Or shall prove its worth solely through the deliciousness of our sweets as well.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Mr. President.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, yes.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「We would like to open a stall under the terms you proposed... Would that be acceptable?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course! We're glad to have you.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We really appreciate your cooperation! Thank you so much!」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「No, the pleasure is ours. Sweets only truly shine when all sorts of people get to enjoy them, after all.」"
+  },
+  {
+    "name": "Fuyuka",
+    "message": "「Thank you very much! We look forward to your next visit!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... For a moment there I wasn't sure how things would turn out, so I'm glad it worked out...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Makes all our helping out totally worth it!」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Man, that stuff was delicious.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You mustn't forget the presence of your capable secretary, either.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No, you guys didn't do anything」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's not true. I went ahead and placed the order」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I was providing moral support.」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「I'm gettin' kinda hungry, so wanna grab some crepes or somethin'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Whoa」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It worked out great, didn't it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, stop hitting me every time」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hahaha. There's no such thing as a bad person in the sweets business, right」"
+  },
+  {
+    "message": "Laughing as she said that, Nanaka was the same old Nanaka."
+  },
+  {
+    "message": "And yet, she looked just a little bit different."
+  }
+]

@@ -1,0 +1,1378 @@
+[
+  {
+    "message": "支えられてこみ上げる想い"
+  },
+  {
+    "message": "Even after everyone found out I was the Demon Lord, the start of the day was the same morning as always."
+  },
+  {
+    "message": "As usual, Nanaka tells me about the morning TV drama."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So then, right when Kirara is finally about to have her wedding with the one she loves」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't tell me someone got in the way again?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There are still plenty of days left until the finale, after all. Sure enough, some jerks show up to pick a fight over Kirara's upbringing」"
+  },
+  {
+    "name": "Synn",
+    "message": "「C'mooon, just give her a happy ending already! How much do they have to make her suffer before they're satisfied?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It can't be helped. It just means she's done that much to feel guilty about--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, do you feel guilty about being the Demon Lord?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...About hiding it from everyone, yeah. Definitely」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I see. Still, it's not like you were deceiving us to do anything bad, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's true, but」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If you were the type to go, 'Actually, I'm gonna destroy this world!' then I'd be putting my hand to my forehead too, y'know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You couldn't care less about that stuff, though, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, pretty much」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You know... the fact that you're the Demon Lord, Synn. It really doesn't bother me at all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I mean, Synn is Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I-I'm not trying to cheer you up or anything! It's just my honest opinion\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, if it turned out you were secretly a celebrity or something, Sacchin would probably be over the moon, though」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's just... well. Remember what Ria-senpai said before?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「N-No, no! It's nothing that shocking, y'know. Just... that she admires the Demon Lord or whatever」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, ahh~~. Yeah, right. She did say that, she did.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Who'd have thought Synn was actually the Demon Lord~? Think she got a li~ttle disillusioned?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ah, no... I-I-It's just a possibility is all, um, er...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Why aren't you snapping back at me like usual?! Why do you look so hurt!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Um... sorry. I took the joke a little too far...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If what Nanaka says is true... then I...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You, about Ria-senpai...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You like her, don't you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?! Wh-wh-wh-wh-wh-why would you say s-something like that\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Something like that... saying I like her... that's...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I knew it...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「...*giggle*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You do like her! It's totally obvious!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I'm telling you」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't hide it, don't hide it. I'm your childhood friend, you know! I can read whatever Synn is thinking like an open book!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ugh...」"
+  },
+  {
+    "message": "Just like Nanaka said, I really do like Ria-senpai."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey!! Don't make such a gloomy face!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ow!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You weren't even on her radar until now, and suddenly you've shot straight up to someone she admires--this is your big chance, isn't it!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Besides, you're a guy who can get things done when you try. I guarantee it!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Do your best, Student Council President!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah! Thanks, Nanaka!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「……」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I'm such a hopeless girl... Acting all tough in front of Synn...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「But at this rate, Synn is going to drift further and further away from me. The truth is... I don't want him to become the Demon Lord」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「With a mindset like this... there's no way I can measure up to Ria-senpai...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hello~~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hey, what are you acting all jumpy for?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「He must have a guilty conscience」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, it's just... I still haven't properly talked to you about the Demon Lord thing...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Indeed. Why did you keep it a secret from us? Perhaps I ought to have you explain yourself until I'm satisfied――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Is what I was thinking, but... never mind」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, it's fine?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Just looking at Onee-sama yesterday, it's obvious enough that you aren't our enemy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I am a bit displeased that it was kept secret from me, however, for Onee-sama's sake, I'll forgive you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misa...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This is a special exception, you hear me?! If you're going to thank anyone, thank Onee-sama!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「And never put Onee-sama in danger again」"
+  },
+  {
+    "name": "Misa",
+    "message": "「If it's you... you can manage that, right?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, got it. Are you really sure that's enough, though...?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph! If my rival turns out to be someone special, that only makes competing against you all the more thrilling」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No matter how much they call you the Demon Lord, I will surpass you!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Demon Lord or whatever else you may be, just like always――」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I challenge you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, of course\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The Vice President has made a grand transformation into the Empress of the Underworld, hasn't she?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What are you talking about?! At least call me a magical girl, or a witch girl!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about you, Lolotte? If there's anything you want to say, feel free to say whatever」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Let's see~~. So the President is the Demon Lord, right~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「When I compare you to the face drawn in the guidebook……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Stare----」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ba-dump, ba-dump……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even if you claim to be the Demon Lord, President, it honestly doesn't quite click」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Slump*」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「However, I do think it's a good thing that you're the Demon Lord, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Why is that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Because at the very least, someone standing right in front of me is much more reliable than a being that only exists in stories and books」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, that's true」"
+  },
+  {
+    "name": "Misa",
+    "message": "「As long as he isn't inferior to those fictional beings, that is」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「And besides!! Isn't this what you'd call a hype development, where the final boss becomes an ally?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not the final boss……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, I'll steel my resolve too. President, lend me your ear」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's a secret. Please don't tell anyone!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Actually, I was an angel all along」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Why aren't you surprised!? Isn't this huge news?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, well, I kind of had a hunch~」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Th-That's strange. Even though the President's coming out made it hard to read the room」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, I... I'm glad I confessed」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wonder what would have happened if Big Sister hadn't covered for you\\s10」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't even want to imagine...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, there's an angel standing right next to us. Having a Demon Lord around isn't really that strange. So it wasn't anything to be surprised about」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Right, Lolotte the Angel?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Like I said, how do you know about that!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Both of you... thank you so much」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's with the sudden formality?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Since the President is about to set off on a painful, scary, cold, and grueling training journey, cheering you on this much is an easy task indeed」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Exactly. Now it all comes down to how hard Synn works」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, sorry to keep you waiting. Is Ria-senpai the only one left?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「She's running late today~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm... going to go meet her real quick!」"
+  },
+  {
+    "message": "Nanaka, Lolotte, and Misa were there."
+  },
+  {
+    "message": "Encouraged by my wonderful friends, energy steadily welled up inside me."
+  },
+  {
+    "message": "My resolve to overcome the harsh trial was set."
+  },
+  {
+    "message": "And yet..."
+  },
+  {
+    "message": "Why couldn't I feel any real sense of awareness?"
+  },
+  {
+    "message": "Why didn't it feel real?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa, haa... Where's Senpai...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「President. What are you doing in such a hurry?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Moryo-senpai. Is Ria-senpai around?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「She went to take out the trash just a moment ago――」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'm back~~」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Welcome back. Well then, pardon me for intruding」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Bye-by~e♪」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sorry, Synn. Did I keep you waiting?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-No, it's not like that...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What a liar. It's written all over your face that you're tired of waiting」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Not so much tired of waiting as eagerly anticipating it, I'd say」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「L-Let's go, Rea-senpai\\s01」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Starting today, right」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Demon Lord training...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's something only you can do, Synn, so you've gotta work hard at it」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn. Don't make such a half-hearted face. Everyone's going to worry, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I do have the spirit to see it through. Still, even if I am the Demon Lord...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Are you anxious after all?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Y-Yes. I keep wondering what I can even do all by myself at this point. It's never once felt real to me until now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then why didn't you feel that way until now...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Because I've never been completely alone until now」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Completely alone...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Until now, everyone was always with me, so I felt like I could do anything...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka was there, Lolotte was there, Misa was there. And--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You were there for me, Rea-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「So, what do you want to do, Synn?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Well, that's...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee... Synn-kun, you're surprisingly lonely, aren't you♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Then you just have to ask them. Tell them you can't even get started unless everyone's with you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……!」"
+  },
+  {
+    "message": "I see. I just let my impatience get way ahead of me. And that only made my anxiety pile up."
+  },
+  {
+    "message": "It didn't feel real because I was trying to do it all by myself."
+  },
+  {
+    "message": "Doing things all alone is something I could never pull off no matter how hard I tried."
+  },
+  {
+    "message": "I never knew how to start anything all on my own."
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah... Consulting you really was the right call, Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem! Being relied on is part of a senpai's job, after all♪」"
+  },
+  {
+    "message": "Not just any senpai--it's because it's Ria-senpai..."
+  },
+  {
+    "name": "Ria",
+    "message": "「Eh, did you say something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N-Nothing at all!\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-So, um... I want you guys to join me, too. For the Demon King training.」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess we got no choice!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Well, I suppose it can't be helped.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It really can't be helped~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Everyone... Thank you so much!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Still, is it something even we can actually do?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Of course we can.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I am super curious about what kind of things we will be doing~~\\s07」"
+  },
+  {
+    "name": "Ria",
+    "message": "「This really is how it ought to be... right?\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...Yes!」"
+  },
+  {
+    "message": "With this, I no longer have any doubts or hesitation."
+  },
+  {
+    "message": "Nothing can start without everyone in the Crusaders."
+  },
+  {
+    "message": "Ria-senpai, who immediately helped me realize that, understands me so deeply."
+  },
+  {
+    "message": "I really am in love with Ria-senpai, after all."
+  },
+  {
+    "message": "Only now have I finally realized it--that I want her to stay by my side forever."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Welcome. I have been expecting you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san. Thank you for having us today」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「There are more of you than scheduled, surely you haven't come here to play around, have you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Melilot-san. Please, um... train us too!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Since when did you start carrying Demon blood?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Th-That's not what I meant......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun's goal is to master magic in order to become a true Demon Lord」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Therefore, those of you who aren't even Demons cannot wield it. You understand what I'm saying, don't you?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-W-We do have an angel here, you know\\s01」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「In that case, practicing Spirit Arts would likely be the wiser choice」"
+  },
+  {
+    "name": "Misa",
+    "message": "「But if Sakura―kun can do it, then I can―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unfortunately, you all do not meet the prerequisites」"
+  },
+  {
+    "name": "Misa",
+    "message": "「E-Even so......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Besides, the results of one's efforts aren't determined by prerequisites, but measured through the training ahead」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Even so, we've always done things together」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The Crusaders only work when Synn and all of us are together!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Haa......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「W-What is it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see......」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Very well」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Indeed. Knowing the enemy's hand is also a good opportunity to increase your chances, isn't it」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And the synergy of morale will certainly not go to waste either」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then...!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will permit your participation. However, if we are going to do this, we will do it thoroughly. I have no intention of doing things halfway.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's just what we want! Right, everyone!!」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yes!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「See to it that you never waver in that resolve」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Of course!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「And no matter how hurt Sakura-kun gets, you are not to lend a hand. Understood?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'll be fine, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Yeah...! Understood」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then, let us begin」"
+  },
+  {
+    "name": "Everyone",
+    "message": "「Yes!!」"
+  },
+  {
+    "message": "With everyone from the Student Council watching over me, my special training went on for hours."
+  },
+  {
+    "message": "It started with a lecture from Melilot-san, and then moved on to practical exercises."
+  },
+  {
+    "message": "All I had to do was have a staring contest with Melilot-san."
+  },
+  {
+    "message": "However, the room was so overwhelmingly silent that you could literally hear the sound of someone gulping."
+  },
+  {
+    "message": "Even so, having everyone watching over me gave me encouragement."
+  },
+  {
+    "message": "To be honest, a fatigue even worse than pulling an all-nighter for a test was washing over me."
+  },
+  {
+    "message": "Just imagining what it would have been like if I were alone was terrifying."
+  },
+  {
+    "message": "Before I knew it, the sun had set."
+  },
+  {
+    "name": "Melilot",
+    "message": "「...That concludes today's regimen. Good work today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hah... hah...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let us properly begin with a greeting and end with a greeting. Good work today」"
+  },
+  {
+    "name": "Synn",
+    "message": "「G-Good work todaaay~~\\s01」"
+  },
+  {
+    "name": "Synn",
+    "message": "「*Wheeze, wheeze*」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn... want me to carry you home on my back?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No! I'm fine... hah, hah...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Well, it's not like I could actually give you a piggyback ride anyway...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「This is going to continue every day from now on... I can't be getting carried around starting on day one」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You didn't look like you were moving around all that much, so what is it that makes you so tired?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I guess you could call it mental training... It feels like I'm fighting back against having my rational thoughts stripped away.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Does that mean your mind is being encroached upon by the power?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Close. It doesn't seem to want to lend its strength to my goal.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Demons are creatures that naturally act on their own desires, after all. They want to use magic power to fulfill their wishes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hold on a second. Then does that mean my own will is actually conflicting with itself?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's your subconscious. That stuff's all unconscious, so there's no way to know.」"
+  },
+  {
+    "message": "My wish... my true desire, huh..."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Though, that Melilot woman has probably gone through the exact same kind of training, too.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I mean she suppresses her desires to carry out another objective. She probably knows she's forcing you to do the same, Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Well, on the flip side, if we can figure out what your desire is, Demon Lord...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「If we can?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What will happen?!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It might just become the trigger to unleash your maximum power.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You heard him, Sakura-kun!! Come on, confess!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Even if you tell me that...\\s01」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Isn't it something like wanting to eat a beefsteak?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come on, it's definitely not that\\s01」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「What do you think, Senpai?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ria-senpai, Ria-senpai!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're going to walk right past your house.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah! Aaaah! Right, right. Soooorry~\\s07」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I guess I focused a bit too hard and wore myself out. As your senior, I really ought to keep it together」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ria-senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I'd better get to bed early tonight. Goodnight♪」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Even though she was only watching, she looked terribly exhausted, didn't she」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Could it be that Big Sister's consciousness was nearly hijacked as well!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「There's no way something like that happened. Come on, let's hurry up and head back」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew~~. That was a great bath」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「You'd better bundle up properly after a bath or you'll catch a cold」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, how rare. For you to be looking out for me」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't get the wrong idea. It's just that there's a girl who'd worry if the Demon Lord collapsed」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Paqy... thank you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh... I can't let the two of you get any closer than this!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「So, who is this person?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Like hell I'd tell you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, it's the phone」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If someone's going out of their way to call at this hour, it's gotta be that girl」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「This is where the great me gets in the way and tears their relationship to shreds--」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No, wait! She definitely called because she's worried about the Demon Lord!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If she finds out she can't talk to him, she's bound to be heartbroken. The great me can't do something like that!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Still, if I just leave them alone like this, she and the Demon Lord will...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Uwooooh, what a dilemmmmaaaaa!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you doing?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「No, no, the great me will definitely get this one!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just don't do anything rude, okay?」"
+  },
+  {
+    "message": "Now then, before going to bed, I head over to the TV to go save Hiroshi for a bit."
+  },
+  {
+    "name": "Synn",
+    "message": "「That was quick. Who was it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It was Soba.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「She was saying stuff like, 'Make sure you don't forget your homework tomorrow!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Yeah, that's it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see」"
+  },
+  {
+    "message": "I can't imagine Nanaka calling just for something like that. What did she really want?"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should I call her back...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, is that Nanaka?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hello, Grand Palace Sakura~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...! R-Ria-senpai?」"
+  },
+  {
+    "message": "Just hearing her beloved voice made my heart race."
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... I knew it, you're still... feeling worn out, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no! I'm totally fine, really!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「It's just that you always end up collapsing whenever we're on the phone... so I was worried what I'd do if it happened again this time...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm always making you worry... I'm really sorry.」"
+  },
+  {
+    "message": "Right."
+  },
+  {
+    "message": "No matter how much I like her, Senpai is just looking out for me like a good upperclassman."
+  },
+  {
+    "message": "I'm sure this phone call, too, is just her doing what any senpai in her position would do."
+  },
+  {
+    "name": "Ria",
+    "message": "「No, it's fine. I'm glad... You sound well, and I'm really glad.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Do I like Ria-senpai just because she worries about me...?"
+  },
+  {
+    "message": "Just because I want to be spoiled by my senpai?"
+  },
+  {
+    "name": "Ria",
+    "message": "「I... during special training today... the whole time, you know, I was watching you, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Eh... w-well, I mean... I was just observing, after all...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You've been working so hard this whole time, Synn」"
+  },
+  {
+    "name": "Ria",
+    "message": "「And the whole time, you looked like you were in so much pain... I...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even so, I... couldn't be of any help at all...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Melilot-san saw right through me. How I always want to jump in and lend you a hand right away...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even though lending a hand doesn't mean I can actually do anything...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Even though it's not like I can truly share that pain with you...」"
+  },
+  {
+    "message": "I see... I've been relying on her way too much all this time."
+  },
+  {
+    "message": "Senpai is probably struggling because she can't stop babying her underclassman."
+  },
+  {
+    "message": "Right."
+  },
+  {
+    "message": "The only reason she worries about me is because I'm her underclassman."
+  },
+  {
+    "message": "Even so, man! I don't want us to stay in a relationship like this anymore."
+  },
+  {
+    "name": "Synn",
+    "message": "「That's... probably my fault, for relying on you so much all this time, Senpai」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No, it's not! All I've ever done is stick my nose where it didn't belong!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, it was reassuring. Just having you there, Senpai...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Just your presence alone gives me more than enough strength. Even without reaching out directly, just having you by my side makes me--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To you, I might only look like a high-maintenance underclassman, Senpai. But...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Please keep believing in me and watching over me from here on out!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The words you told me, Ria-senpai. I swear I'll live up to them」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That it's not because I'm the Demon Lord--it's something I can do because I'm me」"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "message": "Wait, what am I doing preaching my heart out into a phone~~!\\s01"
+  },
+  {
+    "name": "Synn",
+    "message": "「S-Sorry! I-It kinda sounded like I was trying to act cool--」"
+  },
+  {
+    "name": "Ria",
+    "message": "「No... It was really wonderful...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「What you just said... made me really, really happy. Uuugh~~\\s03 Goodnight!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh!? W-Wait, Ria-senpai!? Senpai--!?」"
+  },
+  {
+    "message": "Whoa... I really went and did it..."
+  },
+  {
+    "message": "Just because I ran out of things to say, blurting out something so embarrassing in the heat of the moment"
+  },
+  {
+    "message": "My heart is still pounding."
+  },
+  {
+    "message": "Ever since I realized I'm in love with Ria-senpai, I've been like this nonstop."
+  },
+  {
+    "message": "Still, just hearing her voice makes me so happy and overjoyed"
+  },
+  {
+    "message": "Simply talking on the phone isn't enough to satisfy me anymore"
+  },
+  {
+    "message": "I want to be with Ria-senpai more and more."
+  },
+  {
+    "message": "The exhaustion that had filled my mind is gradually painted over by my growing feelings for Ria-senpai."
+  }
+]

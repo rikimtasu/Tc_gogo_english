@@ -1,0 +1,441 @@
+[
+  {
+    "message": "違う目的。同じ気持ち"
+  },
+  {
+    "message": "Azel is the enemy? Azel is Re-Crea? I have to defeat Azel by my own hand?"
+  },
+  {
+    "message": "It doesn't feel real. It all feels like some far-fetched fiction."
+  },
+  {
+    "message": "But if I don't, the world will be destroyed."
+  },
+  {
+    "message": "Still, defeating Azel by my own hand..."
+  },
+  {
+    "message": "I can't do it. I have to do it. Do I really?"
+  },
+  {
+    "message": "I don't want to think about it. I have to think about it. Isn't there some way out of this?"
+  },
+  {
+    "message": "There's no time. This is our only chance. The world, Ryuusei Town, and the academy are all counting on what we do."
+  },
+  {
+    "message": "But, but, but."
+  },
+  {
+    "message": "My head just keeps spinning."
+  },
+  {
+    "message": "I understand the logic, but I can't accept it."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Demon Lord. You oughta get a little sleep before heading to the academy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't sleep.」"
+  },
+  {
+    "message": "I couldn't sleep a wink."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even so, going for a walk this early in the morning?」"
+  },
+  {
+    "message": "A path I've walked with Azel countless times."
+  },
+  {
+    "message": "A tiny park that's always deserted."
+  },
+  {
+    "message": "It's just an ordinary park like any other you'd find lying around, yet."
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "The first photos Azel ever took with her Leica."
+  },
+  {
+    "message": "We couldn't wait until getting home, so we spread them out right here to look at them, didn't we."
+  },
+  {
+    "message": "Having memories of a place makes it start looking special."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Soba and Azel used to go at it here all the time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Nanaka confessed to me, and I turned her down."
+  },
+  {
+    "message": "And I realized I'm in love with Azel."
+  },
+  {
+    "message": "That only happened a little while ago, yet somehow it feels like ages in the past."
+  },
+  {
+    "name": "Paqy",
+    "message": "「You were the only one who hadn't noticed, Lord Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Am I... dense?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Being a little dense is just right for a Demon Lord. Otherwise, the pressure of having the world on your shoulders would drive you crazy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There were others like that?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Plenty of 'em. There was even one guy who wrote off being the Demon Lord and yours truly's existence as total delusions, and shut himself up in his room.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「And the world turned out okay?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Re-Crea just happened to be small in scale that time.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know, Paqy. Do you actually remember quite a bit?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I-It was just a coincidence」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What about Dad?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even though he was super popular and could've had his pick, he was completely oblivious to the feelings of anyone other than your mother, Master Synn」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "message": "A shopping street so early in the morning that not a single shop is open yet."
+  },
+  {
+    "message": "A shopping street I know inside and out."
+  },
+  {
+    "message": "A shopping street that will vanish without a trace if the world ends."
+  },
+  {
+    "message": "Five-Star Hanten, where I ate ramen with Azel."
+  },
+  {
+    "message": "Shina-oba's Shinagawa Greengrocer, which Azel photographed over and over."
+  },
+  {
+    "message": "Tame-san's Ponpoko, where he used to tease Azel and me."
+  },
+  {
+    "message": "The clothing store where Helena-san bought clothes for Azel."
+  },
+  {
+    "message": "The beef bowl shop where Eauderourke, who treated Azel and me to beef bowls, works."
+  },
+  {
+    "message": "The photo shop where Azel always went to get his photos developed."
+  },
+  {
+    "message": "No matter what I look at, it reminds me of Azel."
+  },
+  {
+    "message": "Still, if I don't defeat Azel, everything will disappear."
+  },
+  {
+    "message": "Still, even so..."
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Morning. Prez」"
+  },
+  {
+    "name": "Synn",
+    "message": "「M-Morning」"
+  },
+  {
+    "message": "He really is out jogging..."
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Sorry. Not yet. Shop not open. But, Prez, special. Now, beef bowl, I make」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, it's not like that...」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Little bit, wait」"
+  },
+  {
+    "message": "Eauderourke whipped up two beef bowls for us in no time at all."
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Done」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Looks delicious」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Morning, no eat. Strength, no come. Good ideas, no float up」"
+  },
+  {
+    "message": "He's trying to cheer me up."
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「So good!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "That night, Azel brought me to this park."
+  },
+  {
+    "message": "Did Azel team up with Soltia to trap me?"
+  },
+  {
+    "message": "Maybe he did."
+  },
+  {
+    "message": "Just like Riesling said, it's all too convenient to be a coincidence."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn, it's gonna get cold.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sigh...」"
+  },
+  {
+    "message": "I guess I have no choice but to accept it."
+  },
+  {
+    "message": "Azel teamed up with Soltia and led me into a trap."
+  },
+  {
+    "message": "He even tried to strangle me."
+  },
+  {
+    "message": "He was connected to Pasta, too, and was involved in creating the magic circle meant to destroy the world."
+  },
+  {
+    "message": "On top of that, he's taken the power of Re-Crea into his own body and is trying to destroy the world."
+  },
+  {
+    "message": "Still, if he wanted to lure me out, he could've just openly invited me for a walk--so why did he sneak back like that?"
+  },
+  {
+    "message": "Why did he warn me about Soltia's surprise attack?"
+  },
+  {
+    "message": "Why was he crying when he saw me beaten down by Soltia?"
+  },
+  {
+    "message": "When I defeated Soltia, why did he just watch without doing anything?"
+  },
+  {
+    "message": "And afterward, when he tried to strangle me, why did he stop halfway through?"
+  },
+  {
+    "message": "In front of the church, too--why did he stop attacking the moment he realized it was us?"
+  },
+  {
+    "message": "And when he vanished into that alternate space, why did he leave behind words that practically pointed out his own weakness?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「If you're not gonna eat it, I'm diggin' in.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy. Were there any Demon Lords in the past who ended up in a situation like this?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Expecting that kind of knowledge out of yours truly? You're losing your touch, Demon Lord.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Just like earlier, Paqy might actually remember everything."
+  },
+  {
+    "message": "Maybe he's avoiding spelling out the past or giving me the answers so he doesn't bind my free will."
+  },
+  {
+    "message": "Am I overthinking things?"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Though, hey, there's one thing I can tell you for sure.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Whatever decisions the past Demon Lords made, the world's still going, which means they weren't wrong. All's well that ends well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「As my familiar, shouldn't you be advising me to defeat Azel?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Someone other than yours truly already beat me to that, so there's no point now.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "He must mean Helena and the others."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Not like they enjoyed saying that stuff either, you know.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know it's not something I should hesitate over... in my head, at least.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Defeating Azel to protect this world... I guess that's the only way... isn't it?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's what Azel would call the rational choice.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah……」"
+  },
+  {
+    "message": "If my opponent were Soltia or Virus, I might not have hesitated."
+  },
+  {
+    "message": "I might have been roused by a sense of duty to protect the world."
+  },
+  {
+    "message": "But when it's Azel, it's completely different."
+  },
+  {
+    "name": "Synn",
+    "message": "「Why…… did I end up falling for Azel……」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Regretting it, Master Synn? Well, that woman doesn't have any boobs, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, I'm not! Not at all! But」"
+  },
+  {
+    "message": "I don't know. My chest hurts. I feel like I'm going to cry."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah……」"
+  },
+  {
+    "message": "Suddenly."
+  },
+  {
+    "message": "Suddenly, I remembered."
+  },
+  {
+    "name": "Azel",
+    "message": "「I……」"
+  },
+  {
+    "message": "Back then, Azel looked like she was about to burst into tears. Like she was going to break."
+  },
+  {
+    "name": "Azel",
+    "message": "「I was supposed to hate this world」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I had to hate it!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's it!」"
+  },
+  {
+    "message": "Azel ended up coming to love this world."
+  },
+  {
+    "message": "I'm sure of it--Ryuusei Town, the academy, everyone"
+  },
+  {
+    "message": "Even though she had to hate it, even though she could destroy it without hesitation if she hated it, she came to love it instead."
+  },
+  {
+    "message": "That's why Azel was wavering. Always wavering. Just like I am right now."
+  },
+  {
+    "message": "Probably even right now, as we speak."
+  },
+  {
+    "message": "We're the same."
+  }
+]

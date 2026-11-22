@@ -1,0 +1,429 @@
+[
+  {
+    "message": "TOWER OF FINIS"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm firing! Melilot-san, please stand back!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is futile.」"
+  },
+  {
+    "message": "Inside Finis Tower, my panicked shout and Melilot-san's utterly \\{cool-headed|れいり} voice echo back."
+  },
+  {
+    "message": "Yes. The voices are definitely hitting the wall surface and bouncing back. There's no way this is just ringing in my ears."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Sakura-kun, you have already executed five Spirit Arts attacks. Not a single one has broken through our predicament.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Maybe this sixth shot will do the trick!」"
+  },
+  {
+    "message": "Melilot-san and I had gotten lost inside Finis Tower."
+  },
+  {
+    "message": "At my age, making such a childish mistake felt ridiculous, so at first I was laughing."
+  },
+  {
+    "message": "However, that amusement has completely vanished by now. I want to escape to the other side of this wall. Right away."
+  },
+  {
+    "name": "Synn",
+    "message": "「How about this?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tch, no good again...」"
+  },
+  {
+    "message": "No impact."
+  },
+  {
+    "message": "The offensive Spirit Art I unleashed trailed a long streak of light and vanished into the darkness."
+  },
+  {
+    "message": "It didn't hit anything. Even though there's supposed to be an inner wall right there."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Your remaining Spirit Power is enough for roughly one more battle, correct? Please conserve it rather than wasting it.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「How do you--」"
+  },
+  {
+    "message": "How do you know that? About to ask, I shut my mouth."
+  },
+  {
+    "message": "Having spent the last few hours together, I've come to understand Melilot-san's personality. She definitely wouldn't tell me."
+  },
+  {
+    "message": "A few hours ago, I came to the library by myself. Paqy was in the Student Council room, passionately hitting on Ria-senpai."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well then, today I'll borrow this one and this one... two books, please.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Then please present your library card.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Oh, research books on Christmas?」"
+  },
+  {
+    "message": "While writing the book titles onto the library card, Melilot-san strikes up a conversation."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, I thought they might be good reference for the Holy Night Festival.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Also, if possible, I'd like to look up whether they celebrate Nativity festivals or anything like that in the Principality of Sharo-Ma--do you happen to have any reference books on that?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Unfortunately, we do not have any in our collection.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「You are looking out for Azel-san, aren't you? Thank you very much.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「? Why are you thanking me, Ms. Melilot?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No particular reason.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Uh-huh...」"
+  },
+  {
+    "message": "At Ms. Melilot's vague reply, I give an even more noncommittal, half-hearted response."
+  },
+  {
+    "message": "Usually, Ms. Melilot delivers her points concisely and with pinpoint precision--so what's gotten into her today?"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Here is your library card back. Your return due date is one week from today. If the library is closed, please drop the books in the return slot by the entrance.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yes, thank you.」"
+  },
+  {
+    "message": "Giving a polite nod at the familiar spiel, I exit the library."
+  },
+  {
+    "message": "I'm a little worried about Ms. Melilot, too, but I've got a mountain of other pressing problems that need to take priority."
+  },
+  {
+    "message": "The Student Council. The Crusaders. Me being the Demon Lord. The Holy Night Festival. And Azel, who still hasn't warmed up to everyone yet."
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh...?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Did you forget something?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E-Excuse me!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I can't get out of the library?! That's impossible!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I see. A fascinating phenomenon. Allow me to try as well.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yikes?!」"
+  },
+  {
+    "message": "This time, the instant the library door opened, we stepped straight out into the board chairman's office."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hmm, things have gone haywire.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-What's going on here?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Space has become unstable. It may be an effect of Re-Crea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know about Re-Crea?!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「It is a hobby of mine. I have been researching it for many years.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, wait」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「He went inside Finis Tower, didn't he. Entry is prohibited by school regulations--how troublesome.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could Azel be confused by all this just like us? I'll go call him back!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will go. Sakura-kun, please report this to Helena.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel is my classmate.」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「...Understood. Then let the two of us go after him.」"
+  },
+  {
+    "message": "……。"
+  },
+  {
+    "message": "And so, without managing to find Azel, we ended up getting lost..."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Let us steadily try to escape. It will take time, but in situations like this, if we keep a hand on the wall as we advance, we are sure to reach the exit.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yes. Though, we've been climbing stairs for a while now. I wonder what floor we're on...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No, I have been going down stairs this whole time?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「……」"
+  },
+  {
+    "message": "How long has it been since we started searching for Azel? I don't have a watch."
+  },
+  {
+    "message": "Melilot-san's cell phone ran out of battery long ago."
+  },
+  {
+    "message": "Maybe because we've been in the dark for so long, my sense of time has gotten hazy."
+  },
+  {
+    "message": "It feels like only ten minutes have passed since we stepped into the tower, yet it also feels like we've been trapped here for dozens of days."
+  },
+  {
+    "message": "Strangely enough, I don't feel hungry. I don't get sleepy either. However, my guardian angel's Spirit Power, which normally recovers gradually, has remained depleted."
+  },
+  {
+    "message": "If I release the Demon Lord's power, we might be able to escape... but I don't know how to become the Demon Lord."
+  },
+  {
+    "name": "Synn",
+    "message": "「Where is it... the wall...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Hyaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!?」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Wh-where are you touching!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh, could that just now be--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I will not forgive you if you take advantage of the confusion to do anything weird!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「E―even if you say that, I can't even see my own hands, let alone my feet―aaah!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kyaaaah!!」"
+  },
+  {
+    "message": "I fell down with a thud, and where I landed was something soft that smelled nice."
+  },
+  {
+    "message": "C-could this be Melilot-san's...!!"
+  },
+  {
+    "name": "Melilot",
+    "message": "「H-hey... Sakura-kun!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Mmph, mmmph!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Ah, n-no... not there... ngh, mmm~~!」"
+  },
+  {
+    "message": "B-bad... I'm starting to feel kind of weird..."
+  },
+  {
+    "message": "Wait, no, no!"
+  },
+  {
+    "message": "I put my hands down to get up, but--"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Aaah!! N-No, any further than that... I-I won't forgive you, ah, nn. Nnaah」"
+  },
+  {
+    "name": "Synn",
+    "message": "「N―No, I couldn't help it―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「E―Even with an excuse like that, your fingers are still moving―」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? I'm not doing anything with my fingers...」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「Huh...」"
+  },
+  {
+    "message": "Even as we say that, Melilot-san's body is pulled away from my hands."
+  },
+  {
+    "name": "Melilot",
+    "message": "「S-Sakura-kun...? W-Where are you going?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh? Aren't you the one running away, Melilot―san―」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「No. I'm not doing any such--wait, then whose hands are these!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「!? Melilot-san!!」"
+  },
+  {
+    "message": "I reach out frantically, but I fail to catch hold of Melilot-san."
+  },
+  {
+    "name": "Melilot",
+    "message": "「Kyah, st-stop it! Ah, ugh, uuugh!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-Hey!! What are you doing to Melilot-san! Tch, wait!!」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「I-I'm fine, Sakura-kun... I'll manage somehow on my own--」"
+  },
+  {
+    "name": "Melilot",
+    "message": "「St-Stop it! Ah... kyaaaaah!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Melilot-san!!」"
+  },
+  {
+    "message": "N-No way... was Melilot-san abducted by someone!!"
+  },
+  {
+    "name": "Synn",
+    "message": "「Tch!! Wait!! Give Melilot-san back!!」"
+  },
+  {
+    "message": "However, my voice doesn't reach anywhere inside the tower."
+  },
+  {
+    "message": "Could it be... Azel!?"
+  },
+  {
+    "message": "But what for..."
+  },
+  {
+    "message": "No!! The truth is still shrouded in darkness. Azel might have been abducted just like Melilot-san, too."
+  },
+  {
+    "message": "What should I do?"
+  },
+  {
+    "message": "Either way, I can't just die like a dog here."
+  },
+  {
+    "message": "Let's explore this tower."
+  },
+  {
+    "message": "I'm going to make it back alive!"
+  },
+  {
+    "message": "Thus, the curtain rises on an endless adventure."
+  },
+  {
+    "message": "Will I actually be able to reach the top floor of the tower...?"
+  }
+]

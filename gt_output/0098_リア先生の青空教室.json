@@ -1,0 +1,726 @@
+[
+  {
+    "message": "リア先生の青空教室"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ms. Leah's Open-Air Classroom~♪」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Uwooooh!! Leah-chan, you're the best!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Shut up, panda」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Gah...!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nanaka-chan, you've gotten pretty used to handling Spirit Arts, haven't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Spirit... Arts?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The sacred power bestowed by the angels is the power of spirits. That is what is called Spirit Arts.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You sure know a lot~. Almost like an angel who came straight from Heaven.」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「W-Whoa, it was written in the guidebook!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Right. Just as Lolotte-chan said, the power that we Crusaders wield is called Spirit Arts.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「In contrast, the power that demons use is magic, just as the name implies.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「A knowledgeable big sister is also... f-a-b-u-l-o-u-s\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey, Paqy. Which one does my power fall under, I wonder?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「……」"
+  },
+  {
+    "message": "No response. It seems he's been reduced to mere ashes."
+  },
+  {
+    "name": "Ria",
+    "message": "「What's wrong, Synn-kun?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah, no, no. It's nothing at all\\s01」"
+  },
+  {
+    "message": "Close call, close call... I blurted that out on impulse. I've got to be careful so I don't get found out."
+  },
+  {
+    "name": "Ria",
+    "message": "「You see, the strength of your Spirit Power comes down to how much of the angelic power hidden inside this Rosary you can draw out.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「We'll just push through that part with pure spirit!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Rather than sheer spirit, concentration might be more important.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Speaking of concentration, it's Synn's time to shine. Secret Ultimate Technique: All-Night Cramming!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm telling you, I turn into an empty husk afterward」"
+  },
+  {
+    "name": "Ria",
+    "message": "「After that, as long as you control the power you've drawn out well and fight in your own style, you're good to go--V for victory~\\s07」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Even a playful big sister is... so won-der-ful\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amazing, Ria-senpai. You really know all kinds of things」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ahem. I'm your senpai, so it's only natural」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「That's our battle-hardened Valkyrie for you」"
+  },
+  {
+    "name": "Ria",
+    "message": "「W-When you put it like that, it's a little embarrassing...\\s03」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「So, what will we be doing today!? I'm so excited」"
+  },
+  {
+    "name": "Ria",
+    "message": "「We don't know what kind of Demons will show up from here on out. So we have to carefully analyze their patterns and come up with countermeasures」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Sounds just like studying for a test... My head hurts」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee. If you train like it's a sport, it's not really that tough」"
+  },
+  {
+    "message": "Ria-senpai twirls her weapon around like a baton."
+  },
+  {
+    "name": "Ria",
+    "message": "「Now then, let's start with a light mock battle. Hmmm, who should I pick?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Don't tell me we have to transform?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Of course♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「President, you're up!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ehh, me!? Misa's gonna say I'm getting a head start or--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「To think I get to watch Big Sister's fighting style...\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's totally gone...」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In that case, I shall become the first star!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「'Become a star' sounds ominous again...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「No way, Lolo-chan!! In times like this, the guy has to show off his cool side first. Right!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Don't 'right' me」"
+  },
+  {
+    "message": "This is getting nowhere, so I might as well hurry up and transform."
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Ooh~~ Mr. President. Looking gallant as always~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Wha--」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「That was a splendid transformation\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-I see... Well, that's fine then」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I didn't look, I didn't look!! I didn't see anything!! Not even a tiny bit, I tell you!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're being way too obvious, Nanaka」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Big Sister...\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew... Misa seems okay, at least」"
+  },
+  {
+    "message": "Now, as for the all-important Ria-senpai――"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Ah, now that you mention it, that's right, ahahahaha--\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You saw... didn't you?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Y-Yeah」"
+  },
+  {
+    "name": "Ria",
+    "message": "「B-But you know, Synn-kun. If you get embarrassed every time you transform, a Demon will catch you off guard\\s01」"
+  },
+  {
+    "message": "She's trying to save face by repeating what Helena-san said earlier."
+  },
+  {
+    "name": "Ria",
+    "message": "「Do you understand!?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yesh!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Good♪ Then, you're up first, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh... Just me?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「It's mouth-to-mouth!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Eeh!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You mean man-to-man!」"
+  },
+  {
+    "message": "No way, am I going to have a one-on-one duel with Senpai!?"
+  },
+  {
+    "name": "Misa",
+    "message": "「Sakura-kun. Surely someone like you can read the room.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What do you mean?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lose this match spectacularly. Got it?」"
+  },
+  {
+    "message": "So I'm just supposed to be the foil to make Ria-senpai look good."
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee... The match will come a little later. First, let's start with the basics of how to fight, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「O-Oh, I see~ Thank goodness」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「How pathetic, honestly. You're a guy, so straighten up and go for a clean win!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Think you can win, Nanaka?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Victory always comes down to luck, you know. Find life in the jaws of death!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No way, no way. Neither of you even comes close to Senpai.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Oh yeah, Misa? Then how close do you think you get?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm right at Onee-sama's knees\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「The vice president really is a weird person~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Now, now. Anyway, Synn-kun will be our example, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it. Wait--what am I supposed to do, though?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「First, could you ready your weapon? And then--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!」"
+  },
+  {
+    "message": "Senpai pressed right up against my back."
+  },
+  {
+    "name": "Ria",
+    "message": "「Stretch your arms out like this...」"
+  },
+  {
+    "message": "Her slender fingertips wrapped tightly around my wrists."
+  },
+  {
+    "name": "Ria",
+    "message": "「Keep your elbows tucked in tight.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「T-Tucked in tight?!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Nice and tight and cute\\s04」"
+  },
+  {
+    "message": "Why am I the only one freaking out here?!"
+  },
+  {
+    "message": "Well, no wonder. For the past few moments, something soft has been pressing against my back, pulling away, and brushing past me."
+  },
+  {
+    "message": "What is this thing~--wait, if it's Ria-senpai, there's only one thing it could possibly be!!"
+  },
+  {
+    "name": "Ria",
+    "message": "「And then puff your chest out--bam!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Bam?!」"
+  },
+  {
+    "message": "Ria-senpai pressed her chest hard against my back."
+  },
+  {
+    "message": "Plump, elastic softness shifted shape against my spine."
+  },
+  {
+    "name": "Ria",
+    "message": "「Make sure to... nnf, keep your back straight!!」"
+  },
+  {
+    "message": "Because she kept moving around while staying pressed against me, her breasts rubbed back and forth across my back."
+  },
+  {
+    "name": "Ria",
+    "message": "「Next, spread your feet about shoulder―width―」"
+  },
+  {
+    "message": "A shapely, well-fleshed thigh slid right between my legs."
+  },
+  {
+    "name": "Synn",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Heehee, did I startle you?」"
+  },
+  {
+    "message": "My legs are forcibly pried open. Our legs stay pressed tightly together. T-This really is hands-on, step-by-step instruction."
+  },
+  {
+    "name": "Ria",
+    "message": "「You're all tensed up. You can leave yourself to me, so... relax, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yessh!!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Synn!! You're sticking way too close to Senpai!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hurry up and switch places with me already!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Don't interrupt, you two! Watch closely」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Eek!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I'm sorry!」"
+  },
+  {
+    "message": "Ria-senpai is completely serious."
+  },
+  {
+    "message": "Even so, how impure am I for feeling this way!!"
+  },
+  {
+    "message": "No, no. I won't get any practice done like this."
+  },
+  {
+    "name": "Ria",
+    "message": "「Once you're mentally ready... try aiming straight ahead. Straight ahead, okay?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Straight ahead, straight ahead...」"
+  },
+  {
+    "message": "Senpai is taking this seriously for my sake. I have to live up to that."
+  },
+  {
+    "message": "I close my eyes and focus my mind."
+  },
+  {
+    "message": "When I do, my senses naturally gravitate toward the parts touching Ria-senpai."
+  },
+  {
+    "name": "Synn",
+    "message": "「Aah...!」"
+  },
+  {
+    "message": "What I fired went flying off in a completely wild direction."
+  },
+  {
+    "name": "Synn",
+    "message": "「Haa...」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun」"
+  },
+  {
+    "message": "Ria-senpai stands right in front of me, puffing out her cheeks."
+  },
+  {
+    "name": "Ria",
+    "message": "「You're nooot concentrating at all\\s09」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh... I'm sorry」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Grinning like a fool, you pervert!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I'm not grinning!!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Flirting with Onee―sama like that makes me jeal―I mean, it's unforgivable!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Huh? Misa-chan, what do you mean by that?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「You're quite the sinful one, Senpai. Look how flustered the President has been this whole time.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Pressing your skin against Onee―sama and snuggling up together is so enviable―I mean, impure!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah... so that's what happened...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "Urgh, I'm too embarrassed to look her in the eye."
+  },
+  {
+    "name": "Ria",
+    "message": "「S-Sorry. I didn't mean for it to turn out like that...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「It's not your fault, Senpai! It's because Synn isn't taking this seriously--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Got it! I'll do it seriously next time, so watch.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Synn-kun...」"
+  },
+  {
+    "message": "For Senpai's sake too, I have to nail it this time."
+  },
+  {
+    "message": "Just as I was taught, I ready my weapon and fix my posture."
+  },
+  {
+    "message": "I tuck my elbows in, puff out my chest, keep my back straight, and put strength into my legs to brace myself firmly."
+  },
+  {
+    "name": "Synn",
+    "message": "「Straight... straight ahead...」"
+  },
+  {
+    "message": "Focus, focus--I found a good target. Aiming right at it, I heighten my spirit and unleash it all at once."
+  },
+  {
+    "message": "The wave of darkness that shoots from the tip of my halberd travels in a straight line."
+  },
+  {
+    "message": "A discarded empty can is launched high into the air, spinning round and round before fluttering right down into my hand."
+  },
+  {
+    "message": "And straight into the trash can it goes."
+  },
+  {
+    "name": "Synn",
+    "message": "「Phew~~」"
+  },
+  {
+    "message": "I wipe the sweat from my forehead and let out a big breath. I managed to overcome my nerves somehow, though--"
+  },
+  {
+    "name": "Ria",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um... how was something like that?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「A-Ah, yeah! Very good, very good, keep it up.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thank goodness~~」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You can do it when you try, so keep at it properly... okay♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No... ahaha, it's only because you're such a good teacher.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's not true at all. Seeing that just now really made me realize you've got real talent, Synn-kun.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No way...」"
+  },
+  {
+    "message": "Ria―senpai steps right up close and gently places her hand on my head―"
+  },
+  {
+    "name": "Ria",
+    "message": "「Well done♪」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um……」"
+  },
+  {
+    "message": "I ended up getting patted on the head."
+  },
+  {
+    "name": "Ria",
+    "message": "「Hmm? What's wrong?」"
+  },
+  {
+    "message": "It's hard to tell her to stop just because I'm embarrassed. Actually, it feels really nice too."
+  },
+  {
+    "message": "Still, doesn't this mean I'm being treated like a kid……?"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Senpai. You shouldn't let Synn get any more carried away.」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You think so? Some kids actually grow when you praise them, you know.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「T-That's not what I meant…… um……」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Ah, I get it. You want one too, don't you, Nanaka-chan?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「O-Oh, no…… I'm good.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Then, let me take her place!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「If you do well in practice, okay?\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Y-Yes…… I'll do my be~st\\s04」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Hold on, Vice President. It'll be a problem if you don't properly wait your turn.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lolotte-san!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「I thought you were being quiet, so you were getting ready!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「In matters like this, striking first is the key to victory. Now, let's get fired up~~!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Mmph, not bad. I won't let myself lose either. Come on, get ready too, Nanaka-san!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ehh, me too!?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Do your best, everyone~~」"
+  },
+  {
+    "message": "With various thoughts swirling around, everyone throws themselves into training."
+  },
+  {
+    "name": "Ria",
+    "message": "「Was what you got earlier not quite enough?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're not a kid either, after all, Synn-kun……. I have to give you a proper reward.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「A-A reward?」"
+  },
+  {
+    "message": "Ria-senpai took out a stamp and smiled brightly. Ah, so that's what she meant."
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh, I have it. I'll get it out right now」"
+  },
+  {
+    "message": "She stamps the stamp card with a pop."
+  },
+  {
+    "name": "Ria",
+    "message": "「Keep up the good work next time too\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-yes!!」"
+  },
+  {
+    "message": "I wonder what happens once this is completely filled up……?"
+  }
+]

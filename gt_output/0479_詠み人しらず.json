@@ -1,0 +1,415 @@
+[
+  {
+    "message": "詠み人しらず"
+  },
+  {
+    "message": "The Demons have been getting stronger."
+  },
+  {
+    "message": "Whether we're going to repel them or settle things peacefully, we Crusaders need equal strength too. I have to train so I can get stronger!"
+  },
+  {
+    "message": "Looking for a place where I can train, I stroll around the academy grounds on Sunday."
+  },
+  {
+    "name": "Azel",
+    "message": "「...? What are you doing?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I'm reading a poetry collection.」"
+  },
+  {
+    "message": "I ran into Azel and Misasagi-senpai in the courtyard."
+  },
+  {
+    "message": "Holding a large-format photobook in one hand, Azel tilts her head slightly and stares at Misasagi-senpai sitting on the edge of the fountain."
+  },
+  {
+    "name": "Azel",
+    "message": "「Are books not meant to be perused indoors?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel? It's totally fine to read out under the sun, you know?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Oh my, good day to you, President.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Why do you know the answer? That librarian never mentioned anything of the sort.」"
+  },
+  {
+    "message": "Azel directs her question at me this time."
+  },
+  {
+    "name": "Synn",
+    "message": "「Uhh... There's no single right way to read a book, though...」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Azel-han, are ya talkin' about Melilot-han?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well, if you stay removed from the secular world, you're bound to lose touch with common sense. Unless you live alongside ordinary folks, you'll never understand how they feel」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see, I understand」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, wanna try reading it together with me?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I'm in the middle of a survey」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Come now, don't say that. You've got a big photobook there, don't you? You borrowed it from the library, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Misasagi-senpai, did you come to the academy to read?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Truth is, I came here to see Lia」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Still, they're making a rather serious face in the Student Council room, so I can't go bothering them. Guess I'll just quietly make my exit」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I chat with the President and Ria all the time, so I haven't had the chance to talk with Azel yet, you see」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Unnecessary」"
+  },
+  {
+    "message": "A curt reply. That must mean Azel just happened to pass by here and called out to Senior Misasagi."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Even if you say you don't need anything... you're always just drinking ice water at Prier, Azel. If you keep having nothing but water like that, you're going to upset your stomach, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Half of it is for hydration. The other half is because they're sold out and I have no choice」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You mean Vandine Jelly?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Yes. That place runs out of stock immediately. It is inefficient」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It sure is strange, isn't it? They hardly stock any items to sell, yet they're handing out free samples」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What are 'free samples'?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They're things like samples of new products given out to customers for free」"
+  },
+  {
+    "name": "Azel",
+    "message": "「For free!?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's right. How about these, Azel?」"
+  },
+  {
+    "message": "Misasagi-senpai pulls two pouches of Vandine Jelly out of her pocket."
+  },
+  {
+    "name": "Azel",
+    "message": "「Nngh!!」"
+  },
+  {
+    "message": "T-The look in his eyes completely changed..."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I got a whole bunch of them, you see. I've already had a taste myself, so why don't you try them too, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「You're giving them to me!?」"
+  },
+  {
+    "message": "As he speaks, Azel snatches the jellies right out of Misasagi-senpai's hands."
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Azel, you have to say thank you」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I thank you」"
+  },
+  {
+    "message": "Was Azel hungry or something? He already tears one open and sucks down the jelly."
+  },
+  {
+    "name": "Azel",
+    "message": "「Mm... sweet」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That's the new product, Vandine Polyphenol Jelly: Raisin Flavor」"
+  },
+  {
+    "name": "Synn",
+    "message": "「B-Both of them, all at once...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Mm... astringent」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「That one is Vandine Cartilage Jelly: Grape & Persimmon Flavor」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. I now understand the colors and flavors」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...? Isn't it written right on the package?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Jelly flavors can be identified by the color of the packaging. There is no particular need to learn the written characters」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, sorry. You did just come here to study abroad, after all」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It isn't that I cannot read it. It is merely difficult to comprehend」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Are you still not quite used to the writing around here, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...The spoken language of this world is not particularly difficult, yet its characters and sentences are complex to the point of absurdity」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Still, it's impressive--you're communicating with us just fine, aren't you?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Take me, for example--the other day on my way to school, a foreigner asked me for directions」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I understood that they were asking, 'Where is the wharf?' And I knew the answer too」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Even so, my brain went into overdrive trying to piece a sentence together, and I couldn't even pull it off」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In the end, the only thing that blurted out of my mouth was a single 'This way!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Anyway, they just needed to go straight down the road, so I kept pointing frantically over and over--'This way!' 'This way!' 'This way!'」"
+  },
+  {
+    "name": "Synn",
+    "message": "「To anyone watching, I must've looked completely ridiculous」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hmph」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「You managed to answer them properly, so isn't that wonderful? Me, I did something even sillier, you know?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I wanted to have a pen pal from overseas, so I sent off a long, polite letter in English--and then I got an overwhelmingly fluent reply back」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「I couldn't understand a single bit of what they'd written, so I never wrote back and just left it at that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. I can understand that」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Did you borrow a photo book so you could understand things visually, Azel?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Not quite」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Would you mind letting me take a quick look?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Go ahead」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-You're skimming through that at an incredible speed」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Here you go, back to you. It's a lovely photo book」"
+  },
+  {
+    "name": "Azel",
+    "message": "「How can you tell? You only looked at it for a mere few seconds」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「It's true I only glanced through it, but that book only has minimal captions, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Does that make it a bad photo book, then?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Isn't it the opposite? They probably kept it sparse on purpose」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「If each viewer has their own memories, those annotations can expand endlessly in their hearts, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see, I understand」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Azel-han? It doesn't matter if it takes time, so isn't it better to read at your own pace?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I do not understand the proper procedure for reading」"
+  },
+  {
+    "name": "Azel",
+    "message": "「First of all, the fifty sounds of a-i-u-e-o, ka-ki-ku-ke-ko are inefficient」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I acknowledge the regularity and rules of vowels and consonants, yet it is a mere string of characters devoid of meaning」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Though the blossoms are fragrant, they must scatter; who in this world can remain unchanged? Crossing the deep mountains of vanity today, I shall dream no shallow dreams, nor succumb to intoxication」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's wordplay. In classical Japanese--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Wait. I am comprehending it now... Iroha...」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Those are the fifty sounds. Moreover, it is a poem with meaning」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Aren't you quite the clever child, Azel-han?」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「There are others too, you know?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Let me hear them」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Now then, have a seat」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I will sit」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Well then, President-han?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, yes. I'll head to the Student Council room. I have to solve Ria―senpai's problem! Besides―」"
+  },
+  {
+    "name": "Misasagi",
+    "message": "「……」"
+  },
+  {
+    "message": "I exchange a silent greeting with my eyes and quietly step away from the fountain so as not to disturb the two of them."
+  },
+  {
+    "message": "Besides... she's smooth! Misasagi-senpai wanted to talk with Azel, and she pulled it off brilliantly."
+  },
+  {
+    "name": "Misasagi",
+    "message": "「Heaven, earth, stars, sky; mountains, rivers, peaks, valleys; clouds, mist, chambers, moss; people, dogs, tops, ends; let sulfur and monkeys grow, tamed upon the hackberry branches」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...It differs from the previous one, yet it holds meaning」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Once again, it is the fifty sounds. Moreover, these are words that depict the world」"
+  },
+  {
+    "message": "If I could, I'd love to stay by Azel's side and listen in, but I head toward the old school building."
+  }
+]

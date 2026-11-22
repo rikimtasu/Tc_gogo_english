@@ -1,0 +1,296 @@
+[
+  {
+    "message": "初めての、すごい、牛丼"
+  },
+  {
+    "name": "Sally",
+    "message": "「And then! When I helped carry the luggage, he treated me to meat buns!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah~」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Oyabin's super strong, considering how huge he is」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「I want to eat meat buns too~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Food tastes way better after you've worked for it!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah! Right now I feel like I could take on anything and everything!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally-chan. You've really changed」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Her help with the KiraFes ended up being a huge success, too」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Guess demons aren't so bad after all」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Maybe it's all thanks to you, Synn-kun」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like I said, it's thanks to everyone」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You think so~?」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Indeed it is. Only bringing up collective responsibility when someone does something bad is absurd beyond belief」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Look who's talking. Even though you discriminated against me at first just for being a demon!」"
+  },
+  {
+    "name": "Lolotte",
+    "message": "「Equality and fairness. Those are my mottos」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Sally-chan worked really hard for us... Wonder if the Student Council could do something to thank her?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh! That sounds great」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yaaay! Are you gonna treat me to something yummy again--!?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm~~. It's always the exact same pattern with you. Can't we show our thanks in some other way?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「I won't ask for anything fancy! Even gyudon would be totally fine!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, Nanaka's right. If we're gonna do this, I'd rather do something that actually benefits her instead of just giving her physical stuff」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Food just goes straight into your stomach and disappears, after all」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sally-chan. Do you love beef bowls?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah! Love 'em!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Does the Boss like beef bowls too?」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Super loves 'em!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In that case. Why don't you try working at a beef bowl shop?」"
+  },
+  {
+    "name": "Ria",
+    "message": "「I seee! That's a great idea」"
+  },
+  {
+    "name": "Sally",
+    "message": "「What happens if I work?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You might get to eat beef bowls every day!」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Really!? Then I'll do it! I'll do it right now!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「You're introducing Sally-chan to a part-time job, huh」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. And it'd be great if they'd hire Eauderourke along with her, though」"
+  },
+  {
+    "name": "Ria",
+    "message": "「E-Even so, that's... I wonder about that~\\s02」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「With your recommendation, it'll be a piece of cake」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're giving me too much credit. I hope it goes well, though... Well, let's ask on the off chance」"
+  },
+  {
+    "message": "Explaining the situation to Eauderourke as well, we head to the beef bowl shop together."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, he looks like that, sure, but I think he'll do a solid job. Yes, in various ways--」"
+  },
+  {
+    "message": "Negotiations begin along those lines."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Look at that, Sally-chan. Synn is trying so hard so the two of you can work at the beef bowl shop」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Sniff, Prez. For our sake...」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Me, moved. Work, do best」"
+  },
+  {
+    "name": "Ria",
+    "message": "「That's right, you two. Synn-kun believes in both of you, so you have to properly live up to that」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Believes in us...?」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Prez, me, believe. Me, Prez, believe」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yeah!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Beef bowl, eat」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Eat a ton of 'em!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry to keep you waiting~~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Welcome back! How did it go?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Double peace signs!!」"
+  },
+  {
+    "name": "Ria",
+    "message": "「Way to go, Synn.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「They said they won't just give them beef bowls as staff meals, they'll pay them a proper salary too.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Salary? Does that mean we even get money?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Make sure you save it up properly.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「We get to eat beef bowls, and even get money on top of it... This isn't a dream, right, Boss!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Dream, no. Cheek, hurts.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The manager said he saw the two of you working hard at Kirafes.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「And he agreed right away on account of that? What a classy guy that manager is!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Good for you two. Do your best starting tomorrow.」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Yay♪ I love you, Prez\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Whoa!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Prez, love you.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Gah, stop it--!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Sally",
+    "message": "「Kaboom!」"
+  },
+  {
+    "message": "And so, Eauderourke and Sally happily broke new ground as residents of Ryuusei Town."
+  },
+  {
+    "name": "Sally",
+    "message": "「If you're ever in trouble, Prez, don't hesitate to call us. We'll come flying right over!」"
+  },
+  {
+    "name": "Eauderourke",
+    "message": "「Me, help out.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Thanks... So, first off, could you guys get off of me...」"
+  },
+  {
+    "message": "Sally joined the party!"
+  },
+  {
+    "message": "Eauderourke joined the party!"
+  }
+]

@@ -1,0 +1,835 @@
+[
+  {
+    "message": "天使の吐息"
+  },
+  {
+    "name": "Synn",
+    "message": "「The shopping district's getting into the Christmas mood too~」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Too bad the Demon Lord doesn't even have a single lover to spend Christmas with, huh? That's rough」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I don't want to hear that from you」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Sorry 'bout that. I've got Ria-chan, after all!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, yeah」"
+  },
+  {
+    "message": "Oh? Listening intently in the middle of town is……"
+  },
+  {
+    "name": "Synn",
+    "message": "「Amyrina~~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Ah, President」"
+  },
+  {
+    "name": "Synn",
+    "message": "「What are you doing in a place like this」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I was exploring the shopping district. When I did, I found myself captivated by this lively music」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「It's such a lovely melody……」"
+  },
+  {
+    "message": "Saying that, Amyrina closed her eyes once more."
+  },
+  {
+    "name": "Synn",
+    "message": "「It's like this every year when Christmas rolls around」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Is that so~~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「In your hometown, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「In Heaven, there isn't even such a thing as Christmas――」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Wha-wa-wait\\s01」"
+  },
+  {
+    "message": "Well, since she's Lolotte's childhood friend, I already have a rough idea of the situation, though."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Hey there, Synn-kun~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Oops, Amyrina-chan? Hello~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「H-Hello…… You're…… Sacchin-san, right?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yep, yep」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You're not with Nanaka today?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「She's a dutiful daughter, that Nana-chan」"
+  },
+  {
+    "message": "Ah, helping out at the shop today, huh."
+  },
+  {
+    "name": "Synn",
+    "message": "「You should be filial to your parents too, Sacchin」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「If I do that, Papa and Mama will pay me back double~ Gotta keep it in moderation~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「So instead, I've decided to be a dutiful friend~」"
+  },
+  {
+    "message": "Saying that, what she pulled out was a single ticket."
+  },
+  {
+    "name": "Sacchin",
+    "message": "「It's a voucher for two free hours of karaoke~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Kara-OK!?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Talking about being a dutiful friend--you just wanted something in exchange for the soba」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「What a wicked little panda you are~ Not that I'm denying it~」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Anyway, how about we go do some karaoke together~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「My heart's pounding...... I'd love to go......」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Should we invite Lolotte too?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Lolotte said she had some business with Azel and went out」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see...... Well, it's a bit of an unusual lineup, but shall the three of us go!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-Yes!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehe~ Can't wait~♪」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「So...... the after-party is at Yuugiri-an, huh」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, the usual~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Good grief\\s10　Coming right up」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since Emi-chan's here today too, it's on the house for everyone!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yay!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「How generous!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Th-Thank you very much」"
+  },
+  {
+    "message": "『Thank you very much, Pops』"
+  },
+  {
+    "message": "『Aw, don't mention it』"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Man, still, that really surprised me~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「At how tone-deaf Paqy is?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「What was that, hey!!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Amyrina-chan is really good at singing, you know」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Huh, is that right」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-No, that's not true...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Plus she's a fast learner, so she can sing songs she doesn't even know right away. It's amazing.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-Now even you, Mr. President...\\s03」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Aah, I wanna hear her sing again」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「You're the one with a wonderful singing voice, Sacchin-san...」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Really? Thanks」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「You know so many songs, don't you.」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Well, despite how I look, I'm just a normal girl」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I'd love to learn all sorts of other songs too.」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「To think the day would come when Sacchin actually teaches someone something...!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「That's mean, Nana-chan\\s06」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I've got some karaoke tapes at my place that Tame-san gave me, though...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tapes\\s02」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「That sounds very intriguing...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then stop by my place on the way home. I'll lend them to you.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「R-Really?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wh-What!?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nice going, Synn-kun. Being so bold it's even making Nana-chan panicky」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-It's not like that\\s01 Right, Amyrina?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I'm so excited... I can't wait...\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She's not even listening\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's probably cold outside, so wait inside. I'll go look for it right away.」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Heh heh heh...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Simon!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「I haven't even said anything yet!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「E-E-Excuse me for intruding...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Alright, I'll go make some tea.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U―Um... at times like this, I believe it's―」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「P-Please don't go to any trouble」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha. So that guidebook actually has some proper stuff written in it, huh?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eeeh, is it not usually proper?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Lolotte shows off some twisted knowledge from time to time.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「J-Jeez... Honestly, Lolotte...\\s03」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry to keep you waiting~」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「T-Thank you very much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Here you go, make yourself comfortable. Now then, as for the cassette--」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Come to think of it, about the karaoke earlier. You made it sound like it was your very first time singing a song...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「A-Ah... Well, it was my first time singing out loud with a voice and sounds that all of you could hear...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「A-Aaah! No, that's not it, u-um... well...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Like singing inside your head, something like that?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「No... Apparently, our language is, well... very difficult for others to catch」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I see. Just like how some languages don't pronounce the letter H, right?」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「It's probably totally different from that.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I wonder if I could hear it too? If you don't mind, let me listen.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「U-Umm...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Your voice was really pretty, Amyrina.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-No, it wasn't...\\s03」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「O-Okay. I'll try.」"
+  },
+  {
+    "message": "After Amyrina takes a slow, deep breath,"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「――」"
+  },
+  {
+    "message": "she silently moves her mouth."
+  },
+  {
+    "message": "A soundless melody beginning with a motion like humming."
+  },
+  {
+    "message": "Imagining it, it must surely be a very gentle, beautiful singing voice."
+  },
+  {
+    "message": "Unfortunately, however, I couldn't hear a thing."
+  },
+  {
+    "name": "Paqy",
+    "message": "「Master Synn. At times like this, try closing your eyes.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "I do as I'm told. And then――"
+  },
+  {
+    "message": "Ah..."
+  },
+  {
+    "message": "I can hear it faintly."
+  },
+  {
+    "message": "A ray of light within the darkness. Amyrina's crystal-clear voice pierces straight through my mind."
+  },
+  {
+    "message": "The light soon parts the doors of darkness, and beyond where they open――"
+  },
+  {
+    "message": "Ahh, how wonderful this feels."
+  },
+  {
+    "message": "Could this very thing be what is known as Angel's Bless?"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Haa... that's all...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……」"
+  },
+  {
+    "message": "I find myself applauding enthusiastically. The sensation was far too divine for me to put my impressions into words."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Eh... could it be, you heard my singing...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Just a little bit... though it might just be my imagination.\\s02」"
+  },
+  {
+    "name": "Synn",
+    "message": "「H-How could that be...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Could it be that you also have Ang――」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hauuu!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sorry, sorry. We really need to look for that cassette, don't we?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Phew... Still, singing out loud really does feel refreshing and wonderful」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hahaha. I'm glad you made a nice discovery」"
+  },
+  {
+    "message": "Come to think of it, wasn't there someone close to me who also sang..."
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... About the Holy Night Festival. Have you heard about it from Lolotte?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Yes, of course!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Part of the program involves everyone singing a song together」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「What...!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「For this Holy Night Festival, we're thinking of inviting the general public as guests too. So I'm sure you'll be invited either way, Amyrina, but...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「If you're going to come anyway, why not join in and participate as a member of the choir?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「The... choir?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Let me go ask the choir leader real quick. Hang on a second!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「This had better be worth calling me all the way out here for」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Kukuku... Always measuring everything in terms of profit and loss. Classic hissy」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not a compliment!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Now, now. Even I was surprised. I really wanted to let an expert hear her too」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-Hmph. If you're going that far, I'll make sure to listen closely」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「President... You really don't need to make such a big deal out of it...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, no. If you sing for us, Amyrina, I bet the Holy Night Festival will get even more exciting!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「You certainly think highly of her...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Amyrina-san. As the choir, we are also widely recruiting people who would like to sing with us at the Holy Night Festival」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I don't normally do things like this, but... Sakura-kun insisted that I hear you」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Keeping this all to myself would be a waste」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Uuu...\\s03」"
+  },
+  {
+    "name": "Misa",
+    "message": "「So it's not a test or anything like that. Don't be nervous, just sing freely」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y... yes! Understood」"
+  },
+  {
+    "message": "After taking yet another deep breath, she starts singing the song she had sung with Sacchin at karaoke."
+  },
+  {
+    "message": "A voice that resonates straight to the heart, even without a microphone."
+  },
+  {
+    "message": "A sense of pitch that lets her sing solidly, even without accompaniment."
+  },
+  {
+    "message": "Her vocal range is wide."
+  },
+  {
+    "message": "The sustain of her notes sounds pleasant to the ear, too."
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Hafuu...」"
+  },
+  {
+    "message": "After finishing the song, Amyrina glances over repeatedly to gauge our reaction."
+  },
+  {
+    "message": "I clap."
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, Misa?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Lovely...\\s04」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Right?!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What a wonderful singing voice! Why have you kept this a secret until now?!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「She says she'd never sung before until this very day」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Huh... then that song was your first time today too...?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-yes... I'm sorry」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, there's nothing to apologize for\\s02」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That song from just now. Could you try matching this melody for a second?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「……?」"
+  },
+  {
+    "message": "Misa begins singing the lyrics of the same song at a different pitch."
+  },
+  {
+    "message": "Amyrina layers her voice in time with hers. When she does, it becomes a gorgeous mixed-voice chorus."
+  },
+  {
+    "name": "Misa",
+    "message": "「Not only is her sense of rhythm impeccable, she can even pull off harmonic singing perfectly...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「She's a prodigy!!」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Even the great me can do that much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah. Then I'm looking forward to the Holy Night Festival」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「Don't answer a joke seriously」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, above all else, the clarity of her singing voice is just...\\s04」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Amyrina-san. It's not like this was a test, but you pass as our lead!!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Huh, huh?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「No matter what, I simply must have you sing together with everyone!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「T-Together with everyone...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「With the other choir members, in front of all the students?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes. With practice, your voice is sure to become even lovelier. Then, as an example for everyone--」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「A-An example, no way! I-I could never do that...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's not true at all. I'm completely convinced of it.」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「B-But... I... even just singing in front of the people here is already so embarrassing...」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Oh, my... What a waste.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Doing it in front of everyone right from the start probably would make her nervous.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I suppose so...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Besides, for regular practice, you really have to be a student.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「I wonder if we couldn't work something out if we asked Helena-san.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Well, we really shouldn't rely on the chairwoman for everything.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I know...! Then how about doing regular practice at my house?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「That's a brilliant idea.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It's mostly empty rooms right now, and even if we make a bit of noise, it won't bother the neighbors.」"
+  },
+  {
+    "name": "Misa",
+    "message": "「In that case... what do you say?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Uh...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「O-Okay. I'll try.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah! That sounds great!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Still, thanks to Amyrina-san, inspiration is just surging up inside me...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Could it be for the Christmas song?」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Yes!! I'm going to go write it before I forget! Well then, Sakura-kun. Make sure you keep Amyrina-san hooked!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Have a good tri~p」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Sigh...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Letting out a sigh like that. Could it be that you didn't like it?」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「N-no! It's not that... um, well...」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「I only wish I could take the initiative and act on my own like Lolotte does...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You practically did. After all, you sang in front of us, Amyrina」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「President...」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then, from now on, after school. Let's practice together at my house」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Of course, with Lolotte too... alright!」"
+  },
+  {
+    "name": "Amyrina",
+    "message": "「Y-yes!」"
+  }
+]

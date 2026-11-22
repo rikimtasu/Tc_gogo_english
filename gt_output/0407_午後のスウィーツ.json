@@ -1,0 +1,271 @@
+[
+  {
+    "message": "午後のスウィーツ"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hmm. So you ate bento with Roro-chan and Misa and got all warm and fuzzy?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, you should come join us next time too, Nanaka」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Thanks. But...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「You're so naive, Synn. Prier is nice and all, but if you've got a proper bento, you gotta eat it somewhere way nicer」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's true, like the courtyard or the hilltop?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Mfufufu, it's after school right now, ya know? It's totally fine to go get snacks outside the academy!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「...How did a conversation about lunch suddenly turn into getting snacks?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Tehe」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nana-chan, open up~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Sacchin? Guess she came to hang out in the Student Council room. I'll open it right--」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hold it! It might be a bubuzuke trap」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey, Sacchin. Give us the password. What do a car and a wood ear mushroom have in common?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Neither of those are sweets~」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Alright! Come on in!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Ehehehe, I brought them, Nana-chan」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Heya」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh? This lineup... it's the Sweets Club, isn't it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「The weather's great outside! Let's head out then. Come with us too, Synn!」"
+  },
+  {
+    "message": "Before I knew it, Nanaka was holding a rattan basket in both hands. It's big enough to easily fit three Packies inside."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Since KiraFes ended on such a high note, today's Sweets Club will be--」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Nom nom nom♪」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Munch munch munch\\s07」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「H-Hey! Leave some for me too!」"
+  },
+  {
+    "message": "Along the approach to Asukai Shrine, which overlooks the ocean, we are enjoying an afternoon tea time."
+  },
+  {
+    "message": "The basket was something Nanaka borrowed from Chocolat l'Or, and inside it was packed with scones, petit fours, various jams, and cranberry juice."
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, it's delicious!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「See, Synn? Location really is everything, isn't it?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Let's sit on these white steps, admire the endless blue sky and sea, and gracefully savor our sweets」"
+  },
+  {
+    "name": "Synn",
+    "message": "「The steps on the shrine approach are granite, you know?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Urgh... quit nitpicking and just enjoy these navel snacks fit for British nobility」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Nanaka, that's not 'navel,' it's 'noble,' okay?」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Isn't it fine~? *Munch, munch.* The jam is marmalade, so there's a citrus connection~」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Both sides of the approach are lined with purely Japanese stone lanterns all the way down to the first torii gate, though?」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「You just gotta erase that stuff from your brain and pretend you don't see it. *Nom, nom, nom.*」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Call this a Sweets Club...」"
+  },
+  {
+    "name": "Paqy",
+    "message": "「We're no different from the brats who buy ramen and jelly at the candy shop and make a mess eating it on the shrine grounds...」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Are too! Sweets are way more refined than that!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Beckoned by the southern breeze, looking down over a sparkling sandy beach, wrapped in the scent of the sea!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Makes zero sense」"
+  },
+  {
+    "name": "Misa",
+    "message": "「...? What are you guys doing in a place like this?」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Oh, are you all here to pay your respects together? Welcome to Asukai Shrine」"
+  },
+  {
+    "message": "Misa and Shio-chan came walking up the steps of the shrine approach, carrying supermarket plastic bags."
+  },
+  {
+    "message": "The bags were full of nothing but pumpkins. Right, they must be on big clearance sales because of Halloween."
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Yes, exactly! Misa gets it, right? Here, beckoned by the southern breeze--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「It's already November, you know? The north wind is starting to blow」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Looking down over a sparkling sandy beach--」"
+  },
+  {
+    "name": "Misa",
+    "message": "「What's down below the shrine approach is a rocky shore, isn't it?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah, Ryuusei Town's waterfront is nothing but piers and rocky shores. There isn't a sandy beach unless you go to the next town over」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Wrapped in the scent of the sea--」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Rather than the scent of the sea, depending on the wind direction, it smells rather fishy and briny, does it not?」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「U-Ugh... Sacchin, Yumil! Cover me!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Rock, paper, scissors」"
+  },
+  {
+    "name": "Yumil",
+    "message": "「Heya」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Yay, I win!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Chocolate」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Hey! Don't finish eating super fast and start playing around!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「Vice President, rock, paper, scissors!」"
+  },
+  {
+    "name": "Misa",
+    "message": "「H-hup!」"
+  },
+  {
+    "name": "Sacchin",
+    "message": "「*Sniff*, I lost~」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hmph, ammonium glycyrrhizinate」"
+  },
+  {
+    "name": "Shio",
+    "message": "「Ooh! Nice cheating there, Sister」"
+  },
+  {
+    "name": "Misa",
+    "message": "「There, I've made it all the way up the stairs, so I win this round!」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Th-That's unfair... Actually, I really don't care all that much」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yeah. Come on, Nanaka, don't get worked up--let's just enjoy the snacks and the game」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Synn, you're supposed to call them 'sweets,' not 'snacks'」"
+  },
+  {
+    "name": "Misa",
+    "message": "「Hehe, you're missing something to drink, aren't you? How about some hot black tea? In exchange, let Shio and me join in」"
+  },
+  {
+    "name": "Nanaka",
+    "message": "「Ehehe, you're more than welcome, Misa」"
+  },
+  {
+    "message": "And so, until nearly dusk, we enjoyed a slightly grown-up afternoon of sweets."
+  }
+]

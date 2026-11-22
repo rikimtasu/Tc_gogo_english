@@ -1,0 +1,344 @@
+[
+  {
+    "message": "よすが"
+  },
+  {
+    "message": "Lately, the number of Demons has been increasing, and for some reason they're often spotted at Prier at night. Just to be safe, I'll go check things out."
+  },
+  {
+    "name": "Synn",
+    "message": "「W-Wha?!」"
+  },
+  {
+    "message": "The familiar, cheerful chatter was absent from Prier after school. Usually, plenty of students would be enjoying tea at this hour, yet no one was there."
+  },
+  {
+    "name": "Helena",
+    "message": "「Ufufu. Watch veeery closely now, Azel-chan?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Understood. I am watching.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「……?」"
+  },
+  {
+    "message": "Azel and Helena-san were standing beside the table closest to the serving counter."
+  },
+  {
+    "message": "Numerous small bottles of juice were lined up on the table. None of them were uncapped, all unopened... Were the two of them planning to drink that much?"
+  },
+  {
+    "name": "Helena",
+    "message": "「Shuu!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Yikes?!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "message": "Helena-san's slender hand flashed. The next instant, a small bottle split cleanly in two, juice spilling out."
+  },
+  {
+    "name": "Synn",
+    "message": "「T-That's an amazing technique, though it's such a waste」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Incorrect. Every single one of these is past its expiration date.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hiii, Synn-chan\\s04　Did you come to help out?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Shau!」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Pointless.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, I could never pull off a finishing move like that」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No. I am saying it is meaningless.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I asked for a method to remove the bottle caps. This chairwoman is merely smashing them open.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh my? If you do it like this, sometimes it pops right off by chance, you know?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Um... Couldn't you just use a bottle opener?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Unnecessary.」"
+  },
+  {
+    "message": "Azel lowered her gaze to the table."
+  },
+  {
+    "message": "Looking closely, a bottle opener was already sitting there, with several bent bottle caps scattered around it."
+  },
+  {
+    "message": "Including Prier, the soft drink vending machines installed at Ryuusei Academy come in two types: paper cup and small bottle. There isn't a single standard canned drink machine anywhere."
+  },
+  {
+    "message": "Bottled beer tastes way better than canned beer, right! Therefore, the juice students drink should be bottled too!"
+  },
+  {
+    "message": "That is Helena-san's policy."
+  },
+  {
+    "name": "Azel",
+    "message": "「One more.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A failure.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「It came off cleanly, though? Isn't that a success?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「No good. The bottle cap got bent.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah... aah, so that's what this is about!!」"
+  },
+  {
+    "message": "Even if I don't know Azel's goal, it makes sense to me now. He's trying to collect undamaged bottle caps."
+  },
+  {
+    "message": "Apparently, back when Mom and Dad were around my age, vending machines for bottled juice were a common sight all over town."
+  },
+  {
+    "message": "And out of childish curiosity, kids used to collect bottle caps from all sorts of brands."
+  },
+  {
+    "message": "The vending machines at Ryuusei Academy mostly carry minor brands. In this day and age, if you stubbornly keep making bottled juice, that's probably just how things turn out."
+  },
+  {
+    "message": "Maybe thanks to that, you can spot all kinds of bottle caps with interesting designs here and there."
+  },
+  {
+    "name": "Synn",
+    "message": "「Hey Azel, this small bottle comes with a prize draw.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「A prize draw? What is that?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「You know how canned drink vending machines sometimes have that electronic roulette for a free bonus? This is the bottle version of that. Actually, bottles might've been the original.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「There's a sticker on the underside of the bottle cap, and you don't know if you won or lost until you peel it back.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Yes, in terms of sheer excitement, this one is far superior.」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see, understood. Winning one would likely bring joy.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「That's a weird way to put it, considering it's for yourself?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It is not.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Then who's it for?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I do not know.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Hohohoho, which girl around us is it who collects strange trinkets like these, I wonder?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ah, Lolotte--」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I-I do not know!」"
+  },
+  {
+    "message": "Lolotte has been feeling down lately."
+  },
+  {
+    "message": "In his own way, Azel is trying his hardest to cheer Lolotte up, isn't he."
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey, Chairwoman, order some alcohol and hand over its bottle cap to me.」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Too bad♪ I'm abstaining from alcohol.」"
+  },
+  {
+    "name": "Synn",
+    "message": "「I-Impossible!? Helena-san is...!!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Are you making a wish?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Jeez, it's about mindfulness」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Oh, right, Azel-chan is the type people make wishes to, right?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...I told you I don't know」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Whoa!?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「What is it?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「These are coins」"
+  },
+  {
+    "message": "Suddenly, three coins fly in from out of nowhere and stab into the table."
+  },
+  {
+    "name": "Helena",
+    "message": "「Heehee, that's Tamiko-chan. Still, I wonder what she means?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Hmm...?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Oh yeah, when I was little, my dad taught me. If you place a coin on top when using a bottle opener, the bottle cap won't bend」"
+  },
+  {
+    "name": "Azel",
+    "message": "「Is that true?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「It's true」"
+  },
+  {
+    "name": "Helena",
+    "message": "「Ta-da! It's perfect. Leave it to Tamiko-chan♪」"
+  },
+  {
+    "message": "An arrow-letter reading 'You're welcome, Helena' hits the table."
+  },
+  {
+    "name": "Helena",
+    "message": "「What a celebration! I've got to order some drinks right away! Let's invite Melilot for a toast!」"
+  },
+  {
+    "name": "Synn",
+    "message": "「U-Um, weren't you abstaining from alcohol?」"
+  },
+  {
+    "name": "Helena",
+    "message": "「I held out for a whole half-day, you know? That's more than enough\\s04　I'll treat Synn-chan and Azel-chan to some fake champagne too♪」"
+  },
+  {
+    "name": "Azel",
+    "message": "「……」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hmph」"
+  },
+  {
+    "message": "Paying Helena-san no mind, Azel silently pops off the bottle cap."
+  },
+  {
+    "name": "Azel",
+    "message": "「Hey」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Y-Yeah, what is it?」"
+  },
+  {
+    "message": "Azel, whose expression had softened, suddenly puts on a serious face and calls out to me."
+  },
+  {
+    "message": "Crap...! Of course he'd get grumpy if I stared at him like that."
+  },
+  {
+    "name": "Azel",
+    "message": "「Ryuusei Town doesn't have any glass-bottle vending machines. Why?」"
+  },
+  {
+    "name": "Synn",
+    "message": "「No, there used to be one a while back. If there's a photo book or something from back then, I'm sure it'll be in there?」"
+  },
+  {
+    "name": "Azel",
+    "message": "「I see. Let's take a look」"
+  },
+  {
+    "name": "Azel",
+    "message": "「...Hehe」"
+  },
+  {
+    "name": "Synn",
+    "message": "「Ngh!?」"
+  },
+  {
+    "message": "Azel secretly slipped the bottle cap, which had \"Winner\" written on the back, into his pocket."
+  },
+  {
+    "message": "I held back a gasp of amused surprise and pretended not to notice."
+  },
+  {
+    "message": "Because for Azel, the winning crown is sure to serve as a reminder of his feelings for Lolotte and the events of today"
+  }
+]
