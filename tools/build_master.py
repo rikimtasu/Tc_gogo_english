@@ -47,6 +47,12 @@ def _verify_cpk_readback(orig: CpkArchive, rebuilt_path: Path, replacements: dic
         expected = replacements[rel] if rel in replacements else orig.read_entry(before)
         if rebuilt.read_entry(after) != expected:
             raise ValueError(f"CPK readback mismatch: {rel}")
+        if rel in replacements and (before["ExtractSize"] or 0) > before["FileSize"]:
+            if (after["ExtractSize"] or 0) <= after["FileSize"]:
+                raise ValueError(
+                    f"Compressed CPK entry lost ExtractSize on rebuild: {rel} "
+                    f"(FileSize={after['FileSize']}, ExtractSize={after['ExtractSize']})"
+                )
     return len(orig.entries())
 
 
@@ -86,6 +92,7 @@ def build_master(
     graphic_cpk: Path,
     eboot: Path,
     eboot_strings: Path,
+    scene_titles: Path | None,
     trans: Path,
     p4_orig: Path,
     p4_en: Path,
@@ -111,8 +118,11 @@ def build_master(
 
     out.mkdir(parents=True)
 
-    # 1. Patch EBOOT (P2 wrapping/backlog + P4 73 strings)
-    patched_eboot, eboot_info = patch_bytes(eboot.read_bytes(), strings_path=eboot_strings)
+    # 1. Patch EBOOT (P2 wrapping/backlog/sprite-pool + P4 strings + Save/Load chapter titles)
+    st_path = scene_titles if (scene_titles is not None and scene_titles.is_file()) else None
+    patched_eboot, eboot_info = patch_bytes(
+        eboot.read_bytes(), strings_path=eboot_strings, scene_titles_path=st_path
+    )
     new_eboot = out / "EBOOT_patched.bin"
     new_eboot.write_bytes(patched_eboot)
 
@@ -156,11 +166,16 @@ def build_master(
             raise ValueError(f"Re-extracted text differs: {name}")
         changed_rows += sum(a != b for a, b in zip(orig_rows, exp_rows))
 
-    # 4. Merge P2 fonts + P3 scenario + P4 SystemZip into GAMEINIT.CPK
+    # 4. Merge P2 fonts + P3 scenario + P4 SystemZip/AdvZip + GraphicARC.bin UV patches into GAMEINIT.CPK
+    from p4.patch_graphic_arc import patch_graphic_arc_compressed
+
     p4_manifest = json.loads((p4_orig / "manifest.json").read_text(encoding="utf-8"))
     gi_arc = CpkArchive(str(gameinit_cpk))
     gi_replacements = {p.relative_to(fonts).as_posix(): p.read_bytes() for p in (fonts / "font").rglob("*") if p.is_file()}
     gi_replacements.update({"scenario/textdata.bin": packed_td, "scenario/scenario.bin": packed_sc})
+    orig_gr_arc = gi_arc.read_entry([e for e in gi_arc.entries() if e["DirName"] == "scenario" and e["FileName"] == "GraphicARC.bin"][0])
+    patched_gr_arc, graphic_arc_patched = patch_graphic_arc_compressed(orig_gr_arc)
+    gi_replacements["scenario/GraphicARC.bin"] = patched_gr_arc
     gi_p4 = _collect_p4_replacements(p4_manifest, p4_en, "GAMEINIT", gi_arc)
     gi_replacements.update(gi_p4)
 
@@ -218,8 +233,11 @@ def build_master(
         "width_overflow_count": len(overflow),
         "width_overflow_sample": overflow[:10],
         "eboot_patched_strings": eboot_info["patched_strings"],
+        "eboot_scene_titles": eboot_info["scene_title_count"],
+        "eboot_sprite_pool_count": eboot_info["sprite_pool_count"],
         "eboot_payload_bytes": eboot_info["payload_bytes"],
         "gameinit_p4_textures": len(gi_p4),
+        "graphic_arc_patched_records": graphic_arc_patched,
         "gameinit_members_verified": gi_verified,
         "battle_p4_textures": len(bt_replacements),
         "battle_members_verified": bt_verified,
@@ -243,6 +261,7 @@ def main() -> None:
     ap.add_argument("--graphic", type=Path, default=Path("work/iso_extract/GRAPHIC.CPK"))
     ap.add_argument("--eboot", type=Path, default=Path("work/eboot/EBOOT_decrypted.bin"))
     ap.add_argument("--eboot-strings", type=Path, default=Path("glossary/eboot_strings.json"))
+    ap.add_argument("--scene-titles", type=Path, default=Path("glossary/scene_titles.json"))
     ap.add_argument("--trans", type=Path, default=Path("gt_output"))
     ap.add_argument("--p4-orig", type=Path, default=Path("work/p4_textures_orig"))
     ap.add_argument("--p4-en", type=Path, default=Path("work/p4_textures_en"))
@@ -260,6 +279,7 @@ def main() -> None:
         graphic_cpk=args.graphic,
         eboot=args.eboot,
         eboot_strings=args.eboot_strings,
+        scene_titles=args.scene_titles,
         trans=args.trans,
         p4_orig=args.p4_orig,
         p4_en=args.p4_en,

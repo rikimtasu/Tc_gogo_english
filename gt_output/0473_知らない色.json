@@ -29,7 +29,7 @@
     "message": "Azel would walk, stop, and after a short while, start walking again."
   },
   {
-    "message": "Or so it seemed--before he suddenly spun 180 degrees. Then he walked a few meters and came to a halt once more. For a casual stroll, he was acting pretty strange."
+    "message": "Or so it seemed--before she suddenly spun 180 degrees. Then she walked a few meters and came to a halt once more. For a casual stroll, she was acting pretty strange."
   },
   {
     "name": "Synn",
@@ -60,7 +60,7 @@
     "message": "「What is that woman doing?」"
   },
   {
-    "message": "Azel looks away from me toward a random direction... no, toward Kenseizaka Park right next to us, and tilts his head."
+    "message": "Azel looks away from me toward a random direction... no, toward Kenseizaka Park right next to us, and tilts her head."
   },
   {
     "message": "Misa is standing there alone with a serene expression, doing something."
@@ -115,7 +115,7 @@
   },
   {
     "name": "Azel",
-    "message": "「That's right」"
+    "message": "「That's right.」"
   },
   {
     "name": "Azel",
@@ -127,11 +127,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Even though the autumn colors have only just begun, the impatient leaves are already blowing in the wind and scattering down」"
+    "message": "「Even though the autumn colors have only just begun, the impatient leaves are already blowing in the wind and scattering down.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh, so you were cleaning up. I'll help out too」"
+    "message": "「Oh, so you were cleaning up. I'll help out too.」"
   },
   {
     "name": "Misa",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Cleaning, is it. Understood」"
+    "message": "「Cleaning, is it. Understood.」"
   },
   {
     "name": "Misa",
@@ -155,7 +155,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Hmm... it'll be faster if I just show you」"
+    "message": "「Hmm... it'll be faster if I just show you.」"
   },
   {
     "message": "Misa takes a paperback book out of her pocket and opens its pages. Pressed between them is a single ginkgo leaf, looking as though yellow is melting into green."
@@ -166,18 +166,18 @@
   },
   {
     "name": "Misa",
-    "message": "「Heehee, of course」"
+    "message": "「Heehee, of course.」"
   },
   {
     "name": "Misa",
-    "message": "「You can have it if you'd like? I made that one last year. I've enjoyed it plenty already」"
+    "message": "「You can have it if you'd like? I made that one last year. I've enjoyed it plenty already.」"
   },
   {
     "name": "Azel",
     "message": "「...」"
   },
   {
-    "message": "Azel picks up the pressed leaf and flutters it between his fingertips."
+    "message": "Azel picks up the pressed leaf and flutters it between her fingertips."
   },
   {
     "name": "Azel",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Because it's a pressed leaf. I make them sometimes too. Going out of your way to buy a bookmark is just a waste of money, after all」"
+    "message": "「Because it's a pressed leaf. I make them sometimes too. Going out of your way to buy a bookmark is just a waste of money, after all.」"
   },
   {
     "name": "Misa",
@@ -197,19 +197,19 @@
   },
   {
     "name": "Azel",
-    "message": "「Why do it here? If you want plants that have changed color, there are plenty at the academy. The leaves in this park are halfway done」"
+    "message": "「Why do it here? If you want plants that have changed color, there are plenty at the academy. The leaves in this park are halfway done.」"
   },
   {
     "name": "Synn",
-    "message": "「Ah, I was thinking the same thing」"
+    "message": "「Ah, I was thinking the same thing.」"
   },
   {
     "name": "Misa",
-    "message": "「That's true... certainly, places at higher elevations like Ryuusei Academy and Asukai Shrine turn yellow much sooner. In the blink of an eye, really」"
+    "message": "「That's true... certainly, places at higher elevations like Ryuusei Academy and Asukai Shrine turn yellow much sooner. In the blink of an eye, really.」"
   },
   {
     "name": "Misa",
-    "message": "「It's surely thanks to how the wind hits them. Every leaf turns a gorgeous, solid red or solid yellow」"
+    "message": "「It's surely thanks to how the wind hits them. Every leaf turns a gorgeous, solid red or solid yellow.」"
   },
   {
     "name": "Misa",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Still, I like this kind better」"
+    "message": "「Still, I like this kind better.」"
   },
   {
     "name": "Azel",
@@ -225,7 +225,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Because the colors are so interesting」"
+    "message": "「Because the colors are so interesting.」"
   },
   {
     "message": "As she says this, Misa picks up fallen leaves from the ground and hands them to Azel and me."
@@ -239,14 +239,14 @@
   },
   {
     "name": "Azel",
-    "message": "「Unidentifiable. A curious color」"
+    "message": "「Unidentifiable. A curious color.」"
   },
   {
     "name": "Azel",
     "message": "「...」"
   },
   {
-    "message": "Just as Misa did, Azel picks up a fallen leaf himself to examine it."
+    "message": "Just as Misa did, Azel picks up a fallen leaf herself to examine it."
   },
   {
     "name": "Azel",
@@ -254,7 +254,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry, I can't really answer that. That's just how it is」"
+    "message": "「Sorry, I can't really answer that. That's just how it is.」"
   },
   {
     "name": "Azel",
@@ -262,11 +262,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Not just this, I'd say... though this is part of it, yes」"
+    "message": "「Not just this, I'd say... though this is part of it, yes.」"
   },
   {
     "name": "Misa",
-    "message": "「Birds singing, plants budding, scents drifting through the air with each change. All of those things together are the four seasons」"
+    "message": "「Birds singing, plants budding, scents drifting through the air with each change. All of those things together are the four seasons.」"
   },
   {
     "name": "Azel",
@@ -286,7 +286,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...I do not know the method」"
+    "message": "「...I do not know the method.」"
   },
   {
     "name": "Misa",
@@ -294,7 +294,7 @@
   },
   {
     "name": "Misa",
-    "message": "「If you can, it's even better to stack several books on top and press them down nice and tight」"
+    "message": "「If you can, it's even better to stack several books on top and press them down nice and tight.」"
   },
   {
     "name": "Azel",
@@ -302,7 +302,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, that's right」"
+    "message": "「Yeah, that's right.」"
   },
   {
     "name": "Azel",
@@ -310,10 +310,10 @@
   },
   {
     "name": "Azel",
-    "message": "「...Hmph, how contradictory」"
+    "message": "「...Hmph, how contradictory.」"
   },
   {
-    "message": "Azel lets out a wry smile and gathers up several fallen leaves, and I follow his lead."
+    "message": "Azel lets out a wry smile and gathers up several fallen leaves, and I follow her lead."
   },
   {
     "message": "Misa doesn't seem interested in competing with Azel, instead sharing all sorts of tips on how to press leaves."

@@ -4,7 +4,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Good day」"
+    "message": "「Good day.」"
   },
   {
     "name": "Synn",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「In that case, I shall lend it to you, Lord Paqy」"
+    "message": "「In that case, I shall lend it to you, Paqy-sama.」"
   },
   {
     "message": "Riesling hands two pistols to Paqy"
@@ -44,15 +44,15 @@
   },
   {
     "name": "Riesling",
-    "message": "「As we are anticipating an assault by ruffians, I deliberately selected that handgun」"
+    "message": "「As we are anticipating an assault by ruffians, I deliberately selected that handgun.」"
   },
   {
     "name": "Paqy",
-    "message": "「Well, I don't mind. The butler's weapon is actually decent, after all」"
+    "message": "「Well, I don't mind. The butler's weapon is actually decent, after all.」"
   },
   {
     "name": "Riesling",
-    "message": "「I'm much obliged」"
+    "message": "「I'm much obliged.」"
   },
   {
     "name": "Synn",
@@ -60,15 +60,15 @@
   },
   {
     "name": "Riesling",
-    "message": "「Excuse me, there is a message from Helena」"
+    "message": "「Excuse me, there is a message from Helena.」"
   },
   {
     "name": "Riesling",
-    "message": "「Hello? Angels are number one, telephones are number two, and for your three o'clock sniping, this is Riesling Tooyama speaking」"
+    "message": "「Hello? Angels are number one, telephones are number two, and for your three o'clock sniping, this is Riesling Tooyama speaking.」"
   },
   {
     "name": "Helena",
-    "message": "「Hiii, it's Helena\\s04」"
+    "message": "「Hiii, it's Helena.\\s04」"
   },
   {
     "name": "Helena",
@@ -76,7 +76,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Leave the endurance test of the sister model to the young lady's chauffeur car to me, your humble butler, Riesling Tooyama」"
+    "message": "「Leave the endurance test of the sister model to the young lady's chauffeur car to me, your humble butler, Riesling Tooyama.」"
   },
   {
     "name": "Helena",
@@ -99,11 +99,11 @@
   },
   {
     "name": "Helena",
-    "message": "「Woohoo! The G-Canceler is working great」"
+    "message": "「Woohoo! The G-Canceler is working great.」"
   },
   {
     "name": "Synn",
-    "message": "「D-Don't tell me Ms. Helena is inside that car...」"
+    "message": "「D-Don't tell me Helena-san is inside that car...」"
   },
   {
     "name": "Riesling",
@@ -135,15 +135,15 @@
   },
   {
     "name": "Riesling",
-    "message": "「Cease fire」"
+    "message": "「Cease fire.」"
   },
   {
     "name": "Paqy",
-    "message": "「Here you go, butler, take it back」"
+    "message": "「Here you go, butler, take it back.」"
   },
   {
     "name": "Helena",
-    "message": "「Hiii, I'm Helena, the righteous director revived in the modern age\\s04」"
+    "message": "「Hiii, I'm Helena, the righteous director revived in the modern age.\\s04」"
   },
   {
     "name": "Synn",
@@ -155,15 +155,15 @@
   },
   {
     "name": "Paqy",
-    "message": "「Every shot hit dead-on, and instead of turning into Swiss cheese, not even the paint's chipped」"
+    "message": "「Every shot hit dead-on, and instead of turning into Swiss cheese, not even the paint's chipped.」"
   },
   {
     "name": "Helena",
-    "message": "「Well, of course! Tamiko-chan upgraded the body's molecular structure for me, after all」"
+    "message": "「Well, of course! Tamiko-chan upgraded the body's molecular structure for me, after all.」"
   },
   {
     "name": "Riesling",
-    "message": "「Inflicting damage upon it with modern weaponry is impossible」"
+    "message": "「Inflicting damage upon it with modern weaponry is impossible.」"
   },
   {
     "name": "Synn",
@@ -175,11 +175,11 @@
   },
   {
     "name": "Helena",
-    "message": "「You can ride it too once you get your license, Synn-chan」"
+    "message": "「You can ride it too once you get your license, Synn-chan.」"
   },
   {
     "name": "Synn",
-    "message": "「Really? I'm looking forward to it」"
+    "message": "「Really? I'm looking forward to it.」"
   },
   {
     "name": "Paqy",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Helena",
-    "message": "「No issues with performance itself. There's a glitch in the language circuit, though. Sometimes Kito speaks in Kansai dialect」"
+    "message": "「No issues with performance itself. There's a glitch in the language circuit, though. Sometimes Kito speaks in Kansai dialect.」"
   },
   {
     "name": "Riesling",
@@ -219,7 +219,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「...I pray for your continued fortune in battle, Master Synn. Excuse me.」"
+    "message": "「...I pray for your continued fortune in battle, Synn-sama. Excuse me.」"
   },
   {
     "name": "Synn",

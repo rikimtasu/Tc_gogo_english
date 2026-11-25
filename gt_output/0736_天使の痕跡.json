@@ -107,7 +107,7 @@
   },
   {
     "name": "Helena",
-    "message": "「You won't make it in time, then」"
+    "message": "「You won't make it in time, then.」"
   },
   {
     "name": "Melilot",
@@ -139,15 +139,15 @@
   },
   {
     "name": "Helena",
-    "message": "「Well, yeah... I never expected an angel to be cooperating with them」"
+    "message": "「Well, yeah... I never expected an angel to be cooperating with them.」"
   },
   {
     "name": "Melilot",
-    "message": "「Though I suspect there is a high likelihood they are being threatened」"
+    "message": "「Though I suspect there is a high likelihood they are being threatened.」"
   },
   {
     "name": "Helena",
-    "message": "「...That's the worst. So that's why they made contact with that kid」"
+    "message": "「...That's the worst. So that's why they made contact with that kid.」"
   },
   {
     "name": "Melilot",
@@ -163,7 +163,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「As long as they read it for me, I can handle undoing the seal. However, it will take a bit of time」"
+    "message": "「As long as they read it for me, I can handle undoing the seal. However, it will take a bit of time.」"
   },
   {
     "name": "Helena",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Helena",
-    "message": "「I trust them. Both him and you」"
+    "message": "「I trust them. Both him and you.」"
   },
   {
     "name": "Melilot",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Helena",
-    "message": "「You're pretty fond of Azel, aren't you」"
+    "message": "「You're pretty fond of Azel, aren't you.」"
   },
   {
     "name": "Melilot",
@@ -199,6 +199,6 @@
   },
   {
     "name": "Helena",
-    "message": "「Hmm」"
+    "message": "「Hmm.」"
   }
 ]

@@ -8,13 +8,13 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Mr. Azel!」"
+    "message": "「Azel-san!」"
   },
   {
     "message": "Taking the final blow, Azel's knees buckle."
   },
   {
-    "message": "And just like that, he collapses face-down."
+    "message": "And just like that, she collapses face-down."
   },
   {
     "name": "Synn",
@@ -22,7 +22,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Mr. Azel...」"
+    "message": "「Azel-san...」"
   },
   {
     "message": "We rushed over and cradled Azel's body."
@@ -75,7 +75,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Mr. Azel... Could it be...!」"
+    "message": "「Azel-san... Could it be...!」"
   },
   {
     "name": "Azel",
@@ -91,14 +91,14 @@
   },
   {
     "name": "Azel",
-    "message": "「Re-Crea has abandoned me. Now, as long as no one else like me appears... Hmph」"
+    "message": "「Re-Crea has abandoned me. Now, as long as no one else like me appears... Hmph.」"
   },
   {
-    "message": "Azel mocks himself."
+    "message": "Azel mocks herself."
   },
   {
     "name": "Azel",
-    "message": "「When Re-Crea dwelled within me, I reveled in the joy」"
+    "message": "「When Re-Crea dwelled within me, I reveled in the joy.」"
   },
   {
     "name": "Azel",
@@ -128,13 +128,13 @@
     "message": "And then they turn into tears of remorse."
   },
   {
-    "message": "Azel feels bitter regret. That his will was obstructed."
+    "message": "Azel feels bitter regret. That her will was obstructed."
   },
   {
-    "message": "That he lost his qualification as the vessel of Re-Crea."
+    "message": "That she lost her qualification as the vessel of Re-Crea."
   },
   {
-    "message": "Truthfully, he is full of frustration and sorrow."
+    "message": "Truthfully, she is full of frustration and sorrow."
   },
   {
     "message": "It is not a matter that can be decided by right or wrong, good or evil."
@@ -176,10 +176,10 @@
     "message": "As if to make that fleeting existence certain..."
   },
   {
-    "message": "Even after calming down a little, Azel could barely even stand on his own."
+    "message": "Even after calming down a little, Azel could barely even stand on her own."
   },
   {
-    "message": "Combined with the battle against the Crusaders and the price of losing his qualification as Re-Crea's vessel, his body must have been exhausted to its absolute limit."
+    "message": "Combined with the battle against the Crusaders and the price of losing her qualification as Re-Crea's vessel, her body must have been exhausted to its absolute limit."
   },
   {
     "name": "Azel",
@@ -223,6 +223,6 @@
   },
   {
     "name": "Azel",
-    "message": "「Then I'll be able to stay friends with Lolotte and the others forever, you see」"
+    "message": "「Then I'll be able to stay friends with Lolotte and the others forever, you see.」"
   }
 ]

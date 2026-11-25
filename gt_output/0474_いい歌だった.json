@@ -17,17 +17,17 @@
     "message": "「Ah......」"
   },
   {
-    "message": "In the center of the empty chapel stood Azel, wearing a serene expression he had never shown everyone."
+    "message": "In the center of the empty chapel stood Azel, wearing a serene expression she had never shown everyone."
   },
   {
     "name": "Azel",
     "message": "「...」"
   },
   {
-    "message": "T-This is bad. I don't want to disturb Azel while he looks so calm and composed."
+    "message": "T-This is bad. I don't want to disturb Azel while she looks so calm and composed."
   },
   {
-    "message": "Doing this here must be his best way to relax. How can I slip out quietly without staring curiously or letting him notice me?"
+    "message": "Doing this here must be her best way to relax. How can I slip out quietly without staring curiously or letting her notice me?"
   },
   {
     "name": "Azel",
@@ -35,7 +35,7 @@
   },
   {
     "name": "Synn",
-    "message": "「D-Don't make such an openly disgusted face」"
+    "message": "「D-Don't make such an openly disgusted face.」"
   },
   {
     "name": "Azel",
@@ -43,15 +43,15 @@
   },
   {
     "name": "Synn",
-    "message": "「N-No, I just came to worship」"
+    "message": "「N-No, I just came to worship.」"
   },
   {
     "name": "Azel",
-    "message": "「I see」"
+    "message": "「I see.」"
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Azel",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry for getting in your way, Azel. I'll head right out」"
+    "message": "「Sorry for getting in your way, Azel. I'll head right out.」"
   },
   {
     "name": "Azel",
@@ -75,11 +75,11 @@
   },
   {
     "name": "Azel",
-    "message": "「If you intend to bow before God, I have no reason to stop you」"
+    "message": "「If you intend to bow before God, I have no reason to stop you.」"
   },
   {
     "name": "Azel",
-    "message": "「Life here demands much fortitude, yet the silence of the church is agreeable」"
+    "message": "「Life here demands much fortitude, yet the silence of the church is agreeable.」"
   },
   {
     "name": "Synn",
@@ -91,11 +91,11 @@
   },
   {
     "name": "Misa",
-    "message": "「My voice is warmed up and ready! Come on, let's get started」"
+    "message": "「My voice is warmed up and ready! Come on, let's get started.」"
   },
   {
     "name": "Shio",
-    "message": "「Practicing on your own initiative--truly worthy of you, Sister. I shall strive to follow your admirable example」"
+    "message": "「Practicing on your own initiative--truly worthy of you, Sister. I shall strive to follow your admirable example.」"
   },
   {
     "name": "Azel",
@@ -110,11 +110,11 @@
   },
   {
     "name": "Synn",
-    "message": "「That's Misa and Shio-chan」"
+    "message": "「That's Misa and Shio-chan.」"
   },
   {
     "name": "Azel",
-    "message": "「I know」"
+    "message": "「I know.」"
   },
   {
     "name": "Synn",
@@ -142,15 +142,15 @@
   },
   {
     "name": "Azel",
-    "message": "「I see. Understood」"
+    "message": "「I see. Understood.」"
   },
   {
     "name": "Azel",
-    "message": "「Then, let me hear it」"
+    "message": "「Then, let me hear it.」"
   },
   {
     "name": "Misa",
-    "message": "「Eh? W-Well, sure, I don't mind? That is the kind of song it is, after all」"
+    "message": "「Eh? W-Well, sure, I don't mind? That is the kind of song it is, after all.」"
   },
   {
     "message": "True to the choir's reputation, Misa sings a hymn out loud and clear, with Shio-chan harmonizing alongside her."
@@ -164,7 +164,7 @@
   },
   {
     "name": "Misa",
-    "message": "「How was that, Azel-san? Oh, and Sakura-kun too, I suppose」"
+    "message": "「How was that, Azel-san? Oh, and Sakura-kun too, I suppose.」"
   },
   {
     "name": "Synn",
@@ -200,15 +200,15 @@
   },
   {
     "name": "Shio",
-    "message": "「Indeed. Elder Sister worked twice as hard as anyone else to earn her position as captain」"
+    "message": "「Indeed. Elder Sister worked twice as hard as anyone else to earn her position as captain.」"
   },
   {
     "name": "Shio",
-    "message": "「And so, she sings of a faith forged through endurance, with poignant and exquisite beauty」"
+    "message": "「And so, she sings of a faith forged through endurance, with poignant and exquisite beauty.」"
   },
   {
     "name": "Misa",
-    "message": "「O-Oh, honestly, Shio」"
+    "message": "「O-Oh, honestly, Shio.」"
   },
   {
     "name": "Azel",
@@ -224,7 +224,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Sister!? Please, stay with me」"
+    "message": "「Sister!? Please, stay with me.」"
   },
   {
     "name": "Azel",
@@ -243,7 +243,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Let's go apologize together」"
+    "message": "「Let's go apologize together.」"
   },
   {
     "name": "Azel",

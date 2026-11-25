@@ -53,6 +53,66 @@ ORIGINALS = ROOT / "work/p4_textures_orig"
 
 
 @unittest.skipUnless(ORIGINALS.is_dir(), "Local game texture fixtures unavailable")
+class PlaceTextureTests(unittest.TestCase):
+    def test_place_and_time_labels_fit_patched_graphic_arc_windows(self):
+        from cpk.cpk import CpkArchive
+        from cpk.tim2 import crilayla_decompress
+        from loc_place_and_time import PLACE_LABELS, TIME_LABELS, localize_place_and_time
+        from patch_graphic_arc import patch_graphic_arc_bytes, patch_graphic_arc_compressed, read_sys_pl_layout
+
+        gi_path = ROOT / "work" / "iso_extract" / "GAMEINIT.CPK"
+        if not gi_path.is_file():
+            self.skipTest("Local GAMEINIT.CPK unavailable")
+
+        gi = CpkArchive(str(gi_path))
+        orig_comp = gi.read_entry([e for e in gi.entries() if e["FileName"] == "GraphicARC.bin"][0])
+        recomp, patched_n = patch_graphic_arc_compressed(orig_comp)
+        self.assertEqual(patched_n, 65)
+        patched_dec, _ = patch_graphic_arc_bytes(crilayla_decompress(orig_comp))
+        self.assertEqual(crilayla_decompress(recomp), patched_dec)
+        places, times = read_sys_pl_layout(patched_dec)
+
+        # Verify Night (T008) & School Route (P205) were widened cleanly in GraphicARC.bin
+        self.assertGreaterEqual(times["008"]["tb"]["w"], 58)
+        self.assertGreaterEqual(places["205"]["jb"]["w"], 64)
+        # Verify Free Battle player names (SYS_HRBE_PN01 Nanaka, SYS_HRBE_PN08A Macaron) were widened in-place
+        from patch_graphic_arc import _iter_entries
+        hrbe_by_name = {nm: patched_dec[off:nxt] for nm, off, nxt in _iter_entries(patched_dec) if nm.startswith("SYS_HRBE_PN")}
+        for nm, exp_w in (("SYS_HRBE_PN01", 47), ("SYS_HRBE_PN02", 44), ("SYS_HRBE_PN03", 31), ("SYS_HRBE_PN08A", 52)):
+            blob = hrbe_by_name[nm]
+            tail = blob.find(b"\x00\x13\x00", blob.find(b"sys_hrbe_tips1") + 14)
+            self.assertEqual(blob[tail - 7], exp_w, f"{nm} width mismatch")
+
+        with tempfile.TemporaryDirectory() as temp:
+            output = Path(temp)
+            localize_place_and_time(ORIGINALS, output, gi_path)
+            im1 = Image.open(output / "GAMEINIT/AdvZip/sys_pl_file001.zip.png").convert("RGBA")
+            im2 = Image.open(output / "GAMEINIT/AdvZip/sys_pl_file002.zip.png").convert("RGBA")
+            im3 = Image.open(output / "GAMEINIT/AdvZip/sys_pl_file003.zip.png").convert("RGBA")
+            texs = {"sys_pl_file001": im1, "sys_pl_file002": im2, "sys_pl_file003": im3}
+
+            # Every time-of-day graphic must have non-empty pixels inside its patched UV window
+            # AND zero ink leaking outside its patched [u .. u+w] window within its 64px cell!
+            for tid in TIME_LABELS:
+                tb = times[tid]["tb"]
+                crop = im3.crop((tb["u"], tb["v"], tb["u"] + tb["w"], tb["v"] + tb["h"]))
+                self.assertIsNotNone(crop.getbbox(), f"Empty time graphic T{tid}")
+
+            # Every place banner must have non-empty title & shadow inside its exact GraphicARC UV window
+            # AND zero stray pixels on the 1px gap above PSHADOW (eliminating the stray horizontal line!)
+            for pid in PLACE_LABELS:
+                jb = places[pid]["jb"]
+                sh = places[pid]["sh"]
+                im = texs[jb["tex"]]
+                self.assertIsNotNone(im.crop((jb["u"], jb["v"], jb["u"] + jb["w"], jb["v"] + jb["h"])).getbbox())
+                self.assertIsNotNone(im.crop((sh["u"], sh["v"], sh["u"] + sh["w"], sh["v"] + sh["h"])).getbbox())
+                # Verify row right above School Route (y=63) is completely transparent
+                if pid == "205":
+                    row63 = np.array(im)[63, sh["u"] : sh["u"] + sh["w"], 3]
+                    self.assertEqual(int(row63.max()), 0, "Stray pixels above School Route shadow")
+
+
+@unittest.skipUnless(ORIGINALS.is_dir(), "Local game texture fixtures unavailable")
 class MenuTextureTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -118,3 +178,44 @@ class MenuTextureTests(unittest.TestCase):
             with self.subTest(header=(x0, x1)):
                 self.assertFalse(localized[:13, region0:x0, 3].any())
                 self.assertFalse(localized[:13, x1:region1, 3].any())
+
+    def test_battle_hud_score_digits_and_tim2_palettes_preserved(self):
+        from tools.cpk.cpk import CpkArchive
+        from tools.cpk.tim2 import decode_tm2, encode_tm2, parse_tm2_header, unwrap_texture
+        import loc_battle_hud
+
+        loc_battle_hud.localize_battle_hud(ORIGINALS, self.output)
+        # 1. btl_files02 SCORE digits (x=80..138, y=104..138) must be 100% untouched
+        o02 = np.array(Image.open(ORIGINALS / "BATTLE/btl_files02.tm2.png").convert("RGBA"))
+        n02 = np.array(Image.open(self.output / "BATTLE/btl_files02.tm2.png").convert("RGBA"))
+        np.testing.assert_array_equal(n02[104:138, 80:138], o02[104:138, 80:138])
+
+        # 2. btl_filesE2_2.tm2 grayscale palette & btl_filesE3.tm2 (255,255,255,0) border preserved
+        battle_cpk = Path("work/iso_extract/BATTLE.CPK")
+        if battle_cpk.is_file():
+            arc = CpkArchive(str(battle_cpk))
+            by_name = {r["FileName"]: r for r in arc.entries() if not r["DirName"]}
+            e22_orig, _, _ = unwrap_texture(arc.read_entry(by_name["btl_filesE2_2.tm2"]), "btl_filesE2_2.tm2")
+            e22_new = encode_tm2(Image.open(self.output / "BATTLE/btl_filesE2_2.tm2.png"), e22_orig)
+            h22 = parse_tm2_header(e22_new)
+            pal22 = np.frombuffer(e22_new[h22["pal_off"] : h22["pal_off"] + h22["pal_sz"]], dtype=np.uint8).reshape(-1, 4)
+            self.assertEqual(pal22[0].tolist(), [0, 0, 0, 0])
+            self.assertEqual(pal22[1].tolist(), [0, 0, 0, 255])
+
+            e3_orig, _, _ = unwrap_texture(arc.read_entry(by_name["btl_filesE3.tm2"]), "btl_filesE3.tm2")
+            e3_new = encode_tm2(Image.open(self.output / "BATTLE/btl_filesE3.tm2.png"), e3_orig)
+            e3_arr = np.array(decode_tm2(e3_new))
+            self.assertEqual(e3_arr[25, 0].tolist(), [255, 255, 255, 0])
+            self.assertEqual(e3_arr[51, 50].tolist(), [255, 255, 255, 0])
+
+            # 3. btl_filesE2_1.tm2 multiplicative shadow layer (y=100..200, x=0..230) must preserve
+            # soft rose-pink alpha==0 RGB values and never collapse to black (0, 0, 0, 0)!
+            e21_orig, _, _ = unwrap_texture(arc.read_entry(by_name["btl_filesE2_1.tm2"]), "btl_filesE2_1.tm2")
+            e21_new = encode_tm2(Image.open(self.output / "BATTLE/btl_filesE2_1.tm2.png"), e21_orig)
+            e21_arr = np.array(decode_tm2(e21_new))
+            sh_region = e21_arr[100:200, 0:230]
+            self.assertTrue((sh_region[:, :, 3] == 0).all())
+            black_sh = (sh_region[:, :, 0] == 0) & (sh_region[:, :, 1] == 0) & (sh_region[:, :, 2] == 0)
+            self.assertEqual(int(black_sh.sum()), 0)
+            # Core of FIRE orb shadow (around x=18, y=118) must be warm rose-pink ~(241, 127, 136, 0)
+            self.assertEqual(e21_arr[118, 18].tolist(), [241, 127, 136, 0])

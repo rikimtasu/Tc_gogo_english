@@ -8,11 +8,11 @@
   },
   {
     "name": "Pasta",
-    "message": "「It's started, nya」"
+    "message": "「It's started, nya.」"
   },
   {
     "name": "Pasta",
-    "message": "「Soltia said enemies would appear if I activated the magic circle, but... can I really count on that, nya」"
+    "message": "「Soltia said enemies would appear if I activated the magic circle, but... can I really count on that, nya.」"
   },
   {
     "name": "Pasta",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「Things are about to start here too, nya」"
+    "message": "「Things are about to start here too, nya.」"
   },
   {
     "name": "Pasta",
@@ -36,7 +36,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「Guh, kuah, kuuuuuh」"
+    "message": "「Guh, kuah, kuuuuuh.」"
   },
   {
     "name": "Pasta",
@@ -52,7 +52,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「Something's coming, nyan」"
+    "message": "「Something's coming, nyan.」"
   },
   {
     "name": "Pasta",
@@ -88,7 +88,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「U-Um, which way is Prier, nya? If you tell me, I'll go there myself, nya」"
+    "message": "「U-Um, which way is Prier, nya? If you tell me, I'll go there myself, nya.」"
   },
   {
     "name": "Melilot",
@@ -134,7 +134,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「You... Could you be Nibe?!」"
+    "message": "「You... Could you be Nive?!」"
   },
   {
     "name": "Melilot",
@@ -188,7 +188,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「Even if you really are the legendary witch Nibe, you can't block this many of my allies attacking all at once, nya!」"
+    "message": "「Even if you really are the legendary witch Nive, you can't block this many of my allies attacking all at once, nya!」"
   },
   {
     "name": "Pasta",
@@ -315,7 +315,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Goodbye」"
+    "message": "「Goodbye.」"
   },
   {
     "name": "Voice",
@@ -346,7 +346,7 @@
   },
   {
     "name": "Soltia",
-    "message": "「It seems I defeated her... the witch」"
+    "message": "「It seems I defeated her... the witch.」"
   },
   {
     "message": "As for Pasta, not even a trace remained."
@@ -364,7 +364,7 @@
   },
   {
     "name": "Voice",
-    "message": "「You would do well to hold off on telling him」"
+    "message": "「You would do well to hold off on telling him.」"
   },
   {
     "name": "Soltia",
@@ -372,7 +372,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Good evening. Teacher Sengen'in」"
+    "message": "「Good evening. Teacher Sengen'in.」"
   },
   {
     "name": "Soltia",
@@ -380,7 +380,7 @@
   },
   {
     "name": "Soltia",
-    "message": "「Good evening, Librarian Melilot... or rather, should I call you Nibe?」"
+    "message": "「Good evening, Librarian Melilot... or rather, should I call you Nive?」"
   },
   {
     "name": "Melilot",
@@ -388,15 +388,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「Attacking your own ally as well is hardly graceful」"
+    "message": "「Attacking your own ally as well is hardly graceful.」"
   },
   {
     "name": "Soltia",
-    "message": "「She wasn't an ally. Our paths just happened to align up to this point」"
+    "message": "「She wasn't an ally. Our paths just happened to align up to this point.」"
   },
   {
     "name": "Melilot",
-    "message": "「Then let us consider your path ended here as well, and I shall let you finish your journey together」"
+    "message": "「Then let us consider your path ended here as well, and I shall let you finish your journey together.」"
   },
   {
     "message": "As Soltia inched backward to put distance between them."
@@ -407,7 +407,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I merely used the Artifact Creature as a shield and slipped in a dummy of myself while I was at it」"
+    "message": "「I merely used the Artifact Creature as a shield and slipped in a dummy of myself while I was at it.」"
   },
   {
     "name": "Soltia",
@@ -419,7 +419,7 @@
   },
   {
     "name": "Soltia",
-    "message": "「...Of course」"
+    "message": "「...Of course.」"
   },
   {
     "message": "Soltia asked while backing away little by little."
@@ -555,7 +555,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「I'm sleepy」"
+    "message": "「I'm sleepy.」"
   },
   {
     "name": "Nanaka",
@@ -563,7 +563,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It's the enemy of good skin. Hmph」"
+    "message": "「It's the enemy of good skin. Hmph.」"
   },
   {
     "name": "Shio",
@@ -571,7 +571,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Everyone, be careful! That magical presence was huge, like a giant wave」"
+    "message": "「Everyone, be careful! That magical presence was huge, like a giant wave.」"
   },
   {
     "name": "Misa",
@@ -583,11 +583,11 @@
   },
   {
     "name": "Soltia",
-    "message": "「We have company」"
+    "message": "「We have company.」"
   },
   {
     "name": "Melilot",
-    "message": "「So it seems」"
+    "message": "「So it seems.」"
   },
   {
     "name": "Synn",
@@ -607,7 +607,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Ah, Jeeves. Huh... no way」"
+    "message": "「Ah, Jiiya. Huh... no way.」"
   },
   {
     "name": "Nanaka",
@@ -615,15 +615,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「He says there are no unidentified presences within the academy」"
+    "message": "「He says there are no unidentified presences within the academy.」"
   },
   {
     "name": "Misa",
-    "message": "「B-But just a moment ago」"
+    "message": "「B-But just a moment ago.」"
   },
   {
     "name": "Paqy",
-    "message": "「...It's magic」"
+    "message": "「...It's magic.」"
   },
   {
     "name": "Synn",
@@ -631,11 +631,11 @@
   },
   {
     "name": "Shio",
-    "message": "「The bewitching arts used by heretics! How filthy」"
+    "message": "「The bewitching arts used by heretics! How filthy.」"
   },
   {
     "name": "Misa",
-    "message": "「I'll listen to your lecture later, Shio, so just be quiet for now」"
+    "message": "「I'll listen to your lecture later, Shio, so just be quiet for now.」"
   },
   {
     "name": "Ria",
@@ -643,7 +643,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Well, yeah. This is some seriously high-level stuff, though. It makes both their presence and existence completely undetectable」"
+    "message": "「Well, yeah. This is some seriously high-level stuff, though. It makes both their presence and existence completely undetectable.」"
   },
   {
     "name": "Nanaka",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Looks that way」"
+    "message": "「Looks that way.」"
   },
   {
     "name": "Ria",
@@ -663,10 +663,10 @@
   },
   {
     "name": "Misa",
-    "message": "「It looks like the cover of a book」"
+    "message": "「It looks like the cover of a book.」"
   },
   {
     "name": "Synn",
-    "message": "「I'll try showing it to Melilot tomorrow. Maybe she'll know something」"
+    "message": "「I'll try showing it to Melilot tomorrow. Maybe she'll know something.」"
   }
 ]

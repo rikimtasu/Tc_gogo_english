@@ -54,12 +54,13 @@ def localize_systemzip(orig_dir: Path, out_dir: Path) -> int:
     clear_box(im, (0, 180, 25, 198))
     draw_outlined_text(im, (12, 189), "Short", fit_font(draw, "Short", 23, 9, 7), WHITE, UI_BLUE_STROKE, 1.2, anchor="mm")
     clear_box(im, (191, 180, 217, 198))
-    draw_outlined_text(im, (204, 189), "Long", fit_font(draw, "Long", 24, 10, 8), WHITE, UI_BLUE_STROKE, 1.25, anchor="mm")
+    draw_outlined_text(im, (202, 189), "Long", fit_font(draw, "Long", 22, 9, 7), WHITE, UI_BLUE_STROKE, 1.2, anchor="mm")
 
-    # Auto-Play Delay unit: leave top y=180..193 blank (dynamic '0.01' + digit-sheet 's' draw there!)
-    # Only place '(/char)' cleanly below at y=194..208 so nothing overlaps '0.01 s'.
+    # Auto-Play Delay unit: static 's' sits at (262, 187) right below '%' at (262, 169),
+    # and '(/char)' sits cleanly below at y=195..208.
     clear_box(im, (218, 180, 278, 208))
-    draw_outlined_text(im, (248, 200), "(/char)", load_font(9), WHITE, UI_BLUE_STROKE, 1.2, anchor="mm")
+    draw_outlined_text(im, (262, 187), "s", load_font(12), WHITE, UI_BLUE_STROKE, 1.3, anchor="mm")
+    draw_outlined_text(im, (248, 201), "(/char)", load_font(9), WHITE, UI_BLUE_STROKE, 1.2, anchor="mm")
 
     # Standalone '%' icons on slider rows (uniform with rest of UI)
     for px, py in ((262, 169), (262, 228), (262, 248), (245, 272)):
@@ -109,23 +110,19 @@ def localize_systemzip(orig_dir: Path, out_dir: Path) -> int:
         clear_box(im, (300, y0, 422, y1))
         draw_text_in_box(im, (302, y0, 420, min(y1, y0 + 18)), txt, 12, WHITE, UI_BLUE_STROKE, 1.35, align="left")
 
-    # Redraw the entire 3x5 digit & unit grid (x=424..472, y=1..81, 16x16 per cell) cleanly & uniformly!
-    digit_grid = [
-        ["0", "1", "2"],
-        ["3", "4", "5"],
-        ["6", "7", "8"],
-        ["9", "%", "."],
-        ["s", "", ""],
+    # Redraw the 3x5 digit & unit grid at each glyph's exact original UV box!
+    # Note: '.' in the original sheet is at x=466..472, y=57..63 (cx=469), NOT cx=464!
+    digit_cells = [
+        ("0", 424, 1, 437, 17), ("1", 440, 1, 453, 17), ("2", 456, 1, 469, 17),
+        ("3", 424, 17, 437, 33), ("4", 440, 17, 453, 33), ("5", 456, 17, 469, 33),
+        ("6", 424, 33, 437, 49), ("7", 440, 33, 453, 49), ("8", 456, 33, 469, 49),
+        ("9", 424, 49, 437, 65), ("%", 440, 49, 456, 65), (".", 465, 49, 473, 65),
+        ("s", 424, 65, 440, 81),
     ]
     clear_box(im, (424, 0, 476, 84))
-    for r, row_chars in enumerate(digit_grid):
-        for c, ch in enumerate(row_chars):
-            if not ch:
-                continue
-            x0 = 424 + c * 16
-            y0 = 1 + r * 16
-            draw_text_in_box(im, (x0, y0, x0 + 16, y0 + 16), ch, 12, WHITE,
-                             UI_BLUE_STROKE, 1.25, baseline=y0 + 12)
+    for ch, x0, y0, x1, y1 in digit_cells:
+        draw_text_in_box(im, (x0, y0, x1, y1), ch, 12, WHITE,
+                         UI_BLUE_STROKE, 1.25, baseline=y0 + 12)
 
     # Page headers in Col 3 (x=304..)
     clear_box(im, (304, 200, 390, 222))
@@ -169,9 +166,9 @@ def localize_systemzip(orig_dir: Path, out_dir: Path) -> int:
         for r, cells in pill_rows:
             y0, y1 = r * 16, (r + 1) * 16
             for x0, x1, txt in cells:
-                w_box = (x1 - 3) - (x0 + 3)
+                w_box = (x1 - 2) - (x0 + 1)
                 patch = np.repeat(clean_col, w_box, axis=1)
-                im.paste(Image.fromarray(patch, mode="RGBA"), (x0 + 3, y0 + 2))
+                im.paste(Image.fromarray(patch, mode="RGBA"), (x0 + 1, y0 + 2))
                 draw_text_in_box(im, (x0 + 3, y0 + 2, x1 - 3, y1 - 2), txt, 10, WHITE, st_col, 1.1)
         im.save(dst_root / fn)
         count += 1
@@ -206,9 +203,9 @@ def localize_systemzip(orig_dir: Path, out_dir: Path) -> int:
     # 6. sys_o_files08.zip (400x104): KEEP [L][R][Sq][X][Synn][Paqy]
     im = Image.open(src_root / "sys_o_files08.zip.png").convert("RGBA")
     clear_box(im, (69, 82, 128, 102))
-    draw_outlined_text(im, (98, 92), "Reset", load_font(11), WHITE, UI_DARK_STROKE, 1.35, anchor="mm")
+    draw_outlined_text(im, (72, 92), "Reset", load_font(11), WHITE, UI_DARK_STROKE, 1.35, anchor="lm")
     clear_box(im, (149, 82, 174, 102))
-    draw_outlined_text(im, (161, 92), "Back", load_font(10), WHITE, UI_DARK_STROKE, 1.3, anchor="mm")
+    draw_outlined_text(im, (151, 92), "Back", load_font(10), WHITE, UI_DARK_STROKE, 1.3, anchor="lm")
     im.save(dst_root / "sys_o_files08.zip.png")
     count += 1
 
@@ -239,14 +236,14 @@ def localize_systemzip(orig_dir: Path, out_dir: Path) -> int:
     ]
     for fn, title, prompt, stroke_c in sl_specs:
         im = Image.open(src_root / fn).convert("RGBA")
-        # Seamless gradient fill for top title area & bottom legend text!
-        fill_vertical_gradient_from_col(im, (14, 4, 345, 32), sample_x=355)
+        # Seamless gradient fill for top title area (y=4..40) & bottom legend text (y=252..271)!
+        fill_vertical_gradient_from_col(im, (14, 4, 352, 40), sample_x=358)
         draw_outlined_text(im, (20, 18), title, load_font(20), WHITE, stroke_c, 1.85, anchor="lm")
         draw_outlined_text(im, (118, 18), prompt, load_font(13), WHITE, stroke_c, 1.35, anchor="lm")
-        # KEEP [Triangle](174..186) and [X](270..279)!
-        fill_vertical_gradient_from_col(im, (190, 252, 252, 268), sample_x=160)
+        # KEEP [Triangle](172..186) and [X](267..281)!
+        fill_vertical_gradient_from_col(im, (188, 252, 252, 271), sample_x=160)
         draw_outlined_text(im, (192, 260), "Delete", load_font(11), WHITE, UI_DARK_STROKE, 1.35, anchor="lm")
-        fill_vertical_gradient_from_col(im, (284, 252, 320, 268), sample_x=330)
+        fill_vertical_gradient_from_col(im, (283, 252, 336, 271), sample_x=160)
         draw_outlined_text(im, (286, 260), "Back", load_font(11), WHITE, UI_DARK_STROKE, 1.35, anchor="lm")
         im.save(dst_root / fn)
         count += 1

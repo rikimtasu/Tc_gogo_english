@@ -16,7 +16,7 @@
   },
   {
     "name": "Synn",
-    "message": "「You came to help out」"
+    "message": "「You came to help out.」"
   },
   {
     "name": "Sacchin",
@@ -32,7 +32,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Shio is chasing after him, but it seems he's pretty fast on his feet」"
+    "message": "「Shio is chasing after him, but it seems he's pretty fast on his feet.」"
   },
   {
     "name": "Sacchin",
@@ -40,15 +40,15 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Ew. Truly indiscriminate」"
+    "message": "「Ew. Truly indiscriminate.」"
   },
   {
     "name": "Lolotte",
-    "message": "「And so on--we have a mountain of problems. Therefore, Mr. Treasurer, please do something about this friend of yours」"
+    "message": "「And so on--we have a mountain of problems. Therefore, Treasurer-san, please do something about this friend of yours.」"
   },
   {
     "name": "Nanaka",
-    "message": "「So, that's the situation」"
+    "message": "「So, that's the situation.」"
   },
   {
     "name": "Sacchin",
@@ -60,7 +60,7 @@
   },
   {
     "name": "Sacchin",
-    "message": "「I caught him in an empty classroom~ So feel free to use him however you like~」"
+    "message": "「I caught her in an empty classroom~ So feel free to use her however you like~」"
   },
   {
     "name": "Azel",
@@ -68,7 +68,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Listen, Takahashi. I don't think forcing someone is right\\s01」"
+    "message": "「Listen, Takahashi. I don't think forcing someone is right.\\s01」"
   },
   {
     "name": "Sacchin",
@@ -76,7 +76,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Hey, get baaaaack here...... She's always so fast when running away」"
+    "message": "「Hey, get baaaaack here...... She's always so fast when running away.」"
   },
   {
     "name": "Misa",
@@ -88,11 +88,11 @@
   },
   {
     "name": "Azel",
-    "message": "「......I'm going home」"
+    "message": "「......I'm going home.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Now, now, don't say that. Once you join in, it's actually quite fun」"
+    "message": "「Now, now, don't say that. Once you join in, it's actually quite fun.」"
   },
   {
     "name": "Azel",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Speaking from my rich and splendid life experience, the best thing to do is just participate for now」"
+    "message": "「Speaking from my rich and splendid life experience, the best thing to do is just participate for now.」"
   },
   {
     "name": "Azel",
@@ -112,7 +112,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I'm going home」"
+    "message": "「I'm going home.」"
   },
   {
     "message": "Hm? Wait a second, this might be my chance!"
@@ -145,15 +145,15 @@
   },
   {
     "name": "Misa",
-    "message": "「Isn't that bri--mmph, mmph」"
+    "message": "「Isn't that bri--mmph, mmph.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Madam Vice President. You mustn't interrupt an interesting negotiation」"
+    "message": "「Madam Vice President. You mustn't interrupt an interesting negotiation.」"
   },
   {
     "name": "Azel",
-    "message": "「I'm going home」"
+    "message": "「I'm going home.」"
   },
   {
     "name": "Synn",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Whaaat!? There's no way you can afford that」"
+    "message": "「Whaaat!? There's no way you can afford that.」"
   },
   {
     "message": "There are times when a Student Council President has to do what he has to do."
@@ -176,11 +176,11 @@
   },
   {
     "name": "Ria",
-    "message": "「Listen, Synn. I think anything too expensive is going to be a problem」"
+    "message": "「Listen, Synn. I think anything too expensive is going to be a problem.」"
   },
   {
     "name": "Nanaka",
-    "message": "「No, before that, it's just impossible」"
+    "message": "「No, before that, it's just impossible.」"
   },
   {
     "name": "Azel",
@@ -192,7 +192,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Those are serious eyes」"
+    "message": "「Those are serious eyes.」"
   },
   {
     "name": "Nanaka",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Synn",
-    "message": "「No, but, this is something I, as Student Council President」"
+    "message": "「No, but, this is something I, as Student Council President.」"
   },
   {
     "name": "Nanaka",
@@ -220,7 +220,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Two days' worth of Vandine Jelly」"
+    "message": "「Two days' worth of Vandine Jelly.」"
   },
   {
     "name": "Synn",
@@ -228,7 +228,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I don't have any favorites」"
+    "message": "「I don't have any favorites.」"
   },
   {
     "name": "Synn",
@@ -236,15 +236,15 @@
   },
   {
     "name": "Azel",
-    "message": "「That's fine」"
+    "message": "「That's fine.」"
   },
   {
     "name": "Synn",
-    "message": "「...Got it. Two days' worth of Vandine Jelly, right」"
+    "message": "「...Got it. Two days' worth of Vandine Jelly, right.」"
   },
   {
     "name": "Azel",
-    "message": "「It's a deal」"
+    "message": "「It's a deal.」"
   },
   {
     "name": "Azel",
@@ -263,15 +263,15 @@
   },
   {
     "name": "Synn",
-    "message": "「You have to stir it like this so it cooks evenly」"
+    "message": "「You have to stir it like this so it cooks evenly.」"
   },
   {
     "name": "Azel",
-    "message": "「Too much trouble」"
+    "message": "「Too much trouble.」"
   },
   {
     "name": "Synn",
-    "message": "「...The deal」"
+    "message": "「...The deal.」"
   },
   {
     "name": "Azel",
@@ -279,7 +279,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Um, first you pour sauce on for seasoning」"
+    "message": "「Um, first you pour sauce on for seasoning.」"
   },
   {
     "name": "Azel",
@@ -291,7 +291,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Pitch black」"
+    "message": "「Pitch black.」"
   },
   {
     "name": "Synn",
@@ -309,7 +309,7 @@
   },
   {
     "name": "Synn",
-    "message": "「...My bad for making you do something so hard right off the bat」"
+    "message": "「...My bad for making you do something so hard right off the bat.」"
   },
   {
     "name": "Azel",
@@ -317,7 +317,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Then... peel the potatoes over here」"
+    "message": "「Then... peel the potatoes over here.」"
   },
   {
     "name": "Azel",
@@ -329,14 +329,14 @@
   },
   {
     "name": "Azel",
-    "message": "「Stab」"
+    "message": "「Stab.」"
   },
   {
     "name": "Synn",
     "message": "「What good would stabbing me do!?」"
   },
   {
-    "message": "Taking the knife away from Azel, who was holding it at his hip like he was in a yakuza turf war."
+    "message": "Taking the knife away from Azel, who was holding it at her hip like she was in a yakuza turf war."
   },
   {
     "name": "Azel",
@@ -344,7 +344,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yes, very wrong. You hold it like this」"
+    "message": "「Yes, very wrong. You hold it like this.」"
   },
   {
     "name": "Azel",
@@ -359,7 +359,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Can't stab」"
+    "message": "「Can't stab.」"
   },
   {
     "name": "Synn",
@@ -371,11 +371,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, yeah. Just like that, onto the potato」"
+    "message": "「Yeah, yeah. Just like that, onto the potato.」"
   },
   {
     "name": "Azel",
-    "message": "「Stab」"
+    "message": "「Stab.」"
   },
   {
     "name": "Synn",
@@ -387,7 +387,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Like this, press the knife in shallowly and slowly peel the skin with a gliding motion」"
+    "message": "「Like this, press the knife in shallowly and slowly peel the skin with a gliding motion.」"
   },
   {
     "name": "Azel",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Shut up」"
+    "message": "「Shut up.」"
   },
   {
     "name": "Synn",
@@ -414,14 +414,14 @@
   },
   {
     "name": "Azel",
-    "message": "「Peeled」"
+    "message": "「Peeled.」"
   },
   {
     "name": "Synn",
     "message": "「...」"
   },
   {
-    "message": "Just as expected, nothing was left after he finished peeling."
+    "message": "Just as expected, nothing was left after she finished peeling."
   },
   {
     "name": "Synn",
@@ -445,7 +445,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I'm cracking it」"
+    "message": "「I'm cracking it.」"
   },
   {
     "message": "Sure, slamming it down will break it, though."
@@ -464,7 +464,7 @@
   },
   {
     "name": "Synn",
-    "message": "「All you have to do is stand there holding the balloons. Then, just hand one to anyone who comes up to you and you're golden」"
+    "message": "「All you have to do is stand there holding the balloons. Then, just hand one to anyone who comes up to you and you're golden.」"
   },
   {
     "name": "Azel",
@@ -472,7 +472,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Here」"
+    "message": "「Here.」"
   },
   {
     "name": "Azel",
@@ -480,7 +480,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Well then, let's practice a bit」"
+    "message": "「Well then, let's practice a bit.」"
   },
   {
     "message": "I walk up to Azel."
@@ -495,7 +495,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Done」"
+    "message": "「Done.」"
   },
   {
     "name": "Synn",
@@ -507,7 +507,7 @@
   },
   {
     "name": "Synn",
-    "message": "「We're doing it one more time」"
+    "message": "「We're doing it one more time.」"
   },
   {
     "name": "Azel",
@@ -518,17 +518,17 @@
     "message": "「...」"
   },
   {
-    "message": "Mhm. He handed it to me."
+    "message": "Mhm. She handed it to me."
   },
   {
-    "message": "Not just a little, he's way too unfriendly... though maybe asking for more is impossible."
+    "message": "Not just a little, she's way too unfriendly... though maybe asking for more is impossible."
   },
   {
-    "message": "Besides, if he's surrounded by kids' smiles, even Azel is bound to stop being so standoffish."
+    "message": "Besides, if she's surrounded by kids' smiles, even Azel is bound to stop being so standoffish."
   },
   {
     "name": "Synn",
-    "message": "「...Yeah, yeah, just like that」"
+    "message": "「...Yeah, yeah, just like that.」"
   },
   {
     "message": "I handed back the balloon I'd received."
@@ -539,11 +539,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Ah. That was just practice, so it doesn't count」"
+    "message": "「Ah. That was just practice, so it doesn't count.」"
   },
   {
     "name": "Azel",
-    "message": "「...Guh」"
+    "message": "「...Guh.」"
   },
   {
     "message": "..."
@@ -568,11 +568,11 @@
   },
   {
     "name": "Synn",
-    "message": "「With stuff like this, I think it's better if the person handing them out looks like they're having fun. It makes it easier for them to take a balloon, too」"
+    "message": "「With stuff like this, I think it's better if the person handing them out looks like they're having fun. It makes it easier for them to take a balloon, too.」"
   },
   {
     "name": "Azel",
-    "message": "「It isn't fun」"
+    "message": "「It isn't fun.」"
   },
   {
     "name": "Synn",
@@ -584,15 +584,15 @@
   },
   {
     "name": "Synn",
-    "message": "「B-But look, once the kids start coming over, it'll get fun. So come on, try smiling just a tiny bit」"
+    "message": "「B-But look, once the kids start coming over, it'll get fun. So come on, try smiling just a tiny bit.」"
   },
   {
     "name": "Azel",
-    "message": "「You ask for a lot」"
+    "message": "「You ask for a lot.」"
   },
   {
     "name": "Synn",
-    "message": "「Contract」"
+    "message": "「Contract.」"
   },
   {
     "name": "Azel",
@@ -600,14 +600,14 @@
   },
   {
     "name": "Azel",
-    "message": "「Grin」"
+    "message": "「Grin.」"
   },
   {
     "message": "Wawah. The kids are receding like an ebbing tide!"
   },
   {
     "name": "Azel",
-    "message": "「So fun」"
+    "message": "「So fun.」"
   },
   {
     "name": "Synn",
@@ -632,13 +632,13 @@
     "message": "「...」"
   },
   {
-    "message": "He's literally just standing there..."
+    "message": "She's literally just standing there..."
   },
   {
     "message": "This feels wrong, totally wrong!"
   },
   {
-    "message": "Wait a second, before I knew it, the goal became making him work, completely drifting away from the point of getting him to have fun!"
+    "message": "Wait a second, before I knew it, the goal became making her work, completely drifting away from the point of getting her to have fun!"
   },
   {
     "name": "Man",
@@ -646,14 +646,14 @@
   },
   {
     "name": "Ria",
-    "message": "「Eh, ah, um, I'm on the Kira-Fes executive committee, so」"
+    "message": "「Eh, ah, um, I'm on the KiraFes executive committee, so.」"
   },
   {
     "message": "Wawah. Over there, Ria-senpai is getting hit on!?"
   },
   {
     "name": "Man",
-    "message": "「Acquiring a splendid tea set at this very venue just moments ago must have been a harbinger of my meeting you」"
+    "message": "「Acquiring a splendid tea set at this very venue just moments ago must have been a harbinger of my meeting you.」"
   },
   {
     "name": "Ria",
@@ -664,11 +664,11 @@
   },
   {
     "name": "Man",
-    "message": "「And labor does not suit a young lady's lovely fingers at all. Those fingers are meant solely for enjoying an elegant teatime with me」"
+    "message": "「And labor does not suit a young lady's lovely fingers at all. Those fingers are meant solely for enjoying an elegant teatime with me.」"
   },
   {
     "name": "Ria",
-    "message": "「Um, please don't do that」"
+    "message": "「Um, please don't do that.」"
   },
   {
     "name": "Man",
@@ -680,7 +680,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Ah, Synn-kun」"
+    "message": "「Ah, Synn-kun.」"
   },
   {
     "name": "Man",
@@ -696,7 +696,7 @@
   },
   {
     "name": "Man",
-    "message": "「In that case, sticking your nose into someone else's romance is rather uncouth」"
+    "message": "「In that case, sticking your nose into someone else's romance is rather uncouth.」"
   },
   {
     "name": "Synn",
@@ -704,7 +704,7 @@
   },
   {
     "name": "Man",
-    "message": "「You're still young, so I suppose it can't be helped if you don't understand. However, such behavior can hardly be called refined」"
+    "message": "「You're still young, so I suppose it can't be helped if you don't understand. However, such behavior can hardly be called refined.」"
   },
   {
     "name": "Ria",
@@ -712,7 +712,7 @@
   },
   {
     "name": "Man",
-    "message": "「That is only because you haven't noticed it yet」"
+    "message": "「That is only because you haven't noticed it yet.」"
   },
   {
     "name": "Shio",
@@ -720,14 +720,14 @@
   },
   {
     "name": "Man",
-    "message": "「Hmph」"
+    "message": "「Hmph.」"
   },
   {
     "message": "The man lightly dodged Shio-chan's naginata."
   },
   {
     "name": "Man",
-    "message": "「Deep jealousy is also one of a woman's charms」"
+    "message": "「Deep jealousy is also one of a woman's charms.」"
   },
   {
     "name": "Shio",
@@ -735,7 +735,7 @@
   },
   {
     "name": "Man",
-    "message": "「Slaying the man you love to make those feelings eternal... I'm almost moved by that passion of yours」"
+    "message": "「Slaying the man you love to make those feelings eternal... I'm almost moved by that passion of yours.」"
   },
   {
     "name": "Shio",
@@ -743,7 +743,7 @@
   },
   {
     "name": "Man",
-    "message": "「Winning over someone who plays hard to get is also one of the true pleasures of love」"
+    "message": "「Winning over someone who plays hard to get is also one of the true pleasures of love.」"
   },
   {
     "name": "Shio",
@@ -751,22 +751,22 @@
   },
   {
     "name": "Man",
-    "message": "「Scattering my life before your passion wouldn't be a bad way to end things, I suppose, though now is not yet the time」"
+    "message": "「Scattering my life before your passion wouldn't be a bad way to end things, I suppose, though now is not yet the time.」"
   },
   {
     "message": "Shio-chan's attacks don't even graze him."
   },
   {
     "name": "Ria",
-    "message": "「Synn-kun」"
+    "message": "「Synn-kun.」"
   },
   {
     "name": "Synn",
-    "message": "「Huh」"
+    "message": "「Huh.」"
   },
   {
     "name": "Ria",
-    "message": "「That guy isn't normal」"
+    "message": "「That guy isn't normal.」"
   },
   {
     "name": "Shio",
@@ -774,19 +774,19 @@
   },
   {
     "name": "Man",
-    "message": "「As long as there are encounters yet unseen, I simply cannot die」"
+    "message": "「As long as there are encounters yet unseen, I simply cannot die.」"
   },
   {
     "name": "Synn",
-    "message": "「Yes, I can tell. He's an eccentric, isn't he」"
+    "message": "「Yes, I can tell. He's an eccentric, isn't he.」"
   },
   {
     "name": "Ria",
-    "message": "「That's not what I meant... He's parrying Shio-chan's attacks without barely moving」"
+    "message": "「That's not what I meant... He's parrying Shio-chan's attacks without barely moving.」"
   },
   {
     "name": "Synn",
-    "message": "「Ah」"
+    "message": "「Ah.」"
   },
   {
     "name": "Shio",
@@ -824,7 +824,7 @@
   },
   {
     "name": "Man",
-    "message": "「A flower tinged with shyness is also worthy of admiration」"
+    "message": "「A flower tinged with shyness is also worthy of admiration.」"
   },
   {
     "name": "Shio",
@@ -839,7 +839,7 @@
   },
   {
     "name": "Man",
-    "message": "「To become so bloodthirsty over something of this degree--your life training is still sorely lacking」"
+    "message": "「To become so bloodthirsty over something of this degree--your life training is still sorely lacking.」"
   },
   {
     "name": "Shio",
@@ -850,7 +850,7 @@
   },
   {
     "name": "Man",
-    "message": "「Heh. I have certainly received your passion」"
+    "message": "「Heh. I have certainly received your passion.」"
   },
   {
     "name": "Shio",
@@ -861,7 +861,7 @@
   },
   {
     "name": "Man",
-    "message": "「However, you must not let yourself be driven by such a trifling surge of emotion to take a life」"
+    "message": "「However, you must not let yourself be driven by such a trifling surge of emotion to take a life.」"
   },
   {
     "name": "Shio",
@@ -876,7 +876,7 @@
   },
   {
     "name": "Synn",
-    "message": "「That looks painful」"
+    "message": "「That looks painful.」"
   },
   {
     "name": "Ria",
@@ -884,29 +884,29 @@
   },
   {
     "name": "Man",
-    "message": "「It is nothing worth troubling a lovely mademoiselle over. After all, pain is part and parcel of love」"
+    "message": "「It is nothing worth troubling a lovely mademoiselle over. After all, pain is part and parcel of love.」"
   },
   {
     "message": "The man's gaze turned toward Shio-chan, who was still standing there in a daze."
   },
   {
     "name": "Man",
-    "message": "「The world is beautiful. Those who live are beautiful for that alone. You must never forget that」"
+    "message": "「The world is beautiful. Those who live are beautiful for that alone. You must never forget that.」"
   },
   {
     "message": "Then, his gaze locked onto Azel."
   },
   {
     "name": "Man",
-    "message": "「Though, perhaps you do not feel the same way」"
+    "message": "「Though, perhaps you do not feel the same way.」"
   },
   {
     "name": "Azel",
-    "message": "「...Shut up」"
+    "message": "「...Shut up.」"
   },
   {
     "name": "Man",
-    "message": "「Words unpleasant to the ear are always grating. However, irritating a lady any further is not my intention」"
+    "message": "「Words unpleasant to the ear are always grating. However, irritating a lady any further is not my intention.」"
   },
   {
     "message": "With those words, the man gave a bow, and."
@@ -920,7 +920,7 @@
   },
   {
     "name": "Shio",
-    "message": "「...I still lack sufficient training... To have that pointed out by such a frivolous man... H-How humiliating」"
+    "message": "「...I still lack sufficient training... To have that pointed out by such a frivolous man... H-How humiliating.」"
   },
   {
     "name": "Ria",
@@ -928,15 +928,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, yeah, all's well that ends well」"
+    "message": "「Yeah, yeah, all's well that ends well.」"
   },
   {
     "name": "Shio",
-    "message": "「Once this festival is over, I intend to seclude myself in the mountains for about three days. Please tell my elder sister not to worry if she cannot reach me」"
+    "message": "「Once this festival is over, I intend to seclude myself in the mountains for about three days. Please tell my elder sister not to worry if she cannot reach me.」"
   },
   {
     "name": "Synn",
-    "message": "「Hey, Azel」"
+    "message": "「Hey, Azel.」"
   },
   {
     "name": "Azel",
@@ -948,7 +948,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Never seen him」"
+    "message": "「Never seen him.」"
   },
   {
     "name": "Synn",
@@ -956,7 +956,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Never seen him」"
+    "message": "「Never seen him.」"
   },
   {
     "message": "She didn't leave any room to pry."

@@ -11,10 +11,10 @@ TTF = DEFAULT_TTF
 
 @unittest.skipUnless(TTF.is_file(), 'Barlow Semi Condensed font unavailable')
 class FontTests(unittest.TestCase):
-    @unittest.skipUnless(Path('build/p3_batch1_backlogfix2/fonts/font').is_dir(), 'Local font build unavailable')
+    @unittest.skipUnless(Path('build/master_v10/fonts/font').is_dir(), 'Local font build unavailable')
     def test_built_atlases_match_uniform_barlow_presets(self):
         from tools.font.check_uniformity import check_uniformity
-        report, _ = check_uniformity(Path('build/p3_batch1_backlogfix2/fonts'))
+        report, _ = check_uniformity(Path('build/master_v10/fonts'))
         self.assertEqual(sum(row['matched_ascii_glyphs'] for row in report.values()), 285)
         self.assertEqual(report['sulakyapi12']['baseline_rows'], [11])
         self.assertEqual(report['sulakyapi12']['word_space'], 3)

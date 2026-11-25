@@ -41,7 +41,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Lord Synn. Good morning to you.」"
+    "message": "「Synn-dono. Good morning to you.」"
   },
   {
     "name": "Azel",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Shio",
-    "message": "「L-Lord Azel is here as well?! How careless of me!」"
+    "message": "「A-Azel-dono is here as well?! How careless of me!」"
   },
   {
     "name": "Synn",
@@ -115,7 +115,7 @@
   },
   {
     "name": "Shio",
-    "message": "「No, that man chose to back down」"
+    "message": "「No, that man chose to back down.」"
   },
   {
     "name": "Synn",
@@ -123,22 +123,22 @@
   },
   {
     "name": "Shio",
-    "message": "「I had believed that my lapse was merely due to underestimating him as a frivolous flirt, and that without such a gap in my guard, I could have apprehended him, however」"
+    "message": "「I had believed that my lapse was merely due to underestimating him as a frivolous flirt, and that without such a gap in my guard, I could have apprehended him, however.」"
   },
   {
     "message": "Shio-chan bit her lip in frustration."
   },
   {
     "name": "Shio",
-    "message": "「The more I replayed our movements and practiced forms to see how I might have captured him, the clearer it became: someone like me could never have apprehended that man」"
+    "message": "「The more I replayed our movements and practiced forms to see how I might have captured him, the clearer it became: someone like me could never have apprehended that man.」"
   },
   {
     "name": "Synn",
-    "message": "「No way」"
+    "message": "「No way.」"
   },
   {
     "name": "Shio",
-    "message": "「No, I can tell. Even the fact that that man did not display so much as one ten-thousandth of his true strength」"
+    "message": "「No, I can tell. Even the fact that that man did not display so much as one ten-thousandth of his true strength.」"
   },
   {
     "name": "Azel",
@@ -150,7 +150,7 @@
   },
   {
     "name": "Shio",
-    "message": "「I am so mortified and frustrated by my own pathetic self--getting flustered, tensing up, and growing pointlessly hot-headed--that I can scarcely bear it」"
+    "message": "「I am so mortified and frustrated by my own pathetic self--getting flustered, tensing up, and growing pointlessly hot-headed--that I can scarcely bear it.」"
   },
   {
     "name": "Azel",
@@ -158,34 +158,34 @@
   },
   {
     "name": "Azel",
-    "message": "「If you can move like that, it's already impressive」"
+    "message": "「If you can move like that, it's already impressive.」"
   },
   {
     "name": "Shio",
-    "message": "「However」"
+    "message": "「However.」"
   },
   {
     "name": "Azel",
-    "message": "「At the very least, it made me want to take your picture」"
+    "message": "「At the very least, it made me want to take your picture.」"
   },
   {
     "message": "With that, Azel turned away and walked off with brisk steps, almost as if she were angry."
   },
   {
     "name": "Synn",
-    "message": "「Shio-chan, I don't really know much about the naginata or anything, but I don't think realizing where your strength stands right now is a bad thing」"
+    "message": "「Shio-chan, I don't really know much about the naginata or anything, but I don't think realizing where your strength stands right now is a bad thing.」"
   },
   {
     "name": "Shio",
-    "message": "「That is certainly true, yet」"
+    "message": "「That is certainly true, yet.」"
   },
   {
     "name": "Synn",
-    "message": "「Besides, you know, I don't think there's any point in comparing yourself to someone else」"
+    "message": "「Besides, you know, I don't think there's any point in comparing yourself to someone else.」"
   },
   {
     "name": "Synn",
-    "message": "「Everyone moves forward at their own pace, so I don't think there's any need to force yourself to match theirs. Because you're you, Shio-chan」"
+    "message": "「Everyone moves forward at their own pace, so I don't think there's any need to force yourself to match theirs. Because you're you, Shio-chan.」"
   },
   {
     "name": "Shio",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Shio-chan says thank you」"
+    "message": "「Shio-chan says thank you.」"
   },
   {
     "name": "Azel",
@@ -228,22 +228,22 @@
   },
   {
     "name": "Synn",
-    "message": "「Azel」"
+    "message": "「Azel.」"
   },
   {
     "name": "Azel",
-    "message": "「I don't recall doing anything to earn that girl's gratitude」"
+    "message": "「I don't recall doing anything to earn that girl's gratitude.」"
   },
   {
-    "message": "He finally catches up and walks alongside him."
+    "message": "He finally catches up and walks alongside her."
   },
   {
     "name": "Synn",
-    "message": "「I only passed the message along. Also, Azel」"
+    "message": "「I only passed the message along. Also, Azel.」"
   },
   {
     "name": "Azel",
-    "message": "「...What」"
+    "message": "「...What.」"
   },
   {
     "name": "Synn",
@@ -251,6 +251,6 @@
   },
   {
     "name": "Azel",
-    "message": "「I refuse」"
+    "message": "「I refuse.」"
   }
 ]

@@ -48,7 +48,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Ms. Melilot passed it down to Azel.」"
+    "message": "「Melilot-san passed it down to Azel.」"
   },
   {
     "name": "Lolotte",
@@ -202,11 +202,11 @@
   },
   {
     "name": "Waltham",
-    "message": "「Meow」"
+    "message": "「Meow.」"
   },
   {
     "name": "Ria",
-    "message": "「Synn, that just now」"
+    "message": "「Synn, that just now.」"
   },
   {
     "name": "Azel",
@@ -229,7 +229,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...The strobe」"
+    "message": "「...The strobe.」"
   },
   {
     "name": "Synn",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Oh, right. A strobe」"
+    "message": "「Oh, right. A strobe.」"
   },
   {
     "name": "Lolotte",
@@ -245,7 +245,7 @@
   },
   {
     "name": "Ria",
-    "message": "「The demons are confused! If we ambush them now, we might be able to capture one or two of them」"
+    "message": "「The demons are confused! If we ambush them now, we might be able to capture one or two of them.」"
   },
   {
     "name": "Azel",
@@ -256,15 +256,15 @@
     "message": "「Good idea! We can ask them what they're up--」"
   },
   {
-    "message": "Azel pointed his Leica toward us."
+    "message": "Azel pointed her Leica toward us."
   },
   {
     "name": "Synn",
-    "message": "「Whoa. So bright」"
+    "message": "「Whoa. So bright.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Wh-what was that just now!? My eyes, my eyeees」"
+    "message": "「Wh-what was that just now!? My eyes, my eyeees.」"
   },
   {
     "name": "Cat Demon",
@@ -275,7 +275,7 @@
   },
   {
     "name": "Ria",
-    "message": "「A-Azel. You startled me」"
+    "message": "「A-Azel. You startled me.」"
   },
   {
     "name": "Lolotte",
@@ -283,7 +283,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I just took a picture of you guys looking like that」"
+    "message": "「I just took a picture of you guys looking like that.」"
   },
   {
     "name": "Synn",
@@ -291,19 +291,19 @@
   },
   {
     "name": "Paqy",
-    "message": "「Even you know what a strobe is, right, Master Synn?」"
+    "message": "「Even you know what a strobe is, right, Synn-sama?」"
   },
   {
     "name": "Ria",
-    "message": "「Because a camera can't take pictures in the dark」"
+    "message": "「Because a camera can't take pictures in the dark.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh. Right. Good thinking on the spot」"
+    "message": "「Oh. Right. Good thinking on the spot.」"
   },
   {
     "name": "Azel",
-    "message": "「When I took a picture of them, the brightness seems to have sent them into a panic. That was bad of me」"
+    "message": "「When I took a picture of them, the brightness seems to have sent them into a panic. That was bad of me.」"
   },
   {
     "name": "Synn",
@@ -314,7 +314,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「You're remarkably calm, Azel-san」"
+    "message": "「You're remarkably calm, Azel-san.」"
   },
   {
     "name": "Azel",
@@ -330,27 +330,27 @@
   },
   {
     "name": "Azel",
-    "message": "「O-Of course I am. Besides, I wanted to try taking photos at night too」"
+    "message": "「O-Of course I am. Besides, I wanted to try taking photos at night too.」"
   },
   {
     "name": "Ria",
-    "message": "「That camera really came in handy in an unexpected way, huh」"
+    "message": "「That camera really came in handy in an unexpected way, huh.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Thanks to my grand heroics, I'm just glad nothing bad happened」"
+    "message": "「Thanks to my grand heroics, I'm just glad nothing bad happened.」"
   },
   {
     "name": "Paqy",
-    "message": "「What did you even do」"
+    "message": "「What did you even do.」"
   },
   {
     "name": "Lolotte",
-    "message": "「I was worried sick! You're so reckless, Azel-san」"
+    "message": "「I was worried sick! You're so reckless, Azel-san.」"
   },
   {
     "name": "Azel",
-    "message": "「Not as much as you」"
+    "message": "「Not as much as you.」"
   },
   {
     "name": "Synn",
@@ -358,27 +358,27 @@
   },
   {
     "name": "Azel",
-    "message": "「...Yes」"
+    "message": "「...Yes.」"
   },
   {
     "name": "Ria",
-    "message": "「Synn-kun. Walk Azel-chan back」"
+    "message": "「Synn-kun. Walk Azel-chan back.」"
   },
   {
     "name": "Synn",
-    "message": "「Huh, oh, right. Of course」"
+    "message": "「Huh, oh, right. Of course.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Men have a tendency to become wolves with a cub when escorting someone」"
+    "message": "「Men have a tendency to become wolves with a cub when escorting someone.」"
   },
   {
     "name": "Ria",
-    "message": "「A-A kid all of a sudden?! N-No way, Synn-kun! There's a proper order to these things, you know」"
+    "message": "「A-A kid all of a sudden?! N-No way, Synn-kun! There's a proper order to these things, you know.」"
   },
   {
     "name": "Paqy",
-    "message": "「You mean a wolf in sheep's clothing」"
+    "message": "「You mean a wolf in sheep's clothing.」"
   },
   {
     "name": "Ria",
@@ -390,18 +390,18 @@
   },
   {
     "name": "Azel",
-    "message": "「This camera is terribly inconvenient」"
+    "message": "「This camera is terribly inconvenient.」"
   },
   {
     "message": "A lively voice echoes through the quiet night academy."
   },
   {
     "name": "Synn",
-    "message": "「You sound pretty happy about it」"
+    "message": "「You sound pretty happy about it.」"
   },
   {
     "name": "Azel",
-    "message": "「As if I'd be happy. I have to make all the various adjustments myself, and I can't even see what kind of photo I took on the spot. It's inconvenient beyond belief」"
+    "message": "「As if I'd be happy. I have to make all the various adjustments myself, and I can't even see what kind of photo I took on the spot. It's inconvenient beyond belief.」"
   },
   {
     "name": "Synn",
@@ -431,7 +431,7 @@
     "message": "「There is no point in putting on airs in front of you. I...」"
   },
   {
-    "message": "Falling silent for just a moment, as if choosing his words,"
+    "message": "Falling silent for just a moment, as if choosing her words,"
   },
   {
     "name": "Azel",
@@ -461,14 +461,14 @@
     "message": "I caught my breath."
   },
   {
-    "message": "Azel's face as he turned back to say that was truly innocent. And adorable."
+    "message": "Azel's face as she turned back to say that was truly innocent. And adorable."
   },
   {
-    "message": "I found myself wanting to see that look on his face more."
+    "message": "I found myself wanting to see that look on her face more."
   },
   {
     "name": "Paqy",
-    "message": "「Your heart is pounding right now, isn't it, Master Synn?」"
+    "message": "「Your heart is pounding right now, isn't it, Synn-sama?」"
   },
   {
     "name": "Synn",
@@ -522,7 +522,7 @@
   },
   {
     "name": "Synn",
-    "message": "「For someone who keeps getting attacked, you're always so calm, and even when you first ran into a Demon in the shopping district, you didn't look scared at all」"
+    "message": "「For someone who keeps getting attacked, you're always so calm, and even when you first ran into a Demon in the shopping district, you didn't look scared at all.」"
   },
   {
     "name": "Azel",
@@ -530,7 +530,7 @@
   },
   {
     "name": "Synn",
-    "message": "「On top of that, you even said you felt bad for flashing your strobe at them」"
+    "message": "「On top of that, you even said you felt bad for flashing your strobe at them.」"
   },
   {
     "name": "Azel",
@@ -542,15 +542,15 @@
   },
   {
     "name": "Azel",
-    "message": "「They aren't designed to inspire fear」"
+    "message": "「They aren't designed to inspire fear.」"
   },
   {
     "name": "Synn",
-    "message": "「That's certainly true」"
+    "message": "「That's certainly true.」"
   },
   {
     "name": "Azel",
-    "message": "「Besides, even though I said I'm being attacked, nothing has actually been done to me so far」"
+    "message": "「Besides, even though I said I'm being attacked, nothing has actually been done to me so far.」"
   },
   {
     "name": "Synn",
@@ -558,7 +558,7 @@
   },
   {
     "name": "Azel",
-    "message": "「None」"
+    "message": "「None.」"
   },
   {
     "name": "Synn",
@@ -581,19 +581,19 @@
   },
   {
     "name": "Azel",
-    "message": "「I-I see. You're always serious about it」"
+    "message": "「I-I see. You're always serious about it.」"
   },
   {
     "name": "Synn",
-    "message": "「I mean it. I really do care about you」"
+    "message": "「I mean it. I really do care about you.」"
   },
   {
     "name": "Azel",
-    "message": "「D-Don't say it over and over」"
+    "message": "「D-Don't say it over and over.」"
   },
   {
     "name": "Synn",
-    "message": "「Lolotte said it too, you know--you're way too careless, Azel. You don't pay any attention to your surroundings at all, or rather, you're just too oblivious」"
+    "message": "「Lolotte said it too, you know--you're way too careless, Azel. You don't pay any attention to your surroundings at all, or rather, you're just too oblivious.」"
   },
   {
     "message": "I pointed at the bulletin board beside the dorm entrance."
@@ -604,7 +604,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I don't. There haven't been any problems so far」"
+    "message": "「I don't. There haven't been any problems so far.」"
   },
   {
     "name": "Synn",
@@ -612,7 +612,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I couldn't care less」"
+    "message": "「I couldn't care less.」"
   },
   {
     "name": "Synn",
@@ -620,7 +620,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I don't know」"
+    "message": "「I don't know.」"
   },
   {
     "name": "Synn",

@@ -98,7 +98,7 @@
     "message": "「...」"
   },
   {
-    "message": "Hmm. I can tell Lolotte is trying hard, but how should I put it--he clearly looks annoyed."
+    "message": "Hmm. I can tell Lolotte is trying hard, but how should I put it--she clearly looks annoyed."
   },
   {
     "message": "Well, from an outsider's perspective, what I've been doing to Azel probably looks the exact same way."
@@ -152,7 +152,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Didn't the Chairwoman tell us to subtly look out for him?」"
+    "message": "「Didn't the Chairwoman tell us to subtly look out for her?」"
   },
   {
     "name": "Synn",
@@ -175,7 +175,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Listen. Saying that right in front of the person himself is what's blatant.」"
+    "message": "「Listen. Saying that right in front of the person herself is what's blatant.」"
   },
   {
     "name": "Lolotte",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Synn",
-    "message": "「He didn't come here to fetch sutras.」"
+    "message": "「She didn't come here to fetch sutras.」"
   },
   {
     "name": "Azel",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Synn",
-    "message": "「It sounds super shady」"
+    "message": "「It sounds super shady.」"
   },
   {
     "name": "Lolotte",
@@ -243,11 +243,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Setting that aside, every single day has been super happy for me since I joined the Student Council」"
+    "message": "「Setting that aside, every single day has been super happy for me since I joined the Student Council.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Oh, I have a brilliant idea! Azel should join the Student Council too. If she does, a happy, sparkling, heart-pounding school life will begin」"
+    "message": "「Oh, I have a brilliant idea! Azel should join the Student Council too. If she does, a happy, sparkling, heart-pounding school life will begin.」"
   },
   {
     "name": "Synn",
@@ -266,19 +266,19 @@
   },
   {
     "name": "Lolotte",
-    "message": "「At times like this, asking Kokkuri-san is the best way」"
+    "message": "「At times like this, asking Kokkuri-san is the best way.」"
   },
   {
     "name": "Synn",
-    "message": "「We won't be able to catch up to her while we're preparing all that」"
+    "message": "「We won't be able to catch up to her while we're preparing all that.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Ah, that's mine. Yes, hello」"
+    "message": "「Ah, that's mine. Yes, hello.」"
   },
   {
     "name": "Riesling",
-    "message": "「If it is tracking an agent, please leave it to me, Riesling Tooyama」"
+    "message": "「If it is tracking an agent, please leave it to me, Riesling Tooyama.」"
   },
   {
     "name": "Synn",
@@ -290,15 +290,15 @@
   },
   {
     "name": "Riesling",
-    "message": "「Distance: 138 yards. She has entered the new school building's entrance and is heading toward the stairs」"
+    "message": "「Distance: 138 yards. She has entered the new school building's entrance and is heading toward the stairs.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Thank you, Jiiya」"
+    "message": "「Thank you, Jiiya.」"
   },
   {
     "name": "Riesling",
-    "message": "「Not at all, Milady. Should you ever be in trouble, please do not hesitate to call upon me, Riesling Tooyama」"
+    "message": "「Not at all, Milady. Should you ever be in trouble, please do not hesitate to call upon me, Riesling Tooyama.」"
   },
   {
     "name": "Synn",
@@ -306,7 +306,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「If you sweat the small stuff, you lose」"
+    "message": "「If you sweat the small stuff, you lose.」"
   },
   {
     "name": "Azel",
@@ -314,7 +314,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Haa, haa... T-Trying to shake me off, haa, she's n-ninety-nine years too early」"
+    "message": "「Haa, haa... T-Trying to shake me off, haa, she's n-ninety-nine years too early.」"
   },
   {
     "name": "Synn",
@@ -322,7 +322,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Wheeze, wheeze, I am humble」"
+    "message": "「Wheeze, wheeze, I am humble.」"
   },
   {
     "name": "Azel",
@@ -338,18 +338,18 @@
   },
   {
     "name": "Synn",
-    "message": "「Hey. Is there some reason you can't fit in with that class? I think they're all good people, though」"
+    "message": "「Hey. Is there some reason you can't fit in with that class? I think they're all good people, though.」"
   },
   {
     "message": "Apparently, it's quite common for transfer students to struggle to blend into new social circles over trivial misunderstandings."
   },
   {
     "name": "Azel",
-    "message": "「There isn't」"
+    "message": "「There isn't.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Trying to dodge the question is useless. Unlike the president's eyes, mine aren't microscopes, so I see everything crystal clear」"
+    "message": "「Trying to dodge the question is useless. Unlike the president's eyes, mine aren't microscopes, so I see everything crystal clear.」"
   },
   {
     "name": "Azel",
@@ -357,47 +357,47 @@
   },
   {
     "name": "Lolotte",
-    "message": "「There is a huge problem. I have never once seen Azel-san talking to anyone」"
+    "message": "「There is a huge problem. I have never once seen Azel-san talking to anyone.」"
   },
   {
     "name": "Synn",
-    "message": "「True. Even in the classroom」"
+    "message": "「True. Even in the classroom.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Furthermore, not attending classes is unacceptable! Why, just the other day, you were at the church right in the middle of class hours, weren't you」"
+    "message": "「Furthermore, not attending classes is unacceptable! Why, just the other day, you were at the church right in the middle of class hours, weren't you.」"
   },
   {
     "name": "Synn",
-    "message": "「Yeah, that's right. You're barely ever around during class time」"
+    "message": "「Yeah, that's right. You're barely ever around during class time.」"
   },
   {
     "name": "Azel",
-    "message": "「It's pointless」"
+    "message": "「It's pointless.」"
   },
   {
     "name": "Lolotte",
-    "message": "「The church is not pointless」"
+    "message": "「The church is not pointless.」"
   },
   {
     "name": "Synn",
-    "message": "「No, does he mean classes are pointless?」"
+    "message": "「No, does she mean classes are pointless?」"
   },
   {
     "name": "Azel",
-    "message": "「Unnecessary」"
+    "message": "「Unnecessary.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Even I, who am always sleeping, at least make a point of attending class」"
+    "message": "「Even I, who am always sleeping, at least make a point of attending class.」"
   },
   {
     "name": "Synn",
-    "message": "「Stay awake」"
+    "message": "「Stay awake.」"
   },
   {
     "name": "Lolotte",
-    "message": "「The president has high standards. In that case, please show me through actions rather than words」"
+    "message": "「The president has high standards. In that case, please show me through actions rather than words.」"
   },
   {
     "name": "Synn",
@@ -405,7 +405,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「If I should inadvertently fall asleep during class, I would appreciate it if you could gently wake me up without anyone noticing」"
+    "message": "「If I should inadvertently fall asleep during class, I would appreciate it if you could gently wake me up without anyone noticing.」"
   },
   {
     "name": "Lolotte",
@@ -413,11 +413,11 @@
   },
   {
     "name": "Synn",
-    "message": "「...We aren't even in the same grade to begin with」"
+    "message": "「...We aren't even in the same grade to begin with.」"
   },
   {
     "name": "Lolotte",
-    "message": "「You just dodged a bullet, didn't you」"
+    "message": "「You just dodged a bullet, didn't you.」"
   },
   {
     "name": "Synn",
@@ -425,17 +425,17 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Sleeping at the church is truly a rare occasion, to the point of having scarcity value」"
+    "message": "「Sleeping at the church is truly a rare occasion, to the point of having scarcity value.」"
   },
   {
     "name": "Synn",
-    "message": "「That's still no good」"
+    "message": "「That's still no good.」"
   },
   {
     "message": "Just as Lolotte says, there's no sign of Azel getting friendly with anyone."
   },
   {
-    "message": "Besides, he's not even in the classroom during breaks."
+    "message": "Besides, she's not even in the classroom during breaks."
   },
   {
     "name": "Synn",
@@ -466,7 +466,7 @@
     "message": "「...」"
   },
   {
-    "message": "Hmm. He's a tough nut to crack."
+    "message": "Hmm. She's a tough nut to crack."
   },
   {
     "name": "Lolotte",
@@ -579,7 +579,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Lolotte Rosenkreuz. She's a rich girl and a returnee from abroad. She has a butler of unfathomable skill named Riesling Tooyama, and of course, she's filthy rich」"
+    "message": "「Lolotte Rosenkreuz. She's a rich girl and a returnee from abroad. She has a butler of unfathomable skill named Riesling Tooyama, and of course, she's filthy rich.」"
   },
   {
     "name": "Azel",
@@ -587,7 +587,7 @@
   },
   {
     "name": "Synn",
-    "message": "「That piggy bank of hers is especially terrifying. Believe it or not, it's filled strictly with 500-yen coins! Just thinking about how much is inside sends shivers down my spine」"
+    "message": "「That piggy bank of hers is especially terrifying. Believe it or not, it's filled strictly with 500-yen coins! Just thinking about how much is inside sends shivers down my spine.」"
   },
   {
     "name": "Synn",
@@ -606,7 +606,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Hmph」"
+    "message": "「Hmph.」"
   },
   {
     "message": "Snorting as if in disdain, Azel looked away from me and started walking."
@@ -616,14 +616,14 @@
     "message": "「Wait, ah...」"
   },
   {
-    "message": "He vanished as if he'd been wiped out of existence."
+    "message": "She vanished as if she'd been wiped out of existence."
   },
   {
     "name": "Synn",
     "message": "「...」"
   },
   {
-    "message": "I looked around, but he was nowhere to be found."
+    "message": "I looked around, but she was nowhere to be found."
   },
   {
     "message": "And unlike her, I didn't have Riesling."

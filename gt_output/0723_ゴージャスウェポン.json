@@ -21,7 +21,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「What's wrong, Master Synn?」"
+    "message": "「What's wrong, Synn-sama?」"
   },
   {
     "name": "Synn",
@@ -58,11 +58,11 @@
   },
   {
     "name": "Azel",
-    "message": "「A weapon? Why would you need a weapon」"
+    "message": "「A weapon? Why would you need a weapon.」"
   },
   {
     "name": "Synn",
-    "message": "「I thought you were a thief」"
+    "message": "「I thought you were a thief.」"
   },
   {
     "name": "Azel",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Synn",
-    "message": "「That's what I thought, anyway, but it was just you, Azel」"
+    "message": "「That's what I thought, anyway, but it was just you, Azel.」"
   },
   {
     "name": "Azel",
@@ -78,23 +78,23 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry. Still, hearing noises by the front door this late at night, anyone would think that」"
+    "message": "「Sorry. Still, hearing noises by the front door this late at night, anyone would think that.」"
   },
   {
     "name": "Paqy",
-    "message": "「Nothing worth stealing here anyway」"
+    "message": "「Nothing worth stealing here anyway.」"
   },
   {
     "name": "Synn",
-    "message": "「We have eggs, tomatoes, onions, and sesame seeds」"
+    "message": "「We have eggs, tomatoes, onions, and sesame seeds.」"
   },
   {
     "name": "Azel",
-    "message": "「That is a serious matter」"
+    "message": "「That is a serious matter.」"
   },
   {
     "name": "Paqy",
-    "message": "「You guys are pathetic」"
+    "message": "「You guys are pathetic.」"
   },
   {
     "name": "Sally",
@@ -102,15 +102,15 @@
   },
   {
     "name": "Azel",
-    "message": "「Not at all. Eggs, tomatoes, and onions are precious things」"
+    "message": "「Not at all. Eggs, tomatoes, and onions are precious things.」"
   },
   {
     "name": "Azel",
-    "message": "「The food earlier... the tomato omelet and natto tofu... well... it was good」"
+    "message": "「The food earlier... the tomato omelet and natto tofu... well... it was good.」"
   },
   {
     "name": "Synn",
-    "message": "「You kept saying 'so good, so good' while eating, after all」"
+    "message": "「You kept saying 'so good, so good' while eating, after all.」"
   },
   {
     "name": "Sally",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Yes! Let's do that」"
+    "message": "「Yes! Let's do that.」"
   },
   {
     "name": "Synn",
@@ -126,7 +126,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Azel says he wants a midnight snack too!」"
+    "message": "「Azel says she wants a midnight snack too!」"
   },
   {
     "name": "Synn",
@@ -134,15 +134,15 @@
   },
   {
     "name": "Azel",
-    "message": "「No. That's between us, don't mind it」"
+    "message": "「No. That's between us, don't mind it.」"
   },
   {
     "name": "Synn",
-    "message": "「Okay」"
+    "message": "「Okay.」"
   },
   {
     "name": "Paqy",
-    "message": "「Mind it, already」"
+    "message": "「Mind it, already.」"
   },
   {
     "name": "Sally",
@@ -150,11 +150,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I realized I hadn't thanked you for the meal earlier, so I came down to express my gratitude」"
+    "message": "「I realized I hadn't thanked you for the meal earlier, so I came down to express my gratitude.」"
   },
   {
     "name": "Synn",
-    "message": "「Tomorrow morning would have been fine」"
+    "message": "「Tomorrow morning would have been fine.」"
   },
   {
     "name": "Azel",
@@ -162,11 +162,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I don't dislike it」"
+    "message": "「I don't dislike it.」"
   },
   {
     "name": "Paqy",
-    "message": "「More importantly, just say it already. I'm sleepy」"
+    "message": "「More importantly, just say it already. I'm sleepy.」"
   },
   {
     "name": "Azel",
@@ -174,6 +174,6 @@
   },
   {
     "name": "Azel",
-    "message": "「Th-thanks... M-make it again」"
+    "message": "「Th-thanks... M-make it again.」"
   }
 ]

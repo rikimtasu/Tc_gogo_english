@@ -100,7 +100,7 @@
   },
   {
     "name": "Ria",
-    "message": "「If things keep going like this, we might have to let you go\\s02」"
+    "message": "「If things keep going like this, we might have to let you go.\\s02」"
   },
   {
     "name": "Pasta",
@@ -128,7 +128,7 @@
   },
   {
     "name": "Ria",
-    "message": "「No, I don't\\s02」"
+    "message": "「No, I don't.\\s02」"
   },
   {
     "name": "Pasta",
@@ -287,7 +287,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Oh, how pitiful\\s06」"
+    "message": "「Oh, how pitiful.\\s06」"
   },
   {
     "name": "Lolotte",
@@ -303,7 +303,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「Here's your wet towel, nya」"
+    "message": "「Here's your wet towel, nya.」"
   },
   {
     "name": "Misa",
@@ -323,11 +323,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh, thanks」"
+    "message": "「Oh, thanks.」"
   },
   {
     "name": "Paqy",
-    "message": "「Yo, Lord Synn. Worked up a bit of a sweat, so let me wipe myself down」"
+    "message": "「Yo, Synn-sama. Worked up a bit of a sweat, so let me wipe myself down.」"
   },
   {
     "name": "Synn",
@@ -339,11 +339,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Told you so」"
+    "message": "「Told you so.」"
   },
   {
     "name": "Lolotte",
-    "message": "「I thought wet towels were supposed to be warm, though」"
+    "message": "「I thought wet towels were supposed to be warm, though.」"
   },
   {
     "name": "Paqy",
@@ -351,7 +351,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Wrap Mr. Panda in a white cloth and--presto! Now you're one of the angels too」"
+    "message": "「Wrap Mr. Panda in a white cloth and--presto! Now you're one of the angels too.」"
   },
   {
     "name": "Paqy",
@@ -363,11 +363,11 @@
   },
   {
     "name": "Misa",
-    "message": "「This really is hopeless」"
+    "message": "「This really is hopeless.」"
   },
   {
     "name": "Ria",
-    "message": "「Now, now, they say a journey of a thousand miles begins with a single step\\s02」"
+    "message": "「Now, now, they say a journey of a thousand miles begins with a single step.\\s02」"
   },
   {
     "name": "Synn",
@@ -379,7 +379,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Urgh... ugh... y-you can do it, Lolotte」"
+    "message": "「Urgh... ugh... y-you can do it, Lolotte.」"
   },
   {
     "name": "Lolotte",
@@ -474,11 +474,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Then, radish sprout ramen」"
+    "message": "「Then, radish sprout ramen.」"
   },
   {
     "name": "Nanaka",
-    "message": "「I'm fine with that too」"
+    "message": "「I'm fine with that too.」"
   },
   {
     "name": "Misa",
@@ -486,14 +486,14 @@
   },
   {
     "name": "Ria",
-    "message": "「Me too\\s02」"
+    "message": "「Me too.\\s02」"
   },
   {
     "message": "If it's just ramen, they should manage somehow as long as they follow the instructions."
   },
   {
     "name": "Synn",
-    "message": "「Just one piece of advice」"
+    "message": "「Just one piece of advice.」"
   },
   {
     "name": "Lolotte",
@@ -501,7 +501,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Make sure you... actually taste-test it」"
+    "message": "「Make sure you... actually taste-test it.」"
   },
   {
     "name": "Lolotte & Pasta",

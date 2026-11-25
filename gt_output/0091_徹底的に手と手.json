@@ -11,7 +11,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「You're almost there, Madam Treasurer!」"
+    "message": "「You're almost there, Treasurer-san!」"
   },
   {
     "name": "Sally",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Here you go, drink up\\s04」"
+    "message": "「Here you go, drink up.\\s04」"
   },
   {
     "name": "Misa",
@@ -92,7 +92,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Here's your refill\\s04」"
+    "message": "「Here's your refill.\\s04」"
   },
   {
     "message": "Ditto."
@@ -103,11 +103,11 @@
   },
   {
     "name": "Ria",
-    "message": "「You should thank Synn-kun, okay\\s04」"
+    "message": "「You should thank Synn-kun, okay.\\s04」"
   },
   {
     "name": "Synn",
-    "message": "「There's plenty more if you want it. Here」"
+    "message": "「There's plenty more if you want it. Here.」"
   },
   {
     "message": "He pulls out a bottle of milk from his jacket."
@@ -118,7 +118,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Miss Vice President, do you truly wish to grow larger that badly...」"
+    "message": "「Vice-President-san, do you truly wish to grow larger that badly...」"
   },
   {
     "name": "Misa",
@@ -126,7 +126,7 @@
   },
   {
     "name": "Sally",
-    "message": "「It was supposed to be a sweet and sour cookie, guess I got tricked again」"
+    "message": "「It was supposed to be a sweet and sour cookie, guess I got tricked again.」"
   },
   {
     "name": "Misa",
@@ -158,7 +158,7 @@
   },
   {
     "name": "Sally",
-    "message": "「I got no clue what you're saying」"
+    "message": "「I got no clue what you're saying.」"
   },
   {
     "name": "Misa",
@@ -177,7 +177,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Miss Extra. It seems you always have strange items in your possession」"
+    "message": "「Miss Extra. It seems you always have strange items in your possession.」"
   },
   {
     "name": "Sally",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Trash from the Human World」"
+    "message": "「Trash from the Human World.」"
   },
   {
     "message": "How wonderful is recycling. Though some might call it a scam."
@@ -314,7 +314,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Guess I have no choice」"
+    "message": "「Guess I have no choice.」"
   },
   {
     "message": "After gathering up the 500-yen coins, I smear the glue onto the remaining shards."
@@ -324,7 +324,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Huh? It won't stick together at all」"
+    "message": "「Huh? It won't stick together at all.」"
   },
   {
     "message": "The liquid itself has zero adhesiveness. Even when I test it with a finger, it isn't the least bit sticky."
@@ -351,11 +351,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Urk」"
+    "message": "「Urk.」"
   },
   {
     "name": "Misa",
-    "message": "「Hand it to me」"
+    "message": "「Hand it to me.」"
   },
   {
     "message": "Misa reaches out to take the pieces of Tontoro and the glue from my hands."
@@ -376,7 +376,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Whaaa」"
+    "message": "「Whaaa.」"
   },
   {
     "message": "Or rather, it *was* pulled right to hers!"
@@ -429,7 +429,7 @@
   },
   {
     "name": "Sally",
-    "message": "「It was in the way, so I tossed it」"
+    "message": "「It was in the way, so I tossed it.」"
   },
   {
     "name": "Misa",
@@ -441,7 +441,7 @@
   },
   {
     "name": "Ria",
-    "message": "「No, no. If you try to force yourselves apart, you might end up tearing your skin off」"
+    "message": "「No, no. If you try to force yourselves apart, you might end up tearing your skin off.」"
   },
   {
     "name": "Misa",
@@ -449,7 +449,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Don't worry, it's totally fine. I don't think anything of it at a~ll\\s04」"
+    "message": "「Don't worry, it's totally fine. I don't think anything of it at a~ll.\\s04」"
   },
   {
     "name": "Misa",
@@ -461,7 +461,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「I wouldn't do that if I were you」"
+    "message": "「I wouldn't do that if I were you.」"
   },
   {
     "name": "Synn",
@@ -477,7 +477,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Heh heh heh... There'd be a massive explosion, blowing this Student Council room to smithereens」"
+    "message": "「Heh heh heh... There'd be a massive explosion, blowing this Student Council room to smithereens.」"
   },
   {
     "name": "Nanaka",
@@ -513,7 +513,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Then what should we do? Hey, Lolo-chi」"
+    "message": "「Then what should we do? Hey, Lolo-chi.」"
   },
   {
     "name": "Lolotte",
@@ -521,11 +521,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Leave her alone for a little while」"
+    "message": "「Leave her alone for a little while.」"
   },
   {
     "name": "Misa",
-    "message": "「...Ngh」"
+    "message": "「...Ngh.」"
   },
   {
     "name": "Synn",
@@ -541,7 +541,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「If it comes to this, it's the last resort. Let's try pouring milk on it」"
+    "message": "「If it comes to this, it's the last resort. Let's try pouring milk on it.」"
   },
   {
     "name": "Synn",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Misa",
-    "message": "「N-No... It is nothing at all」"
+    "message": "「N-No... It is nothing at all.」"
   },
   {
     "name": "Misa",
@@ -573,7 +573,7 @@
   },
   {
     "name": "Misa",
-    "message": "「I-I'm at my limit!? A-At this rate, it's going to be dangerous... Pull yourself together, Misa」"
+    "message": "「I-I'm at my limit!? A-At this rate, it's going to be dangerous... Pull yourself together, Misa.」"
   },
   {
     "name": "Misa",
@@ -605,11 +605,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Eek」"
+    "message": "「Eek.」"
   },
   {
     "name": "Paqy",
-    "message": "「Knocking him out with a strike and trying to bury him on the spot--ruthless as always, Hiss」"
+    "message": "「Knocking him out with a strike and trying to bury him on the spot--ruthless as always, Hiss.」"
   },
   {
     "name": "Synn",
@@ -644,11 +644,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Gasp」"
+    "message": "「Gasp.」"
   },
   {
     "name": "Misa",
-    "message": "「Huff, huff」"
+    "message": "「Huff, huff.」"
   },
   {
     "message": "Misa is snorting heavily through her nose. W-What is going on here!?"
@@ -662,7 +662,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Glare」"
+    "message": "「Glare.」"
   },
   {
     "name": "Synn",
@@ -783,7 +783,7 @@
   },
   {
     "name": "Synn",
-    "message": "「S-sorry」"
+    "message": "「S-sorry.」"
   },
   {
     "message": "The instant we separated, I scrubbed the sweat off on the hem of my uniform."
@@ -794,11 +794,11 @@
   },
   {
     "name": "Misa",
-    "message": "「S-so that's why... Jeez, don't startle me like that」"
+    "message": "「S-so that's why... Jeez, don't startle me like that.」"
   },
   {
     "name": "Synn",
-    "message": "「Aha, ahahaha! Sheesh, Sally-chan sure loves causing a commotion」"
+    "message": "「Aha, ahahaha! Sheesh, Sally-chan sure loves causing a commotion.」"
   },
   {
     "name": "Misa",

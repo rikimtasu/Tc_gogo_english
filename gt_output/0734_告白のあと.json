@@ -18,7 +18,7 @@
   },
   {
     "name": "Synn",
-    "message": "「You're so soft, Azel」"
+    "message": "「You're so soft, Azel.」"
   },
   {
     "name": "Azel",
@@ -26,14 +26,14 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah... I want to stay like this forever」"
+    "message": "「Yeah... I want to stay like this forever.」"
   },
   {
     "message": "I want to be with Azel."
   },
   {
     "name": "Azel",
-    "message": "「Well, it is winter」"
+    "message": "「Well, it is winter.」"
   },
   {
     "name": "Synn",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Azel",
-    "message": "「It'll be hot in the summer, you know」"
+    "message": "「It'll be hot in the summer, you know.」"
   },
   {
     "name": "Synn",
@@ -84,7 +84,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Azel said he had a photoshoot, so he went on ahead.」"
+    "message": "「Azel said she had a photoshoot, so she went on ahead.」"
   },
   {
     "name": "Synn",
@@ -94,14 +94,14 @@
     "message": "I'm actually pretty disappointed."
   },
   {
-    "message": "He wasn't at the library yesterday either, and I didn't get to see him after that."
+    "message": "She wasn't at the library yesterday either, and I didn't get to see her after that."
   },
   {
     "name": "Synn",
-    "message": "「I-I see... A photoshoot, huh」"
+    "message": "「I-I see... A photoshoot, huh.」"
   },
   {
-    "message": "He's really into photography, so it can't be helped... right."
+    "message": "She's really into photography, so it can't be helped... right."
   },
   {
     "name": "Sally",
@@ -121,11 +121,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Weird, isn't it? Even though it's only been about ten days」"
+    "message": "「Weird, isn't it? Even though it's only been about ten days.」"
   },
   {
     "name": "Synn",
-    "message": "「...It really is」"
+    "message": "「...It really is.」"
   },
   {
     "message": "It's only been about ten days since Azel and I started walking to school together."
@@ -142,7 +142,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Nanaka",
@@ -150,27 +150,27 @@
   },
   {
     "name": "Nanaka",
-    "message": "「...Doesn't look like you really care to hear about it」"
+    "message": "「...Doesn't look like you really care to hear about it.」"
   },
   {
     "name": "Synn",
-    "message": "「That's not true」"
+    "message": "「That's not true.」"
   },
   {
     "name": "Nanaka",
-    "message": "「...Well, whatever」"
+    "message": "「...Well, whatever.」"
   },
   {
     "name": "Synn",
-    "message": "「What's that supposed to mean」"
+    "message": "「What's that supposed to mean.」"
   },
   {
     "name": "Nanaka",
-    "message": "「No, really, 'Kirara' doesn't matter at all」"
+    "message": "「No, really, 'Kirara' doesn't matter at all.」"
   },
   {
     "name": "Synn",
-    "message": "「Even though you watch it so religiously」"
+    "message": "「Even though you watch it so religiously.」"
   },
   {
     "name": "Nanaka",
@@ -178,7 +178,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Hey, listen. There's something I kinda want you to hear」"
+    "message": "「Hey, listen. There's something I kinda want you to hear.」"
   },
   {
     "name": "Synn",
@@ -186,11 +186,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「See, I... Well, the thing is... For a really long time now」"
+    "message": "「See, I... Well, the thing is... For a really long time now.」"
   },
   {
     "name": "Synn",
-    "message": "「You sure seem to be having a hard time saying it」"
+    "message": "「You sure seem to be having a hard time saying it.」"
   },
   {
     "name": "Nanaka",
@@ -206,15 +206,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry, though, because I can't」"
+    "message": "「Sorry, though, because I can't.」"
   },
   {
     "name": "Nanaka",
-    "message": "「I-I see... You're right... I knew it」"
+    "message": "「I-I see... You're right... I knew it.」"
   },
   {
     "name": "Synn",
-    "message": "「No matter how close we are, Nanaka, I don't have any money to lend, so I can't lend you any」"
+    "message": "「No matter how close we are, Nanaka, I don't have any money to lend, so I can't lend you any.」"
   },
   {
     "name": "Nanaka",
@@ -248,7 +248,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Hey, Synn... I like you」"
+    "message": "「Hey, Synn... I like you.」"
   },
   {
     "name": "Synn",
@@ -281,16 +281,16 @@
   },
   {
     "name": "Synn",
-    "message": "「Ah, s-sorry」"
+    "message": "「Ah, s-sorry.」"
   },
   {
-    "message": "Azel isn't here since he's running around with his Leica and digital camera."
+    "message": "Azel isn't here since she's running around with her Leica and digital camera."
   },
   {
-    "message": "In fact, he didn't even show up to the classroom."
+    "message": "In fact, she didn't even show up to the classroom."
   },
   {
-    "message": "Which means I haven't even caught a glimpse of him today."
+    "message": "Which means I haven't even caught a glimpse of her today."
   },
   {
     "message": "As for Nanaka--"
@@ -304,19 +304,19 @@
   },
   {
     "name": "Misa",
-    "message": "「Honestly... Even though the Holy Night Festival is right around the corner」"
+    "message": "「Honestly... Even though the Holy Night Festival is right around the corner.」"
   },
   {
     "name": "Ria",
-    "message": "「Misa-chan. You shouldn't get so worked up. Preparations are going smoothly, after all」"
+    "message": "「Misa-chan. You shouldn't get so worked up. Preparations are going smoothly, after all.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Senpai-san. The vice president is just at that age where she'll complain even if a chopstick drops」"
+    "message": "「Senpai-san. The vice president is just at that age where she'll complain even if a chopstick drops.」"
   },
   {
     "name": "Paqy",
-    "message": "「Nah, that personality of hers is for life」"
+    "message": "「Nah, that personality of hers is for life.」"
   },
   {
     "name": "Misa",
@@ -376,11 +376,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Whoa! Hissy's actually worried about Master Synn!」"
+    "message": "「Whoa! Hissy's actually worried about Synn-sama!」"
   },
   {
     "name": "Lolotte",
-    "message": "「Did you eat something bad yourself, Miss Vice President?」"
+    "message": "「Did you eat something bad yourself, Vice-President-san?」"
   },
   {
     "name": "Misa",
@@ -437,11 +437,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Thank you」"
+    "message": "「Thank you.」"
   },
   {
     "name": "Melilot",
-    "message": "「If you think seriously about something for three hours and believe your conclusion is right, that conclusion likely wouldn't change even if you spent three years thinking about it」"
+    "message": "「If you think seriously about something for three hours and believe your conclusion is right, that conclusion likely wouldn't change even if you spent three years thinking about it.」"
   },
   {
     "name": "Synn",
@@ -449,7 +449,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Well, who knows? It's just something someone from long ago said」"
+    "message": "「Well, who knows? It's just something someone from long ago said.」"
   },
   {
     "name": "Synn",
@@ -468,7 +468,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Maybe I didn't even need to think about it」"
+    "message": "「Maybe I didn't even need to think about it.」"
   },
   {
     "message": "The very fact that I'm hesitating like this is the answer."
@@ -478,15 +478,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「It seems I was able to be of some help」"
+    "message": "「It seems I was able to be of some help.」"
   },
   {
     "name": "Synn",
-    "message": "「Yes. Thank you very much」"
+    "message": "「Yes. Thank you very much.」"
   },
   {
     "name": "Melilot",
-    "message": "「Answering the questions of those who visit the library is also a librarian's duty」"
+    "message": "「Answering the questions of those who visit the library is also a librarian's duty.」"
   },
   {
     "message": "I finish my tea and stand up."
@@ -500,7 +500,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I don't go home」"
+    "message": "「I don't go home.」"
   },
   {
     "name": "Synn",
@@ -508,7 +508,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Because I live here」"
+    "message": "「Because I live here.」"
   },
   {
     "name": "Synn",
@@ -516,15 +516,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「I don't go out at night, so I never have the chance to run into these Demons. Maybe I'll take a stroll tonight」"
+    "message": "「I don't go out at night, so I never have the chance to run into these Demons. Maybe I'll take a stroll tonight.」"
   },
   {
     "name": "Synn",
-    "message": "「Please don't even joke about that. I really can't recommend running into the Demons that appear at this academy」"
+    "message": "「Please don't even joke about that. I really can't recommend running into the Demons that appear at this academy.」"
   },
   {
     "name": "Melilot",
-    "message": "「It's quite alright. In the unlikely event I meet one, I'll fight it with that book」"
+    "message": "「It's quite alright. In the unlikely event I meet one, I'll fight it with that book.」"
   },
   {
     "message": "Melilot-san pointed at a thick tome bound in tanned leather."
@@ -534,10 +534,10 @@
   },
   {
     "name": "Synn",
-    "message": "「They breathe fire and stuff, so something flammable isn't really going to cut it」"
+    "message": "「They breathe fire and stuff, so something flammable isn't really going to cut it.」"
   },
   {
     "name": "Melilot",
-    "message": "「That's unfortunate」"
+    "message": "「That's unfortunate.」"
   }
 ]

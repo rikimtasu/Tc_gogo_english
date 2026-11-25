@@ -109,11 +109,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Okay, all done. Thanks for staying with me」"
+    "message": "「Okay, all done. Thanks for staying with me.」"
   },
   {
     "name": "Synn",
-    "message": "「We're not finished yet」"
+    "message": "「We're not finished yet.」"
   },
   {
     "name": "Misa",
@@ -125,7 +125,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Y-Yeah」"
+    "message": "「Y-Yeah.」"
   },
   {
     "name": "Misa",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Sister? Sir Synn?」"
+    "message": "「Sister? Synn-dono?」"
   },
   {
     "name": "Misa",
@@ -157,11 +157,11 @@
   },
   {
     "name": "Synn",
-    "message": "「That's not what she meant--if we don't head to the classroom soon, we're gonna be late」"
+    "message": "「That's not what she meant--if we don't head to the classroom soon, we're gonna be late.」"
   },
   {
     "name": "Shio",
-    "message": "「Nay, if we hurry, we shall make it in plenty of time. Surely that is why you two are still tending to leftover duties as well」"
+    "message": "「Nay, if we hurry, we shall make it in plenty of time. Surely that is why you two are still tending to leftover duties as well.」"
   },
   {
     "name": "Synn",
@@ -173,11 +173,11 @@
   },
   {
     "name": "Shio",
-    "message": "「I have a request to make as an exorcist shrine maiden, and so I was waiting for Sir Synn to finish his tasks」"
+    "message": "「I have a request to make as an exorcist shrine maiden, and so I was waiting for Synn-dono to finish his tasks.」"
   },
   {
     "name": "Shio",
-    "message": "「I have heard rumors that Sir Synn devotes himself to Demon Lord training every night」"
+    "message": "「I have heard rumors that Synn-dono devotes himself to Demon Lord training every night.」"
   },
   {
     "name": "Shio",
@@ -185,15 +185,15 @@
   },
   {
     "name": "Misa",
-    "message": "「Sakura-kun trains until pretty late at night, you know? Your parents will worry, Shio」"
+    "message": "「Sakura-kun trains until pretty late at night, you know? Your parents will worry, Shio.」"
   },
   {
     "name": "Shio",
-    "message": "「Father and Mother are away at a Shinto clergy gathering and will not return for some time. Sir Synn, I implore you!」"
+    "message": "「Father and Mother are away at a Shinto clergy gathering and will not return for some time. Synn-dono, I implore you!」"
   },
   {
     "name": "Synn",
-    "message": "「U-Uh, sure. I don't really mind」"
+    "message": "「U-Uh, sure. I don't really mind.」"
   },
   {
     "name": "Misa",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Shio",
-    "message": "「L-Lady Melilot is... a-a demon...」"
+    "message": "「L-Melilot-dono is... a-a demon...」"
   },
   {
     "name": "Synn",
@@ -403,15 +403,15 @@
   },
   {
     "name": "Shio",
-    "message": "「Yes, I have been awake since just a moment ago」"
+    "message": "「Yes, I have been awake since just a moment ago.」"
   },
   {
     "name": "Shio",
-    "message": "「...Even if it were you, Lord Synn, had you done anything to make my elder sister cry, I intended to cut you down, however...」"
+    "message": "「...Even if it were you, Synn-dono, had you done anything to make my elder sister cry, I intended to cut you down, however...」"
   },
   {
     "name": "Shio",
-    "message": "「Hearing your words just now has put me at ease. My elder sister is a shameless woman, yet I entrust her to your care」"
+    "message": "「Hearing your words just now has put me at ease. My elder sister is a shameless woman, yet I entrust her to your care.」"
   },
   {
     "name": "Misa",
@@ -427,7 +427,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Eek!? My elder sister is in earnest. Lord Synn, please flee while still carrying me on your back!」"
+    "message": "「Eek!? My elder sister is in earnest. Synn-dono, please flee while still carrying me on your back!」"
   },
   {
     "name": "Synn",
@@ -435,7 +435,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Look, you're troubling Sakura-kun. Give it up and get off his back」"
+    "message": "「Look, you're troubling Sakura-kun. Give it up and get off his back.」"
   },
   {
     "name": "Shio",
@@ -455,11 +455,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Still, about what you said earlier, there's just one thing you got wrong」"
+    "message": "「Still, about what you said earlier, there's just one thing you got wrong.」"
   },
   {
     "name": "Shio",
-    "message": "「Do you speak of Lord Synn's resolve and his promise? I cannot fathom how I might be mistaken...」"
+    "message": "「Do you speak of Synn-dono's resolve and his promise? I cannot fathom how I might be mistaken...」"
   },
   {
     "name": "Misa",
@@ -467,11 +467,11 @@
   },
   {
     "name": "Shio",
-    "message": "「I am a shrine maiden of Asukai who slays demons; I would never do such a thing as weep」"
+    "message": "「I am a shrine maiden of Asukai who slays demons; I would never do such a thing as weep.」"
   },
   {
     "name": "Misa",
-    "message": "「No. The day will definitely come when you can shed tears too, Shio」"
+    "message": "「No. The day will definitely come when you can shed tears too, Shio.」"
   },
   {
     "name": "Shio",
@@ -483,7 +483,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I didn't understand either, yet I cried」"
+    "message": "「I didn't understand either, yet I cried.」"
   },
   {
     "name": "Misa",
@@ -495,7 +495,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Ahahahaha」"
+    "message": "「Ahahahaha.」"
   },
   {
     "name": "Shio",
@@ -503,7 +503,7 @@
   },
   {
     "name": "Misa",
-    "message": "「No, I'm going to Sakura-kun's house to cook now」"
+    "message": "「No, I'm going to Sakura-kun's house to cook now.」"
   },
   {
     "name": "Synn",
@@ -511,7 +511,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Come eat with us too, Shio」"
+    "message": "「Come eat with us too, Shio.」"
   },
   {
     "name": "Shio",
@@ -519,15 +519,15 @@
   },
   {
     "name": "Synn",
-    "message": "「M-Misa, even if you suddenly say that, my room is messy and I don't even have any ingredients」"
+    "message": "「M-Misa, even if you suddenly say that, my room is messy and I don't even have any ingredients.」"
   },
   {
     "name": "Misa",
-    "message": "「As for ingredients, I've got them packed right inside my bag」"
+    "message": "「As for ingredients, I've got them packed right inside my bag.」"
   },
   {
     "name": "Synn",
-    "message": "「N-No way... Paqy, say something to stop her too」"
+    "message": "「N-No way... Paqy, say something to stop her too.」"
   },
   {
     "name": "Paqy",
@@ -547,7 +547,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Go right ahead」"
+    "message": "「Go right ahead.」"
   },
   {
     "name": "Shio",
@@ -563,7 +563,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Here, it's all done. Eat up and enjoy」"
+    "message": "「Here, it's all done. Eat up and enjoy.」"
   },
   {
     "name": "Synn",
@@ -575,11 +575,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Honestly, it's admirable that you live on your own, but you only ever eat such meager meals」"
+    "message": "「Honestly, it's admirable that you live on your own, but you only ever eat such meager meals.」"
   },
   {
     "name": "Misa",
-    "message": "「Make sure you get some proper nutrition every once in a while」"
+    "message": "「Make sure you get some proper nutrition every once in a while.」"
   },
   {
     "name": "Synn",
@@ -587,7 +587,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Still, it's gotten pretty late, hasn't it」"
+    "message": "「Still, it's gotten pretty late, hasn't it.」"
   },
   {
     "name": "Synn",
@@ -615,11 +615,11 @@
   },
   {
     "name": "Shio",
-    "message": "「Oh, Elder Sister and Lord Synn look just like newlyweds!」"
+    "message": "「Oh, Elder Sister and Synn-dono look just like newlyweds!」"
   },
   {
     "name": "Shio",
-    "message": "「Should I start calling Lord Synn 'Elder Brother' from now on?」"
+    "message": "「Should I start calling Synn-dono 'Elder Brother' from now on?」"
   },
   {
     "name": "Misa",
@@ -635,7 +635,7 @@
   },
   {
     "name": "Synn",
-    "message": "「N-No... Obviously I was just joking\\s02」"
+    "message": "「N-No... Obviously I was just joking.\\s02」"
   },
   {
     "name": "Shio",

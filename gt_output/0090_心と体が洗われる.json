@@ -4,7 +4,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Hold on, Sally-san」"
+    "message": "「Hold on, Sally-san.」"
   },
   {
     "name": "Sally",
@@ -20,15 +20,15 @@
   },
   {
     "name": "Misa",
-    "message": "「Lolotte-san. Please explain it to her」"
+    "message": "「Lolotte-san. Please explain it to her.」"
   },
   {
     "name": "Lolotte",
-    "message": "「So on and so forth」"
+    "message": "「So on and so forth.」"
   },
   {
     "name": "Sally",
-    "message": "「I don't get it at all」"
+    "message": "「I don't get it at all.」"
   },
   {
     "name": "Synn",
@@ -40,11 +40,11 @@
   },
   {
     "name": "Sally",
-    "message": "「Yeah, got it」"
+    "message": "「Yeah, got it.」"
   },
   {
     "name": "Misa",
-    "message": "「Then let's go look for a request first」"
+    "message": "「Then let's go look for a request first.」"
   },
   {
     "name": "Sally",
@@ -60,11 +60,11 @@
   },
   {
     "name": "Synn",
-    "message": "「What's the harm? She's finally motivated and everything」"
+    "message": "「What's the harm? She's finally motivated and everything.」"
   },
   {
     "name": "Misa",
-    "message": "「Sakura-kun. That remark is far too irresponsible. That's unbecoming behavior for the president」"
+    "message": "「Sakura-kun. That remark is far too irresponsible. That's unbecoming behavior for the president.」"
   },
   {
     "name": "Synn",
@@ -72,11 +72,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Ngh. No matter what I say, you always have a comeback for everything」"
+    "message": "「Ngh. No matter what I say, you always have a comeback for everything.」"
   },
   {
     "name": "Synn",
-    "message": "「You're the exact same way, Misa」"
+    "message": "「You're the exact same way, Misa.」"
   },
   {
     "name": "Misa",
@@ -84,7 +84,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmph」"
+    "message": "「Hmph.」"
   },
   {
     "name": "Misa",
@@ -92,15 +92,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「The two of you are staring at each other again」"
+    "message": "「The two of you are staring at each other again.」"
   },
   {
     "name": "Ria",
-    "message": "「You two really are close\\s02」"
+    "message": "「You two really are close.\\s02」"
   },
   {
     "name": "Nanaka",
-    "message": "「Alright, alright, that's enough being all buddy-buddy」"
+    "message": "「Alright, alright, that's enough being all buddy-buddy.」"
   },
   {
     "name": "Sally",
@@ -112,7 +112,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Not bad at all. I'm impressed」"
+    "message": "「Not bad at all. I'm impressed.」"
   },
   {
     "name": "Sally",
@@ -170,7 +170,7 @@
   },
   {
     "name": "Misa",
-    "message": "「You don't even need to ask to know that」"
+    "message": "「You don't even need to ask to know that.」"
   },
   {
     "name": "Lolotte",
@@ -190,7 +190,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Haa, haa, honestly, Sally-san... you're surprisingly sharp」"
+    "message": "「Haa, haa, honestly, Sally-san... you're surprisingly sharp.」"
   },
   {
     "name": "Sally",
@@ -210,15 +210,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Now, now. Sally-chan did work hard for the Student Council, after all」"
+    "message": "「Now, now. Sally-chan did work hard for the Student Council, after all.」"
   },
   {
     "name": "Sally",
-    "message": "「Prez\\s06」"
+    "message": "「Prez.\\s06」"
   },
   {
     "name": "Misa",
-    "message": "「That's just your subjective opinion, isn't it? Because you spoil her like that, she goes and pulls stunts like this」"
+    "message": "「That's just your subjective opinion, isn't it? Because you spoil her like that, she goes and pulls stunts like this.」"
   },
   {
     "name": "Synn",
@@ -250,11 +250,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「The President sure never gets a break from all these worries, does he」"
+    "message": "「The President sure never gets a break from all these worries, does he.」"
   },
   {
     "name": "Ria",
-    "message": "「No. I meant Misa-chan」"
+    "message": "「No. I meant Misa-chan.」"
   },
   {
     "name": "Lolotte",
@@ -286,11 +286,11 @@
   },
   {
     "name": "Ria",
-    "message": "「You can both see that clearly once you calm down, yet you always jump straight into fighting like that--it's a bad habit of yours」"
+    "message": "「You can both see that clearly once you calm down, yet you always jump straight into fighting like that--it's a bad habit of yours.」"
   },
   {
     "name": "Synn",
-    "message": "「Ugh... I'm sorry」"
+    "message": "「Ugh... I'm sorry.」"
   },
   {
     "name": "Misa",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Misa-chan」"
+    "message": "「Misa-chan.」"
   },
   {
     "name": "Misa",
@@ -306,7 +306,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Anyway, let's hurry up and knock out this request, hup」"
+    "message": "「Anyway, let's hurry up and knock out this request, hup.」"
   },
   {
     "name": "Sacchin",
@@ -322,7 +322,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Sniff, hic. Waaaaaah. I'm soooorry」"
+    "message": "「Sniff, hic. Waaaaaah. I'm soooorry.」"
   },
   {
     "name": "Synn",
@@ -330,7 +330,7 @@
   },
   {
     "name": "Sally",
-    "message": "「I'll never do it again, so I'm soooorry, hic」"
+    "message": "「I'll never do it again, so I'm soooorry, hic.」"
   },
   {
     "name": "Misa",
@@ -366,7 +366,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Sally-chan is much, much more of a child than we think. That's why she makes mistakes like that sometimes」"
+    "message": "「Sally-chan is much, much more of a child than we think. That's why she makes mistakes like that sometimes.」"
   },
   {
     "name": "Ria",
@@ -374,11 +374,11 @@
   },
   {
     "name": "Misa",
-    "message": "「...Yes, I suppose so」"
+    "message": "「...Yes, I suppose so.」"
   },
   {
     "name": "Ria",
-    "message": "「That's why you have to be the one to teach her properly, Misa-chan」"
+    "message": "「That's why you have to be the one to teach her properly, Misa-chan.」"
   },
   {
     "name": "Misa",
@@ -410,11 +410,11 @@
   },
   {
     "name": "Ria",
-    "message": "「And so, you're skipping a turn\\s04」"
+    "message": "「And so, you're skipping a turn.\\s04」"
   },
   {
     "name": "Synn",
-    "message": "「Is this sugoroku or something\\s02」"
+    "message": "「Is this sugoroku or something.\\s02」"
   },
   {
     "name": "Ria",
@@ -596,7 +596,7 @@
   },
   {
     "name": "Synn",
-    "message": "「U-Um... Misa」"
+    "message": "「U-Um... Misa.」"
   },
   {
     "name": "Misa",
@@ -611,11 +611,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Huh」"
+    "message": "「Huh.」"
   },
   {
     "name": "Synn",
-    "message": "「I didn't even think about your feelings and just blurted out whatever I wanted to say... I'm really sorry」"
+    "message": "「I didn't even think about your feelings and just blurted out whatever I wanted to say... I'm really sorry.」"
   },
   {
     "name": "Misa",
@@ -627,7 +627,7 @@
   },
   {
     "name": "Misa",
-    "message": "「I-I'm the one who should... um... I'm sorry」"
+    "message": "「I-I'm the one who should... um... I'm sorry.」"
   },
   {
     "name": "Synn",
@@ -639,15 +639,15 @@
   },
   {
     "name": "Synn",
-    "message": "「W-Whoa, I got it」"
+    "message": "「W-Whoa, I got it.」"
   },
   {
     "name": "Misa",
-    "message": "「Geez... why do we always end up arguing like this」"
+    "message": "「Geez... why do we always end up arguing like this.」"
   },
   {
     "name": "Synn",
-    "message": "「That's my line」"
+    "message": "「That's my line.」"
   },
   {
     "name": "Misa",
@@ -674,11 +674,11 @@
   },
   {
     "name": "Synn",
-    "message": "「W-Well... I did make a big show of saying I'd take responsibility, after all」"
+    "message": "「W-Well... I did make a big show of saying I'd take responsibility, after all.」"
   },
   {
     "name": "Misa",
-    "message": "「That's not the point. Normally, Student Council matters are a shared responsibility. I should have been right there watching from the sidelines with you」"
+    "message": "「That's not the point. Normally, Student Council matters are a shared responsibility. I should have been right there watching from the sidelines with you.」"
   },
   {
     "name": "Synn",
@@ -690,7 +690,7 @@
   },
   {
     "name": "Synn",
-    "message": "「No, that's not it. Thank you」"
+    "message": "「No, that's not it. Thank you.」"
   },
   {
     "name": "Misa",
@@ -738,6 +738,6 @@
   },
   {
     "name": "Ria",
-    "message": "「Ahaha... Maybe this really is the best way for those two to be\\s02」"
+    "message": "「Ahaha... Maybe this really is the best way for those two to be.\\s02」"
   }
 ]

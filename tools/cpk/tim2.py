@@ -133,18 +133,109 @@ def encode_tm2(img: Image.Image, template_tm2: bytes) -> bytes:
         raise ValueError(f"Unsupported TIM2 template: img_type={h['img_type']}, clut_type={h['clut_type']}")
 
     rgba = img.convert("RGBA")
+    arr = np.array(rgba, dtype=np.uint8)
     max_colors = 16 if h["img_type"] == 4 else 256
 
-    # Quantize with Pillow FASTOCTREE (supports RGBA alpha quantization)
-    quant = rgba.quantize(colors=max_colors, method=Image.Quantize.FASTOCTREE, dither=Image.Dither.NONE)
-    indices = np.array(quant, dtype=np.uint8)
+    # Inspect template's unswizzled original palette to preserve special entries
+    # (grayscale glow masks like btl_filesE2_2, pal[0] transparent, exact black/white).
+    orig_pal = np.frombuffer(
+        template_tm2[h["pal_off"] : h["pal_off"] + h["pal_sz"]], dtype=np.uint8
+    ).reshape(-1, 4).copy()
+    if h["img_type"] == 5 and (h["clut_type"] & 0x80) == 0 and len(orig_pal) >= 32:
+        orig_pal = _csm1_swizzle_palette(orig_pal)
 
-    raw_pal = quant.getpalette(rawmode="RGBA") or []
-    pal_bytes = bytearray(h["pal_colors"] * 4)
-    pal_bytes[: len(raw_pal)] = raw_pal[: len(pal_bytes)]
+    is_gray_ramp = (
+        h["img_type"] == 4
+        and len(orig_pal) == 16
+        and bool(np.all(orig_pal[:, 0] == orig_pal[:, 1]) and np.all(orig_pal[:, 1] == orig_pal[:, 2]))
+    )
+    if is_gray_ramp:
+        pal_arr = orig_pal.copy()
+        trans_idxs = np.where(pal_arr[:, 3] == 0)[0]
+        opaque_idxs = np.where(pal_arr[:, 3] > 0)[0]
+        trans_idx = int(trans_idxs[0]) if trans_idxs.size else 0
+        opaque_lums = pal_arr[opaque_idxs, 0].astype(np.int32)
+        pix_lum = arr[:, :, 0].astype(np.int32)
+        nearest = np.abs(pix_lum[:, :, None] - opaque_lums[None, None, :]).argmin(axis=2)
+        indices = opaque_idxs[nearest].astype(np.uint8)
+        if trans_idxs.size:
+            indices[arr[:, :, 3] < 128] = trans_idx
+    else:
+        orig_set = {tuple(int(x) for x in c) for c in orig_pal}
+        pinned: list[tuple[int, int, int, int]] = []
+        if int(orig_pal[0, 3]) == 0:
+            pinned.append(tuple(int(x) for x in orig_pal[0]))
+        for special in ((0, 0, 0, 0), (255, 255, 255, 0), (0, 0, 0, 255), (255, 255, 255, 255)):
+            if special in orig_set and special not in pinned:
+                m = (
+                    (arr[:, :, 0] == special[0])
+                    & (arr[:, :, 1] == special[1])
+                    & (arr[:, :, 2] == special[2])
+                    & (arr[:, :, 3] == special[3])
+                )
+                if m.any():
+                    pinned.append(special)
+
+        # Preserve any non-black/non-white alpha==0 palette entries from orig_pal that are used
+        # in the image (e.g. btl_filesE2_1 pink-red multiplicative shadow ramp & btl_mvp gold glow,
+        # which PIL.FASTOCTREE would otherwise collapse to (0,0,0,0) black!).
+        orig_a0 = [tuple(int(x) for x in c) for c in orig_pal if int(c[3]) == 0]
+        orig_a0_unique = list(dict.fromkeys(orig_a0))
+
+        indices = np.zeros((height, w), dtype=np.uint8)
+        pinned_mask = np.zeros((height, w), dtype=bool)
+        for p_idx, col in enumerate(pinned):
+            m = (
+                (arr[:, :, 0] == col[0])
+                & (arr[:, :, 1] == col[1])
+                & (arr[:, :, 2] == col[2])
+                & (arr[:, :, 3] == col[3])
+            )
+            indices[m] = p_idx
+            pinned_mask |= m
+
+        # Match any remaining alpha==0 pixels to their nearest RGB entry in orig_a0_unique
+        rem_zero = (arr[:, :, 3] == 0) & (~pinned_mask)
+        if rem_zero.any():
+            if len(orig_a0_unique) > 1 and max_colors >= 64:
+                a0_rgbs = np.array([c[:3] for c in orig_a0_unique], dtype=np.int32)
+                rem_rgbs = arr[rem_zero][:, :3].astype(np.int32)
+                dists = ((rem_rgbs[:, None, :] - a0_rgbs[None, :, :]) ** 2).sum(axis=2)
+                nearest_a0 = dists.argmin(axis=1)
+                # Register each matched orig_a0 entry in pinned (up to half the palette)
+                a0_to_pidx: dict[int, int] = {}
+                for a0_i in np.unique(nearest_a0):
+                    col = orig_a0_unique[int(a0_i)]
+                    if col not in pinned and len(pinned) < max_colors // 2:
+                        pinned.append(col)
+                    a0_to_pidx[int(a0_i)] = pinned.index(col) if col in pinned else 0
+                mapped_pidx = np.array([a0_to_pidx[int(i)] for i in nearest_a0], dtype=np.uint8)
+                indices[rem_zero] = mapped_pidx
+                pinned_mask |= rem_zero
+            elif pinned and pinned[0][3] == 0:
+                indices[rem_zero] = 0
+                pinned_mask |= rem_zero
+
+        pal_arr = np.zeros((h["pal_colors"], 4), dtype=np.uint8)
+        for p_idx, col in enumerate(pinned):
+            pal_arr[p_idx] = col
+
+        rem_colors = max_colors - len(pinned)
+        unpinned = ~pinned_mask
+        if unpinned.any() and rem_colors > 0:
+            # Pack unpinned pixels into a 1D strip for clean FASTOCTREE quantization
+            flat_px = arr[unpinned]
+            strip = Image.fromarray(flat_px.reshape(1, -1, 4), mode="RGBA")
+            quant = strip.quantize(colors=rem_colors, method=Image.Quantize.FASTOCTREE, dither=Image.Dither.NONE)
+            q_idx = np.array(quant, dtype=np.uint8).reshape(-1)
+            q_pal = np.array(quant.getpalette(rawmode="RGBA") or [], dtype=np.uint8).reshape(-1, 4)
+            n_q = min(len(q_pal), rem_colors)
+            pal_arr[len(pinned) : len(pinned) + n_q] = q_pal[:n_q]
+            indices[unpinned] = q_idx + len(pinned)
+
     if h["img_type"] == 5 and (h["clut_type"] & 0x80) == 0 and h["pal_colors"] >= 32:
-        pal_arr = np.frombuffer(pal_bytes, dtype=np.uint8).reshape(-1, 4)
-        pal_bytes = bytearray(_csm1_swizzle_palette(pal_arr).tobytes())
+        pal_arr = _csm1_swizzle_palette(pal_arr)
+    pal_bytes = bytearray(pal_arr.tobytes())
 
     if h["img_type"] == 5:
         img_bytes = indices.tobytes()

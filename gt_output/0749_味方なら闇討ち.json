@@ -4,7 +4,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Mornin', Prez」"
+    "message": "「Mornin', Prez.」"
   },
   {
     "name": "Synn",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Sally",
-    "message": "「He's probably out smashing windows all over the place. Sounds fun」"
+    "message": "「She's probably out smashing windows all over the place. Sounds fun.」"
   },
   {
     "name": "Synn",
@@ -35,11 +35,11 @@
   },
   {
     "name": "Sally",
-    "message": "「Roro-chi said staying out all night makes you a delinquent, and delinquents smash windows」"
+    "message": "「Roro-chi said staying out all night makes you a delinquent, and delinquents smash windows.」"
   },
   {
     "name": "Synn",
-    "message": "「Azel wouldn't do that」"
+    "message": "「Azel wouldn't do that.」"
   },
   {
     "name": "Nanaka",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「You've got huge dark circles under your eyes」"
+    "message": "「You've got huge dark circles under your eyes.」"
   },
   {
     "name": "Sally",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Show a little concern, will you」"
+    "message": "「Show a little concern, will you.」"
   },
   {
     "name": "Sally",
@@ -87,18 +87,18 @@
   },
   {
     "name": "Nanaka",
-    "message": "「That's only because you're a demon」"
+    "message": "「That's only because you're a demon.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Huh... this digital camera」"
+    "message": "「Huh... this digital camera.」"
   },
   {
     "message": "Sitting all alone on the kitchen table was the digital camera the Student Council had entrusted to Azel."
   },
   {
     "name": "Nanaka",
-    "message": "「Sorry for carelessly promising that he'd come back」"
+    "message": "「Sorry for carelessly promising that she'd come back.」"
   },
   {
     "name": "Synn",
@@ -119,7 +119,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Lord Synn. Ditch that heartless woman and let's go find a new love.」"
+    "message": "「Synn-sama. Ditch that heartless woman and let's go find a new love.」"
   },
   {
     "name": "Synn",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「He just awakened to it, so he gets worn out quick. Plus, Lord Synn's short on sleep.」"
+    "message": "「He just awakened to it, so he gets worn out quick. Plus, Synn-sama's short on sleep.」"
   },
   {
     "name": "Synn",
@@ -305,11 +305,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry. I can't fly」"
+    "message": "「Sorry. I can't fly.」"
   },
   {
     "name": "Lolotte",
-    "message": "「How disappointing」"
+    "message": "「How disappointing.」"
   },
   {
     "name": "Misa",
@@ -317,7 +317,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Sakura-kun is still Sakura-kun even after becoming a Demon Lord... Somehow, blaming you started feeling ridiculous」"
+    "message": "「Sakura-kun is still Sakura-kun even after becoming a Demon Lord... Somehow, blaming you started feeling ridiculous.」"
   },
   {
     "message": "Phew...."
@@ -328,7 +328,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「We have to look for Azel」"
+    "message": "「We have to look for Azel.」"
   },
   {
     "name": "Lolotte",
@@ -348,7 +348,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Wasn't she just panicking at the park? She saw you defeat Sengen'in-sensei live, after all. Maybe she got scared once she got back to the apartment and calmed down」"
+    "message": "「Wasn't she just panicking at the park? She saw you defeat Sengen'in-sensei live, after all. Maybe she got scared once she got back to the apartment and calmed down.」"
   },
   {
     "name": "Synn",
@@ -368,15 +368,15 @@
   },
   {
     "name": "Synn",
-    "message": "「The only place I can think of is Melilot-san's. But I already confirmed she didn't stay there」"
+    "message": "「The only place I can think of is Melilot-san's. But I already confirmed she didn't stay there.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Running to the police... probably isn't happening, huh」"
+    "message": "「Running to the police... probably isn't happening, huh.」"
   },
   {
     "name": "Misa",
-    "message": "「Even if she told them about a Demon Lord, nobody would take her seriously」"
+    "message": "「Even if she told them about a Demon Lord, nobody would take her seriously.」"
   },
   {
     "name": "Ria",
@@ -445,7 +445,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I shall enlist Jeeves's cooperation. Jeeves is a true professional, after all.」"
+    "message": "「I shall enlist Jiiya's cooperation. Jiiya is a true professional, after all.」"
   },
   {
     "name": "Ria",
@@ -495,26 +495,26 @@
   },
   {
     "name": "Melilot",
-    "message": "「Please organize that shelf over there」"
+    "message": "「Please organize that shelf over there.」"
   },
   {
     "name": "Azel",
-    "message": "「G-Got it」"
+    "message": "「G-Got it.」"
   },
   {
-    "message": "Walking between the bookshelves, he puts the misplaced books back in their proper spots."
+    "message": "Walking between the bookshelves, she puts the misplaced books back in their proper spots."
   },
   {
     "name": "Melilot",
-    "message": "「Everyone from the Student Council stopped by earlier」"
+    "message": "「Everyone from the Student Council stopped by earlier.」"
   },
   {
     "name": "Azel",
-    "message": "「...Sorry for making you lie」"
+    "message": "「...Sorry for making you lie.」"
   },
   {
     "name": "Melilot",
-    "message": "「Please don't worry about it. Even a hunter won't shoot a cornered bird that flies into his bosom, after all」"
+    "message": "「Please don't worry about it. Even a hunter won't shoot a cornered bird that flies into his bosom, after all.」"
   },
   {
     "name": "Azel",
@@ -522,19 +522,19 @@
   },
   {
     "name": "Melilot",
-    "message": "「It's an old proverb. They're good people, aren't they」"
+    "message": "「It's an old proverb. They're good people, aren't they.」"
   },
   {
     "name": "Azel",
-    "message": "「...I already know that」"
+    "message": "「...I already know that.」"
   },
   {
     "name": "Melilot",
-    "message": "「Sakura-kun in particular came by five times」"
+    "message": "「Sakura-kun in particular came by five times.」"
   },
   {
     "name": "Azel",
-    "message": "「...Synn did」"
+    "message": "「...Synn did.」"
   },
   {
     "message": "Azel's hands stopped."
@@ -545,11 +545,11 @@
   },
   {
     "name": "Azel",
-    "message": "「...I can't go back」"
+    "message": "「...I can't go back.」"
   },
   {
     "name": "Melilot",
-    "message": "「Then it can't be helped」"
+    "message": "「Then it can't be helped.」"
   },
   {
     "name": "Azel",
@@ -557,23 +557,23 @@
   },
   {
     "name": "Melilot",
-    "message": "「Yes. Though I can't offer much hospitality」"
+    "message": "「Yes. Though I can't offer much hospitality.」"
   },
   {
     "name": "Azel",
-    "message": "「...Just letting me stay is more than enough」"
+    "message": "「...Just letting me stay is more than enough.」"
   },
   {
     "name": "Melilot",
-    "message": "「Also, I bought some pajamas for you, Azel-san. I hope they're to your liking」"
+    "message": "「Also, I bought some pajamas for you, Azel-san. I hope they're to your liking.」"
   },
   {
     "name": "Azel",
-    "message": "「Huh... I feel bad taking that」"
+    "message": "「Huh... I feel bad taking that.」"
   },
   {
     "name": "Melilot",
-    "message": "「Please don't mind it. I intended for it to be a gift」"
+    "message": "「Please don't mind it. I intended for it to be a gift.」"
   },
   {
     "name": "Azel",
@@ -585,11 +585,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I brought underwear」"
+    "message": "「I brought underwear.」"
   },
   {
     "name": "Melilot",
-    "message": "「And only that, right. I went ahead and bought a toothbrush and toothpaste too」"
+    "message": "「And only that, right. I went ahead and bought a toothbrush and toothpaste too.」"
   },
   {
     "name": "Azel",
@@ -597,22 +597,22 @@
   },
   {
     "name": "Azel",
-    "message": "「Aren't you going to ask why」"
+    "message": "「Aren't you going to ask why.」"
   },
   {
     "name": "Melilot",
-    "message": "「Please tell me whenever you feel like it」"
+    "message": "「Please tell me whenever you feel like it.」"
   },
   {
     "name": "Azel",
-    "message": "「...Thanks」"
+    "message": "「...Thanks.」"
   },
   {
     "message": "Melilot gave a small laugh."
   },
   {
     "name": "Melilot",
-    "message": "「However, if you are going to tell me, please do so before the world ends」"
+    "message": "「However, if you are going to tell me, please do so before the world ends.」"
   },
   {
     "name": "Azel",
@@ -620,7 +620,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「No, it's merely a figure of speech」"
+    "message": "「No, it's merely a figure of speech.」"
   },
   {
     "name": "Azel",
@@ -628,7 +628,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Also, allow me to give you one piece of advice. If you do not wish to be found by the Student Council, you must not leave this place」"
+    "message": "「Also, allow me to give you one piece of advice. If you do not wish to be found by the Student Council, you must not leave this place.」"
   },
   {
     "name": "Azel",
@@ -636,6 +636,6 @@
   },
   {
     "name": "Melilot",
-    "message": "「Because a very capable friend of mine will likely join the search for you」"
+    "message": "「Because a very capable friend of mine will likely join the search for you.」"
   }
 ]

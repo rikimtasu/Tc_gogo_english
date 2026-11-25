@@ -3,39 +3,39 @@
     "message": "なにげにヒント"
   },
   {
-    "message": "Alongside preparations for the Kirafes, finding spare moments amidst the busyness--."
+    "message": "Alongside preparations for the KiraFes, finding spare moments amidst the busyness--."
   },
   {
     "name": "Nanaka",
-    "message": "「Oh my, blown to smithereens」"
+    "message": "「Oh my, blown to smithereens.」"
   },
   {
     "name": "Ria",
-    "message": "「You've got some serious power there, Nanaka」"
+    "message": "「You've got some serious power there, Nanaka.」"
   },
   {
     "name": "Synn",
-    "message": "「With this much firepower, nothing stands a chance」"
+    "message": "「With this much firepower, nothing stands a chance.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Hmm~~. Still, the timing for aiming is a bit tricky, isn't it」"
+    "message": "「Hmm~~. Still, the timing for aiming is a bit tricky, isn't it.」"
   },
   {
     "name": "Misa",
-    "message": "「No matter how strong an attack is, it's meaningless if it doesn't hit」"
+    "message": "「No matter how strong an attack is, it's meaningless if it doesn't hit.」"
   },
   {
     "name": "Ria",
-    "message": "「You're great at stopping the opponent's movements, Misa」"
+    "message": "「You're great at stopping the opponent's movements, Misa.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Yeah, though she kind of lacks a decisive finishing blow」"
+    "message": "「Yeah, though she kind of lacks a decisive finishing blow.」"
   },
   {
     "name": "Misa",
-    "message": "「Says the one who only knows how to fight like a brute, Nanaka」"
+    "message": "「Says the one who only knows how to fight like a brute, Nanaka.」"
   },
   {
     "name": "Nanaka",
@@ -43,7 +43,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Well, that's why the key in times like that is to fight by playing to each other's strengths」"
+    "message": "「Well, that's why the key in times like that is to fight by playing to each other's strengths.」"
   },
   {
     "name": "Synn",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Lolotte, get ready to heal him, okay」"
+    "message": "「Lolotte, get ready to heal him, okay.」"
   },
   {
     "name": "Lolotte",
@@ -83,7 +83,7 @@
   },
   {
     "name": "Ria",
-    "message": "「This might hurt a little. Ehehe\\s07」"
+    "message": "「This might hurt a little. Ehehe.\\s07」"
   },
   {
     "name": "Synn",
@@ -195,7 +195,7 @@
   },
   {
     "name": "Ria",
-    "message": "「How things turn out is all up to you, Synn」"
+    "message": "「How things turn out is all up to you, Synn.」"
   },
   {
     "name": "Synn",
@@ -219,7 +219,7 @@
   },
   {
     "name": "Ria",
-    "message": "「G-going out with you, you say... ba-dump」"
+    "message": "「G-going out with you, you say... ba-dump.」"
   },
   {
     "name": "Synn",
@@ -227,7 +227,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Now, now. You shouldn't be teasing the president like that, Ria」"
+    "message": "「Now, now. You shouldn't be teasing the president like that, Rii-a.」"
   },
   {
     "name": "Synn",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Ria",
-    "message": "「You meant keeping you company for practice, right. Ahaha... everyone else played along so I just couldn't help myself\\s02」"
+    "message": "「You meant keeping you company for practice, right. Ahaha... everyone else played along so I just couldn't help myself.\\s02」"
   },
   {
     "name": "Synn",
@@ -251,7 +251,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「So it wasn't a courtship command after all」"
+    "message": "「So it wasn't a courtship command after all.」"
   },
   {
     "name": "Misasagi",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Much obliged. Ria, here are some refreshments for you」"
+    "message": "「Much obliged. Rii-a, here are some refreshments for you.」"
   },
   {
     "name": "Ria",
@@ -295,7 +295,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「If you're going to say that, it's mochi」"
+    "message": "「If you're going to say that, it's mochi.」"
   },
   {
     "name": "Misa",
@@ -307,15 +307,15 @@
   },
   {
     "name": "Ria",
-    "message": "「Well, we're the Wagashi Club, after all」"
+    "message": "「Well, we're the Wagashi Club, after all.」"
   },
   {
     "name": "Misasagi",
-    "message": "「That's right, yeah」"
+    "message": "「That's right, yeah.」"
   },
   {
     "name": "Synn",
-    "message": "「I see, that makes sense」"
+    "message": "「I see, that makes sense.」"
   },
   {
     "message": "I wonder if the reason Ria-senpai always had wagashi on her was thanks to her club?"
@@ -329,7 +329,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Thank you very much. Let's dig in」"
+    "message": "「Thank you very much. Let's dig in.」"
   },
   {
     "name": "Nanaka",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Come on, let's close that big mouth\\s04 That's sloppy\\s07」"
+    "message": "「Come on, let's close that big mouth\\s04 That's sloppy.\\s07」"
   },
   {
     "name": "Synn",
@@ -373,27 +373,27 @@
   },
   {
     "name": "Synn",
-    "message": "「So I have to wait, huh」"
+    "message": "「So I have to wait, huh.」"
   },
   {
     "name": "Ria",
-    "message": "「Moving around right after eating is bad for your body. If you eat after you exercise, you'll absorb the nutrients properly」"
+    "message": "「Moving around right after eating is bad for your body. If you eat after you exercise, you'll absorb the nutrients properly.」"
   },
   {
     "name": "Lolotte",
-    "message": "「I see. So that secret is what built Senpai-san's amazing figure」"
+    "message": "「I see. So that secret is what built Senpai-san's amazing figure.」"
   },
   {
     "name": "Nanaka",
-    "message": "「And chewing your food well. Munch, munch」"
+    "message": "「And chewing your food well. Munch, munch.」"
   },
   {
     "name": "Synn",
-    "message": "「You're sneaking bites already」"
+    "message": "「You're sneaking bites already.」"
   },
   {
     "name": "Ria",
-    "message": "「I'm holding back from eating too, you know」"
+    "message": "「I'm holding back from eating too, you know.」"
   },
   {
     "name": "Synn",
@@ -401,7 +401,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「You're always eating, Ria. You can put up with this much」"
+    "message": "「You're always eating, Rii-a. You can put up with this much.」"
   },
   {
     "name": "Ria",
@@ -409,7 +409,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Haha. So even you can't eat until practice is over, Ria-senpai. Got it」"
+    "message": "「Haha. So even you can't eat until practice is over, Ria-senpai. Got it.」"
   },
   {
     "name": "Ria",
@@ -417,7 +417,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Heehee, forgive me」"
+    "message": "「Heehee, forgive me.」"
   },
   {
     "name": "Ria",
@@ -429,15 +429,15 @@
   },
   {
     "name": "Misasagi",
-    "message": "「How gallant」"
+    "message": "「How gallant.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Of course, he is our counselor, after all」"
+    "message": "「Of course, he is our counselor, after all.」"
   },
   {
     "name": "Misa",
-    "message": "「That's not really something for you to puff your chest out over, Nanaka-san」"
+    "message": "「That's not really something for you to puff your chest out over, Nanaka-san.」"
   },
   {
     "name": "Lolotte",

@@ -227,6 +227,34 @@ class ScenarioAndContainerTests(unittest.TestCase):
         cpk2_rebuilt = CpkArchive(rebuilt_cf)
         self.assertEqual(cpk2_rebuilt.read_entry(cpk2_rebuilt.entries()[0]), b"NEW_TIM2")
 
+    def test_cpk_zeroed_magic_crilayla_extract_size(self) -> None:
+        # BATTLE.CPK root .tm2 entries store CRILAYLA payloads with zeroed 8-byte magic
+        # and ExtractSize = u32_at_8 + 0x100 (> FileSize). Rebuilding must preserve ExtractSize.
+        orig_payload = b"\x00" * 8 + struct.pack("<II", 0x4000, 0x100) + b"\xAB" * 200
+        new_payload = b"\x00" * 8 + struct.pack("<II", 0x5200, 0x120) + b"\xCD" * 220
+        cpk_path = self.root / "battle_like.cpk"
+        _build_synthetic_cpk(cpk_path, [("", "btl_files02.tm2", orig_payload)], toc_after_content=True)
+        # Patch original TOC ExtractSize > FileSize to mirror real BATTLE.CPK
+        raw = bytearray(cpk_path.read_bytes())
+        cpk0 = CpkArchive(cpk_path)
+        toc_off = cpk0.toc_offset + 16
+        orig_ext = 0x4000 + 0x100
+        toc_buf = bytearray(cpk0.raw_toc_body)
+        from tools.cpk.cpk import patch_utf_field
+        patch_utf_field(toc_buf, cpk0.toc_table, 0, "ExtractSize", orig_ext)
+        raw[toc_off : toc_off + len(toc_buf)] = toc_buf
+        cpk_path.write_bytes(bytes(raw))
+
+        cpk = CpkArchive(cpk_path)
+        self.assertEqual(cpk.entries()[0]["ExtractSize"], orig_ext)
+        rebuilt_path = self.root / "battle_rebuilt.cpk"
+        cpk.rebuild(rebuilt_path, {"btl_files02.tm2": new_payload})
+        rebuilt = CpkArchive(rebuilt_path)
+        row = rebuilt.entries()[0]
+        self.assertEqual(row["FileSize"], len(new_payload))
+        self.assertEqual(row["ExtractSize"], 0x5200 + 0x100)
+        self.assertEqual(rebuilt.read_entry(row), new_payload)
+
     def test_eboot_string_extraction(self) -> None:
         buf = bytearray(0x180000)
         buf[0x15C4A0 : 0x15C4A0 + len("セーブ".encode("cp932")) + 1] = "セーブ".encode("cp932") + b"\x00"

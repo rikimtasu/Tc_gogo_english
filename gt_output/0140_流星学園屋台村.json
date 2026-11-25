@@ -4,11 +4,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Going on breaaak」"
+    "message": "「Going on breaaak.」"
   },
   {
     "name": "Shio",
-    "message": "「Oh, Lord Synn. Thank you for your hard work」"
+    "message": "「Oh, Synn-dono. Thank you for your hard work.」"
   },
   {
     "name": "Synn",
@@ -16,7 +16,7 @@
   },
   {
     "name": "Shio",
-    "message": "「As I have been swept up in the fervor of the festival, I have no need of rest」"
+    "message": "「As I have been swept up in the fervor of the festival, I have no need of rest.」"
   },
   {
     "name": "Synn",
@@ -28,38 +28,38 @@
   },
   {
     "name": "Synn",
-    "message": "「Don't push yourself too hard and make sure you get proper rest」"
+    "message": "「Don't push yourself too hard and make sure you get proper rest.」"
   },
   {
     "name": "Shio",
-    "message": "「I am deeply grateful for your thoughtfulness」"
+    "message": "「I am deeply grateful for your thoughtfulness.」"
   },
   {
     "message": "Well, there don't seem to be any troublemakers around, so I suppose this counts as a decent break in its own right."
   },
   {
     "name": "Shio",
-    "message": "「Lady Lolotte also headed off to rest just a short while ago」"
+    "message": "「Lolotte-dono also headed off to rest just a short while ago.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh, is that right」"
+    "message": "「Oh, is that right.」"
   },
   {
     "name": "Shio",
-    "message": "「She was walking alongside a rather tall gentleman」"
+    "message": "「She was walking alongside a rather tall gentleman.」"
   },
   {
     "name": "Synn",
-    "message": "「Ah, could that be Mr. Riesling?」"
+    "message": "「Ah, could that be Riesling-san?」"
   },
   {
     "name": "Shio",
-    "message": "「Lord Synn! Are you acquainted with that honorable lady!?」"
+    "message": "「Synn-dono! Are you acquainted with that honorable lady!?」"
   },
   {
     "name": "Synn",
-    "message": "「W-Well, yeah. Just a little」"
+    "message": "「W-Well, yeah. Just a little.」"
   },
   {
     "name": "Shio",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Huh... That's Tontoro」"
+    "message": "「Huh... That's Tontoro.」"
   },
   {
     "message": "A familiar pig was sitting squarely atop a folding chair."
@@ -102,7 +102,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Kukuku... Just as expected of Lord Synn. Swiping all that cash just like that is pretty wicked」"
+    "message": "「Kukuku... Just as expected of Synn-sama. Swiping all that cash just like that is pretty wicked.」"
   },
   {
     "name": "Synn",
@@ -118,11 +118,11 @@
   },
   {
     "name": "Shio",
-    "message": "「Yet Sir Paqy says so right here, does he not!!」"
+    "message": "「Yet Paqy-dono says so right here, does he not!!」"
   },
   {
     "name": "Paqy",
-    "message": "「Kukuku... That's right」"
+    "message": "「Kukuku... That's right.」"
   },
   {
     "name": "Shio",
@@ -130,7 +130,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Non, non, it's the cute little Blackuma-cha~n\\s04」"
+    "message": "「Non, non, it's the cute little Blackuma-cha~n.\\s04」"
   },
   {
     "name": "Shio",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Whoa! That was close」"
+    "message": "「Whoa! That was close.」"
   },
   {
     "message": "I need to take Tontoro somewhere safe as soon as possible."
@@ -183,7 +183,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Ugh」"
+    "message": "「Ugh.」"
   },
   {
     "name": "Paqy",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「L-Lord Synn...」"
+    "message": "「L-Synn-sama...」"
   },
   {
     "name": "Synn",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Thud」"
+    "message": "「Thud.」"
   },
   {
     "name": "Synn",
@@ -207,7 +207,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「I avoided their vital spots」"
+    "message": "「I avoided their vital spots.」"
   },
   {
     "name": "Synn",
@@ -215,7 +215,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「It's merely a tranquilizer gun, so please rest assured」"
+    "message": "「It's merely a tranquilizer gun, so please rest assured.」"
   },
   {
     "name": "Synn",
@@ -238,18 +238,18 @@
   },
   {
     "name": "Riesling",
-    "message": "「Because securing Tontoro's safety was my top priority」"
+    "message": "「Because securing Tontoro's safety was my top priority.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh, I see\\s02」"
+    "message": "「Oh, I see.\\s02」"
   },
   {
     "message": "For something so prioritized, I feel like it gets broken pretty often."
   },
   {
     "name": "Lolotte",
-    "message": "「Honestly, Gramps, that was so sudden. It's no wonder Mr. President was startled.」"
+    "message": "「Honestly, Jiiya, that was so sudden. It's no wonder Mr. President was startled.」"
   },
   {
     "name": "Riesling",
@@ -257,7 +257,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I could've sworn I was the one being targeted」"
+    "message": "「I could've sworn I was the one being targeted.」"
   },
   {
     "name": "Riesling",
@@ -269,7 +269,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It's quite alright, Gramps. Mr. President wouldn't do something like steal Tontoro.」"
+    "message": "「It's quite alright, Jiiya. Mr. President wouldn't do something like steal Tontoro.」"
   },
   {
     "name": "Synn",
@@ -297,15 +297,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「After all, we can't go shopping without this」"
+    "message": "「After all, we can't go shopping without this.」"
   },
   {
     "name": "Riesling",
-    "message": "「Shall we be off, then」"
+    "message": "「Shall we be off, then.」"
   },
   {
     "name": "Synn",
-    "message": "「Have a good ti~me」"
+    "message": "「Have a good ti~me.」"
   },
   {
     "name": "Lolotte",
@@ -325,11 +325,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It'll be much more fun that way, won't it? Right, Jeeves」"
+    "message": "「It'll be much more fun that way, won't it? Right, Jiiya.」"
   },
   {
     "name": "Riesling",
-    "message": "「It may increase our chances of surviving on the battlefield」"
+    "message": "「It may increase our chances of surviving on the battlefield.」"
   },
   {
     "name": "Synn",
@@ -337,7 +337,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Heehee. He's just embarrassed, I'm sure」"
+    "message": "「Heehee. He's just embarrassed, I'm sure.」"
   },
   {
     "name": "Riesling",
@@ -349,7 +349,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Yes!! Now then, let's get going right away」"
+    "message": "「Yes!! Now then, let's get going right away.」"
   },
   {
     "name": "Synn",
@@ -360,15 +360,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Come on! Don't fall behind, Jeeves」"
+    "message": "「Come on! Don't fall behind, Jiiya.」"
   },
   {
     "name": "Riesling",
-    "message": "「Understood, Milady」"
+    "message": "「Understood, Milady.」"
   },
   {
     "name": "Ria",
-    "message": "「Sorry to keep you waiting\\s04」"
+    "message": "「Sorry to keep you waiting.\\s04」"
   },
   {
     "name": "Lolotte",
@@ -406,11 +406,11 @@
   },
   {
     "name": "Riesling",
-    "message": "「No」"
+    "message": "「No.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Geez... Jeeves, are you still hung up on that?」"
+    "message": "「Geez... Jiiya, are you still hung up on that?」"
   },
   {
     "name": "Synn",
@@ -448,7 +448,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Even without saying all that, I was planning to share it half-and-half from the start. And yet Jeeves just... *nom, nom*」"
+    "message": "「Even without saying all that, I was planning to share it half-and-half from the start. And yet Jiiya just... *nom, nom*」"
   },
   {
     "name": "Synn",
@@ -479,7 +479,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「How is it, Jeeves?」"
+    "message": "「How is it, Jiiya?」"
   },
   {
     "name": "Riesling",
@@ -613,7 +613,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Alright, it's your turn next, Lolotte」"
+    "message": "「Alright, it's your turn next, Lolotte.」"
   },
   {
     "name": "Lolotte",
@@ -632,11 +632,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Next is your turn, Grandpa」"
+    "message": "「Next is your turn, Grandpa.」"
   },
   {
     "name": "Riesling",
-    "message": "「My apologies, but I cannot bring myself to shoot something harmless and defenseless」"
+    "message": "「My apologies, but I cannot bring myself to shoot something harmless and defenseless.」"
   },
   {
     "name": "Synn",
@@ -644,18 +644,18 @@
   },
   {
     "name": "Lolotte",
-    "message": "「In that case, please teach me how to do it properly」"
+    "message": "「In that case, please teach me how to do it properly.」"
   },
   {
     "name": "Riesling",
-    "message": "「Understood」"
+    "message": "「Understood.」"
   },
   {
     "message": "Riesling-san stepped behind Lolotte."
   },
   {
     "name": "Riesling",
-    "message": "「Please hold the sniper rifle like so to ready your stance. Then, align these sights with the target」"
+    "message": "「Please hold the sniper rifle like so to ready your stance. Then, align these sights with the target.」"
   },
   {
     "name": "Lolotte",
@@ -663,7 +663,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Tuck your elbows in to keep the axis steady when firing. Now, please pull the trigger」"
+    "message": "「Tuck your elbows in to keep the axis steady when firing. Now, please pull the trigger.」"
   },
   {
     "name": "Lolotte",
@@ -671,22 +671,22 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Oooo! I hit it----!」"
+    "message": "「Oooo! I hit it--!」"
   },
   {
     "message": "However, the target doesn't budge an inch."
   },
   {
     "name": "Riesling",
-    "message": "「Splendid work, Milady」"
+    "message": "「Splendid work, Milady.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Thank you. It's all thanks to you though, Grandpa\\s07」"
+    "message": "「Thank you. It's all thanks to you though, Grandpa.\\s07」"
   },
   {
     "name": "Synn",
-    "message": "「Still, it won't go down, huh... that Autonomous Round Mailbox Ex-Unlimited」"
+    "message": "「Still, it won't go down, huh... that Autonomous Round Mailbox Ex-Unlimited.」"
   },
   {
     "name": "Lolotte",
@@ -694,7 +694,7 @@
   },
   {
     "name": "Tame-san",
-    "message": "「Hahaha, it just means you oughta give up and aim for something else」"
+    "message": "「Hahaha, it just means you oughta give up and aim for something else.」"
   },
   {
     "name": "Lolotte",
@@ -702,15 +702,15 @@
   },
   {
     "name": "Riesling",
-    "message": "「Defeat does not suit you, My Lady. Come, let us try once more together」"
+    "message": "「Defeat does not suit you, My Lady. Come, let us try once more together.」"
   },
   {
     "name": "Lolotte",
-    "message": "「I believe in you, Jiiya」"
+    "message": "「I believe in you, Jiiya.」"
   },
   {
     "name": "Riesling",
-    "message": "「Please leave it to me, Riesling Tooyama」"
+    "message": "「Please leave it to me, Riesling Tooyama.」"
   },
   {
     "name": "Synn",
@@ -718,7 +718,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Now, My Lady」"
+    "message": "「Now, My Lady.」"
   },
   {
     "name": "Lolotte",
@@ -726,7 +726,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Let us fire in rapid succession without a moment's pause」"
+    "message": "「Let us fire in rapid succession without a moment's pause.」"
   },
   {
     "name": "Synn",
@@ -737,7 +737,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Let us sink it with one final strike」"
+    "message": "「Let us sink it with one final strike.」"
   },
   {
     "name": "Lolotte",
@@ -758,7 +758,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Mission complete」"
+    "message": "「Mission complete.」"
   },
   {
     "name": "Synn",
@@ -780,15 +780,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「That was impressive as always, Jiiya」"
+    "message": "「That was impressive as always, Jiiya.」"
   },
   {
     "name": "Riesling",
-    "message": "「...Thank you very much」"
+    "message": "「...Thank you very much.」"
   },
   {
     "name": "Synn",
-    "message": "「Nah, really. Thank you both so much」"
+    "message": "「Nah, really. Thank you both so much.」"
   },
   {
     "message": "I finally got my hands on the Autonomous Round Mailbox Ex-Unlimited I'd been dying for!"
@@ -802,23 +802,23 @@
   },
   {
     "name": "Riesling",
-    "message": "「Being treated to delicious food and even receiving such a wonderful gift... It truly is a splendid event, My Lady」"
+    "message": "「Being treated to delicious food and even receiving such a wonderful gift... It truly is a splendid event, My Lady.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Ufufu. If you think so, Jiiya, then it's a huge success\\s04」"
+    "message": "「Ufufu. If you think so, Jiiya, then it's a huge success.\\s04」"
   },
   {
     "name": "Synn",
-    "message": "「I see. I'm glad to hear that」"
+    "message": "「I see. I'm glad to hear that.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Being able to spend every day so happily like this is all thanks to you, President」"
+    "message": "「Being able to spend every day so happily like this is all thanks to you, President.」"
   },
   {
     "name": "Riesling",
-    "message": "「Milady is delighted as well. Allow me to offer my words of gratitude」"
+    "message": "「Milady is delighted as well. Allow me to offer my words of gratitude.」"
   },
   {
     "name": "Synn",
@@ -826,7 +826,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Coming to this academy and joining the Student Council... At first my heart pounded wondering how it'd go, but it's been one exciting thing after another, so I'm truly happy」"
+    "message": "「Coming to this academy and joining the Student Council... At first my heart pounded wondering how it'd go, but it's been one exciting thing after another, so I'm truly happy.」"
   },
   {
     "message": "Lolotte's eyes are sparkling."
@@ -844,7 +844,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I was just remembering a dear friend back in my hometown」"
+    "message": "「I was just remembering a dear friend back in my hometown.」"
   },
   {
     "name": "Synn",
@@ -891,7 +891,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I'm sorry. I went and ruined the wonderful mood we had」"
+    "message": "「I'm sorry. I went and ruined the wonderful mood we had.」"
   },
   {
     "name": "Synn",
@@ -931,7 +931,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「We even got tons of souvenirs, didn't we\\s04」"
+    "message": "「We even got tons of souvenirs, didn't we.\\s04」"
   },
   {
     "name": "Synn",
@@ -943,7 +943,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It's quite all right! You're our guest today, after all, Gramps!」"
+    "message": "「It's quite all right! You're our guest today, after all, Jiiya!」"
   },
   {
     "name": "Riesling",
@@ -954,7 +954,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Man~~ I'm totally satisfied. This is what a sparkling school life is supposed to be like after all」"
+    "message": "「Man~~ I'm totally satisfied. This is what a sparkling school life is supposed to be like after all.」"
   },
   {
     "name": "Riesling",
@@ -972,14 +972,14 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh my」"
+    "message": "「Oh my.」"
   },
   {
     "message": "Using Riesling's lap as a pillow, she was breathing softly in a sound sleep."
   },
   {
     "name": "Synn",
-    "message": "「After running around that much, I guess it's only natural」"
+    "message": "「After running around that much, I guess it's only natural.」"
   },
   {
     "name": "Riesling",
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Both the Master and Mistress are well. However, both are busy with the family business, so looking after her has been left almost entirely to myself, Riesling Tooyama」"
+    "message": "「Both the Master and Mistress are well. However, both are busy with the family business, so looking after her has been left almost entirely to myself, Riesling Tooyama.」"
   },
   {
     "name": "Synn",
@@ -1014,7 +1014,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I just hope we're not ending up teaching her anything weird\\s01」"
+    "message": "「I just hope we're not ending up teaching her anything weird.\\s01」"
   },
   {
     "name": "Riesling",

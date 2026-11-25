@@ -112,7 +112,7 @@
   },
   {
     "name": "Synn",
-    "message": "「? Why are you thanking me, Ms. Melilot?」"
+    "message": "「? Why are you thanking me, Melilot-san?」"
   },
   {
     "name": "Melilot",
@@ -123,10 +123,10 @@
     "message": "「U-Uh-huh...」"
   },
   {
-    "message": "At Ms. Melilot's vague reply, I give an even more noncommittal, half-hearted response."
+    "message": "At Melilot-san's vague reply, I give an even more noncommittal, half-hearted response."
   },
   {
-    "message": "Usually, Ms. Melilot delivers her points concisely and with pinpoint precision--so what's gotten into her today?"
+    "message": "Usually, Melilot-san delivers her points concisely and with pinpoint precision--so what's gotten into her today?"
   },
   {
     "name": "Melilot",
@@ -140,7 +140,7 @@
     "message": "Giving a polite nod at the familiar spiel, I exit the library."
   },
   {
-    "message": "I'm a little worried about Ms. Melilot, too, but I've got a mountain of other pressing problems that need to take priority."
+    "message": "I'm a little worried about Melilot-san, too, but I've got a mountain of other pressing problems that need to take priority."
   },
   {
     "message": "The Student Council. The Crusaders. Me being the Demon Lord. The Holy Night Festival. And Azel, who still hasn't warmed up to everyone yet."
@@ -202,15 +202,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Azel, wait」"
+    "message": "「Azel, wait.」"
   },
   {
     "name": "Melilot",
-    "message": "「He went inside Finis Tower, didn't he. Entry is prohibited by school regulations--how troublesome.」"
+    "message": "「She went inside Finis Tower, didn't she. Entry is prohibited by school regulations--how troublesome.」"
   },
   {
     "name": "Synn",
-    "message": "「Could Azel be confused by all this just like us? I'll go call him back!」"
+    "message": "「Could Azel be confused by all this just like us? I'll go call her back!」"
   },
   {
     "name": "Melilot",
@@ -222,7 +222,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「...Understood. Then let the two of us go after him.」"
+    "message": "「...Understood. Then let the two of us go after her.」"
   },
   {
     "message": "..."
@@ -329,7 +329,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Aaah!! N-No, any further than that... I-I won't forgive you, ah, nn. Nnaah」"
+    "message": "「Aaah!! N-No, any further than that... I-I won't forgive you, ah, nn. Nnaah.」"
   },
   {
     "name": "Synn",

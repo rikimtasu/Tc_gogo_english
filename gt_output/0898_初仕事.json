@@ -50,15 +50,15 @@
   },
   {
     "name": "Tennouji-san",
-    "message": "「Oh, Prez」"
+    "message": "「Oh, Prez.」"
   },
   {
     "name": "Synn",
-    "message": "「Morning, Tennouji-san」"
+    "message": "「Morning, Tennouji-san.」"
   },
   {
     "name": "Tennouji-san",
-    "message": "「Sorry for making you cover for Melilot-san」"
+    "message": "「Sorry for making you cover for Melilot-san.」"
   },
   {
     "name": "Synn",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Glad to hear it」"
+    "message": "「Glad to hear it.」"
   },
   {
     "name": "Tennouji-san",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hey there, Shio-chan」"
+    "message": "「Hey there, Shio-chan.」"
   },
   {
     "name": "Shio",
@@ -125,7 +125,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Found you」"
+    "message": "「Found you.」"
   },
   {
     "name": "Shio",
@@ -137,11 +137,11 @@
   },
   {
     "name": "Misa",
-    "message": "「He said he was worried about the next test, so I was helping Shio with his studies」"
+    "message": "「She said she was worried about the next test, so I was helping Shio with her studies.」"
   },
   {
     "name": "Misa",
-    "message": "「And yet, he went and slipped away right in the middle of it」"
+    "message": "「And yet, she went and slipped away right in the middle of it.」"
   },
   {
     "name": "Shio",
@@ -149,7 +149,7 @@
   },
   {
     "name": "Misa",
-    "message": "「If you really feel that way, then just behave and study」"
+    "message": "「If you really feel that way, then just behave and study.」"
   },
   {
     "name": "Shio",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Synn",
-    "message": "「It'll be fine. If you study here, I think you'll be more efficient, too」"
+    "message": "「It'll be fine. If you study here, I think you'll be more efficient, too.」"
   },
   {
     "name": "Shio",
@@ -165,38 +165,38 @@
   },
   {
     "name": "Synn",
-    "message": "「Come on, just trust me and give it a try」"
+    "message": "「Come on, just trust me and give it a try.」"
   },
   {
     "message": "Even just getting into that mindset makes a world of difference."
   },
   {
     "name": "Misa",
-    "message": "「...I hear you're acting as Miss Melilot's proxy, Sakura-kun」"
+    "message": "「...I hear you're acting as Melilot-san's proxy, Sakura-kun.」"
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Misa",
-    "message": "「Hmm... well, don't push yourself too hard」"
+    "message": "「Hmm... well, don't push yourself too hard.」"
   },
   {
     "name": "Synn",
-    "message": "「I won't」"
+    "message": "「I won't.」"
   },
   {
     "name": "Misa",
-    "message": "「...Hmph」"
+    "message": "「...Hmph.」"
   },
   {
     "name": "Misa",
-    "message": "「Come along, Shio」"
+    "message": "「Come along, Shio.」"
   },
   {
     "name": "Shio",
-    "message": "「Understood. Well then, Lord Synn, please excuse me」"
+    "message": "「Understood. Well then, Synn-dono, please excuse me.」"
   },
   {
     "name": "Ria",
@@ -208,19 +208,19 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh, hello. Doing so-so, I suppose」"
+    "message": "「Oh, hello. Doing so-so, I suppose.」"
   },
   {
     "name": "Misasagi",
-    "message": "「Why, that is splendid to hear」"
+    "message": "「Why, that is splendid to hear.」"
   },
   {
     "name": "Ria",
-    "message": "「Let me know if you run into any trouble. I'll help you out」"
+    "message": "「Let me know if you run into any trouble. I'll help you out.」"
   },
   {
     "name": "Synn",
-    "message": "「Thank you very much」"
+    "message": "「Thank you very much.」"
   },
   {
     "name": "Synn",
@@ -228,7 +228,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Yeah. For our Wagashi Club activities」"
+    "message": "「Yeah. For our Wagashi Club activities.」"
   },
   {
     "name": "Misasagi",
@@ -236,22 +236,22 @@
   },
   {
     "name": "Synn",
-    "message": "「If that's what you need, they're all gathered in that section over there」"
+    "message": "「If that's what you need, they're all gathered in that section over there.」"
   },
   {
     "name": "Misasagi",
-    "message": "「Is that so. You have been a tremendous help, President」"
+    "message": "「Is that so. You have been a tremendous help, President.」"
   },
   {
     "name": "Synn",
-    "message": "「Not at all」"
+    "message": "「Not at all.」"
   },
   {
     "message": "It's all thanks to Melilot-san teaching me how the books are arranged."
   },
   {
     "name": "Ria",
-    "message": "「Well then, keep up the good work」"
+    "message": "「Well then, keep up the good work.」"
   },
   {
     "name": "Lolotte",
@@ -263,15 +263,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Lolotte... Please keep quiet inside the library」"
+    "message": "「Lolotte... Please keep quiet inside the library.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Oops, how careless of me」"
+    "message": "「Oops, how careless of me.」"
   },
   {
     "name": "Lolotte",
-    "message": "「I suppose even monkeys get distracted, as they say」"
+    "message": "「I suppose even monkeys get distracted, as they say.」"
   },
   {
     "name": "Synn",
@@ -279,11 +279,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Oh, right! Let me introduce her」"
+    "message": "「Oh, right! Let me introduce her.」"
   },
   {
     "name": "Lolotte",
-    "message": "「This is my childhood friend and bestie, Amyrina」"
+    "message": "「This is my childhood friend and bestie, Amyrina.」"
   },
   {
     "name": "Amyrina",
@@ -291,11 +291,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I'm the Student Council President, Synn Sakura. Well, I'm just filling in as librarian today, though--nice to meet you」"
+    "message": "「I'm the Student Council President, Synn Sakura. Well, I'm just filling in as librarian today, though--nice to meet you.」"
   },
   {
     "name": "Amyrina",
-    "message": "「Y-Yes! Pleased to meet you」"
+    "message": "「Y-Yes! Pleased to meet you.」"
   },
   {
     "name": "Synn",
@@ -303,11 +303,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Since Amyrina isn't used to things here yet, I've been showing her around town」"
+    "message": "「Since Amyrina isn't used to things here yet, I've been showing her around town.」"
   },
   {
     "name": "Synn",
-    "message": "「I see」"
+    "message": "「I see.」"
   },
   {
     "name": "Lolotte",
@@ -330,31 +330,31 @@
   },
   {
     "name": "Synn",
-    "message": "「Hello. Didn't know you read too, Azel」"
+    "message": "「Hello. Didn't know you read too, Azel.」"
   },
   {
     "name": "Azel",
-    "message": "「...You're noisy」"
+    "message": "「...You're noisy.」"
   },
   {
     "name": "Synn",
-    "message": "「Huh? Oh, you were looking for a quiet place, huh」"
+    "message": "「Huh? Oh, you were looking for a quiet place, huh.」"
   },
   {
     "name": "Azel",
-    "message": "「That's right」"
+    "message": "「That's right.」"
   },
   {
     "name": "Azel",
-    "message": "「However, my expectations were misplaced」"
+    "message": "「However, my expectations were misplaced.」"
   },
   {
     "name": "Synn",
-    "message": "「Why? I think it's pretty quiet here, though」"
+    "message": "「Why? I think it's pretty quiet here, though.」"
   },
   {
     "name": "Azel",
-    "message": "「You're here」"
+    "message": "「You're here.」"
   },
   {
     "name": "Synn",
@@ -362,18 +362,18 @@
   },
   {
     "name": "Azel",
-    "message": "「...You're noisy」"
+    "message": "「...You're noisy.」"
   },
   {
     "name": "Synn",
-    "message": "「Aah, he left...」"
+    "message": "「Aah, she left...」"
   },
   {
     "message": "I wonder how Melilot-san would handle a situation like this."
   },
   {
     "name": "Nanaka",
-    "message": "「Oh, hard at work, I see」"
+    "message": "「Oh, hard at work, I see.」"
   },
   {
     "name": "Sacchin",
@@ -381,7 +381,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Somehow, I'm running into everyone a lot today」"
+    "message": "「Somehow, I'm running into everyone a lot today.」"
   },
   {
     "name": "Nanaka",
@@ -389,7 +389,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Nothing, just talking to myself」"
+    "message": "「Nothing, just talking to myself.」"
   },
   {
     "name": "Sacchin",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Well, it's questionable whether this even counts as doing a good job」"
+    "message": "「Well, it's questionable whether this even counts as doing a good job.」"
   },
   {
     "name": "Nanaka",
@@ -417,11 +417,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm, I'm actually pretty fine with it」"
+    "message": "「Hmm, I'm actually pretty fine with it.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Oh, really. Well, I'm truly envious」"
+    "message": "「Oh, really. Well, I'm truly envious.」"
   },
   {
     "name": "Synn",
@@ -460,27 +460,27 @@
   },
   {
     "name": "Melphas",
-    "message": "「Pardon the intrusion」"
+    "message": "「Pardon the intrusion.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh, if I recall, you're Melphas-san」"
+    "message": "「Oh, if I recall, you're Melphas-san.」"
   },
   {
     "name": "Melphas",
-    "message": "「I am honored that you remember me, my lord President」"
+    "message": "「I am honored that you remember me, my lord President.」"
   },
   {
     "name": "Synn",
-    "message": "「Not at all」"
+    "message": "「Not at all.」"
   },
   {
     "name": "Melphas",
-    "message": "「However, thank you very much for introducing me to Lady Reiko the other day」"
+    "message": "「However, thank you very much for introducing me to Lady Reiko the other day.」"
   },
   {
     "name": "Melphas",
-    "message": "「Thanks to you, I was able to indulge in a sweet conversation with a wonderful madame」"
+    "message": "「Thanks to you, I was able to indulge in a sweet conversation with a wonderful madame.」"
   },
   {
     "name": "Synn",
@@ -503,7 +503,7 @@
   },
   {
     "name": "Melphas",
-    "message": "「I have heard that in this library, a most lovely librarian loses herself in thought while admiring the books」"
+    "message": "「I have heard that in this library, a most lovely librarian loses herself in thought while admiring the books.」"
   },
   {
     "name": "Synn",
@@ -523,7 +523,7 @@
   },
   {
     "name": "Synn",
-    "message": "「She's off today, though」"
+    "message": "「She's off today, though.」"
   },
   {
     "name": "Melphas",
@@ -539,49 +539,49 @@
   },
   {
     "name": "Melphas",
-    "message": "「Ah, yes, please pay it no mind」"
+    "message": "「Ah, yes, please pay it no mind.」"
   },
   {
     "name": "Melphas",
-    "message": "「Regrettably, it seems today was simply not an auspicious day」"
+    "message": "「Regrettably, it seems today was simply not an auspicious day.」"
   },
   {
     "name": "Melphas",
-    "message": "「I shall call again at a later date, so for the time being, please give these to Lady Melilot」"
+    "message": "「I shall call again at a later date, so for the time being, please give these to Lady Melilot.」"
   },
   {
     "message": "I receive a magnificent bouquet of roses."
   },
   {
     "name": "Melphas",
-    "message": "「Farewell」"
+    "message": "「Farewell.」"
   },
   {
     "name": "Synn",
-    "message": "「...Better put them in a vase」"
+    "message": "「...Better put them in a vase.」"
   },
   {
     "message": "I wonder if there's a vase around...?"
   },
   {
     "name": "Synn",
-    "message": "「Alright, that should do it」"
+    "message": "「Alright, that should do it.」"
   },
   {
     "name": "Helena",
-    "message": "「Oh, Synn-chan, aren't those lovely roses」"
+    "message": "「Oh, Synn-chan, aren't those lovely roses.」"
   },
   {
     "name": "Synn",
-    "message": "「Ah, Helena-san」"
+    "message": "「Ah, Helena-san.」"
   },
   {
     "name": "Helena",
-    "message": "「Being acting librarian seems to be going smoothly」"
+    "message": "「Being acting librarian seems to be going smoothly.」"
   },
   {
     "name": "Riesling",
-    "message": "「Thank you for your hard work, Synn-sama. Please have some cheddar cheese chocolate as a refreshment」"
+    "message": "「Thank you for your hard work, Synn-sama. Please have some cheddar cheese chocolate as a refreshment.」"
   },
   {
     "name": "Synn",
@@ -589,15 +589,15 @@
   },
   {
     "name": "Riesling",
-    "message": "「I was granted a day off by my lady today」"
+    "message": "「I was granted a day off by my lady today.」"
   },
   {
     "name": "Riesling",
-    "message": "「In exchange, I am currently keeping an eye on Helena」"
+    "message": "「In exchange, I am currently keeping an eye on Helena.」"
   },
   {
     "name": "Helena",
-    "message": "「Geez, you make it sound like I'll cause trouble if left alone」"
+    "message": "「Geez, you make it sound like I'll cause trouble if left alone.」"
   },
   {
     "name": "Synn",
@@ -621,7 +621,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「And given that you were the one receiving it, Lord Synn, worrying unnecessarily would be quite tactless.」"
+    "message": "「And given that you were the one receiving it, Synn-sama, worrying unnecessarily would be quite tactless.」"
   },
   {
     "name": "Synn",
@@ -710,7 +710,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Back in the day, Tamiko-chan was a top-notch hitman sent by the organization to take me out」"
+    "message": "「Back in the day, Tamiko-chan was a top-notch hitman sent by the organization to take me out.」"
   },
   {
     "name": "Synn",
@@ -721,7 +721,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Before we knew it, though, a friendship had blossomed between us as we communicated with our fists」"
+    "message": "「Before we knew it, though, a friendship had blossomed between us as we communicated with our fists.」"
   },
   {
     "name": "Riesling",
@@ -772,15 +772,15 @@
   },
   {
     "name": "Helena",
-    "message": "「Phew, that was a pretty good match」"
+    "message": "「Phew, that was a pretty good match.」"
   },
   {
     "name": "Riesling",
-    "message": "「Hmph, likewise」"
+    "message": "「Hmph, likewise.」"
   },
   {
     "name": "Helena",
-    "message": "「Ufufu. Come on, a handshake of friendship」"
+    "message": "「Ufufu. Come on, a handshake of friendship.」"
   },
   {
     "name": "Synn",
@@ -791,7 +791,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Ever since then, I have been deeply indebted to Helena and Melilot」"
+    "message": "「Ever since then, I have been deeply indebted to Helena and Melilot.」"
   },
   {
     "name": "Helena",
@@ -799,7 +799,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「As a measure to secure backing after leaving the organization, it was the best possible choice」"
+    "message": "「As a measure to secure backing after leaving the organization, it was the best possible choice.」"
   },
   {
     "name": "Riesling",
@@ -807,11 +807,11 @@
   },
   {
     "name": "Helena",
-    "message": "「And ever since we came back here, Melilot has become a fine librarian, too」"
+    "message": "「And ever since we came back here, Melilot has become a fine librarian, too.」"
   },
   {
     "name": "Riesling",
-    "message": "「That was an incident that truly symbolized our relationship」"
+    "message": "「That was an incident that truly symbolized our relationship.」"
   },
   {
     "name": "Synn",
@@ -825,11 +825,11 @@
   },
   {
     "name": "Helena",
-    "message": "「Phew」"
+    "message": "「Phew.」"
   },
   {
     "name": "Helena",
-    "message": "「My, we ended up getting completely carried away talking, didn't we」"
+    "message": "「My, we ended up getting completely carried away talking, didn't we.」"
   },
   {
     "name": "Riesling",
@@ -837,15 +837,15 @@
   },
   {
     "name": "Helena",
-    "message": "「Sorry about that, Synn-chan. Seems like we got in your way」"
+    "message": "「Sorry about that, Synn-chan. Seems like we got in your way.」"
   },
   {
     "name": "Synn",
-    "message": "「No, not at all, the pleasure was mine」"
+    "message": "「No, not at all, the pleasure was mine.」"
   },
   {
     "name": "Synn",
-    "message": "「I got to hear stories I don't normally get to hear, so it was fun」"
+    "message": "「I got to hear stories I don't normally get to hear, so it was fun.」"
   },
   {
     "name": "Helena",
@@ -857,11 +857,11 @@
   },
   {
     "name": "Riesling",
-    "message": "「This humble servant does not possess any personal information worth keeping secret, however」"
+    "message": "「This humble servant does not possess any personal information worth keeping secret, however.」"
   },
   {
     "name": "Helena",
-    "message": "「Whoa♪ Laying it all bare, are we\\s04」"
+    "message": "「Whoa♪ Laying it all bare, are we.\\s04」"
   },
   {
     "name": "Synn",
@@ -873,19 +873,19 @@
   },
   {
     "name": "Helena",
-    "message": "「Oh, if it isn't Melilot」"
+    "message": "「Oh, if it isn't Melilot.」"
   },
   {
     "name": "Riesling",
-    "message": "「Welcome back」"
+    "message": "「Welcome back.」"
   },
   {
     "name": "Melilot",
-    "message": "「...Good grief」"
+    "message": "「...Good grief.」"
   },
   {
     "name": "Melilot",
-    "message": "「Teaming up to tease Sakura-kun like that is quite immature of you both」"
+    "message": "「Teaming up to tease Sakura-kun like that is quite immature of you both.」"
   },
   {
     "name": "Helena",
@@ -893,7 +893,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Just because your favorite Synn-chan got stolen away doesn't mean you have to get all worked up」"
+    "message": "「Just because your favorite Synn-chan got stolen away doesn't mean you have to get all worked up.」"
   },
   {
     "name": "Melilot",
@@ -901,11 +901,11 @@
   },
   {
     "name": "Riesling",
-    "message": "「My apologies. It is nearly time for me to go pick up the young lady」"
+    "message": "「My apologies. It is nearly time for me to go pick up the young lady.」"
   },
   {
     "name": "Helena",
-    "message": "「Right, I still have work left to do too\\s07」"
+    "message": "「Right, I still have work left to do too.\\s07」"
   },
   {
     "name": "Melilot",
@@ -935,7 +935,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Ah, excuse me」"
+    "message": "「Ah, excuse me.」"
   },
   {
     "name": "Melilot",
@@ -943,11 +943,11 @@
   },
   {
     "name": "Synn",
-    "message": "「No, it was fulfilling」"
+    "message": "「No, it was fulfilling.」"
   },
   {
     "name": "Synn",
-    "message": "「I even got to see things I wouldn't normally get to see」"
+    "message": "「I even got to see things I wouldn't normally get to see.」"
   },
   {
     "name": "Melilot",
@@ -955,11 +955,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「Well, if you say so, Sakura-kun, then I suppose it's fine」"
+    "message": "「Well, if you say so, Sakura-kun, then I suppose it's fine.」"
   },
   {
     "name": "Melilot",
-    "message": "「Now then, I have business at the archive storage from here」"
+    "message": "「Now then, I have business at the archive storage from here.」"
   },
   {
     "name": "Synn",
@@ -967,15 +967,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「Yes」"
+    "message": "「Yes.」"
   },
   {
     "name": "Melilot",
-    "message": "「Borrowing this was my errand for today」"
+    "message": "「Borrowing this was my errand for today.」"
   },
   {
     "name": "Synn",
-    "message": "「I'll help you」"
+    "message": "「I'll help you.」"
   },
   {
     "name": "Melilot",
@@ -987,19 +987,19 @@
   },
   {
     "name": "Melilot",
-    "message": "「It helps that you're quick on the uptake」"
+    "message": "「It helps that you're quick on the uptake.」"
   },
   {
     "name": "Synn",
-    "message": "「...Understood」"
+    "message": "「...Understood.」"
   },
   {
     "name": "Synn",
-    "message": "「Well then, I'll leave the rest to you」"
+    "message": "「Well then, I'll leave the rest to you.」"
   },
   {
     "name": "Melilot",
-    "message": "「Yes. Truly, thank you for your hard work today」"
+    "message": "「Yes. Truly, thank you for your hard work today.」"
   },
   {
     "name": "Melilot",
@@ -1007,11 +1007,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「Thanks to you, Sakura-kun, you were a tremendous help」"
+    "message": "「Thanks to you, Sakura-kun, you were a tremendous help.」"
   },
   {
     "name": "Synn",
-    "message": "「That's only because you're such a good teacher, Miss Melilot」"
+    "message": "「That's only because you're such a good teacher, Melilot-san.」"
   },
   {
     "name": "Melilot",
@@ -1019,7 +1019,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「You're quite skilled yourself, Sakura」"
+    "message": "「You're quite skilled yourself, Sakura.」"
   },
   {
     "name": "Synn",
@@ -1031,10 +1031,10 @@
   },
   {
     "name": "Melilot",
-    "message": "「Yes. Goodbye」"
+    "message": "「Yes. Goodbye.」"
   },
   {
-    "message": "My heart leaps at the thought that I've earned another bit of Miss Melilot's trust."
+    "message": "My heart leaps at the thought that I've earned another bit of Melilot-san's trust."
   },
   {
     "message": "When did I start feeling like this?"
@@ -1044,9 +1044,9 @@
     "message": "「Huh, come to think of it...」"
   },
   {
-    "message": "I heard all sorts of stories about the past from Miss Helena and the others, yet..."
+    "message": "I heard all sorts of stories about the past from Helena-san and the others, yet..."
   },
   {
-    "message": "When it comes to Miss Melilot, the one I want to know about the most, I still don't know a single thing..."
+    "message": "When it comes to Melilot-san, the one I want to know about the most, I still don't know a single thing..."
   }
 ]

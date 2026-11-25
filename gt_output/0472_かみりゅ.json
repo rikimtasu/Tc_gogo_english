@@ -76,7 +76,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Oh, if it isn't Lord Synn and Lady Azel. Welcome to our shrine.」"
+    "message": "「Oh, if it isn't Synn-dono and Azel-dono. Welcome to our shrine.」"
   },
   {
     "name": "Azel",
@@ -108,7 +108,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Hmm... Lord Azel, is this earth upon which I stand round?」"
+    "message": "「Hmm... Azel-dono, is this earth upon which I stand round?」"
   },
   {
     "name": "Azel",
@@ -124,7 +124,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Then I am in the exact same position as you, Lord Azel.」"
+    "message": "「Then I am in the exact same position as you, Azel-dono.」"
   },
   {
     "name": "Synn",
@@ -200,15 +200,15 @@
   },
   {
     "name": "Azel",
-    "message": "「I looked through a botanical encyclopedia at the library. I can understand the trees here. If it were me, I would plant oak, chinquapin, and konara oak. That will become a forest」"
+    "message": "「I looked through a botanical encyclopedia at the library. I can understand the trees here. If it were me, I would plant oak, chinquapin, and konara oak. That will become a forest.」"
   },
   {
     "name": "Shio",
-    "message": "「That is not enough」"
+    "message": "「That is not enough.」"
   },
   {
     "name": "Synn",
-    "message": "「A-Azel, no good」"
+    "message": "「A-Azel, no good.」"
   },
   {
     "name": "Azel",
@@ -216,42 +216,42 @@
   },
   {
     "name": "Synn",
-    "message": "「I mean, Ryuusei Town gets hit directly by the sea breeze, right? Even more so since Asukai Shrine is on a hill, so it's basically taking the brunt of it」"
+    "message": "「I mean, Ryuusei Town gets hit directly by the sea breeze, right? Even more so since Asukai Shrine is on a hill, so it's basically taking the brunt of it.」"
   },
   {
     "name": "Synn",
-    "message": "「Without trees like machilus, Japanese fig, or privet to act as a windbreak, the forest will wither away, I'm telling you」"
+    "message": "「Without trees like machilus, Japanese fig, or privet to act as a windbreak, the forest will wither away, I'm telling you.」"
   },
   {
     "name": "Shio",
-    "message": "「Indeed」"
+    "message": "「Indeed.」"
   },
   {
     "name": "Azel",
-    "message": "「Is my way no good? Yet the priestess said it was simple」"
+    "message": "「Is my way no good? Yet the priestess said it was simple.」"
   },
   {
     "name": "Shio",
-    "message": "「Indeed」"
+    "message": "「Indeed.」"
   },
   {
     "name": "Synn",
-    "message": "「Shio-chan doesn't lie. It's just that you aren't a simple person, Azel」"
+    "message": "「Shio-chan doesn't lie. It's just that you aren't a simple person, Azel.」"
   },
   {
     "name": "Azel",
-    "message": "「I see. I understand」"
+    "message": "「I see. I understand.」"
   },
   {
     "message": "R-Really?"
   },
   {
     "name": "Azel",
-    "message": "「I am glad I came here. I shall ponder in order to understand」"
+    "message": "「I am glad I came here. I shall ponder in order to understand.」"
   },
   {
     "name": "Shio",
-    "message": "「It was a fine visit」"
+    "message": "「It was a fine visit.」"
   },
   {
     "message": "True to her word, Azel heads down the main approach with a deeply pensive look on her face. The atmosphere makes it impossible to call out to her."
@@ -261,19 +261,19 @@
   },
   {
     "name": "Shio",
-    "message": "「Lady Azel possesses quite a mysterious aura, does she not?」"
+    "message": "「Azel-dono possesses quite a mysterious aura, does she not?」"
   },
   {
     "name": "Synn",
-    "message": "「I don't have the power to sense that. Though I can tell that both you and Azel are amazing」"
+    "message": "「I don't have the power to sense that. Though I can tell that both you and Azel are amazing.」"
   },
   {
     "name": "Synn",
-    "message": "「You two were having a really difficult back-and-forth that I couldn't wrap my head around at all」"
+    "message": "「You two were having a really difficult back-and-forth that I couldn't wrap my head around at all.」"
   },
   {
     "name": "Shio",
-    "message": "「Truth be told, this humble one did not understand a single bit of it either」"
+    "message": "「Truth be told, this humble one did not understand a single bit of it either.」"
   },
   {
     "name": "Synn",
@@ -281,27 +281,27 @@
   },
   {
     "name": "Shio",
-    "message": "「Everything I said during that exchange with Azel-dono was merely parroting my mother. Goodness, had she pressed me any further, I would have been at a loss for words」"
+    "message": "「Everything I said during that exchange with Azel-dono was merely parroting my mother. Goodness, had she pressed me any further, I would have been at a loss for words.」"
   },
   {
     "name": "Shio",
-    "message": "「However, the part about the trees that Lord Synn mentioned at the end... that much, I understood myself」"
+    "message": "「However, the part about the trees that Synn-dono mentioned at the end... that much, I understood myself.」"
   },
   {
     "name": "Shio",
-    "message": "「Nay, anyone who lives in this town would know as much」"
+    "message": "「Nay, anyone who lives in this town would know as much.」"
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Synn",
-    "message": "「Azel is a transfer student. By Christmas, he'll be much more settled into Ryuusei Town」"
+    "message": "「Azel is a transfer student. By Christmas, she'll be much more settled into Ryuusei Town.」"
   },
   {
     "name": "Shio",
-    "message": "「In that case, I shall listen to even more stories from Mother in preparation for Hatsumode」"
+    "message": "「In that case, I shall listen to even more stories from Mother in preparation for Hatsumode.」"
   },
   {
     "message": "A few minutes after Azel, I leave the shrine as well."

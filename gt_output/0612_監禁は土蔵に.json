@@ -56,7 +56,7 @@
   },
   {
     "name": "Synn",
-    "message": "「...Good for you」"
+    "message": "「...Good for you.」"
   },
   {
     "name": "Eddie",
@@ -218,14 +218,14 @@
   },
   {
     "name": "Nanaka",
-    "message": "「W-what are you doing, Bubuzuke!? H-hey, hold on」"
+    "message": "「W-what are you doing, Bubuzuke!? H-hey, hold on.」"
   },
   {
     "message": "Misasagi-senpai grabbed Nanaka's hand and headed out into the hallway."
   },
   {
     "name": "Synn",
-    "message": "「...What's going on here」"
+    "message": "「...What's going on here.」"
   },
   {
     "name": "Sacchin",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Jeez, I told you it's fine」"
+    "message": "「Jeez, I told you it's fine.」"
   },
   {
     "name": "Synn",
@@ -245,7 +245,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Nothing」"
+    "message": "「Nothing.」"
   },
   {
     "name": "Synn",
@@ -257,6 +257,6 @@
   },
   {
     "name": "Synn",
-    "message": "「I wasn't worried about that」"
+    "message": "「I wasn't worried about that.」"
   }
 ]

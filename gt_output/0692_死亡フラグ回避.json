@@ -96,7 +96,7 @@
   },
   {
     "name": "Misa",
-    "message": "「As expected of my rival」"
+    "message": "「As expected of my rival.」"
   },
   {
     "name": "Sally",
@@ -293,7 +293,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Anyway. We can't just sit around spacing out like this. Alright」"
+    "message": "「Anyway. We can't just sit around spacing out like this. Alright.」"
   },
   {
     "name": "Helena",
@@ -309,7 +309,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Well, that's a liiittle off, though there's no doubt they're someone we can count on」"
+    "message": "「Well, that's a liiittle off, though there's no doubt they're someone we can count on.」"
   },
   {
     "name": "Helena",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Misa",
-    "message": "「A helper... huh. Who could possibly show up at this late stage, I wonder」"
+    "message": "「A helper... huh. Who could possibly show up at this late stage, I wonder.」"
   },
   {
     "name": "Lolotte",
@@ -373,11 +373,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Enemies on a completely different level from the demons we've fought up until now have appeared」"
+    "message": "「Enemies on a completely different level from the demons we've fought up until now have appeared.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Which means if we don't figure out a way to beat them, we're the ones who'll get wiped out」"
+    "message": "「Which means if we don't figure out a way to beat them, we're the ones who'll get wiped out.」"
   },
   {
     "name": "Lolotte",
@@ -393,7 +393,7 @@
   },
   {
     "name": "Synn",
-    "message": "「It'll be fine. As long as everyone's together」"
+    "message": "「It'll be fine. As long as everyone's together.」"
   },
   {
     "name": "Synn",
@@ -431,6 +431,6 @@
   },
   {
     "name": "Synn",
-    "message": "「I-I get it already\\s02」"
+    "message": "「I-I get it already.\\s02」"
   }
 ]

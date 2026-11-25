@@ -39,7 +39,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Hii, Synn-chan\\s04」"
+    "message": "「Hii, Synn-chan.\\s04」"
   },
   {
     "message": "In stark contrast to Helena's cheerful greeting, the sleek-furred creature resting in Melilot's hands doesn't twitch a muscle."
@@ -209,7 +209,7 @@
   },
   {
     "name": "Helena",
-    "message": "「That's not how it goes, Melilot. People with warm hands have even warmer hearts」"
+    "message": "「That's not how it goes, Melilot. People with warm hands have even warmer hearts.」"
   },
   {
     "name": "Melilot",
@@ -217,11 +217,11 @@
   },
   {
     "name": "Helena",
-    "message": "「Well, to tell you the truth, it was just too much trouble to go return it to the biology lab」"
+    "message": "「Well, to tell you the truth, it was just too much trouble to go return it to the biology lab.」"
   },
   {
     "name": "Melilot",
-    "message": "「Huh」"
+    "message": "「Huh.」"
   },
   {
     "name": "Helena",

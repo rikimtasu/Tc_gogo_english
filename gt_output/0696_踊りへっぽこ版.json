@@ -63,11 +63,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Y-Yeah, good idea!\\s01 Well, I'll go ask her」"
+    "message": "「Y-Yeah, good idea!\\s01 Well, I'll go ask her.」"
   },
   {
     "name": "Sacchin",
-    "message": "「Have a nice triiiip\\s07」"
+    "message": "「Have a nice triiiip.\\s07」"
   },
   {
     "message": "I wonder where Misasagi-senpai is?"
@@ -82,7 +82,7 @@
   },
   {
     "name": "Ria",
-    "message": "「What's up? Coming all the way to my classroom\\s04」"
+    "message": "「What's up? Coming all the way to my classroom.\\s04」"
   },
   {
     "name": "Synn",
@@ -94,26 +94,26 @@
   },
   {
     "name": "Synn",
-    "message": "「Y-Yes. I have some business with Misasagi-senpai」"
+    "message": "「Y-Yes. I have some business with Misasagi-senpai.」"
   },
   {
     "name": "Ria",
-    "message": "「O-Oh, I see. Hold on just a second, okay\\s02」"
+    "message": "「O-Oh, I see. Hold on just a second, okay.\\s02」"
   },
   {
     "message": "Sigh... Is there really nothing I can do about how my heart starts pounding every time I look at Ria-senpai?"
   },
   {
     "name": "Misasagi",
-    "message": "「I'm Akane Misasagi」"
+    "message": "「I'm Akane Misasagi.」"
   },
   {
     "name": "Synn",
-    "message": "「No, I already know that\\s02」"
+    "message": "「No, I already know that.\\s02」"
   },
   {
     "name": "Misasagi",
-    "message": "「Hehe... President, Rii-a's over there sulking, you know」"
+    "message": "「Hehe... President, Rii-a's over there sulking, you know.」"
   },
   {
     "name": "Synn",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yes. Earlier, about the Holy Night Festival dance party... I wanted to ask what kind of vibe you were hoping for」"
+    "message": "「Yes. Earlier, about the Holy Night Festival dance party... I wanted to ask what kind of vibe you were hoping for.」"
   },
   {
     "name": "Misasagi",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Nothing quite so stiff and formal. Havin' everyone dance casually and enjoy themselves is what's best」"
+    "message": "「Nothing quite so stiff and formal. Havin' everyone dance casually and enjoy themselves is what's best.」"
   },
   {
     "name": "Misasagi",
@@ -159,7 +159,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I see. If everyone learns a few simple steps in advance, we'll all be able to have fun on the day of」"
+    "message": "「I see. If everyone learns a few simple steps in advance, we'll all be able to have fun on the day of.」"
   },
   {
     "name": "Misasagi",
@@ -167,7 +167,7 @@
   },
   {
     "name": "Synn",
-    "message": "「No, I'm embarrassed to admit it, but I can't even do a proper Bon Odori」"
+    "message": "「No, I'm embarrassed to admit it, but I can't even do a proper Bon Odori.」"
   },
   {
     "name": "Misasagi",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「...Mr. President. About what we were just talking about--on second thought, you'd better drop it.」"
+    "message": "「...Kaichou-han. About what we were just talking about--on second thought, you'd better drop it.」"
   },
   {
     "name": "Synn",
@@ -298,11 +298,11 @@
   },
   {
     "name": "Synn",
-    "message": "「N-Nothing! Just going over the agenda」"
+    "message": "「N-Nothing! Just going over the agenda.」"
   },
   {
     "name": "Lolotte",
-    "message": "「So there is something you need to decide on」"
+    "message": "「So there is something you need to decide on.」"
   },
   {
     "name": "Synn",
@@ -318,11 +318,11 @@
   },
   {
     "name": "Ria",
-    "message": "「W-What am I staring at, geez\\s01」"
+    "message": "「W-What am I staring at, geez.\\s01」"
   },
   {
     "name": "Synn",
-    "message": "「--And so, since not everyone knows how to dance, I was thinking we could hold a dance workshop or something」"
+    "message": "「--And so, since not everyone knows how to dance, I was thinking we could hold a dance workshop or something.」"
   },
   {
     "name": "Misa",
@@ -334,15 +334,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I am an angel, so I cannot dance」"
+    "message": "「I am an angel, so I cannot dance.」"
   },
   {
     "name": "Synn",
-    "message": "「And she owns up to it so shamelessly」"
+    "message": "「And she owns up to it so shamelessly.」"
   },
   {
     "name": "Lolotte",
-    "message": "「It is stranger for a king to be unable to dance」"
+    "message": "「It is stranger for a king to be unable to dance.」"
   },
   {
     "name": "Synn",
@@ -374,11 +374,11 @@
   },
   {
     "name": "Misa",
-    "message": "「H-Hmph. If it's Onee-sama, I have no objections」"
+    "message": "「H-Hmph. If it's Onee-sama, I have no objections.」"
   },
   {
     "name": "Misa",
-    "message": "「I have no doubt she will grace us with her magnificent and lovely steps\\s04」"
+    "message": "「I have no doubt she will grace us with her magnificent and lovely steps.\\s04」"
   },
   {
     "name": "Ria",
@@ -386,7 +386,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Senpai-san is quite skilled at teaching others, after all」"
+    "message": "「Senpai-san is quite skilled at teaching others, after all.」"
   },
   {
     "name": "Nanaka",
@@ -406,11 +406,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Whoaaa」"
+    "message": "「Whoaaa.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Way to go, Ria-senpai」"
+    "message": "「Way to go, Ria-senpai.」"
   },
   {
     "name": "Misa",
@@ -430,11 +430,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「We should do a dry run with just us beforehand, shouldn't we」"
+    "message": "「We should do a dry run with just us beforehand, shouldn't we.」"
   },
   {
     "name": "Misa",
-    "message": "「That's a brilliant idea! With one-on-one lessons from Onee-sama\\s04」"
+    "message": "「That's a brilliant idea! With one-on-one lessons from Onee-sama.\\s04」"
   },
   {
     "name": "Nanaka",
@@ -442,7 +442,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Ah! Oh right, oops. My big sister actually called for me today」"
+    "message": "「Ah! Oh right, oops. My big sister actually called for me today.」"
   },
   {
     "name": "Ria",
@@ -450,7 +450,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Oh my」"
+    "message": "「Oh my.」"
   },
   {
     "name": "Lolotte",
@@ -501,11 +501,11 @@
   },
   {
     "name": "Sally",
-    "message": "「Roger that」"
+    "message": "「Roger that.」"
   },
   {
     "name": "Synn",
-    "message": "「Phew... Alright, one more time. One-two-three, uno-dos-tres」"
+    "message": "「Phew... Alright, one more time. One-two-three, uno-dos-tres.」"
   },
   {
     "name": "Ria",
@@ -533,11 +533,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Not even 'could it be'--that's exactly what it is」"
+    "message": "「Not even 'could it be'--that's exactly what it is.」"
   },
   {
     "name": "Ria",
-    "message": "「S-Sorry! I didn't mean to peek, though\\s01」"
+    "message": "「S-Sorry! I didn't mean to peek, though.\\s01」"
   },
   {
     "name": "Synn",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Honestly, I did think about asking you for help, Ria-senpai」"
+    "message": "「Honestly, I did think about asking you for help, Ria-senpai.」"
   },
   {
     "name": "Ria",
@@ -565,7 +565,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Still, I'm a guy, after all. I have to get good enough to lead you properly, Ria-senpai. Yep」"
+    "message": "「Still, I'm a guy, after all. I have to get good enough to lead you properly, Ria-senpai. Yep.」"
   },
   {
     "name": "Ria",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Ria",
-    "message": "「S-Synn-kun... come on... that's not fair」"
+    "message": "「S-Synn-kun... come on... that's not fair.」"
   },
   {
     "name": "Ria",
@@ -593,7 +593,7 @@
   },
   {
     "name": "Synn",
-    "message": "「S-Sorry... for speaking out of turn」"
+    "message": "「S-Sorry... for speaking out of turn.」"
   },
   {
     "name": "Ria",
@@ -613,7 +613,7 @@
   },
   {
     "name": "Ria",
-    "message": "「A-As a special exception, you're going to take private lessons from Teacher Ria」"
+    "message": "「A-As a special exception, you're going to take private lessons from Ria-sensei.」"
   },
   {
     "name": "Synn",
@@ -621,7 +621,7 @@
   },
   {
     "name": "Ria",
-    "message": "「I-It's already late today so we can't start now, okay\\s02」"
+    "message": "「I-It's already late today so we can't start now, okay.\\s02」"
   },
   {
     "name": "Synn",
@@ -685,14 +685,14 @@
   },
   {
     "name": "Ria",
-    "message": "「I think it's a little different from that\\s02」"
+    "message": "「I think it's a little different from that.\\s02」"
   },
   {
     "name": "Helena",
-    "message": "「Still, that means we need to buckle down even more on that special dance training」"
+    "message": "「Still, that means we need to buckle down even more on that special dance training.」"
   },
   {
     "name": "Ria",
-    "message": "「Ugh」"
+    "message": "「Ugh.」"
   }
 ]

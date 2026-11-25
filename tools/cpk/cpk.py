@@ -202,7 +202,12 @@ class CpkArchive:
                 rel = f"{row['DirName']}/{row['FileName']}" if row["DirName"] else row["FileName"]
                 if rel in replacements:
                     data = replacements[rel]
-                    if data[:8] == b"CRILAYLA":
+                    is_crilayla = data[:8] == b"CRILAYLA" or (
+                        data[:8] == b"\x00" * 8
+                        and len(data) >= 16
+                        and (row["ExtractSize"] or 0) > row["FileSize"]
+                    )
+                    if is_crilayla:
                         # CRILAYLA u32 at +8 is uncompressed body size after 0x100 prefix
                         ext_sz = struct.unpack_from("<I", data, 8)[0] + 0x100
                     else:

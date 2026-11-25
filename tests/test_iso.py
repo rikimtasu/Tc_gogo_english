@@ -66,3 +66,34 @@ class IsoTests(unittest.TestCase):
         with self.assertRaises(FileNotFoundError):
             patch_iso(self.src, missing_out, {'MISSING.BIN': self.file})
         self.assertFalse(missing_out.exists())
+
+    def test_iso_reuses_interior_zero_gap_without_growing_volume(self):
+        # Build a 128-sector ISO with an interior 64-sector zero gap between A.BIN (LBA 32) and B.BIN (LBA 100)
+        root = self.src.parent
+        src = root / 'gap_src.iso'
+        out = root / 'gap_out.iso'
+        iso = bytearray(128 * SECTOR_SIZE)
+        pvd = 16 * SECTOR_SIZE
+        iso[pvd:pvd + 7] = b'\x01CD001\x01'
+        struct.pack_into('<I', iso, pvd + 80, 128)
+        struct.pack_into('>I', iso, pvd + 84, 128)
+        iso[pvd + 156:pvd + 190] = record(20, 2048, b'\0', 2)
+        ra = record(32, 2048, b'A.BIN;1')
+        rb = record(100, 2048, b'B.BIN;1')
+        iso[20 * SECTOR_SIZE:20 * SECTOR_SIZE + len(ra)] = ra
+        iso[20 * SECTOR_SIZE + len(ra):20 * SECTOR_SIZE + len(ra) + len(rb)] = rb
+        iso[32 * SECTOR_SIZE:33 * SECTOR_SIZE] = b'A' * SECTOR_SIZE
+        iso[100 * SECTOR_SIZE:101 * SECTOR_SIZE] = b'B' * SECTOR_SIZE
+        src.write_bytes(iso)
+
+        big = root / 'big_a.bin'
+        payload = b'X' * (10 * SECTOR_SIZE)
+        big.write_bytes(payload)
+        patch_iso(src, out, {'A.BIN': big})
+        self.assertEqual(out.stat().st_size, 128 * SECTOR_SIZE)
+        with out.open('rb') as f:
+            _, lba, sz = find_iso_file_record(f, 'A.BIN')
+            self.assertEqual(sz, len(payload))
+            self.assertEqual(lba, 48)  # 16-sector-aligned inside interior gap 33..100
+            f.seek(lba * SECTOR_SIZE)
+            self.assertEqual(f.read(sz), payload)

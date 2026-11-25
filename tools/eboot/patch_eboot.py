@@ -22,7 +22,53 @@ SOURCE_SHA256 = "96f2556cad518943ab0203f2ffe7d471b92e29fae4f8a7fab62a577355ca3de
 LOAD_VA = 0x08804000
 LOAD_OFFSET = 84
 PAYLOAD_VA = 0x08A76000  # After the original PT_LOAD memory end, 0x08A75B00.
+TITLE_TABLE_VA = 0x08A76C00  # 3 KB code region, followed by sorted scene-title lookup table.
+SPRITE_POOL_VA = 0x08A80000  # Relocated glyph sprite pool (zero-initialized BSS in 2nd PT_LOAD).
+SPRITE_POOL_COUNT = 0x800  # 2,048 sprites (4x original 0x200) to prevent English backlog exhaustion.
+SPRITE_POOL_BYTES = SPRITE_POOL_COUNT * 0x28  # 0x14000 bytes (80 KB).
+NEWLIB_HEAP_KB_VA = 0x089696E0  # sce_newlib_heap_kb_size (original: 21831 KB).
+ORIG_NEWLIB_HEAP_KB = 21831
 SLOT_FACTOR = 1.5  # 3/2 ratio keeps 3-line dialogue at 78 * 3 = 234 <= 0xF8 (248) for serializer 0x0887F2F8.
+
+
+def djb2_hash32(data: bytes) -> int:
+    h = 5381
+    for b in data:
+        h = (((h << 5) + h) ^ b) & 0xFFFFFFFF
+    return h
+
+
+def build_scene_title_table(entries: list[tuple[str, str]], base_va: int = TITLE_TABLE_VA) -> bytes:
+    """Serialize sorted (hash32, jp_va, en_va) lookup table + NUL-terminated strings."""
+    if not entries:
+        return struct.pack("<I", 0)
+    encoded: list[tuple[int, bytes, bytes]] = []
+    seen: set[bytes] = set()
+    for jp, en in entries:
+        jp_b = jp.encode("cp932")
+        en_b = en.encode("cp932")
+        if len(en_b) > 0xFE:
+            raise ValueError(f"Translated scene title exceeds 254 bytes: {en!r}")
+        if jp_b in seen:
+            continue
+        seen.add(jp_b)
+        encoded.append((djb2_hash32(jp_b), jp_b, en_b))
+    encoded.sort(key=lambda item: (item[0], item[1]))
+    count = len(encoded)
+    str_base = base_va + 4 + count * 12
+    str_buf = bytearray()
+    header = bytearray(struct.pack("<I", count))
+    for h, jp_b, en_b in encoded:
+        jp_va = str_base + len(str_buf)
+        str_buf.extend(jp_b)
+        str_buf.append(0)
+        en_va = str_base + len(str_buf)
+        str_buf.extend(en_b)
+        str_buf.append(0)
+        header.extend(struct.pack("<III", h, jp_va, en_va))
+    while (len(header) + len(str_buf)) % 4 != 0:
+        str_buf.append(0)
+    return bytes(header + str_buf)
 
 
 def build_payload(base_va: int = PAYLOAD_VA) -> MipsAsm:
@@ -682,6 +728,109 @@ def build_payload(base_va: int = PAYLOAD_VA) -> MipsAsm:
         jr ra
         sw v0, 0xc(s2)
 
+    # Clear expanded 2048-entry glyph sprite pool (0x800 * 0x28 = 0x14000 bytes).
+    # Called from 0x08880F90 with a0=SPRITE_POOL_VA, a1=0.
+    memset_sprite_pool:
+        lui a2, 0x0001
+        j 0x088146ac
+        ori a2, a2, 0x4000
+
+    # Translate Save/Load chapter title in s5 (length s1) via sorted DJB2 table
+    # at TITLE_TABLE_VA (0x08A76C00). Hooked at 0x08879460 after strncpy(s5, s0, s1).
+    translate_scene_title:
+        beqz s1, tst_done
+        nop
+        sltiu t0, s1, 0x100
+        beqz t0, tst_done
+        nop
+        addu t0, s5, s1
+        sb zero, 0(t0)
+        lui t8, 0x08a7
+        ori t8, t8, 0x6c00
+        lw t9, 0(t8)
+        beqz t9, tst_done
+        addiu t8, t8, 4
+        li t0, 5381
+        move t1, s5
+    tst_hash_loop:
+        lbu t2, 0(t1)
+        beqz t2, tst_bsearch_init
+        nop
+        sll t3, t0, 5
+        addu t0, t3, t0
+        xor t0, t0, t2
+        b tst_hash_loop
+        addiu t1, t1, 1
+    tst_bsearch_init:
+        move t1, zero
+        move t2, t9
+    tst_bsearch:
+        sltu t3, t1, t2
+        beqz t3, tst_done
+        nop
+        addu t3, t1, t2
+        srl t3, t3, 1
+        sll t4, t3, 1
+        addu t4, t4, t3
+        sll t4, t4, 2
+        addu t4, t8, t4
+        lw t5, 0(t4)
+        beq t5, t0, tst_rewind
+        nop
+        sltu t6, t5, t0
+        bnez t6, tst_go_right
+        nop
+        b tst_bsearch
+        move t2, t3
+    tst_go_right:
+        b tst_bsearch
+        addiu t1, t3, 1
+    tst_rewind:
+        beqz t3, tst_scan
+        nop
+        lw t5, -12(t4)
+        bne t5, t0, tst_scan
+        nop
+        addiu t3, t3, -1
+        b tst_rewind
+        addiu t4, t4, -12
+    tst_scan:
+        sltu t6, t3, t9
+        beqz t6, tst_done
+        nop
+        lw t5, 0(t4)
+        bne t5, t0, tst_done
+        nop
+        lw a0, 4(t4)
+        move a1, s5
+    tst_cmp:
+        lbu t6, 0(a0)
+        lbu t7, 0(a1)
+        bne t6, t7, tst_scan_next
+        nop
+        beqz t6, tst_copy
+        nop
+        addiu a0, a0, 1
+        b tst_cmp
+        addiu a1, a1, 1
+    tst_scan_next:
+        addiu t3, t3, 1
+        b tst_scan
+        addiu t4, t4, 12
+    tst_copy:
+        lw a0, 8(t4)
+        move a1, s5
+    tst_copy_loop:
+        lbu t6, 0(a0)
+        sb t6, 0(a1)
+        beqz t6, tst_done
+        addiu a0, a0, 1
+        b tst_copy_loop
+        addiu a1, a1, 1
+    tst_done:
+        j 0x08879498
+        nop
+
     # Unpooled date/time literals for compiler-shared .rodata entries
     # ('日' Sun vs Day, '月' Mon vs Month, '朝' Morning inside '早朝', '深夜' Late Night vs '夜' Night).
     str_sun:
@@ -724,11 +873,38 @@ def apply_eboot_strings(result: bytearray, strings_path: Path) -> int:
     return patched_count
 
 
-def patch_bytes(source: bytes, strings_path: Path | None = None) -> tuple[bytes, dict[str, int]]:
+def load_scene_titles(path: Path) -> list[tuple[str, str]]:
+    """Load (jp, en) chapter title mappings from glossary/scene_titles.json."""
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    items = raw["titles"] if isinstance(raw, dict) else raw
+    out: list[tuple[str, str]] = []
+    for item in items:
+        jp = item["jp"]
+        en = item.get("en")
+        if en and en != jp:
+            out.append((jp, en))
+    return out
+
+
+def patch_bytes(
+    source: bytes,
+    strings_path: Path | None = None,
+    scene_titles_path: Path | None = None,
+) -> tuple[bytes, dict[str, int]]:
     if len(source) != 1_527_040 or hashlib.sha256(source).hexdigest() != SOURCE_SHA256:
         raise ValueError("Expected the clean ULJS00316 v1.01 decrypted EBOOT; source identity mismatch")
     asm = build_payload()
-    payload = asm.assemble()
+    code = asm.assemble()
+    code_budget = TITLE_TABLE_VA - PAYLOAD_VA
+    if len(code) > code_budget:
+        raise ValueError(f"Payload code ({len(code)} bytes) exceeds {code_budget} bytes before TITLE_TABLE_VA")
+    title_entries = load_scene_titles(scene_titles_path) if scene_titles_path is not None else []
+    title_table = build_scene_title_table(title_entries, TITLE_TABLE_VA)
+    payload = code + bytes(code_budget - len(code)) + title_table
+    if PAYLOAD_VA + len(payload) > SPRITE_POOL_VA:
+        raise ValueError(
+            f"Payload + title table end ({PAYLOAD_VA + len(payload):#x}) overlaps SPRITE_POOL_VA ({SPRITE_POOL_VA:#x})"
+        )
     result = bytearray(source)
 
     def replace(va: int, expected: str, replacement: str) -> None:
@@ -778,22 +954,120 @@ def patch_bytes(source: bytes, strings_path: Path | None = None) -> tuple[bytes,
     replace(0x0887FA88, "lw a2, 0x18(s0)", "lw a2, 0xc(s2)")
     replace(0x0887FA94, "lw v0, 0x18(s0)", "lw v0, 0xc(s2)")
 
-    # Keep the original PT_LOAD's file and memory bounds intact. Adding another
-    # segment avoids filling/reusing BSS or overwriting alleged code caves.
+    # Relocate and expand the global glyph sprite pool (0x08A21910, 0x200 sprites ->
+    # SPRITE_POOL_VA 0x08A90000, 0x800 = 2048 sprites) so long English backlog
+    # entries never exhaust the pool and collapse/overlap on scroll-up.
+    pool_hi = SPRITE_POOL_VA >> 16
+    assert (SPRITE_POOL_VA & 0xFFFF) == 0
+    replace(0x08880F84, "lui a0, 0x08a2\naddiu a0, a0, 0x1910",
+            f"lui a0, {pool_hi:#x}\naddiu a0, a0, 0")
+    replace(0x08880F90, "jal 0x088146ac\naddiu a2, zero, 0x5000",
+            f"jal {asm.labels['memset_sprite_pool']:#x}\nnop")
+    replace(0x08881398, "lui v1, 0x08a2", f"lui v1, {pool_hi:#x}")
+    replace(0x088813A0, "addiu v1, v1, 0x1910", "addiu v1, v1, 0")
+    replace(0x088813AC, "addiu v0, zero, 0x200", f"addiu v0, zero, {SPRITE_POOL_COUNT:#x}")
+    replace(0x088813B4, "slti v0, t4, 0x200", f"slti v0, t4, {SPRITE_POOL_COUNT:#x}")
+    replace(0x088813C0, "addiu v0, zero, 0x200", f"addiu v0, zero, {SPRITE_POOL_COUNT:#x}")
+    replace(0x088813DC, "lui v0, 0x08a2", f"lui v0, {pool_hi:#x}")
+    replace(0x088813E4, "addiu v0, v0, 0x1910", "addiu v0, v0, 0")
+    replace(0x0888143C, "lui a2, 0x08a2\nlui s0, 0x08a2",
+            f"lui a2, {pool_hi:#x}\nlui s0, {pool_hi:#x}")
+    replace(0x08881448, "addiu s0, s0, 0x1910", "addiu s0, s0, 0")
+    replace(0x08881468, "sltiu v1, s1, 0x200", f"sltiu v1, s1, {SPRITE_POOL_COUNT:#x}")
+    replace(0x08881480, "addiu a2, a2, 0x1910", "addiu a2, a2, 0")
+    replace(0x08881488, "addiu v1, zero, 0x200", f"addiu v1, zero, {SPRITE_POOL_COUNT:#x}")
+    replace(0x08881490, "sltiu v1, a1, 0x200", f"sltiu v1, a1, {SPRITE_POOL_COUNT:#x}")
+    replace(0x0888149C, "addiu v1, zero, 0x200", f"addiu v1, zero, {SPRITE_POOL_COUNT:#x}")
+    replace(0x088817AC, "lui s0, 0x08a2", f"lui s0, {pool_hi:#x}")
+    replace(0x088817B4, "addiu s0, s0, 0x1910", "addiu s0, s0, 0")
+    replace(0x08881808, "slti v1, s1, 0x200", f"slti v1, s1, {SPRITE_POOL_COUNT:#x}")
+    replace(0x088819DC, "lui s2, 0x08a2", f"lui s2, {pool_hi:#x}")
+    replace(0x088819E4, "addiu s2, s2, 0x1910", "addiu s2, s2, 0")
+    replace(0x08881B0C, "sltiu v0, s3, 0x200", f"sltiu v0, s3, {SPRITE_POOL_COUNT:#x}")
+    replace(0x08881B28, "lui s3, 0x08a2", f"lui s3, {pool_hi:#x}")
+    replace(0x08881B30, "addiu s3, s3, 0x1910", "addiu s3, s3, 0")
+    replace(0x08881C58, "sltiu v0, s2, 0x200", f"sltiu v0, s2, {SPRITE_POOL_COUNT:#x}")
+
+    # Hook Save/Load chapter title getter (0x08879340 mode 1) for display-time
+    # translation while keeping OP_SCENE & Grp_Title/%s.txt preloading intact.
+    replace(0x08879460, "b 0x08879498\nnop",
+            f"j {asm.labels['translate_scene_title']:#x}\nnop")
+
+    # Keep the exact stock single-PT_LOAD PSP ELF layout (e_phoff=0x34, e_phnum=1,
+    # p_offset=0x54, p_vaddr=0x08804000, p_paddr=0x146190 for .rodata.sceModuleInfo).
+    # Real PSP hardware (loadcore.prx / CFW systemctrl) rejects relocated e_phoff or a
+    # second PF_X PT_LOAD with virtual p_paddr via 0x80020148 (UNSUPPORTED_PRX_TYPE).
+    # Extending PH[0] in-place keeps all virtual addresses intact and lets the kernel
+    # load zeros for original .bss (0x08978630..0x08A76000) and zero-init the expanded
+    # sprite pool BSS (0x08A80000..0x08A94000) past p_filesz.
     phoff = struct.unpack_from("<I", source, 28)[0]
+    if phoff != 52:
+        raise ValueError(f"Unexpected original e_phoff: {phoff:#x}")
     original_ph = source[phoff:phoff + 32]
     segment = struct.unpack("<8I", original_ph)
     if segment != (1, LOAD_OFFSET, LOAD_VA, 1_335_696, 1_525_296, 2_562_816, 7, 16):
         raise ValueError("Unexpected original PT_LOAD layout")
-    new_phoff = (len(result) + 15) & ~15
-    payload_offset = new_phoff + 64
-    result.extend(bytes(new_phoff - len(result)))
-    result.extend(original_ph)
-    result.extend(struct.pack("<8I", 1, payload_offset, PAYLOAD_VA, PAYLOAD_VA,
-                              len(payload), len(payload), 5, 16))
-    result.extend(payload)
-    struct.pack_into("<I", result, 28, new_phoff)
-    struct.pack_into("<H", result, 44, 2)
+    orig_filesz = segment[4]
+    orig_memsz = segment[5]
+    orig_seg_file_end = LOAD_OFFSET + orig_filesz  # 0x174684
+
+    # Preserve stock section header table + .shstrtab + .comment cleanly after PH[0] data.
+    orig_shoff = struct.unpack_from("<I", source, 32)[0]
+    shentsize, shnum, shstrndx = struct.unpack_from("<HHH", source, 46)
+    if orig_shoff != orig_seg_file_end or shentsize != 40 or shnum != 24:
+        raise ValueError(f"Unexpected original section table layout (shoff={orig_shoff:#x}, shnum={shnum})")
+    sh_table = bytearray(source[orig_shoff:orig_shoff + shnum * shentsize])
+    orig_shstr_off = struct.unpack_from("<I", sh_table, shstrndx * shentsize + 16)[0]
+    orig_shstr_sz = struct.unpack_from("<I", sh_table, shstrndx * shentsize + 20)[0]
+    orig_comment_off = struct.unpack_from("<I", sh_table, (shnum - 1) * shentsize + 16)[0]
+    orig_comment_sz = struct.unpack_from("<I", sh_table, (shnum - 1) * shentsize + 20)[0]
+    tail_blob = source[orig_shstr_off:orig_comment_off + orig_comment_sz]
+
+    new_memsz = (SPRITE_POOL_VA + SPRITE_POOL_BYTES) - LOAD_VA
+    seg2_memsz = (SPRITE_POOL_VA + SPRITE_POOL_BYTES) - PAYLOAD_VA
+    extra_memsz = new_memsz - orig_memsz
+    # Trim sce_newlib_heap_kb_size (0x089696E0, originally 21831 KB) by the exact
+    # p_memsz growth (+8 KB margin) so PSP-1000 24 MB User Partition retains full
+    # original headroom for OS/CriThread stacks and buffers.
+    heap_kb_off = NEWLIB_HEAP_KB_VA - LOAD_VA + LOAD_OFFSET
+    cur_heap_kb = struct.unpack_from("<I", result, heap_kb_off)[0]
+    if cur_heap_kb != ORIG_NEWLIB_HEAP_KB:
+        raise ValueError(f"Unexpected sce_newlib_heap_kb_size: {cur_heap_kb} != {ORIG_NEWLIB_HEAP_KB}")
+    new_heap_kb = cur_heap_kb - ((extra_memsz + 1023) // 1024 + 8)
+    struct.pack_into("<I", result, heap_kb_off, new_heap_kb)
+
+    # Rebuild file body: [ELF hdr + PH[0] + orig .text/.data] + [zero .bss gap] + [payload] + [relocated SH table + .shstrtab/.comment]
+    bss_gap = (PAYLOAD_VA - LOAD_VA) - orig_filesz
+    assert bss_gap > 0
+    out_buf = bytearray(result[:orig_seg_file_end])
+    out_buf.extend(bytes(bss_gap))
+    assert len(out_buf) == LOAD_OFFSET + (PAYLOAD_VA - LOAD_VA)
+    out_buf.extend(payload)
+    new_filesz = len(out_buf) - LOAD_OFFSET
+    while len(out_buf) % 4 != 0:
+        out_buf.append(0)
+    new_shoff = len(out_buf)
+    new_shstr_off = new_shoff + len(sh_table)
+    sh_delta = new_shstr_off - orig_shstr_off
+    for idx in range(shnum):
+        sh_off_pos = idx * shentsize + 16
+        sec_off = struct.unpack_from("<I", sh_table, sh_off_pos)[0]
+        if sec_off == orig_seg_file_end:
+            # .bss (SHT_NOBITS, sh_size == 0)
+            struct.pack_into("<I", sh_table, sh_off_pos, new_shoff)
+        elif sec_off >= orig_shstr_off:
+            # .shstrtab, empty .rel.* stubs, and .comment
+            struct.pack_into("<I", sh_table, sh_off_pos, sec_off + sh_delta)
+    out_buf.extend(sh_table)
+    out_buf.extend(tail_blob)
+    while len(out_buf) % 16 != 0:
+        out_buf.append(0)
+
+    # Update single PH[0] in-place at e_phoff=0x34 (keep p_paddr=0x146190 intact!) and e_shoff.
+    struct.pack_into("<8I", out_buf, phoff, 1, LOAD_OFFSET, LOAD_VA, segment[3], new_filesz, new_memsz, 7, 16)
+    struct.pack_into("<I", out_buf, 32, new_shoff)
+    struct.pack_into("<H", out_buf, 44, 1)
+    result = out_buf
     patched_strings = 0
     if strings_path is not None:
         patched_strings = apply_eboot_strings(result, strings_path)
@@ -817,6 +1091,10 @@ def patch_bytes(source: bytes, strings_path: Path | None = None) -> tuple[bytes,
             replace(add_va, f"addiu a1, v0, {old_off:#x}", f"addiu a1, v0, {asm.labels[label] & 0xFFFF:#x}")
         replace(0x0882D090, "addiu a1, v0, 0x68", "addiu a1, v0, 0x66")
     return bytes(result), {"payload_va": PAYLOAD_VA, "payload_bytes": len(payload),
+                           "seg2_memsz": seg2_memsz, "newlib_heap_kb": new_heap_kb,
+                           "sprite_pool_va": SPRITE_POOL_VA,
+                           "sprite_pool_count": SPRITE_POOL_COUNT,
+                           "scene_title_count": len(title_entries),
                            "slot_factor": SLOT_FACTOR, "patched_strings": patched_strings, **asm.labels}
 
 
@@ -825,10 +1103,11 @@ def main() -> None:
     ap.add_argument("--src", required=True, type=Path)
     ap.add_argument("--out", required=True, type=Path)
     ap.add_argument("--strings", type=Path, default=None, help="Optional glossary/eboot_strings.json to patch in-place")
+    ap.add_argument("--scene-titles", type=Path, default=None, help="Optional glossary/scene_titles.json for Save/Load chapter titles")
     args = ap.parse_args()
     if args.src.resolve() == args.out.resolve() or args.out.exists():
         raise SystemExit("Output must be a new file, separate from the clean EBOOT")
-    patched, info = patch_bytes(args.src.read_bytes(), strings_path=args.strings)
+    patched, info = patch_bytes(args.src.read_bytes(), strings_path=args.strings, scene_titles_path=args.scene_titles)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     with args.out.open("xb") as out:
         out.write(patched)

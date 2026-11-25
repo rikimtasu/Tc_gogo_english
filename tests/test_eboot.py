@@ -8,7 +8,15 @@ import unittest
 from pathlib import Path
 
 from tools.eboot.mips_asm import MipsAsm
-from tools.eboot.patch_eboot import PAYLOAD_VA, build_payload, patch_bytes
+from tools.eboot.patch_eboot import (
+    PAYLOAD_VA,
+    SPRITE_POOL_COUNT,
+    SPRITE_POOL_VA,
+    TITLE_TABLE_VA,
+    build_payload,
+    build_scene_title_table,
+    patch_bytes,
+)
 
 try:
     from unicorn import Uc, UC_ARCH_MIPS, UC_MODE_MIPS32, UC_MODE_LITTLE_ENDIAN, UC_HOOK_CODE
@@ -44,8 +52,11 @@ class AssemblerAndBinaryTests(unittest.TestCase):
             source = eboot.read_bytes()
             patched, info = patch_bytes(source)
             new_phoff = struct.unpack_from('<I', patched, 28)[0]
-            self.assertEqual(patched[new_phoff:new_phoff + 32], source[52:84])
-            self.assertEqual(struct.unpack_from('<H', patched, 44)[0], 2)
+            self.assertEqual(new_phoff, 52)
+            self.assertEqual(struct.unpack_from('<H', patched, 44)[0], 1)
+            p_type, p_off, p_va, p_paddr, p_filesz, p_memsz, p_flags, p_align = struct.unpack_from('<8I', patched, new_phoff)
+            self.assertEqual((p_type, p_off, p_va, p_paddr, p_flags, p_align), (1, 84, 0x08804000, 0x146190, 7, 16))
+            self.assertGreater(p_memsz, p_filesz)
             self.assertGreater(info['payload_va'], 0x08A75B00)
             with self.assertRaises(ValueError):
                 patch_bytes(patched)
@@ -194,7 +205,8 @@ class LocalParserTests(unittest.TestCase):
         self.uc.hook_del(self.support.hook)
         patched, _ = patch_bytes(Path('work/eboot/EBOOT_decrypted.bin').read_bytes())
         phoff = struct.unpack_from('<I', patched, 28)[0]
-        for i in range(2):
+        phnum = struct.unpack_from('<H', patched, 44)[0]
+        for i in range(phnum):
             _, off, va, _, filesz, _, _, _ = struct.unpack_from('<8I', patched, phoff + 32 * i)
             self.uc.mem_write(va, patched[off:off + filesz])
         self.support.install_fonts()
@@ -406,13 +418,13 @@ class LocalParserTests(unittest.TestCase):
         self.assertEqual(self.support.word(dst_spk + 0x0C), 0x40)
         self.assertEqual(struct.unpack('<II', self.uc.mem_read(dst_spk + 0x58, 8)), (0x11223344, 0x096F5818))
 
-    @unittest.skipUnless(Path('build/p3_batch1_backlogfix2/fonts/font').is_dir(), 'Local font build unavailable')
+    @unittest.skipUnless(Path('build/master_v10/fonts/font').is_dir(), 'Local font build unavailable')
     def test_dialogue_and_backlog_spacing_match_actual_font_metrics(self):
         from tools.font.build_font import crilayla, parse_w_abc
         self.uc.mem_map(0x09200000, 0x100000)
         fonts = {}
         for index, name in enumerate(('sulakyapi8', 'sulakyapi12', 'sulakyapi18')):
-            path = Path('build/p3_batch1_backlogfix2/fonts/font') / name / 'abc.w_abc'
+            path = Path('build/master_v10/fonts/font') / name / 'abc.w_abc'
             _, lut, glyphs = parse_w_abc(crilayla.decompress(path.read_bytes()))
             base = 0x09200000 + index * 0x40000
             self.uc.mem_write(base, struct.pack(f'<{len(lut)}H', *lut))
@@ -483,11 +495,157 @@ class LocalParserTests(unittest.TestCase):
         ):
             self.assertIn(label, info)
             va = info[label]
-            # Locate in second PT_LOAD segment
+            # Locate in single extended PT_LOAD segment
             phoff = struct.unpack_from('<I', patched, 28)[0]
-            _, seg_off, seg_va, _, _, _, _, _ = struct.unpack_from('<8I', patched, phoff + 32)
+            _, seg_off, seg_va, _, _, _, _, _ = struct.unpack_from('<8I', patched, phoff)
             file_off = seg_off + (va - seg_va)
             self.assertEqual(patched[file_off:file_off + len(literal)], literal)
+
+    def test_sprite_pool_expansion_over_512(self) -> None:
+        eboot_path = Path('work/eboot/EBOOT_decrypted.bin')
+        if not eboot_path.is_file():
+            self.skipTest('local decrypted EBOOT not present')
+        uc = Uc(UC_ARCH_MIPS, UC_MODE_MIPS32 | UC_MODE_LITTLE_ENDIAN)
+        uc.mem_map(0x08800000, 0x300000)
+        uc.mem_map(CONTEXT, 0x10000)
+        patched, info = patch_bytes(eboot_path.read_bytes())
+        phoff = struct.unpack_from('<I', patched, 28)[0]
+        phnum = struct.unpack_from('<H', patched, 44)[0]
+        for i in range(phnum):
+            _, off, va, _, filesz, _, _, _ = struct.unpack_from('<8I', patched, phoff + 32 * i)
+            uc.mem_write(va, patched[off:off + filesz])
+        # Mark glyph sprite subsystem initialized
+        uc.mem_write(0x08A26910, struct.pack('<I', 1))
+        freed: list[int] = []
+
+        def pool_stub(u, address, size, _):
+            if address == 0x088814C4:
+                # sprite_fill_struct stub: no-op
+                u.reg_write(regs.UC_MIPS_REG_PC, u.reg_read(regs.UC_MIPS_REG_RA))
+            elif address == 0x08881760:
+                # sprite_destroy stub: clear active flag byte at *(u8*)a0
+                ptr = u.reg_read(regs.UC_MIPS_REG_A0)
+                u.mem_write(ptr, b'\x00')
+                freed.append(ptr)
+                u.reg_write(regs.UC_MIPS_REG_PC, u.reg_read(regs.UC_MIPS_REG_RA))
+
+        uc.hook_add(UC_HOOK_CODE, pool_stub)
+        # Allocate 600 sprites (> original 512 cap!) via real create_glyph_sprite (0x08881360)
+        ptrs: list[int] = []
+        for idx in range(600):
+            uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+            uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+            uc.reg_write(regs.UC_MIPS_REG_A0, ord('A'))
+            uc.emu_start(0x08881360, STOP, count=20000)
+            self.assertEqual(uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
+            ptr = uc.reg_read(regs.UC_MIPS_REG_V0)
+            self.assertEqual(ptr, SPRITE_POOL_VA + idx * 0x28)
+            ptrs.append(ptr)
+        self.assertEqual(info['sprite_pool_count'], SPRITE_POOL_COUNT)
+        # Free sprite #599 via real free_glyph_sprite (0x08881424)
+        uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+        uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+        uc.reg_write(regs.UC_MIPS_REG_A0, ptrs[599])
+        uc.emu_start(0x08881424, STOP, count=50000)
+        self.assertEqual(uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
+        self.assertEqual(freed, [ptrs[599]])
+        # Next allocation reuses slot #599
+        uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+        uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+        uc.reg_write(regs.UC_MIPS_REG_A0, ord('B'))
+        uc.emu_start(0x08881360, STOP, count=20000)
+        self.assertEqual(uc.reg_read(regs.UC_MIPS_REG_V0), ptrs[599])
+
+    def test_save_screen_scene_title_lookup(self) -> None:
+        eboot_path = Path('work/eboot/EBOOT_decrypted.bin')
+        if not eboot_path.is_file():
+            self.skipTest('local decrypted EBOOT not present')
+        uc = Uc(UC_ARCH_MIPS, UC_MODE_MIPS32 | UC_MODE_LITTLE_ENDIAN)
+        uc.mem_map(0x08800000, 0x300000)
+        uc.mem_map(CONTEXT, 0x10000)
+        patched, _ = patch_bytes(eboot_path.read_bytes())
+        phoff = struct.unpack_from('<I', patched, 28)[0]
+        phnum = struct.unpack_from('<H', patched, 44)[0]
+        for i in range(phnum):
+            _, off, va, _, filesz, _, _, _ = struct.unpack_from('<8I', patched, phoff + 32 * i)
+            uc.mem_write(va, patched[off:off + filesz])
+
+        # Write a small lookup table at TITLE_TABLE_VA
+        table = build_scene_title_table([
+            ('発足!! 流星生徒会', 'Launch!! Ryuusei Council'),
+            ('親密に親睦会', 'Getting Close at the Mixer'),
+            ('魔王で行こう！', "Let's Go, Demon Lord!"),
+        ], TITLE_TABLE_VA)
+        uc.mem_write(TITLE_TABLE_VA, table)
+
+        # Stub malloc (0x08804744) and free (0x08804698) used inside 0x08879340
+        temp_heap = CONTEXT + 0x2000
+        def save_stub(u, address, size, _):
+            if address == 0x08804744:
+                sz = u.reg_read(regs.UC_MIPS_REG_A0)
+                u.mem_write(temp_heap, bytes(sz))
+                u.reg_write(regs.UC_MIPS_REG_V0, temp_heap)
+                u.reg_write(regs.UC_MIPS_REG_PC, u.reg_read(regs.UC_MIPS_REG_RA))
+            elif address == 0x08804698:
+                u.reg_write(regs.UC_MIPS_REG_PC, u.reg_read(regs.UC_MIPS_REG_RA))
+        uc.hook_add(UC_HOOK_CODE, save_stub)
+
+        dst_buf = CONTEXT + 0x3000
+        cases = [
+            ('発足!! 流星生徒会###2', b'Launch!! Ryuusei Council'),
+            ('発足!! 流星生徒会', b'Launch!! Ryuusei Council'),
+            ('魔王で行こう！###A01', b"Let's Go, Demon Lord!"),
+            ('WANNA BE HANABI###1', b'WANNA BE HANABI'),
+        ]
+        for slot_idx, (raw_title, expected) in enumerate(cases):
+            slot_va = 0x08A17DB8 + slot_idx * 0x130
+            uc.mem_write(slot_va, bytes(0x100))
+            uc.mem_write(slot_va, raw_title.encode('cp932') + b'\x00')
+            uc.mem_write(dst_buf, bytes(0x100))
+            uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+            uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+            uc.reg_write(regs.UC_MIPS_REG_A0, slot_idx)
+            uc.reg_write(regs.UC_MIPS_REG_A1, dst_buf)
+            uc.reg_write(regs.UC_MIPS_REG_A2, 1)
+            uc.emu_start(0x08879340, STOP, count=200000)
+            self.assertEqual(uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
+            self.assertEqual(uc.reg_read(regs.UC_MIPS_REG_V0), 1)
+            actual = bytes(uc.mem_read(dst_buf, 0x100)).split(b'\x00', 1)[0]
+            self.assertEqual(actual, expected)
+
+        # Also verify the full tracked glossary/scene_titles.json packs & resolves cleanly
+        real_titles = Path(__file__).resolve().parents[1] / 'glossary' / 'scene_titles.json'
+        if real_titles.is_file():
+            patched_full, info_full = patch_bytes(eboot_path.read_bytes(), scene_titles_path=real_titles)
+            self.assertGreater(info_full['scene_title_count'], 700)
+            phoff = struct.unpack_from('<I', patched_full, 28)[0]
+            self.assertEqual(phoff, 52)
+            self.assertEqual(struct.unpack_from('<H', patched_full, 44)[0], 1)
+            _, off1, va1, paddr1, filesz1, memsz1, flags1, _ = struct.unpack_from('<8I', patched_full, phoff)
+            self.assertEqual((va1, paddr1, flags1), (0x08804000, 0x146190, 7))
+            self.assertGreater(memsz1, filesz1)
+            # Verify sce_newlib_heap_kb_size was reduced to keep full PSP-1000 24MB User Partition headroom
+            heap_kb = struct.unpack_from('<I', patched_full, 0x089696E0 - 0x08804000 + 84)[0]
+            self.assertEqual(heap_kb, info_full['newlib_heap_kb'])
+            extra_memsz = memsz1 - 2_562_816
+            self.assertLessEqual(heap_kb + (extra_memsz + 1023) // 1024, 21831)
+            uc.mem_write(va1, patched_full[off1:off1 + filesz1])
+            data = json.loads(real_titles.read_text(encoding='utf-8'))['titles']
+            for idx in (0, len(data) // 2, len(data) - 1):
+                entry = data[idx]
+                slot_va = 0x08A17DB8
+                uc.mem_write(slot_va, bytes(0x100))
+                uc.mem_write(slot_va, (entry['jp'] + '###chk').encode('cp932') + b'\x00')
+                uc.mem_write(dst_buf, bytes(0x100))
+                uc.reg_write(regs.UC_MIPS_REG_SP, STACK)
+                uc.reg_write(regs.UC_MIPS_REG_RA, STOP)
+                uc.reg_write(regs.UC_MIPS_REG_A0, 0)
+                uc.reg_write(regs.UC_MIPS_REG_A1, dst_buf)
+                uc.reg_write(regs.UC_MIPS_REG_A2, 1)
+                uc.emu_start(0x08879340, STOP, count=200000)
+                self.assertEqual(uc.reg_read(regs.UC_MIPS_REG_PC), STOP)
+                actual = bytes(uc.mem_read(dst_buf, 0x100)).split(b'\x00', 1)[0]
+                self.assertEqual(actual, entry['en'].encode('cp932'))
 
 
 if __name__ == '__main__':

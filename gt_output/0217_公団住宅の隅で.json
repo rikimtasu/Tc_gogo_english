@@ -201,7 +201,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh, no, it's just that I feel a little sorry for that Demon Lord」"
+    "message": "「Oh, no, it's just that I feel a little sorry for that Demon Lord.」"
   },
   {
     "name": "Nanaka",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「I did say that earlier, but I really don't think they're dead, you know」"
+    "message": "「I did say that earlier, but I really don't think they're dead, you know.」"
   },
   {
     "name": "Synn",
@@ -221,15 +221,15 @@
   },
   {
     "name": "Sally",
-    "message": "「Yeah. Nothing good or bad at all」"
+    "message": "「Yeah. Nothing good or bad at all.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Then despite the name, they haven't really done anything all that bad. Doesn't seem like anyone holds a grudge against them either」"
+    "message": "「Then despite the name, they haven't really done anything all that bad. Doesn't seem like anyone holds a grudge against them either.」"
   },
   {
     "name": "Nanaka",
-    "message": "「If they haven't been betraying people, they might have trustworthy companions or family」"
+    "message": "「If they haven't been betraying people, they might have trustworthy companions or family.」"
   },
   {
     "name": "Synn",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「In that case, they're definitely not alone. Probably」"
+    "message": "「In that case, they're definitely not alone. Probably.」"
   },
   {
     "name": "Synn",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Synn",
-    "message": "「If they do, I'm sure they're happy」"
+    "message": "「If they do, I'm sure they're happy.」"
   },
   {
     "name": "Nanaka",
@@ -265,13 +265,13 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "message": "Nanaka smiled happily and murmured."
   },
   {
     "name": "Nanaka",
-    "message": "「I'm sure they do」"
+    "message": "「I'm sure they do.」"
   }
 ]

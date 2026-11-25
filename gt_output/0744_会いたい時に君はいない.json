@@ -101,11 +101,11 @@
   },
   {
     "name": "Synn",
-    "message": "「No, that's not it. Hey, have you seen Azel around」"
+    "message": "「No, that's not it. Hey, have you seen Azel around.」"
   },
   {
     "name": "Sacchin",
-    "message": "「I saw her. She was taking photos at the entrance this morning」"
+    "message": "「I saw her. She was taking photos at the entrance this morning.」"
   },
   {
     "name": "Synn",
@@ -113,15 +113,15 @@
   },
   {
     "name": "Nanaka",
-    "message": "「You must've mistaken her for someone else」"
+    "message": "「You must've mistaken her for someone else.」"
   },
   {
     "name": "Sacchin",
-    "message": "「That's mean, Nana-chan. Even I probably remember my own classmates' faces」"
+    "message": "「That's mean, Nana-chan. Even I probably remember my own classmates' faces.」"
   },
   {
     "name": "Eddie",
-    "message": "「I saw her too. She was sitting at the edge of the field for a while during morning practice」"
+    "message": "「I saw her too. She was sitting at the edge of the field for a while during morning practice.」"
   },
   {
     "name": "Eddie",
@@ -129,14 +129,14 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Idiot」"
+    "message": "「Idiot.」"
   },
   {
     "message": "So she is coming to school..."
   },
   {
     "name": "Shio",
-    "message": "「If it is Lady Azel you seek, I spotted her during break just a moment ago」"
+    "message": "「If it is Azel-dono you seek, I spotted her during break just a moment ago.」"
   },
   {
     "name": "Synn",
@@ -201,11 +201,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Aze-ko was transferrin' data」"
+    "message": "「Aze-ko was transferrin' data.」"
   },
   {
     "name": "Synn",
-    "message": "「So she learned how to do it」"
+    "message": "「So she learned how to do it.」"
   },
   {
     "message": "They're all completely ordinary photos of academy life."
@@ -222,7 +222,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Could it be」"
+    "message": "「Could it be.」"
   },
   {
     "message": "I checked the last modified date of the folder containing the photos Azel had handpicked for the Holy Night Festival exhibit."
@@ -232,50 +232,50 @@
   },
   {
     "name": "Synn",
-    "message": "「So he was choosing the photos to display at the Holy Night Festival...」"
+    "message": "「So she was choosing the photos to display at the Holy Night Festival...」"
   },
   {
     "name": "Paqy",
-    "message": "「If we could see inside, there might be a clue」"
+    "message": "「If we could see inside, there might be a clue.」"
   },
   {
     "name": "Synn",
-    "message": "「I don't know the password」"
+    "message": "「I don't know the password.」"
   },
   {
-    "message": "Come to think of it, since Azel was the one selecting the photos himself, he should've been able to transfer the data on his own too."
+    "message": "Come to think of it, since Azel was the one selecting the photos herself, she should've been able to transfer the data on her own too."
   },
   {
-    "message": "I'd assumed without any real basis that he couldn't do it just because he always had me do it for him."
+    "message": "I'd assumed without any real basis that she couldn't do it just because she always had me do it for her."
   },
   {
     "name": "Synn",
     "message": "「Ah...」"
   },
   {
-    "message": "So Azel was asking me to do things he was perfectly capable of doing himself."
+    "message": "So Azel was asking me to do things she was perfectly capable of doing herself."
   },
   {
     "message": "Why?"
   },
   {
     "name": "Melilot",
-    "message": "「He hasn't come by today either」"
+    "message": "「She hasn't come by today either.」"
   },
   {
     "name": "Synn",
-    "message": "「I... see」"
+    "message": "「I... see.」"
   },
   {
-    "message": "Did he go home? I hope so."
+    "message": "Did she go home? I hope so."
   },
   {
     "name": "Synn",
-    "message": "「Um. Yesterday, he really」"
+    "message": "「Um. Yesterday, she really.」"
   },
   {
     "name": "Melilot",
-    "message": "「Yes. He did not stay the night at my place」"
+    "message": "「Yes. She did not stay the night at my place.」"
   },
   {
     "name": "Synn",
@@ -283,18 +283,18 @@
   },
   {
     "name": "Melilot",
-    "message": "「He likely didn't want to make you worry」"
+    "message": "「She likely didn't want to make you worry.」"
   },
   {
     "name": "Synn",
-    "message": "「...If that's the case, he should just come home properly」"
+    "message": "「...If that's the case, she should just come home properly.」"
   },
   {
     "message": "While serving me some black tea, Melilot-san said,"
   },
   {
     "name": "Melilot",
-    "message": "「There are times when one doesn't want to go home, you know」"
+    "message": "「There are times when one doesn't want to go home, you know.」"
   },
   {
     "name": "Synn",
@@ -302,11 +302,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「I'm speaking in general terms」"
+    "message": "「I'm speaking in general terms.」"
   },
   {
     "name": "Melilot",
-    "message": "「He went home. He did」"
+    "message": "「He went home. He did.」"
   },
   {
     "name": "Azel",
@@ -314,7 +314,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...Thanks」"
+    "message": "「...Thanks.」"
   },
   {
     "name": "Melilot",
@@ -326,11 +326,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Sorry for using you as an excuse」"
+    "message": "「Sorry for using you as an excuse.」"
   },
   {
     "name": "Melilot",
-    "message": "「There are times when one feels the urge to tell a lie, you know」"
+    "message": "「There are times when one feels the urge to tell a lie, you know.」"
   },
   {
     "name": "Azel",
@@ -338,11 +338,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「I'm speaking in general terms」"
+    "message": "「I'm speaking in general terms.」"
   },
   {
     "name": "Melilot",
-    "message": "「However, one piece of advice. If you are going to lie, you ought to get your stories straight」"
+    "message": "「However, one piece of advice. If you are going to lie, you ought to get your stories straight.」"
   },
   {
     "name": "Azel",
@@ -358,7 +358,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I don't think you can keep running away like this, you know」"
+    "message": "「I don't think you can keep running away like this, you know.」"
   },
   {
     "name": "Azel",
@@ -366,7 +366,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Yeah... I guess」"
+    "message": "「Yeah... I guess.」"
   },
   {
     "name": "Synn",
@@ -374,15 +374,15 @@
   },
   {
     "name": "Paqy",
-    "message": "「You're gonna catch a cold standin' around out here forever. Let's head back」"
+    "message": "「You're gonna catch a cold standin' around out here forever. Let's head back.」"
   },
   {
     "name": "Sally",
-    "message": "「Oh, evening, Prez」"
+    "message": "「Oh, evening, Prez.」"
   },
   {
     "name": "Eauderourke",
-    "message": "「Evening」"
+    "message": "「Evening.」"
   },
   {
     "message": "Eauderourke was holding a large bag."
@@ -392,15 +392,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Evening」"
+    "message": "「Evening.」"
   },
   {
     "name": "Eauderourke",
-    "message": "「Prez, what wrong? Here, stand long, catch cold」"
+    "message": "「Prez, what wrong? Here, stand long, catch cold.」"
   },
   {
     "name": "Paqy",
-    "message": "「See, even this guy's sayin' it」"
+    "message": "「See, even this guy's sayin' it.」"
   },
   {
     "name": "Synn",
@@ -408,7 +408,7 @@
   },
   {
     "name": "Sally",
-    "message": "「I haven't seen her today」"
+    "message": "「I haven't seen her today.」"
   },
   {
     "name": "Eauderourke",
@@ -416,11 +416,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Eauderourke",
-    "message": "「Ode, saw」"
+    "message": "「Ode, saw.」"
   },
   {
     "name": "Synn",
@@ -428,7 +428,7 @@
   },
   {
     "name": "Eauderourke",
-    "message": "「This morning, Ode, jogging, front of Prez's apartment, from inside, come out. Saw」"
+    "message": "「This morning, Ode, jogging, front of Prez's apartment, from inside, come out. Saw.」"
   },
   {
     "name": "Synn",
@@ -443,7 +443,7 @@
   },
   {
     "name": "Eauderourke",
-    "message": "「Jogging, good for body. Food, taste better. Ode, happy」"
+    "message": "「Jogging, good for body. Food, taste better. Ode, happy.」"
   },
   {
     "name": "Synn",
@@ -451,7 +451,7 @@
   },
   {
     "name": "Eauderourke",
-    "message": "「Ode, saw, morning, around 6」"
+    "message": "「Ode, saw, morning, around 6.」"
   },
   {
     "message": "She'd snuck back in and snuck back out. That made me feel a little relieved."
@@ -462,15 +462,15 @@
   },
   {
     "name": "Sally",
-    "message": "「Six o'clock this morning is ancient history, I already forgot. I was sleeping soundly, too」"
+    "message": "「Six o'clock this morning is ancient history, I already forgot. I was sleeping soundly, too.」"
   },
   {
     "name": "Paqy",
-    "message": "「Useless」"
+    "message": "「Useless.」"
   },
   {
     "name": "Synn",
-    "message": "「Coming from you, who's always sleeping soundly」"
+    "message": "「Coming from you, who's always sleeping soundly.」"
   },
   {
     "name": "Azel",
@@ -482,11 +482,11 @@
   },
   {
     "name": "Azel",
-    "message": "「...What do you want」"
+    "message": "「...What do you want.」"
   },
   {
     "name": "Soltia",
-    "message": "「Just a final confirmation. It would be troublesome if you forgot to lure out Synn Sakura for me」"
+    "message": "「Just a final confirmation. It would be troublesome if you forgot to lure out Synn Sakura for me.」"
   },
   {
     "name": "Azel",
@@ -494,15 +494,15 @@
   },
   {
     "name": "Soltia",
-    "message": "「Oh, excuse me. There was no need for that, was there? After all, God's will is your will」"
+    "message": "「Oh, excuse me. There was no need for that, was there? After all, God's will is your will.」"
   },
   {
     "name": "Azel",
-    "message": "「...Shut up」"
+    "message": "「...Shut up.」"
   },
   {
     "name": "Soltia",
-    "message": "「What becomes of God's proxy if they defy God's will, I wonder? A fallen angel, perhaps? Though that could never happen to you」"
+    "message": "「What becomes of God's proxy if they defy God's will, I wonder? A fallen angel, perhaps? Though that could never happen to you.」"
   },
   {
     "name": "Azel",
@@ -510,7 +510,7 @@
   },
   {
     "name": "Soltia",
-    "message": "「Well then, see you later」"
+    "message": "「Well then, see you later.」"
   },
   {
     "name": "Azel",
@@ -518,27 +518,27 @@
   },
   {
     "name": "Sally",
-    "message": "「Yaaawn... Prez, I'm going to bed first」"
+    "message": "「Yaaawn... Prez, I'm going to bed first.」"
   },
   {
     "name": "Synn",
-    "message": "「Good night」"
+    "message": "「Good night.」"
   },
   {
     "name": "Sally",
-    "message": "「G'niiight... yaaawn」"
+    "message": "「G'niiight... yaaawn.」"
   },
   {
     "name": "Paqy",
-    "message": "「Hey, Lord Synn. Do you really think that Azel punk is gonna come back?」"
+    "message": "「Hey, Synn-sama. Do you really think that Azel punk is gonna come back?」"
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Paqy",
-    "message": "「Can't be helped. I'll keep you company」"
+    "message": "「Can't be helped. I'll keep you company.」"
   },
   {
     "name": "Azel",
@@ -554,7 +554,7 @@
   },
   {
     "name": "Synn",
-    "message": "「He'll come back」"
+    "message": "「She'll come back.」"
   },
   {
     "name": "Paqy",
@@ -566,7 +566,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...He's asleep」"
+    "message": "「...He's asleep.」"
   },
   {
     "message": "A small figure slips into the dark entryway."
@@ -583,7 +583,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Welcome back」"
+    "message": "「Welcome back.」"
   },
   {
     "name": "Azel",
@@ -595,7 +595,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I was waiting for you, Azel」"
+    "message": "「I was waiting for you, Azel.」"
   },
   {
     "name": "Azel",
@@ -606,7 +606,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Because I wanted to see you」"
+    "message": "「Because I wanted to see you.」"
   },
   {
     "name": "Azel",
@@ -614,7 +614,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I'm glad I got to see you」"
+    "message": "「I'm glad I got to see you.」"
   },
   {
     "name": "Azel",
@@ -622,7 +622,7 @@
   },
   {
     "name": "Synn",
-    "message": "「There's a lot I want to talk to you about」"
+    "message": "「There's a lot I want to talk to you about.」"
   },
   {
     "name": "Azel",
@@ -630,7 +630,7 @@
   },
   {
     "name": "Synn",
-    "message": "「It's late tonight, so tomorrow works too, though」"
+    "message": "「It's late tonight, so tomorrow works too, though.」"
   },
   {
     "name": "Azel",
@@ -642,15 +642,15 @@
   },
   {
     "name": "Azel",
-    "message": "「Now is fine. I'll go change」"
+    "message": "「Now is fine. I'll go change.」"
   },
   {
     "name": "Synn",
-    "message": "「Then, since we might wake Sally-chan up in my room. In the kitchen」"
+    "message": "「Then, since we might wake Sally-chan up in my room. In the kitchen.」"
   },
   {
     "name": "Azel",
-    "message": "「No」"
+    "message": "「No.」"
   },
   {
     "name": "Synn",
@@ -658,11 +658,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I want to go for a walk」"
+    "message": "「I want to go for a walk.」"
   },
   {
     "name": "Synn",
-    "message": "「It looks great on you」"
+    "message": "「It looks great on you.」"
   },
   {
     "name": "Azel",
@@ -670,7 +670,7 @@
   },
   {
     "name": "Synn",
-    "message": "「You're cute」"
+    "message": "「You're cute.」"
   },
   {
     "name": "Azel",
@@ -678,7 +678,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I mean it」"
+    "message": "「I mean it.」"
   },
   {
     "name": "Azel",
@@ -686,11 +686,11 @@
   },
   {
     "name": "Synn",
-    "message": "「You should wear it more often」"
+    "message": "「You should wear it more often.」"
   },
   {
     "name": "Azel",
-    "message": "「It's a hassle」"
+    "message": "「It's a hassle.」"
   },
   {
     "name": "Synn",
@@ -760,7 +760,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Azel",
@@ -914,7 +914,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I've never really felt restricted, though」"
+    "message": "「I've never really felt restricted, though.」"
   },
   {
     "message": "Oh, right."
@@ -931,11 +931,11 @@
   },
   {
     "name": "Azel",
-    "message": "「The sensation of water tickling my skin, the faint sound of water, even the smell of water mixed with chlorine--I have stopped hating all of them」"
+    "message": "「The sensation of water tickling my skin, the faint sound of water, even the smell of water mixed with chlorine--I have stopped hating all of them.」"
   },
   {
     "name": "Synn",
-    "message": "「You sound like you wanted to keep hating them」"
+    "message": "「You sound like you wanted to keep hating them.」"
   },
   {
     "name": "Azel",
@@ -943,7 +943,7 @@
   },
   {
     "name": "Azel",
-    "message": "「In the past, I hated everything about this world」"
+    "message": "「In the past, I hated everything about this world.」"
   },
   {
     "name": "Azel",
@@ -981,7 +981,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I was supposed to hate this world」"
+    "message": "「I was supposed to hate this world.」"
   },
   {
     "name": "Synn",
@@ -1084,6 +1084,6 @@
   },
   {
     "name": "Azel",
-    "message": "「Y-yeah」"
+    "message": "「Y-yeah.」"
   }
 ]

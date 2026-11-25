@@ -108,7 +108,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Not interested」"
+    "message": "「Not interested.」"
   },
   {
     "name": "Lolotte",
@@ -119,7 +119,7 @@
     "message": "「I said I am not. Your relationship has been repaired. Therefore, leave promptly!」"
   },
   {
-    "message": "Azel isn't the one leaving, he's telling Lolotte to go home? That feels kind of weird."
+    "message": "Azel isn't the one leaving, she's telling Lolotte to go home? That feels kind of weird."
   },
   {
     "name": "Lolotte",
@@ -141,11 +141,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「There's a portable stove in the Student Council room, so let's make it together, Azel-san」"
+    "message": "「There's a portable stove in the Student Council room, so let's make it together, Azel-san.」"
   },
   {
     "name": "Azel",
-    "message": "「On this matter, I have no choice but to agree」"
+    "message": "「On this matter, I have no choice but to agree.」"
   },
   {
     "name": "Azel",
@@ -161,19 +161,19 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm, hmm」"
+    "message": "「Hmm, hmm.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Ryuusei Town is a seaside town. They have something called the afternoon catch, where fish caught during the day are sold, and they're super fresh」"
+    "message": "「Ryuusei Town is a seaside town. They have something called the afternoon catch, where fish caught during the day are sold, and they're super fresh.」"
   },
   {
     "name": "Lolotte",
-    "message": "「In my imagination, 'God's Miso Soup' is a delicious miso soup packed with seafood from the afternoon catch. There's no doubt about it」"
+    "message": "「In my imagination, 'God's Miso Soup' is a delicious miso soup packed with seafood from the afternoon catch. There's no doubt about it.」"
   },
   {
     "name": "Azel",
-    "message": "「I see. Understood」"
+    "message": "「I see. Understood.」"
   },
   {
     "name": "Synn",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...No matter」"
+    "message": "「...No matter.」"
   },
   {
     "name": "Lolotte",
@@ -214,22 +214,22 @@
   },
   {
     "name": "Synn",
-    "message": "「Even though it's the exact same Student Council room, the vibe is different, right? Each generation's personalities really shine through」"
+    "message": "「Even though it's the exact same Student Council room, the vibe is different, right? Each generation's personalities really shine through.」"
   },
   {
     "message": "I spouted a know-it-all line to Azel. Truth be told, I was just parroting Ria-senpai."
   },
   {
     "name": "Azel",
-    "message": "「I can tell by looking」"
+    "message": "「I can tell by looking.」"
   },
   {
     "name": "Synn",
-    "message": "「R-Right」"
+    "message": "「R-Right.」"
   },
   {
     "name": "Lolotte",
-    "message": "「It'll be ready very soon♪ Excite, excite」"
+    "message": "「It'll be ready very soon♪ Excite, excite.」"
   },
   {
     "message": "In the Student Council room on a day off, the crisp scent of fresh-caught seafood mingled with piping-hot miso soup. The air filling the room was indescribably warm."
@@ -243,7 +243,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Thanks for the food」"
+    "message": "「Thanks for the food.」"
   },
   {
     "message": "The day before exams, the God's Miso Soup I made together with Azel and Lolotte in the Student Council room was seriously delicious."

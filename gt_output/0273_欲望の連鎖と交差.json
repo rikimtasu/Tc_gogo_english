@@ -16,15 +16,15 @@
   },
   {
     "name": "Ria",
-    "message": "「No objections\\s04」"
+    "message": "「No objections.\\s04」"
   },
   {
     "name": "Synn",
-    "message": "「Looks solid to me」"
+    "message": "「Looks solid to me.」"
   },
   {
     "name": "Misa",
-    "message": "「Of course it does. Well then, that wraps it up for today. Good work, everyone」"
+    "message": "「Of course it does. Well then, that wraps it up for today. Good work, everyone.」"
   },
   {
     "name": "Everyone",
@@ -44,7 +44,7 @@
   },
   {
     "name": "Misa",
-    "message": "「A little detour every now and then doesn't sound bad」"
+    "message": "「A little detour every now and then doesn't sound bad.」"
   },
   {
     "name": "Nanaka",
@@ -68,7 +68,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry... I'll pass. I have somewhere I need to stop by」"
+    "message": "「Sorry... I'll pass. I have somewhere I need to stop by.」"
   },
   {
     "name": "Nanaka",
@@ -76,7 +76,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Well, something like that」"
+    "message": "「Well, something like that.」"
   },
   {
     "name": "Nanaka",
@@ -84,7 +84,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, I know」"
+    "message": "「Yeah, I know.」"
   },
   {
     "name": "Ria",
@@ -92,7 +92,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Have a good time, Senpai」"
+    "message": "「Have a good time, Senpai.」"
   },
   {
     "name": "Ria",
@@ -130,7 +130,7 @@
   },
   {
     "name": "Sengen'in",
-    "message": "「Key of Demise. I am one who submits to thy will」"
+    "message": "「Key of Demise. I am one who submits to thy will.」"
   },
   {
     "name": "Synn",
@@ -138,7 +138,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Ms. Sengen'in...!」"
+    "message": "「Sengen'in-sensei...!」"
   },
   {
     "name": "Synn",
@@ -146,7 +146,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Shh」"
+    "message": "「Shh.」"
   },
   {
     "message": "Ria-senpai pressed a soft index finger against my lips."
@@ -161,23 +161,23 @@
   },
   {
     "name": "Ria",
-    "message": "「B-Because you... weren't around, Synn-kun」"
+    "message": "「B-Because you... weren't around, Synn-kun.」"
   },
   {
     "name": "Synn",
-    "message": "「Huh」"
+    "message": "「Huh.」"
   },
   {
     "name": "Ria",
-    "message": "「Never mind that! That's Ms. Sengen'in, the student teacher, right?」"
+    "message": "「Never mind that! That's Sengen'in-sensei, the student teacher, right?」"
   },
   {
     "name": "Synn",
-    "message": "「Changing her outfit really changes her whole vibe, huh」"
+    "message": "「Changing her outfit really changes her whole vibe, huh.」"
   },
   {
     "name": "Ria",
-    "message": "「This isn't the time to be impressed! Anyone can tell there's something going on with her」"
+    "message": "「This isn't the time to be impressed! Anyone can tell there's something going on with her.」"
   },
   {
     "name": "Synn",
@@ -193,11 +193,11 @@
   },
   {
     "name": "Ria",
-    "message": "「Yeah... I think there's no doubt she's a demon」"
+    "message": "「Yeah... I think there's no doubt she's a demon.」"
   },
   {
     "name": "Synn",
-    "message": "「Let's call for backup for now」"
+    "message": "「Let's call for backup for now.」"
   },
   {
     "name": "Ria",
@@ -467,7 +467,7 @@
   },
   {
     "name": "????",
-    "message": "「I've been waiting for you」"
+    "message": "「I've been waiting for you.」"
   },
   {
     "message": "Someone stood in the Demon Lord's path."
@@ -510,7 +510,7 @@
   },
   {
     "name": "????",
-    "message": "「Judging by this, it seems it's still incomplete」"
+    "message": "「Judging by this, it seems it's still incomplete.」"
   },
   {
     "name": "Synn",
@@ -518,7 +518,7 @@
   },
   {
     "name": "Bylous",
-    "message": "「My name is Bylous」"
+    "message": "「My name is Bylous.」"
   },
   {
     "name": "Synn",
@@ -538,7 +538,7 @@
   },
   {
     "name": "Bylous",
-    "message": "「Let's go, Soltia」"
+    "message": "「Let's go, Soltia.」"
   },
   {
     "name": "Soltia",
@@ -546,14 +546,14 @@
   },
   {
     "name": "Bylous",
-    "message": "「Our objective is complete. We have no further business here」"
+    "message": "「Our objective is complete. We have no further business here.」"
   },
   {
     "name": "Soltia",
     "message": "「The Demon Lord just appeared, and you're being so carefree...!」"
   },
   {
-    "message": "Ms. Sengen'in--Soltia shakes off Bylous and raises her staff against me."
+    "message": "Sengen'in-sensei--Soltia shakes off Bylous and raises her staff against me."
   },
   {
     "message": "Bylous didn't even glance over, remaining completely motionless."

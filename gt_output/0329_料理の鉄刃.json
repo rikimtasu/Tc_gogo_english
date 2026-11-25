@@ -4,7 +4,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「Sorry to keep you waiting, nya~! The food is ready, nya」"
+    "message": "「Sorry to keep you waiting, nya~! The food is ready, nya.」"
   },
   {
     "name": "Synn",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Lolotte-san, that's not how you eat vegetable sticks」"
+    "message": "「Lolotte-san, that's not how you eat vegetable sticks.」"
   },
   {
     "name": "Lolotte",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「You're not even eating the actual veggies, man」"
+    "message": "「You're not even eating the actual veggies, man.」"
   },
   {
     "name": "Nanaka",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Misa",
-    "message": "「I-I just have a small appetite」"
+    "message": "「I-I just have a small appetite.」"
   },
   {
     "name": "Ria",
@@ -69,7 +69,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Now, now, the Student Council has to handle emergencies for anyone connected to the academy」"
+    "message": "「Now, now, the Student Council has to handle emergencies for anyone connected to the academy.」"
   },
   {
     "name": "Synn",
@@ -77,15 +77,15 @@
   },
   {
     "name": "Pasta",
-    "message": "「You'll hear Pasta out, nya? Even if it's just boss of a tiny monkey mountain, you're still a man who stands above humans, nya」"
+    "message": "「You'll hear Pasta out, nya? Even if it's just boss of a tiny monkey mountain, you're still a man who stands above humans, nya.」"
   },
   {
     "name": "Paqy",
-    "message": "「That's not a compliment at all, dude」"
+    "message": "「That's not a compliment at all, dude.」"
   },
   {
     "name": "Pasta",
-    "message": "「For causing you guys all kinds of trouble... I'm really sowwy, nya」"
+    "message": "「For causing you guys all kinds of trouble... I'm really sowwy, nya.」"
   },
   {
     "name": "Synn",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「As a token of apology, I prepared a special lunch, nya. Pasta put all his skill into cooking it, nya」"
+    "message": "「As a token of apology, I prepared a special lunch, nya. Pasta put all her skill into cooking it, nya.」"
   },
   {
     "name": "Lolotte",
@@ -117,7 +117,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Lady Nanaka, some things are best left unsaid.」"
+    "message": "「Nanaka-dono, some things are best left unsaid.」"
   },
   {
     "name": "Misa",
@@ -359,7 +359,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「This is the pufferfish poison Jeeves told me about. To cure it, you have to take a sand bath. How exciting...」"
+    "message": "「This is the pufferfish poison Jiiya told me about. To cure it, you have to take a sand bath. How exciting...」"
   },
   {
     "name": "Synn",
@@ -367,7 +367,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Hey, this is your chance, Master Synn! Now's the time if you wanna play some naughty tricks on Soba and the angel!」"
+    "message": "「Hey, this is your chance, Synn-sama! Now's the time if you wanna play some naughty tricks on Soba and the angel!」"
   },
   {
     "name": "Synn",
@@ -395,7 +395,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Guh... I can't forgive you for this, Pasta」"
+    "message": "「Guh... I can't forgive you for this, Pasta.」"
   },
   {
     "name": "Misa",
@@ -407,7 +407,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Oh, so that's what you're mad about」"
+    "message": "「Oh, so that's what you're mad about.」"
   },
   {
     "message": "Skip the battle?"

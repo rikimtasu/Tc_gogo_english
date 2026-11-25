@@ -109,7 +109,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「There's no way you can do special training in that condition」"
+    "message": "「There's no way you can do special training in that condition.」"
   },
   {
     "name": "Synn",
@@ -125,7 +125,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Poke, poke」"
+    "message": "「Poke, poke.」"
   },
   {
     "name": "Synn",
@@ -133,7 +133,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Told you so」"
+    "message": "「Told you so.」"
   },
   {
     "name": "Synn",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Pushing yourself like an idiot when all you can do is army-crawl」"
+    "message": "「Pushing yourself like an idiot when all you can do is army-crawl.」"
   },
   {
     "name": "Synn",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh, that」"
+    "message": "「Oh, that.」"
   },
   {
     "name": "Synn",
@@ -216,7 +216,7 @@
   },
   {
     "name": "Synn",
-    "message": "「If it's Ria-senpai, I'm sure... it'll be okay. She's probably still keeping it a secret」"
+    "message": "「If it's Ria-senpai, I'm sure... it'll be okay. She's probably still keeping it a secret.」"
   },
   {
     "name": "Paqy",
@@ -236,7 +236,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Whoa, it's the phone」"
+    "message": "「Whoa, it's the phone.」"
   },
   {
     "name": "Paqy",
@@ -244,11 +244,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Y-Yeah... I'll catch up right away」"
+    "message": "「Y-Yeah... I'll catch up right away.」"
   },
   {
     "name": "Paqy",
-    "message": "「Yo, Grand Palace Sakura here」"
+    "message": "「Yo, Grand Palace Sakura here.」"
   },
   {
     "name": "Synn",
@@ -291,15 +291,15 @@
   },
   {
     "name": "Paqy",
-    "message": "「Tch. Getting in the way of my fun chat time with Ria」"
+    "message": "「Tch. Getting in the way of my fun chat time with Ria.」"
   },
   {
     "name": "Ria",
-    "message": "「Sorry about that, Paa-chan\\s02 I rushed out in such a panic」"
+    "message": "「Sorry about that, Paa-chan\\s02 I rushed out in such a panic.」"
   },
   {
     "name": "Paqy",
-    "message": "「Nah, nah, seeing you in person is the best after all」"
+    "message": "「Nah, nah, seeing you in person is the best after all.」"
   },
   {
     "name": "Synn",
@@ -307,7 +307,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Hehe... Here I am again\\s04」"
+    "message": "「Hehe... Here I am again.\\s04」"
   },
   {
     "name": "Synn",
@@ -360,7 +360,7 @@
   },
   {
     "name": "Ria",
-    "message": "「I don't even know if I could stay as calm as you did」"
+    "message": "「I don't even know if I could stay as calm as you did.」"
   },
   {
     "name": "Synn",
@@ -368,15 +368,15 @@
   },
   {
     "name": "Ria",
-    "message": "「...You were amazing, Synn-kun!! I really thought there was no way we could win」"
+    "message": "「...You were amazing, Synn-kun!! I really thought there was no way we could win.」"
   },
   {
     "name": "Synn",
-    "message": "「Even though you pushed yourself so recklessly, Ria-senpai」"
+    "message": "「Even though you pushed yourself so recklessly, Ria-senpai.」"
   },
   {
     "name": "Ria",
-    "message": "「Well... I'm your senpai, after all. I'm your big sister! Protecting you is only natural, Synn-kun」"
+    "message": "「Well... I'm your senpai, after all. I'm your big sister! Protecting you is only natural, Synn-kun.」"
   },
   {
     "name": "Ria",
@@ -384,7 +384,7 @@
   },
   {
     "name": "Ria",
-    "message": "「And then you saved me, Synn-kun. You... protected me」"
+    "message": "「And then you saved me, Synn-kun. You... protected me.」"
   },
   {
     "name": "Synn",
@@ -406,19 +406,19 @@
   },
   {
     "name": "Ria",
-    "message": "「Synn-kun」"
+    "message": "「Synn-kun.」"
   },
   {
     "name": "Ria",
-    "message": "「Look over here」"
+    "message": "「Look over here.」"
   },
   {
     "name": "Ria",
-    "message": "「I want you to look at me」"
+    "message": "「I want you to look at me.」"
   },
   {
     "name": "Ria",
-    "message": "「Yes, good boy」"
+    "message": "「Yes, good boy.」"
   },
   {
     "message": "Ria-senpai welcomed me with a beaming smile."
@@ -436,7 +436,7 @@
   },
   {
     "name": "Ria",
-    "message": "「When you feel like crying, just cry your heart out. You can cry until all your tears run dry」"
+    "message": "「When you feel like crying, just cry your heart out. You can cry until all your tears run dry.」"
   },
   {
     "name": "Synn",
@@ -444,7 +444,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Because once you run out of tears to shed, you won't have to cry anymore」"
+    "message": "「Because once you run out of tears to shed, you won't have to cry anymore.」"
   },
   {
     "name": "Synn",
@@ -476,14 +476,14 @@
   },
   {
     "name": "Ria",
-    "message": "「Hehe... Looks like he cried himself to sleep\\s04」"
+    "message": "「Hehe... Looks like he cried himself to sleep.\\s04」"
   },
   {
     "name": "Paqy",
-    "message": "「Tch. Can't be helped, I guess. Just for today, I'll lend him Ria-chan's boobs」"
+    "message": "「Tch. Can't be helped, I guess. Just for today, I'll lend him Ria-chan's boobs.」"
   },
   {
     "name": "Ria",
-    "message": "「They aren't yours to lend, Paa-chan\\s02」"
+    "message": "「They aren't yours to lend, Paa-chan.\\s02」"
   }
 ]

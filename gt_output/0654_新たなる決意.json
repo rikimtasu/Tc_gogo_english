@@ -31,7 +31,7 @@
     "message": "「...」"
   },
   {
-    "message": "He glances briefly over at Lolotte."
+    "message": "She glances briefly over at Lolotte."
   },
   {
     "name": "Azel",
@@ -310,11 +310,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Letting Azel go back to Heaven all alone... I'm just worried about him」"
+    "message": "「Letting Azel go back to Heaven all alone... I'm just worried about her.」"
   },
   {
     "name": "Lolotte",
-    "message": "「If it's in the Human World, the Chairman and the others can be there by his side. However--」"
+    "message": "「If it's in the Human World, the Chairman and the others can be there by her side. However--」"
   },
   {
     "name": "Amyrina",
@@ -322,7 +322,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Thank you, Amyrina... but I couldn't possibly push that responsibility onto you」"
+    "message": "「Thank you, Amyrina... but I couldn't possibly push that responsibility onto you.」"
   },
   {
     "name": "Amyrina",
@@ -338,7 +338,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It'll be fine. I'm a dropout from Heaven, after all, so nobody really pays me much mind」"
+    "message": "「It'll be fine. I'm a dropout from Heaven, after all, so nobody really pays me much mind.」"
   },
   {
     "name": "Amyrina",
@@ -378,7 +378,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「In that case, why not try speaking with Master Synn about it?」"
+    "message": "「In that case, why not try speaking with Synn-sama about it?」"
   },
   {
     "name": "Lolotte",
@@ -386,7 +386,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「That is what you have always done up until now, my lady. If so, I believe that would be the best course of action」"
+    "message": "「That is what you have always done up until now, my lady. If so, I believe that would be the best course of action.」"
   },
   {
     "name": "Lolotte",
@@ -398,7 +398,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「That is for my lady to decide. Whatever path my lady chooses, I shall simply support her with everything I have」"
+    "message": "「That is for my lady to decide. Whatever path my lady chooses, I shall simply support her with everything I have.」"
   },
   {
     "name": "Lolotte",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Now then, right this way. Please get in. Acting rather than worrying is one of your most wonderful qualities, milady」"
+    "message": "「Now then, right this way. Please get in. Acting rather than worrying is one of your most wonderful qualities, milady.」"
   },
   {
     "name": "Synn",
@@ -414,11 +414,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I'm sorry to have kept you waiting」"
+    "message": "「I'm sorry to have kept you waiting.」"
   },
   {
     "name": "Synn",
-    "message": "「No, no, I'm happy. Coming to see me even at this hour」"
+    "message": "「No, no, I'm happy. Coming to see me even at this hour.」"
   },
   {
     "name": "Lolotte",
@@ -450,7 +450,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I am going back to Heaven」"
+    "message": "「I am going back to Heaven.」"
   },
   {
     "name": "Synn",
@@ -458,7 +458,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I will return to Heaven together with Azel-san and Amyrina」"
+    "message": "「I will return to Heaven together with Azel-san and Amyrina.」"
   },
   {
     "name": "Synn",
@@ -470,7 +470,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Re-Crea is different from what I knew in Heaven... It was something completely different from the knowledge widely known there」"
+    "message": "「Re-Crea is different from what I knew in Heaven... It was something completely different from the knowledge widely known there.」"
   },
   {
     "name": "Lolotte",
@@ -478,7 +478,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「We must never... allow such a situation to happen again. To prevent that, I need to convey the truth in Heaven myself」"
+    "message": "「We must never... allow such a situation to happen again. To prevent that, I need to convey the truth in Heaven myself.」"
   },
   {
     "name": "Synn",
@@ -486,23 +486,23 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Besides, I'm... still worried about Azel-san after all」"
+    "message": "「Besides, I'm... still worried about Azel-san after all.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Atoning for his sins in such an exhausted state... He must actually feel very lonely and anxious」"
+    "message": "「Atoning for her sins in such an exhausted state... She must actually feel very lonely and anxious.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Even if he tells them what actually happened, there's no telling whether they'll believe him. There is no angel in Heaven who would understand Azel-san's side of the story」"
+    "message": "「Even if she tells them what actually happened, there's no telling whether they'll believe her. There is no angel in Heaven who would understand Azel-san's side of the story.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Other than Amyrina and me, who witnessed the scene firsthand, there is no one who can protect Azel-san」"
+    "message": "「Other than Amyrina and me, who witnessed the scene firsthand, there is no one who can protect Azel-san.」"
   },
   {
     "name": "Lolotte",
-    "message": "「I had you, President, everyone in the Student Council, and so many friends... And Jiiya, Grandfather, and Grandmother were always by my side」"
+    "message": "「I had you, President, everyone in the Student Council, and so many friends... And Jiiya, Grandfather, and Grandmother were always by my side.」"
   },
   {
     "name": "Lolotte",
@@ -510,7 +510,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I'm going back... to Heaven」"
+    "message": "「I'm going back... to Heaven.」"
   },
   {
     "name": "Synn",
@@ -518,11 +518,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Once you make up your mind, Lolotte, you charge straight ahead... And I love that about you」"
+    "message": "「Once you make up your mind, Lolotte, you charge straight ahead... And I love that about you.」"
   },
   {
     "name": "Synn",
-    "message": "「So if that's what you want to do, then doing it is for the best」"
+    "message": "「So if that's what you want to do, then doing it is for the best.」"
   },
   {
     "name": "Lolotte",
@@ -551,7 +551,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Besides, it's not like we'll never see each other again」"
+    "message": "「Besides, it's not like we'll never see each other again.」"
   },
   {
     "name": "Lolotte",
@@ -570,7 +570,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It is considered taboo for an angel to set foot in the Human World. I, too, will likely be held accountable for this sin」"
+    "message": "「It is considered taboo for an angel to set foot in the Human World. I, too, will likely be held accountable for this sin.」"
   },
   {
     "name": "Lolotte",
@@ -621,7 +621,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Remember. Up until now, you've always done nothing but reckless things」"
+    "message": "「Remember. Up until now, you've always done nothing but reckless things.」"
   },
   {
     "name": "Synn",
@@ -704,7 +704,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「So please, cast a good-luck charm on me so that we'll see each other again」"
+    "message": "「So please, cast a good-luck charm on me so that we'll see each other again.」"
   },
   {
     "message": "Lolotte stands right in front of me and slowly closes her eyes."
@@ -717,7 +717,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I love you, Lolotte」"
+    "message": "「I love you, Lolotte.」"
   },
   {
     "name": "Lolotte",

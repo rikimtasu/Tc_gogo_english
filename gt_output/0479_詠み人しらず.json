@@ -54,11 +54,11 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Well, stay removed from the secular world and you're bound to lose touch with common sense. Unless you live alongside ordinary folks, you'll never know how they feel」"
+    "message": "「Well, stay removed from the secular world and you're bound to lose touch with common sense. Unless you live alongside ordinary folks, you'll never know how they feel.」"
   },
   {
     "name": "Azel",
-    "message": "「I see, I understand」"
+    "message": "「I see, I understand.」"
   },
   {
     "name": "Misasagi",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I'm in the middle of a survey」"
+    "message": "「I'm in the middle of a survey.」"
   },
   {
     "name": "Misasagi",
@@ -82,19 +82,19 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Truth is, I came here to see Rii-a」"
+    "message": "「Truth is, I came here to see Rii-a.」"
   },
   {
     "name": "Misasagi",
-    "message": "「Still, they're making a rather serious face in the Student Council room, so I can't go bothering them. Guess I'll just quietly make my exit」"
+    "message": "「Still, they're making a rather serious face in the Student Council room, so I can't go bothering them. Guess I'll just quietly make my exit.」"
   },
   {
     "name": "Misasagi",
-    "message": "「I chat with the President and Ria all the time, so I haven't had the chance to talk with Azel yet, you see」"
+    "message": "「I chat with the President and Rii-a all the time, so I haven't had the chance to talk with Azel yet, you see.」"
   },
   {
     "name": "Azel",
-    "message": "「Unnecessary」"
+    "message": "「Unnecessary.」"
   },
   {
     "message": "A curt reply. That must mean Azel just happened to pass by here and called out to Senior Misasagi."
@@ -105,7 +105,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Half of it is for hydration. The other half is because they're sold out and I have no choice」"
+    "message": "「Half of it is for hydration. The other half is because they're sold out and I have no choice.」"
   },
   {
     "name": "Synn",
@@ -113,11 +113,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Yes. That place runs out of stock immediately. It is inefficient」"
+    "message": "「Yes. That place runs out of stock immediately. It is inefficient.」"
   },
   {
     "name": "Misasagi",
-    "message": "「It sure is strange, isn't it? They hardly stock any items to sell, yet they're handing out free samples」"
+    "message": "「It sure is strange, isn't it? They hardly stock any items to sell, yet they're handing out free samples.」"
   },
   {
     "name": "Azel",
@@ -125,7 +125,7 @@
   },
   {
     "name": "Synn",
-    "message": "「They're things like samples of new products given out to customers for free」"
+    "message": "「They're things like samples of new products given out to customers for free.」"
   },
   {
     "name": "Azel",
@@ -143,7 +143,7 @@
     "message": "「Nngh!!」"
   },
   {
-    "message": "T-The look in his eyes completely changed..."
+    "message": "T-The look in her eyes completely changed..."
   },
   {
     "name": "Misasagi",
@@ -154,7 +154,7 @@
     "message": "「You're giving them to me!?」"
   },
   {
-    "message": "As he speaks, Azel snatches the jellies right out of Misasagi-senpai's hands."
+    "message": "As she speaks, Azel snatches the jellies right out of Misasagi-senpai's hands."
   },
   {
     "name": "Azel",
@@ -162,22 +162,22 @@
   },
   {
     "name": "Synn",
-    "message": "「Azel, you have to say thank you」"
+    "message": "「Azel, you have to say thank you.」"
   },
   {
     "name": "Azel",
-    "message": "「I-I thank you」"
+    "message": "「I-I thank you.」"
   },
   {
-    "message": "Was Azel hungry or something? He already tears one open and sucks down the jelly."
+    "message": "Was Azel hungry or something? She already tears one open and sucks down the jelly."
   },
   {
     "name": "Azel",
-    "message": "「Mm... sweet」"
+    "message": "「Mm... sweet.」"
   },
   {
     "name": "Misasagi",
-    "message": "「That's the new product, Vandine Polyphenol Jelly: Raisin Flavor」"
+    "message": "「That's the new product, Vandine Polyphenol Jelly: Raisin Flavor.」"
   },
   {
     "name": "Synn",
@@ -185,15 +185,15 @@
   },
   {
     "name": "Azel",
-    "message": "「Mm... astringent」"
+    "message": "「Mm... astringent.」"
   },
   {
     "name": "Misasagi",
-    "message": "「That one is Vandine Cartilage Jelly: Grape & Persimmon Flavor」"
+    "message": "「That one is Vandine Cartilage Jelly: Grape & Persimmon Flavor.」"
   },
   {
     "name": "Azel",
-    "message": "「I see. I now understand the colors and flavors」"
+    "message": "「I see. I now understand the colors and flavors.」"
   },
   {
     "name": "Synn",
@@ -201,15 +201,15 @@
   },
   {
     "name": "Azel",
-    "message": "「Jelly flavors can be identified by the color of the packaging. There is no particular need to learn the written characters」"
+    "message": "「Jelly flavors can be identified by the color of the packaging. There is no particular need to learn the written characters.」"
   },
   {
     "name": "Synn",
-    "message": "「Ah, sorry. You did just come here to study abroad, after all」"
+    "message": "「Ah, sorry. You did just come here to study abroad, after all.」"
   },
   {
     "name": "Azel",
-    "message": "「...It isn't that I cannot read it. It is merely difficult to comprehend」"
+    "message": "「...It isn't that I cannot read it. It is merely difficult to comprehend.」"
   },
   {
     "name": "Misasagi",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...The spoken language of this world is not particularly difficult, yet its characters and sentences are complex to the point of absurdity」"
+    "message": "「...The spoken language of this world is not particularly difficult, yet its characters and sentences are complex to the point of absurdity.」"
   },
   {
     "name": "Synn",
@@ -225,15 +225,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Take me, for example--the other day on my way to school, a foreigner asked me for directions」"
+    "message": "「Take me, for example--the other day on my way to school, a foreigner asked me for directions.」"
   },
   {
     "name": "Synn",
-    "message": "「I understood that they were asking, 'Where is the wharf?' And I knew the answer too」"
+    "message": "「I understood that they were asking, 'Where is the wharf?' And I knew the answer too.」"
   },
   {
     "name": "Synn",
-    "message": "「Even so, my brain went into overdrive trying to piece a sentence together, and I couldn't even pull it off」"
+    "message": "「Even so, my brain went into overdrive trying to piece a sentence together, and I couldn't even pull it off.」"
   },
   {
     "name": "Synn",
@@ -245,11 +245,11 @@
   },
   {
     "name": "Synn",
-    "message": "「To anyone watching, I must've looked completely ridiculous」"
+    "message": "「To anyone watching, I must've looked completely ridiculous.」"
   },
   {
     "name": "Azel",
-    "message": "「...Hmph」"
+    "message": "「...Hmph.」"
   },
   {
     "name": "Misasagi",
@@ -257,15 +257,15 @@
   },
   {
     "name": "Misasagi",
-    "message": "「I wanted to have a pen pal from overseas, so I sent off a long, polite letter in English--and then I got an overwhelmingly fluent reply back」"
+    "message": "「I wanted to have a pen pal from overseas, so I sent off a long, polite letter in English--and then I got an overwhelmingly fluent reply back.」"
   },
   {
     "name": "Misasagi",
-    "message": "「I couldn't understand a single bit of what they'd written, so I never wrote back and just left it at that」"
+    "message": "「I couldn't understand a single bit of what they'd written, so I never wrote back and just left it at that.」"
   },
   {
     "name": "Azel",
-    "message": "「I see. I can understand that」"
+    "message": "「I see. I can understand that.」"
   },
   {
     "name": "Misasagi",
@@ -273,7 +273,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...Not quite」"
+    "message": "「...Not quite.」"
   },
   {
     "name": "Misasagi",
@@ -281,19 +281,19 @@
   },
   {
     "name": "Azel",
-    "message": "「Go ahead」"
+    "message": "「Go ahead.」"
   },
   {
     "name": "Synn",
-    "message": "「Y-You're skimming through that at an incredible speed」"
+    "message": "「Y-You're skimming through that at an incredible speed.」"
   },
   {
     "name": "Misasagi",
-    "message": "「Here you go, back to you. It's a lovely photo book」"
+    "message": "「Here you go, back to you. It's a lovely photo book.」"
   },
   {
     "name": "Azel",
-    "message": "「How can you tell? You only looked at it for a mere few seconds」"
+    "message": "「How can you tell? You only looked at it for a mere few seconds.」"
   },
   {
     "name": "Misasagi",
@@ -305,7 +305,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Isn't it the opposite? They probably kept it sparse on purpose」"
+    "message": "「Isn't it the opposite? They probably kept it sparse on purpose.」"
   },
   {
     "name": "Misasagi",
@@ -313,7 +313,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I see, I understand」"
+    "message": "「I see, I understand.」"
   },
   {
     "name": "Azel",
@@ -325,15 +325,15 @@
   },
   {
     "name": "Azel",
-    "message": "「I do not understand the proper procedure for reading」"
+    "message": "「I do not understand the proper procedure for reading.」"
   },
   {
     "name": "Azel",
-    "message": "「First of all, the fifty sounds of a-i-u-e-o, ka-ki-ku-ke-ko are inefficient」"
+    "message": "「First of all, the fifty sounds of a-i-u-e-o, ka-ki-ku-ke-ko are inefficient.」"
   },
   {
     "name": "Azel",
-    "message": "「I acknowledge the regularity and rules of vowels and consonants, yet it is a mere string of characters devoid of meaning」"
+    "message": "「I acknowledge the regularity and rules of vowels and consonants, yet it is a mere string of characters devoid of meaning.」"
   },
   {
     "name": "Misasagi",
@@ -341,7 +341,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Though the blossoms are fragrant, they must scatter; who in this world remains unchanged? Crossing the deep mountains of vanity today, I dream no shallow dreams, nor grow tipsy」"
+    "message": "「Though the blossoms are fragrant, they must scatter; who in this world remains unchanged? Crossing the deep mountains of vanity today, I dream no shallow dreams, nor grow tipsy.」"
   },
   {
     "name": "Azel",
@@ -357,7 +357,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Those are the fifty sounds. Moreover, it is a poem with meaning」"
+    "message": "「Those are the fifty sounds. Moreover, it is a poem with meaning.」"
   },
   {
     "name": "Misasagi",
@@ -369,15 +369,15 @@
   },
   {
     "name": "Azel",
-    "message": "「Let me hear them」"
+    "message": "「Let me hear them.」"
   },
   {
     "name": "Misasagi",
-    "message": "「Now then, have a seat」"
+    "message": "「Now then, have a seat.」"
   },
   {
     "name": "Azel",
-    "message": "「I will sit」"
+    "message": "「I will sit.」"
   },
   {
     "name": "Misasagi",
@@ -399,15 +399,15 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Heaven, earth, stars, sky; mountains, rivers, peaks, valleys; clouds, mist, chambers, moss; people, dogs, tops, ends; let sulfur and monkeys grow, tamed upon the hackberry branches」"
+    "message": "「Heaven, earth, stars, sky; mountains, rivers, peaks, valleys; clouds, mist, chambers, moss; people, dogs, tops, ends; let sulfur and monkeys grow, tamed upon the hackberry branches.」"
   },
   {
     "name": "Azel",
-    "message": "「...It differs from the previous one, yet it holds meaning」"
+    "message": "「...It differs from the previous one, yet it holds meaning.」"
   },
   {
     "name": "Azel",
-    "message": "「Once again, it is the fifty sounds. Moreover, these are words that depict the world」"
+    "message": "「Once again, it is the fifty sounds. Moreover, these are words that depict the world.」"
   },
   {
     "message": "If I could, I'd love to stay by Azel's side and listen in, but I head toward the old school building."

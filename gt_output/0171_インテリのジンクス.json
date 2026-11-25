@@ -15,11 +15,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「They haven't」"
+    "message": "「They haven't.」"
   },
   {
     "name": "Synn",
-    "message": "「Right. In that case, there's probably another reason」"
+    "message": "「Right. In that case, there's probably another reason.」"
   },
   {
     "name": "Azel",
@@ -27,33 +27,33 @@
   },
   {
     "name": "Helena",
-    "message": "「Good day, everyone. Today, I'd like to introduce our student teacher, Ms. Sengen'in」"
+    "message": "「Good day, everyone. Today, I'd like to introduce our student teacher, Sengen'in-sensei.」"
   },
   {
     "message": "Guided by Helena-san's voice, the figure of what appeared to be a woman stepped onto the stage."
   },
   {
     "name": "Nanaka",
-    "message": "「See, just as I thought」"
+    "message": "「See, just as I thought.」"
   },
   {
     "name": "Synn",
-    "message": "「She's so far away I can't really see her」"
+    "message": "「She's so far away I can't really see her.」"
   },
   {
     "name": "Sengen'in",
-    "message": "「I'm Sengen'in. It's a pleasure to meet you」"
+    "message": "「I'm Sengen'in. It's a pleasure to meet you.」"
   },
   {
-    "message": "Having said that curtly, Ms. Sengen'in walked off the stage."
+    "message": "Having said that curtly, Sengen'in-sensei walked off the stage."
   },
   {
     "name": "Helena",
-    "message": "「Her subject is mathematics. She'll be in charge of Class 2-B, so please be friendly and get along with her」"
+    "message": "「Her subject is mathematics. She'll be in charge of Class 2-B, so please be friendly and get along with her.」"
   },
   {
     "name": "Nanaka",
-    "message": "「She seems like a pretty strict teacher」"
+    "message": "「She seems like a pretty strict teacher.」"
   },
   {
     "name": "Synn",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Azel",
-    "message": "「It's not」"
+    "message": "「It's not.」"
   },
   {
     "name": "Synn",
@@ -83,11 +83,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Only during the annual ceremonies, I think」"
+    "message": "「Only during the annual ceremonies, I think.」"
   },
   {
     "name": "Nanaka",
-    "message": "「I wonder if that teacher is getting special treatment」"
+    "message": "「I wonder if that teacher is getting special treatment.」"
   },
   {
     "name": "Synn",
@@ -95,7 +95,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Even so, you wouldn't be happy getting put on the spot like that. Normally, anyway」"
+    "message": "「Even so, you wouldn't be happy getting put on the spot like that. Normally, anyway.」"
   },
   {
     "name": "Synn",
@@ -114,7 +114,7 @@
     "message": "「...」"
   },
   {
-    "message": "Ah, he went off somewhere again."
+    "message": "Ah, she went off somewhere again."
   },
   {
     "name": "Nanaka",
@@ -122,13 +122,13 @@
   },
   {
     "name": "Synn",
-    "message": "「Mm, math」"
+    "message": "「Mm, math.」"
   },
   {
     "name": "Sengen'in",
-    "message": "「Class is starting. Take your seats promptly; no private chatter will be permitted from this point on」"
+    "message": "「Class is starting. Take your seats promptly; no private chatter will be permitted from this point on.」"
   },
   {
-    "message": "Right from the start, he was a strict teacher."
+    "message": "Right from the start, she was a strict teacher."
   }
 ]

@@ -74,7 +74,7 @@
   },
   {
     "name": "Sacchin",
-    "message": "「I'm looking forward to that reward cake\\s04」"
+    "message": "「I'm looking forward to that reward cake.\\s04」"
   },
   {
     "name": "Nanaka",
@@ -98,19 +98,19 @@
   },
   {
     "name": "Misasagi",
-    "message": "「I'm so happy I get to see Ria looking all dressed up and shining again」"
+    "message": "「I'm so happy I get to see Rii-a looking all dressed up and shining again.」"
   },
   {
     "name": "Ria",
-    "message": "「Calling it 'shining' is such an exaggeration, Akane-chan\\s01」"
+    "message": "「Calling it 'shining' is such an exaggeration, Akane-chan.\\s01」"
   },
   {
     "name": "Misasagi",
-    "message": "「You mustn't lose to your juniors, now. Do your very best out there」"
+    "message": "「You mustn't lose to your juniors, now. Do your very best out there.」"
   },
   {
     "name": "Ria",
-    "message": "「Yeah. Thanks」"
+    "message": "「Yeah. Thanks.」"
   },
   {
     "message": "There sure are a lot of familiar faces on the executive committee."
@@ -121,19 +121,19 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh. So you're on the executive committee too, Azel」"
+    "message": "「Oh. So you're on the executive committee too, Azel.」"
   },
   {
     "name": "Azel",
-    "message": "「I'm not」"
+    "message": "「I'm not.」"
   },
   {
     "name": "Synn",
-    "message": "「Then why don't you join the executive committee」"
+    "message": "「Then why don't you join the executive committee.」"
   },
   {
     "name": "Azel",
-    "message": "「No」"
+    "message": "「No.」"
   },
   {
     "name": "Synn",
@@ -141,27 +141,27 @@
   },
   {
     "name": "Azel",
-    "message": "「It's noisy」"
+    "message": "「It's noisy.」"
   },
   {
     "name": "Synn",
-    "message": "「I thought you liked quiet places」"
+    "message": "「I thought you liked quiet places.」"
   },
   {
     "name": "Azel",
-    "message": "「Shut up」"
+    "message": "「Shut up.」"
   },
   {
     "name": "Synn",
-    "message": "「Right~ Everywhere's gonna get pretty noisy today, after all. I wonder if there's somewhere quiet around here」"
+    "message": "「Right~ Everywhere's gonna get pretty noisy today, after all. I wonder if there's somewhere quiet around here.」"
   },
   {
     "name": "Azel",
-    "message": "「You're the one who's noisy」"
+    "message": "「You're the one who's noisy.」"
   },
   {
     "name": "Synn",
-    "message": "「? Hey, Azel. Since you're here anyway, let's enjoy it together」"
+    "message": "「? Hey, Azel. Since you're here anyway, let's enjoy it together.」"
   },
   {
     "name": "Azel",
@@ -169,22 +169,22 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah! You're missing out if you don't have fun. Why not go do some shopping or something? There might be quite a few hidden gems」"
+    "message": "「Yeah! You're missing out if you don't have fun. Why not go do some shopping or something? There might be quite a few hidden gems.」"
   },
   {
     "name": "Azel",
-    "message": "「I refuse」"
+    "message": "「I refuse.」"
   },
   {
     "name": "Synn",
     "message": "「Huh?」"
   },
   {
-    "message": "He walked away."
+    "message": "She walked away."
   },
   {
     "name": "Nanaka",
-    "message": "「Synn~. What are you doing? It's about to start」"
+    "message": "「Synn~. What are you doing? It's about to start.」"
   },
   {
     "name": "Synn",
@@ -202,6 +202,6 @@
     "message": "「Let's do thiiis!!」"
   },
   {
-    "message": "And so, the Ryuusei Academy Kira-Kira Festival officially began."
+    "message": "And so, the Ryuusei Academy Kirakira Festival officially began."
   }
 ]

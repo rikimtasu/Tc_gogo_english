@@ -47,7 +47,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Ooh-la-la, that's Sally-chan for ya♪ The idol of the Demon World, captivating even the student council\\s04」"
+    "message": "「Ooh-la-la, that's Sally-chan for ya♪ The idol of the Demon World, captivating even the student council.\\s04」"
   },
   {
     "name": "Paqy",
@@ -128,18 +128,18 @@
   },
   {
     "name": "Paqy",
-    "message": "「Listen here, Master Synn. Just 'cause I'm a Great Sage don't mean I know everythin', ya hear?」"
+    "message": "「Listen here, Synn-sama. Just 'cause I'm a Great Sage don't mean I know everythin', ya hear?」"
   },
   {
     "name": "Helena",
-    "message": "「Hiii, it's Helena, making her entrance from the secret passage\\s04」"
+    "message": "「Hiii, it's Helena, making her entrance from the secret passage.\\s04」"
   },
   {
     "name": "Synn",
     "message": "「Gah?!」"
   },
   {
-    "message": "Ms. Helena emerged from inside the fountain and walked over to us."
+    "message": "Helena-san emerged from inside the fountain and walked over to us."
   },
   {
     "name": "Sally",
@@ -186,7 +186,7 @@
     "message": "「Mix, mix, mix...」"
   },
   {
-    "message": "Sally and Ms. Helena team up to take on the challenge of making the perfect dorodango."
+    "message": "Sally and Helena-san team up to take on the challenge of making the perfect dorodango."
   },
   {
     "name": "Synn",

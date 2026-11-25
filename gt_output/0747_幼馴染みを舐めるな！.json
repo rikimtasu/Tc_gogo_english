@@ -15,7 +15,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Yours truly and Master Synn were both fast asleep, so we didn't notice a thing!」"
+    "message": "「Yours truly and Synn-sama were both fast asleep, so we didn't notice a thing!」"
   },
   {
     "name": "Misa",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Hey, Master Synn.」"
+    "message": "「Hey, Synn-sama.」"
   },
   {
     "name": "Misa",
@@ -110,11 +110,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Sakuya-kun acting weird is nothing new」"
+    "message": "「Sakuya-kun acting weird is nothing new.」"
   },
   {
     "name": "Ria",
-    "message": "「That's not what I mean\\s02」"
+    "message": "「That's not what I mean.\\s02」"
   },
   {
     "name": "Nanaka",
@@ -122,14 +122,14 @@
   },
   {
     "name": "Synn",
-    "message": "「......Phew」"
+    "message": "「......Phew.」"
   },
   {
     "message": "When I asked at the photo shop, they told me Azel had shown up about an hour ago and picked up her finished photos."
   },
   {
     "name": "Paqy",
-    "message": "「Don't get so down. At the very least, it means Azel was still in this town an hour ago」"
+    "message": "「Don't get so down. At the very least, it means Azel was still in this town an hour ago.」"
   },
   {
     "name": "Synn",
@@ -137,7 +137,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「She might've come back already」"
+    "message": "「She might've come back already.」"
   },
   {
     "message": "I almost asked if he really thought so, but I stopped myself."
@@ -147,11 +147,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Synn」"
+    "message": "「Synn.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh, Nanaka」"
+    "message": "「Oh, Nanaka.」"
   },
   {
     "name": "Nanaka",
@@ -159,7 +159,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Nothing really」"
+    "message": "「Nothing really.」"
   },
   {
     "name": "Nanaka",
@@ -167,7 +167,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「You looked totally spaced out earlier, so I thought something was up and followed you, and then you came out of the photo shop with this weirdly disappointed look on your face」"
+    "message": "「You looked totally spaced out earlier, so I thought something was up and followed you, and then you came out of the photo shop with this weirdly disappointed look on your face.」"
   },
   {
     "name": "Nanaka",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Synn",
-    "message": "「No... I don't think so. I mean, I haven't even confessed to her」"
+    "message": "「No... I don't think so. I mean, I haven't even confessed to her.」"
   },
   {
     "name": "Nanaka",
@@ -198,22 +198,22 @@
     "message": "「Th-That voice just now?!」"
   },
   {
-    "message": "I spun around to see Shinaoba hiding in the shadow of a utility pole?!"
+    "message": "I spun around to see Shina-oba hiding in the shadow of a utility pole?!"
   },
   {
     "name": "Synn",
-    "message": "「Whoa, this is bad」"
+    "message": "「Whoa, this is bad.」"
   },
   {
     "name": "Synn",
-    "message": "「......And that's everything」"
+    "message": "「......And that's everything.」"
   },
   {
     "name": "Nanaka",
     "message": "「...」"
   },
   {
-    "message": "Here, after running away from Shinaoba, I told them almost everything."
+    "message": "Here, after running away from Shina-oba, I told them almost everything."
   },
   {
     "message": "The only things I didn't mention were that I'd been seriously injured, and that Azel had tried to strangle me."
@@ -223,11 +223,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「...So that's what all that commotion was about」"
+    "message": "「...So that's what all that commotion was about.」"
   },
   {
     "name": "Synn",
-    "message": "「I should've told everyone earlier」"
+    "message": "「I should've told everyone earlier.」"
   },
   {
     "name": "Nanaka",
@@ -251,15 +251,15 @@
   },
   {
     "name": "Synn",
-    "message": "「I was scared... but talking to you gave me courage, Nanaka」"
+    "message": "「I was scared... but talking to you gave me courage, Nanaka.」"
   },
   {
     "name": "Nanaka",
-    "message": "「So you're gonna tell everyone else too」"
+    "message": "「So you're gonna tell everyone else too.」"
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Nanaka",
@@ -267,7 +267,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I hope that's all it takes\\s01」"
+    "message": "「I hope that's all it takes.\\s01」"
   },
   {
     "message": "Nanaka stared intently at my face."
@@ -278,15 +278,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry for hiding it」"
+    "message": "「Sorry for hiding it.」"
   },
   {
     "name": "Nanaka",
-    "message": "「You don't need to apologize. I'd hide it too」"
+    "message": "「You don't need to apologize. I'd hide it too.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Though I probably would've told you, Synn」"
+    "message": "「Though I probably would've told you, Synn.」"
   },
   {
     "name": "Synn",
@@ -294,26 +294,26 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Just kidding, just kidding. I probably wouldn't have told anyone either. I'd be too scared of how they'd react」"
+    "message": "「Just kidding, just kidding. I probably wouldn't have told anyone either. I'd be too scared of how they'd react.」"
   },
   {
     "name": "Paqy",
-    "message": "「You don't actually believe him, do ya, Soba」"
+    "message": "「You don't actually believe him, do ya, Soba.」"
   },
   {
     "name": "Nanaka",
-    "message": "「It's hard to believe, sure, but I can tell Synn isn't lying」"
+    "message": "「It's hard to believe, sure, but I can tell Synn isn't lying.」"
   },
   {
     "message": "Childhood friends are a blessing."
   },
   {
     "name": "Synn",
-    "message": "「Thanks」"
+    "message": "「Thanks.」"
   },
   {
     "name": "Nanaka",
-    "message": "「No problem at all, we do go way back, after all」"
+    "message": "「No problem at all, we do go way back, after all.」"
   },
   {
     "name": "Synn",
@@ -321,7 +321,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「If that were true, she wouldn't be sitting by your bedside--she'd have run away」"
+    "message": "「If that were true, she wouldn't be sitting by your bedside--she'd have run away.」"
   },
   {
     "name": "Synn",
@@ -329,7 +329,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Still, I think it was one of the triggers. Oh, not because she's scared of you being the Demon Lord or because she hates you or anything like that, though」"
+    "message": "「Still, I think it was one of the triggers. Oh, not because she's scared of you being the Demon Lord or because she hates you or anything like that, though.」"
   },
   {
     "name": "Synn",
@@ -337,15 +337,15 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Well, obviously because Azel loves you. No doubt about it」"
+    "message": "「Well, obviously because Azel loves you. No doubt about it.」"
   },
   {
     "name": "Synn",
-    "message": "「...I wonder about that」"
+    "message": "「...I wonder about that.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Listen here. You're the boy I fell for, so have a little confidence」"
+    "message": "「Listen here. You're the boy I fell for, so have a little confidence.」"
   },
   {
     "name": "Synn",
@@ -353,7 +353,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Makes me a little jealous, though」"
+    "message": "「Makes me a little jealous, though.」"
   },
   {
     "name": "Nanaka",
@@ -371,7 +371,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Well, I guess you wouldn't go on late-night walks with me anyway」"
+    "message": "「Well, I guess you wouldn't go on late-night walks with me anyway.」"
   },
   {
     "name": "Synn",
@@ -379,7 +379,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Still, it'll be fine. Azel's gonna come back」"
+    "message": "「Still, it'll be fine. Azel's gonna come back.」"
   },
   {
     "name": "Synn",

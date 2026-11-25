@@ -57,6 +57,75 @@ def find_iso_file_record(iso_bytes_or_file, target_path: str) -> tuple[int, int,
     return found
 
 
+def _collect_all_extents(f) -> list[tuple[int, int]]:
+    """Return sorted list of (start_lba, end_lba) for all files & directories in the ISO."""
+    f.seek(16 * SECTOR_SIZE)
+    pvd = f.read(SECTOR_SIZE)
+    root_lba = struct.unpack_from("<I", pvd, 156 + 2)[0]
+    root_sz = struct.unpack_from("<I", pvd, 156 + 10)[0]
+    extents: list[tuple[int, int]] = [(0, 32)]  # reserve system area, PVD, path tables
+
+    def walk(lba: int, sz: int) -> None:
+        end_lba = lba + max(1, (sz + SECTOR_SIZE - 1) // SECTOR_SIZE)
+        extents.append((lba, end_lba))
+        f.seek(lba * SECTOR_SIZE)
+        dir_data = f.read(sz)
+        pos = 0
+        while pos < len(dir_data):
+            rec_len = dir_data[pos]
+            if rec_len == 0:
+                pos = ((pos // SECTOR_SIZE) + 1) * SECTOR_SIZE
+                continue
+            ext_lba = struct.unpack_from("<I", dir_data, pos + 2)[0]
+            ext_sz = struct.unpack_from("<I", dir_data, pos + 10)[0]
+            flags = dir_data[pos + 25]
+            id_len = dir_data[pos + 32]
+            ident = dir_data[pos + 33 : pos + 33 + id_len]
+            if ident not in (b"\x00", b"\x01"):
+                if flags & 2:
+                    walk(ext_lba, ext_sz)
+                else:
+                    f_end = ext_lba + max(1, (ext_sz + SECTOR_SIZE - 1) // SECTOR_SIZE)
+                    extents.append((ext_lba, f_end))
+            pos += rec_len
+
+    walk(root_lba, root_sz)
+    extents.sort()
+    merged: list[tuple[int, int]] = []
+    for s, e in extents:
+        if merged and s <= merged[-1][1]:
+            merged[-1] = (merged[-1][0], max(merged[-1][1], e))
+        else:
+            merged.append((s, e))
+    return merged
+
+
+def _is_zero_range(f, start_lba: int, sector_count: int) -> bool:
+    f.seek(start_lba * SECTOR_SIZE)
+    rem = sector_count * SECTOR_SIZE
+    while rem > 0:
+        chunk = f.read(min(rem, 4 * 1024 * 1024))
+        if not chunk or any(chunk):
+            return False
+        rem -= len(chunk)
+    return True
+
+
+def _find_zero_gap(f, extents: list[tuple[int, int]], needed_sectors: int) -> int | None:
+    """Find a 16-sector-aligned interior all-zero gap between existing ISO extents.
+
+    Keeps patched UMD ISOs within the physical 1.8 GB (883,088-sector) UMD-DL limit
+    so real PSP hardware ISO drivers never need to read past the retail disc ceiling.
+    """
+    for (_, prev_end), (next_start, _) in zip(extents, extents[1:]):
+        cand = ((prev_end + 15) // 16) * 16
+        # Keep a 16-sector guard before next_start and require a real interior mastering gap
+        if cand + needed_sectors + 16 <= next_start:
+            if _is_zero_range(f, cand, needed_sectors):
+                return cand
+    return None
+
+
 def patch_iso(src_iso: Path, out_iso: Path, replacements: dict[str, Path]) -> None:
     """Copy src_iso to out_iso and replace specified ISO paths."""
     if src_iso.resolve() == out_iso.resolve():
@@ -81,6 +150,7 @@ def patch_iso(src_iso: Path, out_iso: Path, replacements: dict[str, Path]) -> No
         f.seek(16 * SECTOR_SIZE)
         pvd = bytearray(f.read(SECTOR_SIZE))
         vol_sectors = struct.unpack_from("<I", pvd, 80)[0]
+        extents = _collect_all_extents(f)
 
         for iso_path, local_file in replacements.items():
             data = local_file.read_bytes()
@@ -96,15 +166,30 @@ def patch_iso(src_iso: Path, out_iso: Path, replacements: dict[str, Path]) -> No
                     f.write(b"\x00" * pad)
                 mode = "in-place"
             else:
-                new_lba = vol_sectors
                 padded = _align_sector(len(data))
-                f.seek(new_lba * SECTOR_SIZE)
-                f.write(data)
-                pad = padded - len(data)
-                if pad:
-                    f.write(b"\x00" * pad)
-                vol_sectors += padded // SECTOR_SIZE
-                mode = f"appended@{new_lba}"
+                needed_sectors = padded // SECTOR_SIZE
+                gap_lba = _find_zero_gap(f, extents, needed_sectors)
+                if gap_lba is not None:
+                    new_lba = gap_lba
+                    f.seek(new_lba * SECTOR_SIZE)
+                    f.write(data)
+                    pad = padded - len(data)
+                    if pad:
+                        f.write(b"\x00" * pad)
+                    extents.append((new_lba, new_lba + needed_sectors))
+                    extents.sort()
+                    mode = f"gap@{new_lba}"
+                else:
+                    new_lba = vol_sectors
+                    f.seek(new_lba * SECTOR_SIZE)
+                    f.write(data)
+                    pad = padded - len(data)
+                    if pad:
+                        f.write(b"\x00" * pad)
+                    vol_sectors += needed_sectors
+                    extents.append((new_lba, new_lba + needed_sectors))
+                    extents.sort()
+                    mode = f"appended@{new_lba}"
 
             # Patch directory record: LBA (LE+BE at +2,+6) and Size (LE+BE at +10,+14)
             f.seek(rec_off)

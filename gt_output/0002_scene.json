@@ -185,7 +185,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Yep, exactly. Let's learn the basic actions first\\s04」"
+    "message": "「Yep, exactly. Let's learn the basic actions first.\\s04」"
   },
   {
     "name": "Synn",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Just hold on a little longer\\s04」"
+    "message": "「Just hold on a little longer.\\s04」"
   },
   {
     "name": "Paqy",
@@ -1305,7 +1305,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「By the way, I might assist you on a whim too, Lord Synn.」"
+    "message": "「By the way, I might assist you on a whim too, Synn-sama.」"
   },
   {
     "name": "Paqy",
@@ -1481,11 +1481,11 @@
   },
   {
     "name": "Ria",
-    "message": "「Powerful demons like Sally can sometimes have multiple Attack Attributes.\"」"
+    "message": "「Powerful demons like Sally can sometimes have multiple Attack Attributes.」"
   },
   {
     "name": "Ria",
-    "message": "「It can change every time they finish an action, so be sure to check it often.\"」"
+    "message": "「It can change every time they finish an action, so be sure to check it often.」"
   },
   {
     "name": "Paqy",
@@ -1493,11 +1493,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Unlike Attack Attributes, Guardian Attributes don't change. You can think of it as representing their natural constitution.\"」"
+    "message": "「Unlike Attack Attributes, Guardian Attributes don't change. You can think of it as representing their natural constitution.」"
   },
   {
     "name": "Paqy",
-    "message": "「If you wanna target an enemy's weakness and deal big damage, keep an eye on this one instead.\"」"
+    "message": "「If you wanna target an enemy's weakness and deal big damage, keep an eye on this one instead.」"
   },
   {
     "name": "Ria",
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Whether you can use 'em or not ain't gonna change a damn thing, though.\"」"
+    "message": "「Whether you can use 'em or not ain't gonna change a damn thing, though.」"
   },
   {
     "name": "Sally",
@@ -1621,11 +1621,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Unlike Attack Attributes, Guardian Attributes don't change. You can think of it as representing their natural constitution.\"」"
+    "message": "「Unlike Attack Attributes, Guardian Attributes don't change. You can think of it as representing their natural constitution.」"
   },
   {
     "name": "Paqy",
-    "message": "「If you wanna target an enemy's weakness and deal big damage, keep an eye on this one instead.\"」"
+    "message": "「If you wanna target an enemy's weakness and deal big damage, keep an eye on this one instead.」"
   },
   {
     "name": "Paqy",
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Don't be discouraged, Lord Synn. Only your EX Attack is truly special.」"
+    "message": "「Don't be discouraged, Synn-sama. Only your EX Attack is truly special.」"
   },
   {
     "name": "Synn",

@@ -87,11 +87,11 @@
   },
   {
     "name": "Synn",
-    "message": "「A-Azel!? What's wrong!? You're sweating so much, and you have a fever too」"
+    "message": "「A-Azel!? What's wrong!? You're sweating so much, and you have a fever too.」"
   },
   {
     "name": "Azel",
-    "message": "「Synn...... For someone like me...... Going through something like that for someone like me...... I'm sorry, I'm sorry」"
+    "message": "「Synn...... For someone like me...... Going through something like that for someone like me...... I'm sorry, I'm sorry.」"
   },
   {
     "message": "Without thinking, I hugged her back,"
@@ -219,7 +219,7 @@
   },
   {
     "name": "Bylous",
-    "message": "「I had intended to conceal both my magic power and my presence, yet it seems I cannot manage it quite as well as Nibe.」"
+    "message": "「I had intended to conceal both my magic power and my presence, yet it seems I cannot manage it quite as well as Nive.」"
   },
   {
     "name": "Synn",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Hey, Azel. Lord Synn's awake.」"
+    "message": "「Hey, Azel. Synn-sama's awake.」"
   },
   {
     "name": "Azel",
@@ -519,7 +519,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I-It's nothing」"
+    "message": "「I-It's nothing.」"
   },
   {
     "name": "Paqy",
@@ -531,7 +531,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...Ngh」"
+    "message": "「...Ngh.」"
   },
   {
     "name": "Synn",
@@ -545,14 +545,14 @@
     "message": "「Huh...」"
   },
   {
-    "message": "His palms were strangely hot."
+    "message": "Her palms were strangely hot."
   },
   {
     "name": "Azel",
-    "message": "「Ugh... ngh... aaah」"
+    "message": "「Ugh... ngh... aaah.」"
   },
   {
-    "message": "The grip of his palms pressing against my neck tightened."
+    "message": "The grip of her palms pressing against my neck tightened."
   },
   {
     "name": "Synn",
@@ -581,7 +581,7 @@
     "message": "「Azel... why are you crying?」"
   },
   {
-    "message": "His hands pulled away."
+    "message": "Her hands pulled away."
   },
   {
     "message": "I sensed Azel backing away."

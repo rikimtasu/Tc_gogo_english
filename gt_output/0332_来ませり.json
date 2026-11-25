@@ -14,7 +14,7 @@
   },
   {
     "name": "Misa",
-    "message": "「It's evening already, isn't it」"
+    "message": "「It's evening already, isn't it.」"
   },
   {
     "name": "Synn",
@@ -22,7 +22,7 @@
   },
   {
     "name": "Misa",
-    "message": "「I-It's just like last time, isn't it. We're the only ones left」"
+    "message": "「I-It's just like last time, isn't it. We're the only ones left.」"
   },
   {
     "name": "Synn",
@@ -50,7 +50,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, I think so too」"
+    "message": "「Yeah, I think so too.」"
   },
   {
     "name": "Misa",
@@ -58,7 +58,7 @@
   },
   {
     "name": "Synn",
-    "message": "「That's why I nodded to show I was listening, didn't I」"
+    "message": "「That's why I nodded to show I was listening, didn't I.」"
   },
   {
     "name": "Misa",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I can tell just by looking」"
+    "message": "「I can tell just by looking.」"
   },
   {
     "name": "Misa",
@@ -78,19 +78,19 @@
   },
   {
     "name": "Synn",
-    "message": "「Front... There's only the two of us here, you know」"
+    "message": "「Front... There's only the two of us here, you know.」"
   },
   {
     "name": "Synn",
-    "message": "「Besides, my work will be done in about thirty more minutes」"
+    "message": "「Besides, my work will be done in about thirty more minutes.」"
   },
   {
     "name": "Synn",
-    "message": "「I appreciate the thought, Misa, but there isn't enough left to split up」"
+    "message": "「I appreciate the thought, Misa, but there isn't enough left to split up.」"
   },
   {
     "name": "Misa",
-    "message": "「Th-Thirty minutes, got it. That's the perfect amount of time to do some cleaning」"
+    "message": "「Th-Thirty minutes, got it. That's the perfect amount of time to do some cleaning.」"
   },
   {
     "name": "Synn",
@@ -114,14 +114,14 @@
   },
   {
     "name": "Misa",
-    "message": "「Hmph」"
+    "message": "「Hmph.」"
   },
   {
     "message": "T-This is trouble. Misa's behavioral patterns are way too mysterious."
   },
   {
     "name": "Misa",
-    "message": "「Pacing, pacing, pacing」"
+    "message": "「Pacing, pacing, pacing.」"
   },
   {
     "message": "Hmm...? Misa is irritable."
@@ -134,7 +134,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Misa」"
+    "message": "「Misa.」"
   },
   {
     "name": "Misa",
@@ -153,11 +153,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Nah, it's the way you phrased it, Master Synn」"
+    "message": "「Nah, it's the way you phrased it, Synn-sama.」"
   },
   {
     "name": "Misa",
-    "message": "「Fidget, fidget, fidget」"
+    "message": "「Fidget, fidget, fidget.」"
   },
   {
     "message": "Hmm, hmm...? Misa is irritable."
@@ -174,7 +174,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Misa」"
+    "message": "「Misa.」"
   },
   {
     "name": "Misa",
@@ -182,7 +182,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Once this is done, let's go get something to eat together」"
+    "message": "「Once this is done, let's go get something to eat together.」"
   },
   {
     "name": "Misa",
@@ -190,11 +190,11 @@
   },
   {
     "name": "Synn",
-    "message": "「...Let's just eat casually」"
+    "message": "「...Let's just eat casually.」"
   },
   {
     "name": "Misa",
-    "message": "「W-Well, that's true too」"
+    "message": "「W-Well, that's true too.」"
   },
   {
     "name": "Misa",
@@ -209,19 +209,19 @@
   },
   {
     "name": "Synn",
-    "message": "「Ah, the sun already set」"
+    "message": "「Ah, the sun already set.」"
   },
   {
     "name": "Misa",
-    "message": "「No, Sakura-kun finished it in twenty minutes. The sunset was just shorter than that」"
+    "message": "「No, Sakura-kun finished it in twenty minutes. The sunset was just shorter than that.」"
   },
   {
     "name": "Synn",
-    "message": "「Maybe it finished quickly thanks to you, Misa」"
+    "message": "「Maybe it finished quickly thanks to you, Misa.」"
   },
   {
     "name": "Synn",
-    "message": "「That was a hymn just now, wasn't it? Your humming was so pretty, listening to it really boosted my productivity」"
+    "message": "「That was a hymn just now, wasn't it? Your humming was so pretty, listening to it really boosted my productivity.」"
   },
   {
     "name": "Misa",
@@ -249,7 +249,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, super soothing」"
+    "message": "「Yeah, super soothing.」"
   },
   {
     "name": "Misa",
@@ -261,11 +261,11 @@
   },
   {
     "name": "Synn",
-    "message": "「There's something I don't quite get, and it's been bugging me for a while」"
+    "message": "「There's something I don't quite get, and it's been bugging me for a while.」"
   },
   {
     "name": "Misa",
-    "message": "「Hmph, I bet there's a mountain of things you don't get, Sakura-kun」"
+    "message": "「Hmph, I bet there's a mountain of things you don't get, Sakura-kun.」"
   },
   {
     "name": "Synn",
@@ -277,15 +277,15 @@
   },
   {
     "name": "Synn",
-    "message": "「You were in the choir, right, Misa? I have a question about a psalm」"
+    "message": "「You were in the choir, right, Misa? I have a question about a psalm.」"
   },
   {
     "name": "Misa",
-    "message": "「*Sigh*~\\s10 Ryuusei Academy is a missionary school, you know? It's a miracle you even passed the entrance exam」"
+    "message": "「*Sigh*~\\s10 Ryuusei Academy is a missionary school, you know? It's a miracle you even passed the entrance exam.」"
   },
   {
     "name": "Synn",
-    "message": "「Well, there's no way I could look it up on my own. I don't have any clues to go on for Morobi-san and Kozorite-san」"
+    "message": "「Well, there's no way I could look it up on my own. I don't have any clues to go on for Morobi-san and Kozorite-san.」"
   },
   {
     "name": "Misa",
@@ -297,7 +297,7 @@
   },
   {
     "name": "Synn",
-    "message": "「The one with the cheerful lyrics about Shuwa-san coming over to visit Morobi-san and Kozorite-san's place」"
+    "message": "「The one with the cheerful lyrics about Shuwa-san coming over to visit Morobi-san and Kozorite-san's place.」"
   },
   {
     "name": "Misa",
@@ -321,7 +321,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Tremble, tremble, quiver, quiver」"
+    "message": "「Tremble, tremble, quiver, quiver.」"
   },
   {
     "name": "Synn",
@@ -341,7 +341,7 @@
   },
   {
     "name": "Misa",
-    "message": "「So you don't run away on the way to the shopping district, Sakura-kun」"
+    "message": "「So you don't run away on the way to the shopping district, Sakura-kun.」"
   },
   {
     "name": "Misa",
@@ -359,7 +359,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hey, Misa, are you sure this spot is okay? There were plenty of restaurants open」"
+    "message": "「Hey, Misa, are you sure this spot is okay? There were plenty of restaurants open.」"
   },
   {
     "name": "Misa",
@@ -370,11 +370,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, you're right. Once winter comes, it'll be too cold to eat in the park like this」"
+    "message": "「Yeah, you're right. Once winter comes, it'll be too cold to eat in the park like this.」"
   },
   {
     "name": "Synn",
-    "message": "「Let's enjoy eating here while there's still a hint of autumn left」"
+    "message": "「Let's enjoy eating here while there's still a hint of autumn left.」"
   },
   {
     "name": "Misa",
@@ -385,7 +385,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Mmm, it's delicious... nom, nom」"
+    "message": "「Mmm, it's delicious... nom, nom.」"
   },
   {
     "name": "Synn",
@@ -401,7 +401,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Well, Mom and Dad are super lovey-dovey, after all」"
+    "message": "「Well, Mom and Dad are super lovey-dovey, after all.」"
   },
   {
     "name": "Misa",
@@ -417,11 +417,11 @@
   },
   {
     "name": "Synn",
-    "message": "「A match after all, huh. Hmm, where should I even start... munch, munch, munch」"
+    "message": "「A match after all, huh. Hmm, where should I even start... munch, munch, munch.」"
   },
   {
     "name": "Misa",
-    "message": "「Nom, nom, nom, nom」"
+    "message": "「Nom, nom, nom, nom.」"
   },
   {
     "name": "Synn",
@@ -429,19 +429,19 @@
   },
   {
     "name": "Synn",
-    "message": "「That run-down apartment building, Grand Palace Sakura, originally belonged to a friend of his, and he took it off his hands for a pretty steep price」"
+    "message": "「That run-down apartment building, Grand Palace Sakura, originally belonged to a friend of his, and he took it off his hands for a pretty steep price.」"
   },
   {
     "name": "Misa",
-    "message": "「Yes, I remember hearing that story」"
+    "message": "「Yes, I remember hearing that story.」"
   },
   {
     "name": "Synn",
-    "message": "「Along those same lines, a friend of his at work got pinned with his boss's mistake and was about to be demoted and transferred」"
+    "message": "「Along those same lines, a friend of his at work got pinned with his boss's mistake and was about to be demoted and transferred.」"
   },
   {
     "name": "Synn",
-    "message": "「Dad covered for his friend and got sent off somewhere far away in his place」"
+    "message": "「Dad covered for his friend and got sent off somewhere far away in his place.」"
   },
   {
     "name": "Misa",
@@ -453,7 +453,7 @@
   },
   {
     "name": "Synn",
-    "message": "「And Mom, who's head over heels for Dad, tagged right along with him」"
+    "message": "「And Mom, who's head over heels for Dad, tagged right along with him.」"
   },
   {
     "name": "Misa",
@@ -461,11 +461,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I love Ryuusei Town」"
+    "message": "「I love Ryuusei Town.」"
   },
   {
     "name": "Synn",
-    "message": "「No, I guess that's not quite the right reason... I love the people living in Ryuusei Town, yeah」"
+    "message": "「No, I guess that's not quite the right reason... I love the people living in Ryuusei Town, yeah.」"
   },
   {
     "name": "Misa",
@@ -481,15 +481,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm, I don't really feel that way」"
+    "message": "「Hmm, I don't really feel that way.」"
   },
   {
     "name": "Synn",
-    "message": "「For example, Mom made the vegetable garden in our yard for me」"
+    "message": "「For example, Mom made the vegetable garden in our yard for me.」"
   },
   {
     "name": "Synn",
-    "message": "「That's why I never want to slack on taking care of it, and the vegetables I harvest there feel like Mom and I grew them together」"
+    "message": "「That's why I never want to slack on taking care of it, and the vegetables I harvest there feel like Mom and I grew them together.」"
   },
   {
     "name": "Synn",
@@ -497,7 +497,7 @@
   },
   {
     "name": "Synn",
-    "message": "「He uses Kyuu-chan to communicate with me」"
+    "message": "「He uses Kyuu-chan to communicate with me.」"
   },
   {
     "name": "Misa",
@@ -505,7 +505,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Nope, Kyuu-chan is a carrier bat. 'Kyuu' as in bloodsucking」"
+    "message": "「Nope, Kyuu-chan is a carrier bat. 'Kyuu' as in bloodsucking.」"
   },
   {
     "name": "Misa",
@@ -513,27 +513,27 @@
   },
   {
     "name": "Misa",
-    "message": "「I-I'd expect nothing less from your father, Sakura-kun」"
+    "message": "「I-I'd expect nothing less from your father, Sakura-kun.」"
   },
   {
     "name": "Synn",
-    "message": "「That's just the tip of the iceberg」"
+    "message": "「That's just the tip of the iceberg.」"
   },
   {
     "name": "Synn",
-    "message": "「The most amazing thing happened when I was little」"
+    "message": "「The most amazing thing happened when I was little.」"
   },
   {
     "name": "Synn",
-    "message": "「Back then too, Dad drew the short straw on purpose and went on a solo assignment overseas for about a year」"
+    "message": "「Back then too, Dad drew the short straw on purpose and went on a solo assignment overseas for about a year.」"
   },
   {
     "name": "Synn",
-    "message": "「Mom stayed behind for me since I was still just a little kid」"
+    "message": "「Mom stayed behind for me since I was still just a little kid.」"
   },
   {
     "name": "Misa",
-    "message": "「Kyuu-chan can't fly all the way from a foreign country, can he」"
+    "message": "「Kyuu-chan can't fly all the way from a foreign country, can he.」"
   },
   {
     "name": "Synn",
@@ -549,7 +549,7 @@
   },
   {
     "name": "Synn",
-    "message": "「A long time ago, I got a school assignment to draw my dad」"
+    "message": "「A long time ago, I got a school assignment to draw my dad.」"
   },
   {
     "name": "Misa",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah. They told us to draw a portrait and turn it in within a week」"
+    "message": "「Yeah. They told us to draw a portrait and turn it in within a week.」"
   },
   {
     "name": "Synn",
@@ -565,35 +565,35 @@
   },
   {
     "name": "Synn",
-    "message": "「Did you know? Nanaka's old man is completely bald. He's actually got a full head of hair, but he shaves it all off because it's more sanitary when making soba」"
+    "message": "「Did you know? Nanaka's old man is completely bald. He's actually got a full head of hair, but he shaves it all off because it's more sanitary when making soba.」"
   },
   {
     "name": "Synn",
-    "message": "「So for that reason, Nanaka was the fastest at finishing his portrait」"
+    "message": "「So for that reason, Nanaka was the fastest at finishing his portrait.」"
   },
   {
     "name": "Misa",
-    "message": "「Teehee, what a terrible way to put it」"
+    "message": "「Teehee, what a terrible way to put it.」"
   },
   {
     "name": "Synn",
-    "message": "「By the way, I was dead last」"
+    "message": "「By the way, I was dead last.」"
   },
   {
     "name": "Synn",
-    "message": "「You see, Dad was away, right? Even so, looking at a photo to draw him felt like cheating, so I didn't want to do that」"
+    "message": "「You see, Dad was away, right? Even so, looking at a photo to draw him felt like cheating, so I didn't want to do that.」"
   },
   {
     "name": "Synn",
-    "message": "「So I tried to picture Dad in my mind, but the problem was, I'd forgotten what kind of hairstyle he had」"
+    "message": "「So I tried to picture Dad in my mind, but the problem was, I'd forgotten what kind of hairstyle he had.」"
   },
   {
     "name": "Misa",
-    "message": "「W-Well, that's only natural. It was a whole year, after all. Little kids have so many other things to remember during that time」"
+    "message": "「W-Well, that's only natural. It was a whole year, after all. Little kids have so many other things to remember during that time.」"
   },
   {
     "name": "Synn",
-    "message": "「It's okay, Misa. Even so, I still managed to draw him properly」"
+    "message": "「It's okay, Misa. Even so, I still managed to draw him properly.」"
   },
   {
     "name": "Misa",
@@ -601,23 +601,23 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, Mom wrote a message about the hairstyle and sent Kyuu-chan flying off with it」"
+    "message": "「Yeah, Mom wrote a message about the hairstyle and sent Kyuu-chan flying off with it.」"
   },
   {
     "name": "Synn",
-    "message": "「And amazingly, Dad immediately hopped on connecting flights and came back home three days later」"
+    "message": "「And amazingly, Dad immediately hopped on connecting flights and came back home three days later.」"
   },
   {
     "name": "Synn",
-    "message": "「Then he modeled for the portrait and turned right back around to his overseas post」"
+    "message": "「Then he modeled for the portrait and turned right back around to his overseas post.」"
   },
   {
     "name": "Synn",
-    "message": "「I was so excited that I got to draw Dad right there in front of me」"
+    "message": "「I was so excited that I got to draw Dad right there in front of me.」"
   },
   {
     "name": "Synn",
-    "message": "「Though since he was so busy, he only stayed at the house for about three minutes」"
+    "message": "「Though since he was so busy, he only stayed at the house for about three minutes.」"
   },
   {
     "name": "Misa",

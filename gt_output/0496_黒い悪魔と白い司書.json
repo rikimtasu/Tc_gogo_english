@@ -22,7 +22,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Master Synn, let's get in on this too!」"
+    "message": "「Synn-sama, let's get in on this too!」"
   },
   {
     "name": "Synn",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Hiii, welcome\\s04」"
+    "message": "「Hiii, welcome.\\s04」"
   },
   {
     "name": "Helena",
@@ -129,7 +129,7 @@
   },
   {
     "name": "Helena",
-    "message": "「That's why people call you precocious, you know」"
+    "message": "「That's why people call you precocious, you know.」"
   },
   {
     "name": "Melilot",
@@ -151,6 +151,6 @@
     "message": "And so began Melilot's reading session."
   },
   {
-    "message": "Ms. Helena wore a devilish smile the entire time."
+    "message": "Helena-san wore a devilish smile the entire time."
   }
 ]

@@ -37,10 +37,10 @@
     "message": "「...It's positively antiquated... Going out of one's way to use a machine like this is pure eccentricity...」"
   },
   {
-    "message": "Even as he said that, Azel was happily caressing the old-fashioned camera all over."
+    "message": "Even as she said that, Azel was happily caressing the old-fashioned camera all over."
   },
   {
-    "message": "The fact that he hasn't touched his black tea is probably proof of how engrossed he is."
+    "message": "The fact that she hasn't touched her black tea is probably proof of how engrossed she is."
   },
   {
     "name": "Azel",
@@ -93,7 +93,7 @@
     "message": "「However... allow me to borrow them just in case.」"
   },
   {
-    "message": "He really hasn't changed at all."
+    "message": "She really hasn't changed at all."
   },
   {
     "message": "Even so."
@@ -116,7 +116,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Uh, ah, w-well... Yes, I'm grateful for the support」"
+    "message": "「Uh, ah, w-well... Yes, I'm grateful for the support.」"
   },
   {
     "message": "I shrink back."
@@ -134,15 +134,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「Midterm exams are meant to make the students of this academy realize their own academic standing」"
+    "message": "「Midterm exams are meant to make the students of this academy realize their own academic standing.」"
   },
   {
     "name": "Melilot",
-    "message": "「Furthermore, those whose test results show academic ability unworthy of this academy will be assigned mandatory remedial classes to bring them up to the proper standard」"
+    "message": "「Furthermore, those whose test results show academic ability unworthy of this academy will be assigned mandatory remedial classes to bring them up to the proper standard.」"
   },
   {
     "name": "Azel",
-    "message": "「I see. You were panicking because there is a possibility your grades will be deemed unworthy of a student here. Understood」"
+    "message": "「I see. You were panicking because there is a possibility your grades will be deemed unworthy of a student here. Understood.」"
   },
   {
     "name": "Synn",
@@ -166,7 +166,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Irrelevant」"
+    "message": "「Irrelevant.」"
   },
   {
     "name": "Synn",
@@ -178,11 +178,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I will not take them」"
+    "message": "「I will not take them.」"
   },
   {
     "name": "Synn",
-    "message": "「That's no good at all」"
+    "message": "「That's no good at all.」"
   },
   {
     "name": "Azel",
@@ -197,7 +197,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Unnecessary」"
+    "message": "「Unnecessary.」"
   },
   {
     "name": "Synn",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I see. Understood」"
+    "message": "「I see. Understood.」"
   },
   {
     "name": "Synn",
@@ -216,7 +216,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I will lend you the Leica once Azel-san's test results come out」"
+    "message": "「I will lend you the Leica once Azel-san's test results come out.」"
   },
   {
     "name": "Azel",
@@ -224,7 +224,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Of course, it will have to be a result befitting a student of the academy」"
+    "message": "「Of course, it will have to be a result befitting a student of the academy.」"
   },
   {
     "name": "Azel",
@@ -232,11 +232,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「The books are also on hold for now」"
+    "message": "「The books are also on hold for now.」"
   },
   {
     "name": "Azel",
-    "message": "「Ugh... I-I don't really need to borrow them anyway」"
+    "message": "「Ugh... I-I don't really need to borrow them anyway.」"
   },
   {
     "name": "Melilot",
@@ -248,7 +248,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「That is unfortunate. It's something I don't use anymore, so I was thinking I might lend it to you」"
+    "message": "「That is unfortunate. It's something I don't use anymore, so I was thinking I might lend it to you.」"
   },
   {
     "name": "Azel",
@@ -256,7 +256,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Perhaps I should just sell it to a secondhand shop or something」"
+    "message": "「Perhaps I should just sell it to a secondhand shop or something.」"
   },
   {
     "name": "Azel",
@@ -268,11 +268,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Next week, though」"
+    "message": "「Next week, though.」"
   },
   {
     "name": "Azel",
-    "message": "「Hold off on selling it until the test is over」"
+    "message": "「Hold off on selling it until the test is over.」"
   },
   {
     "name": "Melilot",
@@ -280,22 +280,22 @@
   },
   {
     "name": "Azel",
-    "message": "「Th-that's not what I meant, just wait」"
+    "message": "「Th-that's not what I meant, just wait.」"
   },
   {
-    "message": "He intends to take it."
+    "message": "She intends to take it."
   },
   {
     "name": "Synn",
-    "message": "「Let's have a study session with everyone before the test」"
+    "message": "「Let's have a study session with everyone before the test.」"
   },
   {
     "name": "Azel",
-    "message": "「No」"
+    "message": "「No.」"
   },
   {
     "name": "Synn",
-    "message": "「If you study properly for the test, I'll treat you to ramen」"
+    "message": "「If you study properly for the test, I'll treat you to ramen.」"
   },
   {
     "name": "Azel",

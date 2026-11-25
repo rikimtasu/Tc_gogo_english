@@ -70,11 +70,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Right back at you」"
+    "message": "「Right back at you.」"
   },
   {
     "name": "Azel",
-    "message": "「Even if my expression was set, it's already too late. This guy stepped right in front of the camera」"
+    "message": "「Even if my expression was set, it's already too late. This guy stepped right in front of the camera.」"
   },
   {
     "name": "Synn",
@@ -95,7 +95,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Ahahaha, that brings back memories」"
+    "message": "「Ahahaha, that brings back memories.」"
   },
   {
     "name": "Sacchin",
@@ -168,15 +168,15 @@
   },
   {
     "name": "Azel",
-    "message": "「...I wasn't in it」"
+    "message": "「...I wasn't in it.」"
   },
   {
     "name": "Synn",
-    "message": "「S-Sorry」"
+    "message": "「S-Sorry.」"
   },
   {
     "name": "Azel",
-    "message": "「One apology is enough」"
+    "message": "「One apology is enough.」"
   },
   {
     "name": "Sacchin",
@@ -184,11 +184,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Here, let me take it」"
+    "message": "「Here, let me take it.」"
   },
   {
     "name": "Azel",
-    "message": "「Unnecessary. Instead, you join in too」"
+    "message": "「Unnecessary. Instead, you join in too.」"
   },
   {
     "name": "Synn",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Azel",
-    "message": "「There were three subjects in the classroom. It should be the same here」"
+    "message": "「There were three subjects in the classroom. It should be the same here.」"
   },
   {
     "name": "Synn",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...Shut up」"
+    "message": "「...Shut up.」"
   },
   {
     "name": "Sacchin",
@@ -369,7 +369,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Hiii, it's Helena, sneaking out of the chapel\\s04」"
+    "message": "「Hiii, it's Helena, sneaking out of the chapel.\\s04」"
   },
   {
     "name": "Helena",
@@ -425,7 +425,7 @@
   },
   {
     "name": "Azel",
-    "message": "「You have my gratitude」"
+    "message": "「You have my gratitude.」"
   },
   {
     "name": "Helena",
@@ -437,7 +437,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Azel, your way of saying thanks is way too stiff」"
+    "message": "「Azel, your way of saying thanks is way too stiff.」"
   },
   {
     "name": "Sacchin",
@@ -455,9 +455,9 @@
     "message": "We went to the library."
   },
   {
-    "message": "Even though it was a personal favor that went beyond her duties as a librarian, Ms. Melilot gladly agreed to it."
+    "message": "Even though it was a personal favor that went beyond her duties as a librarian, Melilot-san gladly agreed to it."
   },
   {
-    "message": "Having obtained the properly fixed sunprint, Azel carefully tucked it into his student handbook and slipped it into his pocket."
+    "message": "Having obtained the properly fixed sunprint, Azel carefully tucked it into her student handbook and slipped it into her pocket."
   }
 ]

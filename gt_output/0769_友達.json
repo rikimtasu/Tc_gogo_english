@@ -119,11 +119,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I wish we could have walked side by side. If we had, we probably could have talked about a lot of things」"
+    "message": "「I wish we could have walked side by side. If we had, we probably could have talked about a lot of things.」"
   },
   {
     "name": "Synn",
-    "message": "「You can just talk to her from now on」"
+    "message": "「You can just talk to her from now on.」"
   },
   {
     "name": "Azel",
@@ -135,7 +135,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Nanaka already thinks of you as a friend, Azel」"
+    "message": "「Nanaka already thinks of you as a friend, Azel.」"
   },
   {
     "name": "Azel",
@@ -143,15 +143,15 @@
   },
   {
     "name": "Synn",
-    "message": "「If you go asking to be friends now, she'll either laugh at you or get mad」"
+    "message": "「If you go asking to be friends now, she'll either laugh at you or get mad.」"
   },
   {
     "name": "Azel",
-    "message": "「...You're right」"
+    "message": "「...You're right.」"
   },
   {
     "name": "Synn",
-    "message": "「And it's not just Nanaka--Ria-senpai, Misa, Lolotte, Sally-chan, Sacchin, and Eddie all think of you as a friend too」"
+    "message": "「And it's not just Nanaka--Ria-senpai, Misa, Lolotte, Sally-chan, Sacchin, and Eddie all think of you as a friend too.」"
   },
   {
     "name": "Azel",
@@ -159,6 +159,6 @@
   },
   {
     "name": "Azel",
-    "message": "「I see... So I was the only one who thought I was alone」"
+    "message": "「I see... So I was the only one who thought I was alone.」"
   }
 ]

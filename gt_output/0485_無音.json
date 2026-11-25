@@ -113,15 +113,15 @@
   },
   {
     "name": "Azel",
-    "message": "「I see」"
+    "message": "「I see.」"
   },
   {
     "name": "Melilot",
-    "message": "「Indeed」"
+    "message": "「Indeed.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh, I get it, you were looking at the differences in the ocean currents. Just like you said, Azel, the sea really is dyed in different shades」"
+    "message": "「Oh, I get it, you were looking at the differences in the ocean currents. Just like you said, Azel, the sea really is dyed in different shades.」"
   },
   {
     "name": "Azel",
@@ -137,7 +137,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Th-That's right. There's nothing like that」"
+    "message": "「Th-That's right. There's nothing like that.」"
   },
   {
     "name": "Synn",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Azel",
-    "message": "「No need. I already understand. That is nothing more than the flow of seawater」"
+    "message": "「No need. I already understand. That is nothing more than the flow of seawater.」"
   },
   {
     "name": "Synn",
@@ -153,18 +153,18 @@
   },
   {
     "name": "Azel",
-    "message": "「Leave me alone」"
+    "message": "「Leave me alone.」"
   },
   {
     "name": "Azel",
-    "message": "「There is someone right around here telling me not to get involved with you」"
+    "message": "「There is someone right around here telling me not to get involved with you.」"
   },
   {
     "message": "Azel twirls a finger, pointing diagonally above their own head."
   },
   {
     "name": "Synn",
-    "message": "「Well, there's someone right around here telling me to stay with you, Azel」"
+    "message": "「Well, there's someone right around here telling me to stay with you, Azel.」"
   },
   {
     "message": "I point at my own chest."
@@ -183,7 +183,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Not residing there. We merely commune around here」"
+    "message": "「Not residing there. We merely commune around here.」"
   },
   {
     "message": "Azel waves a hand back and forth in the empty space they had just pointed at."
@@ -270,7 +270,7 @@
     "message": "「...」"
   },
   {
-    "message": "Azel abruptly falls silent and turns his face toward the tideway once more."
+    "message": "Azel abruptly falls silent and turns her face toward the tideway once more."
   },
   {
     "name": "Azel",
@@ -312,7 +312,7 @@
     "message": "「...」"
   },
   {
-    "message": "Seemingly not completely deaf to her voice, Azel lowers his eyelids just as Melilot-san tells him."
+    "message": "Seemingly not completely deaf to her voice, Azel lowers her eyelids just as Melilot-san tells her."
   },
   {
     "name": "Azel",
@@ -320,7 +320,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「The sound of buds swelling as they await spring, the sound of bark splitting open against growing wood, the sound of petals preparing themselves for the day they bloom」"
+    "message": "「The sound of buds swelling as they await spring, the sound of bark splitting open against growing wood, the sound of petals preparing themselves for the day they bloom.」"
   },
   {
     "message": "Yes, that's it! That's the sound I felt from Azel's god earlier!"
@@ -331,7 +331,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「All you need to do is quietly open your eyes and listen closely」"
+    "message": "「All you need to do is quietly open your eyes and listen closely.」"
   },
   {
     "name": "Azel",
@@ -351,7 +351,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Y-Yeah」"
+    "message": "「Y-Yeah.」"
   },
   {
     "name": "Azel",
@@ -359,16 +359,16 @@
   },
   {
     "name": "Synn",
-    "message": "「He left... I can't tell if Azel is unapproachable or just honest」"
+    "message": "「She left... I can't tell if Azel is unapproachable or just honest.」"
   },
   {
     "name": "Melilot",
-    "message": "「Heehee... He's simply pure-hearted, very much so」"
+    "message": "「Heehee... She's simply pure-hearted, very much so.」"
   },
   {
     "message": "Melilot-san and I stood there and watched Azel off."
   },
   {
-    "message": "Azel looked back just once, but the moment he noticed we were still there, he scurried off in a panic."
+    "message": "Azel looked back just once, but the moment she noticed we were still there, she scurried off in a panic."
   }
 ]

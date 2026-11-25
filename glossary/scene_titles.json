@@ -1,0 +1,3070 @@
+{
+  "description": "Display-time English translations for Save/Load screen chapter titles (hooked at 0x08879460; keeps OP_SCENE and GRAPHIC.CPK/Grp_Title/%s.txt intact).",
+  "count": 766,
+  "titles": [
+    {
+      "jp": "発足!! 流星生徒会",
+      "en": "Launch! Ryuusei Student Council"
+    },
+    {
+      "jp": "結成!!　流星クルセイダース",
+      "en": "Formed!! Ryuusei Crusaders"
+    },
+    {
+      "jp": "マジカルうぃっちナナカちゃん",
+      "en": "Magical Witch Nanaka-chan"
+    },
+    {
+      "jp": "魔族さん、いらっしゃい",
+      "en": "Welcome, Demons!"
+    },
+    {
+      "jp": "どうしてついてくる!?",
+      "en": "Why Are You Following Me!?"
+    },
+    {
+      "jp": "ボインなスタンプ",
+      "en": "Bouncy Stamp"
+    },
+    {
+      "jp": "出動!!　流星クルセイダース",
+      "en": "Move Out!! Ryuusei Crusaders"
+    },
+    {
+      "jp": "WANNA BE HANABI",
+      "en": "WANNA BE HANABI"
+    },
+    {
+      "jp": "今そこにある壊滅の危機!?",
+      "en": "Clear and Present Doom!?"
+    },
+    {
+      "jp": "親密に親睦会",
+      "en": "Getting Close at the Mixer"
+    },
+    {
+      "jp": "ソバがために僕は泣く",
+      "en": "For Soba, I Weep"
+    },
+    {
+      "jp": "大漁、一本釣り日誌",
+      "en": "Big Catch Fishing Log"
+    },
+    {
+      "jp": "ブルジョワとプロレタリアン",
+      "en": "Bourgeois and Proletarian"
+    },
+    {
+      "jp": "ミッション　in　オードブル",
+      "en": "Mission in Hors d'Oeuvres"
+    },
+    {
+      "jp": "HANABIでどんちゃん",
+      "en": "HANABI Party Time"
+    },
+    {
+      "jp": "乙女の舞いにてんてこ舞い",
+      "en": "Spinning in a Maiden's Dance"
+    },
+    {
+      "jp": "謎が謎呼ぶ転校生",
+      "en": "Enigmatic Transfer Student"
+    },
+    {
+      "jp": "憂と優",
+      "en": "Sorrow and Kindness"
+    },
+    {
+      "jp": "さあ、生徒会活動の始まりだ！",
+      "en": "Let Council Duties Begin!"
+    },
+    {
+      "jp": "ハイスピーディング・リアカー",
+      "en": "High-Speeding Rear-Car"
+    },
+    {
+      "jp": "バザールでおじゃーる",
+      "en": "Off to the Bazaar!"
+    },
+    {
+      "jp": "一夜漬け魔王",
+      "en": "Cramming Demon Lord"
+    },
+    {
+      "jp": "エスケープ・ゴート",
+      "en": "Escape Goat"
+    },
+    {
+      "jp": "ヘレナ・THE・ダイナマイト",
+      "en": "Helena THE Dynamite"
+    },
+    {
+      "jp": "キラキラへの道",
+      "en": "The Road to Sparkles"
+    },
+    {
+      "jp": "サリーちゃんの暗躍",
+      "en": "Sally-chan's Secret Schemes"
+    },
+    {
+      "jp": "サリーちゃんの迷惑",
+      "en": "Sally-chan's Nuisance"
+    },
+    {
+      "jp": "サリーちゃんの決断",
+      "en": "Sally-chan's Resolve"
+    },
+    {
+      "jp": "エンジェリックエクストラ",
+      "en": "Angelic Extra"
+    },
+    {
+      "jp": "サリーちゃんの逆襲",
+      "en": "Sally-chan Strikes Back"
+    },
+    {
+      "jp": "会計監査っておいしいの？",
+      "en": "Is an Audit Tasty?"
+    },
+    {
+      "jp": "ぶぶづけ",
+      "en": "Bubuzuke"
+    },
+    {
+      "jp": "越後屋は誰だ!?",
+      "en": "Who's the Crooked Merchant!?"
+    },
+    {
+      "jp": "商店街のアイドル？",
+      "en": "Shopping District Idol?"
+    },
+    {
+      "jp": "幼馴染みは一心同体？",
+      "en": "Childhood Friends as One?"
+    },
+    {
+      "jp": "ポスター貼りは高等技能",
+      "en": "Poster-Hanging Is an Art"
+    },
+    {
+      "jp": "サリーちゃんとスウィーツ",
+      "en": "Sally-chan and Sweets"
+    },
+    {
+      "jp": "スウィーツ革命",
+      "en": "Sweets Revolution"
+    },
+    {
+      "jp": "人は見かけが９割？",
+      "en": "Looks Are 90% of It?"
+    },
+    {
+      "jp": "洋菓子ＪＩＳ規格",
+      "en": "Pastry JIS Standards"
+    },
+    {
+      "jp": "洋菓子ＶＳ和菓子",
+      "en": "Western Sweets vs. Wagashi"
+    },
+    {
+      "jp": "幼馴染みは振り向かない",
+      "en": "Old Friends Don't Look Back"
+    },
+    {
+      "jp": "恐怖！　集団幻聴！",
+      "en": "Terror! Mass Hallucination!"
+    },
+    {
+      "jp": "無敵の看板天使",
+      "en": "Invincible Poster Angel"
+    },
+    {
+      "jp": "天使は枝を折る～♪",
+      "en": "Angels Snap Branches~"
+    },
+    {
+      "jp": "ナショナル　ハムブルグ",
+      "en": "National Hamburg"
+    },
+    {
+      "jp": "サバイバル×リサイクル",
+      "en": "Survival x Recycle"
+    },
+    {
+      "jp": "ちっちゃなボディーガード",
+      "en": "Tiny Bodyguard"
+    },
+    {
+      "jp": "特攻天使",
+      "en": "Kamikaze Angel"
+    },
+    {
+      "jp": "天と地が喰らう勝負",
+      "en": "Heaven vs. Earth Showdown"
+    },
+    {
+      "jp": "知らぬ者は痴れた者",
+      "en": "Ignorance Is Folly"
+    },
+    {
+      "jp": "濡れたぎる青春",
+      "en": "Drenched, Boiling Youth"
+    },
+    {
+      "jp": "乾いた風にかき消される",
+      "en": "Drowned Out by Dry Wind"
+    },
+    {
+      "jp": "熱き情熱の果てに",
+      "en": "At Passion's Fiery End"
+    },
+    {
+      "jp": "軍隊カレー",
+      "en": "Army Curry"
+    },
+    {
+      "jp": "ロロット沼編",
+      "en": "Lolotte's Swamp Arc"
+    },
+    {
+      "jp": "拾う門にも福来たる",
+      "en": "Luck Visits Those Who Pick"
+    },
+    {
+      "jp": "バッドオクトーバーを追え！",
+      "en": "Hunt for Bad October!"
+    },
+    {
+      "jp": "大人の階段を登れない",
+      "en": "Stuck on Adulthood's Stairs"
+    },
+    {
+      "jp": "ライバルとリサイクル",
+      "en": "Rivals and Recycling"
+    },
+    {
+      "jp": "企画会議は戦いだ",
+      "en": "Planning Meetings Are War"
+    },
+    {
+      "jp": "三人寄れば問題な知恵",
+      "en": "Three Heads, Triple Trouble"
+    },
+    {
+      "jp": "心と体が洗われる",
+      "en": "Cleansing Mind and Body"
+    },
+    {
+      "jp": "徹底的に手と手",
+      "en": "Stuck Hand in Hand"
+    },
+    {
+      "jp": "囮捜査で大捕物",
+      "en": "Big Sting Operation"
+    },
+    {
+      "jp": "温もりを感じたい",
+      "en": "Wanting to Feel Warmth"
+    },
+    {
+      "jp": "ハクを愛する",
+      "en": "Love to Wear Them"
+    },
+    {
+      "jp": "ベジタ・ブルー",
+      "en": "Veggie Blues"
+    },
+    {
+      "jp": "ブラックマロウ！",
+      "en": "Blackumarou!"
+    },
+    {
+      "jp": "リア先生の青空教室",
+      "en": "Ms. Ria's Open-Air Class"
+    },
+    {
+      "jp": "はいてなければ見られない",
+      "en": "No Panties, Nothing to See"
+    },
+    {
+      "jp": "酔いどれて、パンダ",
+      "en": "Drunken Panda"
+    },
+    {
+      "jp": "色々おっきな妹さん",
+      "en": "A Very Big Little Sister"
+    },
+    {
+      "jp": "守りたいものがある",
+      "en": "Something Worth Protecting"
+    },
+    {
+      "jp": "大人と子供の境界線",
+      "en": "Between Adult and Child"
+    },
+    {
+      "jp": "おっぱいは正義である",
+      "en": "Boobs Are Justice"
+    },
+    {
+      "jp": "甘いばかりが和菓子じゃない",
+      "en": "Wagashi Isn't Just Sweet"
+    },
+    {
+      "jp": "傍観より諦観で",
+      "en": "Resignation Over Watching"
+    },
+    {
+      "jp": "憧れへの挑戦",
+      "en": "Challenging My Idol"
+    },
+    {
+      "jp": "先輩の自重",
+      "en": "Senpai Holds Back"
+    },
+    {
+      "jp": "なにげにヒント",
+      "en": "A Casual Hint"
+    },
+    {
+      "jp": "お餅ともち肌",
+      "en": "Mochi and Mochi Skin"
+    },
+    {
+      "jp": "このきらきらする世界",
+      "en": "This Sparkling World"
+    },
+    {
+      "jp": "かわいい",
+      "en": "Cute"
+    },
+    {
+      "jp": "９９年の謙虚",
+      "en": "99 Years of Humility"
+    },
+    {
+      "jp": "人間界の歩き方",
+      "en": "Guide to the Human World"
+    },
+    {
+      "jp": "謎の転校生は謎",
+      "en": "Mystery Student Is a Mystery"
+    },
+    {
+      "jp": "ぺったんこ",
+      "en": "Flat as a Board"
+    },
+    {
+      "jp": "知的労働者の優雅な生活",
+      "en": "The Brain Worker's High Life"
+    },
+    {
+      "jp": "起動せよ！　ジャイアントシン！",
+      "en": "Activate! Giant Synn!"
+    },
+    {
+      "jp": "こういう時だけ神頼み",
+      "en": "Praying Only in a Pinch"
+    },
+    {
+      "jp": "夕暮れの横顔",
+      "en": "Profile at Dusk"
+    },
+    {
+      "jp": "押しが強い人種",
+      "en": "A Pushy Breed"
+    },
+    {
+      "jp": "青空と塔マニア",
+      "en": "Blue Skies & Tower Maniac"
+    },
+    {
+      "jp": "そして誰もいなくなった",
+      "en": "And Then There Were None"
+    },
+    {
+      "jp": "健やかに、厳かに",
+      "en": "Soundly and Solemnly"
+    },
+    {
+      "jp": "サリーちゃんの談合",
+      "en": "Sally-chan's Backroom Deal"
+    },
+    {
+      "jp": "前夜祭・大喝采",
+      "en": "Eve Festival Grand Applause"
+    },
+    {
+      "jp": "終わりの来ない夜",
+      "en": "The Never-Ending Night"
+    },
+    {
+      "jp": "終わりはなく、始まりが来る",
+      "en": "No End, Only a Beginning"
+    },
+    {
+      "jp": "思い出は炭酸の味",
+      "en": "Memories Taste Like Soda"
+    },
+    {
+      "jp": "ナナカのナイショ",
+      "en": "Nanaka's Little Secret"
+    },
+    {
+      "jp": "権力は鉄っぽい味がするかも？",
+      "en": "Does Power Taste Like Iron?"
+    },
+    {
+      "jp": "９９点のスウィーツ",
+      "en": "99-Point Sweets"
+    },
+    {
+      "jp": "成長のしるし",
+      "en": "Sign of Growth"
+    },
+    {
+      "jp": "探検発見、僕達の町",
+      "en": "Exploring Our Town"
+    },
+    {
+      "jp": "Ｈ・Ｅ・Ｒ・Ｏ！",
+      "en": "H.E.R.O.!"
+    },
+    {
+      "jp": "流星学園屋台村",
+      "en": "Ryuusei Food Stall Village"
+    },
+    {
+      "jp": "みさのだいもんじ！",
+      "en": "Misa's Fire Blast!"
+    },
+    {
+      "jp": "あだ名は着ぐるみ刑事",
+      "en": "Nickname: Mascot Detective"
+    },
+    {
+      "jp": "本当の宣戦布告",
+      "en": "A Real Declaration of War"
+    },
+    {
+      "jp": "魔王を知る者",
+      "en": "One Who Knows the Demon Lord"
+    },
+    {
+      "jp": "似顔絵は心を写す",
+      "en": "Portraits Mirror the Heart"
+    },
+    {
+      "jp": "努力預金の満了",
+      "en": "Hard Work Savings Matured"
+    },
+    {
+      "jp": "初めての約束",
+      "en": "Our First Promise"
+    },
+    {
+      "jp": "僕には金がないそれでも僕は奢る",
+      "en": "Broke, Yet Still Treating"
+    },
+    {
+      "jp": "流星に願いを",
+      "en": "Wish Upon a Shooting Star"
+    },
+    {
+      "jp": "労働の対価",
+      "en": "The Reward for Labor"
+    },
+    {
+      "jp": "弱い貴女は美しい",
+      "en": "You're Lovely When Fragile"
+    },
+    {
+      "jp": "シャッターチャンス",
+      "en": "Shutter Chance"
+    },
+    {
+      "jp": "密会",
+      "en": "Secret Meeting"
+    },
+    {
+      "jp": "合い言葉はちゃっ！",
+      "en": "The Password Is 'Cha!'"
+    },
+    {
+      "jp": "バランスインザダーク",
+      "en": "Balance in the Dark"
+    },
+    {
+      "jp": "理事長の居場所",
+      "en": "The Chairwoman's Whereabouts"
+    },
+    {
+      "jp": "神のお使い",
+      "en": "Messenger of God"
+    },
+    {
+      "jp": "オーガール",
+      "en": "Oh, Girl"
+    },
+    {
+      "jp": "手と手が合う瞬間",
+      "en": "When Hands Meet"
+    },
+    {
+      "jp": "流星ＡＦ",
+      "en": "Ryuusei AF"
+    },
+    {
+      "jp": "気",
+      "en": "Ki"
+    },
+    {
+      "jp": "親友と幼馴染み",
+      "en": "Best Friend & Childhood Pal"
+    },
+    {
+      "jp": "ミロテア寮",
+      "en": "Miroteia Dormitory"
+    },
+    {
+      "jp": "ヨーグル天狗",
+      "en": "Yoguru Tengu"
+    },
+    {
+      "jp": "風呂と運動",
+      "en": "Baths and Exercise"
+    },
+    {
+      "jp": "凪の如き薙刀を持つ巫女",
+      "en": "Calm Naginata Shrine Maiden"
+    },
+    {
+      "jp": "味噌汁はどうしたの？",
+      "en": "What About the Miso Soup?"
+    },
+    {
+      "jp": "柔らかいのは胸だけじゃない",
+      "en": "Not Just Her Chest Is Soft"
+    },
+    {
+      "jp": "じょー",
+      "en": "Young Lady"
+    },
+    {
+      "jp": "胸騒ぎの予兆",
+      "en": "Omen of Unease"
+    },
+    {
+      "jp": "インテリのジンクス",
+      "en": "The Intellectual's Jinx"
+    },
+    {
+      "jp": "憧れは空へと託す",
+      "en": "Entrusting Dreams to the Sky"
+    },
+    {
+      "jp": "清楚を嗅ぎ分ける者",
+      "en": "One Who Sniffs Out Purity"
+    },
+    {
+      "jp": "生徒会長は君",
+      "en": "You're the Council President"
+    },
+    {
+      "jp": "初めての、すごい、牛丼",
+      "en": "My First Amazing Beef Bowl"
+    },
+    {
+      "jp": "腕力だけが力じゃない",
+      "en": "Brawn Isn't the Only Power"
+    },
+    {
+      "jp": "新たなる敵",
+      "en": "A New Foe"
+    },
+    {
+      "jp": "七転びでもやや起き",
+      "en": "Fall Seven, Sorta Get Up"
+    },
+    {
+      "jp": "立ち入ることなかれ",
+      "en": "Do Not Enter"
+    },
+    {
+      "jp": "へっちゃらだＺ",
+      "en": "No Sweat Z"
+    },
+    {
+      "jp": "七大猫魔少女",
+      "en": "Seven Cat Demon Girls"
+    },
+    {
+      "jp": "テストなティスト",
+      "en": "A Taste of Exams"
+    },
+    {
+      "jp": "生まれてきた喜びを",
+      "en": "The Joy of Being Born"
+    },
+    {
+      "jp": "チェストなテスト",
+      "en": "Chesto! Exam Time"
+    },
+    {
+      "jp": "終わりを告げる鐘が鳴る",
+      "en": "The Bell of Ending Tolls"
+    },
+    {
+      "jp": "新しき旅路へと",
+      "en": "Onto a New Journey"
+    },
+    {
+      "jp": "共に生きることを選ぶ者達へ",
+      "en": "To Those Who Live Together"
+    },
+    {
+      "jp": "大喝采・聖夜祭",
+      "en": "Grand Applause: Holy Night"
+    },
+    {
+      "jp": "農業する日曜日",
+      "en": "Farming on a Sunday"
+    },
+    {
+      "jp": "相対的",
+      "en": "Relative"
+    },
+    {
+      "jp": "仲良きことは",
+      "en": "Getting Along Is..."
+    },
+    {
+      "jp": "ピース谷村洋菓子店",
+      "en": "Peace Tanimura Patisserie"
+    },
+    {
+      "jp": "青い鳥",
+      "en": "The Bluebird"
+    },
+    {
+      "jp": "よかったよかった",
+      "en": "All's Well That Ends Well"
+    },
+    {
+      "jp": "狩りだハロウィンだ！",
+      "en": "Hunt Time! It's Halloween!"
+    },
+    {
+      "jp": "ボインの記憶",
+      "en": "Busty Memories"
+    },
+    {
+      "jp": "野望のスウィーツ王国",
+      "en": "Ambition's Sweets Kingdom"
+    },
+    {
+      "jp": "４人寄っても",
+      "en": "Even Four Heads Together"
+    },
+    {
+      "jp": "ダメ人間たち",
+      "en": "Hopeless Slackers"
+    },
+    {
+      "jp": "さっちんのラブラブ相談",
+      "en": "Sacchin's Love Consultation"
+    },
+    {
+      "jp": "釣り堀でスイーツ",
+      "en": "Sweets at the Fishing Pond"
+    },
+    {
+      "jp": "バイオハザード",
+      "en": "Biohazard"
+    },
+    {
+      "jp": "ゾンビで会長",
+      "en": "Zombie President"
+    },
+    {
+      "jp": "さっちんのラブラブ大作戦１",
+      "en": "Sacchin's Love Operation 1"
+    },
+    {
+      "jp": "発展途上な痴話喧嘩",
+      "en": "A Developing Lovers' Quarrel"
+    },
+    {
+      "jp": "ご主人様、帰る",
+      "en": "Master Returns Home"
+    },
+    {
+      "jp": "根本的失敗",
+      "en": "Fundamental Failure"
+    },
+    {
+      "jp": "乙女爆弾",
+      "en": "Maiden Bomb"
+    },
+    {
+      "jp": "さっちんのラブラブ大作戦２",
+      "en": "Sacchin's Love Operation 2"
+    },
+    {
+      "jp": "ちちんぷいぷい",
+      "en": "Pain, Pain, Go Away"
+    },
+    {
+      "jp": "襲われる時刻？",
+      "en": "Time to Get Attacked?"
+    },
+    {
+      "jp": "公団住宅の隅で",
+      "en": "In the Apartment's Corner"
+    },
+    {
+      "jp": "労働讃歌",
+      "en": "Hymn to Labor"
+    },
+    {
+      "jp": "スウィーツ讃歌",
+      "en": "Hymn to Sweets"
+    },
+    {
+      "jp": "さっちんのラブラブ大作戦３",
+      "en": "Sacchin's Love Operation 3"
+    },
+    {
+      "jp": "さすらいのさすりあい",
+      "en": "Wandering Rub-Down"
+    },
+    {
+      "jp": "さっちんのラブラブ大作戦４",
+      "en": "Sacchin's Love Operation 4"
+    },
+    {
+      "jp": "テスト虎の穴へようこそ",
+      "en": "Welcome to Exam Boot Camp"
+    },
+    {
+      "jp": "さっちんのラブラブ大作戦５",
+      "en": "Sacchin's Love Operation 5"
+    },
+    {
+      "jp": "奇襲",
+      "en": "Surprise Attack"
+    },
+    {
+      "jp": "さっちんのラブラブ大作戦　終幕",
+      "en": "Sacchin's Love Op: Finale"
+    },
+    {
+      "jp": "キスはノーカン、恋はノーコン",
+      "en": "No-Count Kiss, Wild-Pitch Love"
+    },
+    {
+      "jp": "事故ですかそうですか違いますか",
+      "en": "An Accident? Really? Or Not?"
+    },
+    {
+      "jp": "そこに鬼が",
+      "en": "There's a Demon Here"
+    },
+    {
+      "jp": "忘却の蕎麦ブラン",
+      "en": "Forgotten Soba Mont Blanc"
+    },
+    {
+      "jp": "陥没っていうか墜落？",
+      "en": "A Cave-In, or a Crash?"
+    },
+    {
+      "jp": "キャットファイトで盛り上げろ！",
+      "en": "Liven It Up with a Catfight!"
+    },
+    {
+      "jp": "花を摘みに",
+      "en": "Off to Pick Flowers"
+    },
+    {
+      "jp": "幼馴染みは永遠に",
+      "en": "Childhood Friends Forever"
+    },
+    {
+      "jp": "邪宗門が来る！",
+      "en": "The Heretics Are Coming!"
+    },
+    {
+      "jp": "せつない色やね",
+      "en": "What a Bittersweet Hue"
+    },
+    {
+      "jp": "平和だなー",
+      "en": "Sure Is Peaceful..."
+    },
+    {
+      "jp": "しあわせの味",
+      "en": "The Taste of Happiness"
+    },
+    {
+      "jp": "時間の問題です",
+      "en": "Only a Matter of Time"
+    },
+    {
+      "jp": "食べてはいけない",
+      "en": "Do Not Eat"
+    },
+    {
+      "jp": "肩を並べる第一歩",
+      "en": "First Step Side by Side"
+    },
+    {
+      "jp": "ゲームセンターヘレナ",
+      "en": "Game Center Helena"
+    },
+    {
+      "jp": "いけない！　リア先輩",
+      "en": "Naughty Ria-senpai!"
+    },
+    {
+      "jp": "年齢だけは追いつけない",
+      "en": "Can't Catch Up in Age"
+    },
+    {
+      "jp": "お嬢さまと僕",
+      "en": "Milady and Me"
+    },
+    {
+      "jp": "学園四不思議",
+      "en": "Four Academy Mysteries"
+    },
+    {
+      "jp": "ハロウィンパニック",
+      "en": "Halloween Panic"
+    },
+    {
+      "jp": "過去を越えていけ！",
+      "en": "Surpass the Past!"
+    },
+    {
+      "jp": "はんなり舞踊",
+      "en": "A Graceful Kyoto Dance"
+    },
+    {
+      "jp": "九浄家の魔王",
+      "en": "Demon Lord of the Kujous"
+    },
+    {
+      "jp": "渋さの境地",
+      "en": "The Pinnacle of Cool"
+    },
+    {
+      "jp": "愛憎姉妹",
+      "en": "Love-Hate Sisters"
+    },
+    {
+      "jp": "恋の意識",
+      "en": "Becoming Aware of Love"
+    },
+    {
+      "jp": "魔王への憧れ",
+      "en": "Longing for the Demon Lord"
+    },
+    {
+      "jp": "強襲",
+      "en": "Assault"
+    },
+    {
+      "jp": "憧れへの嫉妬",
+      "en": "Envying What You Admire"
+    },
+    {
+      "jp": "みんなの魔王",
+      "en": "Everyone's Demon Lord"
+    },
+    {
+      "jp": "炎の魔球",
+      "en": "Flaming Magic Pitch"
+    },
+    {
+      "jp": "追憶へのアプローチ",
+      "en": "Approaching Memories"
+    },
+    {
+      "jp": "みんなを守るために",
+      "en": "To Protect Everyone"
+    },
+    {
+      "jp": "だって女の子だもん",
+      "en": "I'm a Girl, After All"
+    },
+    {
+      "jp": "完・全・勝・利!!",
+      "en": "To-tal Vic-to-ry!!"
+    },
+    {
+      "jp": "忠告と警告",
+      "en": "Advice and Warnings"
+    },
+    {
+      "jp": "ビッグブリッジな死闘",
+      "en": "Clash on the Big Bridge"
+    },
+    {
+      "jp": "欲望の連鎖と交差",
+      "en": "Chains of Crossing Desires"
+    },
+    {
+      "jp": "未知との遭遇",
+      "en": "Close Encounters"
+    },
+    {
+      "jp": "実は普通の女の子",
+      "en": "Actually a Normal Girl"
+    },
+    {
+      "jp": "魔族の恩返し",
+      "en": "A Demon's Repayment"
+    },
+    {
+      "jp": "イタリアン・トレビアン",
+      "en": "Italian, Tres Bien!"
+    },
+    {
+      "jp": "機嫌は低気圧な低血圧",
+      "en": "Low-Pressure, Low-BP Mood"
+    },
+    {
+      "jp": "まさかの呼び捨て",
+      "en": "On a First-Name Basis?!"
+    },
+    {
+      "jp": "もう一人の天使",
+      "en": "Another Angel"
+    },
+    {
+      "jp": "猫に小判、サリーにご飯",
+      "en": "Gold to Cats, Food to Sally"
+    },
+    {
+      "jp": "特盛、七大魔将",
+      "en": "Seven Demon Generals XL"
+    },
+    {
+      "jp": "本当の試練",
+      "en": "The True Trial"
+    },
+    {
+      "jp": "忘れられない思い出を",
+      "en": "Unforgettable Memories"
+    },
+    {
+      "jp": "諦めて生むが易し",
+      "en": "Give Up, and It's Easy"
+    },
+    {
+      "jp": "カオスをこえて終末へ",
+      "en": "Past Chaos, to the End"
+    },
+    {
+      "jp": "心機一転・聖夜祭",
+      "en": "Fresh Start: Holy Night Fest"
+    },
+    {
+      "jp": "即決だけど責任重大",
+      "en": "Quick Choice, Heavy Burden"
+    },
+    {
+      "jp": "幻の一大事",
+      "en": "A Phantom Crisis"
+    },
+    {
+      "jp": "命より重い豚でもただの豚",
+      "en": "Heavy as Life, Still a Pig"
+    },
+    {
+      "jp": "とろけそうなほど外国商",
+      "en": "Melt-in-Mouth Imports"
+    },
+    {
+      "jp": "わんこそば新記録",
+      "en": "New Wanko Soba Record"
+    },
+    {
+      "jp": "不穏ではない影",
+      "en": "A Not-So-Ominous Shadow"
+    },
+    {
+      "jp": "追求・問いつめたくて",
+      "en": "Pursuit: Pressing for Truth"
+    },
+    {
+      "jp": "スパイな大作戦",
+      "en": "The Great Spy Operation"
+    },
+    {
+      "jp": "内緒の同胞",
+      "en": "Secret Comrades"
+    },
+    {
+      "jp": "思いを馳せて、馳せ参じる",
+      "en": "Longing, Then Rushing In"
+    },
+    {
+      "jp": "必ず彼はやって来る",
+      "en": "He Will Surely Come"
+    },
+    {
+      "jp": "空に星と願いが駆ける",
+      "en": "Stars & Wishes Race the Sky"
+    },
+    {
+      "jp": "舞い降りた天の使い",
+      "en": "Heaven's Messenger Descends"
+    },
+    {
+      "jp": "決意新たに",
+      "en": "Renewed Resolve"
+    },
+    {
+      "jp": "従業員再教育研修",
+      "en": "Staff Retraining Seminar"
+    },
+    {
+      "jp": "香りづけにはごま油",
+      "en": "Sesame Oil for Aroma"
+    },
+    {
+      "jp": "ウェイトレスの苦行",
+      "en": "A Waitress's Ordeal"
+    },
+    {
+      "jp": "疾風のごとく（笑）",
+      "en": "Swift as the Wind (lol)"
+    },
+    {
+      "jp": "恋は煩い、皆うるさい",
+      "en": "Love Hurts, Everyone's Loud"
+    },
+    {
+      "jp": "秘境探索採集ツアー",
+      "en": "Uncharted Foraging Tour"
+    },
+    {
+      "jp": "生理的に受け付けない",
+      "en": "Physically Can't Stand It"
+    },
+    {
+      "jp": "冬のアナタ",
+      "en": "Winter You"
+    },
+    {
+      "jp": "人として生きられる幸せ",
+      "en": "The Joy of Living as Human"
+    },
+    {
+      "jp": "彼がいるから",
+      "en": "Because He's Here"
+    },
+    {
+      "jp": "強引に Be Going",
+      "en": "Forcibly Be Going"
+    },
+    {
+      "jp": "街にある魔地",
+      "en": "Demon District in Town"
+    },
+    {
+      "jp": "聖沙０－１ササミ",
+      "en": "Misa 0 - 1 Sasami"
+    },
+    {
+      "jp": "ジョーズ≠鮫",
+      "en": "Jaws != Shark"
+    },
+    {
+      "jp": "オッパイ山ｉｎ神戸市三宮",
+      "en": "Mt. Oppai in Sannomiya, Kobe"
+    },
+    {
+      "jp": "パンと魔王",
+      "en": "Bread and the Demon Lord"
+    },
+    {
+      "jp": "インプット・アウトプット",
+      "en": "Input, Output"
+    },
+    {
+      "jp": "高度・エンジェル２０",
+      "en": "Altitude: Angel 20"
+    },
+    {
+      "jp": "ストーカー禁酒法",
+      "en": "Stalker Prohibition"
+    },
+    {
+      "jp": "友達未満恋人以上",
+      "en": "Below Friends, Above Lovers"
+    },
+    {
+      "jp": "恋人たちの午後",
+      "en": "A Lovers' Afternoon"
+    },
+    {
+      "jp": "言霊",
+      "en": "Power of Words"
+    },
+    {
+      "jp": "新・言霊",
+      "en": "New Power of Words"
+    },
+    {
+      "jp": "料理の鉄刃",
+      "en": "Iron Blade Chef"
+    },
+    {
+      "jp": "ＴＨＥ・んぱん",
+      "en": "THE Leftovers"
+    },
+    {
+      "jp": "来ませり",
+      "en": "It Cometh"
+    },
+    {
+      "jp": "カバディカバディ",
+      "en": "Kabaddi, Kabaddi"
+    },
+    {
+      "jp": "新しい本物",
+      "en": "The New Real Deal"
+    },
+    {
+      "jp": "咲良リサイタル",
+      "en": "The Sakura Recital"
+    },
+    {
+      "jp": "神々の挑戦",
+      "en": "Challenge of the Gods"
+    },
+    {
+      "jp": "甘ければいーじゃない",
+      "en": "If It's Sweet, Who Cares?"
+    },
+    {
+      "jp": "赤チンに乾杯！",
+      "en": "Cheers to Mercurochrome!"
+    },
+    {
+      "jp": "仲間にして欲しそうに見ている",
+      "en": "It Wants to Join Your Party"
+    },
+    {
+      "jp": "ほわちゃっ!!",
+      "en": "Hwachaa!!"
+    },
+    {
+      "jp": "転ばなかった",
+      "en": "Didn't Trip"
+    },
+    {
+      "jp": "聖沙１－１ササミ",
+      "en": "Misa 1 - 1 Sasami"
+    },
+    {
+      "jp": "一緒に並んで",
+      "en": "Side by Side"
+    },
+    {
+      "jp": "声",
+      "en": "Voice"
+    },
+    {
+      "jp": "新任カラメル係出動！",
+      "en": "New Caramel Crew, Roll Out!"
+    },
+    {
+      "jp": "眠れない夜",
+      "en": "Sleepless Night"
+    },
+    {
+      "jp": "虚空の疲れ目",
+      "en": "Eyestrain of the Void"
+    },
+    {
+      "jp": "がくえんもの",
+      "en": "School-Life Story"
+    },
+    {
+      "jp": "ぱいコン",
+      "en": "Boob Contest"
+    },
+    {
+      "jp": "さまざまなタイプ",
+      "en": "All Sorts of Types"
+    },
+    {
+      "jp": "魔王が来たりて悪徳商法",
+      "en": "Demon Lord's Shady Scheme"
+    },
+    {
+      "jp": "最大の敵",
+      "en": "The Greatest Foe"
+    },
+    {
+      "jp": "変化",
+      "en": "Change"
+    },
+    {
+      "jp": "リンガー",
+      "en": "Ringer"
+    },
+    {
+      "jp": "軟派男の名は",
+      "en": "The Playboy's Name"
+    },
+    {
+      "jp": "違うもの違わないもの",
+      "en": "What Differs, What Doesn't"
+    },
+    {
+      "jp": "労働は尊い",
+      "en": "Labor Is Noble"
+    },
+    {
+      "jp": "仲魔",
+      "en": "Demon Comrade"
+    },
+    {
+      "jp": "男の子が好きなモノ",
+      "en": "What Boys Like"
+    },
+    {
+      "jp": "新人さんこんにちわ",
+      "en": "Hello, Newcomer"
+    },
+    {
+      "jp": "予想された敗北",
+      "en": "A Foreseen Defeat"
+    },
+    {
+      "jp": "新たな任務と責務",
+      "en": "New Missions and Duties"
+    },
+    {
+      "jp": "肉体を越えるもの",
+      "en": "Beyond the Flesh"
+    },
+    {
+      "jp": "心配",
+      "en": "Worry"
+    },
+    {
+      "jp": "最強の魔王",
+      "en": "The Strongest Demon Lord"
+    },
+    {
+      "jp": "人類の剣",
+      "en": "Sword of Humanity"
+    },
+    {
+      "jp": "謎の転校生ＶＳ謎の実習生",
+      "en": "Mystery Transfer vs. Trainee"
+    },
+    {
+      "jp": "含まれるもの。含まれないもの",
+      "en": "What's Included, What's Not"
+    },
+    {
+      "jp": "ライカ",
+      "en": "Leica"
+    },
+    {
+      "jp": "鑑賞会",
+      "en": "Viewing Party"
+    },
+    {
+      "jp": "魔将出撃",
+      "en": "Demon General Sortie"
+    },
+    {
+      "jp": "僕らの学園は戦場だった",
+      "en": "Our School Was a Battlefield"
+    },
+    {
+      "jp": "不都合な真実",
+      "en": "An Inconvenient Truth"
+    },
+    {
+      "jp": "物欲まみれでも約束",
+      "en": "Greedy, Yet a Promise"
+    },
+    {
+      "jp": "潜伏",
+      "en": "Undercover"
+    },
+    {
+      "jp": "ライヴァルは誰だ!?",
+      "en": "Who's the Rival?!"
+    },
+    {
+      "jp": "作為はだめ",
+      "en": "No Staging Allowed"
+    },
+    {
+      "jp": "偵察",
+      "en": "Reconnaissance"
+    },
+    {
+      "jp": "後悔するより走るんだ",
+      "en": "Run Rather Than Regret"
+    },
+    {
+      "jp": "誕生日",
+      "en": "Birthday"
+    },
+    {
+      "jp": "流星に願いを？",
+      "en": "Wish Upon a Shooting Star?"
+    },
+    {
+      "jp": "ラーメンとボイン",
+      "en": "Ramen and Boobs"
+    },
+    {
+      "jp": "テストが来る！",
+      "en": "Exams Are Coming!"
+    },
+    {
+      "jp": "学名ロロットベアー",
+      "en": "Species: Lolotte Bear"
+    },
+    {
+      "jp": "変態は誰だ!?",
+      "en": "Who's the Pervert?!"
+    },
+    {
+      "jp": "衝動",
+      "en": "Impulse"
+    },
+    {
+      "jp": "みんな見えたよね？",
+      "en": "Everyone Saw That, Right?"
+    },
+    {
+      "jp": "第五の魔将",
+      "en": "The Fifth Demon General"
+    },
+    {
+      "jp": "スパイ",
+      "en": "Spy"
+    },
+    {
+      "jp": "ぎふにふ",
+      "en": "Mylk"
+    },
+    {
+      "jp": "感じる感触",
+      "en": "The Feeling You Feel"
+    },
+    {
+      "jp": "特別な調味料",
+      "en": "A Special Seasoning"
+    },
+    {
+      "jp": "心のフィルム",
+      "en": "Film of the Heart"
+    },
+    {
+      "jp": "掲示板には気をつけろ",
+      "en": "Beware the Bulletin Board"
+    },
+    {
+      "jp": "悪いのは誰？",
+      "en": "Who's at Fault?"
+    },
+    {
+      "jp": "ぴろーとーく",
+      "en": "Pillow Talk"
+    },
+    {
+      "jp": "必要な物と人",
+      "en": "Needed Things and People"
+    },
+    {
+      "jp": "その名は偉大な引越し先",
+      "en": "Its Name: A Grand New Home"
+    },
+    {
+      "jp": "信じる対象",
+      "en": "Who to Believe In"
+    },
+    {
+      "jp": "１０％の福",
+      "en": "10% Good Fortune"
+    },
+    {
+      "jp": "午後のスウィーツ",
+      "en": "Afternoon Sweets"
+    },
+    {
+      "jp": "魅惑のブドウ",
+      "en": "Alluring Grapes"
+    },
+    {
+      "jp": "愛憎の有効利用",
+      "en": "Making Good Use of Love-Hate"
+    },
+    {
+      "jp": "キッカケ作りは難しい",
+      "en": "Creating an Opening Is Hard"
+    },
+    {
+      "jp": "努力の動力",
+      "en": "Effort's Driving Force"
+    },
+    {
+      "jp": "召喚師への道",
+      "en": "Path of the Summoner"
+    },
+    {
+      "jp": "押しかけ古女房",
+      "en": "Uninvited Old Wife"
+    },
+    {
+      "jp": "４８キロだから微妙",
+      "en": "48 kg Makes It Tricky"
+    },
+    {
+      "jp": "先の人",
+      "en": "The Ones Ahead"
+    },
+    {
+      "jp": "絶景",
+      "en": "Breathtaking View"
+    },
+    {
+      "jp": "論",
+      "en": "Theory"
+    },
+    {
+      "jp": "２対１＋１",
+      "en": "2 vs. 1 + 1"
+    },
+    {
+      "jp": "揚げ玉＝天カス",
+      "en": "Agedama = Tenkasu"
+    },
+    {
+      "jp": "理想と現実",
+      "en": "Ideals and Reality"
+    },
+    {
+      "jp": "タマらん",
+      "en": "Unbeara-bullet!"
+    },
+    {
+      "jp": "禁令",
+      "en": "The Ban"
+    },
+    {
+      "jp": "世界",
+      "en": "The World"
+    },
+    {
+      "jp": "素",
+      "en": "The Essence"
+    },
+    {
+      "jp": "予兆",
+      "en": "Omen"
+    },
+    {
+      "jp": "諺・狂歌・散文",
+      "en": "Proverbs, Satire, and Prose"
+    },
+    {
+      "jp": "パッキー太助",
+      "en": "Paqy Tasuke"
+    },
+    {
+      "jp": "車体色はブラック",
+      "en": "Body Color: Black"
+    },
+    {
+      "jp": "ロロットントロ",
+      "en": "Lolottontoro"
+    },
+    {
+      "jp": "家宰の人",
+      "en": "The Steward"
+    },
+    {
+      "jp": "空まで山盛り",
+      "en": "Piled High to the Sky"
+    },
+    {
+      "jp": "急いては事をうとん汁",
+      "en": "Haste Makes Uton Soup"
+    },
+    {
+      "jp": "小さな故意の物語",
+      "en": "A Little Tale of Intent"
+    },
+    {
+      "jp": "復習の手段",
+      "en": "Means of Review"
+    },
+    {
+      "jp": "パイナップルバトラー",
+      "en": "Pineapple Butler"
+    },
+    {
+      "jp": "ダンスガスンダ",
+      "en": "The Dance Is Done"
+    },
+    {
+      "jp": "カボチャ対決",
+      "en": "Pumpkin Showdown"
+    },
+    {
+      "jp": "秋色変華",
+      "en": "Autumn's Changing Hues"
+    },
+    {
+      "jp": "雌株ＤＡハー！",
+      "en": "Female Tree, Oh Yeah!"
+    },
+    {
+      "jp": "怪段",
+      "en": "Eerie Stairs"
+    },
+    {
+      "jp": "記号と再生産",
+      "en": "Signs and Reproduction"
+    },
+    {
+      "jp": "虫",
+      "en": "Bug"
+    },
+    {
+      "jp": "きっとヘタ",
+      "en": "Probably Bad at It"
+    },
+    {
+      "jp": "努力の跡",
+      "en": "Signs of Hard Work"
+    },
+    {
+      "jp": "２年Ｂ組金髪先生",
+      "en": "Class 2-B's Blonde Sensei"
+    },
+    {
+      "jp": "一緒に心配",
+      "en": "Worrying Together"
+    },
+    {
+      "jp": "乙女の園",
+      "en": "Garden of Maidens"
+    },
+    {
+      "jp": "本当は遠回り",
+      "en": "The Long Way Around"
+    },
+    {
+      "jp": "僕の仔猫ちゃん",
+      "en": "My Little Kitten"
+    },
+    {
+      "jp": "復習の鬼",
+      "en": "Study Review Fiend"
+    },
+    {
+      "jp": "紫央ちゃんと一緒",
+      "en": "Together with Shio-chan"
+    },
+    {
+      "jp": "聖沙の条件",
+      "en": "Misa's Condition"
+    },
+    {
+      "jp": "二人の時間",
+      "en": "Time for Just Us Two"
+    },
+    {
+      "jp": "改良の余地あり",
+      "en": "Room for Improvement"
+    },
+    {
+      "jp": "よきかな",
+      "en": "Splendid Indeed"
+    },
+    {
+      "jp": "探検、ぼくの学園",
+      "en": "Exploring My Academy"
+    },
+    {
+      "jp": "宝箱",
+      "en": "Treasure Chest"
+    },
+    {
+      "jp": "数",
+      "en": "Numbers"
+    },
+    {
+      "jp": "櫛の歯",
+      "en": "Teeth of a Comb"
+    },
+    {
+      "jp": "召喚師ｖｓ召喚師",
+      "en": "Summoner vs. Summoner"
+    },
+    {
+      "jp": "先輩のために鐘は鳴る",
+      "en": "For Senpai the Bell Tolls"
+    },
+    {
+      "jp": "流星一揆",
+      "en": "Ryuusei Uprising"
+    },
+    {
+      "jp": "伏兵",
+      "en": "Ambush"
+    },
+    {
+      "jp": "本日パイ高値を更新",
+      "en": "Boob Market Hits New High"
+    },
+    {
+      "jp": "欲しい",
+      "en": "I Want It"
+    },
+    {
+      "jp": "己が技を",
+      "en": "Honing One's Craft"
+    },
+    {
+      "jp": "最終下校時間",
+      "en": "Final Dismissal Bell"
+    },
+    {
+      "jp": "タヌキの世界",
+      "en": "World of Tanuki"
+    },
+    {
+      "jp": "酌み取り合戦",
+      "en": "Match of Understanding"
+    },
+    {
+      "jp": "シエスタ",
+      "en": "Siesta"
+    },
+    {
+      "jp": "消えないもの",
+      "en": "What Never Fades"
+    },
+    {
+      "jp": "かみりゅ",
+      "en": "Where God Dwells"
+    },
+    {
+      "jp": "知らない色",
+      "en": "An Unfamiliar Color"
+    },
+    {
+      "jp": "いい歌だった",
+      "en": "It Was a Good Song"
+    },
+    {
+      "jp": "意味",
+      "en": "Meaning"
+    },
+    {
+      "jp": "マーク",
+      "en": "Marks"
+    },
+    {
+      "jp": "よすが",
+      "en": "A Keepsake"
+    },
+    {
+      "jp": "真の世界",
+      "en": "The True World"
+    },
+    {
+      "jp": "詠み人しらず",
+      "en": "Author Unknown"
+    },
+    {
+      "jp": "赤いもの",
+      "en": "Something Red"
+    },
+    {
+      "jp": "言外",
+      "en": "Between the Lines"
+    },
+    {
+      "jp": "無用の用",
+      "en": "Usefulness of the Useless"
+    },
+    {
+      "jp": "神様の思し召し",
+      "en": "As God Wills It"
+    },
+    {
+      "jp": "否念",
+      "en": "Disbelief"
+    },
+    {
+      "jp": "無音",
+      "en": "Silence"
+    },
+    {
+      "jp": "もう一度",
+      "en": "One More Time"
+    },
+    {
+      "jp": "色彩",
+      "en": "Colors"
+    },
+    {
+      "jp": "素敵な粗品",
+      "en": "A Lovely Little Gift"
+    },
+    {
+      "jp": "１０年後の布石",
+      "en": "A Move for 10 Years Ahead"
+    },
+    {
+      "jp": "トラウマ仕掛け人",
+      "en": "Trauma Mastermind"
+    },
+    {
+      "jp": "機関者トーナス",
+      "en": "Pumpkin the Tank Engine"
+    },
+    {
+      "jp": "時間",
+      "en": "Time"
+    },
+    {
+      "jp": "仁義エクステンド",
+      "en": "Code of Honor Extend"
+    },
+    {
+      "jp": "見えかた",
+      "en": "How It Looks"
+    },
+    {
+      "jp": "紫央ちゃんの可能性",
+      "en": "Shio-chan's Potential"
+    },
+    {
+      "jp": "黒い悪魔と白い司書",
+      "en": "Black Devil, White Librarian"
+    },
+    {
+      "jp": "ドロ談合",
+      "en": "Mud-Pie Collusion"
+    },
+    {
+      "jp": "味の秘密",
+      "en": "The Secret to the Flavor"
+    },
+    {
+      "jp": "二人のサムライ",
+      "en": "The Two Samurai"
+    },
+    {
+      "jp": "故きを温ね",
+      "en": "Learning from the Past"
+    },
+    {
+      "jp": "よき理解者",
+      "en": "A True Confidant"
+    },
+    {
+      "jp": "お汁粉縁起",
+      "en": "The Legend of Oshiruko"
+    },
+    {
+      "jp": "フリーダム・サリーちゃん",
+      "en": "Freedom Sally-chan"
+    },
+    {
+      "jp": "生きたカード",
+      "en": "A Living Card"
+    },
+    {
+      "jp": "それぞれの秋",
+      "en": "Each One's Autumn"
+    },
+    {
+      "jp": "境",
+      "en": "Boundary"
+    },
+    {
+      "jp": "流星ネットワーク",
+      "en": "Ryuusei Network"
+    },
+    {
+      "jp": "天のことのは",
+      "en": "Words of Heaven"
+    },
+    {
+      "jp": "合槌",
+      "en": "Chiming In"
+    },
+    {
+      "jp": "滑りＤＩＥ",
+      "en": "Slip-and-DIE"
+    },
+    {
+      "jp": "まるで映画のよう",
+      "en": "Just Like a Movie"
+    },
+    {
+      "jp": "世界の入口",
+      "en": "Gateway to the World"
+    },
+    {
+      "jp": "有言の威圧",
+      "en": "Spoken Intimidation"
+    },
+    {
+      "jp": "そういうもの",
+      "en": "That's Just How It Is"
+    },
+    {
+      "jp": "目ん玉はつながってない",
+      "en": "Eyes Aren't Connected"
+    },
+    {
+      "jp": "大丈夫",
+      "en": "It's Okay"
+    },
+    {
+      "jp": "魔の手",
+      "en": "Clutches of Evil"
+    },
+    {
+      "jp": "スノードーム",
+      "en": "Snow Globe"
+    },
+    {
+      "jp": "卒業生",
+      "en": "A Graduate"
+    },
+    {
+      "jp": "大人の本",
+      "en": "An Adult Book"
+    },
+    {
+      "jp": "実は古い町",
+      "en": "A Secretly Old Town"
+    },
+    {
+      "jp": "本気",
+      "en": "Dead Serious"
+    },
+    {
+      "jp": "恐女",
+      "en": "Scary Woman"
+    },
+    {
+      "jp": "高橋探検隊",
+      "en": "Takahashi Expedition Team"
+    },
+    {
+      "jp": "図書館の謎",
+      "en": "Mystery of the Library"
+    },
+    {
+      "jp": "冬の到来",
+      "en": "Winter Arrives"
+    },
+    {
+      "jp": "ドン亀理事長奮戦記",
+      "en": "Chairwoman's Sub Escapade"
+    },
+    {
+      "jp": "武士道と乙女道",
+      "en": "Bushido and Maidenhood"
+    },
+    {
+      "jp": "セレ武な二人",
+      "en": "Posh Martial Duo"
+    },
+    {
+      "jp": "内緒の微笑み",
+      "en": "A Secret Smile"
+    },
+    {
+      "jp": "無事帰る",
+      "en": "Safe Return"
+    },
+    {
+      "jp": "人と魔族",
+      "en": "Humans and Demons"
+    },
+    {
+      "jp": "塩ちゃん",
+      "en": "Salty Shio-chan"
+    },
+    {
+      "jp": "メリロットさんの手",
+      "en": "Melilot-san's Hand"
+    },
+    {
+      "jp": "ヘレナのご褒美",
+      "en": "Helena's Reward"
+    },
+    {
+      "jp": "きっと、その頃は……",
+      "en": "By That Time, Surely..."
+    },
+    {
+      "jp": "壁",
+      "en": "The Wall"
+    },
+    {
+      "jp": "力",
+      "en": "Power"
+    },
+    {
+      "jp": "１０個５０円",
+      "en": "10 for 50 Yen"
+    },
+    {
+      "jp": "見える世界",
+      "en": "The Visible World"
+    },
+    {
+      "jp": "甘い罠",
+      "en": "A Sweet Trap"
+    },
+    {
+      "jp": "100ｇ五千円",
+      "en": "5,000 Yen per 100g"
+    },
+    {
+      "jp": "神域の小悪魔",
+      "en": "Imp of the Sacred Grounds"
+    },
+    {
+      "jp": "ルール",
+      "en": "Rules"
+    },
+    {
+      "jp": "見栄見得",
+      "en": "Pride and Posturing"
+    },
+    {
+      "jp": "よい子はやっちゃダメ",
+      "en": "Don't Try This at Home"
+    },
+    {
+      "jp": "痛くしないで……",
+      "en": "Please Don't Hurt Me..."
+    },
+    {
+      "jp": "見えざる者",
+      "en": "The Unseen One"
+    },
+    {
+      "jp": "サリーちゃんの日常",
+      "en": "Sally-chan's Daily Life"
+    },
+    {
+      "jp": "備えよ、常に",
+      "en": "Always Be Prepared"
+    },
+    {
+      "jp": "自分のものに",
+      "en": "Making It My Own"
+    },
+    {
+      "jp": "一人では生きられない",
+      "en": "No One Lives Alone"
+    },
+    {
+      "jp": "精神とキノコの部屋",
+      "en": "Room of Spirit & Shrooms"
+    },
+    {
+      "jp": "アタシ、サリーちゃん！",
+      "en": "I'm Sally-chan!"
+    },
+    {
+      "jp": "SWEETS KISS",
+      "en": "SWEETS KISS"
+    },
+    {
+      "jp": "新たな旅路へと",
+      "en": "Onto a New Journey"
+    },
+    {
+      "jp": "真実は闇の中",
+      "en": "Truth in the Dark"
+    },
+    {
+      "jp": "大賢者覚醒",
+      "en": "Great Sage Awakens"
+    },
+    {
+      "jp": "プリンセスくるせいだーす",
+      "en": "Princess Crusaders"
+    },
+    {
+      "jp": "遅刻の黙示録",
+      "en": "Apocalypse of Tardiness"
+    },
+    {
+      "jp": "大いなる目標",
+      "en": "A Grand Goal"
+    },
+    {
+      "jp": "修行は苦行",
+      "en": "Training Is Torture"
+    },
+    {
+      "jp": "憧れと目標",
+      "en": "Admiration and Goals"
+    },
+    {
+      "jp": "姉妹談義",
+      "en": "Sisterly Chat"
+    },
+    {
+      "jp": "決戦、そして……",
+      "en": "The Showdown, and..."
+    },
+    {
+      "jp": "恋の始まり",
+      "en": "The Start of Love"
+    },
+    {
+      "jp": "天使の吐息",
+      "en": "Angel's Breath"
+    },
+    {
+      "jp": "天使の溜息",
+      "en": "Angel's Sigh"
+    },
+    {
+      "jp": "天使の寝息",
+      "en": "Angel's Sleeping Breath"
+    },
+    {
+      "jp": "天使の歌声",
+      "en": "Angel's Bless"
+    },
+    {
+      "jp": "天使の笑顔",
+      "en": "Angel's Smile"
+    },
+    {
+      "jp": "ANGEL's VOICE",
+      "en": "ANGEL's VOICE"
+    },
+    {
+      "jp": "TOWER OF FINIS",
+      "en": "TOWER OF FINIS"
+    },
+    {
+      "jp": "闇からのまなざし",
+      "en": "A Gaze from the Dark"
+    },
+    {
+      "jp": "真実は瞳の中",
+      "en": "Truth in Those Eyes"
+    },
+    {
+      "jp": "マスクメロン入手法",
+      "en": "How to Get a Muskmelon"
+    },
+    {
+      "jp": "エニグマ",
+      "en": "Enigma"
+    },
+    {
+      "jp": "魔王で行こう！",
+      "en": "Let's Go, Demon Lord!"
+    },
+    {
+      "jp": "魔将は課題がお好き？",
+      "en": "Demon Generals Love Tasks?"
+    },
+    {
+      "jp": "いきなりでも大丈夫",
+      "en": "Out of the Blue Is Fine"
+    },
+    {
+      "jp": "ソバには似合わぬ場所",
+      "en": "No Place for Soba"
+    },
+    {
+      "jp": "大賢者におまかせ",
+      "en": "Leave It to the Great Sage"
+    },
+    {
+      "jp": "秘密のさぷらいず",
+      "en": "A Secret Surprise"
+    },
+    {
+      "jp": "忘却の戦慄",
+      "en": "Shudder of Oblivion"
+    },
+    {
+      "jp": "１０万兆億不可思議",
+      "en": "100 Trillion Gazillion"
+    },
+    {
+      "jp": "なかよしこよし？",
+      "en": "Best of Friends?"
+    },
+    {
+      "jp": "魔王初出動！",
+      "en": "Demon Lord's First Sortie!"
+    },
+    {
+      "jp": "輝け友情！",
+      "en": "Shine Bright, Friendship!"
+    },
+    {
+      "jp": "遭遇ふたたび",
+      "en": "Another Encounter"
+    },
+    {
+      "jp": "ナナカは見た！",
+      "en": "Nanaka Saw It!"
+    },
+    {
+      "jp": "天使の香り",
+      "en": "An Angel's Scent"
+    },
+    {
+      "jp": "僕だけが除け者!?",
+      "en": "Am I the Only One Left Out?"
+    },
+    {
+      "jp": "七番目の魔将",
+      "en": "The Seventh Demon General"
+    },
+    {
+      "jp": "なかよきことは",
+      "en": "Getting Along Is..."
+    },
+    {
+      "jp": "天使とバイクとジェラシック",
+      "en": "Angels, Bikes & Jealousy"
+    },
+    {
+      "jp": "敵か味方か",
+      "en": "Friend or Foe"
+    },
+    {
+      "jp": "クサヤタイム",
+      "en": "Kusaya Time"
+    },
+    {
+      "jp": "口に出せない、出してくれない",
+      "en": "Can't Say It, Won't Say It"
+    },
+    {
+      "jp": "負け犬たち",
+      "en": "The Underdogs"
+    },
+    {
+      "jp": "守護天使は気難し屋？",
+      "en": "A Moody Guardian Angel?"
+    },
+    {
+      "jp": "ただいま失踪中",
+      "en": "Currently Missing"
+    },
+    {
+      "jp": "最後の敵、意外な味方",
+      "en": "Final Foe, Surprise Ally"
+    },
+    {
+      "jp": "監禁は土蔵に",
+      "en": "Locked in the Storehouse"
+    },
+    {
+      "jp": "破滅を寿ぐ者",
+      "en": "Celebrant of Ruin"
+    },
+    {
+      "jp": "あこがれのπ",
+      "en": "The Coveted Pi"
+    },
+    {
+      "jp": "左を狙え",
+      "en": "Aim for the Left"
+    },
+    {
+      "jp": "流星町消滅!?",
+      "en": "Ryuusei Town Vanishes!?"
+    },
+    {
+      "jp": "走れメロスのように？",
+      "en": "Run Like Melos?"
+    },
+    {
+      "jp": "おもいで風景",
+      "en": "Scenes of Memories"
+    },
+    {
+      "jp": "うまい",
+      "en": "Delicious!"
+    },
+    {
+      "jp": "サクッと片づけちゃって",
+      "en": "Wrap It Up Quick"
+    },
+    {
+      "jp": "小さなハルマゲドン",
+      "en": "A Little Armageddon"
+    },
+    {
+      "jp": "トップシークレット",
+      "en": "Top Secret"
+    },
+    {
+      "jp": "１００点",
+      "en": "100 Points"
+    },
+    {
+      "jp": "雲の上の世界",
+      "en": "World Above the Clouds"
+    },
+    {
+      "jp": "ファイナルアドベント",
+      "en": "Final Advent"
+    },
+    {
+      "jp": "聖者への道",
+      "en": "Path to Sainthood"
+    },
+    {
+      "jp": "隠し味は思いやり",
+      "en": "Secret Ingredient: Care"
+    },
+    {
+      "jp": "堪えきれぬもの",
+      "en": "Too Much to Hold Back"
+    },
+    {
+      "jp": "陰に潜む影",
+      "en": "Shadow in the Dark"
+    },
+    {
+      "jp": "諦めの悪い天使",
+      "en": "A Stubborn Angel"
+    },
+    {
+      "jp": "獣の逢い引き",
+      "en": "Tryst of Beasts"
+    },
+    {
+      "jp": "日常にある感謝",
+      "en": "Everyday Gratitude"
+    },
+    {
+      "jp": "プレゼント",
+      "en": "The Present"
+    },
+    {
+      "jp": "予兆と疑念",
+      "en": "Omens and Doubts"
+    },
+    {
+      "jp": "ナーサティアの玉座",
+      "en": "Throne of Nasatya"
+    },
+    {
+      "jp": "信念を揺るがす者",
+      "en": "One Who Shakes Conviction"
+    },
+    {
+      "jp": "3人寄らば天使です",
+      "en": "When Three Angels Gather"
+    },
+    {
+      "jp": "力と知恵と",
+      "en": "Strength and Wisdom"
+    },
+    {
+      "jp": "死線の遭遇",
+      "en": "Encounter on the Brink"
+    },
+    {
+      "jp": "器としての資格",
+      "en": "Worthy of Being a Vessel"
+    },
+    {
+      "jp": "衝突、そして……",
+      "en": "Clash, and Then..."
+    },
+    {
+      "jp": "世界は救われたかのように",
+      "en": "As If the World Were Saved"
+    },
+    {
+      "jp": "咲良シンであるがゆえに",
+      "en": "Because I'm Synn Sakura"
+    },
+    {
+      "jp": "信念への挑戦状",
+      "en": "Challenge to Conviction"
+    },
+    {
+      "jp": "最近は緩みがち",
+      "en": "Getting Lax Lately"
+    },
+    {
+      "jp": "お嫁さん＝子作り",
+      "en": "Bride = Making Babies"
+    },
+    {
+      "jp": "初めてをあげちゃいます",
+      "en": "Giving You My First"
+    },
+    {
+      "jp": "全てを無に帰す",
+      "en": "Return All to Nothing"
+    },
+    {
+      "jp": "避けられぬ決戦",
+      "en": "Inevitable Showdown"
+    },
+    {
+      "jp": "新たなる決意",
+      "en": "A New Resolve"
+    },
+    {
+      "jp": "別れと出会いの輪廻",
+      "en": "Cycle of Parting & Meeting"
+    },
+    {
+      "jp": "ドッキリは高難度",
+      "en": "A High-Difficulty Prank"
+    },
+    {
+      "jp": "それぞれの想い",
+      "en": "Everyone's Feelings"
+    },
+    {
+      "jp": "さようなら",
+      "en": "Goodbye"
+    },
+    {
+      "jp": "おかえり",
+      "en": "Welcome Home"
+    },
+    {
+      "jp": "素直になれない恋心",
+      "en": "Too Shy to Admit Love"
+    },
+    {
+      "jp": "幸のとなり",
+      "en": "Next to Happiness"
+    },
+    {
+      "jp": "恋の悩み相談室",
+      "en": "Love Advice Corner"
+    },
+    {
+      "jp": "心が軋む音色",
+      "en": "Sound of a Creaking Heart"
+    },
+    {
+      "jp": "迅雷天使のキューピッド",
+      "en": "Swift Lightning Cupid"
+    },
+    {
+      "jp": "すきま",
+      "en": "The Gap Between"
+    },
+    {
+      "jp": "それぞれの思惑",
+      "en": "Each One's Motives"
+    },
+    {
+      "jp": "寄り切りで押し倒し",
+      "en": "Pushed Out, Pinned Down"
+    },
+    {
+      "jp": "魔性の女達",
+      "en": "Femmes Fatales"
+    },
+    {
+      "jp": "ごめんね",
+      "en": "I'm Sorry"
+    },
+    {
+      "jp": "宿命や運命",
+      "en": "Destiny and Fate"
+    },
+    {
+      "jp": "見えないもの",
+      "en": "What Cannot Be Seen"
+    },
+    {
+      "jp": "長い影",
+      "en": "A Long Shadow"
+    },
+    {
+      "jp": "ハッピーエンドの向こう側",
+      "en": "Beyond the Happy Ending"
+    },
+    {
+      "jp": "本当の涙",
+      "en": "True Tears"
+    },
+    {
+      "jp": "ガンスでゴンス",
+      "en": "Grumpy and Grumpier"
+    },
+    {
+      "jp": "紫央ちゃんとさっちん",
+      "en": "Shio-chan and Sacchin"
+    },
+    {
+      "jp": "オフェンス",
+      "en": "Offense"
+    },
+    {
+      "jp": "普通の人々",
+      "en": "Ordinary People"
+    },
+    {
+      "jp": "普通が一番難しい",
+      "en": "Normal Is the Hardest"
+    },
+    {
+      "jp": "関東煮でしゅ",
+      "en": "It's Oden Time~"
+    },
+    {
+      "jp": "理",
+      "en": "Reason"
+    },
+    {
+      "jp": "ぶっ契り",
+      "en": "An All-Out Vow"
+    },
+    {
+      "jp": "マリア様が見まくってる",
+      "en": "Maria Watches Too Closely"
+    },
+    {
+      "jp": "罠",
+      "en": "The Trap"
+    },
+    {
+      "jp": "そして聖夜",
+      "en": "And Then, Holy Night"
+    },
+    {
+      "jp": "恋人のその先に",
+      "en": "Beyond Being Lovers"
+    },
+    {
+      "jp": "夢描く魔王",
+      "en": "A Dreaming Demon Lord"
+    },
+    {
+      "jp": "泣きたいこともある",
+      "en": "Sometimes You Want to Cry"
+    },
+    {
+      "jp": "死亡フラグ回避",
+      "en": "Death Flag Dodged"
+    },
+    {
+      "jp": "魔性の女",
+      "en": "Femme Fatale"
+    },
+    {
+      "jp": "支えられてこみ上げる想い",
+      "en": "Feelings Born of Support"
+    },
+    {
+      "jp": "胸騒ぎの交錯",
+      "en": "Crossing Premonitions"
+    },
+    {
+      "jp": "踊りへっぽこ版",
+      "en": "Clumsy Dance Edition"
+    },
+    {
+      "jp": "最強に穿つ力と勇気",
+      "en": "Will to Pierce the Strongest"
+    },
+    {
+      "jp": "試される者、試す者",
+      "en": "The Tested and the Tester"
+    },
+    {
+      "jp": "絆は誰も裏切らない",
+      "en": "Bonds Never Betray"
+    },
+    {
+      "jp": "浮き上がる疑念と暗雲",
+      "en": "Rising Doubts, Dark Clouds"
+    },
+    {
+      "jp": "唇が触れそうな距離",
+      "en": "Close Enough to Kiss"
+    },
+    {
+      "jp": "天使は何語で喋るのか？",
+      "en": "What Tongue Do Angels Speak?"
+    },
+    {
+      "jp": "忘れられた戦場",
+      "en": "The Forgotten Battlefield"
+    },
+    {
+      "jp": "恋する気持ちは３拍子",
+      "en": "Love Beats in 3/4 Time"
+    },
+    {
+      "jp": "ダンス＆レボリューション",
+      "en": "Dance & Revolution"
+    },
+    {
+      "jp": "噂の影にやっぱりさっちん",
+      "en": "Behind Every Rumor: Sacchin"
+    },
+    {
+      "jp": "彼氏なんだから甘えてよ",
+      "en": "Lean on Me, Boyfriend!"
+    },
+    {
+      "jp": "忘れられない温かみ",
+      "en": "Unforgettable Warmth"
+    },
+    {
+      "jp": "リ・クリエの武器とならん",
+      "en": "Become Re-Crea's Weapon"
+    },
+    {
+      "jp": "咲良シンという魔王",
+      "en": "The Demon Lord Synn Sakura"
+    },
+    {
+      "jp": "彼氏彼女×彼氏彼女",
+      "en": "Couple x Couple"
+    },
+    {
+      "jp": "リ・クリエの夜に",
+      "en": "On the Night of Re-Crea"
+    },
+    {
+      "jp": "お引っ越し",
+      "en": "Moving In"
+    },
+    {
+      "jp": "ゆうべはおたのしみでしたね",
+      "en": "You Had Fun Last Night"
+    },
+    {
+      "jp": "息をそろえて",
+      "en": "In Perfect Sync"
+    },
+    {
+      "jp": "寝不足の原因",
+      "en": "Cause of Sleeplessness"
+    },
+    {
+      "jp": "新しいコレ",
+      "en": "A New 'Someone'?"
+    },
+    {
+      "jp": "ゴージャスウェポン",
+      "en": "Gorgeous Weapon"
+    },
+    {
+      "jp": "火花",
+      "en": "Sparks"
+    },
+    {
+      "jp": "恋について",
+      "en": "About Love"
+    },
+    {
+      "jp": "お熱ですね",
+      "en": "Running a Fever?"
+    },
+    {
+      "jp": "不合理な理由",
+      "en": "An Irrational Reason"
+    },
+    {
+      "jp": "たがためにスタミナを",
+      "en": "Stamina for Whose Sake?"
+    },
+    {
+      "jp": "熱病の夜",
+      "en": "A Feverish Night"
+    },
+    {
+      "jp": "ずれ",
+      "en": "Out of Sync"
+    },
+    {
+      "jp": "屋内プールの決闘！",
+      "en": "Indoor Pool Duel!"
+    },
+    {
+      "jp": "パスタ",
+      "en": "Pasta"
+    },
+    {
+      "jp": "告白のあと",
+      "en": "After the Confession"
+    },
+    {
+      "jp": "暴虐ウェイトレスＶＳ恐怖の司書",
+      "en": "Waitress vs. Dread Librarian"
+    },
+    {
+      "jp": "天使の痕跡",
+      "en": "Traces of an Angel"
+    },
+    {
+      "jp": "たった一人の女の子",
+      "en": "Just One Girl"
+    },
+    {
+      "jp": "最初の３人",
+      "en": "The First Three"
+    },
+    {
+      "jp": "早すぎ",
+      "en": "Way Too Soon"
+    },
+    {
+      "jp": "帰りたくない",
+      "en": "I Don't Want to Go Home"
+    },
+    {
+      "jp": "もてない男",
+      "en": "An Unpopular Guy"
+    },
+    {
+      "jp": "待ちますよ",
+      "en": "I'll Wait for You"
+    },
+    {
+      "jp": "ソルティア",
+      "en": "Soltia"
+    },
+    {
+      "jp": "会いたい時に君はいない",
+      "en": "Gone When I Want to See You"
+    },
+    {
+      "jp": "覚醒",
+      "en": "Awakening"
+    },
+    {
+      "jp": "幼馴染みを舐めるな！",
+      "en": "Don't Cross a Childhood Pal!"
+    },
+    {
+      "jp": "セーフティ",
+      "en": "Safety"
+    },
+    {
+      "jp": "味方なら闇討ち",
+      "en": "Ambush Your Own Allies"
+    },
+    {
+      "jp": "完璧な仕事",
+      "en": "A Flawless Job"
+    },
+    {
+      "jp": "縁",
+      "en": "Bonds of Fate"
+    },
+    {
+      "jp": "スーパーハッカーナナカ！",
+      "en": "Super Hacker Nanaka!"
+    },
+    {
+      "jp": "ご指名の相手は？",
+      "en": "Who's Your Pick?"
+    },
+    {
+      "jp": "神の狂える武器",
+      "en": "God's Maddened Weapon"
+    },
+    {
+      "jp": "消滅",
+      "en": "Annihilation"
+    },
+    {
+      "jp": "敵",
+      "en": "The Enemy"
+    },
+    {
+      "jp": "違う目的。同じ気持ち",
+      "en": "Different Goals, Same Heart"
+    },
+    {
+      "jp": "パスワードは語る",
+      "en": "The Password Speaks"
+    },
+    {
+      "jp": "魔王の資質",
+      "en": "Mark of a Demon Lord"
+    },
+    {
+      "jp": "バイラス",
+      "en": "Bylous"
+    },
+    {
+      "jp": "決戦前夜",
+      "en": "Eve of the Final Battle"
+    },
+    {
+      "jp": "そこにいない君",
+      "en": "You Who Aren't There"
+    },
+    {
+      "jp": "一仕事",
+      "en": "A Little Job"
+    },
+    {
+      "jp": "５分４分３分２分１分ジャスト",
+      "en": "5, 4, 3, 2, 1 Min, Exact!"
+    },
+    {
+      "jp": "ダンスダンスダンス",
+      "en": "Dance Dance Dance"
+    },
+    {
+      "jp": "リ・クリエ",
+      "en": "Re-Crea"
+    },
+    {
+      "jp": "祝福",
+      "en": "Blessing"
+    },
+    {
+      "jp": "友達",
+      "en": "Friends"
+    },
+    {
+      "jp": "素晴らしい真実",
+      "en": "A Wonderful Truth"
+    },
+    {
+      "jp": "ふたり",
+      "en": "The Two of Us"
+    },
+    {
+      "jp": "伝説の一枚",
+      "en": "A Legendary Shot"
+    },
+    {
+      "jp": "さすらいのアルバイター",
+      "en": "Wandering Part-Timer"
+    },
+    {
+      "jp": "Do One's Best",
+      "en": "Do One's Best"
+    },
+    {
+      "jp": "若さ故の過ち",
+      "en": "Mistakes of Youth"
+    },
+    {
+      "jp": "魔王ＶＳ魔王？",
+      "en": "Demon Lord vs. Demon Lord?"
+    },
+    {
+      "jp": "勤労少女のプライド",
+      "en": "A Hardworking Girl's Pride"
+    },
+    {
+      "jp": "魔王の鬼ごっこ",
+      "en": "Demon Lord's Game of Tag"
+    },
+    {
+      "jp": "早起きは三本の得",
+      "en": "Early Bird Gets 3 Bottles"
+    },
+    {
+      "jp": "ぽかぽか魔王",
+      "en": "Warm & Cozy Demon Lord"
+    },
+    {
+      "jp": "サバイバルに必要なもの",
+      "en": "Essentials for Survival"
+    },
+    {
+      "jp": "ゆずれない願い",
+      "en": "An Unyielding Wish"
+    },
+    {
+      "jp": "ほっといて！",
+      "en": "Leave Me Alone!"
+    },
+    {
+      "jp": "おすそわけ",
+      "en": "Sharing the Bounty"
+    },
+    {
+      "jp": "前向きにいこう",
+      "en": "Let's Stay Positive"
+    },
+    {
+      "jp": "仲直りのしるし",
+      "en": "Token of Making Up"
+    },
+    {
+      "jp": "心配事は絶えない",
+      "en": "No End to the Worries"
+    },
+    {
+      "jp": "結成！　ワルセイダース!!",
+      "en": "Assemble! The Warusaders!!"
+    },
+    {
+      "jp": "みんなの心をつなぐため",
+      "en": "To Connect Everyone's Hearts"
+    },
+    {
+      "jp": "本当は、友達",
+      "en": "Truly, Friends"
+    },
+    {
+      "jp": "カレー味",
+      "en": "Curry Flavor"
+    },
+    {
+      "jp": "ばれてない？",
+      "en": "Not Found Out Yet?"
+    },
+    {
+      "jp": "ウェイトレス",
+      "en": "Waitress"
+    },
+    {
+      "jp": "放っておけない",
+      "en": "Can't Leave Her Alone"
+    },
+    {
+      "jp": "新生活!?",
+      "en": "A New Life!?"
+    },
+    {
+      "jp": "ほしいもの",
+      "en": "What I Want"
+    },
+    {
+      "jp": "特等席",
+      "en": "The Best Seat"
+    },
+    {
+      "jp": "好きかもしれない",
+      "en": "Maybe I Like You"
+    },
+    {
+      "jp": "決意と思惑と",
+      "en": "Resolve and Motives"
+    },
+    {
+      "jp": "波乱のバースデー",
+      "en": "A Stormy Birthday"
+    },
+    {
+      "jp": "世界を救う者",
+      "en": "One Who Saves the World"
+    },
+    {
+      "jp": "気になって、その気になって",
+      "en": "Curious, Then Tempted"
+    },
+    {
+      "jp": "咲良家の団らん",
+      "en": "Sakura Family Gathering"
+    },
+    {
+      "jp": "二人の距離は縮まって",
+      "en": "Closing the Distance"
+    },
+    {
+      "jp": "倒すべきは……？",
+      "en": "Who Must Be Defeated...?"
+    },
+    {
+      "jp": "宵闇に紛れて",
+      "en": "Under Cover of Dusk"
+    },
+    {
+      "jp": "兄の心妹知らず",
+      "en": "Big Bro's Heart, Unseen"
+    },
+    {
+      "jp": "目覚めと別離",
+      "en": "Awakening and Parting"
+    },
+    {
+      "jp": "伝わらない",
+      "en": "Not Getting Through"
+    },
+    {
+      "jp": "諦めたらそこまでだ",
+      "en": "Give Up and It's Over"
+    },
+    {
+      "jp": "二人だから、魔王",
+      "en": "Together, the Demon Lord"
+    },
+    {
+      "jp": "見ている方が恥ずかしい",
+      "en": "Embarrassing to Watch"
+    },
+    {
+      "jp": "守るべき世界",
+      "en": "The World to Protect"
+    },
+    {
+      "jp": "漢の生き様",
+      "en": "A Real Man's Way"
+    },
+    {
+      "jp": "馬鹿もやむなし",
+      "en": "Can't Help Being a Fool"
+    },
+    {
+      "jp": "魔王今昔",
+      "en": "Demon Lords, Past & Now"
+    },
+    {
+      "jp": "リ・クリエに向けて",
+      "en": "Toward Re-Crea"
+    },
+    {
+      "jp": "What's the purpose of",
+      "en": "What's the purpose of"
+    },
+    {
+      "jp": "こそこそこっそり",
+      "en": "Sneaking Around"
+    },
+    {
+      "jp": "未来の笑顔のために",
+      "en": "For Tomorrow's Smiles"
+    },
+    {
+      "jp": "終わりと始まり",
+      "en": "Endings and Beginnings"
+    },
+    {
+      "jp": "明日への一歩",
+      "en": "A Step Toward Tomorrow"
+    },
+    {
+      "jp": "たった一人の図書館司書",
+      "en": "The Lone Librarian"
+    },
+    {
+      "jp": "秋晴れの悪戯",
+      "en": "Autumn Sky Mischief"
+    },
+    {
+      "jp": "百聞は一見にしかず",
+      "en": "Seeing Is Believing"
+    },
+    {
+      "jp": "リ・クリエがもたらすもの",
+      "en": "What Re-Crea Brings"
+    },
+    {
+      "jp": "それでも僕は本を取る",
+      "en": "Yet I Still Take the Book"
+    },
+    {
+      "jp": "司書代理",
+      "en": "Acting Librarian"
+    },
+    {
+      "jp": "それでお役に立てるなら",
+      "en": "If I Can Be of Help"
+    },
+    {
+      "jp": "初仕事",
+      "en": "First Job"
+    },
+    {
+      "jp": "女教師の影",
+      "en": "A Female Teacher's Shadow"
+    },
+    {
+      "jp": "うたた寝の功名",
+      "en": "A Lucky Nap's Reward"
+    },
+    {
+      "jp": "Happy Happy Birthday!",
+      "en": "Happy Happy Birthday!"
+    },
+    {
+      "jp": "できること",
+      "en": "What I Can Do"
+    },
+    {
+      "jp": "知ること",
+      "en": "To Know"
+    },
+    {
+      "jp": "信じる道",
+      "en": "The Path I Believe In"
+    },
+    {
+      "jp": "頼りにしてる",
+      "en": "I'm Counting on You"
+    },
+    {
+      "jp": "歩こう",
+      "en": "Let's Walk Together"
+    },
+    {
+      "jp": "過去からの遺産",
+      "en": "Legacy from the Past"
+    },
+    {
+      "jp": "代行者",
+      "en": "The Proxy"
+    },
+    {
+      "jp": "団結",
+      "en": "Unity"
+    },
+    {
+      "jp": "全てを乗り越えて",
+      "en": "Overcoming Everything"
+    },
+    {
+      "jp": "僕たちの旅路",
+      "en": "Our Journey"
+    },
+    {
+      "jp": "てるてるアゼル",
+      "en": "Teru-Teru Azel"
+    },
+    {
+      "jp": "リアせんぱいといっしょ",
+      "en": "Together with Ria-senpai"
+    },
+    {
+      "jp": "季節はずれの紅白",
+      "en": "Off-Season Red and White"
+    }
+  ]
+}

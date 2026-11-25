@@ -12,7 +12,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Nice weather, isn't it」"
+    "message": "「Nice weather, isn't it.」"
   },
   {
     "name": "Azel",
@@ -32,7 +32,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Not you」"
+    "message": "「Not you.」"
   },
   {
     "name": "Nanaka",
@@ -48,15 +48,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Because my house is on the way from Yuugiri-an to the academy」"
+    "message": "「Because my house is on the way from Yuugiri-an to the academy.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Yeah, yeah! It's just on the way」"
+    "message": "「Yeah, yeah! It's just on the way.」"
   },
   {
     "name": "Azel",
-    "message": "「It's a detour」"
+    "message": "「It's a detour.」"
   },
   {
     "name": "Synn",
@@ -84,15 +84,15 @@
   },
   {
     "name": "Azel",
-    "message": "「Then why」"
+    "message": "「Then why.」"
   },
   {
     "name": "Synn",
-    "message": "「My mom and dad asked Nanaka to look after me while they're away」"
+    "message": "「My mom and dad asked Nanaka to look after me while they're away.」"
   },
   {
     "name": "Azel",
-    "message": "「So it's an order」"
+    "message": "「So it's an order.」"
   },
   {
     "name": "Nanaka",
@@ -259,7 +259,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Huh... I can handle it on my own, though」"
+    "message": "「Huh... I can handle it on my own, though.」"
   },
   {
     "name": "Ria",
@@ -310,7 +310,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Nanaka」"
+    "message": "「Nanaka.」"
   },
   {
     "message": "I glanced over at Melilot."
@@ -433,31 +433,31 @@
   },
   {
     "name": "Melilot",
-    "message": "「I see. So that's how it is」"
+    "message": "「I see. So that's how it is.」"
   },
   {
     "name": "Synn",
-    "message": "「That's right」"
+    "message": "「That's right.」"
   },
   {
     "name": "Paqy",
-    "message": "「Sigh... You just don't get it」"
+    "message": "「Sigh... You just don't get it.」"
   },
   {
     "name": "Melilot",
-    "message": "「For today, I think it would be best if the three of you went home together nicely」"
+    "message": "「For today, I think it would be best if the three of you went home together nicely.」"
   },
   {
     "name": "Synn",
-    "message": "「We do get along well」"
+    "message": "「We do get along well.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Y-Yeah, right」"
+    "message": "「Y-Yeah, right.」"
   },
   {
     "name": "Azel",
-    "message": "「...There is no reason for us not to get along」"
+    "message": "「...There is no reason for us not to get along.」"
   },
   {
     "name": "Synn",
@@ -478,7 +478,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「What's wrong, Master Synn?」"
+    "message": "「What's wrong, Synn-sama?」"
   },
   {
     "name": "Synn",
@@ -486,7 +486,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「...Not again」"
+    "message": "「...Not again.」"
   },
   {
     "message": "I jump out of bed. Something I can use as a weapon..."
@@ -505,19 +505,19 @@
   },
   {
     "name": "Synn",
-    "message": "「I'm gonna take 'em down」"
+    "message": "「I'm gonna take 'em down.」"
   },
   {
     "name": "Paqy",
-    "message": "「Hey, Master Synn」"
+    "message": "「Hey, Synn-sama.」"
   },
   {
     "name": "Synn",
-    "message": "「Shh. The thief will notice us」"
+    "message": "「Shh. The thief will notice us.」"
   },
   {
     "name": "Paqy",
-    "message": "「Well, whatever」"
+    "message": "「Well, whatever.」"
   },
   {
     "name": "Azel",
@@ -537,7 +537,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I sensed a burglar」"
+    "message": "「I sensed a burglar.」"
   },
   {
     "name": "Azel",
@@ -545,7 +545,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Is what I thought, turns out it was you, Azel」"
+    "message": "「Is what I thought, turns out it was you, Azel.」"
   },
   {
     "name": "Azel",
@@ -561,11 +561,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Looks like she realized it first」"
+    "message": "「Looks like she realized it first.」"
   },
   {
     "name": "Azel",
-    "message": "「Being around you only makes me more irrational」"
+    "message": "「Being around you only makes me more irrational.」"
   },
   {
     "name": "Synn",
@@ -573,7 +573,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Nothing」"
+    "message": "「Nothing.」"
   },
   {
     "name": "Synn",
@@ -581,11 +581,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Uh. I-I was」"
+    "message": "「Uh. I-I was.」"
   },
   {
     "name": "Paqy",
-    "message": "「Blatantly suspicious」"
+    "message": "「Blatantly suspicious.」"
   },
   {
     "name": "Azel",
@@ -601,27 +601,27 @@
   },
   {
     "name": "Azel",
-    "message": "「R-Right! I love taking night walks」"
+    "message": "「R-Right! I love taking night walks.」"
   },
   {
     "name": "Synn",
-    "message": "「I see! The night breeze sure is nice」"
+    "message": "「I see! The night breeze sure is nice.」"
   },
   {
     "name": "Azel",
-    "message": "「Indeed! The night breeze is quite nice」"
+    "message": "「Indeed! The night breeze is quite nice.」"
   },
   {
     "name": "Paqy",
-    "message": "「It's just cold」"
+    "message": "「It's just cold.」"
   },
   {
     "name": "Azel",
-    "message": "「Shut up」"
+    "message": "「Shut up.」"
   },
   {
     "name": "Synn",
-    "message": "「Still, I can't help worrying. Let me know when you leave the house」"
+    "message": "「Still, I can't help worrying. Let me know when you leave the house.」"
   },
   {
     "name": "Azel",
@@ -629,7 +629,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm」"
+    "message": "「Hmm.」"
   },
   {
     "name": "Synn",
@@ -640,7 +640,7 @@
   },
   {
     "name": "Synn",
-    "message": "「With you, Azel, I just can't leave you alone. So being a Demon or whatever doesn't really matter」"
+    "message": "「With you, Azel, I just can't leave you alone. So being a Demon or whatever doesn't really matter.」"
   },
   {
     "message": "Right after saying it, I felt kind of embarrassed."
@@ -650,11 +650,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I... I see. So you cannot leave me alone」"
+    "message": "「I... I see. So you cannot leave me alone.」"
   },
   {
     "name": "Synn",
-    "message": "「Y-yeah」"
+    "message": "「Y-yeah.」"
   },
   {
     "name": "Azel",
@@ -666,27 +666,27 @@
   },
   {
     "name": "Azel",
-    "message": "「No, forget I said that」"
+    "message": "「No, forget I said that.」"
   },
   {
     "name": "Synn",
-    "message": "「She knows this area pretty well, and she's reliable, so」"
+    "message": "「She knows this area pretty well, and she's reliable, so.」"
   },
   {
     "name": "Azel",
-    "message": "「...I see」"
+    "message": "「...I see.」"
   },
   {
     "name": "Synn",
-    "message": "「Not that I'm saying you aren't reliable, Azel」"
+    "message": "「Not that I'm saying you aren't reliable, Azel.」"
   },
   {
     "name": "Azel",
-    "message": "「O-of course. I am very reliable」"
+    "message": "「O-of course. I am very reliable.」"
   },
   {
     "name": "Paqy",
-    "message": "「...Poor Soba, honestly」"
+    "message": "「...Poor Soba, honestly.」"
   },
   {
     "name": "Synn",

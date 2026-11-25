@@ -28,7 +28,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Lord Azel, is that not an electric kettle?」"
+    "message": "「Azel-dono, is that not an electric kettle?」"
   },
   {
     "name": "Arden",
@@ -99,11 +99,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「Depending on the Demon General's abilities, it is possible」"
+    "message": "「Depending on the Demon General's abilities, it is possible.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Isn't that unfair? It basically means powering up without putting in any effort yourself」"
+    "message": "「Isn't that unfair? It basically means powering up without putting in any effort yourself.」"
   },
   {
     "name": "Misa",
@@ -115,27 +115,27 @@
   },
   {
     "name": "Synn",
-    "message": "「Neither one is good for the person doing it. Let's warn Bylous and get him to stop」"
+    "message": "「Neither one is good for the person doing it. Let's warn Bylous and get him to stop.」"
   },
   {
     "name": "Shio",
-    "message": "「Y-You are far too good-natured, Sir Synn!」"
+    "message": "「Y-You are far too good-natured, Synn-dono!」"
   },
   {
     "name": "Misa",
-    "message": "「Even if we talk to him, he definitely won't listen」"
+    "message": "「Even if we talk to him, he definitely won't listen.」"
   },
   {
     "name": "Melilot",
-    "message": "「What we should be most concerned about is... the original Bylous and Re-Crea. The fact that the correlation between these two remains unclear」"
+    "message": "「What we should be most concerned about is... the original Bylous and Re-Crea. The fact that the correlation between these two remains unclear.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Sniff, sniff, sniff. The scent of cat food is rapidly approaching」"
+    "message": "「Sniff, sniff, sniff. The scent of cat food is rapidly approaching.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Why isn't it sweets? How disappointing」"
+    "message": "「Why isn't it sweets? How disappointing.」"
   },
   {
     "name": "Pasta",
@@ -155,15 +155,15 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Oh, yeah, right, that」"
+    "message": "「Oh, yeah, right, that.」"
   },
   {
     "name": "Azel",
-    "message": "「At this rate, I won't be able to eat」"
+    "message": "「At this rate, I won't be able to eat.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Miss Pasta, I am disappointed in you」"
+    "message": "「Miss Pasta, I am disappointed in you.」"
   },
   {
     "name": "Pasta",
@@ -179,11 +179,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Hold on, Misa. Pasta is pale as a ghost and trembling. Let's have her sit down and calm down first」"
+    "message": "「Hold on, Misa. Pasta is pale as a ghost and trembling. Let's have her sit down and calm down first.」"
   },
   {
     "name": "Misa",
-    "message": "「Y-You're right, I'll brew some extraordinarily delicious black tea」"
+    "message": "「Y-You're right, I'll brew some extraordinarily delicious black tea.」"
   },
   {
     "name": "Pasta",
@@ -207,7 +207,7 @@
   },
   {
     "name": "Pasta",
-    "message": "「Even if it was just a work relationship to make Re-Crea bigger, that was fine with me, nya」"
+    "message": "「Even if it was just a work relationship to make Re-Crea bigger, that was fine with me, nya.」"
   },
   {
     "name": "Pasta",
@@ -259,19 +259,19 @@
   },
   {
     "name": "Pasta",
-    "message": "「Pasta couldn't do anything, nya, so I ran away here, nya」"
+    "message": "「Pasta couldn't do anything, nya, so I ran away here, nya.」"
   },
   {
     "name": "Synn",
-    "message": "「So that's why you were trembling, Pasta. It's no wonder after going through something like that」"
+    "message": "「So that's why you were trembling, Pasta. It's no wonder after going through something like that.」"
   },
   {
     "name": "Pasta",
-    "message": "「Well, not quite, nya」"
+    "message": "「Well, not quite, nya.」"
   },
   {
     "name": "Pasta",
-    "message": "「The reason Pasta was freaking out was because on the way fleeing here, some mysterious sniper with a forehead 3.5 times the size of a normal person kept shooting at me nonstop, nya」"
+    "message": "「The reason Pasta was freaking out was because on the way fleeing here, some mysterious sniper with a forehead 3.5 times the size of a normal person kept shooting at me nonstop, nya.」"
   },
   {
     "name": "Riesling",
@@ -287,11 +287,11 @@
   },
   {
     "name": "Riesling",
-    "message": "「Please leave the sniping of Milady's hostile forces to this humble butler, Riesling Tooyama」"
+    "message": "「Please leave the sniping of Milady's hostile forces to this humble butler, Riesling Tooyama.」"
   },
   {
     "name": "Pasta",
-    "message": "「S-s-shiver, sh-sh-shake」"
+    "message": "「S-s-shiver, sh-sh-shake.」"
   },
   {
     "name": "Synn",
@@ -330,7 +330,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「If you will excuse me」"
+    "message": "「If you will excuse me.」"
   },
   {
     "name": "Melilot",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I see」"
+    "message": "「I see.」"
   },
   {
     "name": "Melilot",
@@ -386,7 +386,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah. Just over the past two days, we've got Arden and Pasta, huh」"
+    "message": "「Yeah. Just over the past two days, we've got Arden and Pasta, huh.」"
   },
   {
     "name": "Pasta",
@@ -406,7 +406,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「He was hiding behind the sofa. Scuttling right behind it」"
+    "message": "「He was hiding behind the sofa. Scuttling right behind it.」"
   },
   {
     "name": "Arden",
@@ -422,11 +422,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Let's see. There's no use worrying any further about the Bylous and Re-Crea, after all」"
+    "message": "「Let's see. There's no use worrying any further about the Bylous and Re-Crea, after all.」"
   },
   {
     "name": "Misa",
-    "message": "「Oh my, you're surprisingly timid. I'm not even worried about things like the Bylous or Re-Crea」"
+    "message": "「Oh my, you're surprisingly timid. I'm not even worried about things like the Bylous or Re-Crea.」"
   },
   {
     "name": "Synn",
@@ -446,7 +446,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Whoa~, turns out Synn's actually pretty cheesy」"
+    "message": "「Whoa~, turns out Synn's actually pretty cheesy.」"
   },
   {
     "name": "Sacchin",
@@ -458,11 +458,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I-I'll take it under advisement」"
+    "message": "「I-I'll take it under advisement.」"
   },
   {
     "name": "Shio",
-    "message": "「Lord Synn, you sound like a worn-out salaryman saying that」"
+    "message": "「Synn-dono, you sound like a worn-out salaryman saying that.」"
   },
   {
     "name": "Misa",
@@ -474,11 +474,11 @@
   },
   {
     "name": "Shio",
-    "message": "「Indeed! There is no way the man whom I recognize as my elder brother could ever lose」"
+    "message": "「Indeed! There is no way the man whom I recognize as my elder brother could ever lose.」"
   },
   {
     "name": "Nanaka",
-    "message": "「If anyone can save the world, it's you, Synn」"
+    "message": "「If anyone can save the world, it's you, Synn.」"
   },
   {
     "name": "Sacchin",
@@ -486,7 +486,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Mm-hm. Because Synn-kun is a boy who can do anything if he tries\\s07」"
+    "message": "「Mm-hm. Because Synn-kun is a boy who can do anything if he tries.\\s07」"
   },
   {
     "name": "Lolotte",
@@ -494,11 +494,11 @@
   },
   {
     "name": "Sally",
-    "message": "「Dunno what's going on, but if it's Prez, no problem-o」"
+    "message": "「Dunno what's going on, but if it's Prez, no problem-o.」"
   },
   {
     "name": "Azel",
-    "message": "「Well, you know... do your best」"
+    "message": "「Well, you know... do your best.」"
   },
   {
     "name": "Synn",

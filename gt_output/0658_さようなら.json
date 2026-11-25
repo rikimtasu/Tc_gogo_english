@@ -87,7 +87,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「No♪ Today, I'll be with you... the whole time\\s04」"
+    "message": "「No♪ Today, I'll be with you... the whole time.\\s04」"
   },
   {
     "name": "Synn",
@@ -107,7 +107,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「That won't do at all, Ria. Your rhythm is all over the place」"
+    "message": "「That won't do at all, Rii-a. Your rhythm is all over the place.」"
   },
   {
     "name": "Lolotte",
@@ -119,7 +119,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Whatever are you misunderstanding? This is dance practice, you know」"
+    "message": "「Whatever are you misunderstanding? This is dance practice, you know.」"
   },
   {
     "name": "Synn",
@@ -127,11 +127,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It's just that, with the two of your skills, I assumed you would be dancing much more gracefully」"
+    "message": "「It's just that, with the two of your skills, I assumed you would be dancing much more gracefully.」"
   },
   {
     "name": "Misasagi",
-    "message": "「No matter how skilled a person is, everyone makes a mistake once in a while」"
+    "message": "「No matter how skilled a person is, everyone makes a mistake once in a while.」"
   },
   {
     "name": "Ria",
@@ -167,7 +167,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Two... huh」"
+    "message": "「Two... huh.」"
   },
   {
     "name": "Ria",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Let's keep it brief, so the President doesn't get jealous」"
+    "message": "「Let's keep it brief, so the President doesn't get jealous.」"
   },
   {
     "name": "Synn",
@@ -207,7 +207,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Ahaha... Thanks for the sweet show\\s02」"
+    "message": "「Ahaha... Thanks for the sweet show.\\s02」"
   },
   {
     "name": "Synn",
@@ -215,7 +215,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「In that case, President, please pair up with Ria.」"
+    "message": "「In that case, President, please pair up with Rii-a.」"
   },
   {
     "name": "Ria",
@@ -267,7 +267,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「We haven't even started yet\\s02」"
+    "message": "「We haven't even started yet.\\s02」"
   },
   {
     "name": "Synn",
@@ -295,11 +295,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Looks like choir preparations are going smoothly」"
+    "message": "「Looks like choir preparations are going smoothly.」"
   },
   {
     "name": "Misa",
-    "message": "「Yes, of course! I never leave anything to chance」"
+    "message": "「Yes, of course! I never leave anything to chance.」"
   },
   {
     "name": "Misa",
@@ -323,11 +323,11 @@
   },
   {
     "name": "Shio",
-    "message": "「I... am rather poor at such delicate, high-pitched songs」"
+    "message": "「I... am rather poor at such delicate, high-pitched songs.」"
   },
   {
     "name": "Misa",
-    "message": "「What are you talking about? I'm counting on you to be our soprano leader」"
+    "message": "「What are you talking about? I'm counting on you to be our soprano leader.」"
   },
   {
     "name": "Shio",
@@ -335,7 +335,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It only becomes humiliating because you think of it as humiliating」"
+    "message": "「It only becomes humiliating because you think of it as humiliating.」"
   },
   {
     "name": "Lolotte",
@@ -347,11 +347,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Huh, how strange」"
+    "message": "「Huh, how strange.」"
   },
   {
     "name": "Synn",
-    "message": "「Guidebooks really do get a lot of idioms wrong, huh」"
+    "message": "「Guidebooks really do get a lot of idioms wrong, huh.」"
   },
   {
     "name": "Lolotte",
@@ -359,11 +359,11 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I-Is that sooo」"
+    "message": "「I-Is that sooo.」"
   },
   {
     "name": "Misa",
-    "message": "「Heehee. You're reacting just like Sakura-kun」"
+    "message": "「Heehee. You're reacting just like Sakura-kun.」"
   },
   {
     "name": "Lolotte",
@@ -371,15 +371,15 @@
   },
   {
     "name": "Synn",
-    "message": "「U-Ummm. 'Do your best!' maybe」"
+    "message": "「U-Ummm. 'Do your best!' maybe.」"
   },
   {
     "name": "Misa",
-    "message": "「That's not an idiom, you know」"
+    "message": "「That's not an idiom, you know.」"
   },
   {
     "name": "Synn",
-    "message": "「Urk」"
+    "message": "「Urk.」"
   },
   {
     "name": "Lolotte",
@@ -487,7 +487,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Welcome, you two」"
+    "message": "「Welcome, you two.」"
   },
   {
     "name": "Lolotte",
@@ -519,7 +519,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Then come on, Lolo-chan. Let's taste-test the sweets Sacchin made for us」"
+    "message": "「Then come on, Lolo-chan. Let's taste-test the sweets Sacchin made for us.」"
   },
   {
     "name": "Lolotte",
@@ -531,7 +531,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「The great me will pass on that」"
+    "message": "「The great me will pass on that.」"
   },
   {
     "name": "Nanaka",
@@ -539,7 +539,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Call it the intuition of a Great Sage」"
+    "message": "「Call it the intuition of a Great Sage.」"
   },
   {
     "name": "Lolotte",
@@ -575,7 +575,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Just as I thought」"
+    "message": "「Just as I thought.」"
   },
   {
     "name": "Synn",
@@ -607,7 +607,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Good grief... I can't bear to watch this」"
+    "message": "「Good grief... I can't bear to watch this.」"
   },
   {
     "name": "Ria",
@@ -665,7 +665,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Sorry I'm late」"
+    "message": "「Sorry I'm late.」"
   },
   {
     "name": "Lolotte",
@@ -673,11 +673,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Yeah. I'm just a bit out of shape from lying down too much. I suppose I should have done a little rehab」"
+    "message": "「Yeah. I'm just a bit out of shape from lying down too much. I suppose I should have done a little rehab.」"
   },
   {
     "name": "Amyrina",
-    "message": "「It's alright. After all, we were practicing singing together while Lolotte was at school」"
+    "message": "「It's alright. After all, we were practicing singing together while Lolotte was at school.」"
   },
   {
     "name": "Azel",
@@ -785,27 +785,27 @@
   },
   {
     "name": "Azel",
-    "message": "「You've been playing too many video games」"
+    "message": "「You've been playing too many video games.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Please don't shoot me down with such an unromantic remark while smiling warmly」"
+    "message": "「Please don't shoot me down with such an unromantic remark while smiling warmly.」"
   },
   {
     "name": "Azel",
-    "message": "「Lolotte... About returning home... I'm really sorry」"
+    "message": "「Lolotte... About returning home... I'm really sorry.」"
   },
   {
     "name": "Lolotte",
-    "message": "「It's completely fine. We're only leaving the Human World unattended for a little while, after all」"
+    "message": "「It's completely fine. We're only leaving the Human World unattended for a little while, after all.」"
   },
   {
     "name": "Riesling",
-    "message": "「Please leave watching the house to me, Riesling Tooyama」"
+    "message": "「Please leave watching the house to me, Riesling Tooyama.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Come on, Jeeves! Stop striking weird poses and come with us」"
+    "message": "「Come on, Jiiya! Stop striking weird poses and come with us.」"
   },
   {
     "name": "Riesling",
@@ -821,7 +821,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Come on! If we don't hurry, we're going to miss the opening ceremony」"
+    "message": "「Come on! If we don't hurry, we're going to miss the opening ceremony.」"
   },
   {
     "message": "Drag, drag, drag... Riesling-san gets hauled away."
@@ -840,7 +840,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Well, nothing can start until the person giving the opening signal gets here」"
+    "message": "「Well, nothing can start until the person giving the opening signal gets here.」"
   },
   {
     "name": "Lolotte",
@@ -864,7 +864,7 @@
   },
   {
     "name": "Ria",
-    "message": "「The Holy Night Festival is going to start on your signal, Lolotte-chan」"
+    "message": "「The Holy Night Festival is going to start on your signal, Lolotte-chan.」"
   },
   {
     "name": "Lolotte",
@@ -872,7 +872,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Come on, come on. Everyone's craning their necks waiting for you」"
+    "message": "「Come on, come on. Everyone's craning their necks waiting for you.」"
   },
   {
     "name": "Synn",
@@ -966,7 +966,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Truly... I don't even know... how to thank you all」"
+    "message": "「Truly... I don't even know... how to thank you all.」"
   },
   {
     "name": "Synn",
@@ -982,7 +982,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I have to say goodbye to everyone」"
+    "message": "「I have to say goodbye to everyone.」"
   },
   {
     "message": "Even after the Holy Night Festival ended, everyone from the Student Council and those with ties to Lolotte remained behind."
@@ -1024,7 +1024,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「There, there, don't cry」"
+    "message": "「There, there, don't cry.」"
   },
   {
     "name": "Sally",
@@ -1044,7 +1044,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Lady Lolotte... hold your head high. An angel is, after all, a messenger from Heaven.」"
+    "message": "「Lolotte-dono... hold your head high. An angel is, after all, a messenger from Heaven.」"
   },
   {
     "name": "Misa",
@@ -1080,19 +1080,19 @@
   },
   {
     "name": "Helena",
-    "message": "「It also gives us something new to look forward to--seeing each other again. So it isn't a sad thing」"
+    "message": "「It also gives us something new to look forward to--seeing each other again. So it isn't a sad thing.」"
   },
   {
     "name": "Lolotte",
-    "message": "「You two really are so mature」"
+    "message": "「You two really are so mature.」"
   },
   {
     "name": "Helena",
-    "message": "「Not at all. Even if we say things like that, lonely is still lonely」"
+    "message": "「Not at all. Even if we say things like that, lonely is still lonely.」"
   },
   {
     "name": "Helena",
-    "message": "「It's going to be lonely for a while, isn't it? For both of us」"
+    "message": "「It's going to be lonely for a while, isn't it? For both of us.」"
   },
   {
     "name": "Lolotte",
@@ -1124,7 +1124,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「Even though this change is a joyful thing」"
+    "message": "「Even though this change is a joyful thing.」"
   },
   {
     "name": "Riesling",
@@ -1206,15 +1206,15 @@
   },
   {
     "name": "Riesling",
-    "message": "「Thank you very much... I will treasure it for the rest of my life」"
+    "message": "「Thank you very much... I will treasure it for the rest of my life.」"
   },
   {
     "name": "Amyrina",
-    "message": "「Lolotte, give these to everyone」"
+    "message": "「Lolotte, give these to everyone.」"
   },
   {
     "name": "Azel",
-    "message": "「Come on, these are getting heavy」"
+    "message": "「Come on, these are getting heavy.」"
   },
   {
     "name": "Lolotte",
@@ -1238,7 +1238,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Here you go, Madam Treasurer」"
+    "message": "「Here you go, Treasurer-san.」"
   },
   {
     "name": "Nanaka",
@@ -1254,7 +1254,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「And this one is for you, Senpai」"
+    "message": "「And this one is for you, Senpai.」"
   },
   {
     "name": "Ria",
@@ -1262,7 +1262,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Bonus-san. You mustn't wipe your tears with this, okay? It'll be scratchy」"
+    "message": "「Bonus-san. You mustn't wipe your tears with this, okay? It'll be scratchy.」"
   },
   {
     "name": "Sally",
@@ -1270,7 +1270,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I made one for you too, Sacchin-san」"
+    "message": "「I made one for you too, Sacchin-san.」"
   },
   {
     "name": "Sacchin",
@@ -1278,7 +1278,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Of course, one for you too, Shrine Maiden-san」"
+    "message": "「Of course, one for you too, Shrine Maiden-san.」"
   },
   {
     "name": "Shio",
@@ -1290,7 +1290,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Not at all, dear. Thank you kindly. I'll take good care of it」"
+    "message": "「Not at all, dear. Thank you kindly. I'll take good care of it.」"
   },
   {
     "name": "Lolotte",
@@ -1306,7 +1306,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I made every single one of these while thinking of you all. I'm sure they're packed full of those feelings」"
+    "message": "「I made every single one of these while thinking of you all. I'm sure they're packed full of those feelings.」"
   },
   {
     "name": "Nanaka",
@@ -1318,7 +1318,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Heehee. With this scarf, I feel like Lolotte-chan's face will pop right into my head」"
+    "message": "「Heehee. With this scarf, I feel like Lolotte-chan's face will pop right into my head.」"
   },
   {
     "name": "Nanaka",
@@ -1326,7 +1326,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Thank you」"
+    "message": "「Thank you.」"
   },
   {
     "name": "Ria",
@@ -1334,15 +1334,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Not at all. I'm just glad you're all pleased with them」"
+    "message": "「Not at all. I'm just glad you're all pleased with them.」"
   },
   {
     "name": "Paqy",
-    "message": "「Kukuku... Classic move, angel. Keeping the main attraction--our Demon Lord--waiting in suspense, huh」"
+    "message": "「Kukuku... Classic move, angel. Keeping the main attraction--our Demon Lord--waiting in suspense, huh.」"
   },
   {
     "name": "Synn",
-    "message": "「Sh-Shut up」"
+    "message": "「Sh-Shut up.」"
   },
   {
     "name": "Lolotte",
@@ -1354,7 +1354,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Heehee. Maybe it was a little too big for Mr. Panda」"
+    "message": "「Heehee. Maybe it was a little too big for Mr. Panda.」"
   },
   {
     "name": "Paqy",
@@ -1362,7 +1362,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「President... Thank you for waiting」"
+    "message": "「President... Thank you for waiting.」"
   },
   {
     "name": "Synn",
@@ -1370,7 +1370,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Yours is a little bit special, President. Heave-ho, heave-ho」"
+    "message": "「Yours is a little bit special, President. Heave-ho, heave-ho.」"
   },
   {
     "name": "Synn",
@@ -1382,18 +1382,18 @@
   },
   {
     "name": "Synn",
-    "message": "「H-Huh... Mine's a bit different from everyone else's scarves」"
+    "message": "「H-Huh... Mine's a bit different from everyone else's scarves.」"
   },
   {
     "message": "It's a size longer than a normal scarf."
   },
   {
     "name": "Nanaka",
-    "message": "「Doesn't that just mean you're supposed to wrap it around your neck a bunch of times? Looks super warm」"
+    "message": "「Doesn't that just mean you're supposed to wrap it around your neck a bunch of times? Looks super warm.」"
   },
   {
     "name": "Misa",
-    "message": "「Good grief, you don't have a romantic bone in your body, do you, Nanaka-san\\s10」"
+    "message": "「Good grief, you don't have a romantic bone in your body, do you, Nanaka-san.\\s10」"
   },
   {
     "name": "Nanaka",
@@ -1405,15 +1405,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Hmm~~ Close, Vice President. That's a little off」"
+    "message": "「Hmm~~ Close, Vice President. That's a little off.」"
   },
   {
     "name": "Misa",
-    "message": "「Eh」"
+    "message": "「Eh.」"
   },
   {
     "name": "Ria",
-    "message": "「I'm sure of it. This scarf includes Lolotte-chan's share too」"
+    "message": "「I'm sure of it. This scarf includes Lolotte-chan's share too.」"
   },
   {
     "name": "Synn",
@@ -1424,7 +1424,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「For a little while, the scarf will stay extra long, but... I know the day will come when the two of us can wear it together」"
+    "message": "「For a little while, the scarf will stay extra long, but... I know the day will come when the two of us can wear it together.」"
   },
   {
     "name": "Synn",
@@ -1439,7 +1439,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Lolotte... thank you. For staying by my side... all this time... thank you」"
+    "message": "「Lolotte... thank you. For staying by my side... all this time... thank you.」"
   },
   {
     "message": "The urge to stay like this, holding each other forever, grows stronger."
@@ -1459,7 +1459,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Everyone, thank you so much for everything up until now」"
+    "message": "「Everyone, thank you so much for everything up until now.」"
   },
   {
     "name": "Lolotte",
@@ -1467,7 +1467,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Now... I have no regrets left」"
+    "message": "「Now... I have no regrets left.」"
   },
   {
     "name": "Synn",
@@ -1479,7 +1479,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Actually... I have a present for you too」"
+    "message": "「Actually... I have a present for you too.」"
   },
   {
     "name": "Lolotte",
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Lolotte, hold out your hand」"
+    "message": "「Lolotte, hold out your hand.」"
   },
   {
     "message": "As if drawn in, Lolotte extends her hand."
@@ -1520,14 +1520,14 @@
   },
   {
     "name": "Synn",
-    "message": "「This is a present from me」"
+    "message": "「This is a present from me.」"
   },
   {
     "message": "I also held my hand up the same way, placing it over the back of Lolotte's hand."
   },
   {
     "name": "Synn",
-    "message": "「With this ring, no matter how far apart we are, we'll always be connected」"
+    "message": "「With this ring, no matter how far apart we are, we'll always be connected.」"
   },
   {
     "name": "Lolotte",
@@ -1658,7 +1658,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「No matter how far apart we are, no matter how long we're apart」"
+    "message": "「No matter how far apart we are, no matter how long we're apart.」"
   },
   {
     "name": "Lolotte",

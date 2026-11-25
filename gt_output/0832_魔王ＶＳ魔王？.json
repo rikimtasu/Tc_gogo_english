@@ -20,7 +20,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Phew. I suppose that should do it for gathering the materials」"
+    "message": "「Phew. I suppose that should do it for gathering the materials.」"
   },
   {
     "name": "Misa",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Ufufu. I'll show him just how much more attentive I am」"
+    "message": "「Ufufu. I'll show him just how much more attentive I am.」"
   },
   {
     "name": "Misa",
@@ -60,7 +60,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「I already went in there earlier, so maybe over there next」"
+    "message": "「I already went in there earlier, so maybe over there next.」"
   },
   {
     "name": "Misa",
@@ -72,7 +72,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Well, whatever, it's not like I'm in any trouble at all, so it's fine」"
+    "message": "「Well, whatever, it's not like I'm in any trouble at all, so it's fine.」"
   },
   {
     "name": "Misa",
@@ -84,7 +84,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Hello there」"
+    "message": "「Hello there.」"
   },
   {
     "name": "Macaron",
@@ -104,7 +104,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「...I'm looking for someone」"
+    "message": "「...I'm looking for someone.」"
   },
   {
     "name": "Misa",
@@ -112,7 +112,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Hmm, not quite, I guess」"
+    "message": "「Hmm, not quite, I guess.」"
   },
   {
     "name": "Macaron",
@@ -120,11 +120,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Oh, excuse me. At times like this, it's proper etiquette to introduce myself first, isn't it」"
+    "message": "「Oh, excuse me. At times like this, it's proper etiquette to introduce myself first, isn't it.」"
   },
   {
     "name": "Misa",
-    "message": "「I am Misa B. Cristelis. I serve as the Vice President of the Ryuusei Academy Student Council」"
+    "message": "「I am Misa B. Cristelis. I serve as the Vice President of the Ryuusei Academy Student Council.」"
   },
   {
     "name": "Macaron",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Y-Yes, that's right. Well, there isn't really much difference between that and the President, though」"
+    "message": "「Y-Yes, that's right. Well, there isn't really much difference between that and the President, though.」"
   },
   {
     "name": "Macaron",
@@ -176,7 +176,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Let's see... We have Student Council activities coming up, so you can't go wrong heading to the Student Council room」"
+    "message": "「Let's see... We have Student Council activities coming up, so you can't go wrong heading to the Student Council room.」"
   },
   {
     "name": "Macaron",
@@ -184,7 +184,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Not at all, you're welcome」"
+    "message": "「Not at all, you're welcome.」"
   },
   {
     "name": "Macaron",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Everyone",
-    "message": "「No objectio~ns」"
+    "message": "「No objectio~ns.」"
   },
   {
     "name": "Synn",
@@ -224,15 +224,15 @@
   },
   {
     "name": "Synn",
-    "message": "「That was decided faster than I expected」"
+    "message": "「That was decided faster than I expected.」"
   },
   {
     "name": "Misa",
-    "message": "「Hmph. Don't forget that it's all thanks to my documents」"
+    "message": "「Hmph. Don't forget that it's all thanks to my documents.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Well, the President had the exact same documents, though」"
+    "message": "「Well, the President had the exact same documents, though.」"
   },
   {
     "name": "Misa",
@@ -240,15 +240,15 @@
   },
   {
     "name": "Ria",
-    "message": "「Anyway, I'm just glad everything came together so well」"
+    "message": "「Anyway, I'm just glad everything came together so well.」"
   },
   {
     "name": "Nanaka",
-    "message": "「Yeah, yeah. It's settled, so who cares about the details」"
+    "message": "「Yeah, yeah. It's settled, so who cares about the details.」"
   },
   {
     "name": "Synn",
-    "message": "「Paqy, the meeting's already over」"
+    "message": "「Paqy, the meeting's already over.」"
   },
   {
     "name": "Paqy",
@@ -256,11 +256,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Well, whatever」"
+    "message": "「Well, whatever.」"
   },
   {
     "name": "Synn",
-    "message": "「Guess we'll call it a day here」"
+    "message": "「Guess we'll call it a day here.」"
   },
   {
     "name": "Nanaka",
@@ -276,7 +276,7 @@
   },
   {
     "name": "Misa",
-    "message": "「Earlier, I ran into a girl who said she was looking for you, Sakura-kun」"
+    "message": "「Earlier, I ran into a girl who said she was looking for you, Sakura-kun.」"
   },
   {
     "name": "Synn",
@@ -288,7 +288,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm... Now I really have no clue」"
+    "message": "「Hmm... Now I really have no clue.」"
   },
   {
     "name": "Nanaka",
@@ -296,11 +296,11 @@
   },
   {
     "name": "Misa",
-    "message": "「Yes」"
+    "message": "「Yes.」"
   },
   {
     "name": "Nanaka",
-    "message": "「If that's the case, I actually ran into her yesterday too」"
+    "message": "「If that's the case, I actually ran into her yesterday too.」"
   },
   {
     "name": "Synn",
@@ -332,7 +332,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Ow」"
+    "message": "「Ow.」"
   },
   {
     "name": "Nanaka",
@@ -344,7 +344,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Ahaha... you're so tiny I didn't notice you」"
+    "message": "「Ahaha... you're so tiny I didn't notice you.」"
   },
   {
     "name": "Macaron",
@@ -356,7 +356,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Nfufu. You should've just owned up to it like that from the start」"
+    "message": "「Nfufu. You should've just owned up to it like that from the start.」"
   },
   {
     "name": "Nanaka",
@@ -368,7 +368,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Oh, Sacchin」"
+    "message": "「Oh, Sacchin.」"
   },
   {
     "name": "Sacchin",
@@ -376,7 +376,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「No idea. Never seen her around before」"
+    "message": "「No idea. Never seen her around before.」"
   },
   {
     "name": "Macaron",
@@ -392,7 +392,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「I got it! You must be a celebrity! Not that I've ever heard of you」"
+    "message": "「I got it! You must be a celebrity! Not that I've ever heard of you.」"
   },
   {
     "name": "Macaron",
@@ -484,7 +484,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Sure, that girl was cute too, though I feel like she was kinda cheeky」"
+    "message": "「Sure, that girl was cute too, though I feel like she was kinda cheeky.」"
   },
   {
     "name": "Lolotte",
@@ -496,7 +496,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Oh~! So this path connects to a place like this」"
+    "message": "「Oh~! So this path connects to a place like this.」"
   },
   {
     "name": "Lolotte",
@@ -504,7 +504,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Well, my butler drives me back and forth, so I won't actually use it」"
+    "message": "「Well, my butler drives me back and forth, so I won't actually use it.」"
   },
   {
     "name": "Macaron",
@@ -552,7 +552,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Nihihi, so you really are an angel」"
+    "message": "「Nihihi, so you really are an angel.」"
   },
   {
     "name": "Lolotte",
@@ -568,7 +568,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「Eh, whatever」"
+    "message": "「Eh, whatever.」"
   },
   {
     "name": "Macaron",
@@ -584,7 +584,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Once tomorrow comes, I believe everyone will be here again」"
+    "message": "「Once tomorrow comes, I believe everyone will be here again.」"
   },
   {
     "name": "Macaron",
@@ -608,11 +608,11 @@
   },
   {
     "name": "Macaron",
-    "message": "「Still, I'll pass! I'll figure something out on my own」"
+    "message": "「Still, I'll pass! I'll figure something out on my own.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Is that so. Then I shall refrain from getting involved in any troublesome matters as well」"
+    "message": "「Is that so. Then I shall refrain from getting involved in any troublesome matters as well.」"
   },
   {
     "name": "Macaron",
@@ -620,7 +620,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Not at all. Helping someone in need is only natural」"
+    "message": "「Not at all. Helping someone in need is only natural.」"
   },
   {
     "name": "Macaron",
@@ -640,7 +640,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Aaah... she has gone」"
+    "message": "「Aaah... she has gone.」"
   },
   {
     "name": "Lolotte",
@@ -652,7 +652,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I found myself wanting to take a bite without even thinking」"
+    "message": "「I found myself wanting to take a bite without even thinking.」"
   },
   {
     "name": "Ria",
@@ -664,7 +664,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Yeah. She seemed a little precocious, though she was a lively kid」"
+    "message": "「Yeah. She seemed a little precocious, though she was a lively kid.」"
   },
   {
     "name": "Nanaka",
@@ -672,26 +672,26 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm~. I think she's probably the girl working part-time at Old Man Amakawa's place」"
+    "message": "「Hmm~. I think she's probably the girl working part-time at Old Man Amakawa's place.」"
   },
   {
     "message": "Judging from everyone's accounts, I'm starting to doubt whether they're really talking about Macaron, though."
   },
   {
     "name": "Nanaka",
-    "message": "「What the heck, so that's all it was」"
+    "message": "「What the heck, so that's all it was.」"
   },
   {
     "name": "Ria",
-    "message": "「If she's someone you actually know, then there's no problem」"
+    "message": "「If she's someone you actually know, then there's no problem.」"
   },
   {
     "name": "Misa",
-    "message": "「I made sure to let them know she was looking for you, Sakura-kun」"
+    "message": "「I made sure to let them know she was looking for you, Sakura-kun.」"
   },
   {
     "name": "Synn",
-    "message": "「Yeah, thanks」"
+    "message": "「Yeah, thanks.」"
   },
   {
     "name": "Nanaka",
@@ -703,7 +703,7 @@
   },
   {
     "name": "Synn",
-    "message": "「You're sure busy」"
+    "message": "「You're sure busy.」"
   },
   {
     "name": "Nanaka",
@@ -735,7 +735,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Ah」"
+    "message": "「Ah.」"
   },
   {
     "name": "Everyone",
@@ -747,7 +747,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hey there, Macaron」"
+    "message": "「Hey there, Macaron.」"
   },
   {
     "name": "Macaron",
@@ -767,19 +767,19 @@
   },
   {
     "name": "Synn",
-    "message": "「Is that right? Hope I didn't cause you too much trouble」"
+    "message": "「Is that right? Hope I didn't cause you too much trouble.」"
   },
   {
     "name": "Macaron",
-    "message": "「Well, honestly, it wasn't all that hard at all」"
+    "message": "「Well, honestly, it wasn't all that hard at all.」"
   },
   {
     "name": "Synn",
-    "message": "「I see. You're amazing, Macaron」"
+    "message": "「I see. You're amazing, Macaron.」"
   },
   {
     "name": "Macaron",
-    "message": "「Nufufu, I guess so」"
+    "message": "「Nufufu, I guess so.」"
   },
   {
     "name": "Everyone",
@@ -795,7 +795,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Ah, right」"
+    "message": "「Ah, right.」"
   },
   {
     "name": "Nanaka",
@@ -807,7 +807,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「So you're one of those hopeless guys who spends his days being indecisive surrounded by a bunch of little sisters, huh」"
+    "message": "「So you're one of those hopeless guys who spends his days being indecisive surrounded by a bunch of little sisters, huh.」"
   },
   {
     "name": "Misa",
@@ -815,7 +815,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Macaron Sakura-chan, huh~. What a cute little sister」"
+    "message": "「Macaron Sakura-chan, huh~. What a cute little sister.」"
   },
   {
     "name": "Nanaka",
@@ -827,7 +827,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm~, I feel like there's some kind of misunderstanding」"
+    "message": "「Hmm~, I feel like there's some kind of misunderstanding.」"
   },
   {
     "name": "Nanaka",
@@ -843,11 +843,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Macaron",
-    "message": "「Obviously」"
+    "message": "「Obviously.」"
   },
   {
     "name": "Everyone",
@@ -855,15 +855,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Hohou. In other words, Mr. President is living under the same roof with a little sister who isn't related to him by blood」"
+    "message": "「Hohou. In other words, Mr. President is living under the same roof with a little sister who isn't related to him by blood.」"
   },
   {
     "name": "Lolotte",
-    "message": "「How beastly of you」"
+    "message": "「How beastly of you.」"
   },
   {
     "name": "Synn",
-    "message": "「Eh, no, no, that's not it」"
+    "message": "「Eh, no, no, that's not it.」"
   },
   {
     "name": "Misa",
@@ -871,7 +871,7 @@
   },
   {
     "name": "Synn",
-    "message": "「It's totally normal, though」"
+    "message": "「It's totally normal, though.」"
   },
   {
     "name": "Ria",
@@ -903,7 +903,7 @@
   },
   {
     "name": "Macaron",
-    "message": "「...Looks like you're having a rough time」"
+    "message": "「...Looks like you're having a rough time.」"
   },
   {
     "name": "Synn",
@@ -911,11 +911,11 @@
   },
   {
     "name": "Macaron",
-    "message": "「Hmm... got it」"
+    "message": "「Hmm... got it.」"
   },
   {
     "name": "Macaron",
-    "message": "「We did make a promise, so I'll help you out」"
+    "message": "「We did make a promise, so I'll help you out.」"
   },
   {
     "name": "Nanaka",
@@ -923,7 +923,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「How beastly of you」"
+    "message": "「How beastly of you.」"
   },
   {
     "name": "Macaron",
@@ -931,11 +931,11 @@
   },
   {
     "name": "Macaron",
-    "message": "「Big Brother is a really good person」"
+    "message": "「Big Brother is a really good person.」"
   },
   {
     "name": "Macaron",
-    "message": "「He gladly swore his loyalty to me, too」"
+    "message": "「He gladly swore his loyalty to me, too.」"
   },
   {
     "name": "Synn",
@@ -963,7 +963,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「The more you deny it, the more suspicious you look」"
+    "message": "「The more you deny it, the more suspicious you look.」"
   },
   {
     "name": "Misa",
@@ -1022,7 +1022,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Hmm, hmm, child neglect, is it」"
+    "message": "「Hmm, hmm, child neglect, is it.」"
   },
   {
     "name": "Macaron",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Ah」"
+    "message": "「Ah.」"
   },
   {
     "name": "Paqy",
@@ -1196,7 +1196,7 @@
   },
   {
     "name": "Ria",
-    "message": "「Looks like it wandered in from somewhere」"
+    "message": "「Looks like it wandered in from somewhere.」"
   },
   {
     "name": "Misa",
@@ -1268,7 +1268,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Wait, everyone. This little guy hasn't done anything bad yet」"
+    "message": "「Wait, everyone. This little guy hasn't done anything bad yet.」"
   },
   {
     "name": "Lolotte",
@@ -1295,7 +1295,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「For now, we just gotta drive it away」"
+    "message": "「For now, we just gotta drive it away.」"
   },
   {
     "name": "Synn",
@@ -1322,11 +1322,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「Uun... O-Oh, if it ain't Lord Synn」"
+    "message": "「Uun... O-Oh, if it ain't Synn-sama.」"
   },
   {
     "name": "Synn",
-    "message": "「You're safe」"
+    "message": "「You're safe.」"
   },
   {
     "name": "Macaron",
@@ -1334,11 +1334,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Oh, Mako-chan's here too」"
+    "message": "「Oh, Mako-chan's here too.」"
   },
   {
     "name": "Synn",
-    "message": "「Thank goodness」"
+    "message": "「Thank goodness.」"
   },
   {
     "name": "Macaron",
@@ -1366,7 +1366,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「Indeed. After all, this is an act of justice」"
+    "message": "「Indeed. After all, this is an act of justice.」"
   },
   {
     "name": "Macaron",
@@ -1458,7 +1458,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「You're the only one carrying the previous Demon Lord's blood, Lord Synn, no doubt about it.」"
+    "message": "「You're the only one carrying the previous Demon Lord's blood, Synn-sama, no doubt about it.」"
   },
   {
     "name": "Synn",

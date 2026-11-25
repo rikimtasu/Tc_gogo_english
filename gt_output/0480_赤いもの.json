@@ -51,7 +51,7 @@
   },
   {
     "name": "Azel",
-    "message": "「That's right」"
+    "message": "「That's right.」"
   },
   {
     "name": "Synn",
@@ -59,7 +59,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Wrong. I was merely followed around one-sidedly」"
+    "message": "「Wrong. I was merely followed around one-sidedly.」"
   },
   {
     "name": "Synn",
@@ -67,22 +67,22 @@
   },
   {
     "name": "Azel",
-    "message": "「I'm telling you that's wrong」"
+    "message": "「I'm telling you that's wrong.」"
   },
   {
     "name": "Azel",
-    "message": "「Lolotte had become estranged from her companions and was looking for a way to reconcile with them」"
+    "message": "「Lolotte had become estranged from her companions and was looking for a way to reconcile with them.」"
   },
   {
     "name": "Azel",
-    "message": "「However, just a moment ago, she came to report that she had successfully made up with them」"
+    "message": "「However, just a moment ago, she came to report that she had successfully made up with them.」"
   },
   {
     "message": "Could it be about Amyrina?"
   },
   {
     "name": "Azel",
-    "message": "「If Lolotte comes to see me right now, it would mean their relationship has fallen apart again」"
+    "message": "「If Lolotte comes to see me right now, it would mean their relationship has fallen apart again.」"
   },
   {
     "name": "Synn",
@@ -90,10 +90,10 @@
   },
   {
     "name": "Azel",
-    "message": "「That's right」"
+    "message": "「That's right.」"
   },
   {
-    "message": "A warm, fuzzy feeling washes over me. Azel really cares about Lolotte in his own way, doesn't he."
+    "message": "A warm, fuzzy feeling washes over me. Azel really cares about Lolotte in her own way, doesn't she."
   },
   {
     "name": "Synn",
@@ -105,11 +105,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, that's right」"
+    "message": "「Yeah, that's right.」"
   },
   {
     "name": "Azel",
-    "message": "「I see」"
+    "message": "「I see.」"
   },
   {
     "name": "Synn",
@@ -117,7 +117,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...Shut up」"
+    "message": "「...Shut up.」"
   },
   {
     "name": "Synn",
@@ -125,11 +125,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I told you to shut up」"
+    "message": "「I told you to shut up.」"
   },
   {
     "name": "Azel",
-    "message": "「From this moment on, I shall commence the consumption of Vandine Jelly right here」"
+    "message": "「From this moment on, I shall commence the consumption of Vandine Jelly right here.」"
   },
   {
     "name": "Synn",
@@ -137,11 +137,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Yes, and no. I do not particularly like it. It is purely for rational nutrient intake」"
+    "message": "「Yes, and no. I do not particularly like it. It is purely for rational nutrient intake.」"
   },
   {
     "name": "Azel",
-    "message": "「While eating, my mouth will be occupied, rendering conversation with you impossible」"
+    "message": "「While eating, my mouth will be occupied, rendering conversation with you impossible.」"
   },
   {
     "name": "Azel",
@@ -152,35 +152,35 @@
     "message": "「*Sigh*...」"
   },
   {
-    "message": "Before even finishing half of it, Azel pulls his mouth away from the jelly. It doesn't seem like he's just catching his breath."
+    "message": "Before even finishing half of it, Azel pulls her mouth away from the jelly. It doesn't seem like she's just catching her breath."
   },
   {
     "name": "Azel",
-    "message": "「I do not understand」"
+    "message": "「I do not understand.」"
   },
   {
     "name": "Azel",
-    "message": "「I heard that eating while in this mental state makes food taste better than usual」"
+    "message": "「I heard that eating while in this mental state makes food taste better than usual.」"
   },
   {
     "name": "Azel",
-    "message": "「Yet it tastes the same」"
+    "message": "「Yet it tastes the same.」"
   },
   {
     "name": "Synn",
-    "message": "「Maybe you're just tired of eating it? It's always the exact same jelly, after all」"
+    "message": "「Maybe you're just tired of eating it? It's always the exact same jelly, after all.」"
   },
   {
     "name": "Azel",
-    "message": "「Impossible. They are not the same」"
+    "message": "「Impossible. They are not the same.」"
   },
   {
     "name": "Azel",
-    "message": "「Vandine Vitamin Jelly: Grape Flavor, Vandine Fiber Jelly: Muscat Flavor」"
+    "message": "「Vandine Vitamin Jelly: Grape Flavor, Vandine Fiber Jelly: Muscat Flavor.」"
   },
   {
     "name": "Azel",
-    "message": "「Vandine Energy Jelly: Red Grape Flavor, Vandine Collagen Jelly: White Grape Flavor, Vandine Mineral Jelly: Seedless Grape Flavor」"
+    "message": "「Vandine Energy Jelly: Red Grape Flavor, Vandine Collagen Jelly: White Grape Flavor, Vandine Mineral Jelly: Seedless Grape Flavor.」"
   },
   {
     "name": "Synn",
@@ -188,7 +188,7 @@
   },
   {
     "name": "Azel",
-    "message": "「With such an abundant variety, growing tired of them is out of the question」"
+    "message": "「With such an abundant variety, growing tired of them is out of the question.」"
   },
   {
     "name": "Synn",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Synn",
-    "message": "「More importantly, how about some raspberries? They're growing around here right about now」"
+    "message": "「More importantly, how about some raspberries? They're growing around here right about now.」"
   },
   {
     "name": "Azel",
@@ -204,7 +204,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Rather than explaining, it'd probably be quicker to just have you eat one」"
+    "message": "「Rather than explaining, it'd probably be quicker to just have you eat one.」"
   },
   {
     "name": "Synn",
@@ -216,11 +216,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I think there's a bit of a misunderstanding... The shape and color don't matter」"
+    "message": "「I think there's a bit of a misunderstanding... The shape and color don't matter.」"
   },
   {
     "name": "Synn",
-    "message": "「There are lots of different kinds of raspberries, so depending on the season, yellow ones grow too」"
+    "message": "「There are lots of different kinds of raspberries, so depending on the season, yellow ones grow too.」"
   },
   {
     "name": "Azel",
@@ -244,7 +244,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I can't answer that for you. Everyone has their own tastes」"
+    "message": "「I can't answer that for you. Everyone has their own tastes.」"
   },
   {
     "name": "Azel",
@@ -252,18 +252,18 @@
   },
   {
     "name": "Synn",
-    "message": "「Uhh... Don't rush, we have to search steadily」"
+    "message": "「Uhh... Don't rush, we have to search steadily.」"
   },
   {
     "message": "It's a hidden gem of a spot. Several students seem to have visited already, leaving the surroundings looking like an old path covered in tree roots and leaves."
   },
   {
     "name": "Synn",
-    "message": "「If we go into those thickets over there, there's plenty growing, but the raspberry stems have lots of thorns, so it's dangerous」"
+    "message": "「If we go into those thickets over there, there's plenty growing, but the raspberry stems have lots of thorns, so it's dangerous.」"
   },
   {
     "name": "Azel",
-    "message": "「Understood. Over there, then」"
+    "message": "「Understood. Over there, then.」"
   },
   {
     "name": "Synn",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Azel",
-    "message": "「If I watch out for the thorns, there will be no issue」"
+    "message": "「If I watch out for the thorns, there will be no issue.」"
   },
   {
     "name": "Azel",
@@ -283,7 +283,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Come to think of it, Lolotte left it behind earlier」"
+    "message": "「Come to think of it, Lolotte left it behind earlier.」"
   },
   {
     "name": "Synn",
@@ -291,11 +291,11 @@
   },
   {
     "name": "Azel",
-    "message": "「It is only temporary」"
+    "message": "「It is only temporary.」"
   },
   {
     "name": "Azel",
-    "message": "「He declared he'd pick both hands full of red things to celebrate making up, and went into the bushes」"
+    "message": "「She declared she'd pick both hands full of red things to celebrate making up, and went into the bushes.」"
   },
   {
     "message": "From inside the bushes, an arrow with Scotch tape tied to it comes flying out and pierces the ground."
@@ -323,6 +323,6 @@
     "message": "By the time Tontoro was restored to its original shape, Azel had eaten more than ten raspberries."
   },
   {
-    "message": "However, it seemed he couldn't quite be sure whether they were good or not."
+    "message": "However, it seemed she couldn't quite be sure whether they were good or not."
   }
 ]

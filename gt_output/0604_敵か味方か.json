@@ -58,11 +58,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「The test is over」"
+    "message": "「The test is over.」"
   },
   {
     "name": "Paqy",
-    "message": "「This is bad」"
+    "message": "「This is bad.」"
   },
   {
     "message": "It was an explosion."
@@ -98,7 +98,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Ugh... aah... no, no」"
+    "message": "「Ugh... aah... no, no.」"
   },
   {
     "name": "Synn",
@@ -327,6 +327,6 @@
   },
   {
     "name": "Melilot",
-    "message": "「For the time being, excluding the two of you, I would say everyone has passed as of now」"
+    "message": "「For the time being, excluding the two of you, I would say everyone has passed as of now.」"
   }
 ]

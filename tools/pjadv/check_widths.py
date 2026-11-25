@@ -88,7 +88,7 @@ def wrap_lines(text: str, metrics: Metrics, budget: int) -> list[str]:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--trans", type=Path, default=Path("gt_output"))
-    ap.add_argument("--fonts", type=Path, default=Path("build/p2_inrond_tight_20261121/fonts"))
+    ap.add_argument("--fonts", type=Path, default=Path("build/master_v10/fonts"))
     ap.add_argument("--budget", type=int, default=DEFAULT_BUDGET_PX)
     ap.add_argument("--lines", type=int, default=DEFAULT_LINES)
     ap.add_argument("--report-all", action="store_true", help="Print every row with its line count")

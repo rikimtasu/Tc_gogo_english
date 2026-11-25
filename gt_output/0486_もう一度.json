@@ -20,7 +20,7 @@
   },
   {
     "name": "Azel",
-    "message": "「There is nothing I can do」"
+    "message": "「There is nothing I can do.」"
   },
   {
     "name": "Azel",
@@ -32,7 +32,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh, I know! Come on over to the Student Council room」"
+    "message": "「Oh, I know! Come on over to the Student Council room.」"
   },
   {
     "name": "Azel",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Synn",
-    "message": "「We've got a whole stockpile of Vandine Jelly」"
+    "message": "「We've got a whole stockpile of Vandine Jelly.」"
   },
   {
     "name": "Azel",
@@ -48,19 +48,19 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, it's provided as an operating expense so we have something quick to eat when meetings get bogged down」"
+    "message": "「Yeah, it's provided as an operating expense so we have something quick to eat when meetings get bogged down.」"
   },
   {
     "name": "Synn",
-    "message": "「Everyone keeps coming up with great ideas, though, so the stash hasn't gone down at all」"
+    "message": "「Everyone keeps coming up with great ideas, though, so the stash hasn't gone down at all.」"
   },
   {
     "name": "Synn",
-    "message": "「And Lolotte doesn't seem to like that jelly much anyway」"
+    "message": "「And Lolotte doesn't seem to like that jelly much anyway.」"
   },
   {
     "name": "Azel",
-    "message": "「Naturally. Considering how much she eats」"
+    "message": "「Naturally. Considering how much she eats.」"
   },
   {
     "name": "Synn",
@@ -72,14 +72,14 @@
   },
   {
     "name": "Synn",
-    "message": "「I'd rather you take it, Azel, than let it sit around collecting dust. The Student Council has to be useful to everyone」"
+    "message": "「I'd rather you take it, Azel, than let it sit around collecting dust. The Student Council has to be useful to everyone.」"
   },
   {
     "message": "When I brought Azel along and returned to the Student Council room--"
   },
   {
     "name": "Nanaka",
-    "message": "「Yo, welcome back」"
+    "message": "「Yo, welcome back.」"
   },
   {
     "name": "Sacchin",
@@ -119,7 +119,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Hold on. I shall not hand my sister over to Lady Sacchin, you hear?」"
+    "message": "「Hold on. I shall not hand my sister over to Sacchin-dono, you hear?」"
   },
   {
     "name": "Sacchin",
@@ -135,7 +135,7 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Thanks a bunch, I'll take a refill while you're at it. Ria's tea is the best, after all.」"
+    "message": "「Thanks a bunch, I'll take a refill while you're at it. Rii-a's tea is the best, after all.」"
   },
   {
     "name": "Lolotte",
@@ -258,7 +258,7 @@
   },
   {
     "name": "Shio",
-    "message": "「Hmm? Lady Lolotte's spirit is admirable, yet how does that translate into a contest with myself?」"
+    "message": "「Hmm? Lolotte-dono's spirit is admirable, yet how does that translate into a contest with myself?」"
   },
   {
     "name": "Misa",

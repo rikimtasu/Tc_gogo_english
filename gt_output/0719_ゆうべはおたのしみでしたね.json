@@ -19,7 +19,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Nothing's wrong」"
+    "message": "「Nothing's wrong.」"
   },
   {
     "name": "Nanaka",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Don't look to me for agreement. I don't care if we don't talk」"
+    "message": "「Don't look to me for agreement. I don't care if we don't talk.」"
   },
   {
     "name": "Synn",
@@ -39,7 +39,7 @@
   },
   {
     "name": "Azel",
-    "message": "「We simply have nothing to talk about」"
+    "message": "「We simply have nothing to talk about.」"
   },
   {
     "name": "Nanaka",
@@ -47,15 +47,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm」"
+    "message": "「Hmm.」"
   },
   {
     "name": "Paqy",
-    "message": "「Boy, this does not bode well for the road ahead」"
+    "message": "「Boy, this does not bode well for the road ahead.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Looks like you had fun last night」"
+    "message": "「Looks like you had fun last night.」"
   },
   {
     "name": "Synn",
@@ -75,15 +75,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I heard this is the standard greeting for a man and a woman who spent the night at the same inn」"
+    "message": "「I heard this is the standard greeting for a man and a woman who spent the night at the same inn.」"
   },
   {
     "name": "Ria",
-    "message": "「Were you two up late playing games or something? You shouldn't stay up too late, you know」"
+    "message": "「Were you two up late playing games or something? You shouldn't stay up too late, you know.」"
   },
   {
     "name": "Azel",
-    "message": "「I was tired last night, so I went straight to sleep」"
+    "message": "「I was tired last night, so I went straight to sleep.」"
   },
   {
     "name": "Nanaka",
@@ -95,7 +95,7 @@
   },
   {
     "name": "Synn",
-    "message": "「I have no idea what anyone's talking about」"
+    "message": "「I have no idea what anyone's talking about.」"
   },
   {
     "name": "Paqy",
@@ -115,19 +115,19 @@
   },
   {
     "name": "Ria",
-    "message": "「Synn-kun. Azel-chan. Hard or soft, if you eat ice cream in the middle of the night, you'll get fat」"
+    "message": "「Synn-kun. Azel-chan. Hard or soft, if you eat ice cream in the middle of the night, you'll get fat.」"
   },
   {
     "name": "Paqy",
-    "message": "「Gah! Nice one, Ria-chan! Though Master Synn's house doesn't have any fancy stuff like that」"
+    "message": "「Gah! Nice one, Ria-chan! Though Synn-sama's house doesn't have any fancy stuff like that.」"
   },
   {
     "name": "Synn",
-    "message": "「Well, it's winter now, though. We've got eggs and milk, so maybe I'll make some for the first time in a while」"
+    "message": "「Well, it's winter now, though. We've got eggs and milk, so maybe I'll make some for the first time in a while.」"
   },
   {
     "name": "Nanaka",
-    "message": "「...Well, coming from Synn, that sounds about right」"
+    "message": "「...Well, coming from Synn, that sounds about right.」"
   },
   {
     "name": "Azel",
@@ -135,11 +135,11 @@
   },
   {
     "name": "Synn",
-    "message": "「It's a delicious sweet. You can only eat it in the winter」"
+    "message": "「It's a delicious sweet. You can only eat it in the winter.」"
   },
   {
     "name": "Nanaka",
-    "message": "「That's just because you can't afford to buy it」"
+    "message": "「That's just because you can't afford to buy it.」"
   },
   {
     "name": "Sacchin",
@@ -175,7 +175,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Incomprehensible」"
+    "message": "「Incomprehensible.」"
   },
   {
     "name": "Nanaka",

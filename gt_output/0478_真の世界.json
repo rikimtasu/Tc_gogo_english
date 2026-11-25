@@ -20,7 +20,7 @@
   },
   {
     "name": "Azel",
-    "message": "「You're in my way」"
+    "message": "「You're in my way.」"
   },
   {
     "name": "Melilot",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Let me through」"
+    "message": "「Let me through.」"
   },
   {
     "name": "Melilot",
@@ -39,7 +39,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Move」"
+    "message": "「Move.」"
   },
   {
     "name": "Melilot",
@@ -47,7 +47,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Go home」"
+    "message": "「Go home.」"
   },
   {
     "name": "Melilot",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Because he is trying to take out more books than the prescribed limit.」"
+    "message": "「Because she is trying to take out more books than the prescribed limit.」"
   },
   {
     "name": "Synn",
@@ -86,7 +86,7 @@
     "message": "「I want to see what I want to see. I want to see everything.」"
   },
   {
-    "message": "With a dead-serious look in his eyes, Azel spouts an outrageous piece of sophistry."
+    "message": "With a dead-serious look in her eyes, Azel spouts an outrageous piece of sophistry."
   },
   {
     "name": "Azel",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I have no need for your help」"
+    "message": "「I have no need for your help.」"
   },
   {
     "name": "Synn",
@@ -163,19 +163,19 @@
   },
   {
     "name": "Melilot",
-    "message": "「Azel-san, the most vital duty of anyone attending Ryuusei Academy is to uphold freedom and responsibility」"
+    "message": "「Azel-san, the most vital duty of anyone attending Ryuusei Academy is to uphold freedom and responsibility.」"
   },
   {
     "name": "Melilot",
-    "message": "「In academics, club activities, personal conduct--everything. That is the fundamental principle Helena established」"
+    "message": "「In academics, club activities, personal conduct--everything. That is the fundamental principle Helena established.」"
   },
   {
     "name": "Azel",
-    "message": "「She just decided that on her own」"
+    "message": "「She just decided that on her own.」"
   },
   {
     "name": "Melilot",
-    "message": "「If you do not hold that conviction and cannot face the truth squarely, you have no right to wear that uniform or carry a library card」"
+    "message": "「If you do not hold that conviction and cannot face the truth squarely, you have no right to wear that uniform or carry a library card.」"
   },
   {
     "name": "Azel",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Hmm, well then, Melilot-san, I'll use my freedom to do this」"
+    "message": "「Hmm, well then, Melilot-san, I'll use my freedom to do this.」"
   },
   {
     "message": "I take half of the books Azel is carrying."
@@ -201,11 +201,11 @@
   },
   {
     "name": "Azel",
-    "message": "「Something like that. So give them back」"
+    "message": "「Something like that. So give them back.」"
   },
   {
     "name": "Synn",
-    "message": "「Hold on a second」"
+    "message": "「Hold on a second.」"
   },
   {
     "name": "Synn",
@@ -217,11 +217,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「There is no issue with that whatsoever」"
+    "message": "「There is no issue with that whatsoever.」"
   },
   {
     "name": "Melilot",
-    "message": "「However, any books checked out under Sakura-kun's name must be returned under Sakura-kun's responsibility」"
+    "message": "「However, any books checked out under Sakura-kun's name must be returned under Sakura-kun's responsibility.」"
   },
   {
     "name": "Melilot",
@@ -229,7 +229,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Here you go」"
+    "message": "「Here you go.」"
   },
   {
     "message": "Taking the library card from me, Melilot-san begins writing the book titles onto the checkout log on the back right there on the spot."
@@ -240,7 +240,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I am a librarian」"
+    "message": "「I am a librarian.」"
   },
   {
     "name": "Synn",
@@ -252,7 +252,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「I am just finishing up」"
+    "message": "「I am just finishing up.」"
   },
   {
     "name": "Melilot",
@@ -260,11 +260,11 @@
   },
   {
     "name": "Melilot",
-    "message": "「Believe, and all is truth; doubt, and all is a hazy chaos. What is reality and what is an empty dream--you are the one who decides」"
+    "message": "「Believe, and all is truth; doubt, and all is a hazy chaos. What is reality and what is an empty dream--you are the one who decides.」"
   },
   {
     "name": "Azel",
-    "message": "「Shut up」"
+    "message": "「Shut up.」"
   },
   {
     "name": "Azel",
@@ -272,7 +272,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「There are as many worlds as there are people」"
+    "message": "「There are as many worlds as there are people.」"
   },
   {
     "name": "Melilot",
@@ -284,7 +284,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Sakura-kun, here is your library card back」"
+    "message": "「Sakura-kun, here is your library card back.」"
   },
   {
     "name": "Azel",
@@ -303,11 +303,11 @@
   },
   {
     "name": "Synn",
-    "message": "「You're going to read them in your dorm room, right? I'll carry the books to the entrance for you」"
+    "message": "「You're going to read them in your dorm room, right? I'll carry the books to the entrance for you.」"
   },
   {
     "name": "Azel",
-    "message": "「I won't thank you. After all, I never asked you to」"
+    "message": "「I won't thank you. After all, I never asked you to.」"
   },
   {
     "name": "Synn",
@@ -319,7 +319,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Why don't you use the reading room? Inside the library, you can read as many books as you want」"
+    "message": "「Why don't you use the reading room? Inside the library, you can read as many books as you want.」"
   },
   {
     "name": "Azel",
@@ -327,7 +327,7 @@
   },
   {
     "name": "Azel",
-    "message": "「When I'm looking at photo books or art books in there, that woman closes right in on me and starts talking」"
+    "message": "「When I'm looking at photo books or art books in there, that woman closes right in on me and starts talking.」"
   },
   {
     "name": "Synn",
@@ -335,28 +335,28 @@
   },
   {
     "name": "Azel",
-    "message": "「Wrong」"
+    "message": "「Wrong.」"
   },
   {
     "name": "Azel",
-    "message": "「That woman just keeps talking, muttering in a quiet voice, on and on without stopping」"
+    "message": "「That woman just keeps talking, muttering in a quiet voice, on and on without stopping.」"
   },
   {
     "name": "Azel",
-    "message": "「So I can't get a word in, muttering on and on, keeping up a nonstop stream of talk like hypnosis」"
+    "message": "「So I can't get a word in, muttering on and on, keeping up a nonstop stream of talk like hypnosis.」"
   },
   {
     "name": "Azel",
     "message": "「And then I gradually start getting sleepy, and that woman mutters in a quiet voice, can't get a word in, on and on--」"
   },
   {
-    "message": "I can't believe Ms. Melilot would pull something like that on a student."
+    "message": "I can't believe Melilot-san would pull something like that on a student."
   },
   {
     "message": "Even more unbelievable is that Azel is complaining to me. Even if it's just griping and grumbling, Azel and I are actually communicating."
   },
   {
-    "message": "Could it be that Ms. Melilot wanted us to end up like this, so she intentionally pulled something unbelievable on a student, and Azel is complaining, and we're communicating."
+    "message": "Could it be that Melilot-san wanted us to end up like this, so she intentionally pulled something unbelievable on a student, and Azel is complaining, and we're communicating."
   },
   {
     "message": "Even if it's just griping and grumbling, what's unbelievable is that we're--"

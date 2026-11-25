@@ -14,7 +14,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「You sure are diligent, Lord Synn. It's a rare Sunday, so don't you ever feel like sleeping in?」"
+    "message": "「You sure are diligent, Synn-sama. It's a rare Sunday, so don't you ever feel like sleeping in?」"
   },
   {
     "name": "Synn",
@@ -122,11 +122,11 @@
     "message": "「Yeah.」"
   },
   {
-    "message": "Even though it's just that he didn't tell me not to come or that he didn't need me to, it still makes me happy."
+    "message": "Even though it's just that she didn't tell me not to come or that she didn't need me to, it still makes me happy."
   },
   {
     "name": "Paqy",
-    "message": "「Master Synn. Your hands stopped moving.」"
+    "message": "「Synn-sama. Your hands stopped moving.」"
   },
   {
     "name": "Synn",
@@ -174,7 +174,7 @@
     "message": "「Delicious!」"
   },
   {
-    "message": "As I slurp my ramen, I'm thinking about how Azel wears his uniform even on Sundays, though I'd like to see him in casual clothes once in a while, when suddenly."
+    "message": "As I slurp my ramen, I'm thinking about how Azel wears her uniform even on Sundays, though I'd like to see her in casual clothes once in a while, when suddenly."
   },
   {
     "name": "Azel",
@@ -216,10 +216,10 @@
     "message": "「Hmm.」"
   },
   {
-    "message": "Azel started slurping his ramen again."
+    "message": "Azel started slurping her ramen again."
   },
   {
-    "message": "He kept tilting his head in puzzlement."
+    "message": "She kept tilting her head in puzzlement."
   },
   {
     "name": "Azel",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「You won't find any eggs cheaper than the ones Master Synn buys!」"
+    "message": "「You won't find any eggs cheaper than the ones Synn-sama buys!」"
   },
   {
     "name": "Synn",
@@ -250,7 +250,7 @@
     "message": "「I do not understand. I have been making and eating nothing but ramen since last week, adjusting the ratios and cooking times...」"
   },
   {
-    "message": "Tilting his head, Azel drank down the rest of the broth."
+    "message": "Tilting her head, Azel drank down the rest of the broth."
   },
   {
     "name": "Synn",
@@ -318,11 +318,11 @@
   },
   {
     "name": "Paqy",
-    "message": "「He's so moved by Aze-ko's brilliant deduction that he's lost for words」"
+    "message": "「He's so moved by Aze-ko's brilliant deduction that he's lost for words.」"
   },
   {
     "name": "Azel",
-    "message": "「It was merely a rational inference. If I had an analyzer, I could determine what it is. It's a shame」"
+    "message": "「It was merely a rational inference. If I had an analyzer, I could determine what it is. It's a shame.」"
   },
   {
     "name": "Synn",
@@ -330,11 +330,11 @@
   },
   {
     "name": "Azel",
-    "message": "「You find it a shame too, I see」"
+    "message": "「You find it a shame too, I see.」"
   },
   {
     "name": "Paqy",
-    "message": "「Wrong kind of shame, man」"
+    "message": "「Wrong kind of shame, man.」"
   },
   {
     "name": "Sally",
@@ -346,15 +346,15 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry. It's all gone」"
+    "message": "「Sorry. It's all gone.」"
   },
   {
     "name": "Sally",
-    "message": "「Boo-hoo」"
+    "message": "「Boo-hoo.」"
   },
   {
     "name": "Azel",
-    "message": "「Hey」"
+    "message": "「Hey.」"
   },
   {
     "name": "Sally",
@@ -362,7 +362,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I'm the one who wants to ask that」"
+    "message": "「I'm the one who wants to ask that.」"
   },
   {
     "name": "Sally",
@@ -374,11 +374,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I-It's not like we're living together」"
+    "message": "「I-It's not like we're living together.」"
   },
   {
     "name": "Paqy",
-    "message": "「Under the exact same roof, man」"
+    "message": "「Under the exact same roof, man.」"
   },
   {
     "name": "Sally",
@@ -386,7 +386,7 @@
   },
   {
     "name": "Azel",
-    "message": "「...So that's how it is. A male and a female sharing a single nest. Mated with a Demon, huh」"
+    "message": "「...So that's how it is. A male and a female sharing a single nest. Mated with a Demon, huh.」"
   },
   {
     "name": "Synn",
@@ -394,23 +394,23 @@
   },
   {
     "name": "Azel",
-    "message": "「...I-I see. Right, of course」"
+    "message": "「...I-I see. Right, of course.」"
   },
   {
     "name": "Paqy",
-    "message": "「Good for you, Aze-ko」"
+    "message": "「Good for you, Aze-ko.」"
   },
   {
     "name": "Azel",
-    "message": "「I-I was merely confirming the facts」"
+    "message": "「I-I was merely confirming the facts.」"
   },
   {
     "name": "Sally",
-    "message": "「Do you wanna live here too, Azel? If you do, I can lend you a room or something」"
+    "message": "「Do you wanna live here too, Azel? If you do, I can lend you a room or something.」"
   },
   {
     "name": "Azel",
-    "message": "「Not really... It's not like that」"
+    "message": "「Not really... It's not like that.」"
   },
   {
     "name": "Nanaka",
@@ -418,11 +418,11 @@
   },
   {
     "name": "Synn",
-    "message": "「Hey」"
+    "message": "「Hey.」"
   },
   {
     "name": "Azel",
-    "message": "「Hello」"
+    "message": "「Hello.」"
   },
   {
     "name": "Nanaka",
@@ -430,7 +430,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Sorry. We already finished eating」"
+    "message": "「Sorry. We already finished eating.」"
   },
   {
     "name": "Azel",
@@ -438,7 +438,7 @@
   },
   {
     "name": "Sally",
-    "message": "「Nanakaaa! Kaicho's being mean! He's eating ramen behind my back. Oh, soba! Gimme some soba」"
+    "message": "「Nanakaaa! Kaicho's being mean! He's eating ramen behind my back. Oh, soba! Gimme some soba.」"
   },
   {
     "name": "Nanaka",
@@ -450,7 +450,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I came to have him make me ramen」"
+    "message": "「I came to have him make me ramen.」"
   },
   {
     "name": "Nanaka",
@@ -458,11 +458,11 @@
   },
   {
     "name": "Azel",
-    "message": "「That's it」"
+    "message": "「That's it.」"
   },
   {
     "name": "Paqy",
-    "message": "「She went out of her way to bring instant ramen with her, y'know」"
+    "message": "「She went out of her way to bring instant ramen with her, y'know.」"
   },
   {
     "name": "Sally",
@@ -474,7 +474,7 @@
   },
   {
     "name": "Azel",
-    "message": "「There couldn't possibly be any other reason」"
+    "message": "「There couldn't possibly be any other reason.」"
   },
   {
     "message": "She didn't come over just because she wanted to eat with me, after all."
@@ -485,15 +485,15 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Well, as long as nothing happened, I guess it's fine」"
+    "message": "「Well, as long as nothing happened, I guess it's fine.」"
   },
   {
     "name": "Synn",
-    "message": "「What exactly do you think would happen」"
+    "message": "「What exactly do you think would happen.」"
   },
   {
     "name": "Paqy",
-    "message": "「Yours truly thinks the biggest reason nothing happened is Synn-sama himself」"
+    "message": "「Yours truly thinks the biggest reason nothing happened is Synn-sama himself.」"
   },
   {
     "name": "Synn",
@@ -501,11 +501,11 @@
   },
   {
     "name": "Azel",
-    "message": "「I see. You came here to have a meal with him too, didn't you」"
+    "message": "「I see. You came here to have a meal with him too, didn't you.」"
   },
   {
     "name": "Nanaka",
-    "message": "「I-It's not like that, his parents just asked me to look after him, that's all」"
+    "message": "「I-It's not like that, his parents just asked me to look after him, that's all.」"
   },
   {
     "name": "Nanaka",
@@ -513,7 +513,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Apparently, the chemical substances emitted from this guy make food taste better」"
+    "message": "「Apparently, the chemical substances emitted from this guy make food taste better.」"
   },
   {
     "name": "Nanaka",

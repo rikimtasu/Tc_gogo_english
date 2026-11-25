@@ -59,7 +59,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Whoa!! Lolotte\\s01」"
+    "message": "「Whoa!! Lolotte.\\s01」"
   },
   {
     "name": "Lolotte",
@@ -90,7 +90,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Paqy! A mirror, get me a mirror\\s01」"
+    "message": "「Paqy! A mirror, get me a mirror.\\s01」"
   },
   {
     "name": "Paqy",
@@ -179,7 +179,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Y... Yeah. Quite a bit\\s03」"
+    "message": "「Y... Yeah. Quite a bit.\\s03」"
   },
   {
     "name": "Lolotte",
@@ -198,7 +198,7 @@
   },
   {
     "name": "Synn",
-    "message": "「N-No. Sure is nice weather today\\s02」"
+    "message": "「N-No. Sure is nice weather today.\\s02」"
   },
   {
     "name": "Lolotte",
@@ -243,15 +243,15 @@
   },
   {
     "name": "Lolotte",
-    "message": "「The other angel. It's Azelle.」"
+    "message": "「The other angel. It's Azel.」"
   },
   {
     "name": "Synn",
-    "message": "「Azelle is...」"
+    "message": "「Azel is...」"
   },
   {
     "name": "Amyrina",
-    "message": "「Azelle...」"
+    "message": "「Azel...」"
   },
   {
     "name": "Lolotte",
@@ -259,11 +259,11 @@
   },
   {
     "name": "Synn",
-    "message": "「I see~~ So that's how it is」"
+    "message": "「I see~~ So that's how it is.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Between us being angels and now this, you adapt far too easily, President」"
+    "message": "「Between us being angels and now this, you adapt far too easily, President.」"
   },
   {
     "name": "Amyrina",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah」"
+    "message": "「Yeah.」"
   },
   {
     "name": "Lolotte",
@@ -283,7 +283,7 @@
   },
   {
     "name": "Synn",
-    "message": "「So we're going to ask Azelle to help us with Re-Crea too, right?」"
+    "message": "「So we're going to ask Azel to help us with Re-Crea too, right?」"
   },
   {
     "name": "Lolotte",
@@ -299,7 +299,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「N-No. Anyway, let's head over. Since it's today, Amyrina can get in too」"
+    "message": "「N-No. Anyway, let's head over. Since it's today, Amyrina can get in too.」"
   },
   {
     "name": "Lolotte",
@@ -310,7 +310,7 @@
   },
   {
     "name": "Amyrina",
-    "message": "「Azelle...」"
+    "message": "「Azel...」"
   },
   {
     "name": "Synn",
@@ -330,11 +330,11 @@
   },
   {
     "name": "Amyrina",
-    "message": "「Lolotte also said she met him for the first time in the Human World, so...」"
+    "message": "「Lolotte also said she met her for the first time in the Human World, so...」"
   },
   {
     "name": "Amyrina",
-    "message": "「Perhaps he is a very high-ranking angel」"
+    "message": "「Perhaps she is a very high-ranking angel.」"
   },
   {
     "name": "Synn",
@@ -346,11 +346,11 @@
   },
   {
     "name": "Synn",
-    "message": "「That'd be reassuring! Let's get him on our side no matter what!」"
+    "message": "「That'd be reassuring! Let's get her on our side no matter what!」"
   },
   {
     "name": "Amyrina",
-    "message": "「Yes」"
+    "message": "「Yes.」"
   },
   {
     "name": "Lolotte",
@@ -362,7 +362,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「It seems Azel-san isn't in」"
+    "message": "「It seems Azel-san isn't in.」"
   },
   {
     "name": "Synn",
@@ -374,19 +374,19 @@
   },
   {
     "name": "Synn",
-    "message": "「If that's the case, the service is over. Knowing Azel, he's probably over there」"
+    "message": "「If that's the case, the service is over. Knowing Azel, she's probably over there.」"
   },
   {
     "name": "Lolotte",
-    "message": "「...! You're right」"
+    "message": "「...! You're right.」"
   },
   {
     "name": "Synn",
-    "message": "「Let's go to Prier for food afterward」"
+    "message": "「Let's go to Prier for food afterward.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Yaaay\\s07」"
+    "message": "「Yaaay.\\s07」"
   },
   {
     "name": "Azel",
@@ -394,7 +394,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「He really was here」"
+    "message": "「She really was here.」"
   },
   {
     "name": "Synn",
@@ -402,7 +402,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「I didn't want to be noticed」"
+    "message": "「I didn't want to be noticed.」"
   },
   {
     "name": "Synn",
@@ -414,7 +414,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Leave」"
+    "message": "「Leave.」"
   },
   {
     "name": "Lolotte",
@@ -426,7 +426,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I have none with you」"
+    "message": "「I have none with you.」"
   },
   {
     "message": "As always, there's no opening to get through to her."
@@ -448,7 +448,7 @@
   },
   {
     "name": "Amyrina",
-    "message": "「An extraordinarily talented angel appointed to an important post at a young age」"
+    "message": "「An extraordinarily talented angel appointed to an important post at a young age.」"
   },
   {
     "name": "Amyrina",
@@ -464,23 +464,23 @@
   },
   {
     "name": "Azel",
-    "message": "「...Tch」"
+    "message": "「...Tch.」"
   },
   {
     "name": "Lolotte",
-    "message": "「You're so knowledgeable, Amyrina~~. I had no idea at all」"
+    "message": "「You're so knowledgeable, Amyrina~~. I had no idea at all.」"
   },
   {
     "name": "Amyrina",
-    "message": "「You're just far too indifferent about matters in Heaven, Lolotte」"
+    "message": "「You're just far too indifferent about matters in Heaven, Lolotte.」"
   },
   {
     "name": "Lolotte",
-    "message": "「I'll reflect on that. From now on, I'll make sure to study up even on things I'm not interested in」"
+    "message": "「I'll reflect on that. From now on, I'll make sure to study up even on things I'm not interested in.」"
   },
   {
     "name": "Amyrina",
-    "message": "「Trying to fix your flaws right away is so admirable of you, Lolotte」"
+    "message": "「Trying to fix your flaws right away is so admirable of you, Lolotte.」"
   },
   {
     "name": "Lolotte",
@@ -504,11 +504,11 @@
   },
   {
     "name": "Synn",
-    "message": "「So you came to Ryuusei Academy」"
+    "message": "「So you came to Ryuusei Academy.」"
   },
   {
     "name": "Azel",
-    "message": "「It has nothing to do with you people」"
+    "message": "「It has nothing to do with you people.」"
   },
   {
     "name": "Synn",
@@ -516,7 +516,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Pointless」"
+    "message": "「Pointless.」"
   },
   {
     "name": "Synn",
@@ -524,15 +524,15 @@
   },
   {
     "name": "Azel",
-    "message": "「I have no business with any of you」"
+    "message": "「I have no business with any of you.」"
   },
   {
     "name": "Lolotte",
-    "message": "「Hoho~~. You're saying that you can face the Re-Crea problem all by yourself, Azel-san. That is what you're claiming, yes」"
+    "message": "「Hoho~~. You're saying that you can face the Re-Crea problem all by yourself, Azel-san. That is what you're claiming, yes.」"
   },
   {
     "name": "Synn",
-    "message": "「So that's what you meant by that」"
+    "message": "「So that's what you meant by that.」"
   },
   {
     "name": "Lolotte",
@@ -548,7 +548,7 @@
   },
   {
     "name": "Amyrina",
-    "message": "「I see. So that's what it was. That solves one mystery」"
+    "message": "「I see. So that's what it was. That solves one mystery.」"
   },
   {
     "name": "Synn",
@@ -556,7 +556,7 @@
   },
   {
     "name": "Amyrina",
-    "message": "「Yes. Considering the effects of Re-Crea, the investigation team should have already returned to Heaven」"
+    "message": "「Yes. Considering the effects of Re-Crea, the investigation team should have already returned to Heaven.」"
   },
   {
     "name": "Synn",
@@ -564,7 +564,7 @@
   },
   {
     "name": "Amyrina",
-    "message": "「Yes. After all, it's safer for angels to lay low in Heaven」"
+    "message": "「Yes. After all, it's safer for angels to lay low in Heaven.」"
   },
   {
     "name": "Azel",
@@ -659,7 +659,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「...Before」"
+    "message": "「...Before.」"
   },
   {
     "name": "Lolotte",
@@ -667,7 +667,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Huh」"
+    "message": "「Huh.」"
   },
   {
     "name": "Lolotte",
@@ -679,7 +679,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I'm telling you... it's not... ngh」"
+    "message": "「I'm telling you... it's not... ngh.」"
   },
   {
     "name": "Amyrina",
@@ -715,7 +715,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Urgh... Stop... clinging to me any further」"
+    "message": "「Urgh... Stop... clinging to me any further.」"
   },
   {
     "name": "Lolotte",
@@ -743,7 +743,7 @@
   },
   {
     "name": "Lolotte",
-    "message": "「That's right!! Once you join us, Azel-san, the Crusaders will have the strength of a million men」"
+    "message": "「That's right!! Once you join us, Azel-san, the Crusaders will have the strength of a million men.」"
   },
   {
     "name": "Azel",
@@ -755,14 +755,14 @@
   },
   {
     "name": "Azel",
-    "message": "「...I can walk on my own now」"
+    "message": "「...I can walk on my own now.」"
   },
   {
-    "message": "Azel coldly pushed Lolotte away and turned his back."
+    "message": "Azel coldly pushed Lolotte away and turned her back."
   },
   {
     "name": "Azel",
-    "message": "「Even I myself do not know what is happening here」"
+    "message": "「Even I myself do not know what is happening here.」"
   },
   {
     "name": "Lolotte",
@@ -770,7 +770,7 @@
   },
   {
     "name": "Azel",
-    "message": "「Then tell me the answer」"
+    "message": "「Then tell me the answer.」"
   },
   {
     "name": "Lolotte",
@@ -778,7 +778,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Lolotte is worried about you. You don't have to talk to her like that」"
+    "message": "「Lolotte is worried about you. You don't have to talk to her like that.」"
   },
   {
     "name": "Azel",
@@ -786,7 +786,7 @@
   },
   {
     "name": "Azel",
-    "message": "「I have no need for useless comrades」"
+    "message": "「I have no need for useless comrades.」"
   },
   {
     "name": "Synn",
@@ -798,6 +798,6 @@
   },
   {
     "name": "Azel",
-    "message": "「Never get involved with me again」"
+    "message": "「Never get involved with me again.」"
   }
 ]

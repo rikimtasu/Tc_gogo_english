@@ -4,7 +4,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Hiii, Synn-chan\\s04」"
+    "message": "「Hiii, Synn-chan.\\s04」"
   },
   {
     "name": "Synn",
@@ -107,7 +107,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Why, you ask? Because academy staff shouldn't be dining with specific students」"
+    "message": "「Why, you ask? Because academy staff shouldn't be dining with specific students.」"
   },
   {
     "name": "Synn",
@@ -115,11 +115,11 @@
   },
   {
     "name": "Helena",
-    "message": "「I know it sounds stuffy, but that's that and this is this」"
+    "message": "「I know it sounds stuffy, but that's that and this is this.」"
   },
   {
     "name": "Synn",
-    "message": "「Delicious」"
+    "message": "「Delicious.」"
   },
   {
     "name": "Helena",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「...Did sweets he ain't used to eatin' poison him or somethin'? Lord Synn's speech center is totally fried」"
+    "message": "「...Did sweets he ain't used to eatin' poison him or somethin'? Synn-sama's speech center is totally fried.」"
   },
   {
     "name": "Paqy",
@@ -147,15 +147,15 @@
   },
   {
     "name": "Helena",
-    "message": "「Right. I'm strictly an alumna of the Student Council, not an active member」"
+    "message": "「Right. I'm strictly an alumna of the Student Council, not an active member.」"
   },
   {
     "name": "Helena",
-    "message": "「My help only goes as far as getting permission for the KiraFes from the faculty」"
+    "message": "「My help only goes as far as getting permission for the KiraFes from the faculty.」"
   },
   {
     "name": "Helena",
-    "message": "「Telling the folks in the shopping district is your job, Synn-chan」"
+    "message": "「Telling the folks in the shopping district is your job, Synn-chan.」"
   },
   {
     "name": "Synn",
@@ -171,7 +171,7 @@
   },
   {
     "name": "Helena",
-    "message": "「I'll take responsibility. Don't worry--do everything you want to do, and go all out」"
+    "message": "「I'll take responsibility. Don't worry--do everything you want to do, and go all out.」"
   },
   {
     "name": "Synn",
@@ -179,7 +179,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「Ahh, even I get it. For all her talk, Helena's got Lord Synn's back」"
+    "message": "「Ahh, even I get it. For all her talk, Helena's got Synn-sama's back.」"
   },
   {
     "name": "Helena",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Helena",
-    "message": "「Alright, thanks for the meal. Once you grow up into a dashing man, Synn-chan, you can treat me next time」"
+    "message": "「Alright, thanks for the meal. Once you grow up into a dashing man, Synn-chan, you can treat me next time.」"
   },
   {
     "name": "Helena",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Riesling",
-    "message": "「So it really is you, Helena」"
+    "message": "「So it really is you, Helena.」"
   },
   {
     "name": "Helena",
@@ -223,7 +223,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Delicious」"
+    "message": "「Delicious.」"
   },
   {
     "name": "Helena",
@@ -299,6 +299,6 @@
   },
   {
     "name": "Synn",
-    "message": "「Yeah, and for that to happen, first I have to do my absolute best at Kirafes!」"
+    "message": "「Yeah, and for that to happen, first I have to do my absolute best at KiraFes!」"
   }
 ]

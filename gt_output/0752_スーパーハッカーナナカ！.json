@@ -8,7 +8,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Lolotte. Pass some over to me」"
+    "message": "「Lolotte. Pass some over to me.」"
   },
   {
     "name": "Lolotte",
@@ -37,11 +37,11 @@
   },
   {
     "name": "Misasagi",
-    "message": "「Don't mind it at all. I helped out a little last year too, after all」"
+    "message": "「Don't mind it at all. I helped out a little last year too, after all.」"
   },
   {
     "name": "Misa",
-    "message": "「My side's all wrapped up! All that's left is having Helena-san check it over」"
+    "message": "「My side's all wrapped up! All that's left is having Helena-san check it over.」"
   },
   {
     "name": "Synn",
@@ -49,11 +49,11 @@
   },
   {
     "name": "Jangara",
-    "message": "「Ee」"
+    "message": "「Ee.」"
   },
   {
     "name": "Synn",
-    "message": "「Take this over to Helena-san, and here, a little treat for your trouble」"
+    "message": "「Take this over to Helena-san, and here, a little treat for your trouble.」"
   },
   {
     "name": "Jangara",
@@ -75,26 +75,26 @@
   },
   {
     "name": "Amyrina",
-    "message": "「Um... could it be this? This number right here」"
+    "message": "「Um... could it be this? This number right here.」"
   },
   {
     "name": "Synn",
-    "message": "「Ah, a 3 got turned into an 8--that's what threw it off」"
+    "message": "「Ah, a 3 got turned into an 8--that's what threw it off.」"
   },
   {
     "name": "Lolotte",
-    "message": "「As expected of my best friend. I'm so proud of you」"
+    "message": "「As expected of my best friend. I'm so proud of you.」"
   },
   {
     "message": "Even someone like her got roped into this."
   },
   {
     "name": "Synn",
-    "message": "「Sorry for pulling you in so suddenly」"
+    "message": "「Sorry for pulling you in so suddenly.」"
   },
   {
     "name": "Amyrina",
-    "message": "「It's fine. I don't get much experience with this sort of thing, so it's fun」"
+    "message": "「It's fine. I don't get much experience with this sort of thing, so it's fun.」"
   },
   {
     "name": "Sacchin",
@@ -126,7 +126,7 @@
   },
   {
     "name": "Misa",
-    "message": "「N-Never mind. You two just stay over there and cheer us on」"
+    "message": "「N-Never mind. You two just stay over there and cheer us on.」"
   },
   {
     "name": "Paqy",
@@ -146,7 +146,7 @@
   },
   {
     "name": "Ria",
-    "message": "「I-I'll go make some tea\\s01」"
+    "message": "「I-I'll go make some tea.\\s01」"
   },
   {
     "name": "Nanaka",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Azel's already finished taking photos of all the students, and he's even finished picking out the ones for the display」"
+    "message": "「Azel's already finished taking photos of all the students, and she's even finished picking out the ones for the display.」"
   },
   {
     "name": "Synn",
@@ -182,11 +182,11 @@
   },
   {
     "name": "Nanaka",
-    "message": "「Uh, well, I was fiddling around with it a bit and it just opened」"
+    "message": "「Uh, well, I was fiddling around with it a bit and it just opened.」"
   },
   {
     "name": "Lolotte",
-    "message": "「So Miss Treasurer was a villain all along!」"
+    "message": "「So Treasurer-san was a villain all along!」"
   },
   {
     "name": "Sacchin",
@@ -239,7 +239,7 @@
   },
   {
     "name": "Paqy",
-    "message": "「At least tell Master Synn.」"
+    "message": "「At least tell Synn-sama.」"
   },
   {
     "name": "Nanaka",
@@ -297,7 +297,7 @@
   },
   {
     "name": "Ria",
-    "message": "「That'd be freezing at this time of year\\s02」"
+    "message": "「That'd be freezing at this time of year.\\s02」"
   },
   {
     "name": "Synn",
@@ -305,7 +305,7 @@
   },
   {
     "name": "Nanaka",
-    "message": "「I didn't」"
+    "message": "「I didn't.」"
   },
   {
     "name": "Misa",
@@ -332,15 +332,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「She hasn't come in」"
+    "message": "「She hasn't come in.」"
   },
   {
     "name": "Synn",
-    "message": "「I... see」"
+    "message": "「I... see.」"
   },
   {
     "name": "Synn",
-    "message": "「Oh, and I also have one favor to ask today」"
+    "message": "「Oh, and I also have one favor to ask today.」"
   },
   {
     "name": "Melilot",
@@ -356,19 +356,19 @@
   },
   {
     "name": "Melilot",
-    "message": "「I cannot simply show you records pertaining to an individual's privacy without permission」"
+    "message": "「I cannot simply show you records pertaining to an individual's privacy without permission.」"
   },
   {
     "name": "Synn",
-    "message": "「You're aware that Azel is missing, aren't you」"
+    "message": "「You're aware that Azel is missing, aren't you.」"
   },
   {
     "name": "Melilot",
-    "message": "「I am aware」"
+    "message": "「I am aware.」"
   },
   {
     "name": "Synn",
-    "message": "「That's why I want any kind of clue I can get」"
+    "message": "「That's why I want any kind of clue I can get.」"
   },
   {
     "name": "Melilot",
@@ -376,7 +376,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Please wait a moment」"
+    "message": "「Please wait a moment.」"
   },
   {
     "message": "Melilot-san flipped through the library cards."
@@ -387,7 +387,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「It isn't here」"
+    "message": "「It isn't here.」"
   },
   {
     "name": "Synn",
@@ -403,7 +403,7 @@
   },
   {
     "name": "Melilot",
-    "message": "「Yes」"
+    "message": "「Yes.」"
   },
   {
     "message": "It's unlike her."
@@ -413,7 +413,7 @@
   },
   {
     "name": "Synn",
-    "message": "「When do you think he took it out?」"
+    "message": "「When do you think she took it out?」"
   },
   {
     "name": "Melilot",
@@ -438,7 +438,7 @@
     "message": "Melilot-san turned the monitor toward me."
   },
   {
-    "message": "There are no records after his disappearance."
+    "message": "There are no records after her disappearance."
   },
   {
     "message": "However."
@@ -447,13 +447,13 @@
     "message": "A library card is filled out before borrowing--meaning before it's entered into the computer."
   },
   {
-    "message": "Knowing how overly earnest and inflexible Azel is, he would have forgotten his current situation and dutifully gone through the procedure."
+    "message": "Knowing how overly earnest and inflexible Azel is, she would have forgotten her current situation and dutifully gone through the procedure."
   },
   {
-    "message": "If that's the case, she couldn't afford to show me a card with a date written on it from after his disappearance."
+    "message": "If that's the case, she couldn't afford to show me a card with a date written on it from after her disappearance."
   },
   {
-    "message": "It's pure speculation, but if I'm right, it means Azel came here after he vanished."
+    "message": "It's pure speculation, but if I'm right, it means Azel came here after she vanished."
   },
   {
     "message": "And Melilot-san is hiding that fact."
@@ -522,15 +522,15 @@
   },
   {
     "name": "Melilot",
-    "message": "「For the time being, I told them it was lost, though」"
+    "message": "「For the time being, I told them it was lost, though.」"
   },
   {
     "name": "Azel",
-    "message": "「...Synn is no fool」"
+    "message": "「...Synn is no fool.」"
   },
   {
     "name": "Synn",
-    "message": "「Sorry, I'm coming in」"
+    "message": "「Sorry, I'm coming in.」"
   },
   {
     "message": "I unlock the door with the spare key."
@@ -546,33 +546,33 @@
     "message": "A bleak, bare room, just as before."
   },
   {
-    "message": "From the looks of it, his uniform was still there, but his everyday clothes were gone."
+    "message": "From the looks of it, her uniform was still there, but her everyday clothes were gone."
   },
   {
     "name": "Synn",
-    "message": "「For all he said about it... he actually liked it」"
+    "message": "「For all she said about it... she actually liked it.」"
   },
   {
-    "message": "In the corner of the room sat his Leica and several rolls of spare film."
+    "message": "In the corner of the room sat her Leica and several rolls of spare film."
   },
   {
     "name": "Synn",
-    "message": "「He even left his Leica behind」"
+    "message": "「She even left her Leica behind.」"
   },
   {
-    "message": "His futon was neatly put away, too."
+    "message": "Her futon was neatly put away, too."
   },
   {
-    "message": "I only took a quick glance, but it seemed like his underwear had dwindled as well."
+    "message": "I only took a quick glance, but it seemed like her underwear had dwindled as well."
   },
   {
-    "message": "He'd walked out taking only his everyday clothes and underwear."
+    "message": "She'd walked out taking only her everyday clothes and underwear."
   },
   {
     "message": "The premonition that Azel wouldn't come back grew stronger. I couldn't shake it."
   },
   {
-    "message": "I tried looking for anything that might tell me where he went, but the trash can was empty."
+    "message": "I tried looking for anything that might tell me where she went, but the trash can was empty."
   },
   {
     "message": "The small desk drawer was empty too. Even if I wanted to look for books, there wasn't a bookshelf."
@@ -581,14 +581,14 @@
     "message": "With no furniture, there wasn't anything lying behind a cabinet or table either."
   },
   {
-    "message": "There wasn't a single clue pointing to his destination."
+    "message": "There wasn't a single clue pointing to her destination."
   },
   {
     "message": "If this were one of those TV suspense dramas Nanaka gives me the synopses for,"
   },
   {
     "name": "Synn",
-    "message": "「There'd be a timetable, a map, or a train ticket lying around--casually, yet conspicuously」"
+    "message": "「There'd be a timetable, a map, or a train ticket lying around--casually, yet conspicuously.」"
   },
   {
     "message": "The handful of photos taped to the wall hadn't changed since last time either."
@@ -647,7 +647,7 @@
     "message": "No. That's not it."
   },
   {
-    "message": "Firing a flash would give away his location immediately."
+    "message": "Firing a flash would give away her location immediately."
   },
   {
     "message": "And on top of that, the Demons weren't in a panic."
@@ -680,7 +680,7 @@
   },
   {
     "name": "Synn",
-    "message": "「Oh... this is」"
+    "message": "「Oh... this is.」"
   },
   {
     "message": "It was a photo of Pasta."
